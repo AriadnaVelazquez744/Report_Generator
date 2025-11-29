@@ -263,6 +263,59 @@ def create_simulated_users():
                 'y técnicas ancestrales de pintura y cerámica.'
             )
         },
+        {
+            'name': 'Roberto - Analista Político Progresista',
+            'profile_text': (
+                'Sigo de cerca la política nacional e internacional con un enfoque progresista. '
+                'Me interesan los derechos humanos, la justicia social, la igualdad de género '
+                'y los movimientos de izquierda. Analizo elecciones, campañas electorales, '
+                'debates legislativos y políticas públicas. Critico la corrupción, el autoritarismo '
+                'y las violaciones a libertades civiles. Apoyo reformas sociales, redistribución '
+                'de la riqueza, derechos laborales y protección de minorías. Me preocupan '
+                'los conflictos armados, la migración forzada y los refugiados. Valoro la '
+                'democracia participativa, el activismo ciudadano y la transparencia gubernamental.'
+            )
+        },
+        {
+            'name': 'Patricia - Economista Conservadora',
+            'profile_text': (
+                'Soy economista especializada en política fiscal, mercados y libre empresa. '
+                'Me interesan los tratados de libre comercio, inversión extranjera, '
+                'reformas tributarias y desregulación económica. Sigo indicadores financieros, '
+                'bolsas de valores, inflación y políticas monetarias. Critico el exceso '
+                'de gasto público, subsidios ineficientes y burocracia estatal. Apoyo la '
+                'reducción de impuestos, privatizaciones y emprendimiento privado. '
+                'Analizo crisis económicas, deuda pública y políticas de austeridad. '
+                'Valoro la responsabilidad fiscal, el equilibrio presupuestario y la estabilidad macroeconómica.'
+            )
+        },
+        {
+            'name': 'Andrés - Activista de Derechos Civiles',
+            'profile_text': (
+                'Me dedico a la defensa de derechos humanos y libertades fundamentales. '
+                'Sigo casos de represión política, censura, persecución a periodistas '
+                'y violaciones a la libertad de expresión. Denuncio abusos policiales, '
+                'tortura, desapariciones forzadas y ejecuciones extrajudiciales. Apoyo '
+                'movimientos sociales, protestas pacíficas, huelgas y manifestaciones. '
+                'Me preocupan las comunidades indígenas, afrodescendientes, LGBTQ+ y '
+                'personas con discapacidad. Promuevo la justicia restaurativa, reformas '
+                'penitenciarias y abolición de la pena de muerte. Valoro la independencia '
+                'judicial, el debido proceso y la rendición de cuentas.'
+            )
+        },
+        {
+            'name': 'Elena - Observadora de Relaciones Internacionales',
+            'profile_text': (
+                'Analizo la geopolítica, diplomacia y conflictos internacionales. '
+                'Me interesan las negociaciones de paz, acuerdos comerciales multilaterales, '
+                'sanciones económicas y crisis diplomáticas. Sigo organismos internacionales '
+                'como la ONU, OEA, Unión Europea y OTAN. Me preocupan guerras, terrorismo, '
+                'armas nucleares y proliferación armamentista. Estudio migraciones masivas, '
+                'crisis humanitarias y operaciones de ayuda internacional. Analizo el rol '
+                'de potencias mundiales como Estados Unidos, China, Rusia y la Unión Europea. '
+                'Valoro el multilateralismo, la cooperación internacional y el derecho internacional humanitario.'
+            )
+        },
     ]
     return users
 
@@ -324,10 +377,17 @@ def main(nlp):
     print("\n👥 Creando usuarios simulados...")
     simulated_users = create_simulated_users()
     
-    # Inicializar componentes de recomendación
+    # Calcular frecuencias de categorías para boost de categorías raras
+    print("\n📊 Calculando frecuencias de categorías...")
+    category_counts = {}
+    for article in articles:
+        for cat in article['categories']:
+            category_counts[cat] = category_counts.get(cat, 0) + 1
+    
+    # Inicializar componentes de recomendación con frecuencias
     profile_vectorizer = UserProfileVectorizer(news_vectorizer)
     profile_manager = UserProfileManager(profile_vectorizer)
-    matcher = NewsMatcher()
+    matcher = NewsMatcher(category_frequencies=category_counts)
     
     # Inicializar resumidores
     base_summarizer = TextRankSummarizer(language="spanish")
@@ -389,16 +449,7 @@ def main(nlp):
     print("📊 ESTADÍSTICAS GENERALES")
     print("=" * 80)
     
-    # Categorías más comunes en artículos
-    category_counts = {}
-    for article in articles:
-        for cat in article['categories']:
-            category_counts[cat] = category_counts.get(cat, 0) + 1
     
-    print("\n🏆 Top 10 categorías más frecuentes en artículos:")
-    sorted_cats = sorted(category_counts.items(), key=lambda x: x[1], reverse=True)[:10]
-    for cat, count in sorted_cats:
-        print(f"   {cat}: {count} artículos")
     
     print(f"\n📁 Reportes PDF guardados en: {pdf_output_dir}/")
     print("\n✅ Sistema completado exitosamente!")

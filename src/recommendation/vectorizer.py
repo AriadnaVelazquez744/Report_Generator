@@ -10,11 +10,11 @@ logger = logging.getLogger(__name__)
 
 
 class NewsVectorizer:
-    """Vectorizador de noticias usando TF-IDF"""
+    """Vectorizador de noticias usando TF-IDF mejorado"""
     
     def __init__(self, max_features: int = 5000, ngram_range: tuple = (1, 2)):
         """
-        Inicializa el vectorizador
+        Inicializa el vectorizador con parámetros optimizados
         
         Args:
             max_features: Número máximo de features
@@ -24,7 +24,12 @@ class NewsVectorizer:
             max_features=max_features,
             ngram_range=ngram_range,
             stop_words=None,  # Ya se eliminan en preprocesamiento
-            lowercase=True
+            lowercase=True,
+            # Parámetros adicionales para mejor representación:
+            min_df=2,  # Ignorar términos que aparecen en menos de 2 documentos
+            max_df=0.85,  # Ignorar términos que aparecen en más del 85% de documentos
+            sublinear_tf=True,  # Usar 1 + log(tf) en vez de tf (reduce impacto de frecuencias altas)
+            norm='l2',  # Normalización L2 para cosine similarity
         )
         self.fitted = False
     
@@ -157,7 +162,7 @@ class NewsVectorizer:
 
 
 class UserProfileVectorizer:
-    """Vectorizador de perfiles de usuario"""
+    """Vectorizador de perfiles de usuario con expansión de categorías"""
     
     def __init__(self, news_vectorizer: NewsVectorizer):
         """
@@ -170,7 +175,10 @@ class UserProfileVectorizer:
     
     def vectorize_profile(self, profile_text: str, categories: Optional[List[str]] = None) -> np.ndarray:
         """
-        Vectoriza un perfil de usuario
+        Vectoriza un perfil de usuario con expansión de categorías
+        
+        Las categorías detectadas se añaden al texto para reforzar
+        los términos relevantes en el vector TF-IDF.
         
         Args:
             profile_text: Texto del perfil del usuario
@@ -179,11 +187,16 @@ class UserProfileVectorizer:
         Returns:
             Vector del perfil
         """
-        # Usar el mismo vectorizador que las noticias
-        vector = self.news_vectorizer.vectorize_article(profile_text)
+        # Expandir el texto con las categorías (repetidas para darles peso)
+        expanded_text = profile_text
         
-        # Las categorías podrían usarse para ponderar el vector
-        # Por ahora, solo retornamos el vector basado en texto
+        if categories:
+            # Añadir categorías como términos adicionales (2 veces para refuerzo)
+            category_text = ' '.join(categories) * 2
+            expanded_text = f"{profile_text} {category_text}"
+        
+        # Usar el mismo vectorizador que las noticias
+        vector = self.news_vectorizer.vectorize_article(expanded_text)
         
         return vector
 
