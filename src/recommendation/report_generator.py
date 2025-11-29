@@ -72,12 +72,14 @@ class ReportGenerator:
                 'score': score,
                 'justification': {
                     'matching_categories': justification.get('matching_categories', []),
+                    'matching_entities': justification.get('matching_entities', []),
                     'article_categories': justification.get('article_categories', []),
                     'sentiment': justification.get('sentiment'),
                     'score_breakdown': justification.get('score', 0)
                 },
                 'date': article.get('source_metadata', {}).get('date'),
-                'tags': article.get('tags', [])
+                'tags': article.get('tags', []),
+                'entities': article.get('entidades', [])
             }
             
             report_items.append(report_item)
@@ -86,6 +88,7 @@ class ReportGenerator:
             'generated_at': datetime.utcnow().isoformat(),
             'user_profile': {
                 'categories': user_categories,
+                'entities': user_profile.get('entities', []),
                 'profile_text': user_profile.get('profile_text', '')
             },
             'total_articles': len(matched_articles),
@@ -263,18 +266,29 @@ class ReportGenerator:
                 profile_text = user_profile.get('profile_text', '')
                 if profile_text:
                     story.append(Paragraph(f"<i>{profile_text}</i>", profile_style))
-                    story.append(Spacer(1, 8))
+                    story.append(Spacer(1, 12))
                 
                 # Categorías de interés
                 categories = user_profile.get('categories', [])
                 if categories:
-                    story.append(Paragraph("<b>Categorías de Interés:</b>", category_style))
+                    story.append(Paragraph("<b>🏷️  Categorías de Interés:</b>", category_style))
                     # Mostrar las primeras 15 categorías más relevantes
                     categories_display = categories[:15]
                     categories_text = ", ".join(categories_display)
                     if len(categories) > 15:
                         categories_text += f" <i>(+{len(categories) - 15} más)</i>"
                     story.append(Paragraph(categories_text, category_style))
+                    story.append(Spacer(1, 8))
+                
+                # Entidades de interés
+                entities = user_profile.get('entities', [])
+                if entities:
+                    story.append(Paragraph("<b>👤 Entidades Mencionadas en el Perfil:</b>", category_style))
+                    entity_texts = [f"{e['text']} ({e['label']})" for e in entities[:10]]
+                    entities_display = ", ".join(entity_texts)
+                    if len(entities) > 10:
+                        entities_display += f" <i>(+{len(entities) - 10} más)</i>"
+                    story.append(Paragraph(entities_display, category_style))
                     story.append(Spacer(1, 12))
             
             
@@ -287,7 +301,7 @@ class ReportGenerator:
             # Artículos
             for i, article in enumerate(report['articles'], 1):
                 # Título del artículo
-                title_text = f"{i}. {article['title']}"
+                title_text = f"{i}. {article['title'].replace("-"," ").replace("teleSUR",'')}"
                 story.append(Paragraph(title_text, article_title_style))
                 
                 # Metadata
@@ -309,10 +323,24 @@ class ReportGenerator:
                 story.append(Paragraph("<b>Resumen:</b>", summary_style))
                 story.append(Paragraph(article['summary'], summary_style))
                 
+                # Entidades mencionadas en el artículo
+                entities = article.get('entities', [])
+                if entities:
+                    entity_texts = [f"{e['text']}" for e in entities[:8]]
+                    entities_str = ", ".join(entity_texts)
+                    if len(entities) > 8:
+                        entities_str += f" <i>(+{len(entities) - 8} más)</i>"
+                    story.append(Paragraph(f"<b>🏷️  Entidades mencionadas:</b> {entities_str}", meta_style))
+                
                 # Categorías coincidentes
                 if article['justification']['matching_categories']:
                     categories_text = ", ".join(article['justification']['matching_categories'])
-                    story.append(Paragraph(f"<b>Categorías coincidentes:</b> {categories_text}", meta_style))
+                    story.append(Paragraph(f"<b>✓ Categorías coincidentes:</b> {categories_text}", category_style))
+                
+                # Entidades coincidentes (relevante para el usuario)
+                if article['justification'].get('matching_entities'):
+                    matching_entities_text = ", ".join(article['justification']['matching_entities'])
+                    story.append(Paragraph(f"<b>⭐ Entidades de tu interés:</b> {matching_entities_text}", category_style))
                 
                 # URL
                 url_text = f"<b>URL:</b> <link href='{article['url']}'>{article['url']}</link>"
@@ -321,7 +349,7 @@ class ReportGenerator:
                 # Separador entre artículos
                 if i < len(report['articles']):
                     story.append(Spacer(1, 20))
-                    story.append(Paragraph("─" * 80, meta_style))
+                    story.append(Paragraph("─" * 60, meta_style))
                     story.append(Spacer(1, 10))
             
             # Generar PDF

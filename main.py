@@ -8,7 +8,10 @@ from src.nlp.preprocessing import TextPreprocessor
 from src.nlp.regex_annotator import RegexAnnotator
 import os 
 import json
+import numpy as np
+import spacy
 
+nlp  = spacy.load('es_core_news_lg')
 
 path = 'Data_articles'
 data_dirs = [x for x in os.listdir(path) if not x.startswith(".")]
@@ -33,53 +36,89 @@ def load_raw_data(limit=None):
     return all_data
 
 
-def prepare_articles(raw_data, text_processor, annotator, news_vectorizer):
+def process_single_article(args):
+    """Procesa un solo artículo (para paralelización con threading)"""
+    idx, article_data, nlp, text_processor, annotator = args
+    
+    try:
+        text = article_data.get('text', '')
+        if not text:
+            return None
+        
+        # Procesar con spaCy
+        doc = nlp(text)
+        
+        # Extraer entidades
+        current_ents = [{'text': e.text, 'label': e.label_} for e in doc.ents]
+        
+        # Anotar con regex
+        annotations = annotator.annotate(text)
+        
+        # Preprocesar texto
+        clean_tokens = text_processor.preprocess(text)
+        clean_text = ' '.join(clean_tokens)
+        
+        return {
+            'id': idx,
+            'title': article_data.get('title', 'Sin título'),
+            'text': text,
+            'clean_text': clean_text,
+            'categories': annotations['categories'],
+            'entidades': current_ents,
+            'section': article_data.get('section', 'General'),
+            'tags': article_data.get('tags', []),
+            'url': article_data.get('url', ''),
+            'source_metadata': article_data.get('source_metadata', {}),
+        }
+    except Exception as e:
+        print(f"⚠️ Error procesando artículo {idx}: {e}")
+        return None
+
+
+def prepare_articles(raw_data, text_processor, annotator, news_vectorizer, nlp):
     """
     Prepara artículos: extrae texto, categoriza con regex, limpia y vectoriza
+    Usa ThreadPoolExecutor para paralelización real
     
     Returns:
         Lista de artículos procesados con vectores y metadatos
     """
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    import tqdm
+    import multiprocessing
+    
+    print(f"\nProcesando {len(raw_data)} artículos...")
+    
+    # Preparar argumentos para cada artículo
+    tasks = [(i, article_data, nlp, text_processor, annotator) 
+             for i, article_data in enumerate(raw_data)]
+    
     articles = []
     clean_texts = []
     
-    print(f"\n📰 Procesando {len(raw_data)} artículos...")
-    import tqdm 
-    for i, article_data in enumerate(tqdm.tqdm(raw_data)):
-        try:
-            # Extraer texto
-            text = article_data.get('text', '')
-            if not text:
-                continue
-            
-            # Anotar con regex para extraer categorías
-            annotations = annotator.annotate(text)
-            
-            # Preprocesar texto
-            clean_tokens = text_processor.preprocess(text)
-            clean_text = ' '.join(clean_tokens)
-            clean_texts.append(clean_text)
-            
-            # Guardar artículo procesado (sin vector aún)
-            articles.append({
-                'id': i,
-                'title': article_data.get('title', 'Sin título'),
-                'text': text,
-                'clean_text': clean_text,
-                'categories': annotations['categories'],
-                'section': article_data.get('section', 'General'),
-                'tags': article_data.get('tags', []),
-                'url': article_data.get('url', ''),
-                'source_metadata': article_data.get('source_metadata', {}),
-            })
-            
-        except Exception as e:
-            continue
+    
+    num_workers = multiprocessing.cpu_count()
+    print(f"Procesando en paralelo con {num_workers} threads...")
+    
+    with ThreadPoolExecutor(max_workers=num_workers) as executor:
+        # Enviar todas las tareas
+        futures = {executor.submit(process_single_article, task): task[0] 
+                   for task in tasks}
+        
+        # Recopilar resultados con barra de progreso
+        for future in tqdm.tqdm(as_completed(futures), total=len(futures)):
+            result = future.result()
+            if result:
+                articles.append(result)
+                clean_texts.append(result['clean_text'])
+    
+    # Ordenar por ID original
+    articles.sort(key=lambda x: x['id'])
     
     print(f"✅ {len(articles)} artículos procesados exitosamente")
     
     # Vectorizar todos los textos limpios
-    print(f"\n🔢 Vectorizando artículos con TF-IDF...")
+    print(f"\nVectorizando artículos con TF-IDF...")
     article_matrix = news_vectorizer.fit_transform0(clean_texts)
     print(f"✅ Matriz de artículos: {article_matrix.shape}")
     
@@ -90,22 +129,76 @@ def prepare_articles(raw_data, text_processor, annotator, news_vectorizer):
     return articles
 
 
-def save_processed_articles(articles, filepath='processed_articles.json'):
-    """Guarda los artículos procesados en un archivo JSON"""
+def save_processed_articles(articles, filepath='processed_articles.json', vectorizer=None):
+    """Guarda los artículos procesados y el vectorizador en un único archivo JSON"""
     print(f"\n💾 Guardando artículos procesados en {filepath}...")
+    
+    data = {
+         'vectorizer': vectorizer.to_dict() if vectorizer else {},
+        'articles': articles
+       
+    }
+
+    def make_json_serializable(obj):
+        """Recursively convert numpy types and other non-JSON types to native Python types."""
+        # Numpy scalar
+        if isinstance(obj, (np.integer,)):
+            return int(obj)
+        if isinstance(obj, (np.floating,)):
+            return float(obj)
+        if isinstance(obj, (np.ndarray,)):
+            return obj.tolist()
+
+        # Basic types
+        if isinstance(obj, (str, int, float, bool)) or obj is None:
+            return obj
+
+        # Datetime
+        try:
+            from datetime import datetime
+            if isinstance(obj, datetime):
+                return obj.isoformat()
+        except Exception:
+            pass
+
+        # Dict
+        if isinstance(obj, dict):
+            return {str(k): make_json_serializable(v) for k, v in obj.items()}
+
+        # Iterable (list/tuple)
+        if isinstance(obj, (list, tuple)):
+            return [make_json_serializable(v) for v in obj]
+
+        # Fallback: try to cast to string
+        try:
+            return str(obj)
+        except Exception:
+            return None
+
+    serializable_data = make_json_serializable(data)
+
     with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(articles, f, ensure_ascii=False, indent=2)
+        json.dump(serializable_data, f, ensure_ascii=False, indent=2)
     print(f"✅ Artículos guardados exitosamente")
 
 
 def load_processed_articles(filepath='processed_articles.json'):
-    """Carga los artículos procesados desde un archivo JSON"""
+    """Carga los artículos procesados y vectorizador desde un archivo JSON"""
     if os.path.exists(filepath):
         print(f"\n📂 Cargando artículos procesados desde {filepath}...")
         with open(filepath, 'r', encoding='utf-8') as f:
-            articles = json.load(f)
+            data = json.load(f)
+        
+        # Compatibilidad con formato antiguo (solo lista de artículos)
+        if isinstance(data, list):
+            print(f"✅ {len(data)} artículos cargados desde cache (formato antiguo)")
+            return {'articles': data, 'vectorizer_data': None}
+        
+        articles = data.get('articles', [])
+        vectorizer_data = data.get('vectorizer', {})
         print(f"✅ {len(articles)} artículos cargados desde cache")
-        return articles
+        
+        return {'articles': articles, 'vectorizer_data': vectorizer_data}
     return None
 
 
@@ -174,7 +267,7 @@ def create_simulated_users():
     return users
 
 
-def main():
+def main(nlp):
 
     print("=" * 80)
     print("SISTEMA DE RECOMENDACIÓN DE NOTICIAS PERSONALIZADO")
@@ -184,26 +277,49 @@ def main():
     text_processor = TextPreprocessor(use_spacy=False)
     annotator = RegexAnnotator()
     
+    # Inicializar vectorizador de noticias (necesario siempre para perfiles de usuario)
+    news_vectorizer = NewsVectorizer(max_features=3000, ngram_range=(1, 2))
+    
     # Intentar cargar artículos procesados desde cache
     processed_cache_file = 'processed_articles.json'
-    articles = load_processed_articles(processed_cache_file)
+    cache_data = load_processed_articles(processed_cache_file)
     
-    if articles is None:
+    if cache_data is None:
         # No existe cache, procesar artículos desde cero
         print("\n📂 Cargando artículos crudos...")
         raw_data = load_raw_data()  # Cambia el limit o quítalo para cargar todos
         print(f"✅ {len(raw_data)} artículos crudos cargados")
         
-        # Inicializar vectorizador de noticias
-        news_vectorizer = NewsVectorizer(max_features=3000, ngram_range=(1, 2))
-        
         # Preparar artículos: categorizar, limpiar y vectorizar
-        articles = prepare_articles(raw_data, text_processor, annotator, news_vectorizer)
+        articles = prepare_articles(raw_data, text_processor, annotator, news_vectorizer, nlp)
         
         # Guardar en cache para futuras ejecuciones
-        save_processed_articles(articles, processed_cache_file)
-    
-    
+        save_processed_articles(articles, processed_cache_file, vectorizer=news_vectorizer)
+    else:
+        # Cargar artículos desde cache
+        articles = cache_data['articles']
+        vectorizer_data = cache_data['vectorizer_data']
+        
+        if vectorizer_data:
+            # Cargar vectorizador desde datos en JSON
+            print("\n🔧 Restaurando vectorizador desde cache...")
+            news_vectorizer = NewsVectorizer.from_dict(vectorizer_data)
+            if news_vectorizer:
+                print("✅ Vectorizador restaurado")
+            else:
+                # Fallback si falla la deserialización
+                print("⚠️  Error restaurando vectorizador, reajustando...")
+                clean_texts = [article['clean_text'] for article in articles]
+                news_vectorizer = NewsVectorizer(max_features=3000, ngram_range=(1, 2))
+                news_vectorizer.fit0(clean_texts)
+                print("✅ Vectorizador ajustado")
+        else:
+            # Formato antiguo sin vectorizador, necesitamos ajustar
+            print("\n🔧 Ajustando vectorizador con artículos del cache...")
+            clean_texts = [article['clean_text'] for article in articles]
+            news_vectorizer.fit0(clean_texts)
+            print("✅ Vectorizador ajustado")
+
     # Crear perfiles de usuarios simulados
     print("\n👥 Creando usuarios simulados...")
     simulated_users = create_simulated_users()
@@ -237,10 +353,11 @@ def main():
         print(f"{'='*80}")
         print(f"📝 Perfil: {user['profile_text'][:100]}...")
         
-        # Crear perfil del usuario
-        user_profile = profile_manager.create_profile(user['profile_text'])
+        # Crear perfil del usuario con extracción de entidades
+        user_profile = profile_manager.create_profile(user['profile_text'], nlp=nlp)
         
         print(f"\n🏷️  Categorías de interés detectadas: {user_profile['categories'][:8]}")
+        print(f"👤 Entidades de interés: {[e['text'] for e in user_profile.get('entities', [])][:10]}")
         print(f"📊 Dimensión del vector de perfil: {len(user_profile['vector'])}")
         
         # Encontrar artículos relevantes
@@ -253,10 +370,11 @@ def main():
             'report': report
         })
         
+        import time
         # Generar PDF
         # Crear nombre de archivo seguro
         safe_name = user['name'].replace(' ', '_').replace('-', '_').replace('/', '_')
-        pdf_filename = f"{pdf_output_dir}/reporte_{safe_name}.pdf"
+        pdf_filename = f"{pdf_output_dir}/reporte_{safe_name}_{int(time.time())}.pdf"
         
         print(f"\n📄 Generando PDF...")
         if report_generator.generate_pdf(report, pdf_filename, user['name']):
@@ -287,4 +405,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(nlp)

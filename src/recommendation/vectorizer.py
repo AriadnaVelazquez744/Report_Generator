@@ -92,6 +92,68 @@ class NewsVectorizer:
         if not self.fitted:
             return []
         return self.vectorizer.get_feature_names_out().tolist()
+    
+    def get_vocabulary(self) -> Dict:
+        """Obtiene el vocabulario del vectorizador"""
+        if not self.fitted:
+            return {}
+        return self.vectorizer.vocabulary_
+    
+    def set_vocabulary(self, vocabulary: Dict):
+        """Establece el vocabulario del vectorizador sin reentrenar"""
+        self.vectorizer.vocabulary_ = vocabulary
+        self.fitted = True
+    
+    def save(self, filepath: str):
+        """Guarda el vectorizador completo en un archivo pickle"""
+        import pickle
+        with open(filepath, 'wb') as f:
+            pickle.dump(self.vectorizer, f)
+    
+    @classmethod
+    def load(cls, filepath: str, max_features: int = 5000, ngram_range: tuple = (1, 2)):
+        """Carga un vectorizador desde un archivo pickle"""
+        import pickle
+        instance = cls(max_features=max_features, ngram_range=ngram_range)
+        with open(filepath, 'rb') as f:
+            instance.vectorizer = pickle.load(f)
+        instance.fitted = True
+        return instance
+    
+    def to_dict(self) -> Dict:
+        """Serializa el vectorizador a un diccionario JSON-compatible"""
+        import pickle
+        import base64
+        if not self.fitted:
+            return {}
+        # Serializar el vectorizador completo a bytes y luego a base64
+        vectorizer_bytes = pickle.dumps(self.vectorizer)
+        return {
+            'vectorizer_b64': base64.b64encode(vectorizer_bytes).decode('ascii'),
+            'max_features': self.vectorizer.max_features,
+            'ngram_range': self.vectorizer.ngram_range
+        }
+    
+    @classmethod
+    def from_dict(cls, data: Dict):
+        """Deserializa el vectorizador desde un diccionario"""
+        import pickle
+        import base64
+        if not data or 'vectorizer_b64' not in data:
+            return None
+        
+        # Decodificar de base64 y deserializar
+        vectorizer_bytes = base64.b64decode(data['vectorizer_b64'])
+        vectorizer_obj = pickle.loads(vectorizer_bytes)
+        
+        # Crear instancia y asignar
+        instance = cls(
+            max_features=data.get('max_features', 5000),
+            ngram_range=tuple(data.get('ngram_range', (1, 2)))
+        )
+        instance.vectorizer = vectorizer_obj
+        instance.fitted = True
+        return instance
 
 
 class UserProfileVectorizer:

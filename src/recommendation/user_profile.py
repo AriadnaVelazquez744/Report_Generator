@@ -24,12 +24,13 @@ class UserProfileManager:
         self.regex_annotator = RegexAnnotator()
         self.preprocessor = TextPreprocessor()
     
-    def create_profile(self, profile_text: str) -> Dict:
+    def create_profile(self, profile_text: str, nlp=None) -> Dict:
         """
         Crea un perfil de usuario desde texto
         
         Args:
             profile_text: Texto descriptivo del perfil
+            nlp: Modelo de spaCy para extracción de entidades (opcional)
             
         Returns:
             Diccionario con información del perfil
@@ -41,6 +42,12 @@ class UserProfileManager:
         annotations = self.regex_annotator.annotate(profile_text)
         categories = annotations.get('categories', [])
         
+        # Extraer entidades de interés del usuario si hay nlp disponible
+        user_entities = []
+        if nlp:
+            doc = nlp(profile_text)
+            user_entities = [{'text': ent.text, 'label': ent.label_} for ent in doc.ents]
+        
         # Vectorizar
         vector = self.vectorizer.vectorize_profile(profile_text, categories)
         
@@ -48,6 +55,7 @@ class UserProfileManager:
             'profile_text': profile_text,
             'preprocessed_text': preprocessed,
             'categories': categories,
+            'entities': user_entities,
             'vector': vector.tolist(),
             'annotations': annotations
         }

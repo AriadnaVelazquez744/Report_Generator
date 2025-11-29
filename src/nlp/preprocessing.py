@@ -41,11 +41,11 @@ except LookupError:
 try:
     nlp_spacy = spacy.load("es_core_news_lg")
 except OSError:
-    logger.warning("Modelo es_core_news_lg no encontrado. Usando es_core_news_sm")
+    logger.warning("Modelo es_core_news_lg no encontrado. Intentando con es_core_news_sm")
     try:
         nlp_spacy = spacy.load("es_core_news_sm")
     except OSError:
-        logger.error("No se encontró ningún modelo de spaCy en español. Por favor instálalo con: python -m spacy download es_core_news_sm")
+        logger.error("No se encontró ningún modelo de spaCy en español. Por favor instálalo con: python -m spacy download es_core_news_lg")
         nlp_spacy = None
 
 

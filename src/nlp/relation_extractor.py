@@ -17,7 +17,7 @@ except OSError:
     try:
         nlp = spacy.load("es_core_news_sm")
     except OSError:
-        logger.error("No se encontró modelo de spaCy. Por favor instálalo con: python -m spacy download es_core_news_sm")
+        logger.error("No se encontró modelo de spaCy. Por favor instálalo con: python -m spacy download es_dep_news_trf")
         nlp = None
 
 LABEL_MAP = {"PER": "Persona", "ORG": "Organizacion", "LOC": "Lugar"}
