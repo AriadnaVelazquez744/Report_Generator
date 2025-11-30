@@ -36,6 +36,27 @@ def load_raw_data(limit=None):
     return all_data
 
 
+def clean_article_noise(text: str) -> str:
+    """Elimina patrones de ruido como 'LEA TAMBIÉN:."""
+    import re
+    if not text:
+        return ""
+    
+    # Patrones de referencias a otros artículos
+    patterns = [
+        r'LEA\s+TAMBIÉN\s*[:.].*?(?=\.\s|$)',
+      
+    ]
+    
+    for pattern in patterns:
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+    
+    # Limpiar espacios múltiples
+    text = re.sub(r'\s+', ' ', text).strip()
+    
+    return text
+
+
 def process_single_article(args):
     """Procesa un solo artículo (para paralelización con threading)"""
     idx, article_data, nlp, text_processor, annotator = args
@@ -44,6 +65,9 @@ def process_single_article(args):
         text = article_data.get('text', '')
         if not text:
             return None
+        
+        # Limpiar ruido antes de procesar
+        text = clean_article_noise(text)
         
         # Procesar con spaCy
         doc = nlp(text)
@@ -203,117 +227,83 @@ def load_processed_articles(filepath='processed_articles.json'):
 
 
 def create_simulated_users():
-    """Crea perfiles de usuarios simulados con diferentes intereses basados en categorías regex"""
+    """Crea perfiles de usuarios simulados enfocados en política latinoamericana"""
     users = [
         {
-            'name': 'Sofía - Crítica de Arte',
+            'name': 'María - Analista de Política Latinoamericana',
             'profile_text': (
-                'Soy una apasionada del arte contemporáneo, las exposiciones y las galerías. '
-                'Me interesan las obras de artistas emergentes, el muralismo, la escultura y '
-                'la fotografía artística. Sigo festivales culturales, bienales de arte, '
-                'inauguraciones de museos y eventos de patrimonio cultural. Me fascina el '
-                'teatro, la danza, el cine de autor y las manifestaciones artísticas urbanas. '
-                'Disfruto la música clásica, jazz, y expresiones folclóricas tradicionales.'
+                'Sigo de cerca los procesos políticos en América Latina, especialmente en Venezuela, '
+                'Cuba, Nicaragua, Bolivia y México. Me interesan los gobiernos progresistas, '
+                'el socialismo del siglo XXI y las políticas de izquierda. Analizo elecciones, '
+                'reformas constitucionales, asambleas nacionales y decisiones del poder ejecutivo. '
+                'Sigo a líderes como Maduro, Díaz-Canel, Petro, AMLO y Lula. Me preocupan '
+                'los golpes de estado, la injerencia extranjera y las sanciones de Estados Unidos. '
+                'Apoyo la soberanía nacional, la integración regional y organismos como CELAC y ALBA.'
             )
         },
         {
-            'name': 'Diego - Ambientalista',
+            'name': 'Carlos - Corresponsal de Conflictos Internacionales',
             'profile_text': (
-                'Me dedico a la conservación ambiental y protección de ecosistemas. '
-                'Sigo temas de biodiversidad, especies en peligro de extinción, reservas naturales '
-                'y parques nacionales. Me preocupan los desastres naturales como terremotos, '
-                'inundaciones y huracanes. Denuncio la deforestación, contaminación de ríos, '
-                'derrames de petróleo y el cambio climático. Apoyo energías renovables, '
-                'reciclaje y desarrollo sostenible. Me interesan proyectos de reforestación '
-                'y la protección de océanos y recursos hídricos.'
+                'Cubro conflictos armados, guerras y crisis geopolíticas a nivel mundial. '
+                'Me especializo en el conflicto Israel-Palestina, la guerra en Ucrania, '
+                'tensiones en Medio Oriente y conflictos en África. Denuncio crímenes de guerra, '
+                'bombardeos a civiles, uso de armas prohibidas y violaciones del derecho internacional. '
+                'Sigo las acciones de la ONU, el Consejo de Seguridad, la Corte Penal Internacional '
+                'y organizaciones humanitarias. Me interesan los refugiados, desplazados, '
+                'crisis humanitarias y operaciones de paz. Analizo el papel de potencias como '
+                'Estados Unidos, Rusia, China e Irán en los conflictos globales.'
             )
         },
         {
-            'name': 'Laura - Educadora Cultural',
+            'name': 'Rosa - Defensora de Derechos Humanos',
             'profile_text': (
-                'Me apasiona la educación, la literatura y la promoción cultural. '
-                'Sigo lanzamientos de libros, ferias literarias, conciertos y recitales de poesía. '
-                'Me interesan programas educativos, becas, talleres artísticos y actividades '
-                'para niños y jóvenes. Apoyo bibliotecas comunitarias, centros culturales '
-                'y espacios de creación artística. Me gusta el teatro comunitario, '
-                'la música folclórica y las tradiciones ancestrales. Valoro la preservación '
-                'del patrimonio inmaterial y las lenguas indígenas.'
+                'Me dedico a documentar violaciones de derechos humanos en América Latina. '
+                'Sigo casos de represión política, presos políticos, persecución a opositores '
+                'y asesinatos de líderes sociales. Me preocupan los pueblos indígenas, '
+                'comunidades afrodescendientes, campesinos y trabajadores. Denuncio '
+                'la violencia policial, paramilitares, narcotráfico y crimen organizado. '
+                'Apoyo movimientos sociales, sindicatos, organizaciones de mujeres y colectivos LGBTQ+. '
+                'Sigo informes de Amnistía Internacional, Human Rights Watch y la CIDH. '
+                'Valoro la justicia social, la memoria histórica y la verdad sobre dictaduras pasadas.'
             )
         },
         {
-            'name': 'Martín - Fotógrafo de Naturaleza',
+            'name': 'Jorge - Economista Político',
             'profile_text': (
-                'Soy fotógrafo especializado en naturaleza, paisajes y vida silvestre. '
-                'Me apasionan los parques naturales, santuarios de fauna, volcanes y montañas. '
-                'Documento especies animales, aves migratorias, flora endémica y ecosistemas únicos. '
-                'Me interesan expediciones científicas, descubrimientos de nuevas especies '
-                'y proyectos de conservación de hábitats. Sigo fenómenos naturales, auroras, '
-                'eclipses y eventos astronómicos. Apoyo el turismo ecológico y responsable.'
+                'Analizo la economía política de América Latina y el impacto de las sanciones. '
+                'Me interesan las políticas económicas de Venezuela, Cuba y Nicaragua bajo bloqueo. '
+                'Sigo el precio del petróleo, la inflación, el tipo de cambio y la deuda externa. '
+                'Estudio el papel del FMI, Banco Mundial y las políticas de austeridad. '
+                'Me preocupan la pobreza, la desigualdad, el desempleo y la crisis alimentaria. '
+                'Apoyo la nacionalización de recursos, la reforma agraria y la soberanía económica. '
+                'Analizo tratados comerciales, inversiones chinas y rusas en la región, '
+                'y alternativas al dólar como moneda de intercambio.'
             )
         },
         {
-            'name': 'Carmen - Historiadora del Arte',
+            'name': 'Lucía - Periodista de Política Electoral',
             'profile_text': (
-                'Investigo historia del arte latinoamericano, arquitectura colonial y '
-                'patrimonio histórico. Me fascinan las restauraciones de monumentos, '
-                'excavaciones arqueológicas y descubrimientos de sitios históricos. '
-                'Estudio arte prehispánico, culturas indígenas y tradiciones artesanales. '
-                'Me interesan museos, archivos históricos, documentales culturales '
-                'y la preservación de arte sacro. Valoro el arte popular, textiles tradicionales '
-                'y técnicas ancestrales de pintura y cerámica.'
+                'Cubro procesos electorales, campañas políticas y resultados de votaciones '
+                'en toda América Latina. Me interesan las elecciones presidenciales, legislativas '
+                'y referéndums en Venezuela, Colombia, Brasil, Argentina, México y Chile. '
+                'Analizo encuestas, debates presidenciales, fraudes electorales y observación internacional. '
+                'Sigo partidos políticos de izquierda y derecha, coaliciones y alianzas. '
+                'Me preocupa la participación ciudadana, el voto electrónico y la transparencia electoral. '
+                'Documento victorias progresistas, derrotas de la derecha y cambios de gobierno. '
+                'Valoro la democracia, las instituciones electorales y el respeto al voto popular.'
             )
         },
         {
-            'name': 'Roberto - Analista Político Progresista',
+            'name': 'Fernando - Analista Antiimperialista',
             'profile_text': (
-                'Sigo de cerca la política nacional e internacional con un enfoque progresista. '
-                'Me interesan los derechos humanos, la justicia social, la igualdad de género '
-                'y los movimientos de izquierda. Analizo elecciones, campañas electorales, '
-                'debates legislativos y políticas públicas. Critico la corrupción, el autoritarismo '
-                'y las violaciones a libertades civiles. Apoyo reformas sociales, redistribución '
-                'de la riqueza, derechos laborales y protección de minorías. Me preocupan '
-                'los conflictos armados, la migración forzada y los refugiados. Valoro la '
-                'democracia participativa, el activismo ciudadano y la transparencia gubernamental.'
-            )
-        },
-        {
-            'name': 'Patricia - Economista Conservadora',
-            'profile_text': (
-                'Soy economista especializada en política fiscal, mercados y libre empresa. '
-                'Me interesan los tratados de libre comercio, inversión extranjera, '
-                'reformas tributarias y desregulación económica. Sigo indicadores financieros, '
-                'bolsas de valores, inflación y políticas monetarias. Critico el exceso '
-                'de gasto público, subsidios ineficientes y burocracia estatal. Apoyo la '
-                'reducción de impuestos, privatizaciones y emprendimiento privado. '
-                'Analizo crisis económicas, deuda pública y políticas de austeridad. '
-                'Valoro la responsabilidad fiscal, el equilibrio presupuestario y la estabilidad macroeconómica.'
-            )
-        },
-        {
-            'name': 'Andrés - Activista de Derechos Civiles',
-            'profile_text': (
-                'Me dedico a la defensa de derechos humanos y libertades fundamentales. '
-                'Sigo casos de represión política, censura, persecución a periodistas '
-                'y violaciones a la libertad de expresión. Denuncio abusos policiales, '
-                'tortura, desapariciones forzadas y ejecuciones extrajudiciales. Apoyo '
-                'movimientos sociales, protestas pacíficas, huelgas y manifestaciones. '
-                'Me preocupan las comunidades indígenas, afrodescendientes, LGBTQ+ y '
-                'personas con discapacidad. Promuevo la justicia restaurativa, reformas '
-                'penitenciarias y abolición de la pena de muerte. Valoro la independencia '
-                'judicial, el debido proceso y la rendición de cuentas.'
-            )
-        },
-        {
-            'name': 'Elena - Observadora de Relaciones Internacionales',
-            'profile_text': (
-                'Analizo la geopolítica, diplomacia y conflictos internacionales. '
-                'Me interesan las negociaciones de paz, acuerdos comerciales multilaterales, '
-                'sanciones económicas y crisis diplomáticas. Sigo organismos internacionales '
-                'como la ONU, OEA, Unión Europea y OTAN. Me preocupan guerras, terrorismo, '
-                'armas nucleares y proliferación armamentista. Estudio migraciones masivas, '
-                'crisis humanitarias y operaciones de ayuda internacional. Analizo el rol '
-                'de potencias mundiales como Estados Unidos, China, Rusia y la Unión Europea. '
-                'Valoro el multilateralismo, la cooperación internacional y el derecho internacional humanitario.'
+                'Estudio las relaciones de poder entre Estados Unidos y América Latina. '
+                'Denuncio el imperialismo, las intervenciones militares, golpes de estado '
+                'y operaciones de cambio de régimen patrocinadas por la CIA. Me interesan '
+                'las sanciones económicas contra Venezuela, Cuba, Nicaragua e Irán. '
+                'Sigo las bases militares estadounidenses, el Comando Sur y la OTAN. '
+                'Apoyo la multipolaridad, el BRICS, la cooperación Sur-Sur y la desdolarización. '
+                'Analizo el papel de China y Rusia como contrapeso a la hegemonía estadounidense. '
+                'Me preocupan los medios de comunicación occidentales y la guerra de información.'
             )
         },
     ]
@@ -377,17 +367,14 @@ def main(nlp):
     print("\n👥 Creando usuarios simulados...")
     simulated_users = create_simulated_users()
     
-    # Calcular frecuencias de categorías para boost de categorías raras
-    print("\n📊 Calculando frecuencias de categorías...")
-    category_counts = {}
-    for article in articles:
-        for cat in article['categories']:
-            category_counts[cat] = category_counts.get(cat, 0) + 1
-    
-    # Inicializar componentes de recomendación con frecuencias
+    # Inicializar componentes de recomendación
+    print("\n📊 Inicializando matcher ...")
     profile_vectorizer = UserProfileVectorizer(news_vectorizer)
     profile_manager = UserProfileManager(profile_vectorizer)
-    matcher = NewsMatcher(category_frequencies=category_counts)
+    
+    # Crear matcher desde artículos
+    matcher = NewsMatcher.from_articles(articles, vectorizer=news_vectorizer)
+    print(f"✅ Matcher inicializado con {len(articles)} artículos")
     
     # Inicializar resumidores
     base_summarizer = TextRankSummarizer(language="spanish")
@@ -416,9 +403,23 @@ def main(nlp):
         # Crear perfil del usuario con extracción de entidades
         user_profile = profile_manager.create_profile(user['profile_text'], nlp=nlp)
         
-        print(f"\n🏷️  Categorías de interés detectadas: {user_profile['categories'][:8]}")
-        print(f"👤 Entidades de interés: {[e['text'] for e in user_profile.get('entities', [])][:10]}")
-        print(f"📊 Dimensión del vector de perfil: {len(user_profile['vector'])}")
+        print(f"\n🏷️  Categorías detectadas: {user_profile['categories'][:10]}")
+        
+        # Mostrar entidades por tipo
+        entities = user_profile.get('entities', [])
+        ent_by_type = {}
+        for e in entities:
+            label = e.get('label', 'MISC')
+            if label in {'PER', 'ORG', 'GPE', 'LOC'}:
+                if label not in ent_by_type:
+                    ent_by_type[label] = []
+                ent_by_type[label].append(e['text'])
+        
+        if ent_by_type:
+            print("🔍 Entidades extraídas:")
+            for label, texts in ent_by_type.items():
+                label_name = {'PER': 'Personas', 'ORG': 'Organizaciones', 'GPE': 'Países/Ciudades', 'LOC': 'Lugares'}.get(label, label)
+                print(f"   {label_name}: {texts[:5]}")
         
         # Encontrar artículos relevantes
         matches = matcher.match_articles(user_profile, articles, top_k=10)

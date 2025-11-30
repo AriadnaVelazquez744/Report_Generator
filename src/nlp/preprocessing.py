@@ -82,6 +82,11 @@ class TextPreprocessor:
         if not isinstance(text, str):
             return ""
         
+        # Eliminar patrones de "LEA TAMBIÉN:"
+        # Ejemplo: "LEA TAMBIÉN:Argelia mediará con países africanos para resolver conflicto en RD de Congo"
+        text = re.sub(r'LEA\s+TAMBIÉN\s*[:.].*?(?=\.|$)', '', text, flags=re.IGNORECASE)
+
+        
         # Convertir a minúsculas
         text = text.lower()
         
