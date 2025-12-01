@@ -36,26 +36,6 @@ def load_raw_data(limit=None):
     return all_data
 
 
-def clean_article_noise(text: str) -> str:
-    """Elimina patrones de ruido como 'LEA TAMBIÉN:."""
-    import re
-    if not text:
-        return ""
-    
-    # Patrones de referencias a otros artículos
-    patterns = [
-        r'LEA\s+TAMBIÉN\s*[:.].*?(?=\.\s|$)',
-      
-    ]
-    
-    for pattern in patterns:
-        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
-    
-    # Limpiar espacios múltiples
-    text = re.sub(r'\s+', ' ', text).strip()
-    
-    return text
-
 
 def process_single_article(args):
     """Procesa un solo artículo (para paralelización con threading)"""
@@ -65,23 +45,19 @@ def process_single_article(args):
         text = article_data.get('text', '')
         if not text:
             return None
-        
-        # Limpiar ruido antes de procesar
-        text = clean_article_noise(text)
-        
+
+
+        clean_tokens = text_processor.preprocess(text)
+        clean_text = ' '.join(clean_tokens)
         # Procesar con spaCy
-        doc = nlp(text)
+        doc = nlp(clean_text)
         
         # Extraer entidades
         current_ents = [{'text': e.text, 'label': e.label_} for e in doc.ents]
         
         # Anotar con regex
-        annotations = annotator.annotate(text)
-        
-        # Preprocesar texto
-        clean_tokens = text_processor.preprocess(text)
-        clean_text = ' '.join(clean_tokens)
-        
+        annotations = annotator.annotate(clean_text)
+         
         return {
             'id': idx,
             'title': article_data.get('title', 'Sin título'),

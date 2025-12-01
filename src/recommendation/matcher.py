@@ -1,10 +1,11 @@
 """
-Motor de matching simplificado v5
-- Sin factor de tiempo
+Motor de matching simplificado v6
+- Factor de tiempo incluido
 - Entidades más estrictas (solo PER, ORG, LOC, GPE con longitud mínima)
 - Pesos simples y claros
 """
 import math
+from datetime import datetime, timezone
 from typing import List, Dict, Tuple, Optional, Set, TYPE_CHECKING
 from collections import Counter
 import numpy as np
@@ -223,6 +224,63 @@ class SimpleMatcher:
         # Valores < 0.1 → ~0, valores > 0.3 → ~1
         return 1 / (1 + math.exp(-10 * (sim - 0.15)))
     
+    def _calculate_time_score(self, article: Dict, half_life_days: float = 7.0) -> float:
+        """
+        Calcula score de tiempo usando decaimiento exponencial.
+        
+        Args:
+            article: Artículo con fecha en source_metadata.date
+            half_life_days: Días para que el score decaiga a la mitad (default: 7 días)
+            
+        Returns:
+            Score entre 0 y 1 (1 = hoy, decae con el tiempo)
+        """
+        # Intentar obtener la fecha del artículo
+        date_str = None
+        
+        # Buscar en source_metadata.date
+        source_meta = article.get('source_metadata', {})
+        if isinstance(source_meta, dict):
+            date_str = source_meta.get('date')
+        
+        # También buscar en campo 'date' directo
+        if not date_str:
+            date_str = article.get('date')
+        
+        if not date_str:
+            return 0.5  # Score neutral si no hay fecha
+        
+        try:
+            # Parsear fecha ISO 8601
+            if isinstance(date_str, str):
+                # Remover 'Z' y manejar timezone
+                date_str = date_str.replace('Z', '+00:00')
+                article_date = datetime.fromisoformat(date_str)
+            else:
+                return 0.5
+            
+            # Calcular días desde la publicación
+            now = datetime.now(timezone.utc)
+            
+            # Asegurar que article_date tenga timezone
+            if article_date.tzinfo is None:
+                article_date = article_date.replace(tzinfo=timezone.utc)
+            
+            days_old = (now - article_date).total_seconds() / (24 * 3600)
+            
+            # Si es del futuro (raro pero posible), score máximo
+            if days_old < 0:
+                return 1.0
+            
+            # Decaimiento exponencial: score = 0.5^(days/half_life)
+            # half_life=7 significa que después de 7 días el score es 0.5
+            decay_factor = math.pow(0.5, days_old / half_life_days)
+            
+            return decay_factor
+            
+        except (ValueError, TypeError, AttributeError):
+            return 0.5  # Score neutral si hay error
+
     def calculate_score(
         self,
         user_profile: Dict,
@@ -232,9 +290,10 @@ class SimpleMatcher:
         Calcula score de relevancia.
         
         Pesos:
-        - Semántico (TF-IDF): 50%
+        - Semántico (TF-IDF): 45%
         - Categorías: 35%
-        - Entidades: 15%
+        - Tiempo (recencia): 15%
+        - Entidades: 5%
         """
         user_vector = np.array(user_profile.get('vector', []))
         article_vector = np.array(article.get('vector', []))
@@ -251,22 +310,29 @@ class SimpleMatcher:
             article.get('categories', [])
         )
         
-        # 3. Score de entidades (solo como señal adicional, no determinante)
+        # 3. Score de tiempo (artículos recientes tienen más peso)
+        time_score = self._calculate_time_score(article)
+        
+        # 4. Score de entidades (solo como señal adicional, no determinante)
         user_ents = self._extract_quality_entities(user_profile.get('entities', []))
         article_ents = self._extract_quality_entities(article.get('entidades', []))
         entity, matching_ents = self._match_entities(user_ents, article_ents)
         
-        # Pesos fijos - entidades tienen peso bajo para evitar falsos positivos
-        # Las entidades solo dan un pequeño bonus, no determinan relevancia
-        w_semantic = 0.55
-        w_category = 0.40
+        # Pesos fijos
+        w_semantic = 0.45
+        w_category = 0.35
+        w_time = 0.15
         w_entity = 0.05  # Muy bajo - solo señal complementaria
         
-        final = w_semantic * semantic + w_category * category + w_entity * entity
+        final = (w_semantic * semantic + 
+                 w_category * category + 
+                 w_time * time_score + 
+                 w_entity * entity)
         
         details = {
             'semantic_score': round(semantic, 4),
             'category_score': round(category, 4),
+            'time_score': round(time_score, 4),
             'entity_score': round(entity, 4),
             'matching_categories': matching_cats,
             'matching_entities': matching_ents,
