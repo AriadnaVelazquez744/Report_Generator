@@ -69,23 +69,56 @@ class TextPreprocessor:
         else:
             logger.info("Usando NLTK para preprocesamiento")
     
-    def clean_text(self, text: str) -> str:
+    def remove_noise(self, text: str) -> str:
         """
-        Limpia el texto básico
+        Elimina patrones de ruido como "LEA TAMBIÉN" sin modificar mayúsculas.
+        Ideal para generar resúmenes legibles.
         
         Args:
             text: Texto a limpiar
             
         Returns:
-            Texto limpio
+            Texto sin ruido pero manteniendo formato original
         """
         if not isinstance(text, str):
             return ""
         
-        # Eliminar patrones de "LEA TAMBIÉN:"
-        # Ejemplo: "LEA TAMBIÉN:Argelia mediará con países africanos para resolver conflicto en RD de Congo"
-        text = re.sub(r'LEA\s+TAMBIÉN\s*[:.].*?(?=\.|$)', '', text, flags=re.IGNORECASE)
-
+        # Patrones más robustos para capturar todas las variantes de "LEA TAMBIÉN"
+        noise_patterns = [
+            # Variante: LEA TAMBIÉN: seguido de texto en la misma línea
+            r'LEA\s+TAMBI[EÉ]N\s*:\s*[^\n]+',
+            # Variante: LEA TAMBIÉN seguido de salto de línea y texto hasta el siguiente párrafo
+            r'LEA\s+TAMBI[EÉ]N\s*\n+[^\n]+(?:\n(?![A-Z]))*',
+            # Variante: LEA TAMBIÉN con texto hasta punto final
+            r'LEA\s+TAMBI[EÉ]N\s*:?\s*[^.!?\n]*[.!?]?',
+        ]
+        
+        for pattern in noise_patterns:
+            text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+        
+        # Limpiar saltos de línea múltiples resultantes
+        text = re.sub(r'\n{3,}', '\n\n', text)
+        
+        # Normalizar espacios múltiples
+        text = re.sub(r' {2,}', ' ', text)
+        
+        return text.strip()
+    
+    def clean_text(self, text: str) -> str:
+        """
+        Limpia el texto básico (para análisis, convierte a minúsculas)
+        
+        Args:
+            text: Texto a limpiar
+            
+        Returns:
+            Texto limpio en minúsculas
+        """
+        if not isinstance(text, str):
+            return ""
+        
+        # Primero eliminar ruido
+        text = self.remove_noise(text)
         
         # Convertir a minúsculas
         text = text.lower()

@@ -2,6 +2,7 @@
 Generador de reportes personalizados
 """
 import logging
+import re
 from typing import List, Dict, Optional
 from datetime import datetime
 from pathlib import Path
@@ -19,6 +20,41 @@ except ImportError:
     REPORTLAB_AVAILABLE = False
 
 logger = logging.getLogger(__name__)
+
+
+def _remove_noise_from_text(text: str) -> str:
+    """
+    Elimina patrones de ruido como "LEA TAMBIÉN" del texto.
+    
+    Args:
+        text: Texto a limpiar
+        
+    Returns:
+        Texto sin ruido
+    """
+    if not isinstance(text, str):
+        return ""
+    
+    # Patrones robustos para capturar todas las variantes de "LEA TAMBIÉN"
+    noise_patterns = [
+        # Variante: LEA TAMBIÉN: seguido de texto en la misma línea
+        r'LEA\s+TAMBI[EÉ]N\s*:\s*[^\n]+',
+        # Variante: LEA TAMBIÉN seguido de salto de línea y texto hasta el siguiente párrafo
+        r'LEA\s+TAMBI[EÉ]N\s*\n+[^\n]+(?:\n(?![A-Z]))*',
+        # Variante: LEA TAMBIÉN con texto hasta punto final
+        r'LEA\s+TAMBI[EÉ]N\s*:?\s*[^.!?\n]*[.!?]?',
+    ]
+    
+    for pattern in noise_patterns:
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+    
+    # Limpiar saltos de línea múltiples resultantes
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    
+    # Normalizar espacios múltiples
+    text = re.sub(r' {2,}', ' ', text)
+    
+    return text.strip()
 
 
 class ReportGenerator:
@@ -55,8 +91,9 @@ class ReportGenerator:
         report_items = []
         
         for article, score, justification in matched_articles[:max_articles]:
-            # Generar resumen personalizado
+            # Generar resumen personalizado - primero limpiar el texto de ruido
             article_text = article.get('text', '')
+            article_text = _remove_noise_from_text(article_text)
             summary = self.summarizer.summarize_for_profile(
                 article_text,
                 user_categories,
