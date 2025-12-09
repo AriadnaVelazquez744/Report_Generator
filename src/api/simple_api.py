@@ -22,6 +22,7 @@ from pydantic import BaseModel, Field
 from src.data.loader import ArticleLoader
 from src.nlp.preprocessing import TextPreprocessor
 from src.nlp.regex_annotator import RegexAnnotator
+from src.process.profile_process import create_complete_user_profile
 from src.recommendation.matcher import NewsMatcher
 from src.recommendation.report_generator import ReportGenerator
 from src.recommendation.user_profile import UserProfileManager
@@ -371,29 +372,14 @@ def register(payload: RegisterRequest) -> Dict[str, Any]:
     if any(u.get("name") == payload.name for u in users):
         raise HTTPException(status_code=400, detail="User with this name already exists")
 
-    profile_text_parts = []
-    if payload.selected_categories:
-        profile_text_parts.append("Intereses seleccionados: " + ", ".join(payload.selected_categories))
-    additional_interests_clean = (payload.additional_interests or "").strip()
-    if additional_interests_clean:
-        profile_text_parts.append("Detalle adicional: " + additional_interests_clean)
-    profile_text = ". ".join(profile_text_parts) if profile_text_parts else "Usuario sin detalles"
-
-    def _dummy_interest_pipeline(text: str) -> Dict[str, Any]:
-        # Placeholder: replace with real processing later
-        text_clean = (text or "").strip()
-        if not text_clean:
-            return {"processed_interests": "", "keywords": []}
-        return {"processed_interests": text_clean, "keywords": text_clean.split()[:5]}
-
-    processed_interests = _dummy_interest_pipeline(payload.additional_interests or "")
-
-    # Initialize profile components (doesn't load articles)
-    _ensure_profile_components()
-    
-    profile_data = _profile_manager.create_profile(profile_text, nlp=_spacy_nlp)
-    merged_categories = sorted(set(payload.selected_categories + profile_data.get("categories", [])))
-    profile_vector = _profile_vectorizer.vectorize_profile(profile_text, merged_categories).tolist()
+    # Process user profile using the improved pipeline
+    profile_data = create_complete_user_profile(
+        selected_categories=payload.selected_categories,
+        additional_interests=payload.additional_interests or "",
+        profile_manager=_profile_manager,
+        profile_vectorizer=_profile_vectorizer,
+        nlp=_spacy_nlp
+    )
 
     now = datetime.utcnow().isoformat()
     # Generate internal user number (not shown to user)
@@ -403,13 +389,13 @@ def register(payload: RegisterRequest) -> Dict[str, Any]:
         "number": number,
         "password": payload.password,
         "name": payload.name,
-        "profile_text": profile_text,
-        "categories": merged_categories,
-        "entities": profile_data.get("entities", []),
-        "vector": profile_vector,
+        "profile_text": profile_data["profile_text"],
+        "categories": profile_data["categories"],
+        "entities": profile_data["entities"],
+        "vector": profile_data["vector"],
         "created_at": now,
         "updated_at": now,
-        "additional_interests": processed_interests,
+        "additional_interests": profile_data["additional_interests"],
     }
 
     users.append(new_user)

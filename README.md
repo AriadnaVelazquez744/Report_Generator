@@ -37,7 +37,8 @@ tg_group_username=teleSURtv  # optional, defaults to "teleSURtv"
 ```
 
 **How to get Telegram API credentials:**
-1. Go to https://my.telegram.org/apps
+
+1. Go to <https://my.telegram.org/apps>
 2. Log in with your phone number
 3. Create a new application (or use existing)
 4. Copy the `api_id` and `api_hash` to your `.env` file
