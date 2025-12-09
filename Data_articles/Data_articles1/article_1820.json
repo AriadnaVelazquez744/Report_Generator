@@ -1,0 +1,703 @@
+{
+  "url": "https://www.telesurtv.net/peru-expresidente-castillo-coalicion-eleccion/",
+  "title": "Perú: expresidente Pedro Castillo conforma coalición nacional de cara a elecciones del 2026 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Coalición",
+    "elecciones",
+    "Juntos por el Pueblo",
+    "Perú"
+  ],
+  "text": "El expresidente de Perú, Pedro Castillo, anunció este martes la creación de la alianza electoral “Juntos con el Pueblo”, que integra a los partidos Todo con el Pueblo y Juntos por el Perú (JP), para las elecciones del año 2026.\nLa presentación oficial está programada para el domingo 17 de agosto a las 11H00 (hora local) en la Plaza Central de Huaycán.\nLa coalición surge en el marco de los preparativos para las elecciones generales de 2026 en Perú, donde las fuerzas políticas buscan fortalecer su representación.\nJuntos por el Perú, un partido de izquierda con trayectoria en procesos electorales previos, se asocia con Todo con el Pueblo, vinculado a Castillo, quien ocupó la presidencia entre 2021 y 2022. La elección de Huaycán como sede del evento refleja una estrategia dirigida a comunidades con relevancia electoral, un sector clave durante su gestión.\nEl material visual incluye el logo de JP junto al eslogan “Juntos por el Perú”, utilizando los colores rojo y verde, que representan la identidad nacional y los principios del partido.\nEn tanto, la imagen presenta a Castillo acompañado de un grupo diverso, sugiriendo un enfoque de unidad popular.\nLa fecha del 17 de agosto marca el inicio formal de las actividades de la alianza, que podría definir su plataforma y liderazgo antes del cierre de inscripciones electorales. Al tiempo que los detalles sobre candidatos y propuestas de “Juntos con el Pueblo” permanecen pendientes.\nEsta coalición se suma a otras formaciones en curso en Perú, como parte de los esfuerzos por cumplir con los requisitos electorales y consolidar alianzas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/peru-expresidente-castillo-coalicion-eleccion/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1918,
+    "message_id": 101005,
+    "date": "2025-08-06T00:55:07+00:00",
+    "text": "teleSUR\nPerú: expresidente Pedro Castillo conforma coalición nacional de cara a elecciones del 2026\nhttps://www.telesurtv.net/peru-expresidente-castillo-coalicion-eleccion/",
+    "photo_path": null,
+    "views": 1626,
+    "reactions": {
+      "👍": 40,
+      "🤔": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "el expresidente de perú, pedro castillo, anunció este martes la creación de la alianza electoral “juntos con el pueblo”, que integra a los partidos todo con el pueblo y juntos por el perú (jp), para las elecciones del año 2026. la presentación oficial está programada para el domingo 17 de agosto a las 11h00 (hora local) en la plaza central de huaycán. la coalición surge en el marco de los preparativos para las elecciones generales de 2026 en perú, donde las fuerzas políticas buscan fortalecer su representación. juntos por el perú, un partido de izquierda con trayectoria en procesos electorales previos, se asocia con todo con el pueblo, vinculado a castillo, quien ocupó la presidencia entre 2021 y 2022. la elección de huaycán como sede del evento refleja una estrategia dirigida a comunidades con relevancia electoral, un sector clave durante su gestión. el material visual incluye el logo de jp junto al eslogan “juntos por el perú”, utilizando los colores rojo y verde, que representan la identidad nacional y los principios del partido. en tanto, la imagen presenta a castillo acompañado de un grupo diverso, sugiriendo un enfoque de unidad popular. la fecha del 17 de agosto marca el inicio formal de las actividades de la alianza, que podría definir su plataforma y liderazgo antes del cierre de inscripciones electorales. al tiempo que los detalles sobre candidatos y propuestas de “juntos con el pueblo” permanecen pendientes. esta coalición se suma a otras formaciones en curso en perú, como parte de los esfuerzos por cumplir con los requisitos electorales y consolidar alianzas.",
+    "tokens": [
+      "expresidente",
+      "perú",
+      ",",
+      "pedro",
+      "castillo",
+      ",",
+      "anunció",
+      "martes",
+      "creación",
+      "alianza",
+      "electoral",
+      "“",
+      "juntos",
+      "pueblo",
+      "”",
+      ",",
+      "integra",
+      "partidos",
+      "pueblo",
+      "juntos",
+      "perú",
+      "(",
+      "jp",
+      ")",
+      ",",
+      "elecciones",
+      "año",
+      "2026.",
+      "presentación",
+      "oficial",
+      "programada",
+      "domingo",
+      "17",
+      "agosto",
+      "11h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      "plaza",
+      "central",
+      "huaycán",
+      ".",
+      "coalición",
+      "surge",
+      "marco",
+      "preparativos",
+      "elecciones",
+      "generales",
+      "2026",
+      "perú",
+      ",",
+      "fuerzas",
+      "políticas",
+      "buscan",
+      "fortalecer",
+      "representación",
+      ".",
+      "juntos",
+      "perú",
+      ",",
+      "partido",
+      "izquierda",
+      "trayectoria",
+      "procesos",
+      "electorales",
+      "previos",
+      ",",
+      "asocia",
+      "pueblo",
+      ",",
+      "vinculado",
+      "castillo",
+      ",",
+      "ocupó",
+      "presidencia",
+      "2021",
+      "2022.",
+      "elección",
+      "huaycán",
+      "sede",
+      "evento",
+      "refleja",
+      "estrategia",
+      "dirigida",
+      "comunidades",
+      "relevancia",
+      "electoral",
+      ",",
+      "sector",
+      "clave",
+      "gestión",
+      ".",
+      "material",
+      "visual",
+      "incluye",
+      "logo",
+      "jp",
+      "junto",
+      "eslogan",
+      "“",
+      "juntos",
+      "perú",
+      "”",
+      ",",
+      "utilizando",
+      "colores",
+      "rojo",
+      "verde",
+      ",",
+      "representan",
+      "identidad",
+      "nacional",
+      "principios",
+      "partido",
+      ".",
+      ",",
+      "imagen",
+      "presenta",
+      "castillo",
+      "acompañado",
+      "grupo",
+      "diverso",
+      ",",
+      "sugiriendo",
+      "enfoque",
+      "unidad",
+      "popular",
+      ".",
+      "fecha",
+      "17",
+      "agosto",
+      "marca",
+      "inicio",
+      "formal",
+      "actividades",
+      "alianza",
+      ",",
+      "podría",
+      "definir",
+      "plataforma",
+      "liderazgo",
+      "cierre",
+      "inscripciones",
+      "electorales",
+      ".",
+      "tiempo",
+      "detalles",
+      "candidatos",
+      "propuestas",
+      "“",
+      "juntos",
+      "pueblo",
+      "”",
+      "permanecen",
+      "pendientes",
+      ".",
+      "coalición",
+      "suma",
+      "formaciones",
+      "curso",
+      "perú",
+      ",",
+      "parte",
+      "esfuerzos",
+      "cumplir",
+      "requisitos",
+      "electorales",
+      "consolidar",
+      "alianzas",
+      "."
+    ],
+    "token_count": 171,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "FW": 45,
+      "VBZ": 4,
+      "NN": 93,
+      "NNS": 13,
+      "VBP": 8,
+      "JJ": 27,
+      "CD": 7,
+      "IN": 13,
+      "$": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 4,
+      "FW-FW": 27,
+      "FW-NNP": 6,
+      "NNP-NNP": 6,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-NNS": 8,
+      "NNS-VBP": 6,
+      "VBP-FW": 1,
+      "FW-JJ": 7,
+      "JJ-NNP": 4,
+      "NNP-NN": 23,
+      "NN-NN": 46,
+      "NN-NNP": 14,
+      "NN-JJ": 6,
+      "NNS-FW": 1,
+      "FW-NN": 3,
+      "NN-CD": 3,
+      "CD-NNP": 2,
+      "JJ-NN": 15,
+      "NN-VBP": 2,
+      "VBP-JJ": 5,
+      "JJ-CD": 1,
+      "CD-IN": 2,
+      "IN-FW": 6,
+      "FW-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 5,
+      "NN-IN": 9,
+      "NNS-NNS": 2,
+      "NNS-IN": 2,
+      "IN-CD": 1,
+      "CD-FW": 1,
+      "NNP-JJ": 2,
+      "IN-NN": 3,
+      "CD-CD": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "IN-NNP": 1,
+      "VBP-NN": 1,
+      "NN-FW": 2,
+      "JJ-FW": 2,
+      "FW-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-VBZ": 2,
+      "VBZ-NNP": 1,
+      "VBZ-NNS": 1,
+      "NNS-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 19,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NN": 4,
+      "NNP-NN-NN": 19,
+      "NN-NN-NNP": 10,
+      "NN-NNP-NN": 9,
+      "NN-NN-NN": 17,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NNS": 4,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "IN-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-CD": 1,
+      "IN-CD-FW": 1,
+      "CD-FW-NNP": 1,
+      "FW-NNP-NN": 4,
+      "NN-JJ-JJ": 2,
+      "NN-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 2,
+      "JJ-NN-NNP": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NN-CD": 2,
+      "NN-CD-CD": 1,
+      "CD-CD-NNP": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "JJ-NN-NNS": 2,
+      "VBP-JJ-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "IN-FW-JJ": 2,
+      "NN-CD-IN": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NNS": 2,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "VBP-JJ-FW": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 93,
+        "FW": 45,
+        "NNP": 36,
+        "JJ": 27,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "FW-FW": 27,
+        "NNP-NN": 23,
+        "JJ-NN": 15,
+        "NN-NNP": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 19,
+        "NNP-NN-NN": 19,
+        "NN-NN-NN": 17,
+        "NN-NN-NNP": 10,
+        "NN-NNP-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 17,
+      "ADJP": 4,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0309
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0309
+      },
+      {
+        "rule": "NP -> ('Perú', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "S -> NP ('expresidente', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('creación', 'FW') ('de', 'FW') ('la', 'FW') ('alianza', 'FW') NP (',', ',') NP NP ('(', '(') NP (')', ')') (',', ',') NP ('del', 'FW') ADJP ('2026', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('Pedro', 'NNP') ('Castillo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('anunció', 'JJ') ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "VP -> ('la', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('electoral', 'JJ') ('“', 'NNP') ('Juntos', 'NNP') ('con', 'NN') ('el', 'NN') ('Pueblo', 'NNP') ('”', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "Perú"
+      },
+      {
+        "label": "NP",
+        "text": "Pedro Castillo"
+      },
+      {
+        "label": "NP",
+        "text": "anunció este martes"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "electoral “ Juntos con el Pueblo ”"
+      },
+      {
+        "label": "NP",
+        "text": "que integra"
+      },
+      {
+        "label": "NP",
+        "text": "a los partidos Todo con el Pueblo y Juntos por el Perú"
+      },
+      {
+        "label": "NP",
+        "text": "JP"
+      },
+      {
+        "label": "NP",
+        "text": "para las elecciones"
+      },
+      {
+        "label": "ADJP",
+        "text": "año"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "presentación oficial está programada para"
+      },
+      {
+        "label": "NP",
+        "text": "oficial está programada para"
+      },
+      {
+        "label": "VP",
+        "text": "el domingo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  expresidente/FW\n  de/FW\n  (NP Perú/NNP)\n  ,/,\n  (NP Pedro/NNP Castillo/NNP)\n  ,/,\n  (NP anunció/JJ este/NN martes/NNS)\n  (VP la/VBP)\n  creación/FW\n  de/FW\n  la/FW\n  alianza/FW\n  (NP electoral/JJ “/NNP Juntos/NNP con/NN el/NN Pueblo/NNP ”/NNP)\n  ,/,\n  (NP que/NN integra/NN)\n  (NP\n    a/DT\n    los/JJ\n    partidos/NN\n    Todo/NNP\n    con/NN\n    el/NN\n    Pueblo/NNP\n    y/NNP\n    Juntos/NNP\n    por/NN\n    el/NN\n    Perú/NNP)\n  (/(\n  (NP JP/NNP)\n  )/)\n  ,/,\n  (NP para/JJ las/NN elecciones/NNS)\n  del/FW\n  (ADJP año/JJ)\n  2026/CD\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP presentación/VBZ (NP oficial/JJ está/NN programada/NN para/NN))\n  (VP el/VBP domingo/JJ)\n  17/CD\n  de/FW\n  agosto/FW\n  (NP a/DT las/NN)\n  11H00/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  en/FW\n  la/FW\n  (NP Plaza/NNP Central/NNP)\n  (PP de/IN (NP Huaycán/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP coalición/NN surge/NN)\n  en/IN\n  el/FW\n  marco/FW\n  de/FW\n  los/FW\n  (NP preparativos/JJ para/NN las/NN elecciones/NNS generales/NNS)\n  de/IN\n  2026/CD\n  (NP en/NN Perú/NNP)\n  ,/,\n  (NP donde/NN las/NNS)\n  (VP\n    fuerzas/VBP\n    (NP políticas/JJ buscan/JJ fortalecer/NN su/NN representación/NN))\n  ./.)",
+      "(S\n  (NP Juntos/NNP por/NN el/NN Perú/NNP)\n  ,/,\n  (NP un/JJ partido/NN)\n  de/IN\n  izquierda/FW\n  (NP con/NN trayectoria/NN)\n  (PP en/IN (NP procesos/NN electorales/NNS previos/NNS))\n  ,/,\n  se/FW\n  (NP asocia/JJ con/NN Todo/NNP con/NN el/NN Pueblo/NNP)\n  ,/,\n  (VP vinculado/VBZ (NP a/DT Castillo/NNP))\n  ,/,\n  (NP quien/NN ocupó/NN la/NN presidencia/NN entre/NN)\n  2021/CD\n  (NP y/NN)\n  2022/CD\n  ./.)",
+      "(S\n  (NP La/NNP)\n  elección/FW\n  de/FW\n  (NP Huaycán/NNP como/NN sede/NN del/NN)\n  (PP evento/IN (NP refleja/NN))\n  (NP una/JJ estrategia/NN)\n  (VP\n    dirigida/VBZ\n    (NP a/DT comunidades/JJ con/NN relevancia/NN)\n    electoral/JJ)\n  ,/,\n  (NP un/JJ sector/NN)\n  (VP clave/VBP)\n  (VP durante/VBN (NP su/JJ gestión/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "alianza electoral “juntos con el pueblo”, que integra a los partidos todo con el pueblo y juntos",
+        "position": [
+          79,
+          175
+        ],
+        "start": 79,
+        "end": 175
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          41,
+          48
+        ],
+        "start": 41,
+        "end": 48
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "identidad nacional",
+        "position": [
+          1000,
+          1018
+        ],
+        "start": 1000,
+        "end": 1018
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          19,
+          23
+        ],
+        "start": 19,
+        "end": 23
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza central",
+        "position": [
+          328,
+          341
+        ],
+        "start": 328,
+        "end": 341
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 17 de agosto",
+        "position": [
+          276,
+          296
+        ],
+        "start": 276,
+        "end": 296
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2026",
+        "position": [
+          218,
+          226
+        ],
+        "start": 218,
+        "end": 226
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Juntos por el Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Castillo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "JP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "el Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plaza Central de Huaycán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juntos por el Perú",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pedro Castillo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Juntos con el Pueblo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Castillo",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "Juntos con el Pueblo"
+      },
+      {
+        "sujeto": "Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "Juntos por el Perú"
+      },
+      {
+        "sujeto": "Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "JP"
+      },
+      {
+        "sujeto": "Pedro Castillo",
+        "relacion": "ANUNCIAR",
+        "objeto": "Juntos con el Pueblo"
+      },
+      {
+        "sujeto": "Pedro Castillo",
+        "relacion": "ANUNCIAR",
+        "objeto": "Juntos por el Perú"
+      },
+      {
+        "sujeto": "Pedro Castillo",
+        "relacion": "ANUNCIAR",
+        "objeto": "JP"
+      },
+      {
+        "sujeto": "Juntos por el Perú",
+        "relacion": "ASOCIAR",
+        "objeto": "Castillo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6523,
+    "pos": 0.021,
+    "neu": 0.979,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

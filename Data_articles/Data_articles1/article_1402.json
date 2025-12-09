@@ -1,0 +1,930 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-bolivia-renueva-el-alto-mando-militar-y-reafirma-compromiso-democratico/",
+  "title": "Presidente de Bolivia renueva el alto mando militar y reafirma compromiso democrático - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Alto mando",
+    "Bolivia",
+    "Fuerzas Armadas"
+  ],
+  "text": "En un acto oficial celebrado este jueves, el presidente de Bolivia, Luis Arce, anunció la renovación del Alto Mando de las Fuerzas Armadas, destacando la importancia de fortalecer el compromiso institucional con el pueblo boliviano y con la democracia.\nDurante la ceremonia, el mandatario subrayó que “hoy, más que nunca, nuestras Fuerzas Armadas deben mostrar ese compromiso con el pueblo”. Arce enfatizó que dicho compromiso no se limita al marco constitucional, sino que nace de una profunda reflexión sobre el origen popular de los militares bolivianos.\nEn un mensaje claro contra cualquier intento de represión, el presidente afirmó: “Nunca vamos a compartir, no lo hemos hecho ni lo vamos a hacer, levantar las armas contra nuestra población”. Este pronunciamiento se da en un contexto de creciente tensión política, a pocos días de las elecciones nacionales.\nArce aprovechó la ocasión para exhortar al pueblo boliviano a participar activamente en los comicios del próximo domingo: “Hay que respetar el proceso democrático. Las diferencias deben resolverse en las urnas, democráticamente”.\nFinalmente, el presidente hizo un llamado a la madurez política y al respeto institucional: “Así como ingresamos por la puerta grande a esta casa del pueblo, también debemos salir por esa misma puerta, dejando un legado democrático para todo el pueblo boliviano”.\nCon esta renovación del Alto Mando, el gobierno busca consolidar una Fuerza Armada alineada con los valores democráticos y el respeto a la voluntad popular.\nEl contralmirante Gustavo Primitivo Anibarro Escobar fue posesionado como comandante de las Fuerzas Armadas, mientras el general de Brigada Sherman Mario Sempertegui Tames asume como jefe del Estado Mayor; el general de Brigada Roberto Pablo Delgadillo Vázquez, el mando del Ejército; el general de Brigada Aérea Marco Antonio Choquehuanca Marín de la Fuerza Aérea Boliviana y el contralmirante Freddy Pozo Rodríguez de la Armada Boliviana.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-bolivia-renueva-el-alto-mando-militar-y-reafirma-compromiso-democratico/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1235,
+    "message_id": 101842,
+    "date": "2025-08-15T08:55:07+00:00",
+    "text": "teleSUR\nPresidente de Bolivia renueva el alto mando militar y reafirma compromiso democrático\nhttps://www.telesurtv.net/presidente-de-bolivia-renueva-el-alto-mando-militar-y-reafirma-compromiso-democratico/",
+    "photo_path": null,
+    "views": 1704,
+    "reactions": {
+      "🤔": 30,
+      "👍": 6
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "en un acto oficial celebrado este jueves, el presidente de bolivia, luis arce, anunció la renovación del alto mando de las fuerzas armadas, destacando la importancia de fortalecer el compromiso institucional con el pueblo boliviano y con la democracia. durante la ceremonia, el mandatario subrayó que “hoy, más que nunca, nuestras fuerzas armadas deben mostrar ese compromiso con el pueblo”. arce enfatizó que dicho compromiso no se limita al marco constitucional, sino que nace de una profunda reflexión sobre el origen popular de los militares bolivianos. en un mensaje claro contra cualquier intento de represión, el presidente afirmó: “nunca vamos a compartir, no lo hemos hecho ni lo vamos a hacer, levantar las armas contra nuestra población”. este pronunciamiento se da en un contexto de creciente tensión política, a pocos días de las elecciones nacionales. arce aprovechó la ocasión para exhortar al pueblo boliviano a participar activamente en los comicios del próximo domingo: “hay que respetar el proceso democrático. las diferencias deben resolverse en las urnas, democráticamente”. finalmente, el presidente hizo un llamado a la madurez política y al respeto institucional: “así como ingresamos por la puerta grande a esta casa del pueblo, también debemos salir por esa misma puerta, dejando un legado democrático para todo el pueblo boliviano”. con esta renovación del alto mando, el gobierno busca consolidar una fuerza armada alineada con los valores democráticos y el respeto a la voluntad popular. el contralmirante gustavo primitivo anibarro escobar fue posesionado como comandante de las fuerzas armadas, mientras el general de brigada sherman mario sempertegui tames asume como jefe del estado mayor; el general de brigada roberto pablo delgadillo vázquez, el mando del ejército; el general de brigada aérea marco antonio choquehuanca marín de la fuerza aérea boliviana y el contralmirante freddy pozo rodríguez de la armada boliviana.",
+    "tokens": [
+      "acto",
+      "oficial",
+      "celebrado",
+      "jueves",
+      ",",
+      "presidente",
+      "bolivia",
+      ",",
+      "luis",
+      "arce",
+      ",",
+      "anunció",
+      "renovación",
+      "alto",
+      "mando",
+      "fuerzas",
+      "armadas",
+      ",",
+      "destacando",
+      "importancia",
+      "fortalecer",
+      "compromiso",
+      "institucional",
+      "pueblo",
+      "boliviano",
+      "democracia",
+      ".",
+      "ceremonia",
+      ",",
+      "mandatario",
+      "subrayó",
+      "“",
+      "hoy",
+      ",",
+      "nunca",
+      ",",
+      "fuerzas",
+      "armadas",
+      "deben",
+      "mostrar",
+      "compromiso",
+      "pueblo",
+      "”",
+      ".",
+      "arce",
+      "enfatizó",
+      "dicho",
+      "compromiso",
+      "limita",
+      "marco",
+      "constitucional",
+      ",",
+      "sino",
+      "nace",
+      "profunda",
+      "reflexión",
+      "origen",
+      "popular",
+      "militares",
+      "bolivianos",
+      ".",
+      "mensaje",
+      "claro",
+      "cualquier",
+      "intento",
+      "represión",
+      ",",
+      "presidente",
+      "afirmó",
+      ":",
+      "“",
+      "nunca",
+      "vamos",
+      "compartir",
+      ",",
+      "hecho",
+      "vamos",
+      "hacer",
+      ",",
+      "levantar",
+      "armas",
+      "población",
+      "”",
+      ".",
+      "pronunciamiento",
+      "da",
+      "contexto",
+      "creciente",
+      "tensión",
+      "política",
+      ",",
+      "pocos",
+      "días",
+      "elecciones",
+      "nacionales",
+      ".",
+      "arce",
+      "aprovechó",
+      "ocasión",
+      "exhortar",
+      "pueblo",
+      "boliviano",
+      "participar",
+      "activamente",
+      "comicios",
+      "próximo",
+      "domingo",
+      ":",
+      "“",
+      "respetar",
+      "proceso",
+      "democrático",
+      ".",
+      "diferencias",
+      "deben",
+      "resolverse",
+      "urnas",
+      ",",
+      "democráticamente",
+      "”",
+      ".",
+      "finalmente",
+      ",",
+      "presidente",
+      "hizo",
+      "llamado",
+      "madurez",
+      "política",
+      "respeto",
+      "institucional",
+      ":",
+      "“",
+      "así",
+      "ingresamos",
+      "puerta",
+      "grande",
+      "casa",
+      "pueblo",
+      ",",
+      "debemos",
+      "salir",
+      "misma",
+      "puerta",
+      ",",
+      "dejando",
+      "legado",
+      "democrático",
+      "pueblo",
+      "boliviano",
+      "”",
+      ".",
+      "renovación",
+      "alto",
+      "mando",
+      ",",
+      "gobierno",
+      "busca",
+      "consolidar",
+      "fuerza",
+      "armada",
+      "alineada",
+      "valores",
+      "democráticos",
+      "respeto",
+      "voluntad",
+      "popular",
+      ".",
+      "contralmirante",
+      "gustavo",
+      "primitivo",
+      "anibarro",
+      "escobar",
+      "posesionado",
+      "comandante",
+      "fuerzas",
+      "armadas",
+      ",",
+      "mientras",
+      "general",
+      "brigada",
+      "sherman",
+      "mario",
+      "sempertegui",
+      "tames",
+      "asume",
+      "jefe",
+      "mayor",
+      ";",
+      "general",
+      "brigada",
+      "roberto",
+      "pablo",
+      "delgadillo",
+      "vázquez",
+      ",",
+      "mando",
+      "ejército",
+      ";",
+      "general",
+      "brigada",
+      "aérea",
+      "marco",
+      "antonio",
+      "choquehuanca",
+      "marín",
+      "fuerza",
+      "aérea",
+      "boliviana",
+      "contralmirante",
+      "freddy",
+      "pozo",
+      "rodríguez",
+      "armada",
+      "boliviana",
+      "."
+    ],
+    "token_count": 215,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 59,
+      "JJ": 33,
+      "VBP": 9,
+      "NN": 124,
+      "NNS": 7,
+      "FW": 32,
+      "IN": 12,
+      "VBZ": 8,
+      "DT": 2,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-VBP": 1,
+      "VBP-JJ": 5,
+      "JJ-NN": 18,
+      "NN-NN": 81,
+      "NN-NNS": 2,
+      "NNS-VBP": 4,
+      "VBP-NN": 3,
+      "NN-FW": 9,
+      "FW-NNP": 9,
+      "NNP-NNP": 30,
+      "NNP-NN": 12,
+      "FW-FW": 10,
+      "NNP-IN": 3,
+      "IN-FW": 7,
+      "FW-VBP": 1,
+      "NNP-FW": 4,
+      "FW-NN": 7,
+      "NN-JJ": 7,
+      "JJ-NNS": 2,
+      "NNS-NNP": 2,
+      "NN-NNP": 11,
+      "NN-VBZ": 4,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "VBZ-JJ": 6,
+      "JJ-JJ": 5,
+      "NN-IN": 7,
+      "IN-JJ": 3,
+      "JJ-FW": 2,
+      "FW-NNS": 2,
+      "VBP-NNP": 1,
+      "NN-DT": 1,
+      "NNS-NNS": 1,
+      "FW-JJ": 3,
+      "NNP-VBZ": 4,
+      "NN-VBP": 2,
+      "JJ-NNP": 3,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "NNP-VBP": 1,
+      "JJ-IN": 2,
+      "IN-NNP": 2,
+      "VBZ-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 15,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 11,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 3,
+      "FW-FW-NNP": 2,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-FW": 3,
+      "IN-FW-NNP": 4,
+      "FW-FW-FW": 4,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "NN-NN-NN": 52,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 6,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-JJ-NN": 4,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NN": 5,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-JJ": 3,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "JJ-NN-NNP": 3,
+      "IN-FW-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-FW-NN": 3,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBD-JJ-IN": 1,
+      "JJ-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "VBZ-JJ-IN": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 124,
+        "NNP": 59,
+        "JJ": 33,
+        "FW": 32,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 81,
+        "NNP-NNP": 30,
+        "JJ-NN": 18,
+        "NNP-NN": 12,
+        "NN-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 52,
+        "NNP-NNP-NNP": 15,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 10,
+        "NN-NN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 70,
+      "ADJP": 5,
+      "VP": 20,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "ADJP -> ('general', 'JJ')",
+        "frequency": 3,
+        "weight": 0.0278
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP ADJP VP (',', ',') ('el', 'FW') ('presidente', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP ('renovación', 'FW') ('del', 'FW') NP ('de', 'IN') ('las', 'FW') NP (',', ',') NP ('la', 'FW') ('importancia', 'FW') ('de', 'FW') ('fortalecer', 'FW') ('el', 'FW') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('acto', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('oficial', 'JJ') ('celebrado', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "VP",
+        "text": "acto oficial celebrado este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "oficial celebrado este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "Luis Arce"
+      },
+      {
+        "label": "NP",
+        "text": "anunció la"
+      },
+      {
+        "label": "NP",
+        "text": "Alto Mando"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas Armadas"
+      },
+      {
+        "label": "NP",
+        "text": "destacando"
+      },
+      {
+        "label": "VP",
+        "text": "compromiso institucional con el pueblo boliviano y con la democracia"
+      },
+      {
+        "label": "NP",
+        "text": "institucional con el pueblo boliviano y con la democracia"
+      },
+      {
+        "label": "NP",
+        "text": "Durante la ceremonia"
+      },
+      {
+        "label": "NP",
+        "text": "mandatario subrayó que “ hoy"
+      },
+      {
+        "label": "NP",
+        "text": "más que nunca"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (ADJP un/JJ)\n  (VP acto/VBP (NP oficial/JJ celebrado/NN este/NN jueves/NNS))\n  ,/,\n  el/FW\n  presidente/FW\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP Luis/NNP Arce/NNP)\n  ,/,\n  (NP anunció/NN la/NN)\n  renovación/FW\n  del/FW\n  (NP Alto/NNP Mando/NNP)\n  de/IN\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  ,/,\n  (NP destacando/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  fortalecer/FW\n  el/FW\n  (VP\n    compromiso/VBP\n    (NP\n      institucional/JJ\n      con/NN\n      el/NN\n      pueblo/NN\n      boliviano/NN\n      y/NN\n      con/NN\n      la/NN\n      democracia/NN))\n  ./.)",
+      "(S\n  (NP Durante/NNP la/NNP ceremonia/NN)\n  ,/,\n  el/FW\n  (NP mandatario/NN subrayó/NN que/NN “/NNP hoy/NN)\n  ,/,\n  (NP más/NN que/NN nunca/NN)\n  ,/,\n  nuestras/FW\n  (NP Fuerzas/NNP Armadas/NNP deben/NN mostrar/NN)\n  (NP ese/JJ compromiso/NN con/NN el/NN pueblo/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Arce/NNP enfatizó/NN que/NN dicho/NN)\n  (VP compromiso/VBZ (NP no/DT se/NN))\n  (VP limita/VBZ (NP al/JJ marco/JJ constitucional/NN))\n  ,/,\n  (NP sino/NN)\n  (NP que/JJ nace/NN)\n  (PP\n    de/IN\n    (NP una/JJ profunda/NN reflexión/NN sobre/NN el/NN origen/NN))\n  (ADJP popular/JJ)\n  de/FW\n  los/FW\n  (NP militares/NNS)\n  (VP bolivianos/VBP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ mensaje/NN claro/NN contra/NN cualquier/NN intento/NN)\n  de/IN\n  represión/FW\n  ,/,\n  el/FW\n  presidente/FW\n  (NP afirmó/NN)\n  :/:\n  (NP “/JJ Nunca/NNP vamos/NN)\n  (NP a/DT compartir/NN)\n  ,/,\n  (NP no/DT lo/NN)\n  (VP hemos/VBZ (NP hecho/JJ ni/JJ lo/NN))\n  (VP vamos/VBD (NP a/DT hacer/NN))\n  ,/,\n  (NP levantar/NN las/NNS)\n  (VP armas/VBP (NP contra/JJ nuestra/JJ población/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Este/NN pronunciamiento/NN se/NN da/NN)\n  (PP en/IN (NP un/JJ contexto/NN))\n  de/IN\n  creciente/FW\n  (NP tensión/NN política/NN)\n  ,/,\n  (NP a/DT pocos/JJ días/NN)\n  de/IN\n  las/FW\n  (NP elecciones/NNS nacionales/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "mensaje claro contra cualquier intento de represión, el presidente",
+        "position": [
+          564,
+          630
+        ],
+        "start": 564,
+        "end": 630
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          631,
+          637
+        ],
+        "start": 631,
+        "end": 637
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          79,
+          86
+        ],
+        "start": 79,
+        "end": 86
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de bolivia",
+        "position": [
+          45,
+          66
+        ],
+        "start": 45,
+        "end": 66
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          289,
+          296
+        ],
+        "start": 289,
+        "end": 296
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          59,
+          66
+        ],
+        "start": 59,
+        "end": 66
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado mayor",
+        "position": [
+          1709,
+          1721
+        ],
+        "start": 1709,
+        "end": 1721
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          302,
+          305
+        ],
+        "start": 302,
+        "end": 305
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Brigada Aérea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado Mayor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Roberto Pablo Delgadillo Vázquez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gustavo Primitivo Anibarro Escobar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Freddy Pozo Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerza Armada",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Brigada",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Marco Antonio Choquehuanca Marín",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alto Mando",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerza Aérea Boliviana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mario Sempertegui Tames",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alto Mando de las Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Arce",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Bolivia",
+        "relacion": "ANUNCIAR",
+        "objeto": "Alto Mando de las Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "ANUNCIAR",
+        "objeto": "Alto Mando de las Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Alto Mando",
+        "relacion": "BUSCAR",
+        "objeto": "Fuerza Armada"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Brigada"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Mario Sempertegui Tames"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Estado Mayor"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Roberto Pablo Delgadillo Vázquez"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Brigada Aérea"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Marco Antonio Choquehuanca Marín"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Fuerza Aérea Boliviana"
+      },
+      {
+        "sujeto": "Gustavo Primitivo Anibarro Escobar",
+        "relacion": "POSESIONAR",
+        "objeto": "Freddy Pozo Rodríguez"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "POSESIONAR",
+        "objeto": "Brigada"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "POSESIONAR",
+        "objeto": "Mario Sempertegui Tames"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "POSESIONAR",
+        "objeto": "Estado Mayor"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "POSESIONAR",
+        "objeto": "Roberto Pablo Delgadillo Vázquez"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "POSESIONAR",
+        "objeto": "Brigada Aérea"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "POSESIONAR",
+        "objeto": "Marco Antonio Choquehuanca Marín"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "POSESIONAR",
+        "objeto": "Fuerza Aérea Boliviana"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "POSESIONAR",
+        "objeto": "Freddy Pozo Rodríguez"
+      },
+      {
+        "sujeto": "Brigada",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Estado Mayor"
+      },
+      {
+        "sujeto": "Brigada",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Roberto Pablo Delgadillo Vázquez"
+      },
+      {
+        "sujeto": "Brigada",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Brigada Aérea"
+      },
+      {
+        "sujeto": "Brigada",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Marco Antonio Choquehuanca Marín"
+      },
+      {
+        "sujeto": "Brigada",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Fuerza Aérea Boliviana"
+      },
+      {
+        "sujeto": "Brigada",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Freddy Pozo Rodríguez"
+      },
+      {
+        "sujeto": "Mario Sempertegui Tames",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Estado Mayor"
+      },
+      {
+        "sujeto": "Mario Sempertegui Tames",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Brigada"
+      },
+      {
+        "sujeto": "Mario Sempertegui Tames",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Roberto Pablo Delgadillo Vázquez"
+      },
+      {
+        "sujeto": "Mario Sempertegui Tames",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Brigada Aérea"
+      },
+      {
+        "sujeto": "Mario Sempertegui Tames",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Marco Antonio Choquehuanca Marín"
+      },
+      {
+        "sujeto": "Mario Sempertegui Tames",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Fuerza Aérea Boliviana"
+      },
+      {
+        "sujeto": "Mario Sempertegui Tames",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Freddy Pozo Rodríguez"
+      },
+      {
+        "sujeto": "Estado Mayor",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Brigada"
+      },
+      {
+        "sujeto": "Estado Mayor",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Roberto Pablo Delgadillo Vázquez"
+      },
+      {
+        "sujeto": "Estado Mayor",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Brigada Aérea"
+      },
+      {
+        "sujeto": "Estado Mayor",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Marco Antonio Choquehuanca Marín"
+      },
+      {
+        "sujeto": "Estado Mayor",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Fuerza Aérea Boliviana"
+      },
+      {
+        "sujeto": "Estado Mayor",
+        "relacion": "ASUMIR_POSESIONAR",
+        "objeto": "Freddy Pozo Rodríguez"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.296,
+    "pos": 0.019,
+    "neu": 0.966,
+    "neg": 0.015,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "url": "https://www.telesurtv.net/cifras-policiales-contradicen-anuncio-bukele/",
+  "title": "El Salvador: estadísticas desmienten a Bukele sobre disminución de homicidios",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bukele",
+    "El Salvador",
+    "Homicidios",
+    "Mafia",
+    "Nayib Bukele"
+  ],
+  "text": "El presidente de El Salvador, Nayib Bukele, afirmó que su gobierno ha alcanzado 1.000 días sin homicidios desde su llegada al poder en 2019. El anuncio fue hecho en la red social X el pasado 30 de agosto y fue presentado como un logro de las políticas de seguridad implementadas en su mandato.\n\nEl mensaje fue replicado por medios regionales y acompañado por declaraciones del ministro de Justicia y Seguridad, Gustavo Villatoro, quien aseguró que los resultados se deben al Plan Control Territorial y al régimen de excepción vigente desde marzo de 2022.\nEste marco legal ha sido renovado en 42 ocasiones por la Asamblea Legislativa y permite ampliar los plazos de detención y restringir derechos como la defensa de los detenidos y la inviolabilidad de las comunicaciones.\nPero este anuncio se contradice con información oficial. Según cifras de la Policía Nacional Civil (PNC), entre enero y junio de 2025 se registraron 39 homicidios en el país. Los datos fueron difundidos en julio y contrastan con el discurso presidencial.\n\n\nUn recuento independiente realizado por el medio local Diario El Mundo, a partir de los informes diarios de la PNC publicados en redes sociales, contabilizó 34 homicidios en el mismo periodo. De esas víctimas, 23 eran hombres entre 19 y 59 años, y 10 correspondieron a feminicidios, incluido el caso de una menor de 14 años en Soyapango.\nLos registros indican que en enero ocurrieron seis asesinatos, en febrero tres, en marzo diez, en abril cinco, en mayo seis y en junio cuatro. En uno de los casos no se determinó el género ni la edad de la víctima.\n\n\nAunque el gobierno sostiene que el Plan Control Territorial y el régimen de excepción explican los resultados actuales, la información difundida no es de libre acceso para la ciudadanía ni para la prensa, ya que no se encuentra disponible mediante solicitudes oficiales.\nLas discrepancias entre los anuncios del Ejecutivo y los registros de la Policía Nacional Civil mantienen abierto el debate sobre el verdadero alcance de las políticas de seguridad en El Salvador y la confiabilidad de las cifras oficiales.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cifras-policiales-contradicen-anuncio-bukele/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 966,
+    "message_id": 103590,
+    "date": "2025-09-02T20:55:13+00:00",
+    "text": "teleSUR\nEl Salvador: estadísticas policiales desmienten a Bukele sobre disminución de homicidios\nhttps://www.telesurtv.net/cifras-policiales-contradicen-anuncio-bukele/",
+    "photo_path": null,
+    "views": 2596,
+    "reactions": {
+      "😁": 49,
+      "👍": 9,
+      "🤔": 5,
+      "❤": 2,
+      "🤡": 1
+    },
+    "total_reactions": 66
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de el salvador, nayib bukele, afirmó que su gobierno ha alcanzado 1.000 días sin homicidios desde su llegada al poder en 2019. el anuncio fue hecho en la red social x el pasado 30 de agosto y fue presentado como un logro de las políticas de seguridad implementadas en su mandato. el mensaje fue replicado por medios regionales y acompañado por declaraciones del ministro de justicia y seguridad, gustavo villatoro, quien aseguró que los resultados se deben al plan control territorial y al régimen de excepción vigente desde marzo de 2022. este marco legal ha sido renovado en 42 ocasiones por la asamblea legislativa y permite ampliar los plazos de detención y restringir derechos como la defensa de los detenidos y la inviolabilidad de las comunicaciones. pero este anuncio se contradice con información oficial. según cifras de la policía nacional civil (pnc), entre enero y junio de 2025 se registraron 39 homicidios en el país. los datos fueron difundidos en julio y contrastan con el discurso presidencial. un recuento independiente realizado por el medio local diario el mundo, a partir de los informes diarios de la pnc publicados en redes sociales, contabilizó 34 homicidios en el mismo periodo. de esas víctimas, 23 eran hombres entre 19 y 59 años, y 10 correspondieron a feminicidios, incluido el caso de una menor de 14 años en soyapango. los registros indican que en enero ocurrieron seis asesinatos, en febrero tres, en marzo diez, en abril cinco, en mayo seis y en junio cuatro. en uno de los casos no se determinó el género ni la edad de la víctima. aunque el gobierno sostiene que el plan control territorial y el régimen de excepción explican los resultados actuales, la información difundida no es de libre acceso para la ciudadanía ni para la prensa, ya que no se encuentra disponible mediante solicitudes oficiales. las discrepancias entre los anuncios del ejecutivo y los registros de la policía nacional civil mantienen abierto el debate sobre el verdadero alcance de las políticas de seguridad en el salvador y la confiabilidad de las cifras oficiales.",
+    "tokens": [
+      "presidente",
+      "salvador",
+      ",",
+      "nayib",
+      "bukele",
+      ",",
+      "afirmó",
+      "gobierno",
+      "alcanzado",
+      "1.000",
+      "días",
+      "homicidios",
+      "llegada",
+      "poder",
+      "2019.",
+      "anuncio",
+      "hecho",
+      "red",
+      "social",
+      "x",
+      "pasado",
+      "30",
+      "agosto",
+      "presentado",
+      "logro",
+      "políticas",
+      "seguridad",
+      "implementadas",
+      "mandato",
+      ".",
+      "mensaje",
+      "replicado",
+      "medios",
+      "regionales",
+      "acompañado",
+      "declaraciones",
+      "ministro",
+      "justicia",
+      "seguridad",
+      ",",
+      "gustavo",
+      "villatoro",
+      ",",
+      "aseguró",
+      "resultados",
+      "deben",
+      "plan",
+      "control",
+      "territorial",
+      "régimen",
+      "excepción",
+      "vigente",
+      "marzo",
+      "2022.",
+      "marco",
+      "legal",
+      "sido",
+      "renovado",
+      "42",
+      "ocasiones",
+      "asamblea",
+      "legislativa",
+      "permite",
+      "ampliar",
+      "plazos",
+      "detención",
+      "restringir",
+      "derechos",
+      "defensa",
+      "detenidos",
+      "inviolabilidad",
+      "comunicaciones",
+      ".",
+      "anuncio",
+      "contradice",
+      "información",
+      "oficial",
+      ".",
+      "según",
+      "cifras",
+      "policía",
+      "nacional",
+      "civil",
+      "(",
+      "pnc",
+      ")",
+      ",",
+      "enero",
+      "junio",
+      "2025",
+      "registraron",
+      "39",
+      "homicidios",
+      "país",
+      ".",
+      "datos",
+      "difundidos",
+      "julio",
+      "contrastan",
+      "discurso",
+      "presidencial",
+      ".",
+      "recuento",
+      "independiente",
+      "realizado",
+      "medio",
+      "local",
+      "diario",
+      "mundo",
+      ",",
+      "partir",
+      "informes",
+      "diarios",
+      "pnc",
+      "publicados",
+      "redes",
+      "sociales",
+      ",",
+      "contabilizó",
+      "34",
+      "homicidios",
+      "mismo",
+      "periodo",
+      ".",
+      "víctimas",
+      ",",
+      "23",
+      "hombres",
+      "19",
+      "59",
+      "años",
+      ",",
+      "10",
+      "correspondieron",
+      "feminicidios",
+      ",",
+      "incluido",
+      "caso",
+      "menor",
+      "14",
+      "años",
+      "soyapango",
+      ".",
+      "registros",
+      "indican",
+      "enero",
+      "ocurrieron",
+      "seis",
+      "asesinatos",
+      ",",
+      "febrero",
+      "tres",
+      ",",
+      "marzo",
+      "diez",
+      ",",
+      "abril",
+      "cinco",
+      ",",
+      "mayo",
+      "seis",
+      "junio",
+      "cuatro",
+      ".",
+      "casos",
+      "determinó",
+      "género",
+      "edad",
+      "víctima",
+      ".",
+      "aunque",
+      "gobierno",
+      "sostiene",
+      "plan",
+      "control",
+      "territorial",
+      "régimen",
+      "excepción",
+      "explican",
+      "resultados",
+      "actuales",
+      ",",
+      "información",
+      "difundida",
+      "libre",
+      "acceso",
+      "ciudadanía",
+      "prensa",
+      ",",
+      "encuentra",
+      "disponible",
+      "mediante",
+      "solicitudes",
+      "oficiales",
+      ".",
+      "discrepancias",
+      "anuncios",
+      "ejecutivo",
+      "registros",
+      "policía",
+      "nacional",
+      "civil",
+      "mantienen",
+      "abierto",
+      "debate",
+      "verdadero",
+      "alcance",
+      "políticas",
+      "seguridad",
+      "salvador",
+      "confiabilidad",
+      "cifras",
+      "oficiales",
+      "."
+    ],
+    "token_count": 214,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "NN": 104,
+      "FW": 82,
+      "VBD": 3,
+      "CD": 13,
+      "NNS": 20,
+      "VBP": 10,
+      "JJ": 29,
+      "IN": 18,
+      "VBZ": 2,
+      "RB": 1,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 10,
+      "FW-NNP": 12,
+      "NNP-NNP": 21,
+      "NN-NN": 53,
+      "NN-VBD": 3,
+      "VBD-CD": 3,
+      "CD-NN": 5,
+      "NN-NNS": 7,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "JJ-NN": 16,
+      "NN-IN": 16,
+      "IN-CD": 4,
+      "CD-NNP": 2,
+      "NNP-FW": 9,
+      "FW-NN": 11,
+      "IN-NN": 5,
+      "NN-JJ": 6,
+      "JJ-JJ": 3,
+      "CD-IN": 1,
+      "IN-FW": 8,
+      "FW-JJ": 6,
+      "FW-FW": 47,
+      "NNS-VBZ": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-FW": 5,
+      "NN-NNP": 3,
+      "NNP-JJ": 3,
+      "NNS-IN": 1,
+      "FW-CD": 2,
+      "CD-NNS": 4,
+      "NNS-JJ": 1,
+      "JJ-FW": 3,
+      "FW-NNS": 4,
+      "NNS-NNP": 1,
+      "NN-VBP": 2,
+      "JJ-NNP": 3,
+      "NNS-NNS": 2,
+      "VBP-CD": 2,
+      "CD-CD": 1,
+      "NN-CD": 1,
+      "IN-JJ": 1,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "VBP-NNP": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 11,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 30,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 3,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 8,
+      "NN-IN-CD": 4,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-IN-NN": 5,
+      "IN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-VBD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 2,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 9,
+      "FW-NNP-FW": 3,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 4,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NNP": 1,
+      "CD-NNP-JJ": 1,
+      "NNP-JJ-JJ": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "NNP-NNP-FW": 3,
+      "IN-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 3,
+      "FW-NNP-NN": 2,
+      "IN-NN-NN": 4,
+      "JJ-NNP-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-IN": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-NNS": 2,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-CD": 2,
+      "VBP-CD-NNS": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 2,
+      "VBP-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNS-FW-NNP": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 4,
+      "NN-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNP-NN": 1,
+      "FW-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-IN": 1,
+      "FW-NN-DT": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 104,
+        "FW": 82,
+        "NNP": 45,
+        "JJ": 29,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 47,
+        "NNP-NNP": 21,
+        "JJ-NN": 16,
+        "NN-IN": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 29,
+        "NNP-NNP-NNP": 11,
+        "FW-FW-NNP": 9,
+        "NN-NN-IN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 82,
+      "VP": 12,
+      "PP": 3,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('homicidios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('1.000', 'CD') NP VP ('en', 'IN') ('2019', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Salvador', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Nayib', 'NNP') ('Bukele', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('afirmó', 'NN') ('que', 'NN') ('su', 'NN') ('gobierno', 'NN') ('ha', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('alcanzado', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('días', 'NN') ('sin', 'NN') ('homicidios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('desde', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "El Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "Nayib Bukele"
+      },
+      {
+        "label": "NP",
+        "text": "afirmó que su gobierno ha"
+      },
+      {
+        "label": "VP",
+        "text": "alcanzado"
+      },
+      {
+        "label": "NP",
+        "text": "días sin homicidios"
+      },
+      {
+        "label": "VP",
+        "text": "desde su llegada al poder"
+      },
+      {
+        "label": "NP",
+        "text": "su llegada al poder"
+      },
+      {
+        "label": "NP",
+        "text": "El anuncio fue hecho"
+      },
+      {
+        "label": "PP",
+        "text": "en la"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "red social X el"
+      },
+      {
+        "label": "VP",
+        "text": "pasado"
+      },
+      {
+        "label": "NP",
+        "text": "fue presentado como"
+      },
+      {
+        "label": "NP",
+        "text": "un logro"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP El/NNP Salvador/NNP)\n  ,/,\n  (NP Nayib/NNP Bukele/NNP)\n  ,/,\n  (NP afirmó/NN que/NN su/NN gobierno/NN ha/NN)\n  (VP alcanzado/VBD)\n  1.000/CD\n  (NP días/NN sin/NN homicidios/NNS)\n  (VP desde/VBP (NP su/JJ llegada/NN al/NN poder/NN))\n  en/IN\n  2019/CD\n  ./.)",
+      "(S\n  (NP El/NNP anuncio/NN fue/NN hecho/NN)\n  (PP en/IN (NP la/NN))\n  (NP red/JJ social/JJ X/NNP el/NN)\n  (VP pasado/VBD)\n  30/CD\n  de/IN\n  agosto/FW\n  y/FW\n  (NP fue/NN presentado/NN como/NN)\n  (NP un/JJ logro/NN)\n  de/IN\n  las/FW\n  políticas/FW\n  de/FW\n  seguridad/FW\n  implementadas/FW\n  en/FW\n  su/FW\n  (NP mandato/NN)\n  ./.)",
+      "(S\n  (NP El/NNP mensaje/NN fue/NN replicado/NN por/NN medios/NNS)\n  (VP\n    regionales/VBZ\n    y/RB\n    (NP acompañado/JJ por/NN declaraciones/NNS))\n  del/FW\n  ministro/FW\n  de/FW\n  (NP Justicia/NNP y/NN Seguridad/NNP)\n  ,/,\n  (NP Gustavo/NNP Villatoro/NNP)\n  ,/,\n  (NP\n    quien/NN\n    aseguró/NN\n    que/NN\n    los/NN\n    resultados/NN\n    se/NN\n    deben/NN\n    al/NN\n    Plan/NNP\n    Control/NNP\n    Territorial/NNP\n    y/NNP)\n  (NP al/JJ régimen/NNS)\n  de/IN\n  excepción/FW\n  vigente/FW\n  desde/FW\n  marzo/FW\n  de/IN\n  2022/CD\n  ./.)",
+      "(S\n  (NP Este/NN)\n  (NP marco/JJ legal/JJ ha/NN sido/NN renovado/NN)\n  en/IN\n  42/CD\n  (NP ocasiones/NNS)\n  (ADJP por/JJ)\n  la/FW\n  (NP Asamblea/NNP Legislativa/NNP y/NNP permite/NN ampliar/NN)\n  (NP los/JJ plazos/NN)\n  de/IN\n  detención/FW\n  y/FW\n  restringir/FW\n  derechos/FW\n  (NP como/NN)\n  la/FW\n  defensa/FW\n  de/FW\n  los/FW\n  detenidos/FW\n  (NP y/NN)\n  la/FW\n  inviolabilidad/FW\n  de/FW\n  las/FW\n  (NP comunicaciones/NNS)\n  ./.)",
+      "(S\n  (NP Pero/NNP este/NN anuncio/NN se/NN contradice/NN con/NN)\n  (NP información/JJ oficial/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "resultados actuales, la información difundida no es de libre acceso para la ciudadanía ni para la prensa, ya que no se encuentra disponible mediante solicitudes oficiales",
+        "position": [
+          1684,
+          1854
+        ],
+        "start": 1684,
+        "end": 1854
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          44,
+          50
+        ],
+        "start": 44,
+        "end": 50
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          705,
+          712
+        ],
+        "start": 705,
+        "end": 712
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de el",
+        "position": [
+          3,
+          19
+        ],
+        "start": 3,
+        "end": 19
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de justicia y",
+        "position": [
+          377,
+          399
+        ],
+        "start": 377,
+        "end": 399
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario el mundo",
+        "position": [
+          1085,
+          1100
+        ],
+        "start": 1085,
+        "end": 1100
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          17,
+          28
+        ],
+        "start": 17,
+        "end": 28
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nayib Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "PNC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gustavo Villatoro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ejecutivo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Policía Nacional Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Soyapango",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea Legislativa",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ejecutivo",
+        "relacion": "MANTENER",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Policía Nacional Civil",
+        "relacion": "MANTENER",
+        "objeto": "El Salvador"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5994,
+    "pos": 0.019,
+    "neu": 0.951,
+    "neg": 0.03,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,939 @@
+{
+  "url": "https://www.telesurtv.net/trump-vuela-rumbo-a-reunion-con-putin/",
+  "title": "Trump vuela hacia Alaska a una histórica reunión con Putin - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "alaska",
+    "encuentro oficial",
+    "Estados Unidos",
+    "Putin",
+    "Rusia",
+    "Trump"
+  ],
+  "text": "El presidente de Estados Unidos, Donald Trump, partió este viernes 15 de agosto desde Washington hacia Alaska, donde sostendrá su primer encuentro oficial con el presidente ruso, Vladímir Putin, desde que regresó a la Casa Blanca en enero de este 2025.\n\nA las 07H31 (hora local), Trump abordó su vehículo oficial, conocido como “La Bestia”, y minutos después se dirigió a la Base Conjunta Andrews, desde donde despegó hacia Anchorage. La reunión entre ambos mandatarios está programada para este viernes a las 11H00, hora local, en la base militar de Elmendorf-Richardson.\nLa cumbre genera gran expectativa internacional, ya que se espera que los líderes aborden temas sensibles como el conflicto en Ucrania, además de otras cuestiones estratégicas para ambas potencias.\nTrump viaja acompañado de una delegación de alto nivel compuesta por 16 personas, entre las que destacan el secretario de Estado, Marco Rubio; el secretario del Tesoro, Scott Bessent; el secretario de Comercio, Howard Lutnick; el director de la CIA, John Ratcliffe; y el enviado especial del presidente, Steven Witkoff.\n\n\nAmbos gobiernos han mantenido hermetismo sobre los detalles del encuentro, pero fuentes cercanas al equipo negociador adelantaron que se buscará avanzar en posibles acuerdos de seguridad y control armamentístico. También se prevé que se aborden las tensiones en Europa del Este y las medidas restrictivas unilaterales impuestas a Moscú.\nEsta cumbre marca un nuevo intento de Washington y Moscú por relanzar el diálogo bilateral tras años de relaciones tensas. Aunque no se esperan anuncios inmediatos, el cara a cara entre Trump y Putin será clave para medir el tono de la nueva etapa diplomática entre ambas potencias.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/trump-vuela-rumbo-a-reunion-con-putin/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1217,
+    "message_id": 101871,
+    "date": "2025-08-15T14:55:07+00:00",
+    "text": "teleSUR\nTrump vuela hacia Alaska a una histórica reunión con Putin\nhttps://www.telesurtv.net/trump-vuela-rumbo-a-reunion-con-putin/",
+    "photo_path": null,
+    "views": 1654,
+    "reactions": {
+      "👍": 23,
+      "🙏": 5,
+      "🤔": 1,
+      "💩": 1
+    },
+    "total_reactions": 30
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de estados unidos, donald trump, partió este viernes 15 de agosto desde washington hacia alaska, donde sostendrá su primer encuentro oficial con el presidente ruso, vladímir putin, desde que regresó a la casa blanca en enero de este 2025. a las 07h31 (hora local), trump abordó su vehículo oficial, conocido como “la bestia”, y minutos después se dirigió a la base conjunta andrews, desde donde despegó hacia anchorage. la reunión entre ambos mandatarios está programada para este viernes a las 11h00, hora local, en la base militar de elmendorf-richardson. la cumbre genera gran expectativa internacional, ya que se espera que los líderes aborden temas sensibles como el conflicto en ucrania, además de otras cuestiones estratégicas para ambas potencias. trump viaja acompañado de una delegación de alto nivel compuesta por 16 personas, entre las que destacan el secretario de estado, marco rubio; el secretario del tesoro, scott bessent; el secretario de comercio, howard lutnick; el director de la cia, john ratcliffe; y el enviado especial del presidente, steven witkoff. ambos gobiernos han mantenido hermetismo sobre los detalles del encuentro, pero fuentes cercanas al equipo negociador adelantaron que se buscará avanzar en posibles acuerdos de seguridad y control armamentístico. también se prevé que se aborden las tensiones en europa del este y las medidas restrictivas unilaterales impuestas a moscú. esta cumbre marca un nuevo intento de washington y moscú por relanzar el diálogo bilateral tras años de relaciones tensas. aunque no se esperan anuncios inmediatos, el cara a cara entre trump y putin será clave para medir el tono de la nueva etapa diplomática entre ambas potencias.",
+    "tokens": [
+      "presidente",
+      "unidos",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "partió",
+      "viernes",
+      "15",
+      "agosto",
+      "washington",
+      "hacia",
+      "alaska",
+      ",",
+      "sostendrá",
+      "primer",
+      "encuentro",
+      "oficial",
+      "presidente",
+      "ruso",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "regresó",
+      "casa",
+      "blanca",
+      "enero",
+      "2025.",
+      "07h31",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ",",
+      "trump",
+      "abordó",
+      "vehículo",
+      "oficial",
+      ",",
+      "conocido",
+      "“",
+      "bestia",
+      "”",
+      ",",
+      "minutos",
+      "después",
+      "dirigió",
+      "base",
+      "conjunta",
+      "andrews",
+      ",",
+      "despegó",
+      "hacia",
+      "anchorage",
+      ".",
+      "reunión",
+      "ambos",
+      "mandatarios",
+      "programada",
+      "viernes",
+      "11h00",
+      ",",
+      "hora",
+      "local",
+      ",",
+      "base",
+      "militar",
+      "elmendorf-richardson",
+      ".",
+      "cumbre",
+      "genera",
+      "gran",
+      "expectativa",
+      "internacional",
+      ",",
+      "espera",
+      "líderes",
+      "aborden",
+      "temas",
+      "sensibles",
+      "conflicto",
+      "ucrania",
+      ",",
+      "además",
+      "cuestiones",
+      "estratégicas",
+      "ambas",
+      "potencias",
+      ".",
+      "trump",
+      "viaja",
+      "acompañado",
+      "delegación",
+      "alto",
+      "nivel",
+      "compuesta",
+      "16",
+      "personas",
+      ",",
+      "destacan",
+      "secretario",
+      ",",
+      "marco",
+      "rubio",
+      ";",
+      "secretario",
+      "tesoro",
+      ",",
+      "scott",
+      "bessent",
+      ";",
+      "secretario",
+      "comercio",
+      ",",
+      "howard",
+      "lutnick",
+      ";",
+      "director",
+      "cia",
+      ",",
+      "john",
+      "ratcliffe",
+      ";",
+      "enviado",
+      "especial",
+      "presidente",
+      ",",
+      "steven",
+      "witkoff",
+      ".",
+      "ambos",
+      "gobiernos",
+      "mantenido",
+      "hermetismo",
+      "detalles",
+      "encuentro",
+      ",",
+      "fuentes",
+      "cercanas",
+      "equipo",
+      "negociador",
+      "adelantaron",
+      "buscará",
+      "avanzar",
+      "posibles",
+      "acuerdos",
+      "seguridad",
+      "control",
+      "armamentístico",
+      ".",
+      "prevé",
+      "aborden",
+      "tensiones",
+      "europa",
+      "medidas",
+      "restrictivas",
+      "unilaterales",
+      "impuestas",
+      "moscú",
+      ".",
+      "cumbre",
+      "marca",
+      "nuevo",
+      "intento",
+      "washington",
+      "moscú",
+      "relanzar",
+      "diálogo",
+      "bilateral",
+      "tras",
+      "años",
+      "relaciones",
+      "tensas",
+      ".",
+      "aunque",
+      "esperan",
+      "anuncios",
+      "inmediatos",
+      ",",
+      "cara",
+      "cara",
+      "trump",
+      "putin",
+      "clave",
+      "medir",
+      "tono",
+      "nueva",
+      "etapa",
+      "diplomática",
+      "ambas",
+      "potencias",
+      "."
+    ],
+    "token_count": 193,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "NN": 96,
+      "FW": 30,
+      "NNS": 15,
+      "CD": 5,
+      "IN": 12,
+      "VBP": 12,
+      "JJ": 27,
+      "VBD": 3,
+      "VBZ": 3,
+      "DT": 1,
+      "RB": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-FW": 4,
+      "FW-NNP": 3,
+      "NNP-NNP": 24,
+      "NN-NN": 51,
+      "NN-NNS": 7,
+      "NNS-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 1,
+      "NN-VBP": 4,
+      "VBP-NNP": 2,
+      "NN-NNP": 10,
+      "VBP-JJ": 7,
+      "JJ-NN": 16,
+      "NNP-FW": 6,
+      "FW-FW": 15,
+      "FW-NN": 8,
+      "NN-CD": 3,
+      "CD-NN": 2,
+      "CD-JJ": 2,
+      "JJ-JJ": 6,
+      "JJ-NNP": 2,
+      "FW-NNS": 2,
+      "NNS-VBP": 7,
+      "NNS-VBD": 1,
+      "VBD-CD": 1,
+      "NN-IN": 9,
+      "IN-NNP": 6,
+      "FW-JJ": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "IN-JJ": 1,
+      "IN-FW": 2,
+      "NN-JJ": 4,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NNP-NNS": 1,
+      "NNS-FW": 2,
+      "IN-NNS": 2,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "NNS-IN": 1,
+      "JJ-NNS": 1,
+      "VBP-IN": 1,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "VBD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NN": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-NN": 11,
+      "NN-NN-NNS": 3,
+      "NN-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-NN": 24,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 7,
+      "JJ-NN-NN": 11,
+      "NN-NN-NNP": 9,
+      "NN-NNP-NNP": 7,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 4,
+      "FW-FW-FW": 8,
+      "FW-FW-NN": 5,
+      "FW-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 5,
+      "IN-NNP-NNP": 4,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "JJ-NN-IN": 3,
+      "IN-NNP-FW": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-JJ": 1,
+      "NN-NN-CD": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-NN-NNS": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-JJ": 1,
+      "NNS-JJ-RB": 1,
+      "JJ-RB-VBP": 1,
+      "RB-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "NNP": 49,
+        "FW": 30,
+        "JJ": 27,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "NNP-NNP": 24,
+        "JJ-NN": 16,
+        "NNP-NN": 15,
+        "FW-FW": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 11,
+        "NNP-NNP-NNP": 9,
+        "NNP-NNP-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 72,
+      "PP": 10,
+      "VP": 25,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0583
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "ADJP -> ('las', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('15', 'CD') PP VP (',', ',') NP VP (',', ',') NP (',', ',') NP VP ('en', 'FW') ('enero', 'FW') ('de', 'FW') NP ('2025', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Donald', 'NNP') ('Trump', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('partió', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('agosto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('desde', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "partió este viernes"
+      },
+      {
+        "label": "PP",
+        "text": "de agosto"
+      },
+      {
+        "label": "NP",
+        "text": "agosto"
+      },
+      {
+        "label": "VP",
+        "text": "desde Washington hacia Alaska"
+      },
+      {
+        "label": "NP",
+        "text": "Washington hacia Alaska"
+      },
+      {
+        "label": "NP",
+        "text": "donde sostendrá su primer"
+      },
+      {
+        "label": "VP",
+        "text": "encuentro oficial con el presidente ruso"
+      },
+      {
+        "label": "NP",
+        "text": "oficial con el presidente ruso"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Putin"
+      },
+      {
+        "label": "NP",
+        "text": "desde que"
+      },
+      {
+        "label": "VP",
+        "text": "regresó a la Casa Blanca"
+      },
+      {
+        "label": "NP",
+        "text": "a la Casa Blanca"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  (NP partió/NN este/NN viernes/NNS)\n  15/CD\n  (PP de/IN (NP agosto/NN))\n  (VP desde/VBP (NP Washington/NNP hacia/NN Alaska/NNP))\n  ,/,\n  (NP donde/NN sostendrá/NN su/NN primer/NN)\n  (VP\n    encuentro/VBP\n    (NP oficial/JJ con/NN el/NN presidente/NN ruso/NN))\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (NP desde/NN que/NN)\n  (VP regresó/VBZ (NP a/DT la/NN Casa/NNP Blanca/NNP))\n  en/FW\n  enero/FW\n  de/FW\n  (NP este/NN)\n  2025/CD\n  ./.)",
+      "(S\n  A/DT\n  (ADJP las/JJ)\n  07H31/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ,/,\n  (NP Trump/NNP)\n  (VP abordó/VBZ (NP su/JJ vehículo/JJ oficial/NN))\n  ,/,\n  (NP conocido/NN como/NN “/NNP La/NNP Bestia/NNP ”/NNP)\n  ,/,\n  (NP y/NNP minutos/NN después/NN se/NN)\n  (VP dirigió/VBZ (NP a/DT la/JJ Base/NNP Conjunta/NNP Andrews/NNP))\n  ,/,\n  (NP desde/NN donde/NN despegó/NN hacia/NN Anchorage/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP reunión/VBZ (NP entre/JJ ambos/NNS mandatarios/NNS))\n  (VP está/VBP (NP programada/JJ para/NN este/NN))\n  (VP viernes/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  11H00/CD\n  ,/,\n  (ADJP hora/RB local/JJ)\n  ,/,\n  en/FW\n  la/FW\n  base/FW\n  militar/FW\n  (PP de/IN (NP Elmendorf-Richardson/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP cumbre/NN genera/NN gran/NN)\n  expectativa/FW\n  (ADJP internacional/JJ)\n  ,/,\n  (NP ya/JJ que/NN se/NN espera/NN que/NN los/NN)\n  (VP líderes/VBZ (NP aborden/JJ temas/NN sensibles/NNS))\n  (VP como/VBP (NP el/JJ conflicto/NN))\n  (PP en/IN (NP Ucrania/NNP))\n  ,/,\n  (NP además/NN)\n  de/FW\n  otras/FW\n  (NP cuestiones/NNS)\n  (VP estratégicas/VBP (NP para/JJ ambas/NN potencias/NN))\n  ./.)",
+      "(S\n  (NP Trump/NNP viaja/NN acompañado/NN)\n  (PP de/IN (NP una/JJ delegación/NN))\n  de/IN\n  alto/FW\n  (NP nivel/JJ compuesta/NN por/NN)\n  16/CD\n  (NP personas/NN)\n  ,/,\n  entre/FW\n  las/FW\n  (NP que/JJ destacan/JJ el/NN secretario/NN)\n  (PP de/IN (NP Estado/NNP))\n  ,/,\n  (NP Marco/NNP Rubio/NNP)\n  ;/:\n  el/CC\n  (VP secretario/VB (NP del/NN Tesoro/NNP))\n  ,/,\n  (NP Scott/NNP Bessent/NNP)\n  ;/:\n  el/CC\n  (NP secretario/NN)\n  (PP de/IN (NP Comercio/NNP))\n  ,/,\n  (NP Howard/NNP Lutnick/NNP)\n  ;/:\n  el/CC\n  (NP director/NN)\n  de/IN\n  la/FW\n  (NP CIA/NNP)\n  ,/,\n  (NP John/NNP Ratcliffe/NNP)\n  ;/:\n  y/CC\n  (VP el/VB (NP enviado/JJ especial/JJ del/NN presidente/NN))\n  ,/,\n  (NP Steven/NNP Witkoff/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en ucrania",
+        "position": [
+          687,
+          707
+        ],
+        "start": 687,
+        "end": 707
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "encuentro oficial",
+        "position": [
+          137,
+          154
+        ],
+        "start": 137,
+        "end": 154
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de estados",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          17,
+          31
+        ],
+        "start": 17,
+        "end": 31
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          700,
+          707
+        ],
+        "start": 700,
+        "end": 707
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "moscú",
+        "position": [
+          1423,
+          1428
+        ],
+        "start": 1423,
+        "end": 1428
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, marco",
+        "position": [
+          893,
+          906
+        ],
+        "start": 893,
+        "end": 906
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "viernes 15 de agosto",
+        "position": [
+          59,
+          79
+        ],
+        "start": 59,
+        "end": 79
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "16 personas",
+        "position": [
+          840,
+          851
+        ],
+        "start": 840,
+        "end": 851
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Moscú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marco Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CIA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tesoro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "John Ratcliffe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Howard Lutnick",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Scott Bessent",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Elmendorf-Richardson",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Base Conjunta Andrews",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alaska",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Anchorage",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Europa del Este",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Steven Witkoff",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PARTIR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PARTIR",
+        "objeto": "Alaska"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PARTIR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PARTIR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "PARTIR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "PARTIR",
+        "objeto": "Alaska"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "PARTIR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "PARTIR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "PARTIR",
+        "objeto": "Alaska"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "PARTIR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "PARTIR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "SOSTENER_PARTIR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "ABORDAR",
+        "objeto": "Base Conjunta Andrews"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "ABORDAR",
+        "objeto": "Anchorage"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "VIAJAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "VIAJAR",
+        "objeto": "Tesoro"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "VIAJAR",
+        "objeto": "Scott Bessent"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "VIAJAR",
+        "objeto": "Howard Lutnick"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "VIAJAR",
+        "objeto": "CIA"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "VIAJAR",
+        "objeto": "John Ratcliffe"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "VIAJAR",
+        "objeto": "Steven Witkoff"
+      },
+      {
+        "sujeto": "Marco Rubio",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "Howard Lutnick"
+      },
+      {
+        "sujeto": "Marco Rubio",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "CIA"
+      },
+      {
+        "sujeto": "Marco Rubio",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "John Ratcliffe"
+      },
+      {
+        "sujeto": "Marco Rubio",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "Steven Witkoff"
+      },
+      {
+        "sujeto": "Tesoro",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "Howard Lutnick"
+      },
+      {
+        "sujeto": "Tesoro",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "CIA"
+      },
+      {
+        "sujeto": "Tesoro",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "John Ratcliffe"
+      },
+      {
+        "sujeto": "Tesoro",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "Steven Witkoff"
+      },
+      {
+        "sujeto": "Scott Bessent",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "Howard Lutnick"
+      },
+      {
+        "sujeto": "Scott Bessent",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "CIA"
+      },
+      {
+        "sujeto": "Scott Bessent",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "John Ratcliffe"
+      },
+      {
+        "sujeto": "Scott Bessent",
+        "relacion": "DESTACAR_VIAJAR",
+        "objeto": "Steven Witkoff"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

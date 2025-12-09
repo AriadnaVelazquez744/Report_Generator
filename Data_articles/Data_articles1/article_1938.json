@@ -1,0 +1,616 @@
+{
+  "url": "https://www.telesurtv.net/media-luna-palestina-asesinato-trabajador/",
+  "title": "Media Luna Roja Palestina lamenta muerte de otro miembro",
+  "section": "Mundo",
+  "tags": [
+    "Asesinato",
+    "Ataque israelí",
+    "Gaza",
+    "Media Luna Palestina",
+    "miembro"
+  ],
+  "text": "La Media Luna Roja Palestina informó el sábado que uno de sus empleados falleció en un ataque israelí contra la sede de la organización humanitaria ubicada en la ciudad de Khan Younis, en el sur de la Franja de Gaza.\nA través de su cuenta en X, la organización indicó que la agresión contra su sede provocó un incendio en donde murió un miembro del personal y otros tres resultaron heridos.\nSegún el Ministerio de Sanidad palestino, la cifra de palestinos muertos desde el inicio de la operación genocida israelí ascendió 60.300, mientras que el número de heridos supera los 147.600.\nLuego de una tregua entre enero y marzo del presente año, Israel dejó de suministrar electricidad a la planta desalinizadora en la Franja de Gaza e impuso un bloqueo impidiendo la entrada de camiones de ayuda humanitaria al territorio palestino.\nEn los últimos dos meses, el primer ministro israelí, Benjamín Netanyahu, permitió la entrada de ayuda, debido a la presión internacional y adjudicó a la Fundación Humanitaria para Gaza (GHF, por sus siglas en inglés) la distribución y entrega de ayuda, en contra de la opinión de las organizaciones que trabajan sobre el terreno, que la consideran una empresa no profesional humanitaria y que sirve a motivos políticos israelíes.\nIsrael reanudó la ofensiva bélica contra el territorio palestino, rompiendo el alto el fuego, a mediados de marzo aduciendo la inflexibilidad de Hamás.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/media-luna-palestina-asesinato-trabajador/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 2117,
+    "message_id": 100767,
+    "date": "2025-08-03T04:55:07+00:00",
+    "text": "teleSUR\nMedia Luna Roja de Palestina denuncia el asesinato de otro de sus miembros en Gaza\nhttps://www.telesurtv.net/media-luna-palestina-asesinato-trabajador/",
+    "photo_path": null,
+    "views": 2117,
+    "reactions": {
+      "😢": 30,
+      "🤬": 16,
+      "😭": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "la media luna roja palestina informó el sábado que uno de sus empleados falleció en un ataque israelí contra la sede de la organización humanitaria ubicada en la ciudad de khan younis, en el sur de la franja de gaza. a través de su cuenta en x, la organización indicó que la agresión contra su sede provocó un incendio en donde murió un miembro del personal y otros tres resultaron heridos. según el ministerio de sanidad palestino, la cifra de palestinos muertos desde el inicio de la operación genocida israelí ascendió 60.300, mientras que el número de heridos supera los 147.600. luego de una tregua entre enero y marzo del presente año, israel dejó de suministrar electricidad a la planta desalinizadora en la franja de gaza e impuso un bloqueo impidiendo la entrada de camiones de ayuda humanitaria al territorio palestino. en los últimos dos meses, el primer ministro israelí, benjamín netanyahu, permitió la entrada de ayuda, debido a la presión internacional y adjudicó a la fundación humanitaria para gaza (ghf, por sus siglas en inglés) la distribución y entrega de ayuda, en contra de la opinión de las organizaciones que trabajan sobre el terreno, que la consideran una empresa no profesional humanitaria y que sirve a motivos políticos israelíes. israel reanudó la ofensiva bélica contra el territorio palestino, rompiendo el alto el fuego, a mediados de marzo aduciendo la inflexibilidad de hamás.",
+    "tokens": [
+      "media",
+      "luna",
+      "roja",
+      "palestina",
+      "informó",
+      "sábado",
+      "empleados",
+      "falleció",
+      "ataque",
+      "israelí",
+      "sede",
+      "organización",
+      "humanitaria",
+      "ubicada",
+      "ciudad",
+      "khan",
+      "younis",
+      ",",
+      "sur",
+      "franja",
+      "gaza",
+      ".",
+      "través",
+      "cuenta",
+      "x",
+      ",",
+      "organización",
+      "indicó",
+      "agresión",
+      "sede",
+      "provocó",
+      "incendio",
+      "murió",
+      "miembro",
+      "personal",
+      "tres",
+      "resultaron",
+      "heridos",
+      ".",
+      "según",
+      "ministerio",
+      "sanidad",
+      "palestino",
+      ",",
+      "cifra",
+      "palestinos",
+      "muertos",
+      "inicio",
+      "operación",
+      "genocida",
+      "israelí",
+      "ascendió",
+      "60.300",
+      ",",
+      "mientras",
+      "número",
+      "heridos",
+      "supera",
+      "147.600.",
+      "luego",
+      "tregua",
+      "enero",
+      "marzo",
+      "presente",
+      "año",
+      ",",
+      "israel",
+      "dejó",
+      "suministrar",
+      "electricidad",
+      "planta",
+      "desalinizadora",
+      "franja",
+      "gaza",
+      "impuso",
+      "bloqueo",
+      "impidiendo",
+      "entrada",
+      "camiones",
+      "ayuda",
+      "humanitaria",
+      "territorio",
+      "palestino",
+      ".",
+      "últimos",
+      "dos",
+      "meses",
+      ",",
+      "primer",
+      "ministro",
+      "israelí",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "permitió",
+      "entrada",
+      "ayuda",
+      ",",
+      "debido",
+      "presión",
+      "internacional",
+      "adjudicó",
+      "fundación",
+      "humanitaria",
+      "gaza",
+      "(",
+      "ghf",
+      ",",
+      "siglas",
+      "inglés",
+      ")",
+      "distribución",
+      "entrega",
+      "ayuda",
+      ",",
+      "opinión",
+      "organizaciones",
+      "trabajan",
+      "terreno",
+      ",",
+      "consideran",
+      "empresa",
+      "profesional",
+      "humanitaria",
+      "sirve",
+      "motivos",
+      "políticos",
+      "israelíes",
+      ".",
+      "israel",
+      "reanudó",
+      "ofensiva",
+      "bélica",
+      "territorio",
+      "palestino",
+      ",",
+      "rompiendo",
+      "alto",
+      "fuego",
+      ",",
+      "mediados",
+      "marzo",
+      "aduciendo",
+      "inflexibilidad",
+      "hamás",
+      "."
+    ],
+    "token_count": 147,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NN": 77,
+      "FW": 75,
+      "JJ": 19,
+      "IN": 7,
+      "NNS": 6,
+      "VBP": 5,
+      "RB": 1,
+      "CD": 2,
+      "VBD": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-NN": 11,
+      "NN-NN": 40,
+      "NN-FW": 13,
+      "FW-FW": 52,
+      "FW-NN": 9,
+      "FW-JJ": 5,
+      "JJ-NN": 15,
+      "NN-JJ": 5,
+      "FW-NNP": 6,
+      "NNP-FW": 5,
+      "JJ-JJ": 2,
+      "NN-IN": 6,
+      "IN-NN": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "JJ-NNP": 1,
+      "NN-NNP": 7,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "IN-FW": 4,
+      "FW-NNS": 3,
+      "NN-RB": 1,
+      "RB-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "VBP-NN": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 23,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 39,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 5,
+      "NN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 5,
+      "JJ-NN-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NN": 3,
+      "IN-FW-FW": 1,
+      "FW-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NN-JJ": 1,
+      "FW-FW-NNS": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNP-NNP": 3,
+      "FW-FW-JJ": 1,
+      "NN-FW-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "FW": 75,
+        "NNP": 26,
+        "JJ": 19,
+        "IN": 7
+      },
+      "top_bigrams": {
+        "FW-FW": 52,
+        "NN-NN": 40,
+        "JJ-NN": 15,
+        "NN-FW": 13,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 39,
+        "NN-NN-NN": 23,
+        "NN-FW-FW": 8,
+        "JJ-NN-NN": 7,
+        "FW-FW-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 55,
+      "PP": 3,
+      "VP": 8,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "S -> NP ('uno', 'FW') ('de', 'FW') ('sus', 'FW') ('empleados', 'FW') NP ('en', 'FW') NP NP ('sede', 'FW') ('de', 'FW') ('la', 'FW') ('organización', 'FW') ('humanitaria', 'FW') ('ubicada', 'FW') ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Media', 'NNP') ('Luna', 'NNP') ('Roja', 'NNP') ('Palestina', 'NNP') ('informó', 'NN') ('el', 'NN') ('sábado', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('falleció', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('ataque', 'NN') ('israelí', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Khan', 'NNP') ('Younis', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Media Luna Roja Palestina informó el sábado que"
+      },
+      {
+        "label": "NP",
+        "text": "falleció"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque israelí"
+      },
+      {
+        "label": "NP",
+        "text": "contra la"
+      },
+      {
+        "label": "NP",
+        "text": "Khan Younis"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "A través"
+      },
+      {
+        "label": "NP",
+        "text": "cuenta"
+      },
+      {
+        "label": "NP",
+        "text": "X"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "agresión contra su sede provocó"
+      },
+      {
+        "label": "NP",
+        "text": "un incendio"
+      },
+      {
+        "label": "PP",
+        "text": "en donde murió"
+      },
+      {
+        "label": "NP",
+        "text": "donde murió"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    La/NNP\n    Media/NNP\n    Luna/NNP\n    Roja/NNP\n    Palestina/NNP\n    informó/NN\n    el/NN\n    sábado/NN\n    que/NN)\n  uno/FW\n  de/FW\n  sus/FW\n  empleados/FW\n  (NP falleció/NN)\n  en/FW\n  (NP un/JJ ataque/NN israelí/NN)\n  (NP contra/JJ la/NN)\n  sede/FW\n  de/FW\n  la/FW\n  organización/FW\n  humanitaria/FW\n  ubicada/FW\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Khan/NNP Younis/NNP)\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  su/FW\n  (NP cuenta/NN)\n  en/FW\n  (NP X/NNP)\n  ,/,\n  la/FW\n  organización/FW\n  indicó/FW\n  (NP que/NN)\n  la/FW\n  (NP agresión/JJ contra/JJ su/NN sede/NN provocó/NN)\n  (NP un/JJ incendio/NN)\n  (PP en/IN (NP donde/NN murió/NN))\n  (NP un/JJ miembro/NN)\n  del/FW\n  (NP personal/JJ y/NN otros/NN)\n  (VP tres/VBZ (NP resultaron/JJ heridos/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP Ministerio/NNP)\n  (PP de/IN (NP Sanidad/NNP palestino/NN))\n  ,/,\n  la/FW\n  cifra/FW\n  de/FW\n  palestinos/FW\n  (NP muertos/NNS)\n  (VP desde/VBP (NP el/JJ inicio/NN))\n  de/IN\n  la/FW\n  operación/FW\n  genocida/FW\n  (NP israelí/NN ascendió/NN)\n  60.300/CD\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  el/FW\n  número/FW\n  de/FW\n  heridos/FW\n  (NP supera/NN los/NN)\n  147.600/CD\n  ./.)",
+      "(S\n  (NP Luego/NNP)\n  de/FW\n  una/FW\n  (NP\n    tregua/NN\n    entre/NN\n    enero/NN\n    y/NN\n    marzo/NN\n    del/NN\n    presente/NN\n    año/NN)\n  ,/,\n  (NP Israel/NNP dejó/NNP)\n  de/FW\n  suministrar/FW\n  electricidad/FW\n  (NP a/DT la/NN planta/NN desalinizadora/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  e/CC\n  (NP impuso/JJ un/JJ bloqueo/NN impidiendo/NN)\n  la/FW\n  entrada/FW\n  de/FW\n  camiones/FW\n  de/FW\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (VP al/VBP (NP territorio/NN palestino/NN))\n  ./.)",
+      "(S\n  (NP En/NNP los/NN últimos/NNP dos/NN meses/NNS)\n  ,/,\n  el/FW\n  primer/FW\n  ministro/FW\n  (NP israelí/NN)\n  ,/,\n  (NP Benjamín/NNP Netanyahu/NNP)\n  ,/,\n  (NP permitió/NN)\n  la/FW\n  entrada/FW\n  de/FW\n  ayuda/FW\n  ,/,\n  (VP\n    debido/VBZ\n    (NP a/DT la/NN)\n    (NP presión/JJ internacional/JJ y/NN))\n  (VP\n    adjudicó/VBZ\n    (NP a/DT la/NN Fundación/NNP Humanitaria/NNP para/NN Gaza/NNP))\n  (/(\n  (NP GHF/NNP)\n  ,/,\n  (NP por/NN sus/NN siglas/NN)\n  (PP en/IN (NP inglés/NN))\n  )/)\n  (NP la/NN)\n  distribución/FW\n  (ADJP y/JJ)\n  entrega/FW\n  de/FW\n  ayuda/FW\n  ,/,\n  en/FW\n  contra/FW\n  de/FW\n  la/FW\n  opinión/FW\n  de/FW\n  las/FW\n  (NP organizaciones/NNS)\n  (VP que/VBP (NP trabajan/JJ sobre/NN el/NN terreno/NN))\n  ,/,\n  (NP que/JJ la/NN consideran/NN)\n  (ADJP una/JJ)\n  (VP\n    empresa/VBZ\n    (NP no/DT profesional/JJ humanitaria/NN y/NN que/NN))\n  (VP sirve/VBP (NP a/DT motivos/NN políticos/NN israelíes/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ORGANIZACIONES_SOCIALES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          29,
+          36
+        ],
+        "start": 29,
+        "end": 36
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          787,
+          804
+        ],
+        "start": 787,
+        "end": 804
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "fundación",
+        "position": [
+          984,
+          993
+        ],
+        "start": 984,
+        "end": 993
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          669,
+          681
+        ],
+        "start": 669,
+        "end": 681
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          19,
+          28
+        ],
+        "start": 19,
+        "end": 28
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          742,
+          749
+        ],
+        "start": 742,
+        "end": 749
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "GHF",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Sanidad palestino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Media Luna Roja Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fundación Humanitaria para Gaza",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Media Luna Roja Palestina",
+        "relacion": "INFORMAR",
+        "objeto": "Khan Younis"
+      },
+      {
+        "sujeto": "Media Luna Roja Palestina",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Benjamín Netanyahu",
+        "relacion": "PERMITIR",
+        "objeto": "Fundación Humanitaria para Gaza"
+      },
+      {
+        "sujeto": "Benjamín Netanyahu",
+        "relacion": "PERMITIR",
+        "objeto": "GHF"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REANUDAR",
+        "objeto": "Hamás"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

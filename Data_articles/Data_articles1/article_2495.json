@@ -1,0 +1,897 @@
+{
+  "url": "https://www.telesurtv.net/diaz-canel-accion-de-trump-sobre-cuba-es-un-acto-de-arrogancia/",
+  "title": "Díaz-Canel: Medida de Trump contra Cuba es un \"acto de arrogancia\" - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cuba",
+    "Estados Unidos",
+    "Trump"
+  ],
+  "text": "El presidente de Cuba, Miguel Díaz-Canel, rechazó este lunes la acción anunciada por el presidente de Estados Unidos (EE.UU.), Donald Trump, de volver a incluir a la nación caribeña en la espuria lista de países que se atribuyen a patrocinar el terrorismo.\n“Presidente Trump, en acto de arrogancia y desprecio por la verdad, acaba de restablecer la fraudulenta designación de Cuba como Estado patrocinador del terrorismo. No sorprende”, escribió el mandatario en la red social X.\nDíaz-Canel sostuvo que la meta del mandatario de Estados Unidos es “seguir fortaleciendo la cruel guerra económica contra Cuba con fines de dominación”.\nSegún el presidente cubano, esta acción representa un “acto de burla y abuso” y reafirma “el descrédito de los listados y los mecanismos de coerción unilateral del gobierno de EEUU”.\nLa consecuencia de las acciones extremas de presión económica implementadas por Trump ha sido generar deficiencias en “nuestro pueblo y un incremento significativo del flujo migratorio de Cuba hacia Estados Unidos”, evaluó.\nHoras después de su asunción, Trump anuló la resolución del ahora expresidente Joe Biden, adoptada hace pocos días, de eliminar a Cuba de la lista de países supuestamente aliados al terrorismo.\nEn 2021, Washington añadió a Cuba a su lista de naciones que supuestamente fomentan el terrorismo, una de las últimas medidas tomadas por Trump antes de finalizar su primera gestión (2017-2021).\nEl canciller cubano Bruno Rodríguez también descalificó la decisión que dio a conocer este lunes el nuevo titular de la Casa Blanca.“Ebrio de arrogancia, el Pdte Trump decide sin razones que Cuba patrocina el terrorismo. Sabe que MIENTE. Su empeño es incrementar el castigo y la guerra económica contra las familias cubanas. Causará daño, pero no doblegará la firme determinación de nuestro pueblo. Venceremos”, escribió el ministro de Relaciones Exteriores en su cuenta de la red social X.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/diaz-canel-accion-de-trump-sobre-cuba-es-un-acto-de-arrogancia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 807,
+    "message_id": 84996,
+    "date": "2025-01-21T06:55:08+00:00",
+    "text": "teleSUR\nDíaz-Canel: Acción de Trump sobre Cuba es un «acto de arrogancia»\nhttps://www.telesurtv.net/diaz-canel-accion-de-trump-sobre-cuba-es-un-acto-de-arrogancia/",
+    "photo_path": null,
+    "views": 3418,
+    "reactions": {
+      "🤬": 52,
+      "💯": 18,
+      "👍": 7,
+      "🔥": 2,
+      "🫡": 2,
+      "👏": 1
+    },
+    "total_reactions": 82
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de cuba, miguel díaz-canel, rechazó este lunes la acción anunciada por el presidente de estados unidos (ee.uu.), donald trump, de volver a incluir a la nación caribeña en la espuria lista de países que se atribuyen a patrocinar el terrorismo. “presidente trump, en acto de arrogancia y desprecio por la verdad, acaba de restablecer la fraudulenta designación de cuba como estado patrocinador del terrorismo. no sorprende”, escribió el mandatario en la red social x. díaz-canel sostuvo que la meta del mandatario de estados unidos es “seguir fortaleciendo la cruel guerra económica contra cuba con fines de dominación”. según el presidente cubano, esta acción representa un “acto de burla y abuso” y reafirma “el descrédito de los listados y los mecanismos de coerción unilateral del gobierno de eeuu”. la consecuencia de las acciones extremas de presión económica implementadas por trump ha sido generar deficiencias en “nuestro pueblo y un incremento significativo del flujo migratorio de cuba hacia estados unidos”, evaluó. horas después de su asunción, trump anuló la resolución del ahora expresidente joe biden, adoptada hace pocos días, de eliminar a cuba de la lista de países supuestamente aliados al terrorismo. en 2021, washington añadió a cuba a su lista de naciones que supuestamente fomentan el terrorismo, una de las últimas medidas tomadas por trump antes de finalizar su primera gestión (2017-2021). el canciller cubano bruno rodríguez también descalificó la decisión que dio a conocer este lunes el nuevo titular de la casa blanca.“ebrio de arrogancia, el pdte trump decide sin razones que cuba patrocina el terrorismo. sabe que miente. su empeño es incrementar el castigo y la guerra económica contra las familias cubanas. causará daño, pero no doblegará la firme determinación de nuestro pueblo. venceremos”, escribió el ministro de relaciones exteriores en su cuenta de la red social x.",
+    "tokens": [
+      "presidente",
+      "cuba",
+      ",",
+      "miguel",
+      "díaz-canel",
+      ",",
+      "rechazó",
+      "lunes",
+      "acción",
+      "anunciada",
+      "presidente",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "volver",
+      "incluir",
+      "nación",
+      "caribeña",
+      "espuria",
+      "lista",
+      "países",
+      "atribuyen",
+      "patrocinar",
+      "terrorismo",
+      ".",
+      "“",
+      "presidente",
+      "trump",
+      ",",
+      "acto",
+      "arrogancia",
+      "desprecio",
+      "verdad",
+      ",",
+      "acaba",
+      "restablecer",
+      "fraudulenta",
+      "designación",
+      "cuba",
+      "patrocinador",
+      "terrorismo",
+      ".",
+      "sorprende",
+      "”",
+      ",",
+      "escribió",
+      "mandatario",
+      "red",
+      "social",
+      "x.",
+      "díaz-canel",
+      "sostuvo",
+      "meta",
+      "mandatario",
+      "unidos",
+      "“",
+      "seguir",
+      "fortaleciendo",
+      "cruel",
+      "guerra",
+      "económica",
+      "cuba",
+      "fines",
+      "dominación",
+      "”",
+      ".",
+      "según",
+      "presidente",
+      "cubano",
+      ",",
+      "acción",
+      "representa",
+      "“",
+      "acto",
+      "burla",
+      "abuso",
+      "”",
+      "reafirma",
+      "“",
+      "descrédito",
+      "listados",
+      "mecanismos",
+      "coerción",
+      "unilateral",
+      "gobierno",
+      "eeuu",
+      "”",
+      ".",
+      "consecuencia",
+      "acciones",
+      "extremas",
+      "presión",
+      "económica",
+      "implementadas",
+      "trump",
+      "sido",
+      "generar",
+      "deficiencias",
+      "“",
+      "pueblo",
+      "incremento",
+      "significativo",
+      "flujo",
+      "migratorio",
+      "cuba",
+      "hacia",
+      "unidos",
+      "”",
+      ",",
+      "evaluó",
+      ".",
+      "horas",
+      "después",
+      "asunción",
+      ",",
+      "trump",
+      "anuló",
+      "resolución",
+      "ahora",
+      "expresidente",
+      "joe",
+      "biden",
+      ",",
+      "adoptada",
+      "hace",
+      "pocos",
+      "días",
+      ",",
+      "eliminar",
+      "cuba",
+      "lista",
+      "países",
+      "supuestamente",
+      "aliados",
+      "terrorismo",
+      ".",
+      "2021",
+      ",",
+      "washington",
+      "añadió",
+      "cuba",
+      "lista",
+      "naciones",
+      "supuestamente",
+      "fomentan",
+      "terrorismo",
+      ",",
+      "últimas",
+      "medidas",
+      "tomadas",
+      "trump",
+      "finalizar",
+      "primera",
+      "gestión",
+      "(",
+      "2017-2021",
+      ")",
+      ".",
+      "canciller",
+      "cubano",
+      "bruno",
+      "rodríguez",
+      "descalificó",
+      "decisión",
+      "dio",
+      "conocer",
+      "lunes",
+      "nuevo",
+      "titular",
+      "casa",
+      "blanca.",
+      "“",
+      "ebrio",
+      "arrogancia",
+      ",",
+      "pdte",
+      "trump",
+      "decide",
+      "razones",
+      "cuba",
+      "patrocina",
+      "terrorismo",
+      ".",
+      "sabe",
+      "miente",
+      ".",
+      "empeño",
+      "incrementar",
+      "castigo",
+      "guerra",
+      "económica",
+      "familias",
+      "cubanas",
+      ".",
+      "causará",
+      "daño",
+      ",",
+      "doblegará",
+      "firme",
+      "determinación",
+      "pueblo",
+      ".",
+      "venceremos",
+      "”",
+      ",",
+      "escribió",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      "cuenta",
+      "red",
+      "social",
+      "x",
+      "."
+    ],
+    "token_count": 219,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 50,
+      "NN": 92,
+      "FW": 85,
+      "NNS": 8,
+      "VBP": 5,
+      "IN": 15,
+      "JJ": 22,
+      "VBZ": 6,
+      "DT": 2,
+      "CC": 1,
+      "CD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 19,
+      "NN-FW": 8,
+      "FW-NNP": 13,
+      "NNP-NNP": 18,
+      "NN-NN": 50,
+      "NN-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-IN": 1,
+      "IN-NNS": 2,
+      "VBP-JJ": 3,
+      "JJ-NN": 12,
+      "NN-IN": 12,
+      "IN-NNP": 3,
+      "NNP-FW": 7,
+      "FW-FW": 59,
+      "FW-NN": 6,
+      "FW-JJ": 6,
+      "NN-NNP": 9,
+      "NN-VBZ": 3,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "VBZ-CC": 1,
+      "CC-NN": 1,
+      "IN-NN": 1,
+      "NN-JJ": 5,
+      "JJ-JJ": 4,
+      "JJ-NNP": 4,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "NNS-IN": 1,
+      "IN-FW": 8,
+      "IN-JJ": 1,
+      "FW-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-CD": 1,
+      "CD-NNP": 1,
+      "NNS-JJ": 1,
+      "NNP-IN": 1,
+      "NNP-VB": 1,
+      "VB-NN": 1,
+      "VBP-NNP": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 1,
+      "NN-DT": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 11,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 5,
+      "FW-FW-FW": 43,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 7,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 5,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 28,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 4,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNP": 5,
+      "NN-NNP-NN": 4,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-CC": 1,
+      "VBZ-CC-NN": 1,
+      "CC-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-FW": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-JJ": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 3,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-JJ-NN": 1,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 3,
+      "NN-NN-IN": 8,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "IN-NNP-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-VBZ": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NNP-NNP-VB": 1,
+      "NNP-VB-NN": 1,
+      "VB-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 85,
+        "NNP": 50,
+        "JJ": 22,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 59,
+        "NN-NN": 50,
+        "NNP-NN": 19,
+        "NNP-NNP": 18,
+        "FW-NNP": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 43,
+        "NN-NN-NN": 28,
+        "NNP-NN-NN": 11,
+        "FW-FW-NNP": 9,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 15,
+      "PP": 8,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0541
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('Trump', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Cuba', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP PP VP PP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') ('de', 'FW') ('volver', 'FW') NP NP NP ('en', 'IN') ('la', 'FW') ('espuria', 'FW') ('lista', 'FW') ('de', 'FW') ('países', 'FW') ('que', 'FW') ('se', 'FW') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Miguel', 'NNP') ('Díaz-Canel', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('rechazó', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "VP -> ('la', 'VBP')",
+        "frequency": 1,
+        "weight": 0.009
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "Miguel Díaz-Canel"
+      },
+      {
+        "label": "NP",
+        "text": "rechazó este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "PP",
+        "text": "acción anunciada"
+      },
+      {
+        "label": "NP",
+        "text": "anunciada"
+      },
+      {
+        "label": "VP",
+        "text": "por el presidente"
+      },
+      {
+        "label": "NP",
+        "text": "el presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "a incluir"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Cuba/NNP)\n  ,/,\n  (NP Miguel/NNP Díaz-Canel/NNP)\n  ,/,\n  (NP rechazó/NN este/NN lunes/NNS)\n  (VP la/VBP)\n  (PP acción/IN (NP anunciada/NNS))\n  (VP por/VBP (NP el/JJ presidente/NN))\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  de/FW\n  volver/FW\n  (NP a/DT incluir/NN)\n  (NP a/DT la/NN)\n  (NP nación/JJ caribeña/NN)\n  en/IN\n  la/FW\n  espuria/FW\n  lista/FW\n  de/FW\n  países/FW\n  que/FW\n  se/FW\n  (VP atribuyen/VBP (NP a/DT patrocinar/NN el/NN terrorismo/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Presidente/NNP Trump/NNP)\n  ,/,\n  en/FW\n  acto/FW\n  de/FW\n  arrogancia/FW\n  y/FW\n  desprecio/FW\n  (NP por/NN la/NN verdad/NN)\n  ,/,\n  acaba/FW\n  de/FW\n  restablecer/FW\n  la/FW\n  fraudulenta/FW\n  designación/FW\n  de/FW\n  (NP\n    Cuba/NNP\n    como/NN\n    Estado/NNP\n    patrocinador/NN\n    del/NN\n    terrorismo/NN)\n  ./.)",
+      "(S\n  (NP No/DT sorprende/NN ”/NN)\n  ,/,\n  (NP escribió/JJ el/NN mandatario/NN)\n  (PP en/IN (NP la/NN))\n  (NP red/JJ social/JJ X./NNP Díaz-Canel/NNP sostuvo/NN que/NN la/NN)\n  meta/FW\n  del/FW\n  mandatario/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (VP\n    es/VBZ\n    (NP “/NNP seguir/NN fortaleciendo/NN la/NN)\n    (NP cruel/JJ guerra/NN económica/NN)\n    (NP contra/JJ Cuba/NNP con/NN fines/NNS))\n  (PP de/IN (NP dominación/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP presidente/JJ cubano/NN)\n  ,/,\n  (NP esta/JJ acción/NN representa/NN)\n  (NP un/JJ “/NNP acto/NN)\n  de/IN\n  burla/FW\n  y/FW\n  abuso/FW\n  ”/FW\n  y/FW\n  reafirma/FW\n  “/FW\n  el/FW\n  descrédito/FW\n  de/FW\n  los/FW\n  (NP listados/JJ y/NN)\n  (NP los/JJ mecanismos/NN)\n  (PP de/IN (NP coerción/JJ unilateral/JJ del/NN gobierno/NN))\n  (PP de/IN (NP EEUU/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP consecuencia/NN)\n  de/FW\n  las/FW\n  (NP acciones/NNS)\n  extremas/FW\n  de/FW\n  presión/FW\n  económica/FW\n  implementadas/FW\n  por/FW\n  (NP Trump/NNP ha/NN sido/NN generar/NN deficiencias/NN)\n  en/FW\n  “/FW\n  nuestro/FW\n  pueblo/FW\n  y/FW\n  (NP\n    un/JJ\n    incremento/NN\n    significativo/NN\n    del/NN\n    flujo/NN\n    migratorio/NN)\n  (PP de/IN (NP Cuba/NNP hacia/NN Estados/NNP Unidos/NNP ”/NNP))\n  ,/,\n  (NP evaluó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra económica contra cuba",
+        "position": [
+          578,
+          606
+        ],
+        "start": 578,
+        "end": 606
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "rechazó este lunes la acción anunciada por el presidente de",
+        "position": [
+          42,
+          101
+        ],
+        "start": 42,
+        "end": 101
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          491,
+          498
+        ],
+        "start": 491,
+        "end": 498
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de eeuu",
+        "position": [
+          797,
+          813
+        ],
+        "start": 797,
+        "end": 813
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de cuba",
+        "position": [
+          3,
+          21
+        ],
+        "start": 3,
+        "end": 21
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          1853,
+          1886
+        ],
+        "start": 1853,
+        "end": 1886
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          42,
+          49
+        ],
+        "start": 42,
+        "end": 49
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          17,
+          21
+        ],
+        "start": 17,
+        "end": 21
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          102,
+          116
+        ],
+        "start": 102,
+        "end": 116
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "asunción",
+        "position": [
+          1060,
+          1068
+        ],
+        "start": 1060,
+        "end": 1068
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado patrocinador",
+        "position": [
+          386,
+          405
+        ],
+        "start": 386,
+        "end": 405
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pdte Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sabe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Causará",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "MIENTE",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Miguel Díaz-Canel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venceremos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Presidente Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado patrocinador del terrorismo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "X.\nDíaz-Canel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bruno Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EEUU",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cuba",
+        "relacion": "RECHAZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "RECHAZAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "RECHAZAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Miguel Díaz-Canel",
+        "relacion": "RECHAZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Miguel Díaz-Canel",
+        "relacion": "RECHAZAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Miguel Díaz-Canel",
+        "relacion": "RECHAZAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Presidente Trump",
+        "relacion": "ACABAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Presidente Trump",
+        "relacion": "ACABAR",
+        "objeto": "Estado patrocinador del terrorismo"
+      },
+      {
+        "sujeto": "X.\nDíaz-Canel",
+        "relacion": "ESCRIBIR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "X.\nDíaz-Canel",
+        "relacion": "ESCRIBIR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "SER_SOSTENER_ESCRIBIR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "SER_EVALUAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "SER_EVALUAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "ANULAR",
+        "objeto": "Joe Biden"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "ANULAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "A_ADIR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "A_ADIR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "A_ADIR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Bruno Rodríguez",
+        "relacion": "DESCALIFICAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Pdte Trump",
+        "relacion": "DECIDIR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Sabe",
+        "relacion": "SABER",
+        "objeto": "MIENTE"
+      },
+      {
+        "sujeto": "Venceremos",
+        "relacion": "VENCER_ESCRIBIR",
+        "objeto": "Relaciones Exteriores"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8555,
+    "pos": 0.008,
+    "neu": 0.952,
+    "neg": 0.04,
+    "label": "negative"
+  }
+}

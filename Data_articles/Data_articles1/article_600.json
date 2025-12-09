@@ -1,0 +1,641 @@
+{
+  "url": "https://www.telesurtv.net/trump-violo-ley-despliegue-militar-california/",
+  "title": "Trump violó la ley: Juez federal determina que despliegue militar en California fue ilegal - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "EE.UU.trump",
+    "juicio",
+    "Trump"
+  ],
+  "text": "Un juez federal dictaminó este martes que la administración de Donald Trump violó la legislación estadounidense al utilizar tropas de la Guardia Nacional en operaciones de control migratorio y en protestas en el sur de California durante el verano.\nLEA TAMBIÉN:Trump: eliminar guerra arancelaria convertiría a EE.UU. en “una nación tercermundista”\nEl juez Charles Breyer, de San Francisco, señaló que el despliegue infringió la Ley Posse Comitatus, que prohíbe a las fuerzas militares participar en la aplicación de leyes domésticas.\nSin embargo, no ordenó la retirada inmediata de los efectivos, sino que fijó la entrada en vigor de su fallo para este viernes.\nEl gobierno de California había presentado una demanda argumentando que la presencia militar en Los Ángeles constituía un uso indebido de la fuerza militar para tareas de orden interno.\n\n\nEn respuesta, abogados de la administración republicana defendieron que los soldados fueron desplegados para proteger a agentes federales, no para aplicar la ley.\nAfirmaron además que el despliegue se realizó bajo una autoridad que permite al presidente movilizar a la Guardia Nacional.\nLa decisión judicial se produce mientras Trump ha sugerido nuevos despliegues de la Guardia Nacional en ciudades lideradas por demócratas, como Chicago, Baltimore y Nueva York.\nEn el pasado, ya había ordenado un despliegue similar en Washington D.C., donde cuenta con control legal directo sobre la fuerza.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/trump-violo-ley-despliegue-militar-california/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 985,
+    "message_id": 103570,
+    "date": "2025-09-02T17:55:08+00:00",
+    "text": "teleSUR\nTrump violó la ley: Juez federal determina que despliegue militar en California fue ilegal\nhttps://www.telesurtv.net/trump-violo-ley-despliegue-militar-california/",
+    "photo_path": null,
+    "views": 1823,
+    "reactions": {
+      "❤": 28,
+      "👍": 18,
+      "💩": 4,
+      "👏": 2
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "un juez federal dictaminó este martes que la administración de donald trump violó la legislación estadounidense al utilizar tropas de la guardia nacional en operaciones de control migratorio y en protestas en el sur de california durante el verano. el juez charles breyer, de san francisco, señaló que el despliegue infringió la ley posse comitatus, que prohíbe a las fuerzas militares participar en la aplicación de leyes domésticas. sin embargo, no ordenó la retirada inmediata de los efectivos, sino que fijó la entrada en vigor de su fallo para este viernes. el gobierno de california había presentado una demanda argumentando que la presencia militar en los ángeles constituía un uso indebido de la fuerza militar para tareas de orden interno. en respuesta, abogados de la administración republicana defendieron que los soldados fueron desplegados para proteger a agentes federales, no para aplicar la ley. afirmaron además que el despliegue se realizó bajo una autoridad que permite al presidente movilizar a la guardia nacional. la decisión judicial se produce mientras trump ha sugerido nuevos despliegues de la guardia nacional en ciudades lideradas por demócratas, como chicago, baltimore y nueva york. en el pasado, ya había ordenado un despliegue similar en washington d.c., donde cuenta con control legal directo sobre la fuerza.",
+    "tokens": [
+      "juez",
+      "federal",
+      "dictaminó",
+      "martes",
+      "administración",
+      "donald",
+      "trump",
+      "violó",
+      "legislación",
+      "estadounidense",
+      "utilizar",
+      "tropas",
+      "guardia",
+      "nacional",
+      "operaciones",
+      "control",
+      "migratorio",
+      "protestas",
+      "sur",
+      "california",
+      "verano",
+      ".",
+      "juez",
+      "charles",
+      "breyer",
+      ",",
+      "san",
+      "francisco",
+      ",",
+      "señaló",
+      "despliegue",
+      "infringió",
+      "ley",
+      "posse",
+      "comitatus",
+      ",",
+      "prohíbe",
+      "fuerzas",
+      "militares",
+      "participar",
+      "aplicación",
+      "leyes",
+      "domésticas",
+      ".",
+      "embargo",
+      ",",
+      "ordenó",
+      "retirada",
+      "inmediata",
+      "efectivos",
+      ",",
+      "sino",
+      "fijó",
+      "entrada",
+      "vigor",
+      "fallo",
+      "viernes",
+      ".",
+      "gobierno",
+      "california",
+      "presentado",
+      "demanda",
+      "argumentando",
+      "presencia",
+      "militar",
+      "ángeles",
+      "constituía",
+      "uso",
+      "indebido",
+      "fuerza",
+      "militar",
+      "tareas",
+      "orden",
+      "interno",
+      ".",
+      "respuesta",
+      ",",
+      "abogados",
+      "administración",
+      "republicana",
+      "defendieron",
+      "soldados",
+      "desplegados",
+      "proteger",
+      "agentes",
+      "federales",
+      ",",
+      "aplicar",
+      "ley",
+      ".",
+      "afirmaron",
+      "además",
+      "despliegue",
+      "realizó",
+      "bajo",
+      "autoridad",
+      "permite",
+      "presidente",
+      "movilizar",
+      "guardia",
+      "nacional",
+      ".",
+      "decisión",
+      "judicial",
+      "produce",
+      "mientras",
+      "trump",
+      "sugerido",
+      "nuevos",
+      "despliegues",
+      "guardia",
+      "nacional",
+      "ciudades",
+      "lideradas",
+      "demócratas",
+      ",",
+      "chicago",
+      ",",
+      "baltimore",
+      "nueva",
+      "york",
+      ".",
+      "pasado",
+      ",",
+      "ordenado",
+      "despliegue",
+      "similar",
+      "washington",
+      "d.c.",
+      ",",
+      "cuenta",
+      "control",
+      "legal",
+      "directo",
+      "fuerza",
+      "."
+    ],
+    "token_count": 136,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "VBZ": 8,
+      "JJ": 23,
+      "NN": 83,
+      "FW": 37,
+      "IN": 11,
+      "NNS": 8,
+      "VBP": 6,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 5,
+      "VBZ-JJ": 5,
+      "JJ-NN": 16,
+      "NN-NN": 45,
+      "NN-VBZ": 2,
+      "JJ-FW": 1,
+      "FW-FW": 19,
+      "FW-NNP": 8,
+      "NNP-NNP": 17,
+      "NNP-NN": 12,
+      "NN-FW": 7,
+      "FW-NN": 7,
+      "NN-JJ": 10,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "NNP-FW": 4,
+      "IN-NNS": 1,
+      "NNS-IN": 2,
+      "IN-JJ": 1,
+      "IN-NNP": 3,
+      "NN-NNP": 6,
+      "JJ-JJ": 2,
+      "NN-VBP": 3,
+      "VBP-NN": 2,
+      "NN-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-VBP": 3,
+      "VBP-IN": 1,
+      "VBZ-DT": 2,
+      "DT-JJ": 1,
+      "FW-JJ": 2,
+      "NNS-NNP": 2,
+      "VBZ-VBZ": 1,
+      "DT-NN": 1,
+      "VBP-NNS": 1,
+      "FW-NNS": 1,
+      "VBP-JJ": 1,
+      "VBP-NNP": 1,
+      "JJ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 4,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 7,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-NNP": 2,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "NN-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NN-NN-NN": 19,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-FW-FW": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "FW-NN-NNP": 1,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NNP-NNP-VBZ": 2,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-IN": 1,
+      "JJ-IN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 83,
+        "NNP": 38,
+        "FW": 37,
+        "JJ": 23,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 19,
+        "NNP-NNP": 17,
+        "JJ-NN": 16,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 19,
+        "FW-FW-FW": 13,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 9,
+        "NN-NN-JJ": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 12,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0471
+      },
+      {
+        "rule": "NP -> ('Guardia', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0353
+      },
+      {
+        "rule": "S -> NP VP VP ('la', 'FW') ('administración', 'FW') ('de', 'FW') NP ('legislación', 'FW') NP NP ('de', 'IN') ('la', 'FW') NP ('en', 'FW') ('operaciones', 'FW') ('de', 'FW') NP PP PP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "VP -> ('juez', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('federal', 'JJ') ('dictaminó', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') ('que', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('Donald', 'NNP') ('Trump', 'NNP') ('violó', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('estadounidense', 'NN') ('al', 'NN')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('utilizar', 'JJ') ('tropas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0118
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un"
+      },
+      {
+        "label": "VP",
+        "text": "juez federal dictaminó este"
+      },
+      {
+        "label": "NP",
+        "text": "federal dictaminó este"
+      },
+      {
+        "label": "VP",
+        "text": "martes que"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump violó la"
+      },
+      {
+        "label": "NP",
+        "text": "estadounidense al"
+      },
+      {
+        "label": "NP",
+        "text": "utilizar tropas"
+      },
+      {
+        "label": "NP",
+        "text": "Guardia Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "control migratorio y"
+      },
+      {
+        "label": "PP",
+        "text": "en protestas"
+      },
+      {
+        "label": "NP",
+        "text": "protestas"
+      },
+      {
+        "label": "PP",
+        "text": "en el sur"
+      },
+      {
+        "label": "NP",
+        "text": "el sur"
+      },
+      {
+        "label": "PP",
+        "text": "de California durante el verano"
+      },
+      {
+        "label": "NP",
+        "text": "California durante el verano"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP)\n  (VP juez/VBZ (NP federal/JJ dictaminó/NN este/NN))\n  (VP martes/VBZ que/JJ)\n  la/FW\n  administración/FW\n  de/FW\n  (NP Donald/NNP Trump/NNP violó/NN la/NN)\n  legislación/FW\n  (NP estadounidense/NN al/NN)\n  (NP utilizar/JJ tropas/NN)\n  de/IN\n  la/FW\n  (NP Guardia/NNP Nacional/NNP)\n  en/FW\n  operaciones/FW\n  de/FW\n  (NP control/NN migratorio/NN y/NN)\n  (PP en/IN (NP protestas/NNS))\n  (PP en/IN (NP el/JJ sur/NN))\n  (PP de/IN (NP California/NNP durante/NN el/NN verano/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Trump/NN)\n  :/:\n  (NP eliminar/JJ guerra/NN arancelaria/NNS)\n  (VP convertiría/VBP (NP a/DT EE.UU./NNP))\n  en/FW\n  (NP “/NNP)\n  (NP\n    una/JJ\n    nación/NN\n    tercermundista/NN\n    ”/NNP\n    El/NNP\n    juez/NN\n    Charles/NNP\n    Breyer/NNP)\n  ,/,\n  de/FW\n  (NP San/NNP Francisco/NNP)\n  ,/,\n  (NP señaló/NN que/NN)\n  (VP\n    el/VBP\n    (NP\n      despliegue/NN\n      infringió/NN\n      la/NN\n      Ley/NNP\n      Posse/NNP\n      Comitatus/NNP))\n  ,/,\n  (NP que/NN)\n  (VP prohíbe/VBD (NP a/DT las/JJ fuerzas/NN militares/NNS))\n  (VP participar/VBP)\n  en/IN\n  la/FW\n  aplicación/FW\n  de/FW\n  leyes/FW\n  (NP domésticas/NN)\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP no/DT ordenó/NN)\n  (VP la/VBZ (NP retirada/JJ inmediata/NN))\n  de/IN\n  los/FW\n  (NP efectivos/NN)\n  ,/,\n  (NP sino/NN que/NN fijó/NN)\n  la/FW\n  entrada/FW\n  en/FW\n  vigor/FW\n  de/FW\n  su/FW\n  fallo/FW\n  para/FW\n  (NP este/NN viernes/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP gobierno/NN)\n  de/FW\n  (NP California/NNP había/NN presentado/NN)\n  (NP una/JJ demanda/NN argumentando/NN que/NN la/NN)\n  presencia/FW\n  (NP militar/NN)\n  (PP en/IN (NP Los/NNP Ángeles/NNP constituía/NN))\n  (NP un/JJ uso/JJ indebido/NN)\n  de/IN\n  la/FW\n  (NP fuerza/JJ militar/NN para/NN)\n  tareas/FW\n  de/FW\n  orden/FW\n  (NP interno/NN)\n  ./.)",
+      "(S\n  (NP En/NNP respuesta/NN)\n  ,/,\n  abogados/FW\n  de/FW\n  la/FW\n  administración/FW\n  republicana/FW\n  (NP defendieron/NN que/NN los/NN)\n  (NP soldados/JJ fueron/NN desplegados/NN para/NN proteger/NN)\n  (NP a/DT agentes/NNS federales/NNS)\n  ,/,\n  (NP no/DT para/NN aplicar/NN la/NN ley/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra arancelaria convertiría a ee.uu. en “una",
+        "position": [
+          277,
+          324
+        ],
+        "start": 277,
+        "end": 324
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          390,
+          396
+        ],
+        "start": 390,
+        "end": 396
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de california había",
+        "position": [
+          665,
+          693
+        ],
+        "start": 665,
+        "end": 693
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente movilizar a",
+        "position": [
+          1093,
+          1115
+        ],
+        "start": 1093,
+        "end": 1115
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          538,
+          545
+        ],
+        "start": 538,
+        "end": 545
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Chicago",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guardia Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "San Francisco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nueva York",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Charles Breyer",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Baltimore",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington D.C.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Los Ángeles",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "California",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "VIOLAR_DICTAMINAR",
+        "objeto": "Guardia Nacional"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "VIOLAR_DICTAMINAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "Guardia Nacional",
+        "relacion": "UTILIZAR_VIOLAR_DICTAMINAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "ES",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "California",
+        "relacion": "PRESENTAR",
+        "objeto": "Los Ángeles"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "SUGERIR_PRODUCIR",
+        "objeto": "Guardia Nacional"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "SUGERIR_PRODUCIR",
+        "objeto": "Chicago"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "SUGERIR_PRODUCIR",
+        "objeto": "Baltimore"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "SUGERIR_PRODUCIR",
+        "objeto": "Nueva York"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4588,
+    "pos": 0.027,
+    "neu": 0.937,
+    "neg": 0.036,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "url": "https://www.telesurtv.net/gobierno-venezolano-brinda-solidaridad-a-desplazados-que-llegan-desde-colombia/",
+  "title": "Gobierno venezolano brinda solidaridad a desplazados que llegan desde Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Desplazados",
+    "Venezuela"
+  ],
+  "text": "El vicepresidente sectorial de Política, Seguridad Ciudadana y Paz, Diosdado Cabello Rondón, compartió este miércoles con los desplazados que han llegado a Venezuela desde Colombia.\nEstas personas han huido a causa de la guerra y la violencia generada por grupos armados en su país de origen. Venezuela ha mantenido una tradición de solidaridad con los colombianos que buscan refugio y protección ante la violencia.\nLa ayuda humanitaria no es un hecho reciente, sino parte de un compromiso histórico que el país ha asumido con aquellos que huyen de situaciones extremas.\nEn la actualidad, más de 30.000 desplazados han sido recibidos en el territorio venezolano, por lo que el Gobierno bolivariano ha implementado un sistema de atención integral que busca satisfacer las necesidades básicas de estas personas, garantizando su bienestar y seguridad.\nCon estas acciones, Venezuela no solo reafirma su compromiso con la paz y la protección de los venezolanos, sino que extiende ayuda a todos los que cruzan sus fronteras en busca de un lugar seguro.\nEl Gobierno Bolivariano interpreta esta ayuda como una extensión del legado del Comandante Hugo Chávez, quien planteaba un visión de un país donde se prioriza la vida y la dignidad humana, lo que sigue vivo en las políticas implementadas por el actual presidente, Nicolás Maduro.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gobierno-venezolano-brinda-solidaridad-a-desplazados-que-llegan-desde-colombia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 642,
+    "message_id": 85180,
+    "date": "2025-01-23T02:55:18+00:00",
+    "text": "teleSUR\nGobierno venezolano brinda solidaridad a desplazados que llegan desde Colombia\nhttps://www.telesurtv.net/gobierno-venezolano-brinda-solidaridad-a-desplazados-que-llegan-desde-colombia/",
+    "photo_path": null,
+    "views": 2530,
+    "reactions": {
+      "👏": 46,
+      "❤": 12,
+      "👍": 3,
+      "🤝": 1
+    },
+    "total_reactions": 62
+  },
+  "preprocessing": {
+    "cleaned": "el vicepresidente sectorial de política, seguridad ciudadana y paz, diosdado cabello rondón, compartió este miércoles con los desplazados que han llegado a venezuela desde colombia. estas personas han huido a causa de la guerra y la violencia generada por grupos armados en su país de origen. venezuela ha mantenido una tradición de solidaridad con los colombianos que buscan refugio y protección ante la violencia. la ayuda humanitaria no es un hecho reciente, sino parte de un compromiso histórico que el país ha asumido con aquellos que huyen de situaciones extremas. en la actualidad, más de 30.000 desplazados han sido recibidos en el territorio venezolano, por lo que el gobierno bolivariano ha implementado un sistema de atención integral que busca satisfacer las necesidades básicas de estas personas, garantizando su bienestar y seguridad. con estas acciones, venezuela no solo reafirma su compromiso con la paz y la protección de los venezolanos, sino que extiende ayuda a todos los que cruzan sus fronteras en busca de un lugar seguro. el gobierno bolivariano interpreta esta ayuda como una extensión del legado del comandante hugo chávez, quien planteaba un visión de un país donde se prioriza la vida y la dignidad humana, lo que sigue vivo en las políticas implementadas por el actual presidente, nicolás maduro.",
+    "tokens": [
+      "vicepresidente",
+      "sectorial",
+      "política",
+      ",",
+      "seguridad",
+      "ciudadana",
+      "paz",
+      ",",
+      "diosdado",
+      "cabello",
+      "rondón",
+      ",",
+      "compartió",
+      "miércoles",
+      "desplazados",
+      "llegado",
+      "venezuela",
+      "colombia",
+      ".",
+      "personas",
+      "huido",
+      "causa",
+      "guerra",
+      "violencia",
+      "generada",
+      "grupos",
+      "armados",
+      "país",
+      "origen",
+      ".",
+      "venezuela",
+      "mantenido",
+      "tradición",
+      "solidaridad",
+      "colombianos",
+      "buscan",
+      "refugio",
+      "protección",
+      "violencia",
+      ".",
+      "ayuda",
+      "humanitaria",
+      "hecho",
+      "reciente",
+      ",",
+      "sino",
+      "parte",
+      "compromiso",
+      "histórico",
+      "país",
+      "asumido",
+      "aquellos",
+      "huyen",
+      "situaciones",
+      "extremas",
+      ".",
+      "actualidad",
+      ",",
+      "30.000",
+      "desplazados",
+      "sido",
+      "recibidos",
+      "territorio",
+      "venezolano",
+      ",",
+      "gobierno",
+      "bolivariano",
+      "implementado",
+      "sistema",
+      "atención",
+      "integral",
+      "busca",
+      "satisfacer",
+      "necesidades",
+      "básicas",
+      "personas",
+      ",",
+      "garantizando",
+      "bienestar",
+      "seguridad",
+      ".",
+      "acciones",
+      ",",
+      "venezuela",
+      "solo",
+      "reafirma",
+      "compromiso",
+      "paz",
+      "protección",
+      "venezolanos",
+      ",",
+      "sino",
+      "extiende",
+      "ayuda",
+      "cruzan",
+      "fronteras",
+      "busca",
+      "lugar",
+      "seguro",
+      ".",
+      "gobierno",
+      "bolivariano",
+      "interpreta",
+      "ayuda",
+      "extensión",
+      "legado",
+      "comandante",
+      "hugo",
+      "chávez",
+      ",",
+      "planteaba",
+      "visión",
+      "país",
+      "prioriza",
+      "vida",
+      "dignidad",
+      "humana",
+      ",",
+      "sigue",
+      "vivo",
+      "políticas",
+      "implementadas",
+      "actual",
+      "presidente",
+      ",",
+      "nicolás",
+      "maduro",
+      "."
+    ],
+    "token_count": 128,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "JJ": 21,
+      "NN": 82,
+      "IN": 11,
+      "NNS": 7,
+      "VBP": 3,
+      "FW": 46,
+      "DT": 2,
+      "RB": 2,
+      "CD": 1,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 19,
+      "NN-IN": 10,
+      "IN-NNP": 1,
+      "NNP-NNP": 12,
+      "NNP-NN": 7,
+      "NN-NN": 46,
+      "NN-NNS": 3,
+      "NNS-VBP": 2,
+      "VBP-JJ": 2,
+      "NN-NNP": 6,
+      "NNP-NNS": 1,
+      "IN-FW": 5,
+      "FW-FW": 35,
+      "FW-NNP": 2,
+      "NN-JJ": 9,
+      "FW-NN": 6,
+      "NN-FW": 3,
+      "NNP-FW": 2,
+      "NN-DT": 1,
+      "DT-NN": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "IN-JJ": 3,
+      "IN-NNS": 1,
+      "NNS-RB": 1,
+      "RB-NNP": 1,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 1,
+      "FW-JJ": 2,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-FW": 1,
+      "JJ-NNP": 1,
+      "NNS-NNP": 1,
+      "NNP-DT": 1,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NNS-IN": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 7,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 25,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 28,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 8,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "JJ-NN-JJ": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-RB": 1,
+      "NNS-RB-NNP": 1,
+      "RB-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-IN": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 82,
+        "FW": 46,
+        "NNP": 25,
+        "JJ": 21,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "FW-FW": 35,
+        "JJ-NN": 19,
+        "NNP-NNP": 12,
+        "NN-IN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 25,
+        "JJ-NN-NN": 10,
+        "NN-NN-JJ": 8,
+        "NN-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 53,
+      "PP": 7,
+      "VP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0667
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "S -> NP NP PP (',', ',') NP (',', ',') NP (',', ',') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('vicepresidente', 'JJ') ('sectorial', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Política', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Seguridad', 'NNP') ('Ciudadana', 'NNP') ('y', 'NNP') ('Paz', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Diosdado', 'NNP') ('Cabello', 'NNP') ('Rondón', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('compartió', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "VP -> ('con', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0133
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "vicepresidente sectorial"
+      },
+      {
+        "label": "PP",
+        "text": "de Política"
+      },
+      {
+        "label": "NP",
+        "text": "Política"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad Ciudadana y Paz"
+      },
+      {
+        "label": "NP",
+        "text": "Diosdado Cabello Rondón"
+      },
+      {
+        "label": "NP",
+        "text": "compartió este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "con los desplazados que han"
+      },
+      {
+        "label": "NP",
+        "text": "los desplazados que han"
+      },
+      {
+        "label": "VP",
+        "text": "llegado a Venezuela desde Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "a Venezuela desde Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Estas personas"
+      },
+      {
+        "label": "VP",
+        "text": "han"
+      },
+      {
+        "label": "VP",
+        "text": "huido a causa"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  (NP vicepresidente/JJ sectorial/NN)\n  (PP de/IN (NP Política/NNP))\n  ,/,\n  (NP Seguridad/NNP Ciudadana/NNP y/NNP Paz/NNP)\n  ,/,\n  (NP Diosdado/NNP Cabello/NNP Rondón/NNP)\n  ,/,\n  (NP compartió/NN este/NN miércoles/NNS)\n  (VP con/VBP (NP los/JJ desplazados/NN que/NN han/NN))\n  (VP llegado/VBZ (NP a/DT Venezuela/NNP desde/NN Colombia/NNP))\n  ./.)",
+      "(S\n  (NP Estas/NNP personas/NNS)\n  (VP han/VBP)\n  (VP huido/VB (NP a/DT causa/NN))\n  de/IN\n  la/FW\n  guerra/FW\n  y/FW\n  la/FW\n  violencia/FW\n  generada/FW\n  por/FW\n  grupos/FW\n  armados/FW\n  en/FW\n  su/FW\n  país/FW\n  de/FW\n  origen/FW\n  ./.)",
+      "(S\n  (NP Venezuela/NNP ha/NN mantenido/NN)\n  (NP una/JJ tradición/NN)\n  de/IN\n  solidaridad/FW\n  (NP con/NN los/NN)\n  (NP colombianos/JJ que/NN)\n  (NP\n    buscan/JJ\n    refugio/NN\n    y/NN\n    protección/NN\n    ante/NN\n    la/NN\n    violencia/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP ayuda/VBD)\n  humanitaria/PRP$\n  (NP no/DT es/NN)\n  un/RB\n  (NP hecho/JJ reciente/NN)\n  ,/,\n  (NP sino/NN parte/NN)\n  (PP\n    de/IN\n    (NP\n      un/JJ\n      compromiso/NN\n      histórico/NN\n      que/NN\n      el/NN\n      país/NN\n      ha/NN\n      asumido/NN\n      con/NN\n      aquellos/NN))\n  (NP que/JJ huyen/NN)\n  (PP de/IN (NP situaciones/NNS extremas/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP la/NN actualidad/NN)\n  ,/,\n  más/FW\n  de/FW\n  30.000/CD\n  (NP desplazados/NNS)\n  (NP han/JJ sido/JJ recibidos/NN)\n  en/IN\n  el/FW\n  (NP territorio/NN venezolano/NN)\n  ,/,\n  (NP\n    por/NN\n    lo/NN\n    que/NN\n    el/NN\n    Gobierno/NNP\n    bolivariano/NN\n    ha/NN\n    implementado/NN)\n  (NP un/JJ sistema/NN)\n  de/IN\n  atención/FW\n  (NP integral/JJ que/NN busca/NN satisfacer/NN)\n  (VP las/VBZ (NP necesidades/NNS))\n  básicas/FW\n  de/FW\n  estas/FW\n  (NP personas/NNS)\n  ,/,\n  (NP garantizando/NN su/NN bienestar/NN y/NN seguridad/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CIUDADES_CAPITALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra y la violencia generada por grupos armados en su",
+        "position": [
+          221,
+          276
+        ],
+        "start": 221,
+        "end": 276
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          419,
+          436
+        ],
+        "start": 419,
+        "end": 436
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          172,
+          180
+        ],
+        "start": 172,
+        "end": 180
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          156,
+          165
+        ],
+        "start": 156,
+        "end": 165
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          914,
+          920
+        ],
+        "start": 914,
+        "end": 920
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "dignidad humana",
+        "position": [
+          1219,
+          1234
+        ],
+        "start": 1219,
+        "end": 1234
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 30.000",
+        "position": [
+          589,
+          602
+        ],
+        "start": 589,
+        "end": 602
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno bolivariano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Política, Seguridad Ciudadana y Paz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno Bolivariano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comandante Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Diosdado Cabello Rondón",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Política, Seguridad Ciudadana y Paz",
+        "relacion": "COMPARTIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Política, Seguridad Ciudadana y Paz",
+        "relacion": "COMPARTIR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Diosdado Cabello Rondón",
+        "relacion": "COMPARTIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Diosdado Cabello Rondón",
+        "relacion": "COMPARTIR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "LLEGAR_COMPARTIR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "INTERPRETAR",
+        "objeto": "Comandante Hugo Chávez"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "INTERPRETAR",
+        "objeto": "Nicolás Maduro"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4215,
+    "pos": 0.035,
+    "neu": 0.944,
+    "neg": 0.021,
+    "label": "positive"
+  }
+}

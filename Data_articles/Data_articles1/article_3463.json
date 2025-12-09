@@ -1,0 +1,692 @@
+{
+  "url": "https://www.telesurtv.net/china-denuncia-violacion-de-las-normas-de-omc-por-parte-de-ee-uu-con-aranceles-a-automoviles/",
+  "title": "China denuncia violación de las normas de OMC por parte de EE.UU. con aranceles a automóviles - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Aranceles",
+    "China",
+    "Estados Unidos",
+    "normas de OMC"
+  ],
+  "text": "El vocero chino denunció que la medida viola las normas de la Organización Mundial del Comercio (OMC) y constituye una guerra frontal al sistema comercial multilateral y una estrategia fallida para encubrir las crisis internas de Estados Unidos.\nEl portavoz de la cancillería china precisó además que la medida tomada por el gobierno estadounidense perjudica “los intereses comunes de todos los países”, y aseveró que tal acción no ayuda a resolver los propios problemas de Washington: “Las guerras comerciales solo generan pérdidas globales”, sentenció.\n\n\nEn este contexto, el vocero insistió que “en una guerra comercial o arancelaria no hay ganadores, y que ningún país puede alcanzar el desarrollo y la prosperidad mediante la imposición de aranceles“, en referencia al histórico impacto de las medidas proteccionistas de Trump, que entre 2018 y 2024 desataron conflictos con la Unión Europea, China y países latinoamericanos.\n\n\n\n\nLa administración del presidente estadounidense, Donald Trump justifica los aranceles como un mecanismo de reducción para el déficit comercial pretendiendo “revivir” la industria automotriz local. Sin embargo, China exige soluciones diplomáticas, al alertar que la sombra de represalias comerciales se cierne sobre la economía global cuando el 65% de las exportaciones mundiales dependen de cadenas transfronterizas. “Si Estados Unidos insiste en jugar con fuego, el Sur Global debe responder con unidad y soberanía”, concluyó el portavoz de la cancillería China\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/china-denuncia-violacion-de-las-normas-de-omc-por-parte-de-ee-uu-con-aranceles-a-automoviles/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 274,
+    "message_id": 90410,
+    "date": "2025-03-27T20:55:39+00:00",
+    "text": "teleSUR\nChina denuncia violación de las normas de OMC por parte de EE.UU. con aranceles a automóviles\nhttps://www.telesurtv.net/china-denuncia-violacion-de-las-normas-de-omc-por-parte-de-ee-uu-con-aranceles-a-automoviles/",
+    "photo_path": null,
+    "views": 1574,
+    "reactions": {
+      "👍": 55,
+      "👏": 4,
+      "👌": 2
+    },
+    "total_reactions": 61
+  },
+  "preprocessing": {
+    "cleaned": "el vocero chino denunció que la medida viola las normas de la organización mundial del comercio (omc) y constituye una guerra frontal al sistema comercial multilateral y una estrategia fallida para encubrir las crisis internas de estados unidos. el portavoz de la cancillería china precisó además que la medida tomada por el gobierno estadounidense perjudica “los intereses comunes de todos los países”, y aseveró que tal acción no ayuda a resolver los propios problemas de washington: “las guerras comerciales solo generan pérdidas globales”, sentenció. en este contexto, el vocero insistió que “en una guerra comercial o arancelaria no hay ganadores, y que ningún país puede alcanzar el desarrollo y la prosperidad mediante la imposición de aranceles“, en referencia al histórico impacto de las medidas proteccionistas de trump, que entre 2018 y 2024 desataron conflictos con la unión europea, china y países latinoamericanos. la administración del presidente estadounidense, donald trump justifica los aranceles como un mecanismo de reducción para el déficit comercial pretendiendo “revivir” la industria automotriz local. sin embargo, china exige soluciones diplomáticas, al alertar que la sombra de represalias comerciales se cierne sobre la economía global cuando el 65% de las exportaciones mundiales dependen de cadenas transfronterizas. “si estados unidos insiste en jugar con fuego, el sur global debe responder con unidad y soberanía”, concluyó el portavoz de la cancillería china",
+    "tokens": [
+      "vocero",
+      "chino",
+      "denunció",
+      "medida",
+      "viola",
+      "normas",
+      "organización",
+      "mundial",
+      "comercio",
+      "(",
+      "omc",
+      ")",
+      "constituye",
+      "guerra",
+      "frontal",
+      "sistema",
+      "comercial",
+      "multilateral",
+      "estrategia",
+      "fallida",
+      "encubrir",
+      "crisis",
+      "internas",
+      "unidos",
+      ".",
+      "portavoz",
+      "cancillería",
+      "china",
+      "precisó",
+      "además",
+      "medida",
+      "tomada",
+      "gobierno",
+      "estadounidense",
+      "perjudica",
+      "“",
+      "intereses",
+      "comunes",
+      "países",
+      "”",
+      ",",
+      "aseveró",
+      "tal",
+      "acción",
+      "ayuda",
+      "resolver",
+      "propios",
+      "problemas",
+      "washington",
+      ":",
+      "“",
+      "guerras",
+      "comerciales",
+      "solo",
+      "generan",
+      "pérdidas",
+      "globales",
+      "”",
+      ",",
+      "sentenció",
+      ".",
+      "contexto",
+      ",",
+      "vocero",
+      "insistió",
+      "“",
+      "guerra",
+      "comercial",
+      "arancelaria",
+      "ganadores",
+      ",",
+      "ningún",
+      "país",
+      "puede",
+      "alcanzar",
+      "desarrollo",
+      "prosperidad",
+      "mediante",
+      "imposición",
+      "aranceles",
+      "“",
+      ",",
+      "referencia",
+      "histórico",
+      "impacto",
+      "medidas",
+      "proteccionistas",
+      "trump",
+      ",",
+      "2018",
+      "2024",
+      "desataron",
+      "conflictos",
+      "unión",
+      "europea",
+      ",",
+      "china",
+      "países",
+      "latinoamericanos",
+      ".",
+      "administración",
+      "presidente",
+      "estadounidense",
+      ",",
+      "donald",
+      "trump",
+      "justifica",
+      "aranceles",
+      "mecanismo",
+      "reducción",
+      "déficit",
+      "comercial",
+      "pretendiendo",
+      "“",
+      "revivir",
+      "”",
+      "industria",
+      "automotriz",
+      "local",
+      ".",
+      "embargo",
+      ",",
+      "china",
+      "exige",
+      "soluciones",
+      "diplomáticas",
+      ",",
+      "alertar",
+      "sombra",
+      "represalias",
+      "comerciales",
+      "cierne",
+      "economía",
+      "global",
+      "65",
+      "%",
+      "exportaciones",
+      "mundiales",
+      "dependen",
+      "cadenas",
+      "transfronterizas",
+      ".",
+      "“",
+      "si",
+      "unidos",
+      "insiste",
+      "jugar",
+      "fuego",
+      ",",
+      "sur",
+      "global",
+      "debe",
+      "responder",
+      "unidad",
+      "soberanía",
+      "”",
+      ",",
+      "concluyó",
+      "portavoz",
+      "cancillería",
+      "china"
+    ],
+    "token_count": 161,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NN": 85,
+      "FW": 43,
+      "JJ": 22,
+      "IN": 6,
+      "VBZ": 3,
+      "NNS": 11,
+      "VBP": 8,
+      "DT": 2,
+      "RB": 2,
+      "CD": 3,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 52,
+      "NN-FW": 10,
+      "FW-NN": 5,
+      "FW-FW": 27,
+      "FW-NNP": 4,
+      "NNP-NNP": 11,
+      "NNP-FW": 2,
+      "NN-JJ": 6,
+      "JJ-NN": 13,
+      "JJ-JJ": 5,
+      "NN-IN": 2,
+      "IN-NNP": 2,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-IN": 1,
+      "IN-FW": 3,
+      "FW-JJ": 3,
+      "JJ-NNS": 2,
+      "NNS-VBP": 8,
+      "VBP-JJ": 4,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "NN-RB": 1,
+      "RB-JJ": 2,
+      "NNS-FW": 1,
+      "FW-IN": 1,
+      "NN-NNS": 4,
+      "VBP-NN": 1,
+      "VBP-NNP": 2,
+      "VBZ-JJ": 2,
+      "NN-CD": 1,
+      "CD-CD": 1,
+      "CD-NN": 1,
+      "NN-NNP": 4,
+      "NNP-VBZ": 1,
+      "JJ-NNP": 2,
+      "FW-RB": 1,
+      "FW-NNS": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 33,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-DT": 2,
+      "NN-DT-NN": 2,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-FW-RB": 1,
+      "FW-RB-JJ": 1,
+      "RB-JJ-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-NNP-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 43,
+        "NNP": 26,
+        "JJ": 22,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 27,
+        "JJ-NN": 13,
+        "NNP-NN": 11,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 21,
+        "NN-NN-FW": 8,
+        "NNP-NN-NN": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 59,
+      "PP": 3,
+      "VP": 13,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0366
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('guerra', 'NN')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "VP -> ('”', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "S -> NP ('medida', 'FW') NP ('las', 'FW') ('normas', 'FW') ('de', 'FW') ('la', 'FW') NP ('del', 'FW') NP ('(', '(') NP (')', ')') NP NP NP NP NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('vocero', 'NN') ('chino', 'NN') ('denunció', 'NN') ('que', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('viola', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Organización', 'NNP') ('Mundial', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Comercio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('OMC', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('y', 'NN') ('constituye', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El vocero chino denunció que la"
+      },
+      {
+        "label": "NP",
+        "text": "viola"
+      },
+      {
+        "label": "NP",
+        "text": "Organización Mundial"
+      },
+      {
+        "label": "NP",
+        "text": "Comercio"
+      },
+      {
+        "label": "NP",
+        "text": "OMC"
+      },
+      {
+        "label": "NP",
+        "text": "y constituye"
+      },
+      {
+        "label": "NP",
+        "text": "una guerra"
+      },
+      {
+        "label": "NP",
+        "text": "frontal al sistema"
+      },
+      {
+        "label": "NP",
+        "text": "comercial multilateral y"
+      },
+      {
+        "label": "NP",
+        "text": "una estrategia fallida para encubrir las crisis internas"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "El portavoz"
+      },
+      {
+        "label": "NP",
+        "text": "cancillería china precisó además que la"
+      },
+      {
+        "label": "NP",
+        "text": "tomada por el gobierno estadounidense perjudica “ los intereses"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP vocero/NN chino/NN denunció/NN que/NN la/NN)\n  medida/FW\n  (NP viola/NN)\n  las/FW\n  normas/FW\n  de/FW\n  la/FW\n  (NP Organización/NNP Mundial/NNP)\n  del/FW\n  (NP Comercio/NNP)\n  (/(\n  (NP OMC/NNP)\n  )/)\n  (NP y/NN constituye/NN)\n  (NP una/JJ guerra/NN)\n  (NP frontal/JJ al/NN sistema/NN)\n  (NP comercial/JJ multilateral/JJ y/NN)\n  (NP\n    una/JJ\n    estrategia/NN\n    fallida/NN\n    para/NN\n    encubrir/NN\n    las/NN\n    crisis/NN\n    internas/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP portavoz/NN)\n  de/IN\n  la/FW\n  (NP cancillería/JJ china/NN precisó/NN además/NN que/NN la/NN)\n  medida/FW\n  (NP\n    tomada/NN\n    por/NN\n    el/NN\n    gobierno/NN\n    estadounidense/NN\n    perjudica/NN\n    “/NNP\n    los/NN\n    intereses/NNS)\n  (VP comunes/VBP)\n  de/IN\n  todos/FW\n  (NP los/JJ países/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP y/JJ aseveró/NN que/NN)\n  (NP tal/JJ acción/NN)\n  (NP no/DT ayuda/NN)\n  (NP a/DT resolver/NN los/NN)\n  (NP propios/JJ problemas/NN)\n  (PP de/IN (NP Washington/NNP))\n  :/:\n  (NP “/NN Las/NNP guerras/NN comerciales/NNS)\n  (VP solo/VBP (NP generan/NN pérdidas/NN globales/NNS))\n  (VP ”/VBP)\n  ,/,\n  (NP sentenció/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN contexto/NN)\n  ,/,\n  el/FW\n  vocero/FW\n  (NP insistió/NN que/NN “/NNP)\n  (VP en/VBZ (NP una/JJ guerra/NN) (NP comercial/JJ o/NN))\n  (VP arancelaria/VBZ (NP no/DT hay/NN ganadores/NNS))\n  ,/,\n  (NP y/NN que/NN)\n  (NP\n    ningún/JJ\n    país/NN\n    puede/NN\n    alcanzar/NN\n    el/NN\n    desarrollo/NN\n    y/NN\n    la/NN)\n  prosperidad/FW\n  (NP mediante/NN)\n  la/FW\n  imposición/FW\n  de/FW\n  aranceles/FW\n  “/FW\n  ,/,\n  en/FW\n  referencia/FW\n  al/FW\n  histórico/FW\n  impacto/FW\n  de/FW\n  las/FW\n  medidas/FW\n  proteccionistas/FW\n  de/FW\n  (NP Trump/NNP)\n  ,/,\n  (NP que/NN entre/NN)\n  2018/CD\n  (NP y/NN)\n  2024/CD\n  (NP desataron/NN conflictos/NN con/NN la/NN Unión/NNP Europea/NNP)\n  ,/,\n  (NP China/NNP y/NNP)\n  (VP países/VBZ (NP latinoamericanos/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP administración/VBZ)\n  del/FW\n  (NP presidente/NN estadounidense/NN)\n  ,/,\n  (NP Donald/NNP Trump/NNP justifica/NN los/NN aranceles/NNS)\n  (VP como/VBP (NP un/JJ mecanismo/NN))\n  de/IN\n  reducción/FW\n  (NP para/NN el/NN)\n  (NP déficit/JJ comercial/JJ pretendiendo/NN “/NNP revivir/NN ”/NNP)\n  la/FW\n  industria/FW\n  (ADJP automotriz/RB local/JJ)\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP China/NNP)\n  (VP exige/VBP (NP soluciones/NNS diplomáticas/NNS))\n  ,/,\n  (NP al/JJ alertar/NN que/NN)\n  la/FW\n  sombra/FW\n  de/FW\n  represalias/FW\n  (NP comerciales/NNS)\n  (VP se/VBP (NP cierne/JJ sobre/NN la/NN))\n  economía/FW\n  (NP global/JJ cuando/NN)\n  (VP el/VBD)\n  65/CD\n  (NP %/NN)\n  de/IN\n  las/FW\n  (NP exportaciones/NNS mundiales/NNS)\n  (VP dependen/VBP)\n  (PP de/IN (NP cadenas/NNS transfronterizas/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "ACCIONES_LEGALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra comercial o arancelaria no hay ganadores, y que ningún país puede alcanzar el desarrollo y la prosperidad mediante la imposición de aranceles“, en referencia",
+        "position": [
+          606,
+          770
+        ],
+        "start": 606,
+        "end": 770
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que la medida viola las normas de la organización mundial del comercio (omc) y constituye una guerra frontal al",
+        "position": [
+          16,
+          136
+        ],
+        "start": 16,
+        "end": 136
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "guerra comercial o arancelaria no hay ganadores, y que ningún país puede alcanzar el desarrollo y la prosperidad mediante la imposición de aranceles“, en referencia al histórico impacto de las medidas proteccionistas de trump, que entre 2018 y 2024 desataron conflictos con la unión europea, china",
+        "position": [
+          606,
+          903
+        ],
+        "start": 606,
+        "end": 903
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          282,
+          289
+        ],
+        "start": 282,
+        "end": 289
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente estadounidense",
+        "position": [
+          957,
+          982
+        ],
+        "start": 957,
+        "end": 982
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unión europea",
+        "position": [
+          883,
+          896
+        ],
+        "start": 883,
+        "end": 896
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          16,
+          24
+        ],
+        "start": 16,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          230,
+          244
+        ],
+        "start": 230,
+        "end": 244
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          276,
+          281
+        ],
+        "start": 276,
+        "end": 281
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1136,
+          1143
+        ],
+        "start": 1136,
+        "end": 1143
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Sur Global",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización Mundial del Comercio",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "OMC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unión Europea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Organización Mundial del Comercio",
+        "relacion": "VIOLAR_DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "OMC",
+        "relacion": "VIOLAR_DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "INSISTIR_RESPONDER_CONCLUIR",
+        "objeto": "Sur Global"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "INSISTIR_RESPONDER_CONCLUIR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Sur Global",
+        "relacion": "RESPONDER_CONCLUIR",
+        "objeto": "China"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.886,
+    "pos": 0.008,
+    "neu": 0.938,
+    "neg": 0.055,
+    "label": "negative"
+  }
+}

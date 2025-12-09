@@ -1,0 +1,756 @@
+{
+  "url": "https://www.telesurtv.net/jubilados-se-movilizan-masivamente-en-argentina-con-fuerte-presion-policial-de-buldrich/",
+  "title": "Jubilados se movilizan masivamente en Argentina con fuerte presión policial de Bullrich - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "Congreso",
+    "Jubilados",
+    "represión"
+  ],
+  "text": "Los jubilados y argentinos que no coniciden con los ajustes hechos por el Gobierno de Javier Milei se vuelven a movilizar masivamente bajo una fuerte custodia policial, luego que la ministra de Seguridad reprimiera brutalmente las movilizaciones que exigen sus derechos.\nLa marcha vuelve al Congreso y en paralelo, tanto la policía Federal, como gendarmería y la Policía de Seguridad Aeroportuaria (PSA) desplegaron un gran operativo para vallar la Avenida Rivadavia e impedir el tradicional semaforazo.\nMedios locales reafirman que desde el mediodía ya había mucha presencia policial en las inmediaciones del parlamento, tal como mostró en sus redes sociales la diputada nacional del Frente de Izquierda y Trabajadores – Unidad (FIT-U) Vanina Biasi.\n“Ni con este Estado policial van a quebrar la lucha de los jubilados, el pueblo está con ellos. Fuera Bullrich”, escribió la diputada nacional.\nEntre tanto, la plataforma El Destape manifestó que “el pasado domingo 23 de marzo terminó la moratoria previsional, uno de los principales reclamos de las marchas que los jubilados vienen realizando desde hace más de un año”.\nEl comunicado del Plenario de Trabajadores Jubilados, una de las organizaciones que convocan indicó que “con la caída de la Ley de Moratoria nadie va a poder jubilarse”.\nAsimismo, una jubilada de 81 años que estaba acompañada de su esposo de 88, precisó que “nosotros no agredimos, ellos no tienen por qué agredir. Tienen que respetar. Aguante la democracia, porque si no vamos a hacer rebelión”.\n“Las pasamos todas, pero esto no lo vivimos nunca”, añadió.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/jubilados-se-movilizan-masivamente-en-argentina-con-fuerte-presion-policial-de-buldrich/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 364,
+    "message_id": 90317,
+    "date": "2025-03-26T21:55:18+00:00",
+    "text": "teleSUR\nJubilados se movilizan masivamente en Argentina con fuerte presión policial de Bullrich\nhttps://www.telesurtv.net/jubilados-se-movilizan-masivamente-en-argentina-con-fuerte-presion-policial-de-buldrich/",
+    "photo_path": null,
+    "views": 1326,
+    "reactions": {
+      "🤬": 27,
+      "👍": 6,
+      "❤‍🔥": 1
+    },
+    "total_reactions": 34
+  },
+  "preprocessing": {
+    "cleaned": "los jubilados y argentinos que no coniciden con los ajustes hechos por el gobierno de javier milei se vuelven a movilizar masivamente bajo una fuerte custodia policial, luego que la ministra de seguridad reprimiera brutalmente las movilizaciones que exigen sus derechos. la marcha vuelve al congreso y en paralelo, tanto la policía federal, como gendarmería y la policía de seguridad aeroportuaria (psa) desplegaron un gran operativo para vallar la avenida rivadavia e impedir el tradicional semaforazo. medios locales reafirman que desde el mediodía ya había mucha presencia policial en las inmediaciones del parlamento, tal como mostró en sus redes sociales la diputada nacional del frente de izquierda y trabajadores – unidad (fit-u) vanina biasi. “ni con este estado policial van a quebrar la lucha de los jubilados, el pueblo está con ellos. fuera bullrich”, escribió la diputada nacional. entre tanto, la plataforma el destape manifestó que “el pasado domingo 23 de marzo terminó la moratoria previsional, uno de los principales reclamos de las marchas que los jubilados vienen realizando desde hace más de un año”. el comunicado del plenario de trabajadores jubilados, una de las organizaciones que convocan indicó que “con la caída de la ley de moratoria nadie va a poder jubilarse”. asimismo, una jubilada de 81 años que estaba acompañada de su esposo de 88, precisó que “nosotros no agredimos, ellos no tienen por qué agredir. tienen que respetar. aguante la democracia, porque si no vamos a hacer rebelión”. “las pasamos todas, pero esto no lo vivimos nunca”, añadió.",
+    "tokens": [
+      "jubilados",
+      "argentinos",
+      "coniciden",
+      "ajustes",
+      "hechos",
+      "gobierno",
+      "javier",
+      "milei",
+      "vuelven",
+      "movilizar",
+      "masivamente",
+      "bajo",
+      "fuerte",
+      "custodia",
+      "policial",
+      ",",
+      "luego",
+      "ministra",
+      "seguridad",
+      "reprimiera",
+      "brutalmente",
+      "movilizaciones",
+      "exigen",
+      "derechos",
+      ".",
+      "marcha",
+      "vuelve",
+      "congreso",
+      "paralelo",
+      ",",
+      "policía",
+      "federal",
+      ",",
+      "gendarmería",
+      "policía",
+      "seguridad",
+      "aeroportuaria",
+      "(",
+      "psa",
+      ")",
+      "desplegaron",
+      "gran",
+      "operativo",
+      "vallar",
+      "avenida",
+      "rivadavia",
+      "impedir",
+      "tradicional",
+      "semaforazo",
+      ".",
+      "medios",
+      "locales",
+      "reafirman",
+      "mediodía",
+      "mucha",
+      "presencia",
+      "policial",
+      "inmediaciones",
+      "parlamento",
+      ",",
+      "tal",
+      "mostró",
+      "redes",
+      "sociales",
+      "diputada",
+      "nacional",
+      "frente",
+      "izquierda",
+      "trabajadores",
+      "–",
+      "unidad",
+      "(",
+      "fit-u",
+      ")",
+      "vanina",
+      "biasi",
+      ".",
+      "“",
+      "policial",
+      "van",
+      "quebrar",
+      "lucha",
+      "jubilados",
+      ",",
+      "pueblo",
+      ".",
+      "bullrich",
+      "”",
+      ",",
+      "escribió",
+      "diputada",
+      "nacional",
+      ".",
+      ",",
+      "plataforma",
+      "destape",
+      "manifestó",
+      "“",
+      "pasado",
+      "domingo",
+      "23",
+      "marzo",
+      "terminó",
+      "moratoria",
+      "previsional",
+      ",",
+      "principales",
+      "reclamos",
+      "marchas",
+      "jubilados",
+      "vienen",
+      "realizando",
+      "hace",
+      "año",
+      "”",
+      ".",
+      "comunicado",
+      "plenario",
+      "trabajadores",
+      "jubilados",
+      ",",
+      "organizaciones",
+      "convocan",
+      "indicó",
+      "“",
+      "caída",
+      "ley",
+      "moratoria",
+      "nadie",
+      "va",
+      "poder",
+      "jubilarse",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "jubilada",
+      "81",
+      "años",
+      "acompañada",
+      "esposo",
+      "88",
+      ",",
+      "precisó",
+      "“",
+      "agredimos",
+      ",",
+      "agredir",
+      ".",
+      "respetar",
+      ".",
+      "aguante",
+      "democracia",
+      ",",
+      "si",
+      "vamos",
+      "hacer",
+      "rebelión",
+      "”",
+      ".",
+      "“",
+      "pasamos",
+      "todas",
+      ",",
+      "vivimos",
+      "nunca",
+      "”",
+      ",",
+      "añadió",
+      "."
+    ],
+    "token_count": 170,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 87,
+      "DT": 5,
+      "JJ": 30,
+      "VBZ": 9,
+      "IN": 9,
+      "VBD": 3,
+      "RB": 1,
+      "FW": 42,
+      "NNS": 6,
+      "VBP": 4,
+      "CD": 3,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 48,
+      "NN-DT": 1,
+      "DT-JJ": 4,
+      "JJ-NN": 21,
+      "NN-VBZ": 5,
+      "VBZ-JJ": 2,
+      "NN-NNP": 13,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NNP-NNP": 15,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "NN-JJ": 4,
+      "JJ-JJ": 4,
+      "NN-FW": 7,
+      "FW-FW": 21,
+      "FW-NNP": 7,
+      "FW-NNS": 4,
+      "NNS-VBP": 3,
+      "VBP-JJ": 3,
+      "NNP-FW": 6,
+      "FW-NN": 4,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "VBZ-NNP": 1,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "NN-VBP": 1,
+      "JJ-FW": 2,
+      "NNS-FW": 1,
+      "FW-IN": 1,
+      "IN-JJ": 2,
+      "NN-IN": 4,
+      "IN-NN": 1,
+      "NN-NNS": 1,
+      "NNS-NNS": 1,
+      "NNP-JJ": 2,
+      "FW-JJ": 4,
+      "JJ-NNP": 2,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 3,
+      "VBP-IN": 1,
+      "NNS-JJ": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "VBZ-DT": 4,
+      "JJ-VBZ": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 10,
+      "NN-NN-NN": 20,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 3,
+      "JJ-NN-NN": 14,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-NNP": 9,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 12,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 4,
+      "JJ-NN-NNP": 3,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-IN": 1,
+      "FW-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-NNP-FW": 1,
+      "NN-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "FW-FW-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-VBZ-DT": 3,
+      "VBZ-DT-JJ": 3,
+      "DT-JJ-VBZ": 1,
+      "JJ-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-NN": 2,
+      "FW-NN-VBZ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 87,
+        "FW": 42,
+        "NNP": 41,
+        "JJ": 30,
+        "VBZ": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "JJ-NN": 21,
+        "FW-FW": 21,
+        "NNP-NNP": 15,
+        "NN-NNP": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 20,
+        "JJ-NN-NN": 14,
+        "FW-FW-FW": 12,
+        "NNP-NN-NN": 10,
+        "NN-NN-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 67,
+      "ADJP": 3,
+      "VP": 13,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0306
+      },
+      {
+        "rule": "S -> NP ('argentinos', 'IN') ADJP NP VP PP VP (',', ',') NP ('la', 'FW') ('ministra', 'FW') ('de', 'FW') NP ('las', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('jubilados', 'NN') ('y', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "ADJP -> ('que', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('coniciden', 'JJ') ('con', 'NN') ('los', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('ajustes', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('hechos', 'JJ') ('por', 'NN') ('el', 'NN') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Javier', 'NNP') ('Milei', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') ('vuelven', 'RB') NP NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('movilizar', 'NN') ('masivamente', 'NN') ('bajo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los jubilados y"
+      },
+      {
+        "label": "ADJP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "no coniciden con los"
+      },
+      {
+        "label": "VP",
+        "text": "ajustes hechos por el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "hechos por el Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Javier Milei"
+      },
+      {
+        "label": "NP",
+        "text": "Javier Milei"
+      },
+      {
+        "label": "VP",
+        "text": "se vuelven a movilizar masivamente bajo una fuerte custodia policial"
+      },
+      {
+        "label": "NP",
+        "text": "a movilizar masivamente bajo"
+      },
+      {
+        "label": "NP",
+        "text": "una fuerte custodia policial"
+      },
+      {
+        "label": "NP",
+        "text": "luego que"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad reprimiera brutalmente"
+      },
+      {
+        "label": "NP",
+        "text": "movilizaciones"
+      },
+      {
+        "label": "VP",
+        "text": "que exigen sus derechos"
+      },
+      {
+        "label": "NP",
+        "text": "exigen sus derechos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP jubilados/NN y/NN)\n  argentinos/IN\n  (ADJP que/JJ)\n  (NP no/DT coniciden/JJ con/NN los/NN)\n  (VP ajustes/VBZ (NP hechos/JJ por/NN el/NN Gobierno/NNP))\n  (PP de/IN (NP Javier/NNP Milei/NNP))\n  (VP\n    se/VBD\n    vuelven/RB\n    (NP a/DT movilizar/NN masivamente/NN bajo/NN)\n    (NP una/JJ fuerte/JJ custodia/NN policial/NN))\n  ,/,\n  (NP luego/NN que/NN)\n  la/FW\n  ministra/FW\n  de/FW\n  (NP Seguridad/NNP reprimiera/NN brutalmente/NN)\n  las/FW\n  (NP movilizaciones/NNS)\n  (VP que/VBP (NP exigen/JJ sus/NN derechos/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  marcha/PRP\n  (VP vuelve/VBP (NP al/JJ Congreso/NNP y/NN en/NN paralelo/NN))\n  ,/,\n  tanto/IN\n  la/FW\n  policía/FW\n  (NP Federal/NNP)\n  ,/,\n  (NP como/NN gendarmería/NN y/NN)\n  la/FW\n  (NP Policía/NNP)\n  de/FW\n  (NP Seguridad/NNP Aeroportuaria/NNP)\n  (/(\n  (NP PSA/NNP)\n  )/)\n  (NP desplegaron/NN)\n  (NP un/JJ gran/NN operativo/NN para/NN)\n  (NP vallar/JJ la/NN Avenida/NNP Rivadavia/NNP e/NN impedir/NN)\n  (VP el/VBP (NP tradicional/JJ semaforazo/NN))\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    locales/VBZ\n    (NP\n      reafirman/JJ\n      que/NN\n      desde/NN\n      el/NN\n      mediodía/NN\n      ya/NN\n      había/NN\n      mucha/NN))\n  (VP presencia/VBP policial/JJ)\n  en/FW\n  las/FW\n  (NP inmediaciones/NNS)\n  del/FW\n  (NP parlamento/NN)\n  ,/,\n  (NP tal/JJ como/NN mostró/NN)\n  (PP en/IN (NP sus/NN redes/NNS sociales/NNS))\n  (VP la/VBP (NP diputada/JJ nacional/JJ del/NN Frente/NNP))\n  de/FW\n  (NP Izquierda/NNP y/NN Trabajadores/NNP –/NNP Unidad/NNP)\n  (/(\n  (NP FIT-U/NNP)\n  )/)\n  (NP Vanina/NNP Biasi/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Ni/NNP con/NN este/NN Estado/NNP)\n  (NP policial/JJ van/NN)\n  (NP a/DT quebrar/NN la/NN)\n  lucha/FW\n  de/FW\n  los/FW\n  (NP jubilados/NN)\n  ,/,\n  el/FW\n  pueblo/FW\n  está/FW\n  (NP con/NN ellos/NN)\n  ./.)",
+      "(S\n  (NP Fuera/NNP Bullrich/NNP ”/NNP)\n  ,/,\n  (VP escribió/VBZ)\n  la/FW\n  (NP diputada/JJ nacional/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "trabajadores jubilados, una de las organizaciones que convocan",
+        "position": [
+          1152,
+          1214
+        ],
+        "start": 1152,
+        "end": 1214
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          933,
+          942
+        ],
+        "start": 933,
+        "end": 942
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          1368,
+          1375
+        ],
+        "start": 1368,
+        "end": 1375
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de javier milei",
+        "position": [
+          74,
+          98
+        ],
+        "start": 74,
+        "end": 98
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de seguridad reprimiera",
+        "position": [
+          182,
+          214
+        ],
+        "start": 182,
+        "end": 214
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "avenida",
+        "position": [
+          449,
+          456
+        ],
+        "start": 449,
+        "end": 456
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado policial",
+        "position": [
+          764,
+          779
+        ],
+        "start": 764,
+        "end": 779
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "avenida rivadavia",
+        "position": [
+          449,
+          466
+        ],
+        "start": 449,
+        "end": 466
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 23 de marzo",
+        "position": [
+          958,
+          977
+        ],
+        "start": 958,
+        "end": 977
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "coniciden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía de Seguridad Aeroportuaria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Congreso",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "El Destape",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Javier Milei",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Federal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuera Bullrich",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado policial",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "PSA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Plenario de Trabajadores Jubilados",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Frente de Izquierda y Trabajadores – Unidad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Biasi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Avenida Rivadavia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "coniciden",
+        "relacion": "CONICIDAR_VOLVER",
+        "objeto": "Gobierno de Javier Milei"
+      },
+      {
+        "sujeto": "Congreso",
+        "relacion": "VOLVER",
+        "objeto": "Federal"
+      },
+      {
+        "sujeto": "Congreso",
+        "relacion": "VOLVER",
+        "objeto": "Policía de Seguridad Aeroportuaria"
+      },
+      {
+        "sujeto": "Congreso",
+        "relacion": "VOLVER",
+        "objeto": "PSA"
+      },
+      {
+        "sujeto": "Congreso",
+        "relacion": "VOLVER",
+        "objeto": "Avenida Rivadavia"
+      },
+      {
+        "sujeto": "Federal",
+        "relacion": "DESPLEGAR_VOLVER",
+        "objeto": "Avenida Rivadavia"
+      },
+      {
+        "sujeto": "Policía de Seguridad Aeroportuaria",
+        "relacion": "DESPLEGAR_VOLVER",
+        "objeto": "Avenida Rivadavia"
+      },
+      {
+        "sujeto": "PSA",
+        "relacion": "DESPLEGAR_VOLVER",
+        "objeto": "Avenida Rivadavia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8402,
+    "pos": 0.0,
+    "neu": 0.955,
+    "neg": 0.045,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,871 @@
+{
+  "url": "https://www.telesurtv.net/brasil-reporta-15-muertes-por-dengue-en-lo-que-va-de-2025/",
+  "title": "Brasil reporta 15 muertes por dengue en lo que va de 2025 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Aedes aegypti",
+    "Brasil",
+    "Dengue",
+    "Inundaciones",
+    "Muertos"
+  ],
+  "text": "El Ministerio de Salud de Brasil informó que en lo que va de año se han registrado 15 muertes por dengue y más de 101 mil casos probables de la enfermedad.\nLEA TAMBIÉN\nGobierno brasileño considera inaceptable el uso de esposas en deportados desde EE.UU.\nEn Río de Janeiro se confirmó este lunes la primera víctima mortal a causa del dengue, un hombre de 38 años residente en Campo Grande, Zona Oeste de la capital.\nEn la ciudad de Río, los casos confirmados de dengue están cerca de los mil en 2025, mientras que a nivel nacional los episodios de la enfermedad continúan incrementándose.\nEn el estado de São Paulo, 33 municipios se encuentran en estado de emergencia debido a la proliferación del mosquito Aedes aegypti, transmisor del dengue, chikungunya y zika.\nPara combatir esa crisis, el gobierno de São Paulo, liderado por Tarcísio de Freitas, implementó un Centro de Operaciones de Emergencia (COE) destinado a mitigar el brote.\nPese a la gravedad de la situación, la vacunación contra el dengue sigue siendo limitada. De los 6.3 millones de dosis distribuidas en el país, solo 3.2 millones han sido aplicadas, según datos de la Sociedad Brasileña de Inmunizaciones (SBIm).\nLa cartera de salud anticipó un panorama desafiante para 2025 con un aumento en la incidencia de casos en seis estados: São Paulo, Río de Janeiro, Espírito Santo, Tocantins, Mato Grosso do Sul y Paraná.\nEn el gigante suramericano se ha registrado un aumento significativo del serotipo 3 del dengue, con un incremento en los resultados positivos en estados como São Paulo, Minas Gerais, Amapá y Paraná.\nEse tipo de virus no predominaba en el país desde 2008, lo que ha dejado a gran parte de la población sin inmunidad antes esa variante.\nPor otra parte, este domingo se reportó la muerte de un niño de siete años, quien fue arrastrado a un desagüe en Itapecerica da Serra, y la de un motociclista en la Ciudad Industrial Satélite de Cumbica, como consecuencia de la intensidad de las precipitaciones.\nLa capital paulista también sufrió la pérdida del artista Rodolpho Tamanini Netto, de 73 años, quien murió cuando un vehículo irrumpió en su hogar debido a las corrientes de agua.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/brasil-reporta-15-muertes-por-dengue-en-lo-que-va-de-2025/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 339,
+    "message_id": 85531,
+    "date": "2025-01-27T18:55:07+00:00",
+    "text": "teleSUR\nBrasil reporta 15 muertes por dengue en lo que va de 2025\nhttps://www.telesurtv.net/brasil-reporta-15-muertes-por-dengue-en-lo-que-va-de-2025/",
+    "photo_path": null,
+    "views": 2136,
+    "reactions": {
+      "😢": 24,
+      "😱": 2
+    },
+    "total_reactions": 26
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de salud de brasil informó que en lo que va de año se han registrado 15 muertes por dengue y más de 101 mil casos probables de la enfermedad. en río de janeiro se confirmó este lunes la primera víctima mortal a causa del dengue, un hombre de 38 años residente en campo grande, zona oeste de la capital. en la ciudad de río, los casos confirmados de dengue están cerca de los mil en 2025, mientras que a nivel nacional los episodios de la enfermedad continúan incrementándose. en el estado de são paulo, 33 municipios se encuentran en estado de emergencia debido a la proliferación del mosquito aedes aegypti, transmisor del dengue, chikungunya y zika. para combatir esa crisis, el gobierno de são paulo, liderado por tarcísio de freitas, implementó un centro de operaciones de emergencia (coe) destinado a mitigar el brote. pese a la gravedad de la situación, la vacunación contra el dengue sigue siendo limitada. de los 6.3 millones de dosis distribuidas en el país, solo 3.2 millones han sido aplicadas, según datos de la sociedad brasileña de inmunizaciones (sbim). la cartera de salud anticipó un panorama desafiante para 2025 con un aumento en la incidencia de casos en seis estados: são paulo, río de janeiro, espírito santo, tocantins, mato grosso do sul y paraná. en el gigante suramericano se ha registrado un aumento significativo del serotipo 3 del dengue, con un incremento en los resultados positivos en estados como são paulo, minas gerais, amapá y paraná. ese tipo de virus no predominaba en el país desde 2008, lo que ha dejado a gran parte de la población sin inmunidad antes esa variante. por otra parte, este domingo se reportó la muerte de un niño de siete años, quien fue arrastrado a un desagüe en itapecerica da serra, y la de un motociclista en la ciudad industrial satélite de cumbica, como consecuencia de la intensidad de las precipitaciones. la capital paulista también sufrió la pérdida del artista rodolpho tamanini netto, de 73 años, quien murió cuando un vehículo irrumpió en su hogar debido a las corrientes de agua.",
+    "tokens": [
+      "ministerio",
+      "salud",
+      "brasil",
+      "informó",
+      "va",
+      "año",
+      "registrado",
+      "15",
+      "muertes",
+      "dengue",
+      "101",
+      "mil",
+      "casos",
+      "probables",
+      "enfermedad",
+      ".",
+      "río",
+      "janeiro",
+      "confirmó",
+      "lunes",
+      "primera",
+      "víctima",
+      "mortal",
+      "causa",
+      "dengue",
+      ",",
+      "hombre",
+      "38",
+      "años",
+      "residente",
+      "campo",
+      "grande",
+      ",",
+      "zona",
+      "oeste",
+      "capital",
+      ".",
+      "ciudad",
+      "río",
+      ",",
+      "casos",
+      "confirmados",
+      "dengue",
+      "cerca",
+      "mil",
+      "2025",
+      ",",
+      "mientras",
+      "nivel",
+      "nacional",
+      "episodios",
+      "enfermedad",
+      "continúan",
+      "incrementándose",
+      ".",
+      "são",
+      "paulo",
+      ",",
+      "33",
+      "municipios",
+      "encuentran",
+      "emergencia",
+      "debido",
+      "proliferación",
+      "mosquito",
+      "aedes",
+      "aegypti",
+      ",",
+      "transmisor",
+      "dengue",
+      ",",
+      "chikungunya",
+      "zika",
+      ".",
+      "combatir",
+      "crisis",
+      ",",
+      "gobierno",
+      "são",
+      "paulo",
+      ",",
+      "liderado",
+      "tarcísio",
+      "freitas",
+      ",",
+      "implementó",
+      "centro",
+      "operaciones",
+      "emergencia",
+      "(",
+      "coe",
+      ")",
+      "destinado",
+      "mitigar",
+      "brote",
+      ".",
+      "pese",
+      "gravedad",
+      "situación",
+      ",",
+      "vacunación",
+      "dengue",
+      "sigue",
+      "siendo",
+      "limitada",
+      ".",
+      "6.3",
+      "millones",
+      "dosis",
+      "distribuidas",
+      "país",
+      ",",
+      "solo",
+      "3.2",
+      "millones",
+      "sido",
+      "aplicadas",
+      ",",
+      "según",
+      "datos",
+      "sociedad",
+      "brasileña",
+      "inmunizaciones",
+      "(",
+      "sbim",
+      ")",
+      ".",
+      "cartera",
+      "salud",
+      "anticipó",
+      "panorama",
+      "desafiante",
+      "2025",
+      "aumento",
+      "incidencia",
+      "casos",
+      "seis",
+      ":",
+      "são",
+      "paulo",
+      ",",
+      "río",
+      "janeiro",
+      ",",
+      "espírito",
+      "santo",
+      ",",
+      "tocantins",
+      ",",
+      "mato",
+      "grosso",
+      "do",
+      "sul",
+      "paraná",
+      ".",
+      "gigante",
+      "suramericano",
+      "registrado",
+      "aumento",
+      "significativo",
+      "serotipo",
+      "3",
+      "dengue",
+      ",",
+      "incremento",
+      "resultados",
+      "positivos",
+      "são",
+      "paulo",
+      ",",
+      "minas",
+      "gerais",
+      ",",
+      "amapá",
+      "paraná",
+      ".",
+      "tipo",
+      "virus",
+      "predominaba",
+      "país",
+      "2008",
+      ",",
+      "dejado",
+      "gran",
+      "parte",
+      "población",
+      "inmunidad",
+      "variante",
+      ".",
+      "parte",
+      ",",
+      "domingo",
+      "reportó",
+      "muerte",
+      "niño",
+      "siete",
+      "años",
+      ",",
+      "arrastrado",
+      "desagüe",
+      "itapecerica",
+      "da",
+      "serra",
+      ",",
+      "motociclista",
+      "ciudad",
+      "industrial",
+      "satélite",
+      "cumbica",
+      ",",
+      "consecuencia",
+      "intensidad",
+      "precipitaciones",
+      ".",
+      "capital",
+      "paulista",
+      "sufrió",
+      "pérdida",
+      "artista",
+      "rodolpho",
+      "tamanini",
+      "netto",
+      ",",
+      "73",
+      "años",
+      ",",
+      "murió",
+      "vehículo",
+      "irrumpió",
+      "hogar",
+      "debido",
+      "corrientes",
+      "agua",
+      "."
+    ],
+    "token_count": 234,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 68,
+      "IN": 22,
+      "FW": 98,
+      "NN": 95,
+      "VBP": 6,
+      "CD": 10,
+      "NNS": 11,
+      "JJ": 33,
+      "CC": 1,
+      "VBD": 3,
+      "VBZ": 5,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 35,
+      "NNP-IN": 6,
+      "IN-NNP": 6,
+      "NNP-FW": 12,
+      "FW-NNP": 16,
+      "NNP-NN": 10,
+      "NN-NN": 45,
+      "NN-FW": 10,
+      "FW-NN": 13,
+      "FW-FW": 62,
+      "NN-VBP": 2,
+      "VBP-CD": 1,
+      "CD-NNS": 6,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "JJ-NN": 19,
+      "NN-IN": 12,
+      "IN-CD": 3,
+      "NNS-JJ": 5,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "IN-FW": 8,
+      "NN-JJ": 11,
+      "JJ-JJ": 4,
+      "NN-NNS": 2,
+      "VBP-NN": 1,
+      "JJ-FW": 4,
+      "NN-NNP": 5,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "FW-JJ": 3,
+      "VBP-NNP": 2,
+      "NNP-CD": 1,
+      "NN-VBD": 3,
+      "VBD-NN": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 4,
+      "JJ-NNP": 2,
+      "IN-NN": 3,
+      "VBD-CD": 1,
+      "NN-CD": 2,
+      "CD-NN": 2,
+      "NNP-VBP": 1,
+      "JJ-IN": 1,
+      "IN-JJ": 2,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 2,
+      "VBD-FW": 1,
+      "FW-NNS": 1,
+      "NNS-NNP": 1,
+      "CD-JJ": 1,
+      "JJ-VBZ": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 6,
+      "NNP-IN-NNP": 4,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 7,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 45,
+      "FW-FW-NN": 5,
+      "FW-NN-VBP": 2,
+      "NN-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 7,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 4,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NNP": 19,
+      "NNP-NNP-NN": 4,
+      "NN-NN-JJ": 9,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-IN-FW": 6,
+      "NNP-FW-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 20,
+      "NNS-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-FW": 2,
+      "NNP-FW-FW": 4,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "NN-NN-VBD": 2,
+      "NN-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-FW": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "FW-NNP-FW": 2,
+      "JJ-NN-NNP": 2,
+      "JJ-FW-NN": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNP-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 2,
+      "CD-NN-JJ": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "NN-NNP-NNP": 2,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 3,
+      "CD-NN-NN": 1,
+      "NN-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-NNP-VBZ": 1,
+      "NN-NN-IN": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-NNP": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-IN": 1,
+      "VBZ-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 98,
+        "NN": 95,
+        "NNP": 68,
+        "JJ": 33,
+        "IN": 22
+      },
+      "top_bigrams": {
+        "FW-FW": 62,
+        "NN-NN": 45,
+        "NNP-NNP": 35,
+        "JJ-NN": 19,
+        "FW-NNP": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 45,
+        "NN-NN-NN": 20,
+        "NNP-NNP-NNP": 19,
+        "NN-NN-JJ": 9,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 107,
+      "PP": 11,
+      "VP": 18,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0458
+      },
+      {
+        "rule": "NP -> ('São', 'NNP') ('Paulo', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0196
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Janeiro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0131
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0131
+      },
+      {
+        "rule": "NP -> ('Río', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0131
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0131
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0131
+      },
+      {
+        "rule": "NP -> ('años', 'NN')",
+        "frequency": 2,
+        "weight": 0.0131
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP ('en', 'FW') NP ('va', 'FW') ('de', 'FW') ('año', 'FW') ('se', 'FW') NP VP ('15', 'CD') NP VP ('de', 'IN') ('101', 'CD') NP NP ('de', 'IN') ('la', 'FW') ('enfermedad', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0065
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil informó que"
+      },
+      {
+        "label": "NP",
+        "text": "lo que"
+      },
+      {
+        "label": "NP",
+        "text": "han"
+      },
+      {
+        "label": "VP",
+        "text": "registrado"
+      },
+      {
+        "label": "NP",
+        "text": "muertes"
+      },
+      {
+        "label": "VP",
+        "text": "por dengue y más"
+      },
+      {
+        "label": "NP",
+        "text": "dengue y más"
+      },
+      {
+        "label": "NP",
+        "text": "mil"
+      },
+      {
+        "label": "NP",
+        "text": "casos probables"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Gobierno brasileño considera"
+      },
+      {
+        "label": "NP",
+        "text": "inaceptable el uso"
+      },
+      {
+        "label": "NP",
+        "text": "desde EE.UU"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  (NP Brasil/NNP informó/NN que/NN)\n  en/FW\n  (NP lo/NN que/NN)\n  va/FW\n  de/FW\n  año/FW\n  se/FW\n  (NP han/NN)\n  (VP registrado/VBP)\n  15/CD\n  (NP muertes/NNS)\n  (VP por/VBP (NP dengue/JJ y/NN más/NN))\n  de/IN\n  101/CD\n  (NP mil/NNS)\n  (NP casos/JJ probables/NNS)\n  de/IN\n  la/FW\n  enfermedad/FW\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Gobierno/NNP brasileño/NN considera/NN)\n  (NP inaceptable/JJ el/JJ uso/NN)\n  de/IN\n  esposas/FW\n  en/FW\n  deportados/FW\n  (NP desde/NN EE.UU/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP Río/NNP)\n  (PP de/IN (NP Janeiro/NNP))\n  se/FW\n  (NP confirmó/NN este/NN lunes/NNS)\n  (VP la/VBP (NP primera/NN víctima/NN))\n  (VP mortal/VBD (NP a/DT causa/NN del/NN dengue/NN))\n  ,/,\n  (NP un/JJ hombre/NN)\n  de/IN\n  38/CD\n  (NP años/NNS)\n  (ADJP residente/JJ)\n  en/FW\n  (NP Campo/NNP Grande/NNP)\n  ,/,\n  (NP Zona/NNP Oeste/NNP)\n  de/IN\n  la/FW\n  (NP capital/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Río/NNP)\n  ,/,\n  (VP los/VBZ (NP casos/JJ confirmados/NN))\n  de/IN\n  dengue/FW\n  están/FW\n  cerca/FW\n  de/FW\n  los/FW\n  mil/FW\n  en/FW\n  2025/CD\n  ,/,\n  mientras/FW\n  que/FW\n  (NP a/DT nivel/JJ nacional/JJ los/NN)\n  episodios/FW\n  de/FW\n  la/FW\n  enfermedad/FW\n  (NP continúan/NN incrementándose/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  estado/FW\n  de/FW\n  (NP São/NNP Paulo/NNP)\n  ,/,\n  33/CD\n  (NP municipios/NNS)\n  (NP se/JJ encuentran/NN)\n  en/FW\n  estado/FW\n  de/FW\n  emergencia/FW\n  debido/FW\n  (NP\n    a/DT\n    la/NN\n    proliferación/NN\n    del/NN\n    mosquito/NN\n    Aedes/NNP\n    aegypti/NN)\n  ,/,\n  (NP transmisor/NN del/NN dengue/NN)\n  ,/,\n  (NP chikungunya/NN y/NN zika/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "RECURSOS_NATURALES",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          406,
+          413
+        ],
+        "start": 406,
+        "end": 413
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          33,
+          40
+        ],
+        "start": 33,
+        "end": 40
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "artista rodolpho tamanini",
+        "position": [
+          2032,
+          2057
+        ],
+        "start": 2032,
+        "end": 2057
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          257,
+          260
+        ],
+        "start": 257,
+        "end": 260
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          26,
+          32
+        ],
+        "start": 26,
+        "end": 32
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona oeste",
+        "position": [
+          389,
+          399
+        ],
+        "start": 389,
+        "end": 399
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          864,
+          873
+        ],
+        "start": 864,
+        "end": 873
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "101 mil",
+        "position": [
+          114,
+          121
+        ],
+        "start": 114,
+        "end": 121
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 101",
+        "position": [
+          107,
+          117
+        ],
+        "start": 107,
+        "end": 117
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Amapá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Río",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tarcísio de Freitas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Minas Gerais",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rodolpho Tamanini Netto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tocantins",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "COE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sociedad Brasileña de Inmunizaciones",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ciudad Industrial Satélite de Cumbica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Campo Grande",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zona Oeste",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Río de Janeiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mato Grosso do Sul",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Paraná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Itapecerica da Serra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "São Paulo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Espírito Santo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONSIDERAR",
+        "objeto": "Campo Grande"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONSIDERAR",
+        "objeto": "Zona Oeste"
+      },
+      {
+        "sujeto": "Río de Janeiro",
+        "relacion": "CONSIDERAR",
+        "objeto": "Campo Grande"
+      },
+      {
+        "sujeto": "Río de Janeiro",
+        "relacion": "CONSIDERAR",
+        "objeto": "Zona Oeste"
+      },
+      {
+        "sujeto": "São Paulo",
+        "relacion": "IMPLEMENTAR",
+        "objeto": "Centro"
+      },
+      {
+        "sujeto": "São Paulo",
+        "relacion": "IMPLEMENTAR",
+        "objeto": "COE"
+      },
+      {
+        "sujeto": "Tarcísio de Freitas",
+        "relacion": "IMPLEMENTAR",
+        "objeto": "Centro"
+      },
+      {
+        "sujeto": "Tarcísio de Freitas",
+        "relacion": "IMPLEMENTAR",
+        "objeto": "COE"
+      },
+      {
+        "sujeto": "Itapecerica da Serra",
+        "relacion": "DA_REPORTAR",
+        "objeto": "Ciudad Industrial Satélite de Cumbica"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7269,
+    "pos": 0.013,
+    "neu": 0.959,
+    "neg": 0.027,
+    "label": "negative"
+  }
+}

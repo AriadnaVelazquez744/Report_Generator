@@ -1,0 +1,753 @@
+{
+  "url": "https://www.telesurtv.net/colombia-senador-uribe-turbay-critico-hemorra/",
+  "title": "Colombia: Senador Miguel Uribe Turbay en \"condición crítica\" tras sufrir una hemorragia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "estado de salud crítico",
+    "hemorragia",
+    "hospitalizado",
+    "Miguel Uribe Turbay",
+    "senador",
+    "violencia política"
+  ],
+  "text": "Esta jornada, la Fundación Santa Fe de Bogotá, donde es atendido el senador colombiano Miguel Uribe Turbay desde que sufriera un atentado el pasado 7 de junio, informó la drástica degradación de salud del paciente en las últimas 48 horas tras sufrir una hemorragia en el sistema nervioso central.\nUn comunicado del centro médico anunció que pese a mantenerse bajo manejo integral y multidisciplinario en la Unidad de Cuidados Intensivos, su estado de salud es de crítico, si bien hace algunas semanas algunas pruebas probaban una respuesta clínica favorable y estable por parte del cuerpo del senador a los tratamientos recibidos.\n\n\nEn el comunicado de esta tarde informan el episodio de hemorragia requirió la realización de nuevos procedimientos neuroquirúrgicos de urgencia, los cuales lograron estabilizar al político. Sin embargo, su condición crítica obligó a reiniciar el bloqueo neuromuscular y la sedación profunda para favorecer su evolución médica.\nEl equipo médico aseguró que Uribe Turbay permanece bajo monitoreo hemodinámico y neurológico permanente. A pesar de las intervenciones realizadas, su pronóstico se mantiene reservado, según lo confirmó la institución en su comunicado.\nLa Fundación Santa Fe de Bogotá aclaró que los próximos informes sobre el estado de salud del senador se emitirán únicamente si hay novedades relevantes en su evolución. El centro médico indicó que la familia del senador ha solicitado que estos partes sean dados.\nMiguel Uribe Turbay, senador que pretendía aspirar a la presidencia del país, fue víctima de un ataque armado en un evento político de campaña en la localidad de Fontibón, Bogotá, el pasado mes de junio. Desde entonces ha sido atendido en la misma institución de salud.\nDesde los primeros momentos, el Gobierno de Gustavo Petro ha probado que no tuvo vínculos con el hecho, y solicitó todas las atenciones médicas que requiriera el senador. De igual forma, varios funcionarios hicieron llamados nacionales a la paz y la tranquilidad, y a rechazar la violencia política que hace años enfrenta la nación.\nHasta el momento, al menos siete personas han sido identificadas como asociadas con la comisión del crimen, entre estas varios menores de edad.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/colombia-senador-uribe-turbay-critico-hemorra/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1624,
+    "message_id": 101374,
+    "date": "2025-08-09T20:55:08+00:00",
+    "text": "teleSUR\nColombia: Senador Miguel Uribe Turbay en “condición crítica” tras sufrir una hemorragia\nhttps://www.telesurtv.net/colombia-senador-uribe-turbay-critico-hemorra/",
+    "photo_path": null,
+    "views": 1812,
+    "reactions": {
+      "😱": 18,
+      "👍": 2,
+      "🙏": 2
+    },
+    "total_reactions": 22
+  },
+  "preprocessing": {
+    "cleaned": "esta jornada, la fundación santa fe de bogotá, donde es atendido el senador colombiano miguel uribe turbay desde que sufriera un atentado el pasado 7 de junio, informó la drástica degradación de salud del paciente en las últimas 48 horas tras sufrir una hemorragia en el sistema nervioso central. un comunicado del centro médico anunció que pese a mantenerse bajo manejo integral y multidisciplinario en la unidad de cuidados intensivos, su estado de salud es de crítico, si bien hace algunas semanas algunas pruebas probaban una respuesta clínica favorable y estable por parte del cuerpo del senador a los tratamientos recibidos. en el comunicado de esta tarde informan el episodio de hemorragia requirió la realización de nuevos procedimientos neuroquirúrgicos de urgencia, los cuales lograron estabilizar al político. sin embargo, su condición crítica obligó a reiniciar el bloqueo neuromuscular y la sedación profunda para favorecer su evolución médica. el equipo médico aseguró que uribe turbay permanece bajo monitoreo hemodinámico y neurológico permanente. a pesar de las intervenciones realizadas, su pronóstico se mantiene reservado, según lo confirmó la institución en su comunicado. la fundación santa fe de bogotá aclaró que los próximos informes sobre el estado de salud del senador se emitirán únicamente si hay novedades relevantes en su evolución. el centro médico indicó que la familia del senador ha solicitado que estos partes sean dados. miguel uribe turbay, senador que pretendía aspirar a la presidencia del país, fue víctima de un ataque armado en un evento político de campaña en la localidad de fontibón, bogotá, el pasado mes de junio. desde entonces ha sido atendido en la misma institución de salud. desde los primeros momentos, el gobierno de gustavo petro ha probado que no tuvo vínculos con el hecho, y solicitó todas las atenciones médicas que requiriera el senador. de igual forma, varios funcionarios hicieron llamados nacionales a la paz y la tranquilidad, y a rechazar la violencia política que hace años enfrenta la nación. hasta el momento, al menos siete personas han sido identificadas como asociadas con la comisión del crimen, entre estas varios menores de edad.",
+    "tokens": [
+      "jornada",
+      ",",
+      "fundación",
+      "santa",
+      "fe",
+      "bogotá",
+      ",",
+      "atendido",
+      "senador",
+      "colombiano",
+      "miguel",
+      "uribe",
+      "turbay",
+      "sufriera",
+      "atentado",
+      "pasado",
+      "7",
+      "junio",
+      ",",
+      "informó",
+      "drástica",
+      "degradación",
+      "salud",
+      "paciente",
+      "últimas",
+      "48",
+      "horas",
+      "tras",
+      "sufrir",
+      "hemorragia",
+      "sistema",
+      "nervioso",
+      "central",
+      ".",
+      "comunicado",
+      "centro",
+      "médico",
+      "anunció",
+      "pese",
+      "mantenerse",
+      "bajo",
+      "manejo",
+      "integral",
+      "multidisciplinario",
+      "unidad",
+      "cuidados",
+      "intensivos",
+      ",",
+      "salud",
+      "crítico",
+      ",",
+      "si",
+      "bien",
+      "hace",
+      "semanas",
+      "pruebas",
+      "probaban",
+      "respuesta",
+      "clínica",
+      "favorable",
+      "estable",
+      "parte",
+      "cuerpo",
+      "senador",
+      "tratamientos",
+      "recibidos",
+      ".",
+      "comunicado",
+      "tarde",
+      "informan",
+      "episodio",
+      "hemorragia",
+      "requirió",
+      "realización",
+      "nuevos",
+      "procedimientos",
+      "neuroquirúrgicos",
+      "urgencia",
+      ",",
+      "cuales",
+      "lograron",
+      "estabilizar",
+      "político",
+      ".",
+      "embargo",
+      ",",
+      "condición",
+      "crítica",
+      "obligó",
+      "reiniciar",
+      "bloqueo",
+      "neuromuscular",
+      "sedación",
+      "profunda",
+      "favorecer",
+      "evolución",
+      "médica",
+      ".",
+      "equipo",
+      "médico",
+      "aseguró",
+      "uribe",
+      "turbay",
+      "permanece",
+      "bajo",
+      "monitoreo",
+      "hemodinámico",
+      "neurológico",
+      "permanente",
+      ".",
+      "pesar",
+      "intervenciones",
+      "realizadas",
+      ",",
+      "pronóstico",
+      "mantiene",
+      "reservado",
+      ",",
+      "según",
+      "confirmó",
+      "institución",
+      "comunicado",
+      ".",
+      "fundación",
+      "santa",
+      "fe",
+      "bogotá",
+      "aclaró",
+      "próximos",
+      "informes",
+      "salud",
+      "senador",
+      "emitirán",
+      "únicamente",
+      "si",
+      "novedades",
+      "relevantes",
+      "evolución",
+      ".",
+      "centro",
+      "médico",
+      "indicó",
+      "familia",
+      "senador",
+      "solicitado",
+      "partes",
+      "dados",
+      ".",
+      "miguel",
+      "uribe",
+      "turbay",
+      ",",
+      "senador",
+      "pretendía",
+      "aspirar",
+      "presidencia",
+      "país",
+      ",",
+      "víctima",
+      "ataque",
+      "armado",
+      "evento",
+      "político",
+      "campaña",
+      "localidad",
+      "fontibón",
+      ",",
+      "bogotá",
+      ",",
+      "pasado",
+      "mes",
+      "junio",
+      ".",
+      "entonces",
+      "sido",
+      "atendido",
+      "misma",
+      "institución",
+      "salud",
+      ".",
+      "primeros",
+      "momentos",
+      ",",
+      "gobierno",
+      "gustavo",
+      "petro",
+      "probado",
+      "vínculos",
+      "hecho",
+      ",",
+      "solicitó",
+      "todas",
+      "atenciones",
+      "médicas",
+      "requiriera",
+      "senador",
+      ".",
+      "igual",
+      "forma",
+      ",",
+      "varios",
+      "funcionarios",
+      "hicieron",
+      "llamados",
+      "nacionales",
+      "paz",
+      "tranquilidad",
+      ",",
+      "rechazar",
+      "violencia",
+      "política",
+      "hace",
+      "años",
+      "enfrenta",
+      "nación",
+      ".",
+      "momento",
+      ",",
+      "menos",
+      "siete",
+      "personas",
+      "sido",
+      "identificadas",
+      "asociadas",
+      "comisión",
+      "crimen",
+      ",",
+      "varios",
+      "menores",
+      "edad",
+      "."
+    ],
+    "token_count": 231,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NN": 155,
+      "IN": 18,
+      "JJ": 36,
+      "FW": 54,
+      "CD": 1,
+      "NNS": 15,
+      "VBD": 2,
+      "VBP": 10,
+      "VBZ": 5,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 103,
+      "NN-NNP": 12,
+      "NNP-NNP": 13,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NN-JJ": 10,
+      "JJ-NN": 23,
+      "NN-IN": 12,
+      "IN-FW": 9,
+      "FW-JJ": 3,
+      "FW-FW": 31,
+      "FW-NN": 12,
+      "NN-FW": 7,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NNP": 1,
+      "FW-NNP": 5,
+      "NNP-FW": 4,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NN-NNS": 6,
+      "NNS-VBP": 10,
+      "VBP-JJ": 9,
+      "FW-NNS": 2,
+      "IN-NN": 4,
+      "JJ-NNS": 5,
+      "JJ-FW": 2,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 4,
+      "IN-JJ": 2,
+      "NNP-VBZ": 2,
+      "NNS-IN": 2,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NNP-JJ": 1,
+      "VBP-NN": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 11,
+      "NN-NN-NNP": 10,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "NN-NN-NN": 68,
+      "NNP-NNP-NN": 4,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 18,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 9,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 23,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "IN-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NN": 6,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-NNP-NN": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-FW-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-FW-JJ": 1,
+      "NN-NNP-IN": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-FW-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "VBP-JJ-NNS": 2,
+      "NN-FW-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 155,
+        "FW": 54,
+        "JJ": 36,
+        "NNP": 35,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 103,
+        "FW-FW": 31,
+        "JJ-NN": 23,
+        "NNP-NNP": 13,
+        "NN-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 68,
+        "FW-FW-FW": 23,
+        "JJ-NN-NN": 18,
+        "NNP-NN-NN": 11,
+        "NN-NN-NNP": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 6,
+      "VP": 19,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0317
+      },
+      {
+        "rule": "NP -> ('Bogotá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('junio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP (',', ',') ('la', 'FW') NP PP (',', ',') NP NP VP ('7', 'CD') ('de', 'FW') NP (',', ',') NP ('de', 'IN') ('salud', 'FW') ('del', 'FW') NP ('en', 'FW') ('las', 'FW') ('últimas', 'FW') ('48', 'CD') NP NP ('en', 'IN') ('el', 'FW') NP ADJP ADJP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Esta', 'NNP') ('jornada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Fundación', 'NNP') ('Santa', 'NNP') ('Fe', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('donde', 'NN') ('es', 'NN') ('atendido', 'NN') ('el', 'NN') ('senador', 'NN') ('colombiano', 'NN') ('Miguel', 'NNP') ('Uribe', 'NNP') ('Turbay', 'NNP') ('desde', 'NN') ('que', 'NN') ('sufriera', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('atentado', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "VP -> ('pasado', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Esta jornada"
+      },
+      {
+        "label": "NP",
+        "text": "Fundación Santa Fe"
+      },
+      {
+        "label": "PP",
+        "text": "de Bogotá"
+      },
+      {
+        "label": "NP",
+        "text": "Bogotá"
+      },
+      {
+        "label": "NP",
+        "text": "donde es atendido el senador colombiano Miguel Uribe Turbay desde que sufriera"
+      },
+      {
+        "label": "NP",
+        "text": "un atentado el"
+      },
+      {
+        "label": "VP",
+        "text": "pasado"
+      },
+      {
+        "label": "NP",
+        "text": "junio"
+      },
+      {
+        "label": "NP",
+        "text": "informó la drástica degradación"
+      },
+      {
+        "label": "NP",
+        "text": "paciente"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "tras sufrir una hemorragia"
+      },
+      {
+        "label": "NP",
+        "text": "sistema"
+      },
+      {
+        "label": "ADJP",
+        "text": "nervioso"
+      },
+      {
+        "label": "ADJP",
+        "text": "central"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Esta/NNP jornada/NN)\n  ,/,\n  la/FW\n  (NP Fundación/NNP Santa/NNP Fe/NNP)\n  (PP de/IN (NP Bogotá/NNP))\n  ,/,\n  (NP\n    donde/NN\n    es/NN\n    atendido/NN\n    el/NN\n    senador/NN\n    colombiano/NN\n    Miguel/NNP\n    Uribe/NNP\n    Turbay/NNP\n    desde/NN\n    que/NN\n    sufriera/NN)\n  (NP un/JJ atentado/NN el/NN)\n  (VP pasado/VBD)\n  7/CD\n  de/FW\n  (NP junio/NN)\n  ,/,\n  (NP informó/JJ la/NN drástica/NN degradación/NN)\n  de/IN\n  salud/FW\n  del/FW\n  (NP paciente/NN)\n  en/FW\n  las/FW\n  últimas/FW\n  48/CD\n  (NP horas/NNS)\n  (NP tras/JJ sufrir/JJ una/JJ hemorragia/NN)\n  en/IN\n  el/FW\n  (NP sistema/NN)\n  (ADJP nervioso/JJ)\n  (ADJP central/JJ)\n  ./.)",
+      "(S\n  (NP\n    Un/NNP\n    comunicado/NN\n    del/NN\n    centro/NN\n    médico/NN\n    anunció/NN\n    que/NN)\n  (VP\n    pese/VBZ\n    (NP a/DT mantenerse/NN bajo/NN)\n    (NP manejo/JJ integral/JJ y/NN multidisciplinario/NN))\n  en/IN\n  la/FW\n  (NP Unidad/NNP)\n  de/FW\n  (NP Cuidados/NNP Intensivos/NNP)\n  ,/,\n  (ADJP su/JJ)\n  estado/FW\n  de/FW\n  salud/FW\n  es/FW\n  de/FW\n  crítico/FW\n  ,/,\n  si/FW\n  bien/FW\n  (NP hace/NN algunas/NNS)\n  (VP\n    semanas/VBP\n    (NP algunas/JJ pruebas/NN probaban/NN)\n    (NP una/JJ respuesta/NN clínica/NN)\n    (NP favorable/JJ y/NN)\n    (NP estable/JJ por/NN parte/NN del/NN cuerpo/NN del/NN))\n  (VP senador/VBD (NP a/DT los/JJ tratamientos/NN recibidos/NN))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  (NP comunicado/NN)\n  de/IN\n  esta/FW\n  (NP tarde/JJ informan/NN el/NN episodio/NN)\n  de/IN\n  hemorragia/FW\n  (NP requirió/NN)\n  la/FW\n  realización/FW\n  de/FW\n  nuevos/FW\n  procedimientos/FW\n  neuroquirúrgicos/FW\n  de/FW\n  urgencia/FW\n  ,/,\n  (NP los/JJ cuales/NNS)\n  (VP lograron/VBP (NP estabilizar/JJ al/NN político/NN))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP su/JJ condición/NN crítica/NN)\n  (VP\n    obligó/VBZ\n    (NP a/DT reiniciar/JJ el/NN bloqueo/NN)\n    (NP neuromuscular/JJ y/NN la/NN)\n    (NP\n      sedación/JJ\n      profunda/NN\n      para/NN\n      favorecer/NN\n      su/NN\n      evolución/NN\n      médica/NN))\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    equipo/NN\n    médico/NN\n    aseguró/NN\n    que/NN\n    Uribe/NNP\n    Turbay/NNP\n    permanece/NN\n    bajo/NN\n    monitoreo/NN\n    hemodinámico/NN\n    y/NN)\n  (NP neurológico/JJ permanente/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "REGIONES_PROVINCIAS",
+      "CIUDADES_CAPITALES",
+      "ORGANIZACIONES_SOCIALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          160,
+          167
+        ],
+        "start": 160,
+        "end": 167
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "aclaró",
+        "position": [
+          1228,
+          1234
+        ],
+        "start": 1228,
+        "end": 1234
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de gustavo petro",
+        "position": [
+          1762,
+          1787
+        ],
+        "start": 1762,
+        "end": 1787
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "fundación",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "clínica",
+        "position": [
+          540,
+          547
+        ],
+        "start": 540,
+        "end": 547
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "bogotá",
+        "position": [
+          39,
+          45
+        ],
+        "start": 39,
+        "end": 45
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          441,
+          450
+        ],
+        "start": 441,
+        "end": 450
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro médico",
+        "position": [
+          315,
+          328
+        ],
+        "start": 315,
+        "end": 328
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "pasado mes",
+        "position": [
+          1643,
+          1653
+        ],
+        "start": 1643,
+        "end": 1653
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta tarde",
+        "position": [
+          653,
+          663
+        ],
+        "start": 653,
+        "end": 663
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          827,
+          834
+        ],
+        "start": 827,
+        "end": 834
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Miguel Uribe Turbay",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fundación Santa Fe de Bogotá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unidad de Cuidados Intensivos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Fundación Santa Fe de Bogotá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fontibón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Uribe Turbay",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bogotá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Gustavo Petro",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.5423,
+    "pos": 0.03,
+    "neu": 0.953,
+    "neg": 0.017,
+    "label": "positive"
+  }
+}

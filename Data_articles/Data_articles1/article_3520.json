@@ -1,0 +1,576 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-rescata-su-patrimonio-cultural-gracias-a-hallazgos-de-arqueologia-revolucionaria/",
+  "title": "Venezuela rescata su patrimonio cultural gracias a hallazgos de arqueología - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Casona Cultural Eleazar López Contreras",
+    "cultura",
+    "identidad",
+    "Legado arqueológico",
+    "Venezuela"
+  ],
+  "text": "Durante la inauguración del centro cultural, el Jefe de Estado, Nicolás Maduro Moros, comentó que el antropólogo Luis Guillermo Román, egresado de la Universidad Central de Venezuela, dirigió un proyecto de arqueología de rescate en la emblemática Casona Cultural Eleazar López Contreras. Su equipo descubrió valiosos elementos históricos, como un malero estilo Napoleón III, que revela la vida cotidiana de la Caracas del pasado.\n\n\nEsta intervención arqueológica permitió rescatar no solo la estructura física del edificio, sino también la memoria colectiva vinculada a él. El gobierno bolivariano reafirma así su política de rehabilitar espacios históricos, como acto de justicia cultural y reparación patrimonial.\n\n\nAnte esto, la comunidad caraqueña recupera un símbolo de su identidad, donde confluyen la formación artística y la herencia histórica.\nEste modelo de gestión cultural participativa demuestra que la preservación del patrimonio es una herramienta clave para la emancipación cultural de los pueblos.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-rescata-su-patrimonio-cultural-gracias-a-hallazgos-de-arqueologia-revolucionaria/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 347,
+    "message_id": 90335,
+    "date": "2025-03-26T23:55:13+00:00",
+    "text": "teleSUR\nVenezuela rescata su patrimonio cultural gracias a hallazgos de arqueología revolucionaria\nhttps://www.telesurtv.net/venezuela-rescata-su-patrimonio-cultural-gracias-a-hallazgos-de-arqueologia-revolucionaria/",
+    "photo_path": null,
+    "views": 1587,
+    "reactions": {
+      "👍": 33,
+      "🥰": 1,
+      "🤔": 1
+    },
+    "total_reactions": 35
+  },
+  "preprocessing": {
+    "cleaned": "durante la inauguración del centro cultural, el jefe de estado, nicolás maduro moros, comentó que el antropólogo luis guillermo román, egresado de la universidad central de venezuela, dirigió un proyecto de arqueología de rescate en la emblemática casona cultural eleazar lópez contreras. su equipo descubrió valiosos elementos históricos, como un malero estilo napoleón iii, que revela la vida cotidiana de la caracas del pasado. esta intervención arqueológica permitió rescatar no solo la estructura física del edificio, sino también la memoria colectiva vinculada a él. el gobierno bolivariano reafirma así su política de rehabilitar espacios históricos, como acto de justicia cultural y reparación patrimonial. ante esto, la comunidad caraqueña recupera un símbolo de su identidad, donde confluyen la formación artística y la herencia histórica. este modelo de gestión cultural participativa demuestra que la preservación del patrimonio es una herramienta clave para la emancipación cultural de los pueblos.",
+    "tokens": [
+      "inauguración",
+      "centro",
+      "cultural",
+      ",",
+      "jefe",
+      ",",
+      "nicolás",
+      "maduro",
+      "moros",
+      ",",
+      "comentó",
+      "antropólogo",
+      "luis",
+      "guillermo",
+      "román",
+      ",",
+      "egresado",
+      "universidad",
+      "central",
+      "venezuela",
+      ",",
+      "dirigió",
+      "proyecto",
+      "arqueología",
+      "rescate",
+      "emblemática",
+      "casona",
+      "cultural",
+      "eleazar",
+      "lópez",
+      "contreras",
+      ".",
+      "equipo",
+      "descubrió",
+      "valiosos",
+      "elementos",
+      "históricos",
+      ",",
+      "malero",
+      "estilo",
+      "napoleón",
+      "iii",
+      ",",
+      "revela",
+      "vida",
+      "cotidiana",
+      "caracas",
+      "pasado",
+      ".",
+      "intervención",
+      "arqueológica",
+      "permitió",
+      "rescatar",
+      "solo",
+      "estructura",
+      "física",
+      "edificio",
+      ",",
+      "sino",
+      "memoria",
+      "colectiva",
+      "vinculada",
+      ".",
+      "gobierno",
+      "bolivariano",
+      "reafirma",
+      "así",
+      "política",
+      "rehabilitar",
+      "espacios",
+      "históricos",
+      ",",
+      "acto",
+      "justicia",
+      "cultural",
+      "reparación",
+      "patrimonial",
+      ".",
+      ",",
+      "comunidad",
+      "caraqueña",
+      "recupera",
+      "símbolo",
+      "identidad",
+      ",",
+      "confluyen",
+      "formación",
+      "artística",
+      "herencia",
+      "histórica",
+      ".",
+      "modelo",
+      "gestión",
+      "cultural",
+      "participativa",
+      "demuestra",
+      "preservación",
+      "patrimonio",
+      "herramienta",
+      "clave",
+      "emancipación",
+      "cultural",
+      "pueblos",
+      "."
+    ],
+    "token_count": 104,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "FW": 32,
+      "JJ": 15,
+      "NN": 58,
+      "IN": 6,
+      "VBZ": 1,
+      "DT": 1,
+      "NNS": 1,
+      "VBP": 2,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 13,
+      "NNP-FW": 4,
+      "FW-FW": 17,
+      "FW-JJ": 5,
+      "JJ-JJ": 3,
+      "JJ-NN": 10,
+      "NN-NNP": 5,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-NN": 7,
+      "NN-NN": 36,
+      "FW-NNP": 5,
+      "NN-JJ": 4,
+      "NN-IN": 5,
+      "IN-FW": 5,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-FW": 5,
+      "FW-NN": 4,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "FW-NNS": 1,
+      "NNS-VBP": 1,
+      "VBP-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 3,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 25,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "FW-FW-FW": 10,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-JJ": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-FW-FW": 3,
+      "NN-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 58,
+        "FW": 32,
+        "NNP": 26,
+        "JJ": 15,
+        "IN": 6
+      },
+      "top_bigrams": {
+        "NN-NN": 36,
+        "FW-FW": 17,
+        "NNP-NNP": 13,
+        "JJ-NN": 10,
+        "NNP-NN": 7
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "FW-FW-FW": 10,
+        "NNP-NNP-NNP": 7,
+        "NNP-NN-NN": 5,
+        "NN-IN-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 35,
+      "ADJP": 2,
+      "VP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP ('inauguración', 'FW') ('del', 'FW') ADJP ADJP (',', ',') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') ('egresado', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP NP ('de', 'IN') ('arqueología', 'FW') ('de', 'FW') ('rescate', 'FW') ('en', 'FW') ('la', 'FW') ('emblemática', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Durante', 'NNP') ('la', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "ADJP -> ('centro', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "ADJP -> ('cultural', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('Jefe', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP') ('Moros', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('comentó', 'NN') ('que', 'NN') ('el', 'NN') ('antropólogo', 'NN') ('Luis', 'NNP') ('Guillermo', 'NNP') ('Román', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Universidad', 'NNP') ('Central', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0222
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Durante la"
+      },
+      {
+        "label": "ADJP",
+        "text": "centro"
+      },
+      {
+        "label": "ADJP",
+        "text": "cultural"
+      },
+      {
+        "label": "NP",
+        "text": "el Jefe"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro Moros"
+      },
+      {
+        "label": "NP",
+        "text": "comentó que el antropólogo Luis Guillermo Román"
+      },
+      {
+        "label": "NP",
+        "text": "Universidad Central"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "dirigió"
+      },
+      {
+        "label": "NP",
+        "text": "un proyecto"
+      },
+      {
+        "label": "NP",
+        "text": "Casona Cultural Eleazar López Contreras"
+      },
+      {
+        "label": "NP",
+        "text": "Su"
+      },
+      {
+        "label": "NP",
+        "text": "descubrió valiosos elementos históricos"
+      },
+      {
+        "label": "NP",
+        "text": "como"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Durante/NNP la/NNP)\n  inauguración/FW\n  del/FW\n  (ADJP centro/JJ)\n  (ADJP cultural/JJ)\n  ,/,\n  (NP el/JJ Jefe/NNP)\n  de/FW\n  (NP Estado/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP Moros/NNP)\n  ,/,\n  (NP\n    comentó/NN\n    que/NN\n    el/NN\n    antropólogo/NN\n    Luis/NNP\n    Guillermo/NNP\n    Román/NNP)\n  ,/,\n  egresado/FW\n  de/FW\n  la/FW\n  (NP Universidad/NNP Central/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP dirigió/NN)\n  (NP un/JJ proyecto/NN)\n  de/IN\n  arqueología/FW\n  de/FW\n  rescate/FW\n  en/FW\n  la/FW\n  emblemática/FW\n  (NP Casona/NNP Cultural/NNP Eleazar/NNP López/NNP Contreras/NNP)\n  ./.)",
+      "(S\n  (NP Su/NNP)\n  equipo/CC\n  (NP descubrió/JJ valiosos/NN elementos/NN históricos/NN)\n  ,/,\n  (NP como/NN)\n  (NP un/JJ malero/NN estilo/NN Napoleón/NNP III/NNP)\n  ,/,\n  (NP que/NN revela/NN la/NN)\n  vida/FW\n  (NP cotidiana/NN)\n  de/IN\n  la/FW\n  (NP Caracas/NNP)\n  del/FW\n  (NP pasado/NN)\n  ./.)",
+      "(S\n  (NP\n    Esta/NNP\n    intervención/NN\n    arqueológica/NN\n    permitió/NN\n    rescatar/NN)\n  (NP no/DT solo/NN la/NN estructura/NN física/NN del/NN edificio/NN)\n  ,/,\n  (NP sino/NN también/NN)\n  la/FW\n  memoria/FW\n  colectiva/FW\n  vinculada/FW\n  (NP a/DT él/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    gobierno/NN\n    bolivariano/NN\n    reafirma/NN\n    así/NN\n    su/NN\n    política/NN)\n  de/IN\n  rehabilitar/FW\n  (NP espacios/NNS históricos/NN)\n  ,/,\n  (NP como/JJ acto/NN)\n  de/IN\n  justicia/FW\n  (NP cultural/JJ y/NN reparación/NN patrimonial/NN)\n  ./.)",
+      "(S\n  (NP Ante/NNP esto/NN)\n  ,/,\n  la/FW\n  comunidad/FW\n  (NP caraqueña/NN recupera/NN)\n  (NP un/JJ símbolo/NN)\n  de/IN\n  su/FW\n  (NP identidad/NN)\n  ,/,\n  (NP\n    donde/JJ\n    confluyen/NN\n    la/NN\n    formación/NN\n    artística/NN\n    y/NN\n    la/NN\n    herencia/NN\n    histórica/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "patrimonio es una herramienta clave para la emancipación cultural",
+        "position": [
+          934,
+          999
+        ],
+        "start": 934,
+        "end": 999
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "universidad central de",
+        "position": [
+          150,
+          172
+        ],
+        "start": 150,
+        "end": 172
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          150,
+          161
+        ],
+        "start": 150,
+        "end": 161
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          173,
+          182
+        ],
+        "start": 173,
+        "end": 182
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          411,
+          418
+        ],
+        "start": 411,
+        "end": 418
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, nicolás",
+        "position": [
+          56,
+          71
+        ],
+        "start": 56,
+        "end": 71
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro cultural",
+        "position": [
+          28,
+          43
+        ],
+        "start": 28,
+        "end": 43
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "universidad central",
+        "position": [
+          150,
+          169
+        ],
+        "start": 150,
+        "end": 169
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jefe de Estado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro Moros",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Universidad Central de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Napoleón III",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Casona Cultural Eleazar López Contreras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luis Guillermo Román",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Jefe de Estado",
+        "relacion": "COMENTAR",
+        "objeto": "Luis Guillermo Román"
+      },
+      {
+        "sujeto": "Jefe de Estado",
+        "relacion": "COMENTAR",
+        "objeto": "Universidad Central de Venezuela"
+      },
+      {
+        "sujeto": "Jefe de Estado",
+        "relacion": "COMENTAR",
+        "objeto": "Casona Cultural Eleazar López Contreras"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "COMENTAR",
+        "objeto": "Luis Guillermo Román"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "COMENTAR",
+        "objeto": "Universidad Central de Venezuela"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "COMENTAR",
+        "objeto": "Casona Cultural Eleazar López Contreras"
+      },
+      {
+        "sujeto": "Luis Guillermo Román",
+        "relacion": "DIRIGIR_COMENTAR",
+        "objeto": "Casona Cultural Eleazar López Contreras"
+      },
+      {
+        "sujeto": "Universidad Central de Venezuela",
+        "relacion": "DIRIGIR_COMENTAR",
+        "objeto": "Casona Cultural Eleazar López Contreras"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.985,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

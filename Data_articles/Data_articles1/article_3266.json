@@ -1,0 +1,745 @@
+{
+  "url": "https://www.telesurtv.net/cristina-fernandez-piensa-en-un-cambio-de-rumbo-para-argentina-tras-un-ano-dificil/",
+  "title": "Cristina Fernández piensa en un \"cambio de rumbo\" para Argentina tras \"un año difícil\" - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "cambio",
+    "Cristina Fernández de Kirchner",
+    "Javier Milei"
+  ],
+  "text": "La expresidenta de Argentina, Cristina Fernández de Kirchner, publicó el martes un mensaje de Año Nuevo en el que pronosticó un “cambio de rumbo” para 2025 en la nación suramericana.\n“Se cierra un año que fue difícil para los argentinos y argentinas. Donde la indiferencia caló hondo en nuestra sociedad y nos encontramos cada vez más alejados unos de otros”, expresó la exmandataria en su cuenta oficial de la red social X.\n“Deseo de todo corazón que en este 2025 que comienza podamos cambiar ese rumbo. Que logremos transformar el desamor en solidaridad y reencontrarnos como comunidad, reafirmando el valor de la empatía y el amor por el otro”, añadió.\nAsimismo, felicitó a “todos y todas” por el nuevo año, señalando el cariño que tiene la líder del peronismo por los argentinos y las argentinas.\nPor otra parte, fuentes próximas a la expresidenta indicaron que festejará el Año Nuevo “en familia”.\nEn el festejo la acompañarán sus hijos Máximo y Florencia Kirchner, sus nietos y su cuñada Alicia Kirchner, entre otras personas cercanas, en el hogar que Cristina Fernández posee en Río Gallegos, provincia de Santa Cruz, señaló el diario.\nEn 2024, la exjefa de Estado se estableció como una ferviente opositora al presidente Javier Milei, quien la seleccionó como la personalidad política que generará polarización en el ámbito opositor.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cristina-fernandez-piensa-en-un-cambio-de-rumbo-para-argentina-tras-un-ano-dificil/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 2201,
+    "message_id": 83415,
+    "date": "2025-01-01T11:55:07+00:00",
+    "text": "teleSUR\nCristina Fernández piensa en un «cambio de rumbo» para Argentina tras «un año difícil»\nhttps://www.telesurtv.net/cristina-fernandez-piensa-en-un-cambio-de-rumbo-para-argentina-tras-un-ano-dificil/",
+    "photo_path": null,
+    "views": 2550,
+    "reactions": {
+      "👍": 62,
+      "❤": 13,
+      "😁": 5,
+      "🤔": 3,
+      "🦄": 2,
+      "🥱": 1
+    },
+    "total_reactions": 86
+  },
+  "preprocessing": {
+    "cleaned": "la expresidenta de argentina, cristina fernández de kirchner, publicó el martes un mensaje de año nuevo en el que pronosticó un “cambio de rumbo” para 2025 en la nación suramericana. “se cierra un año que fue difícil para los argentinos y argentinas. donde la indiferencia caló hondo en nuestra sociedad y nos encontramos cada vez más alejados unos de otros”, expresó la exmandataria en su cuenta oficial de la red social x. “deseo de todo corazón que en este 2025 que comienza podamos cambiar ese rumbo. que logremos transformar el desamor en solidaridad y reencontrarnos como comunidad, reafirmando el valor de la empatía y el amor por el otro”, añadió. asimismo, felicitó a “todos y todas” por el nuevo año, señalando el cariño que tiene la líder del peronismo por los argentinos y las argentinas. por otra parte, fuentes próximas a la expresidenta indicaron que festejará el año nuevo “en familia”. en el festejo la acompañarán sus hijos máximo y florencia kirchner, sus nietos y su cuñada alicia kirchner, entre otras personas cercanas, en el hogar que cristina fernández posee en río gallegos, provincia de santa cruz, señaló el diario. en 2024, la exjefa de estado se estableció como una ferviente opositora al presidente javier milei, quien la seleccionó como la personalidad política que generará polarización en el ámbito opositor.",
+    "tokens": [
+      "expresidenta",
+      "argentina",
+      ",",
+      "cristina",
+      "fernández",
+      "kirchner",
+      ",",
+      "publicó",
+      "martes",
+      "mensaje",
+      "año",
+      "nuevo",
+      "pronosticó",
+      "“",
+      "cambio",
+      "rumbo",
+      "”",
+      "2025",
+      "nación",
+      "suramericana",
+      ".",
+      "“",
+      "cierra",
+      "año",
+      "difícil",
+      "argentinos",
+      "argentinas",
+      ".",
+      "indiferencia",
+      "caló",
+      "hondo",
+      "sociedad",
+      "encontramos",
+      "cada",
+      "vez",
+      "alejados",
+      "”",
+      ",",
+      "expresó",
+      "exmandataria",
+      "cuenta",
+      "oficial",
+      "red",
+      "social",
+      "x",
+      ".",
+      "“",
+      "deseo",
+      "corazón",
+      "2025",
+      "comienza",
+      "podamos",
+      "cambiar",
+      "rumbo",
+      ".",
+      "logremos",
+      "transformar",
+      "desamor",
+      "solidaridad",
+      "reencontrarnos",
+      "comunidad",
+      ",",
+      "reafirmando",
+      "valor",
+      "empatía",
+      "amor",
+      "”",
+      ",",
+      "añadió",
+      ".",
+      "asimismo",
+      ",",
+      "felicitó",
+      "“",
+      "todas",
+      "”",
+      "nuevo",
+      "año",
+      ",",
+      "señalando",
+      "cariño",
+      "líder",
+      "peronismo",
+      "argentinos",
+      "argentinas",
+      ".",
+      "parte",
+      ",",
+      "fuentes",
+      "próximas",
+      "expresidenta",
+      "indicaron",
+      "festejará",
+      "año",
+      "nuevo",
+      "“",
+      "familia",
+      "”",
+      ".",
+      "festejo",
+      "acompañarán",
+      "hijos",
+      "máximo",
+      "florencia",
+      "kirchner",
+      ",",
+      "nietos",
+      "cuñada",
+      "alicia",
+      "kirchner",
+      ",",
+      "personas",
+      "cercanas",
+      ",",
+      "hogar",
+      "cristina",
+      "fernández",
+      "posee",
+      "río",
+      "gallegos",
+      ",",
+      "provincia",
+      "santa",
+      "cruz",
+      ",",
+      "señaló",
+      "diario",
+      ".",
+      "2024",
+      ",",
+      "exjefa",
+      "estableció",
+      "ferviente",
+      "opositora",
+      "presidente",
+      "javier",
+      "milei",
+      ",",
+      "seleccionó",
+      "personalidad",
+      "política",
+      "generará",
+      "polarización",
+      "ámbito",
+      "opositor",
+      "."
+    ],
+    "token_count": 146,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "FW": 40,
+      "CC": 1,
+      "JJ": 22,
+      "NNS": 8,
+      "NN": 84,
+      "IN": 9,
+      "CD": 3,
+      "VBP": 7,
+      "VBZ": 2,
+      "VBD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 6,
+      "FW-FW": 19,
+      "FW-NNP": 7,
+      "NNP-NNP": 11,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-JJ": 1,
+      "JJ-FW": 4,
+      "FW-NN": 11,
+      "NN-NN": 47,
+      "NN-JJ": 7,
+      "JJ-NN": 10,
+      "NN-IN": 8,
+      "IN-FW": 3,
+      "NN-CD": 2,
+      "CD-NN": 3,
+      "NN-FW": 7,
+      "NNP-NN": 8,
+      "NN-NNP": 8,
+      "IN-JJ": 2,
+      "JJ-JJ": 4,
+      "NNS-VBP": 6,
+      "VBP-JJ": 4,
+      "FW-JJ": 2,
+      "JJ-NNP": 1,
+      "IN-NN": 3,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-NNS": 4,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "VBZ-FW": 1,
+      "FW-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-CD": 1,
+      "VBP-RB": 1,
+      "RB-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 7,
+      "NN-NN-NN": 26,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 9,
+      "FW-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-NN": 5,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 6,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-FW-NN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-CD": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "IN-JJ-NNS": 1,
+      "IN-FW-FW": 2,
+      "NN-NN-FW": 3,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-FW-NN": 3,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 4,
+      "FW-NN-NNP": 1,
+      "IN-NN-NN": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "FW-NNP-FW": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-NNP": 1,
+      "RB-NNP-NNP": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "FW": 40,
+        "NNP": 31,
+        "JJ": 22,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "FW-FW": 19,
+        "NNP-NNP": 11,
+        "FW-NN": 11,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 9,
+        "FW-NN-NN": 7,
+        "NN-NN-JJ": 6,
+        "NN-JJ-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 10,
+      "PP": 5,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0345
+      },
+      {
+        "rule": "S -> NP ('expresidenta', 'FW') ('de', 'FW') NP (',', ',') NP ('de', 'FW') NP (',', ',') NP VP ('mensaje', 'FW') ('de', 'FW') NP ('en', 'FW') NP NP ('de', 'FW') ('rumbo', 'FW') ('”', 'FW') NP ('2025', 'CD') NP ('la', 'FW') ('nación', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('Argentina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('Cristina', 'NNP') ('Fernández', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('Kirchner', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('publicó', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') ('un', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('Año', 'NNP') ('Nuevo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('el', 'NN') ('que', 'NN') ('pronosticó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina"
+      },
+      {
+        "label": "NP",
+        "text": "Cristina Fernández"
+      },
+      {
+        "label": "NP",
+        "text": "Kirchner"
+      },
+      {
+        "label": "NP",
+        "text": "publicó el"
+      },
+      {
+        "label": "VP",
+        "text": "martes un"
+      },
+      {
+        "label": "NP",
+        "text": "Año Nuevo"
+      },
+      {
+        "label": "NP",
+        "text": "el que pronosticó"
+      },
+      {
+        "label": "NP",
+        "text": "un “ cambio"
+      },
+      {
+        "label": "NP",
+        "text": "para"
+      },
+      {
+        "label": "NP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "suramericana"
+      },
+      {
+        "label": "NP",
+        "text": "“ Se cierra"
+      },
+      {
+        "label": "NP",
+        "text": "un año que fue difícil para los"
+      },
+      {
+        "label": "NP",
+        "text": "argentinos y argentinas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  expresidenta/FW\n  de/FW\n  (NP Argentina/NNP)\n  ,/,\n  (NP Cristina/NNP Fernández/NNP)\n  de/FW\n  (NP Kirchner/NNP)\n  ,/,\n  (NP publicó/NN el/NN)\n  (VP martes/VBZ un/JJ)\n  mensaje/FW\n  de/FW\n  (NP Año/NNP Nuevo/NNP)\n  en/FW\n  (NP el/NN que/NN pronosticó/NN)\n  (NP un/JJ “/NNP cambio/NN)\n  de/FW\n  rumbo/FW\n  ”/FW\n  (NP para/NN)\n  2025/CD\n  (NP en/NN)\n  la/FW\n  nación/FW\n  (NP suramericana/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Se/NNP cierra/NN)\n  (NP un/JJ año/NN que/NN fue/NN difícil/NN para/NN los/NN)\n  (NP argentinos/JJ y/NN argentinas/NNS)\n  ./.)",
+      "(S\n  (NP Donde/NNP la/NN indiferencia/NN caló/NN hondo/NN)\n  (PP en/IN (NP nuestra/JJ sociedad/NN y/NN))\n  (NP nos/JJ encontramos/NN cada/NN vez/NN más/NN)\n  (ADJP alejados/JJ)\n  (ADJP unos/JJ)\n  de/FW\n  otros/FW\n  ”/FW\n  ,/,\n  expresó/FW\n  la/FW\n  exmandataria/FW\n  en/FW\n  su/FW\n  (ADJP cuenta/JJ)\n  oficial/FW\n  de/FW\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Deseo/NNP)\n  de/FW\n  todo/FW\n  (NP corazón/NN que/NN)\n  (PP en/IN (NP este/NN))\n  2025/CD\n  (NP que/NN comienza/NN podamos/NN cambiar/NN)\n  (NP ese/JJ rumbo/NN)\n  ./.)",
+      "(S\n  (NP Que/NNP)\n  (VP logremos/VBZ (NP transformar/NN el/NN desamor/NN))\n  (PP en/IN (NP solidaridad/NN y/NN))\n  (VP reencontrarnos/VBP (NP como/NN comunidad/NN))\n  ,/,\n  (NP reafirmando/NN)\n  el/FW\n  (NP valor/NN)\n  de/IN\n  la/FW\n  empatía/FW\n  y/FW\n  el/FW\n  (NP amor/NN por/NN)\n  el/FW\n  (NP otro/NN ”/NN)\n  ,/,\n  (NP añadió/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          360,
+          367
+        ],
+        "start": 360,
+        "end": 367
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente javier milei",
+        "position": [
+          1218,
+          1241
+        ],
+        "start": 1218,
+        "end": 1241
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          1086,
+          1089
+        ],
+        "start": 1086,
+        "end": 1089
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          19,
+          28
+        ],
+        "start": 19,
+        "end": 28
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          1100,
+          1112
+        ],
+        "start": 1100,
+        "end": 1112
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Alicia Kirchner",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Máximo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Año Nuevo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "provincia de Santa Cruz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Florencia Kirchner",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Javier Milei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cristina Fernández de Kirchner",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cristina Fernández",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Río Gallegos",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Argentina",
+        "relacion": "PUBLICAR",
+        "objeto": "Año Nuevo"
+      },
+      {
+        "sujeto": "Cristina Fernández de Kirchner",
+        "relacion": "PUBLICAR",
+        "objeto": "Año Nuevo"
+      },
+      {
+        "sujeto": "Cristina Fernández",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Máximo"
+      },
+      {
+        "sujeto": "Máximo",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Río Gallegos"
+      },
+      {
+        "sujeto": "Máximo",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "provincia de Santa Cruz"
+      },
+      {
+        "sujeto": "Máximo",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Máximo",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Cristina Fernández",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Florencia Kirchner"
+      },
+      {
+        "sujeto": "Florencia Kirchner",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Río Gallegos"
+      },
+      {
+        "sujeto": "Florencia Kirchner",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "provincia de Santa Cruz"
+      },
+      {
+        "sujeto": "Florencia Kirchner",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Florencia Kirchner",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Cristina Fernández",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Alicia Kirchner"
+      },
+      {
+        "sujeto": "Alicia Kirchner",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Río Gallegos"
+      },
+      {
+        "sujeto": "Alicia Kirchner",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "provincia de Santa Cruz"
+      },
+      {
+        "sujeto": "Alicia Kirchner",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Alicia Kirchner",
+        "relacion": "ACOMPA_AR_SE_ALAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Cristina Fernández",
+        "relacion": "POSEER_SE_ALAR",
+        "objeto": "Río Gallegos"
+      },
+      {
+        "sujeto": "Cristina Fernández",
+        "relacion": "POSEER_SE_ALAR",
+        "objeto": "provincia de Santa Cruz"
+      },
+      {
+        "sujeto": "Cristina Fernández",
+        "relacion": "POSEER_SE_ALAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Cristina Fernández",
+        "relacion": "POSEER_SE_ALAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Río Gallegos",
+        "relacion": "ES",
+        "objeto": "provincia de Santa Cruz"
+      },
+      {
+        "sujeto": "Río Gallegos",
+        "relacion": "POSEER_SE_ALAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Río Gallegos",
+        "relacion": "POSEER_SE_ALAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "provincia de Santa Cruz",
+        "relacion": "POSEER_SE_ALAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "provincia de Santa Cruz",
+        "relacion": "POSEER_SE_ALAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Estado",
+        "relacion": "ESTABLECER_SE_ALAR",
+        "objeto": "Javier Milei"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6124,
+    "pos": 0.019,
+    "neu": 0.981,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

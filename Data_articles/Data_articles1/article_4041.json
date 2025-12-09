@@ -1,0 +1,917 @@
+{
+  "url": "https://www.telesurtv.net/ataques-de-ee-uu-contra-la-capital-de-yemen-dejan-mas-de-30-muertos/",
+  "title": "Ataques de EE.UU. contra la capital de Yemen dejan más de 30 muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques aéreos",
+    "Donald Trump",
+    "Estados Unidos",
+    "hutíes"
+  ],
+  "text": "El número de las víctimas mortales de los ataques aéreos estadounidense-británicos contra Yemen ha ascendido a 31 en la madrugada de este domingo, según reportaron varios medios árabes y locales.\nEntre los fallecidos hay al menos cuatro niños y una mujer, víctimas de los bombardeos contra la gobernación de Sadah, al noroeste del país. Además, más de 100 personas resultaron heridas.\nRecientemente, Donald Trump, mandatario de Estados Unidos, instruyó a las Fuerzas Armadas de la nación a ejecutar “una acción militar decisiva” contra Ansar Alá.\nLuego, el Ministerio de Salud del movimiento reportó la muerte de nueve individuos y la herida de nueve.\nEn este escenario, el buró político de los hutíes, citado por la cadena Al Masirah, expresó que “la agresión no quedará sin respuesta”.\nDe acuerdo con el Gobierno Central de Estados Unidos, Washington emprendió el ataque a gran escala contra el movimiento “para proteger intereses de EE.UU. disuadir a los enemigos y reanudar la navegación”.\nLos Estados Unidos catalogaron el 4 de marzo pasado al movimiento Ansar Alá como organización terrorista foránea.\nEn noviembre de 2023, Ansar Alá, respaldada por Irán, comenzó una campaña de ataques a embarcaciones mercantes supuestamente vinculadas con Israel con el objetivo de impedir su tránsito por las yeguas Arábigo y Rojo, mientras la Franja de Gaza no obtiene los alimentos y medicamentos que requiere.\nFrente al riesgo de ataques en un área crucial para el comercio global y, especialmente, para el petróleo, diversas compañías navieras decidieron trasladar sus embarcaciones alrededor de África, lo que dificulta y aumenta el costo del transporte.\nTrump declaró a los hutíes como terroristas poco antes de concluir su primer mandato (2017-2021), en enero de 2021, sin embargo, su sucesor Joe Biden los eliminó de la lista en ese mismo año.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-de-ee-uu-contra-la-capital-de-yemen-dejan-mas-de-30-muertos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1239,
+    "message_id": 89255,
+    "date": "2025-03-16T07:55:13+00:00",
+    "text": "teleSUR\nAtaques de EE.UU. contra la capital de Yemen dejan más de 30 muertos\nhttps://www.telesurtv.net/ataques-de-ee-uu-contra-la-capital-de-yemen-dejan-mas-de-30-muertos/",
+    "photo_path": null,
+    "views": 2126,
+    "reactions": {
+      "🤬": 60,
+      "👎": 2,
+      "👍": 1
+    },
+    "total_reactions": 63
+  },
+  "preprocessing": {
+    "cleaned": "el número de las víctimas mortales de los ataques aéreos estadounidense-británicos contra yemen ha ascendido a 31 en la madrugada de este domingo, según reportaron varios medios árabes y locales. entre los fallecidos hay al menos cuatro niños y una mujer, víctimas de los bombardeos contra la gobernación de sadah, al noroeste del país. además, más de 100 personas resultaron heridas. recientemente, donald trump, mandatario de estados unidos, instruyó a las fuerzas armadas de la nación a ejecutar “una acción militar decisiva” contra ansar alá. luego, el ministerio de salud del movimiento reportó la muerte de nueve individuos y la herida de nueve. en este escenario, el buró político de los hutíes, citado por la cadena al masirah, expresó que “la agresión no quedará sin respuesta”. de acuerdo con el gobierno central de estados unidos, washington emprendió el ataque a gran escala contra el movimiento “para proteger intereses de ee.uu. disuadir a los enemigos y reanudar la navegación”. los estados unidos catalogaron el 4 de marzo pasado al movimiento ansar alá como organización terrorista foránea. en noviembre de 2023, ansar alá, respaldada por irán, comenzó una campaña de ataques a embarcaciones mercantes supuestamente vinculadas con israel con el objetivo de impedir su tránsito por las yeguas arábigo y rojo, mientras la franja de gaza no obtiene los alimentos y medicamentos que requiere. frente al riesgo de ataques en un área crucial para el comercio global y, especialmente, para el petróleo, diversas compañías navieras decidieron trasladar sus embarcaciones alrededor de áfrica, lo que dificulta y aumenta el costo del transporte. trump declaró a los hutíes como terroristas poco antes de concluir su primer mandato (2017-2021), en enero de 2021, sin embargo, su sucesor joe biden los eliminó de la lista en ese mismo año.",
+    "tokens": [
+      "número",
+      "víctimas",
+      "mortales",
+      "ataques",
+      "aéreos",
+      "estadounidense-británicos",
+      "yemen",
+      "ascendido",
+      "31",
+      "madrugada",
+      "domingo",
+      ",",
+      "según",
+      "reportaron",
+      "varios",
+      "medios",
+      "árabes",
+      "locales",
+      ".",
+      "fallecidos",
+      "menos",
+      "cuatro",
+      "niños",
+      "mujer",
+      ",",
+      "víctimas",
+      "bombardeos",
+      "gobernación",
+      "sadah",
+      ",",
+      "noroeste",
+      "país",
+      ".",
+      "además",
+      ",",
+      "100",
+      "personas",
+      "resultaron",
+      "heridas",
+      ".",
+      "recientemente",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "mandatario",
+      "unidos",
+      ",",
+      "instruyó",
+      "fuerzas",
+      "armadas",
+      "nación",
+      "ejecutar",
+      "“",
+      "acción",
+      "militar",
+      "decisiva",
+      "”",
+      "ansar",
+      "alá",
+      ".",
+      "luego",
+      ",",
+      "ministerio",
+      "salud",
+      "movimiento",
+      "reportó",
+      "muerte",
+      "nueve",
+      "individuos",
+      "herida",
+      "nueve",
+      ".",
+      "escenario",
+      ",",
+      "buró",
+      "político",
+      "hutíes",
+      ",",
+      "citado",
+      "cadena",
+      "masirah",
+      ",",
+      "expresó",
+      "“",
+      "agresión",
+      "quedará",
+      "respuesta",
+      "”",
+      ".",
+      "acuerdo",
+      "gobierno",
+      "central",
+      "unidos",
+      ",",
+      "washington",
+      "emprendió",
+      "ataque",
+      "gran",
+      "escala",
+      "movimiento",
+      "“",
+      "proteger",
+      "intereses",
+      "ee.uu.",
+      "disuadir",
+      "enemigos",
+      "reanudar",
+      "navegación",
+      "”",
+      ".",
+      "unidos",
+      "catalogaron",
+      "4",
+      "marzo",
+      "pasado",
+      "movimiento",
+      "ansar",
+      "alá",
+      "organización",
+      "terrorista",
+      "foránea",
+      ".",
+      "noviembre",
+      "2023",
+      ",",
+      "ansar",
+      "alá",
+      ",",
+      "respaldada",
+      "irán",
+      ",",
+      "comenzó",
+      "campaña",
+      "ataques",
+      "embarcaciones",
+      "mercantes",
+      "supuestamente",
+      "vinculadas",
+      "israel",
+      "objetivo",
+      "impedir",
+      "tránsito",
+      "yeguas",
+      "arábigo",
+      "rojo",
+      ",",
+      "mientras",
+      "franja",
+      "gaza",
+      "obtiene",
+      "alimentos",
+      "medicamentos",
+      "requiere",
+      ".",
+      "frente",
+      "riesgo",
+      "ataques",
+      "área",
+      "crucial",
+      "comercio",
+      "global",
+      ",",
+      "especialmente",
+      ",",
+      "petróleo",
+      ",",
+      "diversas",
+      "compañías",
+      "navieras",
+      "decidieron",
+      "trasladar",
+      "embarcaciones",
+      "alrededor",
+      "áfrica",
+      ",",
+      "dificulta",
+      "aumenta",
+      "costo",
+      "transporte",
+      ".",
+      "trump",
+      "declaró",
+      "hutíes",
+      "terroristas",
+      "concluir",
+      "primer",
+      "mandato",
+      "(",
+      "2017-2021",
+      ")",
+      ",",
+      "enero",
+      "2021",
+      ",",
+      "embargo",
+      ",",
+      "sucesor",
+      "joe",
+      "biden",
+      "eliminó",
+      "lista",
+      "mismo",
+      "año",
+      "."
+    ],
+    "token_count": 205,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "NN": 92,
+      "FW": 62,
+      "NNS": 15,
+      "VBP": 13,
+      "JJ": 21,
+      "RB": 2,
+      "CD": 4,
+      "IN": 13,
+      "CC": 2,
+      "VBZ": 4,
+      "DT": 2,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-FW": 11,
+      "FW-FW": 33,
+      "FW-NNS": 2,
+      "NNS-VBP": 11,
+      "VBP-JJ": 4,
+      "JJ-JJ": 1,
+      "JJ-NNS": 2,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "JJ-FW": 1,
+      "NNS-NNS": 3,
+      "VBP-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "JJ-NN": 14,
+      "NN-NN": 52,
+      "FW-NN": 9,
+      "FW-JJ": 7,
+      "NN-IN": 8,
+      "IN-FW": 6,
+      "FW-NNP": 9,
+      "NNP-CC": 2,
+      "CC-NN": 1,
+      "NN-NNP": 9,
+      "IN-CD": 3,
+      "CD-NNS": 1,
+      "JJ-NNP": 3,
+      "NNP-NNP": 16,
+      "IN-NNP": 3,
+      "NNP-IN": 1,
+      "NN-JJ": 5,
+      "NNP-FW": 9,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-VBP": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 2,
+      "FW-IN": 1,
+      "CD-NNP": 1,
+      "IN-NNS": 1,
+      "VBP-NNP": 2,
+      "NN-NNS": 4,
+      "NNP-DT": 1,
+      "DT-JJ": 1,
+      "VBP-NN": 1,
+      "NN-RB": 1,
+      "RB-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NNP-JJ": 1,
+      "VBP-IN": 1,
+      "CC-JJ": 1,
+      "VBP-VBZ": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 22,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 11,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 5,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 3,
+      "JJ-NN-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-NN": 24,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NN": 3,
+      "NNP-NN-IN": 2,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 6,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-NN": 9,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-JJ": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNP": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 5,
+      "FW-FW-NN": 2,
+      "FW-NNP-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-FW": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-JJ-NN": 4,
+      "NN-FW-NNP": 1,
+      "NNP-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "VBP-NNP-NNP": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-RB": 1,
+      "NN-RB-NNP": 1,
+      "RB-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 62,
+        "NNP": 46,
+        "JJ": 21,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 33,
+        "NNP-NNP": 16,
+        "JJ-NN": 14,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "FW-FW-FW": 22,
+        "JJ-NN-NN": 11,
+        "NNP-NN-NN": 9,
+        "NN-NN-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 77,
+      "VP": 21,
+      "PP": 3,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('las', 'FW') ('víctimas', 'FW') ('mortales', 'FW') ('de', 'FW') ('los', 'FW') NP VP VP VP ('a', 'DT') ('31', 'CD') NP ('la', 'FW') ('madrugada', 'FW') ('de', 'FW') ('este', 'FW') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('número', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('aéreos', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('estadounidense-británicos', 'JJ') ('contra', 'JJ') ('Yemen', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('ha', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('ascendido', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('en', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El número"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "aéreos estadounidense-británicos contra Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "estadounidense-británicos contra Yemen"
+      },
+      {
+        "label": "VP",
+        "text": "ha"
+      },
+      {
+        "label": "VP",
+        "text": "ascendido"
+      },
+      {
+        "label": "NP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "domingo"
+      },
+      {
+        "label": "NP",
+        "text": "según reportaron varios"
+      },
+      {
+        "label": "VP",
+        "text": "medios árabes y locales"
+      },
+      {
+        "label": "NP",
+        "text": "árabes y locales"
+      },
+      {
+        "label": "NP",
+        "text": "Entre"
+      },
+      {
+        "label": "VP",
+        "text": "los fallecidos hay al"
+      },
+      {
+        "label": "NP",
+        "text": "fallecidos hay al"
+      },
+      {
+        "label": "NP",
+        "text": "cuatro"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP número/NN)\n  de/FW\n  las/FW\n  víctimas/FW\n  mortales/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP\n    aéreos/VBP\n    (NP estadounidense-británicos/JJ contra/JJ Yemen/NNS))\n  (VP ha/VBP)\n  (VP ascendido/VBZ)\n  a/DT\n  31/CD\n  (NP en/NN)\n  la/FW\n  madrugada/FW\n  de/FW\n  este/FW\n  (NP domingo/NN)\n  ,/,\n  (NP según/JJ reportaron/NN varios/NNS)\n  (VP medios/VBP (NP árabes/JJ y/NN locales/NNS))\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP los/VBZ (NP fallecidos/JJ hay/NN al/NN))\n  menos/FW\n  (NP cuatro/NN)\n  niños/FW\n  (NP y/NN)\n  (NP una/JJ mujer/NN)\n  ,/,\n  víctimas/FW\n  de/FW\n  los/FW\n  (NP bombardeos/JJ contra/NN)\n  la/FW\n  gobernación/FW\n  de/FW\n  (NP Sadah/NNP)\n  ,/,\n  (NP al/JJ noroeste/NN del/NN país/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP más/NN)\n  de/FW\n  100/CD\n  (NP personas/NNS resultaron/NN heridas/NN)\n  ./.)",
+      "(S\n  (NP Recientemente/NNP)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  (NP mandatario/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (VP instruyó/VBZ (NP a/DT las/JJ Fuerzas/NNP Armadas/NNP))\n  de/IN\n  la/FW\n  nación/FW\n  (NP a/DT ejecutar/NN “/NNP)\n  (NP\n    una/JJ\n    acción/NN\n    militar/NN\n    decisiva/NN\n    ”/NNP\n    contra/NN\n    Ansar/NNP\n    Alá/NNP)\n  ./.)",
+      "(S\n  (NP Luego/NNP)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  del/FW\n  (NP movimiento/NN reportó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  nueve/FW\n  (NP individuos/NN y/NN)\n  la/FW\n  herida/FW\n  de/FW\n  nueve/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "PERIODOS_TEMPORALES",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el gobierno central de estados unidos, washington emprendió el ataque a gran escala contra el movimiento “para proteger intereses de ee.uu. disuadir a los enemigos y reanudar",
+        "position": [
+          791,
+          977
+        ],
+        "start": 791,
+        "end": 977
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          736,
+          743
+        ],
+        "start": 736,
+        "end": 743
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          428,
+          442
+        ],
+        "start": 428,
+        "end": 442
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área crucial",
+        "position": [
+          1440,
+          1452
+        ],
+        "start": 1440,
+        "end": 1452
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la madrugada",
+        "position": [
+          114,
+          129
+        ],
+        "start": 114,
+        "end": 129
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          385,
+          398
+        ],
+        "start": 385,
+        "end": 398
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1773,
+          1780
+        ],
+        "start": 1773,
+        "end": 1780
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "100 personas",
+        "position": [
+          352,
+          364
+        ],
+        "start": 352,
+        "end": 364
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100",
+        "position": [
+          345,
+          355
+        ],
+        "start": 345,
+        "end": 355
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ansar Alá",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rojo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno Central de",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Arábigo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Masirah",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sadah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "INSTRUIR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "INSTRUIR",
+        "objeto": "Ansar Alá"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "INSTRUIR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "INSTRUIR",
+        "objeto": "Ansar Alá"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "INSTRUIR",
+        "objeto": "Ansar Alá"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "EMPRENDER",
+        "objeto": "Gobierno Central de"
+      },
+      {
+        "sujeto": "Gobierno Central de",
+        "relacion": "EMPRENDER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "EMPRENDER",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "EMPRENDER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "EMPRENDER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Los Estados Unidos",
+        "relacion": "CATALOGAR",
+        "objeto": "Ansar Alá"
+      },
+      {
+        "sujeto": "Ansar Alá",
+        "relacion": "COMENZAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Ansar Alá",
+        "relacion": "COMENZAR",
+        "objeto": "Arábigo"
+      },
+      {
+        "sujeto": "Ansar Alá",
+        "relacion": "COMENZAR",
+        "objeto": "Rojo"
+      },
+      {
+        "sujeto": "Ansar Alá",
+        "relacion": "COMENZAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "COMENZAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "COMENZAR",
+        "objeto": "Arábigo"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "COMENZAR",
+        "objeto": "Rojo"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "COMENZAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "COMENZAR",
+        "objeto": "Arábigo"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "COMENZAR",
+        "objeto": "Rojo"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "COMENZAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "IMPEDIR_COMENZAR",
+        "objeto": "Arábigo"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "IMPEDIR_COMENZAR",
+        "objeto": "Rojo"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "DECLARAR",
+        "objeto": "Joe Biden"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.008,
+    "neu": 0.951,
+    "neg": 0.04,
+    "label": "negative"
+  }
+}

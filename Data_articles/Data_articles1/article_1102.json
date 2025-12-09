@@ -1,0 +1,596 @@
+{
+  "url": "https://www.telesurtv.net/china-papel-imparcial-plan-paz-ucrania/",
+  "title": "China reafirma que puede jugar un papel imparcial en Ucrania",
+  "section": "Mundo",
+  "tags": [
+    "Cancillería China",
+    "Imparcialidad",
+    "plan de paz",
+    "Ucrania"
+  ],
+  "text": "La cancillería china reafirmó este viernes la disposición de Beijing de desempeñar un papel imparcial y constructivo para la paz en Ucrania.\nLas palabras de la portavoz de la Cancillería china, Mao Ning responden a las declaraciones del presidente ucraniano, Vladímir Zelenski, donde cuestionó la imparcialidad de Beijing como eventual garante de la seguridad de Ucrania.\n“Pensamos que todas las partes deben contribuir a una solución política de la crisis ucraniana, una solución basada en una cooperación universal e integral y en una perspectiva de seguridad sostenible. China está dispuesta a jugar un papel constructivo en dicho asunto“, comentó la diplomática china.\nMao Ning destacó que la posición imparcial y equitativa de su país hacia la crisis ucraniana es “evidente para todas las partes implicadas”.\nLas discusiones sobre futuras garantías de seguridad para Kiev se reavivaron tras la reciente cumbre ruso-estadounidense en Alaska que se centró en la búsqueda de una solución negociada para el conflicto entre Rusia y Ucrania.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/china-papel-imparcial-plan-paz-ucrania/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 735,
+    "message_id": 102433,
+    "date": "2025-08-22T09:55:07+00:00",
+    "text": "teleSUR\nChina reafirma que puede jugar un papel imparcial para la paz en Ucrania\nhttps://www.telesurtv.net/china-papel-imparcial-plan-paz-ucrania/",
+    "photo_path": null,
+    "views": 1797,
+    "reactions": {
+      "❤": 29,
+      "👍": 11,
+      "🤔": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "la cancillería china reafirmó este viernes la disposición de beijing de desempeñar un papel imparcial y constructivo para la paz en ucrania. las palabras de la portavoz de la cancillería china, mao ning responden a las declaraciones del presidente ucraniano, vladímir zelenski, donde cuestionó la imparcialidad de beijing como eventual garante de la seguridad de ucrania. “pensamos que todas las partes deben contribuir a una solución política de la crisis ucraniana, una solución basada en una cooperación universal e integral y en una perspectiva de seguridad sostenible. china está dispuesta a jugar un papel constructivo en dicho asunto“, comentó la diplomática china. mao ning destacó que la posición imparcial y equitativa de su país hacia la crisis ucraniana es “evidente para todas las partes implicadas”. las discusiones sobre futuras garantías de seguridad para kiev se reavivaron tras la reciente cumbre ruso-estadounidense en alaska que se centró en la búsqueda de una solución negociada para el conflicto entre rusia y ucrania.",
+    "tokens": [
+      "cancillería",
+      "china",
+      "reafirmó",
+      "viernes",
+      "disposición",
+      "beijing",
+      "desempeñar",
+      "papel",
+      "imparcial",
+      "constructivo",
+      "paz",
+      "ucrania",
+      ".",
+      "palabras",
+      "portavoz",
+      "cancillería",
+      "china",
+      ",",
+      "mao",
+      "ning",
+      "responden",
+      "declaraciones",
+      "presidente",
+      "ucraniano",
+      ",",
+      "vladímir",
+      "zelenski",
+      ",",
+      "cuestionó",
+      "imparcialidad",
+      "beijing",
+      "eventual",
+      "garante",
+      "seguridad",
+      "ucrania",
+      ".",
+      "“",
+      "pensamos",
+      "todas",
+      "partes",
+      "deben",
+      "contribuir",
+      "solución",
+      "política",
+      "crisis",
+      "ucraniana",
+      ",",
+      "solución",
+      "basada",
+      "cooperación",
+      "universal",
+      "integral",
+      "perspectiva",
+      "seguridad",
+      "sostenible",
+      ".",
+      "china",
+      "dispuesta",
+      "jugar",
+      "papel",
+      "constructivo",
+      "dicho",
+      "asunto",
+      "“",
+      ",",
+      "comentó",
+      "diplomática",
+      "china",
+      ".",
+      "mao",
+      "ning",
+      "destacó",
+      "posición",
+      "imparcial",
+      "equitativa",
+      "país",
+      "hacia",
+      "crisis",
+      "ucraniana",
+      "“",
+      "evidente",
+      "todas",
+      "partes",
+      "implicadas",
+      "”",
+      ".",
+      "discusiones",
+      "futuras",
+      "garantías",
+      "seguridad",
+      "kiev",
+      "reavivaron",
+      "tras",
+      "reciente",
+      "cumbre",
+      "ruso-estadounidense",
+      "alaska",
+      "centró",
+      "búsqueda",
+      "solución",
+      "negociada",
+      "conflicto",
+      "rusia",
+      "ucrania",
+      "."
+    ],
+    "token_count": 105,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "JJ": 22,
+      "NN": 57,
+      "NNS": 4,
+      "VBP": 4,
+      "FW": 32,
+      "IN": 10,
+      "VBZ": 2,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-NN": 16,
+      "NN-NN": 27,
+      "NN-NNS": 3,
+      "NNS-VBP": 2,
+      "VBP-FW": 1,
+      "FW-FW": 21,
+      "FW-NNP": 4,
+      "NNP-FW": 2,
+      "FW-JJ": 3,
+      "JJ-VBP": 1,
+      "VBP-JJ": 3,
+      "NN-IN": 10,
+      "IN-NNP": 2,
+      "NNP-NNP": 6,
+      "NNP-NN": 8,
+      "NN-NNP": 5,
+      "NNS-FW": 1,
+      "NN-FW": 1,
+      "NN-JJ": 8,
+      "IN-FW": 5,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "FW-NN": 4,
+      "JJ-JJ": 2,
+      "IN-JJ": 1,
+      "JJ-NNP": 2,
+      "IN-NN": 2,
+      "NN-VBP": 1,
+      "JJ-FW": 1,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 11,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-IN": 6,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-FW-FW": 14,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 6,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-NNP-NNP": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-JJ": 3,
+      "IN-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-IN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNS-VBP-JJ": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 57,
+        "FW": 32,
+        "JJ": 22,
+        "NNP": 20,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 27,
+        "FW-FW": 21,
+        "JJ-NN": 16,
+        "NN-IN": 10,
+        "NNP-NN": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 14,
+        "NN-NN-NN": 11,
+        "JJ-NN-NN": 7,
+        "NN-NN-IN": 6,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 40,
+      "VP": 10,
+      "ADJP": 2,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0794
+      },
+      {
+        "rule": "NP -> ('Ucrania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0317
+      },
+      {
+        "rule": "S -> NP NP VP ('disposición', 'FW') ('de', 'FW') NP ('de', 'FW') ('desempeñar', 'FW') ADJP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('cancillería', 'JJ') ('china', 'NN') ('reafirmó', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('la', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Beijing', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('papel', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('imparcial', 'JJ') ('y', 'NN') ('constructivo', 'NN') ('para', 'NN') ('la', 'NN') ('paz', 'NN')",
+        "frequency": 1,
+        "weight": 0.0159
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "cancillería china reafirmó este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "Beijing"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "VP",
+        "text": "papel imparcial y constructivo para la paz"
+      },
+      {
+        "label": "NP",
+        "text": "imparcial y constructivo para la paz"
+      },
+      {
+        "label": "PP",
+        "text": "en Ucrania"
+      },
+      {
+        "label": "NP",
+        "text": "Ucrania"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "NP",
+        "text": "Cancillería china"
+      },
+      {
+        "label": "NP",
+        "text": "Mao Ning"
+      },
+      {
+        "label": "VP",
+        "text": "responden a las declaraciones"
+      },
+      {
+        "label": "NP",
+        "text": "a las declaraciones"
+      },
+      {
+        "label": "NP",
+        "text": "presidente ucraniano"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (NP cancillería/JJ china/NN reafirmó/NN este/NN viernes/NNS)\n  (VP la/VBP)\n  disposición/FW\n  de/FW\n  (NP Beijing/NNP)\n  de/FW\n  desempeñar/FW\n  (ADJP un/JJ)\n  (VP\n    papel/VBP\n    (NP imparcial/JJ y/NN constructivo/NN para/NN la/NN paz/NN))\n  (PP en/IN (NP Ucrania/NNP))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  palabras/FW\n  de/FW\n  la/FW\n  portavoz/FW\n  de/FW\n  la/FW\n  (NP Cancillería/NNP china/NN)\n  ,/,\n  (NP Mao/NNP Ning/NNP)\n  (VP responden/VBZ (NP a/DT las/JJ declaraciones/NNS))\n  del/FW\n  (NP presidente/NN ucraniano/NN)\n  ,/,\n  (NP Vladímir/NNP Zelenski/NNP)\n  ,/,\n  (NP donde/NN cuestionó/NN)\n  la/FW\n  imparcialidad/FW\n  de/FW\n  (NP Beijing/NNP como/NN)\n  (NP eventual/JJ garante/NN)\n  de/IN\n  la/FW\n  seguridad/FW\n  de/FW\n  (NP Ucrania/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Pensamos/NNP que/NN todas/NN las/NN)\n  (VP\n    partes/VBZ\n    (NP deben/JJ contribuir/NN)\n    (NP a/DT una/JJ solución/NN política/NN))\n  de/IN\n  la/FW\n  (NP crisis/NN ucraniana/NN)\n  ,/,\n  (NP una/JJ solución/NN basada/NN)\n  (PP en/IN (NP una/JJ cooperación/NN))\n  (NP universal/JJ e/JJ integral/JJ y/NN)\n  (PP en/IN (NP una/JJ perspectiva/NN))\n  de/IN\n  seguridad/FW\n  (ADJP sostenible/JJ)\n  ./.)",
+      "(S\n  (NP China/NNP)\n  (VP está/VBZ)\n  (VP\n    dispuesta/VB\n    (NP a/DT jugar/NN)\n    (NP un/JJ papel/NN constructivo/NN))\n  (PP en/IN (NP dicho/NN asunto/NN “/NNP))\n  ,/,\n  (NP comentó/NN la/NN)\n  (NP diplomática/JJ china/NN)\n  ./.)",
+      "(S\n  (NP Mao/NNP Ning/NNP destacó/NN que/NN la/NN)\n  (VP posición/VBP (NP imparcial/JJ y/NN))\n  equitativa/FW\n  de/FW\n  su/FW\n  país/FW\n  (NP hacia/NN la/NN crisis/NN)\n  (NP ucraniana/JJ es/NN “/NNP evidente/NN para/NN todas/NN las/NN)\n  (VP partes/VBZ (NP implicadas/JJ ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre rusia",
+        "position": [
+          1008,
+          1029
+        ],
+        "start": 1008,
+        "end": 1029
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre rusia y",
+        "position": [
+          1008,
+          1031
+        ],
+        "start": 1008,
+        "end": 1031
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente ucraniano",
+        "position": [
+          237,
+          257
+        ],
+        "start": 237,
+        "end": 257
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "cuestionó",
+        "position": [
+          284,
+          293
+        ],
+        "start": 284,
+        "end": 293
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          21,
+          29
+        ],
+        "start": 21,
+        "end": 29
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          682,
+          689
+        ],
+        "start": 682,
+        "end": 689
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          15,
+          20
+        ],
+        "start": 15,
+        "end": 20
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          122,
+          128
+        ],
+        "start": 122,
+        "end": 128
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          872,
+          876
+        ],
+        "start": 872,
+        "end": 876
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alaska",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mao Ning",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Beijing",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Zelenski",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Mao Ning",
+        "relacion": "RESPONDER",
+        "objeto": "Vladímir Zelenski"
+      },
+      {
+        "sujeto": "Mao Ning",
+        "relacion": "RESPONDER",
+        "objeto": "Beijing"
+      },
+      {
+        "sujeto": "Mao Ning",
+        "relacion": "RESPONDER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Beijing",
+        "relacion": "CUESTIONAR_RESPONDER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Kiev",
+        "relacion": "REAVIVAR",
+        "objeto": "Alaska"
+      },
+      {
+        "sujeto": "Kiev",
+        "relacion": "REAVIVAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Kiev",
+        "relacion": "REAVIVAR",
+        "objeto": "Ucrania"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.0,
+    "neu": 0.948,
+    "neg": 0.052,
+    "label": "negative"
+  }
+}

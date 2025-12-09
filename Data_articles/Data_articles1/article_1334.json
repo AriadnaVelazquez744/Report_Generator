@@ -1,0 +1,719 @@
+{
+  "url": "https://www.telesurtv.net/israel-ataca-central-electrica-yemen/",
+  "title": "Israel ataca central eléctrica de los hutíes en Yemen",
+  "section": "Mundo",
+  "tags": [
+    "Agresión israelí",
+    "Bombardeo",
+    "central eléctrica",
+    "Gaza",
+    "hutíes"
+  ],
+  "text": "Según una nota de prensa divulgada por las Fuerzas de Defensa de Israel (FDI), militares de Israel atacaron una central eléctrica bajo el control del movimiento Ansar Alá (hutíes) en el territorio de Yemen.\n“Las FDI atacaron desde una distancia de 2.000 kilómetros de Israel, en el interior de Yemen, una infraestructura energética que servía al régimen terrorista hutí”, señaló el anuncio oficial.\n“Los golpes se ejecutaron en respuesta a los repetidos ataques del régimen terrorista hutí contra el Estado de Israel y sus ciudadanos, incluyendo el lanzamiento de misiles tierra-tierra y vehículos aéreos no tripulados hacia territorio israelí“, agregó.\nDe acuerdo con el canal Almasirah de televisión, la meta del ataque fue la planta eléctrica de Haziz, ubicada en el distrito de Sanhan, en la región de Saná.\nEl bombardeo “provocó un incendio masivo e interrumpió el suministro eléctrico”, indicó este medio yemení al vicepresidente primero del gobierno de Kuwait, Mohammed Meftah, quien visitó la instalación el domingo en la mañana para valorar los daños.\nEn la visita, Meftah aseguró que los empleados de la planta eléctrica y los grupos de protección civil consiguieron controlar el fuego, y que ya se han iniciado las labores de restauración.\nLos hutíes cesaron sus ataques durante el período de alto el fuego en Gaza, desde enero hasta marzo de 2025, pero los intensificaron tras la reanudación de la ofensiva israelí contra el territorio palestino devastado.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-ataca-central-electrica-yemen/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1120,
+    "message_id": 101986,
+    "date": "2025-08-17T10:55:07+00:00",
+    "text": "teleSUR\nIsrael ataca central eléctrica de los hutíes en Yemen\nhttps://www.telesurtv.net/israel-ataca-central-electrica-yemen/",
+    "photo_path": null,
+    "views": 1727,
+    "reactions": {
+      "💩": 30,
+      "🤬": 18,
+      "❤": 1
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "según una nota de prensa divulgada por las fuerzas de defensa de israel (fdi), militares de israel atacaron una central eléctrica bajo el control del movimiento ansar alá (hutíes) en el territorio de yemen. “las fdi atacaron desde una distancia de 2.000 kilómetros de israel, en el interior de yemen, una infraestructura energética que servía al régimen terrorista hutí”, señaló el anuncio oficial. “los golpes se ejecutaron en respuesta a los repetidos ataques del régimen terrorista hutí contra el estado de israel y sus ciudadanos, incluyendo el lanzamiento de misiles tierra-tierra y vehículos aéreos no tripulados hacia territorio israelí“, agregó. de acuerdo con el canal almasirah de televisión, la meta del ataque fue la planta eléctrica de haziz, ubicada en el distrito de sanhan, en la región de saná. el bombardeo “provocó un incendio masivo e interrumpió el suministro eléctrico”, indicó este medio yemení al vicepresidente primero del gobierno de kuwait, mohammed meftah, quien visitó la instalación el domingo en la mañana para valorar los daños. en la visita, meftah aseguró que los empleados de la planta eléctrica y los grupos de protección civil consiguieron controlar el fuego, y que ya se han iniciado las labores de restauración. los hutíes cesaron sus ataques durante el período de alto el fuego en gaza, desde enero hasta marzo de 2025, pero los intensificaron tras la reanudación de la ofensiva israelí contra el territorio palestino devastado.",
+    "tokens": [
+      "según",
+      "nota",
+      "prensa",
+      "divulgada",
+      "fuerzas",
+      "defensa",
+      "israel",
+      "(",
+      "fdi",
+      ")",
+      ",",
+      "militares",
+      "israel",
+      "atacaron",
+      "central",
+      "eléctrica",
+      "bajo",
+      "control",
+      "movimiento",
+      "ansar",
+      "alá",
+      "(",
+      "hutíes",
+      ")",
+      "territorio",
+      "yemen",
+      ".",
+      "“",
+      "fdi",
+      "atacaron",
+      "distancia",
+      "2.000",
+      "kilómetros",
+      "israel",
+      ",",
+      "interior",
+      "yemen",
+      ",",
+      "infraestructura",
+      "energética",
+      "servía",
+      "régimen",
+      "terrorista",
+      "hutí",
+      "”",
+      ",",
+      "señaló",
+      "anuncio",
+      "oficial",
+      ".",
+      "“",
+      "golpes",
+      "ejecutaron",
+      "respuesta",
+      "repetidos",
+      "ataques",
+      "régimen",
+      "terrorista",
+      "hutí",
+      "israel",
+      "ciudadanos",
+      ",",
+      "incluyendo",
+      "lanzamiento",
+      "misiles",
+      "tierra-tierra",
+      "vehículos",
+      "aéreos",
+      "tripulados",
+      "hacia",
+      "territorio",
+      "israelí",
+      "“",
+      ",",
+      "agregó",
+      ".",
+      "acuerdo",
+      "canal",
+      "almasirah",
+      "televisión",
+      ",",
+      "meta",
+      "ataque",
+      "planta",
+      "eléctrica",
+      "haziz",
+      ",",
+      "ubicada",
+      "distrito",
+      "sanhan",
+      ",",
+      "región",
+      "saná",
+      ".",
+      "bombardeo",
+      "“",
+      "provocó",
+      "incendio",
+      "masivo",
+      "interrumpió",
+      "suministro",
+      "eléctrico",
+      "”",
+      ",",
+      "indicó",
+      "medio",
+      "yemení",
+      "vicepresidente",
+      "primero",
+      "gobierno",
+      "kuwait",
+      ",",
+      "mohammed",
+      "meftah",
+      ",",
+      "visitó",
+      "instalación",
+      "domingo",
+      "mañana",
+      "valorar",
+      "daños",
+      ".",
+      "visita",
+      ",",
+      "meftah",
+      "aseguró",
+      "empleados",
+      "planta",
+      "eléctrica",
+      "grupos",
+      "protección",
+      "civil",
+      "consiguieron",
+      "controlar",
+      "fuego",
+      ",",
+      "iniciado",
+      "labores",
+      "restauración",
+      ".",
+      "hutíes",
+      "cesaron",
+      "ataques",
+      "período",
+      "alto",
+      "fuego",
+      "gaza",
+      ",",
+      "enero",
+      "marzo",
+      "2025",
+      ",",
+      "intensificaron",
+      "tras",
+      "reanudación",
+      "ofensiva",
+      "israelí",
+      "territorio",
+      "palestino",
+      "devastado",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "JJ": 22,
+      "NN": 81,
+      "IN": 13,
+      "FW": 59,
+      "VBZ": 4,
+      "CD": 2,
+      "NNS": 6,
+      "VBP": 7,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 3,
+      "JJ-NN": 14,
+      "NN-IN": 9,
+      "IN-FW": 4,
+      "FW-FW": 37,
+      "FW-NNP": 9,
+      "NNP-FW": 6,
+      "NNP-IN": 2,
+      "IN-NNP": 6,
+      "NNP-NNP": 10,
+      "NNP-VBZ": 2,
+      "VBZ-IN": 1,
+      "JJ-JJ": 3,
+      "FW-NN": 10,
+      "NN-FW": 9,
+      "NN-NNP": 4,
+      "NNP-NN": 8,
+      "NN-NN": 46,
+      "NN-JJ": 7,
+      "IN-CD": 2,
+      "CD-NNS": 1,
+      "NNS-IN": 1,
+      "IN-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-JJ": 5,
+      "NN-VBP": 2,
+      "JJ-NNP": 2,
+      "NNP-NNS": 1,
+      "VBP-NN": 1,
+      "NN-NNS": 2,
+      "VBP-NNS": 1,
+      "VBZ-JJ": 1,
+      "JJ-FW": 2,
+      "FW-JJ": 3,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "JJ-VBZ": 1,
+      "VBZ-FW": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 24,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 5,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-NNP-JJ": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 2,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-VBP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NN-JJ-FW": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 59,
+        "NNP": 32,
+        "JJ": 22,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "FW-FW": 37,
+        "JJ-NN": 14,
+        "NNP-NNP": 10,
+        "FW-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 24,
+        "FW-FW-NNP": 6,
+        "NNP-NN-NN": 6,
+        "NN-NN-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 63,
+      "PP": 7,
+      "VP": 11,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0659
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('régimen', 'NNS')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "VP -> ('terrorista', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('prensa', 'FW') ('divulgada', 'FW') ('por', 'FW') ('las', 'FW') NP ('de', 'FW') NP PP ('(', '(') NP (')', ')') (',', ',') VP PP NP ('bajo', 'IN') ('el', 'FW') NP ('del', 'FW') NP ('(', '(') NP (')', ')') ('en', 'FW') ('el', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Según', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('nota', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Defensa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "NP",
+        "text": "una nota"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "Defensa"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "FDI"
+      },
+      {
+        "label": "VP",
+        "text": "militares"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel atacaron"
+      },
+      {
+        "label": "NP",
+        "text": "Israel atacaron"
+      },
+      {
+        "label": "NP",
+        "text": "una central eléctrica"
+      },
+      {
+        "label": "NP",
+        "text": "control"
+      },
+      {
+        "label": "NP",
+        "text": "movimiento Ansar Alá"
+      },
+      {
+        "label": "NP",
+        "text": "hutíes"
+      },
+      {
+        "label": "NP",
+        "text": "territorio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Según/NNP)\n  (NP una/JJ nota/NN)\n  de/IN\n  prensa/FW\n  divulgada/FW\n  por/FW\n  las/FW\n  (NP Fuerzas/NNP)\n  de/FW\n  (NP Defensa/NNP)\n  (PP de/IN (NP Israel/NNP))\n  (/(\n  (NP FDI/NNP)\n  )/)\n  ,/,\n  (VP militares/VBZ)\n  (PP de/IN (NP Israel/NNP atacaron/NNP))\n  (NP una/JJ central/JJ eléctrica/NN)\n  bajo/IN\n  el/FW\n  (NP control/NN)\n  del/FW\n  (NP movimiento/NN Ansar/NNP Alá/NNP)\n  (/(\n  (NP hutíes/NN)\n  )/)\n  en/FW\n  el/FW\n  (NP territorio/NN)\n  (PP de/IN (NP Yemen/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Las/NNP FDI/NNP atacaron/NN desde/NN)\n  (NP una/JJ distancia/NN)\n  de/IN\n  2.000/CD\n  (NP kilómetros/NNS)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  en/FW\n  el/FW\n  interior/FW\n  de/FW\n  (NP Yemen/NNP)\n  ,/,\n  (NP una/JJ infraestructura/NN energética/NN que/NN servía/NN)\n  (PP al/IN (NP régimen/NNS))\n  (VP terrorista/VBP (NP hutí/JJ ”/NNP))\n  ,/,\n  (NP señaló/NN el/NN)\n  (NP anuncio/JJ oficial/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Los/NNP golpes/NNS)\n  (VP\n    se/VBP\n    (NP ejecutaron/NN en/NN respuesta/NN)\n    (NP a/DT los/JJ repetidos/NN ataques/NNS))\n  (VP del/VBP (NP régimen/NNS))\n  (VP terrorista/VBP (NP hutí/JJ contra/JJ el/NN Estado/NNP))\n  (PP de/IN (NP Israel/NNP y/NNP sus/NN ciudadanos/NN))\n  ,/,\n  (ADJP incluyendo/JJ)\n  el/FW\n  lanzamiento/FW\n  de/FW\n  misiles/FW\n  (NP tierra-tierra/JJ y/NN vehículos/NN)\n  (VP\n    aéreos/VBZ\n    (NP no/DT tripulados/NN hacia/NN territorio/NN israelí/NN “/NNP))\n  ,/,\n  (NP agregó/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  (VP el/VBP (NP canal/JJ Almasirah/NNP))\n  de/FW\n  (NP televisión/NN)\n  ,/,\n  la/FW\n  meta/FW\n  del/FW\n  (NP ataque/NN fue/NN la/NN)\n  planta/FW\n  eléctrica/FW\n  de/FW\n  (NP Haziz/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  distrito/FW\n  de/FW\n  (NP Sanhan/NNP)\n  ,/,\n  en/FW\n  la/FW\n  región/FW\n  de/FW\n  (NP Saná/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP bombardeo/NN “/NNP provocó/NN)\n  (NP un/JJ incendio/NN masivo/NN e/NN interrumpió/NN)\n  el/FW\n  (NP suministro/NN eléctrico/NN ”/NN)\n  ,/,\n  (NP\n    indicó/JJ\n    este/NN\n    medio/NN\n    yemení/NN\n    al/NN\n    vicepresidente/NN\n    primero/NN)\n  del/FW\n  (NP gobierno/NN)\n  (PP de/IN (NP Kuwait/NNP))\n  ,/,\n  (NP Mohammed/NNP Meftah/NNP)\n  ,/,\n  (NP quien/NN visitó/NN la/NN)\n  (NP instalación/JJ el/NN domingo/NN)\n  en/IN\n  la/FW\n  mañana/FW\n  (NP para/NN)\n  valorar/FW\n  (NP los/NN daños/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "PERIODOS_TEMPORALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "interrumpió",
+        "position": [
+          855,
+          866
+        ],
+        "start": 855,
+        "end": 866
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "control del movimiento ansar alá (hutíes) en el territorio",
+        "position": [
+          138,
+          196
+        ],
+        "start": 138,
+        "end": 196
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          372,
+          378
+        ],
+        "start": 372,
+        "end": 378
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          54,
+          61
+        ],
+        "start": 54,
+        "end": 61
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de kuwait",
+        "position": [
+          948,
+          966
+        ],
+        "start": 948,
+        "end": 966
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal almasirah de",
+        "position": [
+          672,
+          690
+        ],
+        "start": 672,
+        "end": 690
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          636,
+          643
+        ],
+        "start": 636,
+        "end": 643
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          500,
+          509
+        ],
+        "start": 500,
+        "end": 509
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la mañana",
+        "position": [
+          1024,
+          1036
+        ],
+        "start": 1024,
+        "end": 1036
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          1030,
+          1036
+        ],
+        "start": 1030,
+        "end": 1036
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mohammed Meftah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sanhan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ansar Alá",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Haziz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado de Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Meftah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kuwait",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "ATACAR",
+        "objeto": "Ansar Alá"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "ATACAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "ATACAR",
+        "objeto": "Ansar Alá"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "ATACAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ATACAR",
+        "objeto": "Ansar Alá"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ATACAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "ATACAR_SE_ALAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "ATACAR_SE_ALAR",
+        "objeto": "Yemen"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

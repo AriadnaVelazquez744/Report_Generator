@@ -1,0 +1,878 @@
+{
+  "url": "https://www.telesurtv.net/primera-ministra-danesa-a-donald-trump-groenlandia-debe-decidir-sobre-su-independencia/",
+  "title": "Primera ministra danesa a Donald Trump: Groenlandia debe decidir sobre su independencia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Donald Trump",
+    "Groenlandia",
+    "Independencia"
+  ],
+  "text": "El Gobierno de Dinamarca confirmó este miércoles que la primera ministra de ese país, Mette Frederiksen,   dialogó vía telefónica con el presidente electo de Estados Unidos (EE.UU.), Donald Trump, en la que abordaron el tema de Groenlandia, atendiendo a las declaraciones del próximo mandatario en las que ha afirmado sus pretensiones de que esa isla pase a ser territorio estadounidense.\nDe acuerdo con el Gobierno danés, la premier se refirió a las palabras del primer ministro de Groenlandia, Múte B. Egede quien afirmó que la isla no está en venta. En ese sentido, Frederiksen sostuvo que corresponde a Groenlandia decidir sobre su independencia.\nAl respecto, también indicó que Dinamarca está dispuesta a reforzar la seguridad en la región del Ártico, e hizo énfasis en la importancia de ello.\nLa conversación, que se extendió por unos 45 minutos, también abordó que las empresas danesas contribuyen al crecimiento y al empleo en los EE.UU., y que tanto ese país como la Unión Europea, tienen un interés común en fortalecer el comercio.\nA fines del pasado mes de diciembre, Donald Trump declaró que, por motivos de seguridad nacional, Groenlandia debería formar parte del territorio de EE.UU.\nDías después, el primer ministro de Groenlandia, Múte B. Egede, respondió de modo contundente a Trump, afirmando que la isla no estaba dispuesta a perder su libertad.\n“Groenlandia es nuestra. No estamos a la venta y nunca lo estaremos. No debemos perder nuestra larga lucha por la libertad”, sostuvo.\nAl respecto, un miembro del Parlamento danés, Rasmus Jarlov, enfatizó en que “Groenlandia es danesa”, por lo cual es “inaceptable que un supuesto aliado como EE.UU. amenace con tomar el control de nuestro territorio“.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/primera-ministra-danesa-a-donald-trump-groenlandia-debe-decidir-sobre-su-independencia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1164,
+    "message_id": 84585,
+    "date": "2025-01-16T02:55:13+00:00",
+    "text": "teleSUR\nPrimera ministra danesa a Donald Trump: Groenlandia debe decidir sobre su independencia\nhttps://www.telesurtv.net/primera-ministra-danesa-a-donald-trump-groenlandia-debe-decidir-sobre-su-independencia/",
+    "photo_path": null,
+    "views": 2757,
+    "reactions": {
+      "👍": 44,
+      "🤮": 19,
+      "💩": 8,
+      "😁": 6
+    },
+    "total_reactions": 77
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de dinamarca confirmó este miércoles que la primera ministra de ese país, mette frederiksen, dialogó vía telefónica con el presidente electo de estados unidos (ee.uu.), donald trump, en la que abordaron el tema de groenlandia, atendiendo a las declaraciones del próximo mandatario en las que ha afirmado sus pretensiones de que esa isla pase a ser territorio estadounidense. de acuerdo con el gobierno danés, la premier se refirió a las palabras del primer ministro de groenlandia, múte b. egede quien afirmó que la isla no está en venta. en ese sentido, frederiksen sostuvo que corresponde a groenlandia decidir sobre su independencia. al respecto, también indicó que dinamarca está dispuesta a reforzar la seguridad en la región del ártico, e hizo énfasis en la importancia de ello. la conversación, que se extendió por unos 45 minutos, también abordó que las empresas danesas contribuyen al crecimiento y al empleo en los ee.uu., y que tanto ese país como la unión europea, tienen un interés común en fortalecer el comercio. a fines del pasado mes de diciembre, donald trump declaró que, por motivos de seguridad nacional, groenlandia debería formar parte del territorio de ee.uu. días después, el primer ministro de groenlandia, múte b. egede, respondió de modo contundente a trump, afirmando que la isla no estaba dispuesta a perder su libertad. “groenlandia es nuestra. no estamos a la venta y nunca lo estaremos. no debemos perder nuestra larga lucha por la libertad”, sostuvo. al respecto, un miembro del parlamento danés, rasmus jarlov, enfatizó en que “groenlandia es danesa”, por lo cual es “inaceptable que un supuesto aliado como ee.uu. amenace con tomar el control de nuestro territorio“.",
+    "tokens": [
+      "gobierno",
+      "dinamarca",
+      "confirmó",
+      "miércoles",
+      "primera",
+      "ministra",
+      "país",
+      ",",
+      "mette",
+      "frederiksen",
+      ",",
+      "dialogó",
+      "vía",
+      "telefónica",
+      "presidente",
+      "electo",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "abordaron",
+      "tema",
+      "groenlandia",
+      ",",
+      "atendiendo",
+      "declaraciones",
+      "próximo",
+      "mandatario",
+      "afirmado",
+      "pretensiones",
+      "isla",
+      "pase",
+      "ser",
+      "territorio",
+      "estadounidense",
+      ".",
+      "acuerdo",
+      "gobierno",
+      "danés",
+      ",",
+      "premier",
+      "refirió",
+      "palabras",
+      "primer",
+      "ministro",
+      "groenlandia",
+      ",",
+      "múte",
+      "b.",
+      "egede",
+      "afirmó",
+      "isla",
+      "venta",
+      ".",
+      ",",
+      "frederiksen",
+      "sostuvo",
+      "corresponde",
+      "groenlandia",
+      "decidir",
+      "independencia",
+      ".",
+      "respecto",
+      ",",
+      "indicó",
+      "dinamarca",
+      "dispuesta",
+      "reforzar",
+      "seguridad",
+      "región",
+      "ártico",
+      ",",
+      "hizo",
+      "énfasis",
+      "importancia",
+      "ello",
+      ".",
+      "conversación",
+      ",",
+      "extendió",
+      "45",
+      "minutos",
+      ",",
+      "abordó",
+      "empresas",
+      "danesas",
+      "contribuyen",
+      "crecimiento",
+      "empleo",
+      "ee.uu.",
+      ",",
+      "país",
+      "unión",
+      "europea",
+      ",",
+      "interés",
+      "común",
+      "fortalecer",
+      "comercio",
+      ".",
+      "fines",
+      "pasado",
+      "mes",
+      "diciembre",
+      ",",
+      "donald",
+      "trump",
+      "declaró",
+      ",",
+      "motivos",
+      "seguridad",
+      "nacional",
+      ",",
+      "groenlandia",
+      "debería",
+      "formar",
+      "parte",
+      "territorio",
+      "ee.uu.",
+      "días",
+      "después",
+      ",",
+      "primer",
+      "ministro",
+      "groenlandia",
+      ",",
+      "múte",
+      "b.",
+      "egede",
+      ",",
+      "respondió",
+      "modo",
+      "contundente",
+      "trump",
+      ",",
+      "afirmando",
+      "isla",
+      "dispuesta",
+      "perder",
+      "libertad",
+      ".",
+      "“",
+      "groenlandia",
+      ".",
+      "venta",
+      "nunca",
+      ".",
+      "debemos",
+      "perder",
+      "larga",
+      "lucha",
+      "libertad",
+      "”",
+      ",",
+      "sostuvo",
+      ".",
+      "respecto",
+      ",",
+      "miembro",
+      "parlamento",
+      "danés",
+      ",",
+      "rasmus",
+      "jarlov",
+      ",",
+      "enfatizó",
+      "“",
+      "groenlandia",
+      "danesa",
+      "”",
+      ",",
+      "“",
+      "inaceptable",
+      "supuesto",
+      "aliado",
+      "ee.uu.",
+      "amenace",
+      "tomar",
+      "control",
+      "territorio",
+      "“",
+      "."
+    ],
+    "token_count": 186,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "IN": 11,
+      "NN": 118,
+      "NNS": 8,
+      "VBP": 3,
+      "JJ": 23,
+      "FW": 47,
+      "VBZ": 5,
+      "DT": 3,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 16,
+      "NNP-IN": 1,
+      "IN-NNP": 4,
+      "NNP-NN": 24,
+      "NN-NN": 65,
+      "NN-NNS": 5,
+      "NNS-VBP": 2,
+      "VBP-JJ": 3,
+      "JJ-NN": 14,
+      "NN-IN": 8,
+      "IN-JJ": 3,
+      "JJ-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-FW": 15,
+      "FW-FW": 23,
+      "FW-NNP": 6,
+      "NNP-FW": 2,
+      "FW-NN": 13,
+      "NNS-FW": 2,
+      "IN-FW": 4,
+      "NNS-IN": 2,
+      "FW-JJ": 3,
+      "NN-NNP": 12,
+      "FW-VBZ": 2,
+      "VBZ-DT": 3,
+      "DT-NN": 2,
+      "NN-VBZ": 3,
+      "VBZ-FW": 1,
+      "NNP-JJ": 1,
+      "NN-JJ": 8,
+      "JJ-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NNP": 4,
+      "VBZ-JJ": 1,
+      "DT-JJ": 1,
+      "NN-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NN": 17,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-NN": 7,
+      "NN-NN-NN": 36,
+      "NN-NN-FW": 9,
+      "NN-FW-FW": 7,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 5,
+      "NN-FW-NN": 6,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 3,
+      "NN-NNS-FW": 2,
+      "NNS-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-NNP": 9,
+      "NN-NNP-FW": 1,
+      "NN-NNP-NN": 9,
+      "FW-FW-FW": 15,
+      "NN-FW-VBZ": 2,
+      "FW-VBZ-DT": 2,
+      "VBZ-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "FW-FW-NN": 3,
+      "FW-NNP-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 4,
+      "NNP-NN-IN": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "FW-NN-NNS": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "IN-FW-NNP": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "DT-NN-NN": 1,
+      "NN-JJ-NNP": 2,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-JJ": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 118,
+        "FW": 47,
+        "NNP": 44,
+        "JJ": 23,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 65,
+        "NNP-NN": 24,
+        "FW-FW": 23,
+        "NNP-NNP": 16,
+        "NN-FW": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 36,
+        "NNP-NN-NN": 17,
+        "FW-FW-FW": 15,
+        "NN-NN-FW": 9,
+        "NN-NN-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 76,
+      "PP": 6,
+      "VP": 13,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0367
+      },
+      {
+        "rule": "NP -> ('Groenlandia', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0275
+      },
+      {
+        "rule": "VP -> ('isla', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP') ('respecto', 'NN')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "S -> NP PP VP PP (',', ',') NP (',', ',') NP ('electo', 'FW') ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') ('en', 'FW') ('la', 'FW') ('que', 'FW') ('abordaron', 'FW') ('el', 'FW') ('tema', 'FW') ('de', 'FW') NP (',', ',') VP ('del', 'FW') NP ('en', 'IN') ('las', 'FW') NP ('de', 'IN') ('que', 'FW') ('esa', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Dinamarca', 'NNP') ('confirmó', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('la', 'JJ') ('primera', 'NN') ('ministra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('ese', 'JJ') ('país', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Dinamarca confirmó este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "Dinamarca confirmó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que la primera ministra"
+      },
+      {
+        "label": "NP",
+        "text": "la primera ministra"
+      },
+      {
+        "label": "PP",
+        "text": "de ese país"
+      },
+      {
+        "label": "NP",
+        "text": "ese país"
+      },
+      {
+        "label": "NP",
+        "text": "Mette Frederiksen"
+      },
+      {
+        "label": "NP",
+        "text": "dialogó vía telefónica con el presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "Groenlandia"
+      },
+      {
+        "label": "VP",
+        "text": "atendiendo a las declaraciones"
+      },
+      {
+        "label": "NP",
+        "text": "a las declaraciones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Dinamarca/NNP confirmó/NN este/NN miércoles/NNS))\n  (VP que/VBP (NP la/JJ primera/NN ministra/NN))\n  (PP de/IN (NP ese/JJ país/NN))\n  ,/,\n  (NP Mette/NNP Frederiksen/NNP)\n  ,/,\n  (NP dialogó/NN vía/NN telefónica/NN con/NN el/NN presidente/NN)\n  electo/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  en/FW\n  la/FW\n  que/FW\n  abordaron/FW\n  el/FW\n  tema/FW\n  de/FW\n  (NP Groenlandia/NNP)\n  ,/,\n  (VP atendiendo/VBZ (NP a/DT las/JJ declaraciones/NNS))\n  del/FW\n  (NP próximo/NN mandatario/NN)\n  en/IN\n  las/FW\n  (NP que/NN ha/NN afirmado/NN sus/NN pretensiones/NNS)\n  de/IN\n  que/FW\n  esa/FW\n  (NP isla/JJ pase/NN)\n  (NP a/DT ser/NN territorio/NN estadounidense/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN Gobierno/NNP danés/NN)\n  ,/,\n  la/FW\n  premier/FW\n  se/FW\n  (VP refirió/VB (NP a/DT las/JJ palabras/NN))\n  del/FW\n  primer/FW\n  ministro/FW\n  de/FW\n  (NP Groenlandia/NNP)\n  ,/,\n  (NP Múte/NNP B./NNP Egede/NNP quien/NN afirmó/NN que/NN)\n  la/FW\n  (VP isla/VBZ (NP no/DT está/NN))\n  (VP en/VBZ (NP venta/NN))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ sentido/NN)\n  ,/,\n  (NP Frederiksen/NNP sostuvo/NN que/NN)\n  (VP\n    corresponde/VBZ\n    (NP\n      a/DT\n      Groenlandia/NNP\n      decidir/NN\n      sobre/NN\n      su/NN\n      independencia/NN))\n  ./.)",
+      "(S\n  (NP Al/NNP respecto/NN)\n  ,/,\n  (NP también/JJ indicó/NN que/NN Dinamarca/NNP)\n  (VP está/VBZ)\n  (VP dispuesta/VB (NP a/DT reforzar/NN la/NN))\n  seguridad/FW\n  en/FW\n  la/FW\n  región/FW\n  del/FW\n  (NP Ártico/NN)\n  ,/,\n  e/FW\n  (NP hizo/JJ énfasis/NN)\n  en/IN\n  la/FW\n  importancia/FW\n  de/FW\n  ello/FW\n  ./.)",
+      "(S\n  (NP La/NNP conversación/NN)\n  ,/,\n  (ADJP que/JJ)\n  se/FW\n  extendió/FW\n  por/FW\n  (ADJP unos/JJ)\n  45/CD\n  (NP minutos/NN)\n  ,/,\n  (NP también/JJ abordó/NN que/NN las/NNS)\n  (VP\n    empresas/VBP\n    (NP\n      danesas/JJ\n      contribuyen/NN\n      al/NN\n      crecimiento/NN\n      y/NN\n      al/NN\n      empleo/NN))\n  (PP en/IN (NP los/NN EE.UU./NNP))\n  ,/,\n  (NP y/NN que/NN)\n  (PP\n    tanto/IN\n    (NP ese/JJ país/NN como/NN la/NN Unión/NNP Europea/NNP))\n  ,/,\n  (NP tienen/NN)\n  (NP un/JJ interés/NN común/NN)\n  en/FW\n  (NP fortalecer/NN el/NN comercio/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "PERIODOS_TEMPORALES",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "NEGOCIACION_ACUERDOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "control de nuestro territorio",
+        "position": [
+          1685,
+          1714
+        ],
+        "start": 1685,
+        "end": 1714
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "empleo",
+        "position": [
+          925,
+          931
+        ],
+        "start": 925,
+        "end": 931
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "presidente electo",
+        "position": [
+          137,
+          154
+        ],
+        "start": 137,
+        "end": 154
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          516,
+          522
+        ],
+        "start": 516,
+        "end": 522
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de dinamarca confirmó",
+        "position": [
+          3,
+          33
+        ],
+        "start": 3,
+        "end": 33
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente electo de",
+        "position": [
+          137,
+          157
+        ],
+        "start": 137,
+        "end": 157
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de ese país",
+        "position": [
+          64,
+          84
+        ],
+        "start": 64,
+        "end": 84
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unión europea",
+        "position": [
+          976,
+          989
+        ],
+        "start": 976,
+        "end": 989
+      },
+      {
+        "category": "NEGOCIACION_ACUERDOS",
+        "matched_text": "dialogó",
+        "position": [
+          107,
+          114
+        ],
+        "start": 107,
+        "end": 114
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          158,
+          172
+        ],
+        "start": 158,
+        "end": 172
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región del",
+        "position": [
+          738,
+          748
+        ],
+        "start": 738,
+        "end": 748
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "pasado mes",
+        "position": [
+          1054,
+          1064
+        ],
+        "start": 1054,
+        "end": 1064
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ártico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unión Europea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Groenlandia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Frederiksen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Dinamarca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento danés",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Dinamarca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rasmus Jarlov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Múte B. Egede",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mette Frederiksen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno danés",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Dinamarca",
+        "relacion": "CONFIRMAR",
+        "objeto": "Mette Frederiksen"
+      },
+      {
+        "sujeto": "Gobierno de Dinamarca",
+        "relacion": "CONFIRMAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno de Dinamarca",
+        "relacion": "CONFIRMAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Gobierno de Dinamarca",
+        "relacion": "CONFIRMAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Gobierno de Dinamarca",
+        "relacion": "CONFIRMAR",
+        "objeto": "Groenlandia"
+      },
+      {
+        "sujeto": "Mette Frederiksen",
+        "relacion": "DIALOGAR_CONFIRMAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Mette Frederiksen",
+        "relacion": "DIALOGAR_CONFIRMAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Mette Frederiksen",
+        "relacion": "DIALOGAR_CONFIRMAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Mette Frederiksen",
+        "relacion": "DIALOGAR_CONFIRMAR",
+        "objeto": "Groenlandia"
+      },
+      {
+        "sujeto": "Gobierno danés",
+        "relacion": "REFERIR",
+        "objeto": "Groenlandia"
+      },
+      {
+        "sujeto": "Gobierno danés",
+        "relacion": "REFERIR",
+        "objeto": "Múte B. Egede"
+      },
+      {
+        "sujeto": "Frederiksen",
+        "relacion": "SOSTENER",
+        "objeto": "Groenlandia"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONTRIBUIR_ABORDAR",
+        "objeto": "Unión Europea"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "DECLARAR",
+        "objeto": "Groenlandia"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "DECLARAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "DECLARAR",
+        "objeto": "Múte B. Egede"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "DECLARAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Groenlandia",
+        "relacion": "FORMAR_DECLARAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Groenlandia",
+        "relacion": "FORMAR_DECLARAR",
+        "objeto": "Múte B. Egede"
+      },
+      {
+        "sujeto": "Groenlandia",
+        "relacion": "FORMAR_DECLARAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "FORMAR_DECLARAR",
+        "objeto": "Groenlandia"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "FORMAR_DECLARAR",
+        "objeto": "Múte B. Egede"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "FORMAR_DECLARAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Groenlandia",
+        "relacion": "RESPONDER_DECLARAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Múte B. Egede",
+        "relacion": "RESPONDER_DECLARAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Groenlandia",
+        "relacion": "ENFATIZAR",
+        "objeto": "Parlamento danés"
+      },
+      {
+        "sujeto": "Parlamento danés",
+        "relacion": "ENFATIZAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Groenlandia",
+        "relacion": "ENFATIZAR",
+        "objeto": "Rasmus Jarlov"
+      },
+      {
+        "sujeto": "Rasmus Jarlov",
+        "relacion": "ENFATIZAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Groenlandia",
+        "relacion": "ENFATIZAR",
+        "objeto": "EE.UU."
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6597,
+    "pos": 0.009,
+    "neu": 0.958,
+    "neg": 0.033,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "url": "https://www.telesurtv.net/presidente-ucraniano-participara-en-el-consejo-europeo-y-se-reunira-con-lideres-europeos/",
+  "title": "Presidente ucraniano participará en el Consejo Europeo y se reunirá con líderes regionales - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Consejo Europeo",
+    "Lideres Europeos",
+    "Presidente Vladímir Zelenski"
+  ],
+  "text": "Tras la retirada del apoyo de EE.UU. a Ucrania hasta que acepte negociar con Rusia para poner fin al conflicto, el presidente ucraniano, Vladímir Zelenski participará este jueves en el Consejo Europeo en Bruselas, Bélgica.\nEl objetivo de la participación de Zelenski en el ente europeo es la de buscar apoyo de los líderes europeos para financiar y garantizar el envió de tropas a su país y prolongar el conflicto con Rusia.\nLa agenda de Vladímir Zelenski comenzará con una reunión con el jefe de Gobierno belga, a la que seguirá un encuentro con el presidente del Consejo Europeo, António Costa, y con Von der Leyen.\nTambién se reunirá con el secretario general de la OTAN, Mark Rutte, y con el primer ministro de Bélgica, Bart De Wever.\nEl encuentro con Rutte tendrá lugar después de la participación de Zelenski en el Consejo Europeo, que se celebra en el contexto de la retirada del apoyo de EE.UU. a Ucrania.\nHoras antes el presidente ucraniano agradeció a su homólogo francés, Emmanuel Macron, el discurso en el que insistía en la urgencia de que Europa dependa de sí misma para defenderse de amenazas como la de Rusia.\n“Le estoy agradecido a Emmanuel Macron por su visión clara y sus esfuerzos conjuntos para lograr la paz”, escribió en X Zelenski, que agregó que la paz que se firme en Ucrania “debe ser real, no simplemente una palabra”.\n“Apreciamos profundamente el liderazgo y los esfuerzos de todos los que apoyan a Ucrania y refuerzan las capacidades defensivas de Europa”, dijo también Zelenski en su valoración del discurso de Macron.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-ucraniano-participara-en-el-consejo-europeo-y-se-reunira-con-lideres-europeos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1977,
+    "message_id": 88458,
+    "date": "2025-03-06T09:55:17+00:00",
+    "text": "teleSUR\nPresidente ucraniano participará en el Consejo Europeo y se reunirá con lideres europeos\nhttps://www.telesurtv.net/presidente-ucraniano-participara-en-el-consejo-europeo-y-se-reunira-con-lideres-europeos/",
+    "photo_path": null,
+    "views": 2333,
+    "reactions": {
+      "🤡": 51,
+      "👎": 11,
+      "😁": 3,
+      "👍": 1
+    },
+    "total_reactions": 66
+  },
+  "preprocessing": {
+    "cleaned": "tras la retirada del apoyo de ee.uu. a ucrania hasta que acepte negociar con rusia para poner fin al conflicto, el presidente ucraniano, vladímir zelenski participará este jueves en el consejo europeo en bruselas, bélgica. el objetivo de la participación de zelenski en el ente europeo es la de buscar apoyo de los líderes europeos para financiar y garantizar el envió de tropas a su país y prolongar el conflicto con rusia. la agenda de vladímir zelenski comenzará con una reunión con el jefe de gobierno belga, a la que seguirá un encuentro con el presidente del consejo europeo, antónio costa, y con von der leyen. también se reunirá con el secretario general de la otan, mark rutte, y con el primer ministro de bélgica, bart de wever. el encuentro con rutte tendrá lugar después de la participación de zelenski en el consejo europeo, que se celebra en el contexto de la retirada del apoyo de ee.uu. a ucrania. horas antes el presidente ucraniano agradeció a su homólogo francés, emmanuel macron, el discurso en el que insistía en la urgencia de que europa dependa de sí misma para defenderse de amenazas como la de rusia. “le estoy agradecido a emmanuel macron por su visión clara y sus esfuerzos conjuntos para lograr la paz”, escribió en x zelenski, que agregó que la paz que se firme en ucrania “debe ser real, no simplemente una palabra”. “apreciamos profundamente el liderazgo y los esfuerzos de todos los que apoyan a ucrania y refuerzan las capacidades defensivas de europa”, dijo también zelenski en su valoración del discurso de macron.",
+    "tokens": [
+      "tras",
+      "retirada",
+      "apoyo",
+      "ee.uu.",
+      "ucrania",
+      "acepte",
+      "negociar",
+      "rusia",
+      "poner",
+      "fin",
+      "conflicto",
+      ",",
+      "presidente",
+      "ucraniano",
+      ",",
+      "vladímir",
+      "zelenski",
+      "participará",
+      "jueves",
+      "consejo",
+      "europeo",
+      "bruselas",
+      ",",
+      "bélgica",
+      ".",
+      "objetivo",
+      "participación",
+      "zelenski",
+      "ente",
+      "europeo",
+      "buscar",
+      "apoyo",
+      "líderes",
+      "europeos",
+      "financiar",
+      "garantizar",
+      "envió",
+      "tropas",
+      "país",
+      "prolongar",
+      "conflicto",
+      "rusia",
+      ".",
+      "agenda",
+      "vladímir",
+      "zelenski",
+      "comenzará",
+      "reunión",
+      "jefe",
+      "gobierno",
+      "belga",
+      ",",
+      "seguirá",
+      "encuentro",
+      "presidente",
+      "consejo",
+      "europeo",
+      ",",
+      "antónio",
+      "costa",
+      ",",
+      "von",
+      "der",
+      "leyen",
+      ".",
+      "reunirá",
+      "secretario",
+      "general",
+      "otan",
+      ",",
+      "mark",
+      "rutte",
+      ",",
+      "primer",
+      "ministro",
+      "bélgica",
+      ",",
+      "bart",
+      "wever",
+      ".",
+      "encuentro",
+      "rutte",
+      "lugar",
+      "después",
+      "participación",
+      "zelenski",
+      "consejo",
+      "europeo",
+      ",",
+      "celebra",
+      "contexto",
+      "retirada",
+      "apoyo",
+      "ee.uu.",
+      "ucrania",
+      ".",
+      "horas",
+      "presidente",
+      "ucraniano",
+      "agradeció",
+      "homólogo",
+      "francés",
+      ",",
+      "emmanuel",
+      "macron",
+      ",",
+      "discurso",
+      "insistía",
+      "urgencia",
+      "europa",
+      "dependa",
+      "misma",
+      "defenderse",
+      "amenazas",
+      "rusia",
+      ".",
+      "“",
+      "agradecido",
+      "emmanuel",
+      "macron",
+      "visión",
+      "clara",
+      "esfuerzos",
+      "conjuntos",
+      "lograr",
+      "paz",
+      "”",
+      ",",
+      "escribió",
+      "x",
+      "zelenski",
+      ",",
+      "agregó",
+      "paz",
+      "firme",
+      "ucrania",
+      "“",
+      "debe",
+      "ser",
+      "real",
+      ",",
+      "simplemente",
+      "palabra",
+      "”",
+      ".",
+      "“",
+      "apreciamos",
+      "profundamente",
+      "liderazgo",
+      "esfuerzos",
+      "apoyan",
+      "ucrania",
+      "refuerzan",
+      "capacidades",
+      "defensivas",
+      "europa",
+      "”",
+      ",",
+      "dijo",
+      "zelenski",
+      "valoración",
+      "discurso",
+      "macron",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 54,
+      "FW": 70,
+      "NN": 89,
+      "JJ": 14,
+      "NNS": 3,
+      "VBP": 3,
+      "IN": 10,
+      "VBD": 1,
+      "VBZ": 3,
+      "JJR": 1,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 24,
+      "NNP-FW": 8,
+      "FW-FW": 49,
+      "FW-NNP": 12,
+      "NNP-NN": 17,
+      "NN-NN": 55,
+      "NN-JJ": 6,
+      "JJ-NN": 8,
+      "NN-NNP": 9,
+      "JJ-NNP": 3,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-JJ": 1,
+      "FW-NNS": 1,
+      "VBP-NN": 1,
+      "NN-FW": 7,
+      "FW-NN": 6,
+      "NN-IN": 9,
+      "IN-NNP": 5,
+      "JJ-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 1,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "IN-FW": 5,
+      "VBZ-JJ": 2,
+      "FW-JJR": 1,
+      "JJR-JJ": 1,
+      "JJ-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "FW-JJ": 1,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 6,
+      "FW-FW-FW": 35,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-NN": 15,
+      "NN-NN-NN": 32,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-NNP": 8,
+      "FW-NNP-FW": 4,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "JJ-NN-NN": 5,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-FW-NNP": 2,
+      "NNP-NN-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NN-IN": 7,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNP": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "IN-FW-NN": 1,
+      "NNP-FW-JJR": 1,
+      "FW-JJR-JJ": 1,
+      "JJR-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "JJ-NN-IN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "NN-NNP-VBZ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 89,
+        "FW": 70,
+        "NNP": 54,
+        "JJ": 14,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 49,
+        "NNP-NNP": 24,
+        "NNP-NN": 17,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 32,
+        "NNP-NN-NN": 15,
+        "FW-FW-NNP": 9,
+        "NNP-NNP-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 62,
+      "VP": 11,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0471
+      },
+      {
+        "rule": "NP -> ('Bélgica', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "NP -> ('Zelenski', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "NP -> ('Consejo', 'NNP') ('Europeo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "S -> NP ('retirada', 'FW') ('del', 'FW') ('apoyo', 'FW') ('de', 'FW') ('EE.UU.', 'FW') NP NP (',', ',') ('el', 'FW') NP (',', ',') NP VP ('en', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('Tras', 'NNP') ('la', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Ucrania', 'NNP') ('hasta', 'NN') ('que', 'NN') ('acepte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('negociar', 'JJ') ('con', 'NN') ('Rusia', 'NNP') ('para', 'NN') ('poner', 'NN') ('fin', 'NN') ('al', 'NN') ('conflicto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('presidente', 'NN') ('ucraniano', 'NN')",
+        "frequency": 1,
+        "weight": 0.0118
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Tras la"
+      },
+      {
+        "label": "NP",
+        "text": "a Ucrania hasta que acepte"
+      },
+      {
+        "label": "NP",
+        "text": "negociar con Rusia para poner fin al conflicto"
+      },
+      {
+        "label": "NP",
+        "text": "presidente ucraniano"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Zelenski participará este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "en el Consejo Europeo"
+      },
+      {
+        "label": "NP",
+        "text": "el Consejo Europeo"
+      },
+      {
+        "label": "NP",
+        "text": "Bruselas"
+      },
+      {
+        "label": "NP",
+        "text": "Bélgica"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "Zelenski"
+      },
+      {
+        "label": "NP",
+        "text": "líderes"
+      },
+      {
+        "label": "VP",
+        "text": "europeos para financiar y garantizar"
+      },
+      {
+        "label": "NP",
+        "text": "para financiar y garantizar"
+      },
+      {
+        "label": "NP",
+        "text": "a su país y prolongar"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Tras/NNP la/NNP)\n  retirada/FW\n  del/FW\n  apoyo/FW\n  de/FW\n  EE.UU./FW\n  (NP a/DT Ucrania/NNP hasta/NN que/NN acepte/NN)\n  (NP\n    negociar/JJ\n    con/NN\n    Rusia/NNP\n    para/NN\n    poner/NN\n    fin/NN\n    al/NN\n    conflicto/NN)\n  ,/,\n  el/FW\n  (NP presidente/NN ucraniano/NN)\n  ,/,\n  (NP Vladímir/NNP Zelenski/NNP participará/NN este/NN jueves/NNS)\n  (VP en/VBP (NP el/JJ Consejo/NNP Europeo/NNP))\n  en/FW\n  (NP Bruselas/NNP)\n  ,/,\n  (NP Bélgica/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  objetivo/FW\n  de/FW\n  la/FW\n  participación/FW\n  de/FW\n  (NP Zelenski/NNP)\n  en/FW\n  el/FW\n  ente/FW\n  europeo/FW\n  es/FW\n  la/FW\n  de/FW\n  buscar/FW\n  apoyo/FW\n  de/FW\n  los/FW\n  (NP líderes/NNS)\n  (VP europeos/VBP (NP para/NN financiar/NN y/NN garantizar/NN))\n  el/FW\n  envió/FW\n  de/FW\n  tropas/FW\n  (NP a/DT su/NN país/NN y/NN prolongar/NN)\n  el/FW\n  (NP conflicto/NN con/NN Rusia/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  agenda/FW\n  de/FW\n  (NP Vladímir/NNP Zelenski/NNP comenzará/NN con/NN)\n  (NP una/JJ reunión/NN con/NN)\n  el/FW\n  (NP jefe/NN)\n  (PP de/IN (NP Gobierno/NNP belga/NN))\n  ,/,\n  (NP a/DT la/NN que/NN seguirá/NN)\n  (NP un/JJ encuentro/JJ con/NN el/NN presidente/NN)\n  del/FW\n  (NP Consejo/NNP Europeo/NNP)\n  ,/,\n  (NP António/NNP Costa/NNP)\n  ,/,\n  y/RB\n  (NP con/JJ Von/NNP der/NN Leyen/NNP)\n  ./.)",
+      "(S\n  (NP También/NNP)\n  (VP se/VBD (NP reunirá/JJ con/NN el/NN secretario/NN) general/JJ)\n  de/FW\n  la/FW\n  (NP OTAN/NNP)\n  ,/,\n  (NP Mark/NNP Rutte/NNP)\n  ,/,\n  y/RB\n  (NP con/JJ el/JJ primer/NN ministro/NN)\n  (PP de/IN (NP Bélgica/NNP))\n  ,/,\n  (NP Bart/NNP De/NNP Wever/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  encuentro/CC\n  (NP con/NN Rutte/NNP tendrá/NN lugar/NN después/NN)\n  de/IN\n  la/FW\n  participación/FW\n  de/FW\n  (NP Zelenski/NNP)\n  en/FW\n  el/FW\n  (NP Consejo/NNP Europeo/NNP)\n  ,/,\n  (NP que/NN se/NN celebra/NN)\n  en/IN\n  el/FW\n  contexto/FW\n  de/FW\n  la/FW\n  retirada/FW\n  del/FW\n  apoyo/FW\n  de/FW\n  EE.UU./FW\n  (NP a/DT Ucrania/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "conflicto, el presidente",
+        "position": [
+          101,
+          125
+        ],
+        "start": 101,
+        "end": 125
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto, el presidente ucraniano, vladímir zelenski participará este jueves en el",
+        "position": [
+          101,
+          184
+        ],
+        "start": 101,
+        "end": 184
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo de los líderes europeos para financiar y garantizar el envió de tropas a su país",
+        "position": [
+          302,
+          388
+        ],
+        "start": 302,
+        "end": 388
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente ucraniano",
+        "position": [
+          115,
+          135
+        ],
+        "start": 115,
+        "end": 135
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de bélgica",
+        "position": [
+          703,
+          722
+        ],
+        "start": 703,
+        "end": 722
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "otan",
+        "position": [
+          669,
+          673
+        ],
+        "start": 669,
+        "end": 673
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          39,
+          46
+        ],
+        "start": 39,
+        "end": 46
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1223,
+          1229
+        ],
+        "start": 1223,
+        "end": 1229
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Von der Leyen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OTAN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rutte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bélgica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo Europeo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno belga",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vladímir Zelenski",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bart De Wever",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "António Costa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Emmanuel Macron",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bruselas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Macron",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Zelenski",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mark Rutte",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "PARTICIPAR",
+        "objeto": "Vladímir Zelenski"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "PARTICIPAR",
+        "objeto": "Consejo Europeo"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "PARTICIPAR",
+        "objeto": "Bruselas"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "PARTICIPAR",
+        "objeto": "Bélgica"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "PARTICIPAR",
+        "objeto": "Vladímir Zelenski"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "PARTICIPAR",
+        "objeto": "Consejo Europeo"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "PARTICIPAR",
+        "objeto": "Bruselas"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "PARTICIPAR",
+        "objeto": "Bélgica"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "NEGOCIAR_ACEPTAR_PARTICIPAR",
+        "objeto": "Vladímir Zelenski"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "NEGOCIAR_ACEPTAR_PARTICIPAR",
+        "objeto": "Consejo Europeo"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "NEGOCIAR_ACEPTAR_PARTICIPAR",
+        "objeto": "Bruselas"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "NEGOCIAR_ACEPTAR_PARTICIPAR",
+        "objeto": "Bélgica"
+      },
+      {
+        "sujeto": "Vladímir Zelenski",
+        "relacion": "PARTICIPAR",
+        "objeto": "Consejo Europeo"
+      },
+      {
+        "sujeto": "Vladímir Zelenski",
+        "relacion": "PARTICIPAR",
+        "objeto": "Bruselas"
+      },
+      {
+        "sujeto": "Vladímir Zelenski",
+        "relacion": "PARTICIPAR",
+        "objeto": "Bélgica"
+      },
+      {
+        "sujeto": "Consejo Europeo",
+        "relacion": "PARTICIPAR",
+        "objeto": "Bruselas"
+      },
+      {
+        "sujeto": "Consejo Europeo",
+        "relacion": "PARTICIPAR",
+        "objeto": "Bélgica"
+      },
+      {
+        "sujeto": "Vladímir Zelenski",
+        "relacion": "COMENZAR",
+        "objeto": "Gobierno belga"
+      },
+      {
+        "sujeto": "Vladímir Zelenski",
+        "relacion": "COMENZAR",
+        "objeto": "Consejo Europeo"
+      },
+      {
+        "sujeto": "Vladímir Zelenski",
+        "relacion": "COMENZAR",
+        "objeto": "António Costa"
+      },
+      {
+        "sujeto": "Vladímir Zelenski",
+        "relacion": "COMENZAR",
+        "objeto": "Von der Leyen"
+      },
+      {
+        "sujeto": "Rutte",
+        "relacion": "TENER",
+        "objeto": "Zelenski"
+      },
+      {
+        "sujeto": "Rutte",
+        "relacion": "TENER",
+        "objeto": "Consejo Europeo"
+      },
+      {
+        "sujeto": "Rutte",
+        "relacion": "TENER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Rutte",
+        "relacion": "TENER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Europa",
+        "relacion": "AGRADECER",
+        "objeto": "Emmanuel Macron"
+      },
+      {
+        "sujeto": "Emmanuel Macron",
+        "relacion": "AGRADECER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Europa",
+        "relacion": "DEPENDER_INSISTIR_AGRADECER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Emmanuel Macron",
+        "relacion": "ESCRIBIR",
+        "objeto": "Zelenski"
+      },
+      {
+        "sujeto": "Emmanuel Macron",
+        "relacion": "ESCRIBIR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "APOYAR_APRECIAR_DECIR",
+        "objeto": "Europa"
+      },
+      {
+        "sujeto": "Zelenski",
+        "relacion": "APOYAR_APRECIAR_DECIR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "APOYAR_APRECIAR_DECIR",
+        "objeto": "Macron"
+      },
+      {
+        "sujeto": "Zelenski",
+        "relacion": "REFORZAR_APRECIAR_DECIR",
+        "objeto": "Europa"
+      },
+      {
+        "sujeto": "Europa",
+        "relacion": "REFORZAR_APRECIAR_DECIR",
+        "objeto": "Macron"
+      },
+      {
+        "sujeto": "Zelenski",
+        "relacion": "DECIR",
+        "objeto": "Macron"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

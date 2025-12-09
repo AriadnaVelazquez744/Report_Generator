@@ -1,0 +1,922 @@
+{
+  "url": "https://www.telesurtv.net/cuba-bolivia-condenan-ataques-eeuu-venezuela/",
+  "title": "Cuba y Bolivia condenan ataques de EE.UU. contra Venezuela",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "amenazas estadounidenses",
+    "Bolivia",
+    "Cuba",
+    "Estados Unidos",
+    "provocaciones"
+  ],
+  "text": "Cuba y Bolivia condenaron el domingo las amenazas de Estados Unidos y las provocaciones, tanto contra Venezuela como al Caribe.\nEl presidente del Bolivia Luis Arce comunicó en su cuenta de X que “el Estado Plurinacional de Bolivia se une a la denuncia de la República Bolivariana de Venezuela frente a un nuevo acto de provocación de Estados Unidos”.\n“El asalto de un buque de guerra yanqui contra una embarcación pesquera en aguas venezolanas, el pasado 12 de septiembre, constituye un acto injerencista y violatorio del Derecho Internacional”, añadió.\nAsimismo, Arce dejó claro la “vocación de paz de Venezuela, que tuvo la inteligencia táctico-estratégica para no caer en esa planificada acción contra su soberanía. Asimismo, acusamos los planes de la administración de Trump en su pretensión de destruir la revolución bolivariana y desatar un conflicto bélico en la región”.\nPor su parte, el ministro de relaciones exteriores de Cuba, Bruno Rodríguez escribió sobre el asunto desde su cuenta oficial de X: “Denunciamos ilegal asalto de fuerzas militares de EEUU a barco pesquero venezolano en Zona Económica Exclusiva de Venezuela, en manifiesta violación del Derecho Internacional, que constituye una peligrosa provocación que amenaza la paz de América Latina y el Caribe”.\nEl Gobierno de Venezuela manifestó el domingo su gratitud hacia Cuba y Bolivia por apoyar su acusación contra Estados Unidos, a quien calificó como autor de un “acto hostil” tras apresar de manera «ilegal» una nave con “nueve pescadores” venezolanos.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuba-bolivia-condenan-ataques-eeuu-venezuela/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 82,
+    "message_id": 104617,
+    "date": "2025-09-15T07:55:08+00:00",
+    "text": "teleSUR\nCuba y Bolivia condenan agresiones de EE.UU. contra Venezuela y el mar Caribe\nhttps://www.telesurtv.net/cuba-bolivia-condenan-ataques-eeuu-venezuela/",
+    "photo_path": null,
+    "views": 1914,
+    "reactions": {
+      "👍": 67,
+      "❤": 6
+    },
+    "total_reactions": 73
+  },
+  "preprocessing": {
+    "cleaned": "cuba y bolivia condenaron el domingo las amenazas de estados unidos y las provocaciones, tanto contra venezuela como al caribe. el presidente del bolivia luis arce comunicó en su cuenta de x que “el estado plurinacional de bolivia se une a la denuncia de la república bolivariana de venezuela frente a un nuevo acto de provocación de estados unidos”. “el asalto de un buque de guerra yanqui contra una embarcación pesquera en aguas venezolanas, el pasado 12 de septiembre, constituye un acto injerencista y violatorio del derecho internacional”, añadió. asimismo, arce dejó claro la “vocación de paz de venezuela, que tuvo la inteligencia táctico-estratégica para no caer en esa planificada acción contra su soberanía. asimismo, acusamos los planes de la administración de trump en su pretensión de destruir la revolución bolivariana y desatar un conflicto bélico en la región”. por su parte, el ministro de relaciones exteriores de cuba, bruno rodríguez escribió sobre el asunto desde su cuenta oficial de x: “denunciamos ilegal asalto de fuerzas militares de eeuu a barco pesquero venezolano en zona económica exclusiva de venezuela, en manifiesta violación del derecho internacional, que constituye una peligrosa provocación que amenaza la paz de américa latina y el caribe”. el gobierno de venezuela manifestó el domingo su gratitud hacia cuba y bolivia por apoyar su acusación contra estados unidos, a quien calificó como autor de un “acto hostil” tras apresar de manera «ilegal» una nave con “nueve pescadores” venezolanos.",
+    "tokens": [
+      "cuba",
+      "bolivia",
+      "condenaron",
+      "domingo",
+      "amenazas",
+      "unidos",
+      "provocaciones",
+      ",",
+      "venezuela",
+      "caribe",
+      ".",
+      "presidente",
+      "bolivia",
+      "luis",
+      "arce",
+      "comunicó",
+      "cuenta",
+      "x",
+      "“",
+      "plurinacional",
+      "bolivia",
+      "une",
+      "denuncia",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "frente",
+      "nuevo",
+      "acto",
+      "provocación",
+      "unidos",
+      "”",
+      ".",
+      "“",
+      "asalto",
+      "buque",
+      "guerra",
+      "yanqui",
+      "embarcación",
+      "pesquera",
+      "aguas",
+      "venezolanas",
+      ",",
+      "pasado",
+      "12",
+      "septiembre",
+      ",",
+      "constituye",
+      "acto",
+      "injerencista",
+      "violatorio",
+      "derecho",
+      "internacional",
+      "”",
+      ",",
+      "añadió",
+      ".",
+      "asimismo",
+      ",",
+      "arce",
+      "dejó",
+      "claro",
+      "“",
+      "vocación",
+      "paz",
+      "venezuela",
+      ",",
+      "inteligencia",
+      "táctico-estratégica",
+      "caer",
+      "planificada",
+      "acción",
+      "soberanía",
+      ".",
+      "asimismo",
+      ",",
+      "acusamos",
+      "planes",
+      "administración",
+      "trump",
+      "pretensión",
+      "destruir",
+      "revolución",
+      "bolivariana",
+      "desatar",
+      "conflicto",
+      "bélico",
+      "región",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      "cuba",
+      ",",
+      "bruno",
+      "rodríguez",
+      "escribió",
+      "asunto",
+      "cuenta",
+      "oficial",
+      "x",
+      ":",
+      "“",
+      "denunciamos",
+      "ilegal",
+      "asalto",
+      "fuerzas",
+      "militares",
+      "eeuu",
+      "barco",
+      "pesquero",
+      "venezolano",
+      "zona",
+      "económica",
+      "exclusiva",
+      "venezuela",
+      ",",
+      "manifiesta",
+      "violación",
+      "derecho",
+      "internacional",
+      ",",
+      "constituye",
+      "peligrosa",
+      "provocación",
+      "amenaza",
+      "paz",
+      "américa",
+      "latina",
+      "caribe",
+      "”",
+      ".",
+      "gobierno",
+      "venezuela",
+      "manifestó",
+      "domingo",
+      "gratitud",
+      "hacia",
+      "cuba",
+      "bolivia",
+      "apoyar",
+      "acusación",
+      "unidos",
+      ",",
+      "calificó",
+      "autor",
+      "“",
+      "acto",
+      "hostil",
+      "”",
+      "tras",
+      "apresar",
+      "manera",
+      "«",
+      "ilegal",
+      "»",
+      "nave",
+      "“",
+      "nueve",
+      "pescadores",
+      "”",
+      "venezolanos",
+      "."
+    ],
+    "token_count": 166,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "NN": 65,
+      "JJ": 23,
+      "IN": 14,
+      "VBZ": 4,
+      "NNS": 9,
+      "FW": 59,
+      "VBP": 3,
+      "CD": 1,
+      "DT": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 21,
+      "NNP-NN": 13,
+      "NN-NN": 32,
+      "NN-JJ": 10,
+      "JJ-NN": 10,
+      "NN-IN": 9,
+      "IN-NNP": 3,
+      "NNP-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-IN": 3,
+      "IN-JJ": 3,
+      "JJ-NNP": 2,
+      "NN-NNP": 7,
+      "NN-FW": 4,
+      "FW-FW": 35,
+      "FW-NNP": 13,
+      "NNP-FW": 9,
+      "FW-JJ": 3,
+      "JJ-FW": 2,
+      "IN-FW": 7,
+      "JJ-JJ": 3,
+      "JJ-NNS": 5,
+      "NNS-VBP": 3,
+      "VBP-JJ": 1,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "FW-NN": 7,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1,
+      "VBZ-JJ": 2,
+      "FW-NNS": 1,
+      "NNS-FW": 1,
+      "IN-NN": 1,
+      "NNP-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "NN-NNS": 1,
+      "VBP-IN": 1,
+      "VBP-NN": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 12,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-NNP": 5,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-FW": 4,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-NN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 5,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 5,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-JJ": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NN-FW": 3,
+      "NN-JJ-JJ": 2,
+      "JJ-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-FW-NN": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "FW-NN-NNP": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 65,
+        "FW": 59,
+        "NNP": 48,
+        "JJ": 23,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 35,
+        "NN-NN": 32,
+        "NNP-NNP": 21,
+        "NNP-NN": 13,
+        "FW-NNP": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 12,
+        "NNP-NN-NN": 11,
+        "NNP-NNP-NN": 8,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 59,
+      "PP": 6,
+      "VP": 10,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0476
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0357
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('Asimismo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "S -> NP ('y', 'PRP') NP NP PP (',', ',') ('tanto', 'EX') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP') ('condenaron', 'NN') ('el', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('amenazas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP') ('y', 'NNP') ('las', 'NN') ('provocaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('Venezuela', 'NNP') ('como', 'NN') ('al', 'NN') ('Caribe', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0119
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia condenaron el domingo"
+      },
+      {
+        "label": "NP",
+        "text": "las amenazas"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos y las provocaciones"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos y las provocaciones"
+      },
+      {
+        "label": "NP",
+        "text": "contra Venezuela como al Caribe"
+      },
+      {
+        "label": "NP",
+        "text": "El presidente del Bolivia Luis Arce comunicó"
+      },
+      {
+        "label": "NP",
+        "text": "Estado Plurinacional"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "VP",
+        "text": "frente a un nuevo acto"
+      },
+      {
+        "label": "NP",
+        "text": "a un nuevo acto"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos ”"
+      },
+      {
+        "label": "NP",
+        "text": "“ El asalto"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Cuba/NNP)\n  y/PRP\n  (NP Bolivia/NNP condenaron/NN el/NN domingo/NN)\n  (NP las/JJ amenazas/NN)\n  (PP\n    de/IN\n    (NP Estados/NNP Unidos/NNP y/NNP las/NN provocaciones/NNS))\n  ,/,\n  tanto/EX\n  (NP contra/JJ Venezuela/NNP como/NN al/NN Caribe/NNP)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    presidente/NN\n    del/NN\n    Bolivia/NNP\n    Luis/NNP\n    Arce/NNP\n    comunicó/NN)\n  en/FW\n  su/FW\n  cuenta/FW\n  de/FW\n  X/FW\n  que/FW\n  “/FW\n  el/FW\n  (NP Estado/NNP Plurinacional/NNP)\n  de/FW\n  (NP Bolivia/NNP)\n  se/FW\n  une/FW\n  a/DT\n  la/FW\n  denuncia/FW\n  de/FW\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  (VP frente/VBD (NP a/DT un/JJ nuevo/JJ acto/NN))\n  de/IN\n  provocación/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP asalto/NN)\n  de/FW\n  un/FW\n  buque/FW\n  de/FW\n  guerra/FW\n  yanqui/FW\n  (NP contra/JJ una/JJ embarcación/NN pesquera/NN)\n  (PP en/IN (NP aguas/NN venezolanas/NNS))\n  ,/,\n  (VP el/VBP pasado/JJ)\n  12/CD\n  de/FW\n  septiembre/FW\n  ,/,\n  (VP\n    constituye/VBP\n    (NP\n      un/JJ\n      acto/NN\n      injerencista/NN\n      y/NN\n      violatorio/NN\n      del/NN\n      Derecho/NNP\n      Internacional/NNP\n      ”/NNP))\n  ,/,\n  (NP añadió/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP Arce/NNP)\n  (VP dejó/VBZ (NP claro/NN la/NN “/NNP vocación/NN))\n  de/FW\n  paz/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP que/NN tuvo/NN la/NN)\n  (NP inteligencia/JJ táctico-estratégica/JJ para/NN)\n  (NP no/DT caer/NN)\n  (VP en/VBZ)\n  esa/FW\n  (NP planificada/NN acción/NN)\n  (NP contra/JJ su/NN soberanía/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP acusamos/JJ los/NN planes/NNS)\n  de/IN\n  la/FW\n  administración/FW\n  de/FW\n  (NP Trump/NNP)\n  en/FW\n  (NP su/NN pretensión/NN)\n  de/IN\n  destruir/FW\n  la/FW\n  revolución/FW\n  bolivariana/FW\n  y/FW\n  (NP desatar/NN)\n  (NP un/JJ conflicto/NN bélico/NN)\n  en/IN\n  la/FW\n  región/FW\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          1304,
+          1313
+        ],
+        "start": 1304,
+        "end": 1313
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra yanqui contra una",
+        "position": [
+          377,
+          401
+        ],
+        "start": 377,
+        "end": 401
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "zona económica exclusiva de venezuela, en manifiesta violación del derecho internacional",
+        "position": [
+          1097,
+          1185
+        ],
+        "start": 1097,
+        "end": 1185
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          164,
+          172
+        ],
+        "start": 164,
+        "end": 172
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de venezuela manifestó",
+        "position": [
+          1282,
+          1313
+        ],
+        "start": 1282,
+        "end": 1313
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del bolivia",
+        "position": [
+          131,
+          153
+        ],
+        "start": 131,
+        "end": 153
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          896,
+          929
+        ],
+        "start": 896,
+        "end": 929
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          0,
+          4
+        ],
+        "start": 0,
+        "end": 4
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          53,
+          67
+        ],
+        "start": 53,
+        "end": 67
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          102,
+          111
+        ],
+        "start": 102,
+        "end": 111
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1240,
+          1246
+        ],
+        "start": 1240,
+        "end": 1246
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          120,
+          126
+        ],
+        "start": 120,
+        "end": 126
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado plurinacional",
+        "position": [
+          199,
+          219
+        ],
+        "start": 199,
+        "end": 219
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Estado Plurinacional de Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bruno Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Derecho Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "el Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EEUU",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Zona Económica Exclusiva",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Arce",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cuba",
+        "relacion": "CONDENAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "CONDENAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "CONDENAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "CONDENAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "CONDENAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "CONDENAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Estado Plurinacional de Bolivia",
+        "relacion": "COMUNICAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "COMUNICAR",
+        "objeto": "República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "COMUNICAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estado Plurinacional de Bolivia",
+        "relacion": "COMUNICAR",
+        "objeto": "Luis Arce"
+      },
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "COMUNICAR",
+        "objeto": "República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "COMUNICAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estado Plurinacional de Bolivia",
+        "relacion": "UNIR_COMUNICAR",
+        "objeto": "República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "Estado Plurinacional de Bolivia",
+        "relacion": "UNIR_COMUNICAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "UNIR_COMUNICAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Arce",
+        "relacion": "DEJAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "ESCRIBIR",
+        "objeto": "EEUU"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "ESCRIBIR",
+        "objeto": "Zona Económica Exclusiva"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "ESCRIBIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "ESCRIBIR",
+        "objeto": "Derecho Internacional"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "ESCRIBIR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "Bruno Rodríguez",
+        "relacion": "ESCRIBIR",
+        "objeto": "EEUU"
+      },
+      {
+        "sujeto": "Bruno Rodríguez",
+        "relacion": "ESCRIBIR",
+        "objeto": "Zona Económica Exclusiva"
+      },
+      {
+        "sujeto": "Bruno Rodríguez",
+        "relacion": "ESCRIBIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Bruno Rodríguez",
+        "relacion": "ESCRIBIR",
+        "objeto": "Derecho Internacional"
+      },
+      {
+        "sujeto": "Bruno Rodríguez",
+        "relacion": "ESCRIBIR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "EEUU",
+        "relacion": "DENUNCIAR_ESCRIBIR",
+        "objeto": "Zona Económica Exclusiva"
+      },
+      {
+        "sujeto": "EEUU",
+        "relacion": "DENUNCIAR_ESCRIBIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "EEUU",
+        "relacion": "DENUNCIAR_ESCRIBIR",
+        "objeto": "Derecho Internacional"
+      },
+      {
+        "sujeto": "EEUU",
+        "relacion": "DENUNCIAR_ESCRIBIR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "Zona Económica Exclusiva",
+        "relacion": "DENUNCIAR_ESCRIBIR",
+        "objeto": "Derecho Internacional"
+      },
+      {
+        "sujeto": "Zona Económica Exclusiva",
+        "relacion": "DENUNCIAR_ESCRIBIR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DENUNCIAR_ESCRIBIR",
+        "objeto": "Derecho Internacional"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DENUNCIAR_ESCRIBIR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "MANIFESTAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "MANIFESTAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "MANIFESTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "MANIFESTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "MANIFESTAR",
+        "objeto": "Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

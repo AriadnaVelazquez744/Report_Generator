@@ -1,0 +1,656 @@
+{
+  "url": "https://www.telesurtv.net/mexico-crea-comision-reforma-electoral/",
+  "title": "México anuncia creación de comisión para reforma electoral",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Comisión",
+    "presidenta mexicana",
+    "Reforma electoral"
+  ],
+  "text": "El Gobierno mexicano anunció el sábado la creación de la Comisión Presidencial para la reforma electoral, que tendrá como principal objetivo realizar un diagnóstico “profundo” del estado en el que se encuentra el modelo electoral y de partidos, para impulsar una ‘reforma legislativa’ que esté acorde con la actualidad del país.\nPor medio de un comunicado, la Administración de Claudia Sheinbaum detalló que la comisión estará encabezada por Pablo Gómez Álvarez, quien a la fecha se desempeñaba como titular de la Unidad de Inteligencia Financiera (UIF) de México.\nDesde el Gobierno precisaron que en los próximos días, la mandataria dará a conocer al resto de los integrantes de la comisión “quienes trabajarán en coordinación con miembros del poder legislativo, académicos, expertos, organizaciones y ciudadanía”.\nTambién afirmaron que la ‘representación popular’ y los ‘mecanismos de participación ciudadana’ son los aspectos iniciales que los especialistas examinarán para orientar la futura reforma electoral.\nEn el comunicado, Claudia Sheinbaum recordó que Gómez Álvarez ha sido electo cuatro veces diputado federal y senador, y es altamente valorado por su trayectoria académica y política.\n“Ha sido cuatro veces diputado federal y senador de la República. Años atrás, ha sido artífice de otras reformas político electorales para allanar el camino hacia la democracia de nuestro país”, enfatizó la mandataria.\nEn diversas ocasiones, Sheinbaum ha expresado su intención de impulsar una reforma electoral que propone reducir el gasto en la organización de las elecciones entre otras modificaciones.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-crea-comision-reforma-electoral/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 2113,
+    "message_id": 100771,
+    "date": "2025-08-03T08:55:13+00:00",
+    "text": "teleSUR\nMéxico anuncia la creación de una Comisión Presidencial para una reforma electoral\nhttps://www.telesurtv.net/mexico-crea-comision-reforma-electoral/",
+    "photo_path": null,
+    "views": 1951,
+    "reactions": {
+      "👍": 30,
+      "❤": 8
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno mexicano anunció el sábado la creación de la comisión presidencial para la reforma electoral, que tendrá como principal objetivo realizar un diagnóstico “profundo” del estado en el que se encuentra el modelo electoral y de partidos, para impulsar una ‘reforma legislativa’ que esté acorde con la actualidad del país. por medio de un comunicado, la administración de claudia sheinbaum detalló que la comisión estará encabezada por pablo gómez álvarez, quien a la fecha se desempeñaba como titular de la unidad de inteligencia financiera (uif) de méxico. desde el gobierno precisaron que en los próximos días, la mandataria dará a conocer al resto de los integrantes de la comisión “quienes trabajarán en coordinación con miembros del poder legislativo, académicos, expertos, organizaciones y ciudadanía”. también afirmaron que la ‘representación popular’ y los ‘mecanismos de participación ciudadana’ son los aspectos iniciales que los especialistas examinarán para orientar la futura reforma electoral. en el comunicado, claudia sheinbaum recordó que gómez álvarez ha sido electo cuatro veces diputado federal y senador, y es altamente valorado por su trayectoria académica y política. “ha sido cuatro veces diputado federal y senador de la república. años atrás, ha sido artífice de otras reformas político electorales para allanar el camino hacia la democracia de nuestro país”, enfatizó la mandataria. en diversas ocasiones, sheinbaum ha expresado su intención de impulsar una reforma electoral que propone reducir el gasto en la organización de las elecciones entre otras modificaciones.",
+    "tokens": [
+      "gobierno",
+      "mexicano",
+      "anunció",
+      "sábado",
+      "creación",
+      "comisión",
+      "presidencial",
+      "reforma",
+      "electoral",
+      ",",
+      "principal",
+      "objetivo",
+      "realizar",
+      "diagnóstico",
+      "“",
+      "profundo",
+      "”",
+      "encuentra",
+      "modelo",
+      "electoral",
+      "partidos",
+      ",",
+      "impulsar",
+      "‘",
+      "reforma",
+      "legislativa",
+      "’",
+      "acorde",
+      "actualidad",
+      "país",
+      ".",
+      "medio",
+      "comunicado",
+      ",",
+      "administración",
+      "claudia",
+      "sheinbaum",
+      "detalló",
+      "comisión",
+      "encabezada",
+      "pablo",
+      "gómez",
+      "álvarez",
+      ",",
+      "fecha",
+      "desempeñaba",
+      "titular",
+      "unidad",
+      "inteligencia",
+      "financiera",
+      "(",
+      "uif",
+      ")",
+      "méxico",
+      ".",
+      "gobierno",
+      "precisaron",
+      "próximos",
+      "días",
+      ",",
+      "mandataria",
+      "dará",
+      "conocer",
+      "resto",
+      "integrantes",
+      "comisión",
+      "“",
+      "trabajarán",
+      "coordinación",
+      "miembros",
+      "poder",
+      "legislativo",
+      ",",
+      "académicos",
+      ",",
+      "expertos",
+      ",",
+      "organizaciones",
+      "ciudadanía",
+      "”",
+      ".",
+      "afirmaron",
+      "‘",
+      "representación",
+      "popular",
+      "’",
+      "‘",
+      "mecanismos",
+      "participación",
+      "ciudadana",
+      "’",
+      "aspectos",
+      "iniciales",
+      "especialistas",
+      "examinarán",
+      "orientar",
+      "futura",
+      "reforma",
+      "electoral",
+      ".",
+      "comunicado",
+      ",",
+      "claudia",
+      "sheinbaum",
+      "recordó",
+      "gómez",
+      "álvarez",
+      "sido",
+      "electo",
+      "cuatro",
+      "veces",
+      "diputado",
+      "federal",
+      "senador",
+      ",",
+      "altamente",
+      "valorado",
+      "trayectoria",
+      "académica",
+      "política",
+      ".",
+      "“",
+      "sido",
+      "cuatro",
+      "veces",
+      "diputado",
+      "federal",
+      "senador",
+      "república",
+      ".",
+      "años",
+      "atrás",
+      ",",
+      "sido",
+      "artífice",
+      "reformas",
+      "político",
+      "electorales",
+      "allanar",
+      "camino",
+      "hacia",
+      "democracia",
+      "país",
+      "”",
+      ",",
+      "enfatizó",
+      "mandataria",
+      ".",
+      "diversas",
+      "ocasiones",
+      ",",
+      "sheinbaum",
+      "expresado",
+      "intención",
+      "impulsar",
+      "reforma",
+      "electoral",
+      "propone",
+      "reducir",
+      "gasto",
+      "organización",
+      "elecciones",
+      "modificaciones",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 88,
+      "FW": 44,
+      "JJ": 31,
+      "IN": 13,
+      "VBP": 11,
+      "VBZ": 2,
+      "NNS": 12
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-NN": 13,
+      "NN-NN": 52,
+      "NN-FW": 7,
+      "FW-FW": 27,
+      "FW-NNP": 6,
+      "NN-JJ": 7,
+      "JJ-JJ": 10,
+      "JJ-NN": 17,
+      "NN-IN": 9,
+      "IN-FW": 9,
+      "FW-JJ": 4,
+      "NN-NNP": 5,
+      "FW-NN": 4,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NN-VBP": 2,
+      "VBP-JJ": 8,
+      "NNP-FW": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "IN-JJ": 1,
+      "FW-NNS": 3,
+      "NNS-IN": 1,
+      "JJ-NNS": 3,
+      "NNS-VBP": 9,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NN-NNS": 6,
+      "VBP-NN": 1,
+      "VBP-NNP": 1,
+      "JJ-NNP": 1,
+      "VBZ-JJ": 1,
+      "NNS-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 27,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 7,
+      "JJ-NN-NN": 11,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "FW-NN-NN": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "NN-FW-JJ": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "VBP-JJ-JJ": 3,
+      "JJ-NN-IN": 4,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "JJ-JJ-NNS": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 44,
+        "JJ": 31,
+        "NNP": 29,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 27,
+        "JJ-NN": 17,
+        "NNP-NN": 13,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 20,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 11,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 60,
+      "ADJP": 2,
+      "PP": 3,
+      "VP": 14
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.023
+      },
+      {
+        "rule": "VP -> ('diputado', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.023
+      },
+      {
+        "rule": "NP -> ('federal', 'JJ') ('y', 'NN') ('senador', 'NN')",
+        "frequency": 2,
+        "weight": 0.023
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') ('creación', 'FW') ('de', 'FW') ('la', 'FW') NP ADJP ADJP (',', ',') NP NP NP ('del', 'FW') NP ('en', 'FW') ('el', 'FW') ('que', 'FW') ('se', 'FW') ('encuentra', 'FW') ('el', 'FW') ('modelo', 'FW') NP ('de', 'IN') ('partidos', 'FW') (',', ',') ('para', 'FW') NP ('legislativa', 'FW') NP NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP') ('mexicano', 'NN') ('anunció', 'NN') ('el', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('Comisión', 'NNP') ('Presidencial', 'NNP') ('para', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "ADJP -> ('reforma', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "ADJP -> ('electoral', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('tendrá', 'NN') ('como', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('principal', 'JJ') ('objetivo', 'JJ') ('realizar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno mexicano anunció el sábado"
+      },
+      {
+        "label": "NP",
+        "text": "Comisión Presidencial para la"
+      },
+      {
+        "label": "ADJP",
+        "text": "reforma"
+      },
+      {
+        "label": "ADJP",
+        "text": "electoral"
+      },
+      {
+        "label": "NP",
+        "text": "que tendrá como"
+      },
+      {
+        "label": "NP",
+        "text": "principal objetivo realizar"
+      },
+      {
+        "label": "NP",
+        "text": "un diagnóstico “ profundo ”"
+      },
+      {
+        "label": "NP",
+        "text": "estado"
+      },
+      {
+        "label": "NP",
+        "text": "electoral y"
+      },
+      {
+        "label": "NP",
+        "text": "impulsar una ‘ reforma"
+      },
+      {
+        "label": "NP",
+        "text": "’ que esté"
+      },
+      {
+        "label": "NP",
+        "text": "acorde con la"
+      },
+      {
+        "label": "NP",
+        "text": "actualidad del país"
+      },
+      {
+        "label": "NP",
+        "text": "Por medio"
+      },
+      {
+        "label": "NP",
+        "text": "comunicado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP mexicano/NN anunció/NN el/NN sábado/NN)\n  la/FW\n  creación/FW\n  de/FW\n  la/FW\n  (NP Comisión/NNP Presidencial/NNP para/NN la/NN)\n  (ADJP reforma/JJ)\n  (ADJP electoral/JJ)\n  ,/,\n  (NP que/JJ tendrá/NN como/NN)\n  (NP principal/JJ objetivo/JJ realizar/NN)\n  (NP un/JJ diagnóstico/NN “/NNP profundo/NN ”/NNP)\n  del/FW\n  (NP estado/NN)\n  en/FW\n  el/FW\n  que/FW\n  se/FW\n  encuentra/FW\n  el/FW\n  modelo/FW\n  (NP electoral/JJ y/NN)\n  de/IN\n  partidos/FW\n  ,/,\n  para/FW\n  (NP impulsar/JJ una/JJ ‘/NN reforma/NN)\n  legislativa/FW\n  (NP ’/NNP que/NN esté/NN)\n  (NP acorde/JJ con/NN la/NN)\n  (NP actualidad/JJ del/NN país/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP medio/NN)\n  de/FW\n  un/FW\n  (NP comunicado/NN)\n  ,/,\n  la/FW\n  (NP Administración/NNP)\n  (PP\n    de/IN\n    (NP\n      Claudia/NNP\n      Sheinbaum/NNP\n      detalló/NN\n      que/NN\n      la/NN\n      comisión/NN))\n  (VP\n    estará/VBP\n    (NP encabezada/JJ por/NN Pablo/NNP Gómez/NNP Álvarez/NNP))\n  ,/,\n  (VP\n    quien/VBZ\n    (NP a/DT la/NN fecha/NN se/NN desempeñaba/NN como/NN titular/NN))\n  de/IN\n  la/FW\n  (NP Unidad/NNP)\n  de/FW\n  (NP Inteligencia/NNP Financiera/NNP)\n  (/(\n  (NP UIF/NNP)\n  )/)\n  (PP de/IN (NP México/NNP))\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  el/CC\n  (NP Gobierno/NNP)\n  (VP precisaron/VBP (NP que/NN))\n  en/FW\n  los/FW\n  (NP próximos/JJ días/NN)\n  ,/,\n  la/FW\n  mandataria/FW\n  dará/FW\n  (NP a/DT conocer/NN al/NN resto/NN)\n  de/IN\n  los/FW\n  (NP integrantes/NNS)\n  de/IN\n  la/FW\n  comisión/FW\n  “/FW\n  (NP quienes/NNS)\n  (VP trabajarán/VBP)\n  (PP en/IN (NP coordinación/NN con/NN miembros/NNS))\n  (VP del/VBP (NP poder/NN legislativo/NN))\n  ,/,\n  (NP académicos/NN)\n  ,/,\n  (NP expertos/NN)\n  ,/,\n  (NP organizaciones/NNS)\n  (VP y/VBP (NP ciudadanía/JJ ”/NN))\n  ./.)",
+      "(S\n  (NP También/NNP afirmaron/NN que/NN la/NN ‘/NNP)\n  (VP\n    representación/VBZ\n    (NP popular/JJ ’/NNP y/NN los/NN ‘/NNP mecanismos/NN))\n  de/FW\n  participación/FW\n  (NP ciudadana/NN ’/NNP son/NN los/NN aspectos/NN)\n  (VP iniciales/VBZ (NP que/JJ los/NN especialistas/NNS))\n  (VP\n    examinarán/VBP\n    (NP para/JJ orientar/NN la/NN futura/NN)\n    reforma/JJ\n    electoral/JJ)\n  ./.)",
+      "(S\n  (NP En/NNP el/NN comunicado/NN)\n  ,/,\n  (NP\n    Claudia/NNP\n    Sheinbaum/NNP\n    recordó/NN\n    que/NN\n    Gómez/NNP\n    Álvarez/NNP\n    ha/NN\n    sido/NN)\n  electo/FW\n  (NP cuatro/NN veces/NNS)\n  (VP diputado/VBP (NP federal/JJ y/NN senador/NN))\n  ,/,\n  y/CC\n  (NP\n    es/JJ\n    altamente/NN\n    valorado/NN\n    por/NN\n    su/NN\n    trayectoria/NN\n    académica/NN\n    y/NN\n    política/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          21,
+          28
+        ],
+        "start": 21,
+        "end": 28
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "comisión presidencial para la reforma electoral, que tendrá como principal objetivo realizar un diagnóstico “profundo” del estado en el que se encuentra el modelo electoral y de partidos, para impulsar una ‘reforma legislativa",
+        "position": [
+          57,
+          283
+        ],
+        "start": 57,
+        "end": 283
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "participación ciudadana",
+        "position": [
+          887,
+          910
+        ],
+        "start": 887,
+        "end": 910
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          557,
+          563
+        ],
+        "start": 557,
+        "end": 563
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado en",
+        "position": [
+          180,
+          189
+        ],
+        "start": 180,
+        "end": 189
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Comisión Presidencial",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno mexicano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pablo Gómez Álvarez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Años atrás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "UIF",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Administración",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gómez Álvarez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Unidad de Inteligencia Financiera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno mexicano",
+        "relacion": "ANUNCIAR",
+        "objeto": "Comisión Presidencial"
+      },
+      {
+        "sujeto": "Administración",
+        "relacion": "DETALLAR",
+        "objeto": "Pablo Gómez Álvarez"
+      },
+      {
+        "sujeto": "Administración",
+        "relacion": "DETALLAR",
+        "objeto": "Unidad de Inteligencia Financiera"
+      },
+      {
+        "sujeto": "Administración",
+        "relacion": "DETALLAR",
+        "objeto": "UIF"
+      },
+      {
+        "sujeto": "Administración",
+        "relacion": "DETALLAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "DETALLAR",
+        "objeto": "Pablo Gómez Álvarez"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "DETALLAR",
+        "objeto": "Unidad de Inteligencia Financiera"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "DETALLAR",
+        "objeto": "UIF"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "DETALLAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "RECORDAR",
+        "objeto": "Gómez Álvarez"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7351,
+    "pos": 0.031,
+    "neu": 0.969,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

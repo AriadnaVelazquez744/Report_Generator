@@ -1,0 +1,728 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-felicita-y-acompana-a-china-en-festejos-por-ano-nuevo-chino/",
+  "title": "Venezuela felicita y acompaña a China en festejos por Año Nuevo Chino - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Año Nuevo",
+    "China",
+    "Venezuela"
+  ],
+  "text": "El Gobierno de la República Bolivariana de Venezuela felicitó al pueblo de China por la celebración del Año Nuevo Chino, fecha que da inicio a la tradición del Año de la Serpiente.\nEn nombre del pueblo y del presidente de Venezuela, el canciller bolivariano, Yvan Gil participó de la celebración de la fecha, junto al embajador chino en el país suramericano.\nPor medio de su canal de Telegram, subrayó que “es un gran honor acompañar al hermano embajador de China, Lan Hu, y otros miembros de su distinguido cuerpo diplomático, en la celebración del Año Nuevo Chino, que da inicio al Año de la Serpiente este 29 de enero”.\nEsta celebración es la festividad tradicional más significativa en China. Foto: YvanGil Telegram.\nSiguiendo esta línea, el mensaje publicado resaltó que “Venezuela extiende sus mejores deseos a toda la población de China y a la comunidad china en nuestro país, deseándoles una feliz y próspera celebración de esta rica tradición cultural”.\nA través de las redes sociales del gigante asiático, se han compartido mensajes de felicitación y deseos de prosperidad para el Nuevo Año Lunar, también conocido como la Fiesta de la Primavera.\nEsta celebración es la festividad tradicional más significativa en China y, curiosamente, este es el primer año en que se conmemora desde que fue incluida en la lista del Patrimonio Cultural Inmaterial de la UNESCO.\nDurante este periodo festivo, se lleva a cabo el “Chunyun”, el mayor desplazamiento migratorio del mundo, donde millones de personas viajan para reunirse con sus seres queridos.\nSegún fuentes oficiales, se prevé que en 2025 más de 510 millones de pasajeros utilicen el sistema ferroviario entre el 14 de enero y el 22 de febrero, mientras que alrededor de 90 millones optarán por viajar en avión.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-felicita-y-acompana-a-china-en-festejos-por-ano-nuevo-chino/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 149,
+    "message_id": 85761,
+    "date": "2025-01-30T02:55:13+00:00",
+    "text": "teleSUR\nVenezuela felicita y acompaña a China en festejos por Año Nuevo Chino\nhttps://www.telesurtv.net/venezuela-felicita-y-acompana-a-china-en-festejos-por-ano-nuevo-chino/",
+    "photo_path": null,
+    "views": 1922,
+    "reactions": {
+      "👏": 40,
+      "❤": 6,
+      "🤔": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de la república bolivariana de venezuela felicitó al pueblo de china por la celebración del año nuevo chino, fecha que da inicio a la tradición del año de la serpiente. en nombre del pueblo y del presidente de venezuela, el canciller bolivariano, yvan gil participó de la celebración de la fecha, junto al embajador chino en el país suramericano. por medio de su canal de telegram, subrayó que “es un gran honor acompañar al hermano embajador de china, lan hu, y otros miembros de su distinguido cuerpo diplomático, en la celebración del año nuevo chino, que da inicio al año de la serpiente este 29 de enero”. esta celebración es la festividad tradicional más significativa en china. foto: yvangil telegram. siguiendo esta línea, el mensaje publicado resaltó que “venezuela extiende sus mejores deseos a toda la población de china y a la comunidad china en nuestro país, deseándoles una feliz y próspera celebración de esta rica tradición cultural”. a través de las redes sociales del gigante asiático, se han compartido mensajes de felicitación y deseos de prosperidad para el nuevo año lunar, también conocido como la fiesta de la primavera. esta celebración es la festividad tradicional más significativa en china y, curiosamente, este es el primer año en que se conmemora desde que fue incluida en la lista del patrimonio cultural inmaterial de la unesco. durante este periodo festivo, se lleva a cabo el “chunyun”, el mayor desplazamiento migratorio del mundo, donde millones de personas viajan para reunirse con sus seres queridos. según fuentes oficiales, se prevé que en 2025 más de 510 millones de pasajeros utilicen el sistema ferroviario entre el 14 de enero y el 22 de febrero, mientras que alrededor de 90 millones optarán por viajar en avión.",
+    "tokens": [
+      "gobierno",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "felicitó",
+      "pueblo",
+      "china",
+      "celebración",
+      "año",
+      "nuevo",
+      "chino",
+      ",",
+      "fecha",
+      "da",
+      "inicio",
+      "tradición",
+      "año",
+      "serpiente",
+      ".",
+      "nombre",
+      "pueblo",
+      "presidente",
+      "venezuela",
+      ",",
+      "canciller",
+      "bolivariano",
+      ",",
+      "yvan",
+      "gil",
+      "participó",
+      "celebración",
+      "fecha",
+      ",",
+      "junto",
+      "embajador",
+      "chino",
+      "país",
+      "suramericano",
+      ".",
+      "medio",
+      "canal",
+      "telegram",
+      ",",
+      "subrayó",
+      "“",
+      "gran",
+      "honor",
+      "acompañar",
+      "hermano",
+      "embajador",
+      "china",
+      ",",
+      "lan",
+      "hu",
+      ",",
+      "miembros",
+      "distinguido",
+      "cuerpo",
+      "diplomático",
+      ",",
+      "celebración",
+      "año",
+      "nuevo",
+      "chino",
+      ",",
+      "da",
+      "inicio",
+      "año",
+      "serpiente",
+      "29",
+      "enero",
+      "”",
+      ".",
+      "celebración",
+      "festividad",
+      "tradicional",
+      "significativa",
+      "china",
+      ".",
+      "foto",
+      ":",
+      "yvangil",
+      "telegram",
+      ".",
+      "siguiendo",
+      "línea",
+      ",",
+      "mensaje",
+      "publicado",
+      "resaltó",
+      "“",
+      "venezuela",
+      "extiende",
+      "mejores",
+      "deseos",
+      "toda",
+      "población",
+      "china",
+      "comunidad",
+      "china",
+      "país",
+      ",",
+      "deseándoles",
+      "feliz",
+      "próspera",
+      "celebración",
+      "rica",
+      "tradición",
+      "cultural",
+      "”",
+      ".",
+      "través",
+      "redes",
+      "sociales",
+      "gigante",
+      "asiático",
+      ",",
+      "compartido",
+      "mensajes",
+      "felicitación",
+      "deseos",
+      "prosperidad",
+      "nuevo",
+      "año",
+      "lunar",
+      ",",
+      "conocido",
+      "fiesta",
+      "primavera",
+      ".",
+      "celebración",
+      "festividad",
+      "tradicional",
+      "significativa",
+      "china",
+      ",",
+      "curiosamente",
+      ",",
+      "primer",
+      "año",
+      "conmemora",
+      "incluida",
+      "lista",
+      "patrimonio",
+      "cultural",
+      "inmaterial",
+      "unesco",
+      ".",
+      "periodo",
+      "festivo",
+      ",",
+      "lleva",
+      "cabo",
+      "“",
+      "chunyun",
+      "”",
+      ",",
+      "mayor",
+      "desplazamiento",
+      "migratorio",
+      "mundo",
+      ",",
+      "millones",
+      "personas",
+      "viajan",
+      "reunirse",
+      "seres",
+      "queridos",
+      ".",
+      "según",
+      "fuentes",
+      "oficiales",
+      ",",
+      "prevé",
+      "2025",
+      "510",
+      "millones",
+      "pasajeros",
+      "utilicen",
+      "sistema",
+      "ferroviario",
+      "14",
+      "enero",
+      "22",
+      "febrero",
+      ",",
+      "mientras",
+      "alrededor",
+      "90",
+      "millones",
+      "optarán",
+      "viajar",
+      "avión",
+      "."
+    ],
+    "token_count": 194,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "IN": 19,
+      "FW": 69,
+      "NN": 94,
+      "JJ": 21,
+      "CC": 1,
+      "MD": 1,
+      "VB": 1,
+      "CD": 6,
+      "VBZ": 6,
+      "NNS": 9,
+      "VBP": 5,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 21,
+      "NNP-IN": 3,
+      "IN-FW": 12,
+      "FW-NNP": 14,
+      "NNP-FW": 6,
+      "NNP-NN": 11,
+      "NN-NN": 56,
+      "NN-IN": 13,
+      "IN-NNP": 4,
+      "NN-NNP": 7,
+      "NN-JJ": 5,
+      "JJ-NN": 11,
+      "FW-FW": 38,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "FW-NN": 10,
+      "FW-JJ": 4,
+      "NN-FW": 6,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-FW": 1,
+      "NN-CD": 1,
+      "CD-IN": 2,
+      "JJ-JJ": 4,
+      "NNP-VBZ": 4,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 4,
+      "VBZ-NN": 2,
+      "NN-NNS": 3,
+      "JJ-FW": 3,
+      "NNS-JJ": 1,
+      "FW-NNS": 1,
+      "NNS-NNS": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "IN-NN": 1,
+      "NNS-IN": 1,
+      "NN-VBZ": 2,
+      "JJ-NNP": 1,
+      "VBZ-NNS": 1,
+      "NNS-FW": 2,
+      "IN-CD": 2,
+      "CD-NN": 1,
+      "CD-NNS": 2,
+      "JJ-CD": 1,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 3,
+      "IN-FW-NNP": 4,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 29,
+      "NN-NN-IN": 11,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 5,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 22,
+      "FW-FW-NNP": 6,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 7,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "JJ-NN-NN": 7,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "IN-FW-FW": 6,
+      "NNP-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NN-FW": 3,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-FW-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "VBZ-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "FW": 69,
+        "NNP": 48,
+        "JJ": 21,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 38,
+        "NNP-NNP": 21,
+        "FW-NNP": 14,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 22,
+        "NN-NN-IN": 11,
+        "NNP-NN-NN": 9,
+        "NNP-NNP-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 80,
+      "PP": 5,
+      "VP": 12
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('China', 'NNP')",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('Esta', 'NNP') ('celebración', 'NN') ('es', 'NN') ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('festividad', 'JJ') ('tradicional', 'JJ') ('más', 'NN') ('significativa', 'NN')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP PP (',', ',') NP NP ('del', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Bolivariana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP') ('felicitó', 'NN') ('al', 'NN') ('pueblo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela felicitó al pueblo"
+      },
+      {
+        "label": "PP",
+        "text": "de China por la celebración del Año Nuevo Chino"
+      },
+      {
+        "label": "NP",
+        "text": "China por la celebración del Año Nuevo Chino"
+      },
+      {
+        "label": "NP",
+        "text": "fecha que da inicio"
+      },
+      {
+        "label": "NP",
+        "text": "a la tradición"
+      },
+      {
+        "label": "NP",
+        "text": "Año"
+      },
+      {
+        "label": "NP",
+        "text": "Serpiente"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "pueblo y"
+      },
+      {
+        "label": "NP",
+        "text": "presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "VP",
+        "text": "el canciller bolivariano"
+      },
+      {
+        "label": "NP",
+        "text": "canciller bolivariano"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  de/IN\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP felicitó/NN al/NN pueblo/NN)\n  (PP\n    de/IN\n    (NP\n      China/NNP\n      por/NN\n      la/NN\n      celebración/NN\n      del/NN\n      Año/NNP\n      Nuevo/NNP\n      Chino/NNP))\n  ,/,\n  (NP fecha/NN que/NN da/NN inicio/NN)\n  (NP a/DT la/NN tradición/NN)\n  del/FW\n  (NP Año/NNP)\n  de/FW\n  la/FW\n  (NP Serpiente/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  nombre/CC\n  del/FW\n  (NP pueblo/NN y/NN)\n  del/FW\n  (NP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (VP el/VBZ (NP canciller/NN bolivariano/NN))\n  ,/,\n  (NP Yvan/NNP Gil/NNP)\n  participó/FW\n  de/FW\n  la/FW\n  celebración/FW\n  de/FW\n  la/FW\n  fecha/FW\n  ,/,\n  (NP junto/NN al/NN embajador/NN chino/NN)\n  en/IN\n  el/FW\n  (NP país/JJ suramericano/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP medio/NN)\n  de/FW\n  su/FW\n  (NP canal/NN)\n  de/FW\n  (NP Telegram/NNP)\n  ,/,\n  (NP subrayó/NN que/NN “/NNP)\n  (VP\n    es/VBZ\n    (NP un/JJ gran/NN honor/NN acompañar/NN)\n    (NP al/JJ hermano/NN embajador/NN))\n  (PP de/IN (NP China/NNP))\n  ,/,\n  (NP Lan/NNP Hu/NNP)\n  ,/,\n  (NP y/NNP)\n  otros/MD\n  (VP miembros/VB)\n  de/FW\n  su/FW\n  (NP distinguido/NN cuerpo/NN diplomático/NN)\n  ,/,\n  en/FW\n  la/FW\n  celebración/FW\n  del/FW\n  (NP Año/NNP Nuevo/NNP Chino/NNP)\n  ,/,\n  (NP que/NN da/NN inicio/NN al/NN Año/NNP)\n  de/IN\n  la/FW\n  (NP Serpiente/NNP este/NN)\n  29/CD\n  de/IN\n  enero/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Esta/NNP celebración/NN es/NN la/NN)\n  (NP festividad/JJ tradicional/JJ más/NN significativa/NN)\n  (PP en/IN (NP China/NNP))\n  ./.)",
+      "(S (NP Foto/NN) :/: (NP YvanGil/JJ Telegram/NNP) ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "GOBIERNOS_OFICIALES",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "tradición cultural",
+        "position": [
+          942,
+          960
+        ],
+        "start": 942,
+        "end": 960
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la república",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          208,
+          231
+        ],
+        "start": 208,
+        "end": 231
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unesco",
+        "position": [
+          1365,
+          1371
+        ],
+        "start": 1365,
+        "end": 1371
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de telegram",
+        "position": [
+          375,
+          392
+        ],
+        "start": 375,
+        "end": 392
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          394,
+          401
+        ],
+        "start": 394,
+        "end": 401
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          43,
+          52
+        ],
+        "start": 43,
+        "end": 52
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "510 millones",
+        "position": [
+          1604,
+          1616
+        ],
+        "start": 1604,
+        "end": 1616
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 510",
+        "position": [
+          1597,
+          1607
+        ],
+        "start": 1597,
+        "end": 1607
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 90",
+        "position": [
+          1716,
+          1731
+        ],
+        "start": 1716,
+        "end": 1731
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Lan Hu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "UNESCO",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de la República Bolivariana de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yvan Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Patrimonio Cultural",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de la República Bolivariana de Venezuela",
+        "relacion": "FELICITAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "PARTICIPAR",
+        "objeto": "Yvan Gil"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "EXTENDER_RESALTAR",
+        "objeto": "China"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.743,
+    "pos": 0.022,
+    "neu": 0.978,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

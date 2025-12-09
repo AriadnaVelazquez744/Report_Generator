@@ -1,0 +1,750 @@
+{
+  "url": "https://www.telesurtv.net/pescadores-venezuela-en-defensa-de-paz/",
+  "title": "En imágenes: Pescadores de Venezuela en defensa de la soberanía nacional",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "milicia",
+    "paz",
+    "pescadores",
+    "Soberanía",
+    "Venezuela"
+  ],
+  "text": "Pescadores bolivarianos han respondido en esta jornada de gran movilización popular para defender la paz y la soberanía nacional, ante las amenazas de Estados Unidos contra la nación sudamericana y toda la región.\n\nLa jornada nacional de alistamiento se lleva a cabo el sábado 23 de agosto y el domingo 24 en distintas latitudes del territorio venezolano, en el marco del Gran Plan Nacional de Soberanía y de Paz Simón Bolívar.\nDesde el estado Sucre, en el oriente de Venezuela, se difundieron imágenes del gran despliegue realizado en el mar por pescadores y distintos cuerpos de la Fuerza Armada Nacional Bolivariana (FANB).\n\n\nTambién en el estado Apure, ubicado en el sur-occidente del país, pescadores movilizados compartieron imágenes en el marco de la jornada de alistamiento nacional.\n\n\nEste alistamiento ocurre en un contexto internacional marcado por la amenaza de un despliegue militar estadounidense en el Caribe, que pone en peligro la Zona de Paz declarada para América Latina y el Caribe desde 2014.\nEl Gobierno bolivariano denuncia que se intenta vincular a su presidente con el narcotráfico para justificar un nuevo “capítulo de agresión armada”, lo que representa una nueva escalada de “guerra psicológica”, que ha sido rechazada por numerosos países.\nLa Declaración de América Latina y el Caribe como Zona de Paz, aprobada en 2014 durante la Cumbre de la CELAC en La Habana, refleja el compromiso regional de promover la resolución pacífica de conflictos y rechazar el uso o la amenaza de la fuerza.\nAsimismo, establece la obligación de los Estados de respetar la no intervención en los asuntos internos de otros países y cumplir con los principios de soberanía nacional y autodeterminación de los pueblos.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/pescadores-venezuela-en-defensa-de-paz/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 589,
+    "message_id": 102627,
+    "date": "2025-08-23T22:55:13+00:00",
+    "text": "teleSUR\nEn imágenes: Pescadores de Venezuela en defensa de la soberanía nacional\nhttps://www.telesurtv.net/pescadores-venezuela-en-defensa-de-paz/",
+    "photo_path": null,
+    "views": 2338,
+    "reactions": {
+      "👍": 55,
+      "❤": 10,
+      "🤔": 1,
+      "🎉": 1
+    },
+    "total_reactions": 67
+  },
+  "preprocessing": {
+    "cleaned": "pescadores bolivarianos han respondido en esta jornada de gran movilización popular para defender la paz y la soberanía nacional, ante las amenazas de estados unidos contra la nación sudamericana y toda la región. la jornada nacional de alistamiento se lleva a cabo el sábado 23 de agosto y el domingo 24 en distintas latitudes del territorio venezolano, en el marco del gran plan nacional de soberanía y de paz simón bolívar. desde el estado sucre, en el oriente de venezuela, se difundieron imágenes del gran despliegue realizado en el mar por pescadores y distintos cuerpos de la fuerza armada nacional bolivariana (fanb). también en el estado apure, ubicado en el sur-occidente del país, pescadores movilizados compartieron imágenes en el marco de la jornada de alistamiento nacional. este alistamiento ocurre en un contexto internacional marcado por la amenaza de un despliegue militar estadounidense en el caribe, que pone en peligro la zona de paz declarada para américa latina y el caribe desde 2014. el gobierno bolivariano denuncia que se intenta vincular a su presidente con el narcotráfico para justificar un nuevo “capítulo de agresión armada”, lo que representa una nueva escalada de “guerra psicológica”, que ha sido rechazada por numerosos países. la declaración de américa latina y el caribe como zona de paz, aprobada en 2014 durante la cumbre de la celac en la habana, refleja el compromiso regional de promover la resolución pacífica de conflictos y rechazar el uso o la amenaza de la fuerza. asimismo, establece la obligación de los estados de respetar la no intervención en los asuntos internos de otros países y cumplir con los principios de soberanía nacional y autodeterminación de los pueblos.",
+    "tokens": [
+      "pescadores",
+      "bolivarianos",
+      "respondido",
+      "jornada",
+      "gran",
+      "movilización",
+      "popular",
+      "defender",
+      "paz",
+      "soberanía",
+      "nacional",
+      ",",
+      "amenazas",
+      "unidos",
+      "nación",
+      "sudamericana",
+      "toda",
+      "región",
+      ".",
+      "jornada",
+      "nacional",
+      "alistamiento",
+      "lleva",
+      "cabo",
+      "sábado",
+      "23",
+      "agosto",
+      "domingo",
+      "24",
+      "distintas",
+      "latitudes",
+      "territorio",
+      "venezolano",
+      ",",
+      "marco",
+      "gran",
+      "plan",
+      "nacional",
+      "soberanía",
+      "paz",
+      "simón",
+      "bolívar",
+      ".",
+      "sucre",
+      ",",
+      "oriente",
+      "venezuela",
+      ",",
+      "difundieron",
+      "imágenes",
+      "gran",
+      "despliegue",
+      "realizado",
+      "mar",
+      "pescadores",
+      "distintos",
+      "cuerpos",
+      "fuerza",
+      "armada",
+      "nacional",
+      "bolivariana",
+      "(",
+      "fanb",
+      ")",
+      ".",
+      "apure",
+      ",",
+      "ubicado",
+      "sur-occidente",
+      "país",
+      ",",
+      "pescadores",
+      "movilizados",
+      "compartieron",
+      "imágenes",
+      "marco",
+      "jornada",
+      "alistamiento",
+      "nacional",
+      ".",
+      "alistamiento",
+      "ocurre",
+      "contexto",
+      "internacional",
+      "marcado",
+      "amenaza",
+      "despliegue",
+      "militar",
+      "estadounidense",
+      "caribe",
+      ",",
+      "pone",
+      "peligro",
+      "zona",
+      "paz",
+      "declarada",
+      "américa",
+      "latina",
+      "caribe",
+      "2014.",
+      "gobierno",
+      "bolivariano",
+      "denuncia",
+      "intenta",
+      "vincular",
+      "presidente",
+      "narcotráfico",
+      "justificar",
+      "nuevo",
+      "“",
+      "capítulo",
+      "agresión",
+      "armada",
+      "”",
+      ",",
+      "representa",
+      "nueva",
+      "escalada",
+      "“",
+      "guerra",
+      "psicológica",
+      "”",
+      ",",
+      "sido",
+      "rechazada",
+      "numerosos",
+      "países",
+      ".",
+      "declaración",
+      "américa",
+      "latina",
+      "caribe",
+      "zona",
+      "paz",
+      ",",
+      "aprobada",
+      "2014",
+      "cumbre",
+      "celac",
+      "habana",
+      ",",
+      "refleja",
+      "compromiso",
+      "regional",
+      "promover",
+      "resolución",
+      "pacífica",
+      "conflictos",
+      "rechazar",
+      "uso",
+      "amenaza",
+      "fuerza",
+      ".",
+      "asimismo",
+      ",",
+      "establece",
+      "obligación",
+      "respetar",
+      "intervención",
+      "asuntos",
+      "internos",
+      "países",
+      "cumplir",
+      "principios",
+      "soberanía",
+      "nacional",
+      "autodeterminación",
+      "pueblos",
+      "."
+    ],
+    "token_count": 169,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 8,
+      "VBP": 4,
+      "JJ": 29,
+      "NN": 71,
+      "IN": 17,
+      "FW": 78,
+      "VBD": 4,
+      "NNP": 43,
+      "CD": 4,
+      "VBZ": 5,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNS-VBP": 4,
+      "VBP-JJ": 2,
+      "JJ-NN": 14,
+      "NN-IN": 11,
+      "IN-FW": 12,
+      "FW-NN": 10,
+      "FW-FW": 43,
+      "FW-JJ": 6,
+      "NN-NN": 36,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "NN-NNS": 4,
+      "VBP-IN": 1,
+      "IN-NNP": 3,
+      "NNP-NNP": 17,
+      "NNP-JJ": 3,
+      "NN-FW": 6,
+      "FW-NNP": 15,
+      "JJ-FW": 5,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "FW-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 4,
+      "NNP-FW": 10,
+      "NNP-VBZ": 1,
+      "JJ-NNP": 2,
+      "NNS-FW": 1,
+      "VBP-NN": 1,
+      "NN-VBZ": 3,
+      "NNS-IN": 2,
+      "IN-JJ": 2,
+      "NNP-NN": 8,
+      "JJ-JJ": 7,
+      "NN-NNP": 2,
+      "NNP-VBD": 2,
+      "VBD-NNP": 2,
+      "NN-CD": 2,
+      "CD-NNP": 1,
+      "NN-JJ": 4,
+      "VBZ-NNP": 1,
+      "NNP-IN": 2,
+      "CD-NN": 1,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "JJ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 10,
+      "IN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 19,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 5,
+      "NNP-JJ-FW": 2,
+      "JJ-FW-FW": 5,
+      "FW-FW-FW": 27,
+      "FW-FW-NN": 3,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-IN": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-FW": 7,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 5,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-JJ": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "FW-NNP-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NNP": 2,
+      "VBD-NNP-NN": 2,
+      "NNP-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 1,
+      "NN-JJ-JJ": 3,
+      "IN-FW-JJ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "JJ-JJ-FW": 1,
+      "FW-JJ-FW": 1,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-JJ": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 78,
+        "NN": 71,
+        "NNP": 43,
+        "JJ": 29,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 36,
+        "NNP-NNP": 17,
+        "FW-NNP": 15,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 19,
+        "NN-IN-FW": 10,
+        "FW-FW-NNP": 7,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 10,
+      "ADJP": 11,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "ADJP -> ('nacional', 'JJ')",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "VP -> ('el', 'VBD') NP",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "S -> NP VP ('en', 'IN') ('esta', 'FW') NP ('de', 'IN') ('gran', 'FW') ('movilización', 'FW') NP ('paz', 'FW') NP ('la', 'FW') ADJP ADJP (',', ',') ADJP ('las', 'FW') ('amenazas', 'FW') ('de', 'FW') NP NP ('nación', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Pescadores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "VP -> ('bolivarianos', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('han', 'JJ') ('respondido', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('jornada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('popular', 'JJ') ('para', 'NN') ('defender', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Pescadores"
+      },
+      {
+        "label": "VP",
+        "text": "bolivarianos han respondido"
+      },
+      {
+        "label": "NP",
+        "text": "han respondido"
+      },
+      {
+        "label": "NP",
+        "text": "jornada"
+      },
+      {
+        "label": "NP",
+        "text": "popular para defender la"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "ADJP",
+        "text": "soberanía"
+      },
+      {
+        "label": "ADJP",
+        "text": "nacional"
+      },
+      {
+        "label": "ADJP",
+        "text": "ante"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "contra la"
+      },
+      {
+        "label": "NP",
+        "text": "sudamericana y toda la región"
+      },
+      {
+        "label": "NP",
+        "text": "La jornada"
+      },
+      {
+        "label": "ADJP",
+        "text": "nacional"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo el"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Pescadores/NNS)\n  (VP bolivarianos/VBP (NP han/JJ respondido/NN))\n  en/IN\n  esta/FW\n  (NP jornada/NN)\n  de/IN\n  gran/FW\n  movilización/FW\n  (NP popular/JJ para/NN defender/NN la/NN)\n  paz/FW\n  (NP y/NN)\n  la/FW\n  (ADJP soberanía/JJ)\n  (ADJP nacional/JJ)\n  ,/,\n  (ADJP ante/JJ)\n  las/FW\n  amenazas/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (NP contra/JJ la/NN)\n  nación/FW\n  (NP sudamericana/NN y/NN toda/NN la/NN región/NN)\n  ./.)",
+      "(S\n  (NP La/NNP jornada/NNP)\n  (ADJP nacional/JJ)\n  de/FW\n  alistamiento/FW\n  se/FW\n  lleva/FW\n  (NP a/DT cabo/NN el/NN)\n  (VP sábado/VBD)\n  23/CD\n  de/IN\n  agosto/FW\n  y/FW\n  el/FW\n  domingo/FW\n  24/CD\n  en/FW\n  (NP distintas/NNS)\n  (VP latitudes/VBZ (NP del/JJ territorio/NN venezolano/NN))\n  ,/,\n  en/FW\n  el/FW\n  marco/FW\n  del/FW\n  (NP Gran/NNP Plan/NNP Nacional/NNP)\n  de/FW\n  (NP Soberanía/NNP)\n  y/FW\n  de/FW\n  (NP Paz/NNP Simón/NNP Bolívar/NNP)\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  el/CC\n  (NP estado/JJ Sucre/NNP)\n  ,/,\n  en/FW\n  el/FW\n  oriente/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (VP se/VBD (NP difundieron/NN imágenes/NNS))\n  del/FW\n  (NP gran/NN despliegue/NN realizado/NN)\n  en/IN\n  el/FW\n  mar/FW\n  (NP por/NN pescadores/NNS)\n  (VP y/VBP (NP distintos/JJ cuerpos/NN))\n  de/IN\n  la/FW\n  (NP Fuerza/NNP Armada/NNP Nacional/NNP Bolivariana/NNP)\n  (/(\n  (NP FANB/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP También/NNP)\n  en/CC\n  el/FW\n  (NP estado/JJ Apure/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  el/FW\n  (NP sur-occidente/JJ del/NN país/NN)\n  ,/,\n  (VP\n    pescadores/VBZ\n    (NP movilizados/JJ compartieron/NN imágenes/NNS))\n  en/IN\n  (ADJP el/JJ)\n  marco/FW\n  de/FW\n  la/FW\n  jornada/FW\n  de/FW\n  alistamiento/FW\n  (ADJP nacional/JJ)\n  ./.)",
+      "(S\n  (NP Este/NN)\n  alistamiento/IN\n  (ADJP ocurre/JJ)\n  en/FW\n  (NP un/JJ contexto/NN)\n  (NP internacional/JJ marcado/NN por/NN)\n  la/FW\n  amenaza/FW\n  de/FW\n  un/FW\n  (NP despliegue/NN militar/NN estadounidense/NN)\n  (PP en/IN (NP el/NN Caribe/NNP))\n  ,/,\n  (NP que/NN pone/NN)\n  en/FW\n  (NP peligro/NN)\n  la/FW\n  (NP Zona/NNP)\n  de/FW\n  (NP Paz/NNP declarada/NN para/NN América/NNP Latina/NNP y/NNP)\n  (VP el/VBD (NP Caribe/NNP desde/NN))\n  2014/CD\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "FECHAS_ESPECIFICAS",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente con el",
+        "position": [
+          1076,
+          1093
+        ],
+        "start": 1076,
+        "end": 1093
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "celac",
+        "position": [
+          1373,
+          1378
+        ],
+        "start": 1373,
+        "end": 1378
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          539,
+          542
+        ],
+        "start": 539,
+        "end": 542
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          151,
+          165
+        ],
+        "start": 151,
+        "end": 165
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          468,
+          477
+        ],
+        "start": 468,
+        "end": 477
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          98,
+          104
+        ],
+        "start": 98,
+        "end": 104
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la habana",
+        "position": [
+          1382,
+          1391
+        ],
+        "start": 1382,
+        "end": 1391
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          917,
+          923
+        ],
+        "start": 917,
+        "end": 923
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado sucre",
+        "position": [
+          437,
+          449
+        ],
+        "start": 437,
+        "end": 449
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "sábado 23 de agosto",
+        "position": [
+          270,
+          289
+        ],
+        "start": 270,
+        "end": 289
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          110,
+          128
+        ],
+        "start": 110,
+        "end": 128
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "FANB",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zona de Paz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerza Armada Nacional Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estado Sucre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Paz Simón Bolívar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "el Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estado Apure",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "estado Sucre",
+        "relacion": "DIFUNDIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "estado Sucre",
+        "relacion": "DIFUNDIR",
+        "objeto": "Fuerza Armada Nacional Bolivariana"
+      },
+      {
+        "sujeto": "estado Sucre",
+        "relacion": "DIFUNDIR",
+        "objeto": "FANB"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DIFUNDIR",
+        "objeto": "Fuerza Armada Nacional Bolivariana"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DIFUNDIR",
+        "objeto": "FANB"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5267,
+    "pos": 0.025,
+    "neu": 0.967,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

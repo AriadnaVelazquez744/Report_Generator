@@ -1,0 +1,730 @@
+{
+  "url": "https://www.telesurtv.net/continuan-las-muertes-por-bombardeos-de-israel-en-varias-zonas-de-gaza/",
+  "title": "Continúan las muertes por bombardeos de Israel en varias zonas de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bombardeos de Israel",
+    "Gaza",
+    "Muertes"
+  ],
+  "text": "Autoridades palestinas informaron este martes que al menos 49 civiles murieron debido a los ataques aéreos de Israel, contra diferentes zonas de la Franja de Gaza.\nAsimismo, detallaron que los ataques del Ejército de ocupación a diversas zonas y tiendas de campaña de desplazados en Khan Yunis, causaron 18 muertos entre ellos ocho niños.\nDe igual forma, en la zona de Al-Shuaf, en el barrio de Al-Tuffah, al este de la ciudad de Gaza durante una incursión aérea contra un grupo de civiles cuatro palestinos perdieron también la vida y varios resultaron heridos.\nTambién en el barrio de Al-Zaytoun, al sureste de la ciudad se produjeron ataques del Ejército israelí, que agredió una casa en las proximidades de la mezquita Beersheba, al norte del barrio de Sheikh Radwan.\nSe reportó un bombardeo a las zonas del sur del barrio de Al-Sabra, en la ciudad de Gaza y de igual manera en el centro de la Franja, vehículos militares dispararon hacia el área de Al-Daawa y las inmediaciones de la planta eléctrica al noreste del campo de refugiados de Al-Nuseirat.\nMientras que una persona falleció y varios sufrieron lesiones cuando aviones  de Israel bombardearon una casa en la calle Gaza Vieja de Jabalia, en el norte del sector.\nEl Ministerio de Salud palestino, reportó  hasta el momento más de 45. 885 muertos y 109. 196 heridos, el número de víctimas por la agresión  de Israel  desde el 7 de octubre de 2023.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/continuan-las-muertes-por-bombardeos-de-israel-en-varias-zonas-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1794,
+    "message_id": 83844,
+    "date": "2025-01-08T02:55:29+00:00",
+    "text": "teleSUR\nContinúan las muertes por bombardeos de Israel en varias zonas de Gaza\nhttps://www.telesurtv.net/continuan-las-muertes-por-bombardeos-de-israel-en-varias-zonas-de-gaza/",
+    "photo_path": null,
+    "views": 2858,
+    "reactions": {
+      "🤬": 57,
+      "😡": 7
+    },
+    "total_reactions": 64
+  },
+  "preprocessing": {
+    "cleaned": "autoridades palestinas informaron este martes que al menos 49 civiles murieron debido a los ataques aéreos de israel, contra diferentes zonas de la franja de gaza. asimismo, detallaron que los ataques del ejército de ocupación a diversas zonas y tiendas de campaña de desplazados en khan yunis, causaron 18 muertos entre ellos ocho niños. de igual forma, en la zona de al-shuaf, en el barrio de al-tuffah, al este de la ciudad de gaza durante una incursión aérea contra un grupo de civiles cuatro palestinos perdieron también la vida y varios resultaron heridos. también en el barrio de al-zaytoun, al sureste de la ciudad se produjeron ataques del ejército israelí, que agredió una casa en las proximidades de la mezquita beersheba, al norte del barrio de sheikh radwan. se reportó un bombardeo a las zonas del sur del barrio de al-sabra, en la ciudad de gaza y de igual manera en el centro de la franja, vehículos militares dispararon hacia el área de al-daawa y las inmediaciones de la planta eléctrica al noreste del campo de refugiados de al-nuseirat. mientras que una persona falleció y varios sufrieron lesiones cuando aviones de israel bombardearon una casa en la calle gaza vieja de jabalia, en el norte del sector. el ministerio de salud palestino, reportó hasta el momento más de 45. 885 muertos y 109. 196 heridos, el número de víctimas por la agresión de israel desde el 7 de octubre de 2023.",
+    "tokens": [
+      "autoridades",
+      "palestinas",
+      "informaron",
+      "martes",
+      "menos",
+      "49",
+      "civiles",
+      "murieron",
+      "debido",
+      "ataques",
+      "aéreos",
+      "israel",
+      ",",
+      "diferentes",
+      "zonas",
+      "franja",
+      "gaza",
+      ".",
+      "asimismo",
+      ",",
+      "detallaron",
+      "ataques",
+      "ejército",
+      "ocupación",
+      "diversas",
+      "zonas",
+      "tiendas",
+      "campaña",
+      "desplazados",
+      "khan",
+      "yunis",
+      ",",
+      "causaron",
+      "18",
+      "muertos",
+      "ocho",
+      "niños",
+      ".",
+      "igual",
+      "forma",
+      ",",
+      "zona",
+      "al-shuaf",
+      ",",
+      "barrio",
+      "al-tuffah",
+      ",",
+      "ciudad",
+      "gaza",
+      "incursión",
+      "aérea",
+      "grupo",
+      "civiles",
+      "cuatro",
+      "palestinos",
+      "perdieron",
+      "vida",
+      "varios",
+      "resultaron",
+      "heridos",
+      ".",
+      "barrio",
+      "al-zaytoun",
+      ",",
+      "sureste",
+      "ciudad",
+      "produjeron",
+      "ataques",
+      "ejército",
+      "israelí",
+      ",",
+      "agredió",
+      "casa",
+      "proximidades",
+      "mezquita",
+      "beersheba",
+      ",",
+      "norte",
+      "barrio",
+      "sheikh",
+      "radwan",
+      ".",
+      "reportó",
+      "bombardeo",
+      "zonas",
+      "sur",
+      "barrio",
+      "al-sabra",
+      ",",
+      "ciudad",
+      "gaza",
+      "igual",
+      "manera",
+      "centro",
+      "franja",
+      ",",
+      "vehículos",
+      "militares",
+      "dispararon",
+      "hacia",
+      "área",
+      "al-daawa",
+      "inmediaciones",
+      "planta",
+      "eléctrica",
+      "noreste",
+      "campo",
+      "refugiados",
+      "al-nuseirat",
+      ".",
+      "mientras",
+      "persona",
+      "falleció",
+      "varios",
+      "sufrieron",
+      "lesiones",
+      "aviones",
+      "israel",
+      "bombardearon",
+      "casa",
+      "calle",
+      "gaza",
+      "vieja",
+      "jabalia",
+      ",",
+      "norte",
+      "sector",
+      ".",
+      "ministerio",
+      "salud",
+      "palestino",
+      ",",
+      "reportó",
+      "momento",
+      "45",
+      ".",
+      "885",
+      "muertos",
+      "109",
+      ".",
+      "196",
+      "heridos",
+      ",",
+      "número",
+      "víctimas",
+      "agresión",
+      "israel",
+      "7",
+      "octubre",
+      "2023",
+      "."
+    ],
+    "token_count": 151,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "VBP": 11,
+      "NN": 50,
+      "VBZ": 1,
+      "JJ": 23,
+      "NNS": 16,
+      "CD": 7,
+      "RB": 1,
+      "IN": 21,
+      "FW": 66,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NN": 20,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 6,
+      "JJ-NNS": 4,
+      "NNS-CD": 2,
+      "CD-NNS": 3,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 5,
+      "NNS-VBP": 9,
+      "VBP-IN": 2,
+      "IN-NNP": 10,
+      "NNP-NN": 9,
+      "NN-NNS": 6,
+      "IN-FW": 8,
+      "FW-NNP": 11,
+      "NNP-FW": 9,
+      "NNP-NNP": 8,
+      "VBP-NNP": 2,
+      "FW-FW": 41,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "NNS-JJ": 2,
+      "JJ-FW": 2,
+      "FW-NN": 9,
+      "NN-FW": 6,
+      "NN-IN": 12,
+      "NNP-JJ": 4,
+      "JJ-NN": 10,
+      "NN-JJ": 4,
+      "IN-NNS": 1,
+      "FW-NNS": 1,
+      "JJ-NNP": 1,
+      "FW-JJ": 1,
+      "FW-IN": 3,
+      "NNS-IN": 2,
+      "VBP-NNS": 1,
+      "NNP-IN": 2,
+      "NN-NNP": 1,
+      "IN-CD": 2,
+      "CD-CD": 2,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 6,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 10,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 6,
+      "FW-FW-FW": 26,
+      "FW-FW-NNP": 8,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-IN": 3,
+      "NN-IN-NNP": 4,
+      "IN-NNP-JJ": 3,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 6,
+      "FW-NNP-NN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 3,
+      "NN-NN-FW": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NN-NNS": 1,
+      "VBP-NNP-NN": 1,
+      "NN-JJ-NN": 3,
+      "NN-FW-NN": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 1,
+      "NNP-NN-JJ": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NN-IN": 3,
+      "IN-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-FW-IN": 1,
+      "FW-IN-NNP": 2,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "FW-FW-IN": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 66,
+        "NN": 50,
+        "NNP": 34,
+        "JJ": 23,
+        "IN": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 20,
+        "NN-IN": 12,
+        "FW-NNP": 11,
+        "IN-NNP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 10,
+        "FW-FW-NNP": 8,
+        "NN-NNS-VBP": 6,
+        "NNP-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 12,
+      "PP": 10,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 10,
+        "weight": 0.098
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN')",
+        "frequency": 3,
+        "weight": 0.0294
+      },
+      {
+        "rule": "NP -> ('civiles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('muertos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('casa', 'NN')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "S -> NP VP VP ('49', 'CD') NP ('murieron', 'RB') VP PP (',', ',') NP ('zonas', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0098
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "VP",
+        "text": "palestinas informaron este"
+      },
+      {
+        "label": "NP",
+        "text": "informaron este"
+      },
+      {
+        "label": "VP",
+        "text": "martes que al menos"
+      },
+      {
+        "label": "NP",
+        "text": "que al menos"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "VP",
+        "text": "debido a los ataques aéreos"
+      },
+      {
+        "label": "NP",
+        "text": "a los"
+      },
+      {
+        "label": "NP",
+        "text": "ataques aéreos"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "contra diferentes"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Asimismo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  (VP palestinas/VBP (NP informaron/NN este/NN))\n  (VP martes/VBZ (NP que/JJ al/JJ menos/NNS))\n  49/CD\n  (NP civiles/NNS)\n  murieron/RB\n  (VP debido/VBP (NP a/DT los/NN) (NP ataques/JJ aéreos/NN))\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP contra/JJ diferentes/NNS)\n  zonas/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP detallaron/NN que/NN los/NN ataques/NNS)\n  (VP del/VBP (NP Ejército/NNP))\n  de/FW\n  ocupación/FW\n  (NP a/DT diversas/NN zonas/NN y/NN tiendas/NN)\n  de/IN\n  campaña/FW\n  de/FW\n  desplazados/FW\n  en/FW\n  (NP Khan/NNP Yunis/NNP)\n  ,/,\n  (VP causaron/VBD)\n  18/CD\n  (NP muertos/NNS)\n  (NP entre/JJ ellos/JJ ocho/JJ niños/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ forma/NN)\n  ,/,\n  en/FW\n  la/FW\n  zona/FW\n  de/FW\n  (NP Al-Shuaf/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Al-Tuffah/NNP))\n  ,/,\n  (NP al/JJ este/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP durante/NN una/NN incursión/NN)\n  (NP aérea/JJ contra/JJ un/JJ grupo/NN)\n  (PP de/IN (NP civiles/NNS))\n  (VP cuatro/VBP (NP palestinos/JJ perdieron/NN también/NN la/NN))\n  vida/FW\n  (NP y/NN varios/NNS)\n  (VP resultaron/VBP (NP heridos/NN))\n  ./.)",
+      "(S\n  (NP También/NNP)\n  en/CC\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Al-Zaytoun/NNP))\n  ,/,\n  (NP al/JJ sureste/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  se/FW\n  (NP produjeron/NN ataques/NNS)\n  (VP del/VBP (NP Ejército/NNP israelí/NN))\n  ,/,\n  (NP que/JJ agredió/NN)\n  (NP una/JJ casa/NN)\n  en/IN\n  las/FW\n  proximidades/FW\n  de/FW\n  la/FW\n  mezquita/FW\n  (NP Beersheba/NNP)\n  ,/,\n  (NP al/JJ norte/JJ del/NN barrio/NN)\n  (PP de/IN (NP Sheikh/NNP Radwan/NNP))\n  ./.)",
+      "(S\n  (NP Se/NNP reportó/NN)\n  (NP un/JJ bombardeo/NN)\n  (NP a/DT las/JJ zonas/NN del/NN sur/NN)\n  del/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Al-Sabra/NNP))\n  ,/,\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  y/FW\n  de/FW\n  (NP igual/JJ manera/NN)\n  en/IN\n  el/FW\n  centro/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  ,/,\n  (NP vehículos/NN militares/NNS)\n  (VP dispararon/VBP hacia/JJ el/JJ)\n  área/FW\n  (PP de/IN (NP Al-Daawa/NNP y/NNP))\n  (NP las/JJ inmediaciones/NNS)\n  de/IN\n  la/FW\n  planta/FW\n  eléctrica/FW\n  al/FW\n  (NP noreste/NN)\n  del/FW\n  (NP campo/NN)\n  de/FW\n  refugiados/FW\n  (PP de/IN (NP Al-Nuseirat/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          217,
+          226
+        ],
+        "start": 217,
+        "end": 226
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "calle",
+        "position": [
+          1173,
+          1178
+        ],
+        "start": 1173,
+        "end": 1178
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          658,
+          665
+        ],
+        "start": 658,
+        "end": 665
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          361,
+          368
+        ],
+        "start": 361,
+        "end": 368
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          385,
+          394
+        ],
+        "start": 385,
+        "end": 394
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          885,
+          894
+        ],
+        "start": 885,
+        "end": 894
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1388,
+          1408
+        ],
+        "start": 1388,
+        "end": 1408
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 45",
+        "position": [
+          1286,
+          1295
+        ],
+        "start": 1286,
+        "end": 1295
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Sabra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Shuaf",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza Vieja de Jabalia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheikh Radwan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "mezquita Beersheba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Tuffah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Nuseirat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al-Zaytoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Daawa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud palestino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Al-Shuaf",
+        "relacion": "DE_PERDER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Al-Tuffah",
+        "relacion": "DE_PERDER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Al-Zaytoun",
+        "relacion": "TAMBI_N_PRODUCIR",
+        "objeto": "mezquita Beersheba"
+      },
+      {
+        "sujeto": "Al-Zaytoun",
+        "relacion": "TAMBI_N_PRODUCIR",
+        "objeto": "Sheikh Radwan"
+      },
+      {
+        "sujeto": "mezquita Beersheba",
+        "relacion": "AGREDIR_PRODUCIR",
+        "objeto": "Sheikh Radwan"
+      },
+      {
+        "sujeto": "Al-Sabra",
+        "relacion": "REPORTAR",
+        "objeto": "Al-Daawa"
+      },
+      {
+        "sujeto": "Al-Sabra",
+        "relacion": "REPORTAR",
+        "objeto": "Al-Nuseirat"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REPORTAR",
+        "objeto": "Al-Daawa"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REPORTAR",
+        "objeto": "Al-Nuseirat"
+      },
+      {
+        "sujeto": "Franja",
+        "relacion": "REPORTAR",
+        "objeto": "Al-Daawa"
+      },
+      {
+        "sujeto": "Franja",
+        "relacion": "REPORTAR",
+        "objeto": "Al-Nuseirat"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "BOMBARDEAR_SUFRIR_FALLECER",
+        "objeto": "Gaza Vieja de Jabalia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

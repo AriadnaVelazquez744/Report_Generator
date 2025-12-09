@@ -1,0 +1,920 @@
+{
+  "url": "https://www.telesurtv.net/hambruna-en-gaza-turk-denuncia-crimen-guerra/",
+  "title": "Hambruna en Gaza: Alto Comisionado de ONU para los DD.HH. denuncia crimen de guerra por Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Hambruna",
+    "Israel"
+  ],
+  "text": "El Alto Comisionado de la ONU para los Derechos Humanos, Volker Türk, acusó directamente al Gobierno de Israel de provocar la hambruna declarada en la gobernación de Gaza, y advirtió que emplear el hambre como herramienta en un conflicto armado constituye un crimen de guerra. Según Türk, las restricciones impuestas por Israel a la entrada y distribución de ayuda humanitaria esencial —comida, agua, medicinas, electricidad y combustible— son la causa principal de esta emergencia humanitaria gravísima.\n\nUn informe del Integrated Food Security Phase Classification (IPC) confirmó que más de 514.000 personas —casi una cuarta parte de la población de Gaza— están sumidas en la hambruna, con una proyección que eleva esta cifra a 641.00 para finales de septiembre.\nEl Ministerio de Salud de Gaza denunció este jueves que se registraron dos muertes más por inanición y desnutrición, con lo cual se elevó a 271 la cifra de víctimas por la hambruna deliberadamente generada por la entidad sionista, entre ellos 112 niños.\nPese a esto, Israel rechazó categóricamente las conclusiones del IPC, afirmando que los datos son sesgados y provienen de fuentes vinculadas al movimiento Hamás, al tiempo que asegura haber facilitado envíos de ayuda recientes, en su habitual demagogia, dentro de un mundo que pide fin al genocidio que el ente sionista está librando.\nLa comunidad internacional ha elevado sus alarmas: el secretario general de la ONU, António Guterres, denunció el hecho como un desastre provocado por el hombre y una incapacidad moral global. Además, también llamó la atención sobre un modelo de distribución de ayuda gestionado con criterios militares, que agrava el hambre y pone en riesgo a civiles que intentan acceder a los escasos recursos disponibles.\nPor otra parte, informes anteriores ya habían señalado que impedir el ingreso de alimentos podría calificarse como crimen de guerra bajo el Derecho Internacional Humanitario, y que este tipo de estrategias —denominadas “castigo colectivo”— violan los Convenios de Ginebra y el Estatuto de Roma.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hambruna-en-gaza-turk-denuncia-crimen-guerra/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 724,
+    "message_id": 102467,
+    "date": "2025-08-22T14:55:07+00:00",
+    "text": "teleSUR\nHambruna en Gaza: Alto Comisionado de ONU para los DD.HH. denuncia crimen de guerra por Israel\nhttps://www.telesurtv.net/hambruna-en-gaza-turk-denuncia-crimen-guerra/",
+    "photo_path": null,
+    "views": 1802,
+    "reactions": {
+      "👍": 22,
+      "😭": 11,
+      "❤": 1,
+      "🤬": 1
+    },
+    "total_reactions": 35
+  },
+  "preprocessing": {
+    "cleaned": "el alto comisionado de la onu para los derechos humanos, volker türk, acusó directamente al gobierno de israel de provocar la hambruna declarada en la gobernación de gaza, y advirtió que emplear el hambre como herramienta en un conflicto armado constituye un crimen de guerra. según türk, las restricciones impuestas por israel a la entrada y distribución de ayuda humanitaria esencial —comida, agua, medicinas, electricidad y combustible— son la causa principal de esta emergencia humanitaria gravísima. un informe del integrated food security phase classification (ipc) confirmó que más de 514.000 personas —casi una cuarta parte de la población de gaza— están sumidas en la hambruna, con una proyección que eleva esta cifra a 641.00 para finales de septiembre. el ministerio de salud de gaza denunció este jueves que se registraron dos muertes más por inanición y desnutrición, con lo cual se elevó a 271 la cifra de víctimas por la hambruna deliberadamente generada por la entidad sionista, entre ellos 112 niños. pese a esto, israel rechazó categóricamente las conclusiones del ipc, afirmando que los datos son sesgados y provienen de fuentes vinculadas al movimiento hamás, al tiempo que asegura haber facilitado envíos de ayuda recientes, en su habitual demagogia, dentro de un mundo que pide fin al genocidio que el ente sionista está librando. la comunidad internacional ha elevado sus alarmas: el secretario general de la onu, antónio guterres, denunció el hecho como un desastre provocado por el hombre y una incapacidad moral global. además, también llamó la atención sobre un modelo de distribución de ayuda gestionado con criterios militares, que agrava el hambre y pone en riesgo a civiles que intentan acceder a los escasos recursos disponibles. por otra parte, informes anteriores ya habían señalado que impedir el ingreso de alimentos podría calificarse como crimen de guerra bajo el derecho internacional humanitario, y que este tipo de estrategias —denominadas “castigo colectivo”— violan los convenios de ginebra y el estatuto de roma.",
+    "tokens": [
+      "alto",
+      "comisionado",
+      "onu",
+      "derechos",
+      "humanos",
+      ",",
+      "volker",
+      "türk",
+      ",",
+      "acusó",
+      "directamente",
+      "gobierno",
+      "israel",
+      "provocar",
+      "hambruna",
+      "declarada",
+      "gobernación",
+      "gaza",
+      ",",
+      "advirtió",
+      "emplear",
+      "hambre",
+      "herramienta",
+      "conflicto",
+      "armado",
+      "constituye",
+      "crimen",
+      "guerra",
+      ".",
+      "según",
+      "türk",
+      ",",
+      "restricciones",
+      "impuestas",
+      "israel",
+      "entrada",
+      "distribución",
+      "ayuda",
+      "humanitaria",
+      "esencial",
+      "—comida",
+      ",",
+      "agua",
+      ",",
+      "medicinas",
+      ",",
+      "electricidad",
+      "combustible—",
+      "causa",
+      "principal",
+      "emergencia",
+      "humanitaria",
+      "gravísima",
+      ".",
+      "informe",
+      "integrated",
+      "food",
+      "security",
+      "phase",
+      "classification",
+      "(",
+      "ipc",
+      ")",
+      "confirmó",
+      "514.000",
+      "personas",
+      "—casi",
+      "cuarta",
+      "parte",
+      "población",
+      "gaza—",
+      "sumidas",
+      "hambruna",
+      ",",
+      "proyección",
+      "eleva",
+      "cifra",
+      "641.00",
+      "finales",
+      "septiembre",
+      ".",
+      "ministerio",
+      "salud",
+      "gaza",
+      "denunció",
+      "jueves",
+      "registraron",
+      "dos",
+      "muertes",
+      "inanición",
+      "desnutrición",
+      ",",
+      "elevó",
+      "271",
+      "cifra",
+      "víctimas",
+      "hambruna",
+      "deliberadamente",
+      "generada",
+      "entidad",
+      "sionista",
+      ",",
+      "112",
+      "niños",
+      ".",
+      "pese",
+      ",",
+      "israel",
+      "rechazó",
+      "categóricamente",
+      "conclusiones",
+      "ipc",
+      ",",
+      "afirmando",
+      "datos",
+      "sesgados",
+      "provienen",
+      "fuentes",
+      "vinculadas",
+      "movimiento",
+      "hamás",
+      ",",
+      "tiempo",
+      "asegura",
+      "haber",
+      "facilitado",
+      "envíos",
+      "ayuda",
+      "recientes",
+      ",",
+      "habitual",
+      "demagogia",
+      ",",
+      "dentro",
+      "mundo",
+      "pide",
+      "fin",
+      "genocidio",
+      "ente",
+      "sionista",
+      "librando",
+      ".",
+      "comunidad",
+      "internacional",
+      "elevado",
+      "alarmas",
+      ":",
+      "secretario",
+      "general",
+      "onu",
+      ",",
+      "antónio",
+      "guterres",
+      ",",
+      "denunció",
+      "hecho",
+      "desastre",
+      "provocado",
+      "hombre",
+      "incapacidad",
+      "moral",
+      "global",
+      ".",
+      "además",
+      ",",
+      "llamó",
+      "atención",
+      "modelo",
+      "distribución",
+      "ayuda",
+      "gestionado",
+      "criterios",
+      "militares",
+      ",",
+      "agrava",
+      "hambre",
+      "pone",
+      "riesgo",
+      "civiles",
+      "intentan",
+      "acceder",
+      "escasos",
+      "recursos",
+      "disponibles",
+      ".",
+      "parte",
+      ",",
+      "informes",
+      "anteriores",
+      "señalado",
+      "impedir",
+      "ingreso",
+      "alimentos",
+      "podría",
+      "calificarse",
+      "crimen",
+      "guerra",
+      "bajo",
+      "derecho",
+      "internacional",
+      "humanitario",
+      ",",
+      "tipo",
+      "estrategias",
+      "—denominadas",
+      "“",
+      "castigo",
+      "colectivo",
+      "”",
+      "—",
+      "violan",
+      "convenios",
+      "ginebra",
+      "estatuto",
+      "roma",
+      "."
+    ],
+    "token_count": 216,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "IN": 21,
+      "FW": 43,
+      "NN": 116,
+      "VBZ": 8,
+      "JJ": 41,
+      "VBP": 8,
+      "NNS": 15,
+      "VBN": 1,
+      "CD": 4,
+      "CC": 1,
+      "VBD": 1,
+      "$": 1,
+      "RB": 2,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 16,
+      "NNP-IN": 3,
+      "IN-FW": 13,
+      "FW-NNP": 11,
+      "NNP-NN": 11,
+      "NN-NN": 66,
+      "NN-NNP": 5,
+      "NNP-VBZ": 4,
+      "VBZ-JJ": 5,
+      "JJ-JJ": 9,
+      "JJ-NNP": 5,
+      "IN-NNP": 2,
+      "NNP-FW": 6,
+      "FW-NN": 12,
+      "NN-IN": 14,
+      "FW-FW": 14,
+      "NN-VBP": 3,
+      "VBP-JJ": 5,
+      "JJ-NN": 24,
+      "IN-JJ": 3,
+      "NN-JJ": 10,
+      "JJ-NNS": 2,
+      "NNS-IN": 4,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-NNP": 1,
+      "FW-NNS": 3,
+      "NNS-JJ": 1,
+      "NN-NNS": 6,
+      "NN-FW": 7,
+      "NN-VBN": 1,
+      "VBN-NNP": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-JJ": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "NN-VBZ": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "NNS-FW": 1,
+      "IN-NNS": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 2,
+      "IN-NN": 1,
+      "FW-RB": 1,
+      "JJ-FW": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 2,
+      "NNS-VBZ": 2,
+      "NNP-VBP": 1,
+      "VBZ-JJR": 1,
+      "JJR-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 10,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 3,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 34,
+      "NN-NN-IN": 9,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 7,
+      "FW-FW-NNP": 3,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 16,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-NNS": 2,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "NN-NNP-NN": 2,
+      "NN-NN-VBN": 1,
+      "NN-VBN-NNP": 1,
+      "VBN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-JJ": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-IN": 2,
+      "NNP-FW-NNP": 4,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 5,
+      "FW-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NNP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-JJ": 2,
+      "FW-FW-RB": 1,
+      "FW-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 2,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJR": 1,
+      "VBZ-JJR-JJ": 1,
+      "JJR-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "NN-NN-NNS": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-FW": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 116,
+        "NNP": 44,
+        "FW": 43,
+        "JJ": 41,
+        "IN": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "JJ-NN": 24,
+        "NNP-NNP": 16,
+        "NN-IN": 14,
+        "FW-FW": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "JJ-NN-NN": 16,
+        "NNP-NN-NN": 10,
+        "NN-NN-IN": 9,
+        "NN-IN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 90,
+      "PP": 8,
+      "VP": 16,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0394
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0236
+      },
+      {
+        "rule": "NP -> ('IPC', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP (',', ',') NP (',', ',') NP PP ('de', 'FW') NP ('en', 'IN') ('la', 'FW') ('gobernación', 'FW') ('de', 'FW') NP (',', ',') NP VP PP NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Alto', 'NNP') ('Comisionado', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP') ('para', 'NN') ('los', 'NN') ('Derechos', 'NNP') ('Humanos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Volker', 'NNP') ('Türk', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('acusó', 'JJ') ('directamente', 'NN') ('al', 'NN') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('provocar', 'NN') ('la', 'NN') ('hambruna', 'NN') ('declarada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Alto Comisionado"
+      },
+      {
+        "label": "NP",
+        "text": "ONU para los Derechos Humanos"
+      },
+      {
+        "label": "NP",
+        "text": "Volker Türk"
+      },
+      {
+        "label": "NP",
+        "text": "acusó directamente al Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "provocar la hambruna declarada"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "VP",
+        "text": "advirtió que emplear el hambre como herramienta"
+      },
+      {
+        "label": "NP",
+        "text": "que emplear el hambre como herramienta"
+      },
+      {
+        "label": "PP",
+        "text": "en un conflicto armado constituye"
+      },
+      {
+        "label": "NP",
+        "text": "un conflicto armado constituye"
+      },
+      {
+        "label": "NP",
+        "text": "un crimen"
+      },
+      {
+        "label": "PP",
+        "text": "de guerra"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Alto/NNP Comisionado/NNP)\n  de/IN\n  la/FW\n  (NP ONU/NNP para/NN los/NN Derechos/NNP Humanos/NNP)\n  ,/,\n  (NP Volker/NNP Türk/NNP)\n  ,/,\n  (NP acusó/JJ directamente/NN al/NN Gobierno/NNP)\n  (PP de/IN (NP Israel/NNP))\n  de/FW\n  (NP provocar/NN la/NN hambruna/NN declarada/NN)\n  en/IN\n  la/FW\n  gobernación/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP\n    advirtió/VBZ\n    (NP que/JJ emplear/JJ el/NN hambre/NN como/NN herramienta/NN))\n  (PP en/IN (NP un/JJ conflicto/NN armado/NN constituye/NN))\n  (NP un/JJ crimen/NNS)\n  (PP de/IN (NP guerra/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP Türk/NNP)\n  ,/,\n  (NP las/JJ restricciones/NNS impuestas/NNS)\n  (VP por/VBP (NP Israel/NNP) (NP a/DT la/NN))\n  entrada/FW\n  y/FW\n  distribución/FW\n  de/FW\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (NP esencial/JJ —comida/NNP)\n  ,/,\n  (NP agua/NN)\n  ,/,\n  (NP medicinas/NN)\n  ,/,\n  (NP electricidad/JJ y/NN combustible—/NN son/NN)\n  la/FW\n  (NP causa/NN)\n  principal/FW\n  de/FW\n  esta/FW\n  emergencia/FW\n  (NP humanitaria/NN gravísima/NN)\n  ./.)",
+      "(S\n  (NP Un/NNP informe/NN del/NN)\n  (VP\n    Integrated/VBN\n    (NP Food/NNP Security/NNP Phase/NNP Classification/NNP))\n  (/(\n  (NP IPC/NNP)\n  )/)\n  (NP confirmó/NN)\n  (NP que/JJ más/NN)\n  de/IN\n  514.000/CD\n  (NP personas/NNS —casi/NNP)\n  (NP una/JJ cuarta/NN parte/NN)\n  de/IN\n  la/FW\n  población/FW\n  de/FW\n  (NP Gaza—/NNP)\n  están/CC\n  (NP sumidas/JJ en/NN la/NN hambruna/NN)\n  ,/,\n  (NP con/NN)\n  (NP una/JJ proyección/NN que/NN eleva/NN esta/NN)\n  (VP cifra/VBD)\n  a/DT\n  641.00/CD\n  (NP para/NN finales/NNS)\n  (PP de/IN (NP septiembre/NN))\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  (NP Gaza/NNP denunció/NN este/NN)\n  (VP jueves/VBZ (NP que/JJ se/JJ registraron/NN dos/NN))\n  (VP\n    muertes/VBZ\n    (NP más/JJ por/NN inanición/NN y/NN desnutrición/NN))\n  ,/,\n  (NP con/NN)\n  (NP lo/JJ cual/JJ se/NN)\n  (VP elevó/VBD)\n  a/DT\n  271/CD\n  (NP la/NN cifra/NN)\n  de/IN\n  víctimas/FW\n  (NP por/NN)\n  la/FW\n  (NP hambruna/NN deliberadamente/NN generada/NN por/NN la/NN)\n  entidad/FW\n  (NP sionista/NN)\n  ,/,\n  (VP entre/VB ellos/RB)\n  112/CD\n  (NP niños/NNS)\n  ./.)",
+      "(S\n  (VP Pese/VB (NP a/DT esto/NN))\n  ,/,\n  (NP Israel/NNP)\n  (VP\n    rechazó/VBZ\n    (NP categóricamente/JJ las/NNS conclusiones/NNS)\n    del/RB\n    (NP IPC/NNP))\n  ,/,\n  (NP afirmando/NN que/NN los/NN datos/NN son/NN)\n  (VP sesgados/VBD (NP y/JJ provienen/NN))\n  (PP de/IN (NP fuentes/NNS))\n  (VP vinculadas/VBP al/RB (NP movimiento/JJ Hamás/NNP))\n  ,/,\n  (NP al/NN tiempo/NN que/NN)\n  (PP asegura/IN (NP haber/NN))\n  (NP facilitado/JJ envíos/NN)\n  de/IN\n  ayuda/FW\n  (NP recientes/NNS)\n  ,/,\n  en/FW\n  su/FW\n  (NP habitual/JJ demagogia/NN)\n  ,/,\n  dentro/FW\n  de/FW\n  un/FW\n  mundo/FW\n  que/FW\n  pide/RB\n  (NP\n    fin/JJ\n    al/NN\n    genocidio/NN\n    que/NN\n    el/NN\n    ente/NN\n    sionista/NN\n    está/NN\n    librando/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "JUSTICIA_SOCIAL",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "acusó directamente al",
+        "position": [
+          70,
+          91
+        ],
+        "start": 70,
+        "end": 91
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          1833,
+          1840
+        ],
+        "start": 1833,
+        "end": 1840
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          174,
+          182
+        ],
+        "start": 174,
+        "end": 182
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambruna declarada en la gobernación de gaza",
+        "position": [
+          126,
+          170
+        ],
+        "start": 126,
+        "end": 170
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          359,
+          376
+        ],
+        "start": 359,
+        "end": 376
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "emergencia humanitaria",
+        "position": [
+          471,
+          493
+        ],
+        "start": 471,
+        "end": 493
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambre como herramienta en un conflicto armado constituye un crimen de guerra. según türk, las restricciones impuestas por israel a la entrada y distribución de ayuda humanitaria esencial —comida",
+        "position": [
+          198,
+          393
+        ],
+        "start": 198,
+        "end": 393
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria esencial —comida, agua, medicinas, electricidad y combustible— son la causa principal de esta emergencia",
+        "position": [
+          359,
+          481
+        ],
+        "start": 359,
+        "end": 481
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de israel de",
+        "position": [
+          92,
+          113
+        ],
+        "start": 92,
+        "end": 113
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          26,
+          29
+        ],
+        "start": 26,
+        "end": 29
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          1039,
+          1046
+        ],
+        "start": 1039,
+        "end": 1046
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusó",
+        "position": [
+          70,
+          75
+        ],
+        "start": 70,
+        "end": 75
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          395,
+          399
+        ],
+        "start": 395,
+        "end": 399
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          412,
+          424
+        ],
+        "start": 412,
+        "end": 424
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "roma",
+        "position": [
+          2052,
+          2056
+        ],
+        "start": 2052,
+        "end": 2056
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          39,
+          55
+        ],
+        "start": 39,
+        "end": 55
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          597,
+          609
+        ],
+        "start": 597,
+        "end": 609
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "514.000 personas",
+        "position": [
+          593,
+          609
+        ],
+        "start": 593,
+        "end": 609
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 514.000",
+        "position": [
+          586,
+          600
+        ],
+        "start": 586,
+        "end": 600
+      }
+    ],
+    "match_count": 19
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Volker Türk",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alto Comisionado de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "António Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Según Türk",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "IPC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Alto Comisionado de la ONU",
+        "relacion": "ACUSAR",
+        "objeto": "Gobierno de Israel"
+      },
+      {
+        "sujeto": "Alto Comisionado de la ONU",
+        "relacion": "ACUSAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Volker Türk",
+        "relacion": "ACUSAR",
+        "objeto": "Gobierno de Israel"
+      },
+      {
+        "sujeto": "Volker Türk",
+        "relacion": "ACUSAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gobierno de Israel",
+        "relacion": "ACUSAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "IPC",
+        "relacion": "CONFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "RECHAZAR",
+        "objeto": "Hamás"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.015,
+    "neu": 0.985,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

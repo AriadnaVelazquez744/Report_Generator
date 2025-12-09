@@ -1,0 +1,750 @@
+{
+  "url": "https://www.telesurtv.net/declaran-rio-de-esmeralda-muerto-tras-derrame-de-petroleo/",
+  "title": "Declaran río de Esmeralda muerto, tras derrame de petróleo - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "agua potable",
+    "contaminación",
+    "Derrame de petróleo",
+    "Ecuador",
+    "Río Esmeraldas"
+  ],
+  "text": "\nUna catástrofe ecológica sin precedentes está afectando a Esmeraldas, Ecuador, debido a la contaminación del río que lleva su mismo nombre, lo que ha desencadenado un desastre ecológico y humanitario.\n\nLEA TAMBIÉN\nDerrame de petróleo en Esmeraldas, Ecuador: Miles afectados y grave daño ambiental\n\nLa región a la que se hace referencia está ubicada al norte de Ecuador y limita con Colombia, donde se sitúa la refinería de petróleo más grande del país. Sin embargo, Esmeraldas se percibe como una provincia históricamente olvidada.\nLa ausencia del Estado en estos casos ha sido un caldo de cultivo para la proliferación de grupos de delincuencia organizada. Por otra parte, el pasado 13 de marzo, un deslave rompió un oleoducto ecuatoriano que transporta 360.000 barriles diarios de petróleo.\n\n\nTras una investigación, se determinó que hay ríos muertos en la zona, lo cual se evidencia en la falta de agua potable y en la no supervivencia de la flora y fauna  a esta contaminación.\nLas playas fueron cerradas a las 07H00 (hora local), considerando que una parte de la población vive del turismo. Además de los ríos, también se contaminó el océano Pacífico, dejando a alrededor de 500.000 personas sin acceso a servicios básicos como el agua, lo que ha devastado a las comunidades.\nAlgunos pobladores han cerrado la vía de Tachina en estos días clamando por agua potable. También han llegado denuncias al Gobierno sobre el suministro de agua contaminada, lo que llevó a que se enviaran militares para reprimir a quienes protestaban y reclamaban atención.\nAsimismo, es importante informar que los habitantes afirman que las tareas de contención y recolección llevadas a cabo por Petroecuador han sido lentas, hecho que podría deberse a cambios en la presidencia de la empresa estatal.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/declaran-rio-de-esmeralda-muerto-tras-derrame-de-petroleo/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 714,
+    "message_id": 89883,
+    "date": "2025-03-22T12:55:07+00:00",
+    "text": "teleSUR\nDeclaran río de Esmeralda muerto, tras derrame de petróleo\nhttps://www.telesurtv.net/declaran-rio-de-esmeralda-muerto-tras-derrame-de-petroleo/",
+    "photo_path": null,
+    "views": 1823,
+    "reactions": {
+      "😱": 35,
+      "👍": 2,
+      "🕊": 2,
+      "🤬": 1,
+      "😈": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "una catástrofe ecológica sin precedentes está afectando a esmeraldas, ecuador, debido a la contaminación del río que lleva su mismo nombre, lo que ha desencadenado un desastre ecológico y humanitario. la región a la que se hace referencia está ubicada al norte de ecuador y limita con colombia, donde se sitúa la refinería de petróleo más grande del país. sin embargo, esmeraldas se percibe como una provincia históricamente olvidada. la ausencia del estado en estos casos ha sido un caldo de cultivo para la proliferación de grupos de delincuencia organizada. por otra parte, el pasado 13 de marzo, un deslave rompió un oleoducto ecuatoriano que transporta 360.000 barriles diarios de petróleo. tras una investigación, se determinó que hay ríos muertos en la zona, lo cual se evidencia en la falta de agua potable y en la no supervivencia de la flora y fauna a esta contaminación. las playas fueron cerradas a las 07h00 (hora local), considerando que una parte de la población vive del turismo. además de los ríos, también se contaminó el océano pacífico, dejando a alrededor de 500.000 personas sin acceso a servicios básicos como el agua, lo que ha devastado a las comunidades. algunos pobladores han cerrado la vía de tachina en estos días clamando por agua potable. también han llegado denuncias al gobierno sobre el suministro de agua contaminada, lo que llevó a que se enviaran militares para reprimir a quienes protestaban y reclamaban atención. asimismo, es importante informar que los habitantes afirman que las tareas de contención y recolección llevadas a cabo por petroecuador han sido lentas, hecho que podría deberse a cambios en la presidencia de la empresa estatal.",
+    "tokens": [
+      "catástrofe",
+      "ecológica",
+      "precedentes",
+      "afectando",
+      "esmeraldas",
+      ",",
+      "ecuador",
+      ",",
+      "debido",
+      "contaminación",
+      "río",
+      "lleva",
+      "mismo",
+      "nombre",
+      ",",
+      "desencadenado",
+      "desastre",
+      "ecológico",
+      "humanitario",
+      ".",
+      "región",
+      "hace",
+      "referencia",
+      "ubicada",
+      "norte",
+      "ecuador",
+      "limita",
+      "colombia",
+      ",",
+      "sitúa",
+      "refinería",
+      "petróleo",
+      "grande",
+      "país",
+      ".",
+      "embargo",
+      ",",
+      "esmeraldas",
+      "percibe",
+      "provincia",
+      "históricamente",
+      "olvidada",
+      ".",
+      "ausencia",
+      "casos",
+      "sido",
+      "caldo",
+      "cultivo",
+      "proliferación",
+      "grupos",
+      "delincuencia",
+      "organizada",
+      ".",
+      "parte",
+      ",",
+      "pasado",
+      "13",
+      "marzo",
+      ",",
+      "deslave",
+      "rompió",
+      "oleoducto",
+      "ecuatoriano",
+      "transporta",
+      "360.000",
+      "barriles",
+      "diarios",
+      "petróleo",
+      ".",
+      "tras",
+      "investigación",
+      ",",
+      "determinó",
+      "ríos",
+      "muertos",
+      "zona",
+      ",",
+      "evidencia",
+      "falta",
+      "agua",
+      "potable",
+      "supervivencia",
+      "flora",
+      "fauna",
+      "contaminación",
+      ".",
+      "playas",
+      "cerradas",
+      "07h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ",",
+      "considerando",
+      "parte",
+      "población",
+      "vive",
+      "turismo",
+      ".",
+      "además",
+      "ríos",
+      ",",
+      "contaminó",
+      "océano",
+      "pacífico",
+      ",",
+      "dejando",
+      "alrededor",
+      "500.000",
+      "personas",
+      "acceso",
+      "servicios",
+      "básicos",
+      "agua",
+      ",",
+      "devastado",
+      "comunidades",
+      ".",
+      "pobladores",
+      "cerrado",
+      "vía",
+      "tachina",
+      "días",
+      "clamando",
+      "agua",
+      "potable",
+      ".",
+      "llegado",
+      "denuncias",
+      "gobierno",
+      "suministro",
+      "agua",
+      "contaminada",
+      ",",
+      "llevó",
+      "enviaran",
+      "militares",
+      "reprimir",
+      "protestaban",
+      "reclamaban",
+      "atención",
+      ".",
+      "asimismo",
+      ",",
+      "importante",
+      "informar",
+      "habitantes",
+      "afirman",
+      "tareas",
+      "contención",
+      "recolección",
+      "llevadas",
+      "cabo",
+      "petroecuador",
+      "sido",
+      "lentas",
+      ",",
+      "hecho",
+      "podría",
+      "deberse",
+      "cambios",
+      "presidencia",
+      "empresa",
+      "estatal",
+      "."
+    ],
+    "token_count": 166,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "NN": 102,
+      "VBZ": 5,
+      "JJ": 31,
+      "FW": 61,
+      "RB": 1,
+      "VBP": 10,
+      "CC": 1,
+      "IN": 10,
+      "MD": 1,
+      "VB": 1,
+      "CD": 4,
+      "VBN": 1,
+      "VBD": 2,
+      "NNS": 11,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 62,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-NN": 17,
+      "NN-NNP": 10,
+      "NNP-NNP": 6,
+      "NN-JJ": 7,
+      "NNP-FW": 3,
+      "FW-FW": 39,
+      "FW-NNP": 6,
+      "NNP-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 4,
+      "JJ-JJ": 6,
+      "JJ-NNP": 2,
+      "NN-FW": 3,
+      "FW-NN": 9,
+      "JJ-FW": 4,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "FW-JJ": 6,
+      "NN-IN": 7,
+      "IN-NNP": 1,
+      "IN-FW": 8,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NN-CD": 1,
+      "CD-IN": 1,
+      "JJ-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 2,
+      "NNS-FW": 1,
+      "NNP-JJ": 1,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "CD-JJ": 1,
+      "NNP-IN": 1,
+      "IN-CD": 1,
+      "NNS-NN": 1,
+      "NN-VBP": 2,
+      "VBP-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-NN": 1,
+      "NN-NNS": 5,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-NNS": 1,
+      "VBP-NNP": 1,
+      "JJ-NNS": 1,
+      "NNS-JJ": 1,
+      "VBP-IN": 1,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 37,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNP": 5,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-RB": 1,
+      "NNP-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 6,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNP": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "VBZ-FW-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-VBP": 1,
+      "JJ-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-IN": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "FW-NNP-FW": 1,
+      "NN-JJ-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NNS-VBP": 4,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NNP-VBZ-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 61,
+        "JJ": 31,
+        "NNP": 28,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 62,
+        "FW-FW": 39,
+        "JJ-NN": 17,
+        "NNP-NN": 10,
+        "NN-NNP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 37,
+        "FW-FW-FW": 23,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 8,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 28,
+      "PP": 2,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "NP -> ('Esmeraldas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "VP -> ('y', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP VP VP PP (',', ',') NP (',', ',') VP (',', ',') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('catástrofe', 'NN') ('ecológica', 'NN') ('sin', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "VP -> ('precedentes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "VP -> ('está', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "PP -> ('afectando', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Esmeraldas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "VP -> ('debido', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una catástrofe ecológica sin"
+      },
+      {
+        "label": "VP",
+        "text": "precedentes"
+      },
+      {
+        "label": "VP",
+        "text": "está"
+      },
+      {
+        "label": "PP",
+        "text": "afectando a Esmeraldas"
+      },
+      {
+        "label": "NP",
+        "text": "a Esmeraldas"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "VP",
+        "text": "debido a la contaminación del río que lleva su mismo nombre"
+      },
+      {
+        "label": "NP",
+        "text": "a la contaminación del río que lleva su mismo nombre"
+      },
+      {
+        "label": "NP",
+        "text": "lo que ha desencadenado"
+      },
+      {
+        "label": "NP",
+        "text": "un desastre ecológico y humanitario"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Derrame de"
+      },
+      {
+        "label": "NP",
+        "text": "Esmeraldas"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Miles"
+      },
+      {
+        "label": "VP",
+        "text": "y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP catástrofe/NN ecológica/NN sin/NN)\n  (VP precedentes/VBZ)\n  (VP está/VBP)\n  (PP afectando/IN (NP a/DT Esmeraldas/NNP))\n  ,/,\n  (NP Ecuador/NNP)\n  ,/,\n  (VP\n    debido/VBZ\n    (NP\n      a/DT\n      la/NN\n      contaminación/NN\n      del/NN\n      río/NN\n      que/NN\n      lleva/NN\n      su/NN\n      mismo/NN\n      nombre/NN))\n  ,/,\n  (NP lo/JJ que/NN ha/NN desencadenado/NN)\n  (NP un/JJ desastre/NN ecológico/NN y/NN humanitario/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Derrame/NNP de/NNP)\n  petróleo/FW\n  en/FW\n  (NP Esmeraldas/NNP)\n  ,/,\n  (NP Ecuador/NNP)\n  :/:\n  (NP Miles/NNS)\n  afectados/RB\n  (VP y/VBP)\n  (VP grave/VBP (NP daño/JJ ambiental/JJ La/NNP))\n  región/FW\n  (NP a/DT la/NN que/NN)\n  se/FW\n  (NP hace/NN referencia/NN está/NN)\n  (ADJP ubicada/JJ)\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  (NP Ecuador/NNP)\n  y/CC\n  (NP limita/JJ con/NN Colombia/NNP)\n  ,/,\n  (NP donde/NN se/NN sitúa/NN)\n  la/FW\n  refinería/FW\n  de/FW\n  petróleo/FW\n  más/FW\n  grande/FW\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP Esmeraldas/NNP)\n  (VP\n    se/VBD\n    (NP percibe/JJ como/NN)\n    (NP una/JJ provincia/NN históricamente/NN olvidada/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP ausencia/VBZ)\n  del/FW\n  (NP Estado/NNP)\n  en/FW\n  estos/FW\n  (NP casos/NN ha/NN sido/NN)\n  (NP un/JJ caldo/NN)\n  de/IN\n  cultivo/FW\n  (NP para/NN)\n  la/FW\n  proliferación/FW\n  de/FW\n  grupos/FW\n  de/FW\n  delincuencia/FW\n  (NP organizada/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  (VP el/VB pasado/JJ)\n  13/CD\n  de/FW\n  marzo/FW\n  ,/,\n  (ADJP un/JJ)\n  (VP deslave/VBP)\n  (VP rompió/VBN (NP un/JJ oleoducto/JJ ecuatoriano/NN que/NN))\n  (VP transporta/VBD)\n  360.000/CD\n  (NP barriles/NNS)\n  diarios/FW\n  de/FW\n  petróleo/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "catástrofe ecológica sin precedentes está afectando a esmeraldas, ecuador, debido a la contaminación del río que lleva su mismo nombre, lo que ha desencadenado un desastre ecológico y humanitario",
+        "position": [
+          5,
+          200
+        ],
+        "start": 5,
+        "end": 200
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "falta de agua",
+        "position": [
+          893,
+          906
+        ],
+        "start": 893,
+        "end": 906
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "contaminación",
+        "position": [
+          92,
+          105
+        ],
+        "start": 92,
+        "end": 105
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          110,
+          113
+        ],
+        "start": 110,
+        "end": 113
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "flora",
+        "position": [
+          946,
+          951
+        ],
+        "start": 946,
+        "end": 951
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          902,
+          914
+        ],
+        "start": 902,
+        "end": 914
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          383,
+          391
+        ],
+        "start": 383,
+        "end": 391
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          71,
+          78
+        ],
+        "start": 71,
+        "end": 78
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "pacífico",
+        "position": [
+          1148,
+          1156
+        ],
+        "start": 1148,
+        "end": 1156
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región a la",
+        "position": [
+          302,
+          313
+        ],
+        "start": 302,
+        "end": 313
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          458,
+          465
+        ],
+        "start": 458,
+        "end": 465
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          1185,
+          1197
+        ],
+        "start": 1185,
+        "end": 1197
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500.000 personas",
+        "position": [
+          1181,
+          1197
+        ],
+        "start": 1181,
+        "end": 1197
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 500.000",
+        "position": [
+          1168,
+          1188
+        ],
+        "start": 1168,
+        "end": 1188
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Esmeraldas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Petroecuador",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pacífico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tachina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.8555,
+    "pos": 0.025,
+    "neu": 0.92,
+    "neg": 0.055,
+    "label": "negative"
+  }
+}

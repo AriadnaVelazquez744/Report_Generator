@@ -1,0 +1,766 @@
+{
+  "url": "https://www.telesurtv.net/incendios-en-australia-forzaron-la-evacuacion-de-1500-personas/",
+  "title": "Incendios en Australia forzaron la evacuación de 1,500 personas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Australa",
+    "evacuaciones",
+    "incendios",
+    "Mundo",
+    "Sucesos"
+  ],
+  "text": "La ciudad más cercana al incendio, Dimboola, con alrededor de 1,500 residentes, ha sido el foco de los esfuerzos de evacuación.\nLas autoridades de Australia ordenaron la evacuación de aproximadamente 1,500 personas debido a un incendio forestal descontrolado en el sur del país, que ya ha arrasado cerca de 65 mil hectáreas de terreno.\nEl incendio se originó el lunes durante una ola de calor extremo en el Parque Nacional del Pequeño Desierto, una área caracterizada por su vegetación seca y matorrales.\nLa ciudad más cercana al incendio, Dimboola, con alrededor de 1,500 residentes, ha sido el foco de los esfuerzos de evacuación.\nLas autoridades han instado a los habitantes a abandonar sus hogares ante el inminente peligro. “Estás en peligro y necesitas actuar de inmediato para sobrevivir. La opción más segura es refugiarte en un lugar cerrado. Es demasiado tarde para salir”, comunicaron los equipos de emergencia del estado Victoria a quienes aún no han evacuado.\nLa líder política regional, Jacinta Allan, informó a los medios que, hasta el momento, no se han reportado pérdidas humanas, aunque las llamas han destruido al menos un edificio.\nCientos de bomberos continúan combatiendo el fuego en condiciones extremadamente difíciles. Allan advirtió sobre las previsiones meteorológicas, anticipando que “todavía tenemos muchas semanas de un verano largo y caluroso por delante” y que el pronóstico indica la llegada de varios días muy difíciles y peligrosos.\nLa temporada de incendios en Australia varía según la región y las condiciones climáticas, pero generalmente ocurre durante el verano austral, de diciembre a marzo.\nEsta situación recuerda el invierno pasado, conocido como ‘Verano Negro’, en el que al menos 33 personas perdieron la vida a causa de incendios que devastaron gran parte de Victoria y Nueva Gales del Sur, afectando a millones de animales y destruyendo unas 3,000 viviendas, además de arrasar cerca de 180 mil kilómetros cuadrados de tierra.\nLas autoridades continúan monitoreando la situación y haciendo hincapié en la importancia de seguir las instrucciones de evacuación para garantizar la seguridad de todos los residentes en las áreas afectadas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/incendios-en-australia-forzaron-la-evacuacion-de-1500-personas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 299,
+    "message_id": 85591,
+    "date": "2025-01-28T04:55:18+00:00",
+    "text": "teleSUR\nIncendios en Australia forzaron la evacuación de 1,500 personas\nhttps://www.telesurtv.net/incendios-en-australia-forzaron-la-evacuacion-de-1500-personas/",
+    "photo_path": null,
+    "views": 2153,
+    "reactions": {
+      "🔥": 22,
+      "🤬": 9,
+      "❤": 5,
+      "☃": 3,
+      "🤔": 2
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "la ciudad más cercana al incendio, dimboola, con alrededor de 1,500 residentes, ha sido el foco de los esfuerzos de evacuación. las autoridades de australia ordenaron la evacuación de aproximadamente 1,500 personas debido a un incendio forestal descontrolado en el sur del país, que ya ha arrasado cerca de 65 mil hectáreas de terreno. el incendio se originó el lunes durante una ola de calor extremo en el parque nacional del pequeño desierto, una área caracterizada por su vegetación seca y matorrales. la ciudad más cercana al incendio, dimboola, con alrededor de 1,500 residentes, ha sido el foco de los esfuerzos de evacuación. las autoridades han instado a los habitantes a abandonar sus hogares ante el inminente peligro. “estás en peligro y necesitas actuar de inmediato para sobrevivir. la opción más segura es refugiarte en un lugar cerrado. es demasiado tarde para salir”, comunicaron los equipos de emergencia del estado victoria a quienes aún no han evacuado. la líder política regional, jacinta allan, informó a los medios que, hasta el momento, no se han reportado pérdidas humanas, aunque las llamas han destruido al menos un edificio. cientos de bomberos continúan combatiendo el fuego en condiciones extremadamente difíciles. allan advirtió sobre las previsiones meteorológicas, anticipando que “todavía tenemos muchas semanas de un verano largo y caluroso por delante” y que el pronóstico indica la llegada de varios días muy difíciles y peligrosos. la temporada de incendios en australia varía según la región y las condiciones climáticas, pero generalmente ocurre durante el verano austral, de diciembre a marzo. esta situación recuerda el invierno pasado, conocido como ‘verano negro’, en el que al menos 33 personas perdieron la vida a causa de incendios que devastaron gran parte de victoria y nueva gales del sur, afectando a millones de animales y destruyendo unas 3,000 viviendas, además de arrasar cerca de 180 mil kilómetros cuadrados de tierra. las autoridades continúan monitoreando la situación y haciendo hincapié en la importancia de seguir las instrucciones de evacuación para garantizar la seguridad de todos los residentes en las áreas afectadas.",
+    "tokens": [
+      "ciudad",
+      "cercana",
+      "incendio",
+      ",",
+      "dimboola",
+      ",",
+      "alrededor",
+      "1,500",
+      "residentes",
+      ",",
+      "sido",
+      "foco",
+      "esfuerzos",
+      "evacuación",
+      ".",
+      "autoridades",
+      "australia",
+      "ordenaron",
+      "evacuación",
+      "aproximadamente",
+      "1,500",
+      "personas",
+      "debido",
+      "incendio",
+      "forestal",
+      "descontrolado",
+      "sur",
+      "país",
+      ",",
+      "arrasado",
+      "cerca",
+      "65",
+      "mil",
+      "hectáreas",
+      "terreno",
+      ".",
+      "incendio",
+      "originó",
+      "lunes",
+      "ola",
+      "calor",
+      "extremo",
+      "parque",
+      "nacional",
+      "pequeño",
+      "desierto",
+      ",",
+      "área",
+      "caracterizada",
+      "vegetación",
+      "seca",
+      "matorrales",
+      ".",
+      "ciudad",
+      "cercana",
+      "incendio",
+      ",",
+      "dimboola",
+      ",",
+      "alrededor",
+      "1,500",
+      "residentes",
+      ",",
+      "sido",
+      "foco",
+      "esfuerzos",
+      "evacuación",
+      ".",
+      "autoridades",
+      "instado",
+      "habitantes",
+      "abandonar",
+      "hogares",
+      "inminente",
+      "peligro",
+      ".",
+      "“",
+      "peligro",
+      "necesitas",
+      "actuar",
+      "inmediato",
+      "sobrevivir",
+      ".",
+      "opción",
+      "segura",
+      "refugiarte",
+      "lugar",
+      "cerrado",
+      ".",
+      "demasiado",
+      "tarde",
+      "salir",
+      "”",
+      ",",
+      "comunicaron",
+      "equipos",
+      "emergencia",
+      "victoria",
+      "aún",
+      "evacuado",
+      ".",
+      "líder",
+      "política",
+      "regional",
+      ",",
+      "jacinta",
+      "allan",
+      ",",
+      "informó",
+      "medios",
+      ",",
+      "momento",
+      ",",
+      "reportado",
+      "pérdidas",
+      "humanas",
+      ",",
+      "aunque",
+      "llamas",
+      "destruido",
+      "menos",
+      "edificio",
+      ".",
+      "cientos",
+      "bomberos",
+      "continúan",
+      "combatiendo",
+      "fuego",
+      "condiciones",
+      "extremadamente",
+      "difíciles",
+      ".",
+      "allan",
+      "advirtió",
+      "previsiones",
+      "meteorológicas",
+      ",",
+      "anticipando",
+      "“",
+      "todavía",
+      "muchas",
+      "semanas",
+      "verano",
+      "largo",
+      "caluroso",
+      "delante",
+      "”",
+      "pronóstico",
+      "indica",
+      "llegada",
+      "varios",
+      "días",
+      "difíciles",
+      "peligrosos",
+      ".",
+      "temporada",
+      "incendios",
+      "australia",
+      "varía",
+      "según",
+      "región",
+      "condiciones",
+      "climáticas",
+      ",",
+      "generalmente",
+      "ocurre",
+      "verano",
+      "austral",
+      ",",
+      "diciembre",
+      "marzo",
+      ".",
+      "situación",
+      "recuerda",
+      "invierno",
+      "pasado",
+      ",",
+      "conocido",
+      "‘",
+      "verano",
+      "negro",
+      "’",
+      ",",
+      "menos",
+      "33",
+      "personas",
+      "perdieron",
+      "vida",
+      "causa",
+      "incendios",
+      "devastaron",
+      "gran",
+      "parte",
+      "victoria",
+      "nueva",
+      "gales",
+      "sur",
+      ",",
+      "afectando",
+      "millones",
+      "animales",
+      "destruyendo",
+      "unas",
+      "3,000",
+      "viviendas",
+      ",",
+      "además",
+      "arrasar",
+      "cerca",
+      "180",
+      "mil",
+      "kilómetros",
+      "cuadrados",
+      "tierra",
+      ".",
+      "autoridades",
+      "continúan",
+      "monitoreando",
+      "situación",
+      "haciendo",
+      "hincapié",
+      "importancia",
+      "seguir",
+      "instrucciones",
+      "evacuación",
+      "garantizar",
+      "seguridad",
+      "residentes",
+      "áreas",
+      "afectadas",
+      "."
+    ],
+    "token_count": 231,
+    "sentence_count": 14
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 102,
+      "IN": 21,
+      "CD": 7,
+      "NNS": 26,
+      "JJ": 34,
+      "FW": 75,
+      "VBP": 17,
+      "VBZ": 6,
+      "DT": 2,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-NN": 59,
+      "NN-NNP": 5,
+      "NN-IN": 17,
+      "IN-CD": 4,
+      "CD-NNS": 4,
+      "NNS-JJ": 5,
+      "JJ-JJ": 5,
+      "JJ-NN": 18,
+      "IN-FW": 12,
+      "FW-FW": 44,
+      "FW-NNP": 12,
+      "NNP-FW": 8,
+      "NNP-NNP": 8,
+      "FW-CD": 1,
+      "NN-JJ": 3,
+      "FW-JJ": 5,
+      "CD-JJ": 2,
+      "JJ-NNS": 6,
+      "NNS-IN": 3,
+      "NN-NNS": 6,
+      "NNS-VBP": 14,
+      "VBP-JJ": 10,
+      "IN-NN": 1,
+      "NNP-JJ": 1,
+      "JJ-NNP": 3,
+      "NNS-NNP": 2,
+      "NNP-VBP": 2,
+      "VBP-NN": 3,
+      "NNP-NNS": 3,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 2,
+      "FW-NN": 9,
+      "IN-JJ": 1,
+      "NN-FW": 8,
+      "NNS-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "NN-VBZ": 2,
+      "VBZ-NNP": 1,
+      "VBZ-JJ": 2,
+      "NN-DT": 1,
+      "IN-NNS": 2,
+      "VBP-NNS": 1,
+      "NNS-NNS": 1,
+      "FW-NNS": 3,
+      "VBP-NNP": 1,
+      "NNP-IN": 1,
+      "JJ-FW": 1,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "IN-NNP": 1,
+      "JJ-CD": 1,
+      "FW-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 33,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 3,
+      "NN-NN-IN": 9,
+      "NN-IN-CD": 4,
+      "IN-CD-NNS": 3,
+      "CD-NNS-JJ": 4,
+      "NNS-JJ-JJ": 4,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 6,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "NN-NN-JJ": 2,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NN": 7,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "FW-NNP-NNS": 3,
+      "NNP-NNS-VBP": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 3,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 4,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBP-JJ-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-FW-NN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NNP-NNP": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "IN-FW-NN": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNS-IN": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 75,
+        "NNP": 34,
+        "JJ": 34,
+        "NNS": 26
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 44,
+        "JJ-NN": 18,
+        "NN-IN": 17,
+        "NNS-VBP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 29,
+        "NN-NN-IN": 9,
+        "JJ-NN-NN": 9,
+        "NN-IN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 14,
+    "chunk_counts": {
+      "NP": 88,
+      "VP": 17,
+      "PP": 8,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0385
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP ('de', 'IN') ('1,500', 'CD') NP (',', ',') NP ('el', 'FW') NP ('de', 'IN') ('los', 'FW') ('esfuerzos', 'FW') ('de', 'FW') ('evacuación', 'FW') ('.', '.')",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('ciudad', 'NN') ('más', 'NN') ('cercana', 'NN') ('al', 'NN') ('incendio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('Dimboola', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('con', 'NN') ('alrededor', 'NN')",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('residentes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('ha', 'NN') ('sido', 'NN')",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('foco', 'NN')",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0154
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La ciudad más cercana al incendio"
+      },
+      {
+        "label": "NP",
+        "text": "Dimboola"
+      },
+      {
+        "label": "NP",
+        "text": "con alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "residentes"
+      },
+      {
+        "label": "NP",
+        "text": "ha sido"
+      },
+      {
+        "label": "NP",
+        "text": "foco"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Australia ordenaron"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "debido a un incendio forestal descontrolado"
+      },
+      {
+        "label": "NP",
+        "text": "a un incendio"
+      },
+      {
+        "label": "NP",
+        "text": "forestal descontrolado"
+      },
+      {
+        "label": "NP",
+        "text": "sur del país"
+      },
+      {
+        "label": "NP",
+        "text": "que ya ha"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP ciudad/NN más/NN cercana/NN al/NN incendio/NN)\n  ,/,\n  (NP Dimboola/NNP)\n  ,/,\n  (NP con/NN alrededor/NN)\n  de/IN\n  1,500/CD\n  (NP residentes/NNS)\n  ,/,\n  (NP ha/NN sido/NN)\n  el/FW\n  (NP foco/NN)\n  de/IN\n  los/FW\n  esfuerzos/FW\n  de/FW\n  evacuación/FW\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  de/FW\n  (NP Australia/NNP ordenaron/NNP)\n  la/FW\n  evacuación/FW\n  de/FW\n  aproximadamente/FW\n  1,500/CD\n  (NP personas/NNS)\n  (VP\n    debido/VBP\n    (NP a/DT un/JJ incendio/NN)\n    (NP forestal/JJ descontrolado/NN))\n  en/IN\n  el/FW\n  (NP sur/JJ del/NN país/NN)\n  ,/,\n  (NP que/JJ ya/NN ha/NN)\n  (NP arrasado/JJ cerca/NN)\n  de/IN\n  65/CD\n  (NP mil/JJ hectáreas/NNS)\n  (PP de/IN (NP terreno/NN))\n  ./.)",
+      "(S\n  (NP El/NNP incendio/NN se/NN originó/NN el/NN lunes/NNS)\n  (VP durante/VBP (NP una/JJ ola/NN))\n  (PP de/IN (NP calor/NN extremo/NN))\n  en/IN\n  el/FW\n  (NP Parque/NNP Nacional/NNP)\n  del/FW\n  (NP Pequeño/NNP Desierto/NNP)\n  ,/,\n  (NP\n    una/JJ\n    área/NNP\n    caracterizada/NN\n    por/NN\n    su/NN\n    vegetación/NN\n    seca/NN\n    y/NN\n    matorrales/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP ciudad/NN más/NN cercana/NN al/NN incendio/NN)\n  ,/,\n  (NP Dimboola/NNP)\n  ,/,\n  (NP con/NN alrededor/NN)\n  de/IN\n  1,500/CD\n  (NP residentes/NNS)\n  ,/,\n  (NP ha/NN sido/NN)\n  el/FW\n  (NP foco/NN)\n  de/IN\n  los/FW\n  esfuerzos/FW\n  de/FW\n  evacuación/FW\n  ./.)",
+      "(S\n  (NP Las/NNP autoridades/NNS)\n  (VP han/VBP)\n  (VP instado/VB (NP a/DT los/NN))\n  (VP habitantes/VBZ (NP a/DT abandonar/JJ sus/NN hogares/NNS))\n  (VP ante/VBP (NP el/JJ inminente/NN peligro/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CANTIDADES_NUMERICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1016,
+          1023
+        ],
+        "start": 1016,
+        "end": 1023
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1250,
+          1258
+        ],
+        "start": 1250,
+        "end": 1258
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área caracterizada",
+        "position": [
+          449,
+          467
+        ],
+        "start": 449,
+        "end": 467
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque nacional",
+        "position": [
+          407,
+          422
+        ],
+        "start": 407,
+        "end": 422
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500 personas",
+        "position": [
+          202,
+          214
+        ],
+        "start": 202,
+        "end": 214
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "65 mil",
+        "position": [
+          307,
+          313
+        ],
+        "start": 307,
+        "end": 313
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1,500 personas",
+        "position": [
+          200,
+          214
+        ],
+        "start": 200,
+        "end": 214
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 1",
+        "position": [
+          49,
+          63
+        ],
+        "start": 49,
+        "end": 63
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 1",
+        "position": [
+          184,
+          201
+        ],
+        "start": 184,
+        "end": 201
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jacinta Allan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nueva Gales del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estado Victoria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Allan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Dimboola",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Victoria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parque Nacional del Pequeño Desierto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Australia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.4215,
+    "pos": 0.022,
+    "neu": 0.965,
+    "neg": 0.013,
+    "label": "positive"
+  }
+}

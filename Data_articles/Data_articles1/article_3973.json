@@ -1,0 +1,633 @@
+{
+  "url": "https://www.telesurtv.net/condenan-asesinato-de-diandra-zamora-lideresa-indigena-y-juvenil-en-colombia/",
+  "title": "Condenan asesinato de Diandra Zamora, lideresa indígena y juvenil en Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "denuncia",
+    "Departamento Guaviare",
+    "líderes sociales asesinados",
+    "paz"
+  ],
+  "text": "La joven dedicó su corta vida a la defensa de los derechos de las mujeres y las familias como coordinadora de la Asociación de Autoridades Tradicionales Indígenas de Miraflores, Guaviare.\nDiandra Natalia Zamora fue asesinada en Miraflores, Guaviare, en circunstancias aún desconocidas. Este crimen se suma a la larga lista de ataques contra defensores sociales en Colombia, cuyas muertes levantan aún más las voces que exigen justicia y el fin de la impunidad.\n\nEsta lideresa social creó el compromiso con la comunidad y su lucha por la justicia social, dándose a conocer como un símbolo de resistencia y esperanza.\nSu legado permanecerá como un llamado a la protección de los líderes sociales y los pueblos originarios. Como dirigente de la ASATRIMIG, su lucha por los derechos de su comunidad, no tuvo límites.\n\n\nEl asesinato de Diandra Natalia Zamora, enciende las alarmas sobre la violencia sistemática contra defensores sociales en Colombia. Este crimen, evidencia la urgencia de proteger a quienes luchan por los derechos de los pueblos originarios y exige acciones concretas para frenar la impunidad.\nAsimismo, la Defensoría del Pueblo, a través de las Alertas Tempranas 007/24 y 019/23, advierte sobre el alto riesgo que corren quienes defienden los derechos colectivos e individuales en el país.\nLa imposición de normas y controles sociales por parte de grupos armados, perpetúa un escenario de violaciones sistemáticas a los derechos fundamentales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/condenan-asesinato-de-diandra-zamora-lideresa-indigena-y-juvenil-en-colombia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1105,
+    "message_id": 89414,
+    "date": "2025-03-18T02:23:42+00:00",
+    "text": "🌐 Noticias de la web que debes conocer\n\n▪ ALBA-TCP condena decisión de EE.UU. de invocar la Ley de Enemigos Extranjeros\nhttps://www.telesurtv.net/alba-tcp-condena-decision-de-ee-uu-de-invocar-la-ley-de-enemigos-extranjeros/\n\n▪ Condenan asesinato de Diandra Zamora, lideresa indígena y juvenil en Colombia\nhttps://www.telesurtv.net/condenan-asesinato-de-diandra-zamora-lideresa-indigena-y-juvenil-en-colombia/\n\n▪ Venezuela asegura que acabará con vestigios del narcotráfico de Colombia en su territorio\nhttps://www.telesurtv.net/venezuela-asegura-que-acabara-con-vestigios-del-narcotrafico-de-colombia-en-su-territorio/\n\nSíguenos en 📲",
+    "photo_path": null,
+    "views": 1694,
+    "reactions": {
+      "👍": 33
+    },
+    "total_reactions": 33
+  },
+  "preprocessing": {
+    "cleaned": "la joven dedicó su corta vida a la defensa de los derechos de las mujeres y las familias como coordinadora de la asociación de autoridades tradicionales indígenas de miraflores, guaviare. diandra natalia zamora fue asesinada en miraflores, guaviare, en circunstancias aún desconocidas. este crimen se suma a la larga lista de ataques contra defensores sociales en colombia, cuyas muertes levantan aún más las voces que exigen justicia y el fin de la impunidad. esta lideresa social creó el compromiso con la comunidad y su lucha por la justicia social, dándose a conocer como un símbolo de resistencia y esperanza. su legado permanecerá como un llamado a la protección de los líderes sociales y los pueblos originarios. como dirigente de la asatrimig, su lucha por los derechos de su comunidad, no tuvo límites. el asesinato de diandra natalia zamora, enciende las alarmas sobre la violencia sistemática contra defensores sociales en colombia. este crimen, evidencia la urgencia de proteger a quienes luchan por los derechos de los pueblos originarios y exige acciones concretas para frenar la impunidad. asimismo, la defensoría del pueblo, a través de las alertas tempranas 007/24 y 019/23, advierte sobre el alto riesgo que corren quienes defienden los derechos colectivos e individuales en el país. la imposición de normas y controles sociales por parte de grupos armados, perpetúa un escenario de violaciones sistemáticas a los derechos fundamentales.",
+    "tokens": [
+      "joven",
+      "dedicó",
+      "corta",
+      "vida",
+      "defensa",
+      "derechos",
+      "mujeres",
+      "familias",
+      "coordinadora",
+      "asociación",
+      "autoridades",
+      "tradicionales",
+      "indígenas",
+      "miraflores",
+      ",",
+      "guaviare",
+      ".",
+      "diandra",
+      "natalia",
+      "zamora",
+      "asesinada",
+      "miraflores",
+      ",",
+      "guaviare",
+      ",",
+      "circunstancias",
+      "aún",
+      "desconocidas",
+      ".",
+      "crimen",
+      "suma",
+      "larga",
+      "lista",
+      "ataques",
+      "defensores",
+      "sociales",
+      "colombia",
+      ",",
+      "cuyas",
+      "muertes",
+      "levantan",
+      "aún",
+      "voces",
+      "exigen",
+      "justicia",
+      "fin",
+      "impunidad",
+      ".",
+      "lideresa",
+      "social",
+      "creó",
+      "compromiso",
+      "comunidad",
+      "lucha",
+      "justicia",
+      "social",
+      ",",
+      "dándose",
+      "conocer",
+      "símbolo",
+      "resistencia",
+      "esperanza",
+      ".",
+      "legado",
+      "permanecerá",
+      "llamado",
+      "protección",
+      "líderes",
+      "sociales",
+      "pueblos",
+      "originarios",
+      ".",
+      "dirigente",
+      "asatrimig",
+      ",",
+      "lucha",
+      "derechos",
+      "comunidad",
+      ",",
+      "límites",
+      ".",
+      "asesinato",
+      "diandra",
+      "natalia",
+      "zamora",
+      ",",
+      "enciende",
+      "alarmas",
+      "violencia",
+      "sistemática",
+      "defensores",
+      "sociales",
+      "colombia",
+      ".",
+      "crimen",
+      ",",
+      "evidencia",
+      "urgencia",
+      "proteger",
+      "luchan",
+      "derechos",
+      "pueblos",
+      "originarios",
+      "exige",
+      "acciones",
+      "concretas",
+      "frenar",
+      "impunidad",
+      ".",
+      "asimismo",
+      ",",
+      "defensoría",
+      "pueblo",
+      ",",
+      "través",
+      "alertas",
+      "tempranas",
+      "007/24",
+      "019/23",
+      ",",
+      "advierte",
+      "alto",
+      "riesgo",
+      "corren",
+      "defienden",
+      "derechos",
+      "colectivos",
+      "individuales",
+      "país",
+      ".",
+      "imposición",
+      "normas",
+      "controles",
+      "sociales",
+      "parte",
+      "grupos",
+      "armados",
+      ",",
+      "perpetúa",
+      "escenario",
+      "violaciones",
+      "sistemáticas",
+      "derechos",
+      "fundamentales",
+      "."
+    ],
+    "token_count": 145,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "RB": 1,
+      "VBZ": 5,
+      "JJ": 28,
+      "NN": 52,
+      "FW": 47,
+      "NNS": 22,
+      "VBP": 15,
+      "IN": 8,
+      "VBD": 1,
+      "DT": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-RB": 1,
+      "RB-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-NN": 17,
+      "NN-NN": 24,
+      "NN-FW": 7,
+      "FW-FW": 26,
+      "FW-NNS": 4,
+      "NNS-VBP": 11,
+      "VBP-JJ": 11,
+      "JJ-JJ": 4,
+      "NN-IN": 6,
+      "IN-FW": 5,
+      "FW-NNP": 9,
+      "NNP-FW": 6,
+      "NNP-NNP": 11,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-NNP": 4,
+      "FW-NN": 4,
+      "NN-JJ": 4,
+      "JJ-NNP": 1,
+      "NNP-NNS": 2,
+      "FW-JJ": 4,
+      "JJ-NNS": 4,
+      "NNS-VBZ": 2,
+      "VBZ-IN": 2,
+      "IN-NNP": 2,
+      "NNP-VBP": 2,
+      "VBP-NNS": 2,
+      "NN-NNS": 4,
+      "NNS-NNS": 4,
+      "NN-VBP": 1,
+      "NNS-NNP": 1,
+      "NNP-NN": 5,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "JJ-FW": 1,
+      "NNP-CD": 1,
+      "CD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 3,
+      "JJ-VBP": 1,
+      "VBP-FW": 1,
+      "VBP-NN": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 13,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 15,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-JJ": 3,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 2,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNS": 3,
+      "JJ-NNS-VBZ": 2,
+      "NNS-VBZ-IN": 2,
+      "VBZ-IN-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 4,
+      "NN-NN-IN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-JJ-NN": 3,
+      "FW-NNS-NNS": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 3,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-FW": 2,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 52,
+        "FW": 47,
+        "NNP": 30,
+        "JJ": 28,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "FW-FW": 26,
+        "NN-NN": 24,
+        "JJ-NN": 17,
+        "NNS-VBP": 11,
+        "VBP-JJ": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 15,
+        "NN-NN-NN": 13,
+        "JJ-NN-NN": 8,
+        "NNS-VBP-JJ": 8,
+        "NN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 24,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Guaviare', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Diandra', 'NNP') ('Natalia', 'NNP') ('Zamora', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "VP -> ('sociales', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('pueblos', 'JJ') ('originarios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('derechos', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "dedicó su corta vida a la defensa"
+      },
+      {
+        "label": "NP",
+        "text": "su corta vida"
+      },
+      {
+        "label": "NP",
+        "text": "a la defensa"
+      },
+      {
+        "label": "NP",
+        "text": "mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y las familias como coordinadora"
+      },
+      {
+        "label": "NP",
+        "text": "las familias como coordinadora"
+      },
+      {
+        "label": "NP",
+        "text": "Asociación"
+      },
+      {
+        "label": "NP",
+        "text": "Autoridades Tradicionales Indígenas"
+      },
+      {
+        "label": "NP",
+        "text": "Miraflores"
+      },
+      {
+        "label": "NP",
+        "text": "Guaviare"
+      },
+      {
+        "label": "NP",
+        "text": "Diandra Natalia Zamora"
+      },
+      {
+        "label": "VP",
+        "text": "fue asesinada en Miraflores"
+      },
+      {
+        "label": "NP",
+        "text": "asesinada en Miraflores"
+      },
+      {
+        "label": "NP",
+        "text": "Guaviare"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  joven/RB\n  (VP\n    dedicó/VBZ\n    (NP su/JJ corta/NN vida/NN)\n    (NP a/DT la/NN defensa/NN))\n  de/IN\n  los/FW\n  derechos/FW\n  de/FW\n  las/FW\n  (NP mujeres/NNS)\n  (VP y/VBP (NP las/JJ familias/JJ como/NN coordinadora/NN))\n  de/IN\n  la/FW\n  (NP Asociación/NNP)\n  de/FW\n  (NP Autoridades/NNP Tradicionales/NNP Indígenas/NNP)\n  de/FW\n  (NP Miraflores/NNP)\n  ,/,\n  (NP Guaviare/NNP)\n  ./.)",
+      "(S\n  (NP Diandra/NNP Natalia/NNP Zamora/NNP)\n  (VP fue/VBD (NP asesinada/JJ en/NN Miraflores/NNP))\n  ,/,\n  (NP Guaviare/NNP)\n  ,/,\n  en/FW\n  (NP circunstancias/NN aún/NN desconocidas/NN)\n  ./.)",
+      "(S\n  (NP Este/NNP crimen/NNS)\n  (VP se/VBP)\n  (VP suma/VB (NP a/DT la/NN) (NP larga/JJ lista/NN))\n  (PP de/IN (NP ataques/NNS))\n  (NP contra/JJ defensores/NNS)\n  (VP sociales/VBZ)\n  (PP en/IN (NP Colombia/NNP))\n  ,/,\n  (NP cuyas/NN muertes/NNS)\n  (VP levantan/VBP (NP aún/JJ más/NN las/NNS voces/NNS))\n  (VP que/VBP (NP exigen/NN justicia/NN y/NN))\n  el/FW\n  (NP fin/NN)\n  de/IN\n  la/FW\n  (NP impunidad/NN)\n  ./.)",
+      "(S\n  (NP Esta/NNP)\n  (VP\n    lideresa/VBZ\n    (NP\n      social/JJ\n      creó/NN\n      el/NN\n      compromiso/NN\n      con/NN\n      la/NN\n      comunidad/NN\n      y/NN\n      su/NN\n      lucha/NN\n      por/NN\n      la/NN\n      justicia/NN)\n    social/JJ)\n  ,/,\n  (VP dándose/VB (NP a/DT conocer/NN como/NN) (NP un/JJ símbolo/NN))\n  de/IN\n  resistencia/FW\n  (NP y/NN esperanza/NN)\n  ./.)",
+      "(S\n  (NP Su/NNP)\n  (VP legado/VBZ (NP permanecerá/JJ como/NN) un/JJ)\n  (VP llamado/VBZ (NP a/DT la/NN protección/NN))\n  de/IN\n  los/FW\n  (NP líderes/NNS sociales/NNS)\n  y/RB\n  (VP los/VBP (NP pueblos/JJ originarios/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "GRUPOS_ESPECIFICOS",
+      "PAISES",
+      "JUSTICIA_SOCIAL",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensoría del pueblo, a través de las alertas tempranas 007/24 y 019/23, advierte sobre el alto riesgo",
+        "position": [
+          1121,
+          1224
+        ],
+        "start": 1121,
+        "end": 1224
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          35,
+          42
+        ],
+        "start": 35,
+        "end": 42
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "lucha por la justicia social",
+        "position": [
+          524,
+          552
+        ],
+        "start": 524,
+        "end": 552
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "indígenas",
+        "position": [
+          153,
+          162
+        ],
+        "start": 153,
+        "end": 162
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          66,
+          73
+        ],
+        "start": 66,
+        "end": 73
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          364,
+          372
+        ],
+        "start": 364,
+        "end": 372
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "justicia social",
+        "position": [
+          537,
+          552
+        ],
+        "start": 537,
+        "end": 552
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Asociación de Autoridades Tradicionales Indígenas de Miraflores",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Diandra Natalia Zamora",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guaviare",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Miraflores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Diandra Natalia Zamora",
+        "relacion": "ASESINAR",
+        "objeto": "Miraflores"
+      },
+      {
+        "sujeto": "Diandra Natalia Zamora",
+        "relacion": "ASESINAR",
+        "objeto": "Guaviare"
+      },
+      {
+        "sujeto": "Diandra Natalia Zamora",
+        "relacion": "ENCENDER",
+        "objeto": "Colombia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

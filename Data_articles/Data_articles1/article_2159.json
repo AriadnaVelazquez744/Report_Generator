@@ -1,0 +1,746 @@
+{
+  "url": "https://www.telesurtv.net/brasil-exigira-a-ee-uu-que-garantice-condiciones-dignas-en-deportaciones-de-sus-nacionales/",
+  "title": "Brasil exigirá a EE.UU. que garantice condiciones dignas en deportaciones de sus nacionales - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Brasil",
+    "denuncia",
+    "deportaciones",
+    "EE.UU."
+  ],
+  "text": "El Gobierno de Brasil exigirá a Estados Unidos que garantice condiciones dignas para los brasileños deportados.\nRecientemente, 88 ciudadanos brasileños llegaron al aeropuerto de Manaos, en el norte del país, informando que habían sido transportados con las manos y pies atados, lo que demuestra las condiciones inhumanas en el traslado.\nAdemás, manifestaron haber sufrido la falta de alimentación y agresiones por parte de los agentes de migración estadounidenses.\nEste incidente ha llevado al presidente Lula da Silva a convocar una reunión con diversos ministros y representantes de las fuerzas de seguridad del país.\nEl corresponsal de teleSUR en el gigante suramericano, André Vieira, subrayó en su perfil de X que durante este encuentro, se discutieron las graves violaciones de derechos humanos reportadas por los deportados y se definieron acciones concretas que el Gobierno pretende adoptar ante tales situaciones.\nPor su parte, el canciller brasileño, Mauro Vieira, subrayó la importancia de encontrar soluciones adecuadas para el regreso de los brasileños repatriados.\nVieira enfatizó que el Gobierno está comprometido en asegurar el respeto de los derechos humanos durante el viaje, así como en proporcionar la atención necesaria a los pasajeros durante su repatriación.\nLa situación ha puesto el foco en los procedimientos de deportación de Estados Unidos, que en ocasiones han sido criticados por su falta de consideración hacia los derechos de los migrantes.\nBrasil espera que, al plantear sus preocupaciones, se logren mejoras significativas en las condiciones en que son transportados sus ciudadanos.\nAnualmente, se estima que entre 12 y 14 vuelos de deportación de brasileños desde Estados Unidos lleguen a Brasil.\nEste dato revela la magnitud del fenómeno y la necesidad de establecer protocolos claros que garanticen la dignidad de los deportados en su retorno a casa.\nEl Gobierno brasileño se mantiene firme en su postura de proteger a sus ciudadanos, abogando por un trato humanitario en todos los aspectos relacionados con la deportación.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/brasil-exigira-a-ee-uu-que-garantice-condiciones-dignas-en-deportaciones-de-sus-nacionales/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 226,
+    "message_id": 85670,
+    "date": "2025-01-29T02:55:18+00:00",
+    "text": "teleSUR\nBrasil exigirá a EE.UU. que garantice condiciones dignas en deportaciones de sus nacionales\nhttps://www.telesurtv.net/brasil-exigira-a-ee-uu-que-garantice-condiciones-dignas-en-deportaciones-de-sus-nacionales/",
+    "photo_path": null,
+    "views": 2246,
+    "reactions": {
+      "👍": 41,
+      "👏": 7,
+      "💩": 6,
+      "🤣": 3,
+      "👌": 2,
+      "🤡": 1
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de brasil exigirá a estados unidos que garantice condiciones dignas para los brasileños deportados. recientemente, 88 ciudadanos brasileños llegaron al aeropuerto de manaos, en el norte del país, informando que habían sido transportados con las manos y pies atados, lo que demuestra las condiciones inhumanas en el traslado. además, manifestaron haber sufrido la falta de alimentación y agresiones por parte de los agentes de migración estadounidenses. este incidente ha llevado al presidente lula da silva a convocar una reunión con diversos ministros y representantes de las fuerzas de seguridad del país. el corresponsal de telesur en el gigante suramericano, andré vieira, subrayó en su perfil de x que durante este encuentro, se discutieron las graves violaciones de derechos humanos reportadas por los deportados y se definieron acciones concretas que el gobierno pretende adoptar ante tales situaciones. por su parte, el canciller brasileño, mauro vieira, subrayó la importancia de encontrar soluciones adecuadas para el regreso de los brasileños repatriados. vieira enfatizó que el gobierno está comprometido en asegurar el respeto de los derechos humanos durante el viaje, así como en proporcionar la atención necesaria a los pasajeros durante su repatriación. la situación ha puesto el foco en los procedimientos de deportación de estados unidos, que en ocasiones han sido criticados por su falta de consideración hacia los derechos de los migrantes. brasil espera que, al plantear sus preocupaciones, se logren mejoras significativas en las condiciones en que son transportados sus ciudadanos. anualmente, se estima que entre 12 y 14 vuelos de deportación de brasileños desde estados unidos lleguen a brasil. este dato revela la magnitud del fenómeno y la necesidad de establecer protocolos claros que garanticen la dignidad de los deportados en su retorno a casa. el gobierno brasileño se mantiene firme en su postura de proteger a sus ciudadanos, abogando por un trato humanitario en todos los aspectos relacionados con la deportación.",
+    "tokens": [
+      "gobierno",
+      "brasil",
+      "exigirá",
+      "unidos",
+      "garantice",
+      "condiciones",
+      "dignas",
+      "brasileños",
+      "deportados",
+      ".",
+      "recientemente",
+      ",",
+      "88",
+      "ciudadanos",
+      "brasileños",
+      "llegaron",
+      "aeropuerto",
+      "manaos",
+      ",",
+      "norte",
+      "país",
+      ",",
+      "informando",
+      "sido",
+      "transportados",
+      "manos",
+      "pies",
+      "atados",
+      ",",
+      "demuestra",
+      "condiciones",
+      "inhumanas",
+      "traslado",
+      ".",
+      "además",
+      ",",
+      "manifestaron",
+      "haber",
+      "sufrido",
+      "falta",
+      "alimentación",
+      "agresiones",
+      "parte",
+      "agentes",
+      "migración",
+      "estadounidenses",
+      ".",
+      "incidente",
+      "llevado",
+      "presidente",
+      "lula",
+      "da",
+      "silva",
+      "convocar",
+      "reunión",
+      "diversos",
+      "ministros",
+      "representantes",
+      "fuerzas",
+      "seguridad",
+      "país",
+      ".",
+      "corresponsal",
+      "telesur",
+      "gigante",
+      "suramericano",
+      ",",
+      "andré",
+      "vieira",
+      ",",
+      "subrayó",
+      "perfil",
+      "x",
+      "encuentro",
+      ",",
+      "discutieron",
+      "graves",
+      "violaciones",
+      "derechos",
+      "humanos",
+      "reportadas",
+      "deportados",
+      "definieron",
+      "acciones",
+      "concretas",
+      "gobierno",
+      "pretende",
+      "adoptar",
+      "tales",
+      "situaciones",
+      ".",
+      "parte",
+      ",",
+      "canciller",
+      "brasileño",
+      ",",
+      "mauro",
+      "vieira",
+      ",",
+      "subrayó",
+      "importancia",
+      "encontrar",
+      "soluciones",
+      "adecuadas",
+      "regreso",
+      "brasileños",
+      "repatriados",
+      ".",
+      "vieira",
+      "enfatizó",
+      "gobierno",
+      "comprometido",
+      "asegurar",
+      "respeto",
+      "derechos",
+      "humanos",
+      "viaje",
+      ",",
+      "así",
+      "proporcionar",
+      "atención",
+      "necesaria",
+      "pasajeros",
+      "repatriación",
+      ".",
+      "situación",
+      "puesto",
+      "foco",
+      "procedimientos",
+      "deportación",
+      "unidos",
+      ",",
+      "ocasiones",
+      "sido",
+      "criticados",
+      "falta",
+      "consideración",
+      "hacia",
+      "derechos",
+      "migrantes",
+      ".",
+      "brasil",
+      "espera",
+      ",",
+      "plantear",
+      "preocupaciones",
+      ",",
+      "logren",
+      "mejoras",
+      "significativas",
+      "condiciones",
+      "transportados",
+      "ciudadanos",
+      ".",
+      "anualmente",
+      ",",
+      "estima",
+      "12",
+      "14",
+      "vuelos",
+      "deportación",
+      "brasileños",
+      "unidos",
+      "lleguen",
+      "brasil",
+      ".",
+      "dato",
+      "revela",
+      "magnitud",
+      "fenómeno",
+      "necesidad",
+      "establecer",
+      "protocolos",
+      "claros",
+      "garanticen",
+      "dignidad",
+      "deportados",
+      "retorno",
+      "casa",
+      ".",
+      "gobierno",
+      "brasileño",
+      "mantiene",
+      "firme",
+      "postura",
+      "proteger",
+      "ciudadanos",
+      ",",
+      "abogando",
+      "trato",
+      "humanitario",
+      "aspectos",
+      "relacionados",
+      "deportación",
+      "."
+    ],
+    "token_count": 195,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "IN": 17,
+      "CC": 1,
+      "NN": 100,
+      "NNS": 25,
+      "VBP": 16,
+      "JJ": 28,
+      "CD": 3,
+      "FW": 73,
+      "VBZ": 4,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 10,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "NNP-NN": 12,
+      "NN-NN": 51,
+      "NN-NNS": 10,
+      "NNS-VBP": 14,
+      "VBP-JJ": 11,
+      "JJ-NN": 19,
+      "NN-NNP": 9,
+      "NNP-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 2,
+      "NN-IN": 12,
+      "NNP-FW": 2,
+      "FW-FW": 48,
+      "FW-NN": 11,
+      "JJ-NNS": 4,
+      "NN-JJ": 3,
+      "JJ-JJ": 3,
+      "NNS-NNS": 3,
+      "NN-FW": 11,
+      "FW-NNS": 7,
+      "VBP-NN": 4,
+      "IN-FW": 10,
+      "NNS-IN": 2,
+      "NNS-NNP": 3,
+      "NNP-VBP": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "FW-NNP": 4,
+      "NNS-FW": 1,
+      "JJ-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "FW-JJ": 3,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "VBZ-JJ": 1,
+      "IN-JJ": 4,
+      "NN-VBP": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-CD": 1,
+      "CD-NN": 1,
+      "VBZ-NNP": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-NNP": 1,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NN": 10,
+      "NN-NN-NNS": 6,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 11,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 25,
+      "NN-NN-NNP": 5,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 35,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 7,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 1,
+      "NN-IN-FW": 8,
+      "IN-FW-NNS": 3,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NN-FW": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NNS-NNS": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-FW": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-FW": 4,
+      "FW-NN-IN": 1,
+      "FW-JJ-NNS": 1,
+      "FW-NN-NNP": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 4,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "JJ-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 100,
+        "FW": 73,
+        "NNP": 32,
+        "JJ": 28,
+        "NNS": 25
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "FW-FW": 48,
+        "JJ-NN": 19,
+        "NNS-VBP": 14,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 25,
+        "NNS-VBP-JJ": 11,
+        "JJ-NN-NN": 11,
+        "NNP-NN-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 80,
+      "PP": 8,
+      "VP": 24,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.04
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "NP -> ('país', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('subrayó', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP PP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "VP -> ('exigirá', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Estados', 'NNP') ('Unidos', 'NNP') ('que', 'NN') ('garantice', 'NN') ('condiciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Brasil"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil"
+      },
+      {
+        "label": "VP",
+        "text": "exigirá a Estados Unidos que garantice condiciones"
+      },
+      {
+        "label": "NP",
+        "text": "a Estados Unidos que garantice condiciones"
+      },
+      {
+        "label": "VP",
+        "text": "dignas para los brasileños deportados"
+      },
+      {
+        "label": "NP",
+        "text": "para los brasileños deportados"
+      },
+      {
+        "label": "NP",
+        "text": "Recientemente"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos"
+      },
+      {
+        "label": "NP",
+        "text": "brasileños llegaron al aeropuerto"
+      },
+      {
+        "label": "PP",
+        "text": "de Manaos"
+      },
+      {
+        "label": "NP",
+        "text": "Manaos"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "informando que habían sido transportados con las"
+      },
+      {
+        "label": "VP",
+        "text": "manos y pies"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Brasil/NNP))\n  (VP\n    exigirá/VBD\n    (NP\n      a/DT\n      Estados/NNP\n      Unidos/NNP\n      que/NN\n      garantice/NN\n      condiciones/NNS))\n  (VP dignas/VBP (NP para/JJ los/NN brasileños/NN deportados/NN))\n  ./.)",
+      "(S\n  (NP Recientemente/NNP)\n  ,/,\n  88/CD\n  (NP ciudadanos/NNS)\n  (NP brasileños/JJ llegaron/NN al/NN aeropuerto/NN)\n  (PP de/IN (NP Manaos/NNP))\n  ,/,\n  en/FW\n  el/FW\n  norte/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP\n    informando/JJ\n    que/NN\n    habían/NN\n    sido/NN\n    transportados/NN\n    con/NN\n    las/NNS)\n  (VP manos/VBP (NP y/JJ pies/NNS))\n  (VP atados/VBP)\n  ,/,\n  (NP lo/JJ que/NN)\n  (NP demuestra/JJ las/JJ condiciones/NNS inhumanas/NNS)\n  (VP en/VBP (NP el/JJ traslado/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP manifestaron/NNP haber/NNP sufrido/NN la/NN)\n  falta/FW\n  de/FW\n  alimentación/FW\n  y/CC\n  (NP agresiones/NNS)\n  (VP por/VBP (NP parte/NN))\n  de/IN\n  los/FW\n  (NP agentes/NNS)\n  (PP de/IN (NP migración/NN estadounidenses/NNS))\n  ./.)",
+      "(S\n  (NP\n    Este/NN\n    incidente/NN\n    ha/NN\n    llevado/NN\n    al/NN\n    presidente/NN\n    Lula/NNP\n    da/NN\n    Silva/NN)\n  (NP a/DT convocar/NN)\n  (NP una/JJ reunión/NN con/NN diversos/NN ministros/NNS)\n  (VP y/VBP)\n  (VP representantes/VBZ)\n  de/IN\n  las/FW\n  fuerzas/FW\n  de/FW\n  seguridad/FW\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP El/NNP corresponsal/NN)\n  de/IN\n  teleSUR/FW\n  en/FW\n  el/FW\n  (NP gigante/NN suramericano/NN)\n  ,/,\n  (NP André/NNP Vieira/NNP)\n  ,/,\n  (NP subrayó/NN)\n  en/FW\n  su/FW\n  perfil/FW\n  de/FW\n  X/FW\n  (NP que/NN durante/NN este/NN encuentro/NN)\n  ,/,\n  se/FW\n  (NP discutieron/NN las/NN graves/NNS)\n  violaciones/FW\n  de/FW\n  derechos/FW\n  (NP humanos/NNS)\n  (VP\n    reportadas/VBP\n    (NP\n      por/JJ\n      los/NN\n      deportados/NN\n      y/NN\n      se/NN\n      definieron/NN\n      acciones/NNS\n      concretas/NNS))\n  (VP\n    que/VBP\n    (NP\n      el/JJ\n      Gobierno/NNP\n      pretende/NN\n      adoptar/NN\n      ante/NN\n      tales/NNS\n      situaciones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "JUSTICIA_SOCIAL",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de brasil exigirá",
+        "position": [
+          3,
+          29
+        ],
+        "start": 3,
+        "end": 29
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente lula da",
+        "position": [
+          494,
+          512
+        ],
+        "start": 494,
+        "end": 512
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "corresponsal de telesur",
+        "position": [
+          623,
+          646
+        ],
+        "start": 623,
+        "end": 646
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          689,
+          696
+        ],
+        "start": 689,
+        "end": 696
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          164,
+          174
+        ],
+        "start": 164,
+        "end": 174
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          15,
+          21
+        ],
+        "start": 15,
+        "end": 21
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          32,
+          46
+        ],
+        "start": 32,
+        "end": 46
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          112,
+          125
+        ],
+        "start": 112,
+        "end": 125
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          784,
+          800
+        ],
+        "start": 784,
+        "end": 800
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Vieira",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mauro Vieira",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "André Vieira",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Manaos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno brasileño",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Brasil",
+        "relacion": "EXIGIR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "SUBRAYAR",
+        "objeto": "André Vieira"
+      },
+      {
+        "sujeto": "Vieira",
+        "relacion": "ENFATIZAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "LLEGAR_ESTIMAR",
+        "objeto": "Brasil"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.3818,
+    "pos": 0.016,
+    "neu": 0.977,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

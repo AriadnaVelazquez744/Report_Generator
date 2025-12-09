@@ -1,0 +1,693 @@
+{
+  "url": "https://www.telesurtv.net/tropas-israelies-incendian-el-hospital-nasser-al-sur-de-gaza/",
+  "title": "Tropas israelíes incendian el hospital Nasser al sur de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Israel",
+    "Palestina"
+  ],
+  "text": "La noche del domingo, el Ejército de Israel lanzó un ataque contra el hospital Nasser de Gaza, situado en la zona sureña de Jan Yunis, la ofensiva sionista provocó un incendio, que devastó la instalación, según comunicó el Ministerio de Sanidad de Gaza.\n“Hace poco, las fuerzas de ocupación atacaron el edificio quirúrgico del Complejo Médico Nasser, que alberga a numerosos pacientes y heridos, y se produjo un gran incendio”, informaron las autoridades de salud del Gobierno de Hamás en un anuncio.\nHasta el momento, se desconoce la cantidad de heridos o de víctimas fatales.\nMédicos voluntarios confirmaron a medios locales el ataque, afirmando que no estaba claro si fue causado por el lanzamiento de un dron o un misil, pero que en el centro también se encontraban presentes tres médicos de Estados Unidos y otros voluntarios de otras naciones.\nEn una nota, el Ejército de Israel confirmó el ataque y aseguró que estaba orientado hacia un miliciano de Hamás “que actuaba dentro del complejo del Hospital Nasser”, sin proporcionar más detalles.\n“El ataque se llevó a cabo tras un exhaustivo proceso de recopilación de inteligencia y con munición precisa, con el fin de mitigar al máximo los daños al entorno circundante”, agrega el texto, que nuevamente acusa a Hamás de “explotar la infraestructura civil”.\nSin embargo, fotos tomadas por ciudadanos y periodistas gazatíes confirman que la segunda planta completa fue incendiada y destruida, afectando a pacientes y personal del hospital.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/tropas-israelies-incendian-el-hospital-nasser-al-sur-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 595,
+    "message_id": 90038,
+    "date": "2025-03-24T12:55:12+00:00",
+    "text": "teleSUR\nTropas israelíes incendian el hospital Nasser al sur de Gaza\nhttps://www.telesurtv.net/tropas-israelies-incendian-el-hospital-nasser-al-sur-de-gaza/",
+    "photo_path": null,
+    "views": 2024,
+    "reactions": {
+      "😢": 26,
+      "😡": 18,
+      "👍": 2,
+      "😈": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "la noche del domingo, el ejército de israel lanzó un ataque contra el hospital nasser de gaza, situado en la zona sureña de jan yunis, la ofensiva sionista provocó un incendio, que devastó la instalación, según comunicó el ministerio de sanidad de gaza. “hace poco, las fuerzas de ocupación atacaron el edificio quirúrgico del complejo médico nasser, que alberga a numerosos pacientes y heridos, y se produjo un gran incendio”, informaron las autoridades de salud del gobierno de hamás en un anuncio. hasta el momento, se desconoce la cantidad de heridos o de víctimas fatales. médicos voluntarios confirmaron a medios locales el ataque, afirmando que no estaba claro si fue causado por el lanzamiento de un dron o un misil, pero que en el centro también se encontraban presentes tres médicos de estados unidos y otros voluntarios de otras naciones. en una nota, el ejército de israel confirmó el ataque y aseguró que estaba orientado hacia un miliciano de hamás “que actuaba dentro del complejo del hospital nasser”, sin proporcionar más detalles. “el ataque se llevó a cabo tras un exhaustivo proceso de recopilación de inteligencia y con munición precisa, con el fin de mitigar al máximo los daños al entorno circundante”, agrega el texto, que nuevamente acusa a hamás de “explotar la infraestructura civil”. sin embargo, fotos tomadas por ciudadanos y periodistas gazatíes confirman que la segunda planta completa fue incendiada y destruida, afectando a pacientes y personal del hospital.",
+    "tokens": [
+      "noche",
+      "domingo",
+      ",",
+      "ejército",
+      "israel",
+      "lanzó",
+      "ataque",
+      "hospital",
+      "nasser",
+      "gaza",
+      ",",
+      "situado",
+      "zona",
+      "sureña",
+      "jan",
+      "yunis",
+      ",",
+      "ofensiva",
+      "sionista",
+      "provocó",
+      "incendio",
+      ",",
+      "devastó",
+      "instalación",
+      ",",
+      "según",
+      "comunicó",
+      "ministerio",
+      "sanidad",
+      "gaza",
+      ".",
+      "“",
+      "hace",
+      ",",
+      "fuerzas",
+      "ocupación",
+      "atacaron",
+      "edificio",
+      "quirúrgico",
+      "complejo",
+      "médico",
+      "nasser",
+      ",",
+      "alberga",
+      "numerosos",
+      "pacientes",
+      "heridos",
+      ",",
+      "produjo",
+      "gran",
+      "incendio",
+      "”",
+      ",",
+      "informaron",
+      "autoridades",
+      "salud",
+      "gobierno",
+      "hamás",
+      "anuncio",
+      ".",
+      "momento",
+      ",",
+      "desconoce",
+      "cantidad",
+      "heridos",
+      "víctimas",
+      "fatales",
+      ".",
+      "médicos",
+      "voluntarios",
+      "confirmaron",
+      "medios",
+      "locales",
+      "ataque",
+      ",",
+      "afirmando",
+      "claro",
+      "si",
+      "causado",
+      "lanzamiento",
+      "dron",
+      "misil",
+      ",",
+      "centro",
+      "encontraban",
+      "presentes",
+      "tres",
+      "médicos",
+      "unidos",
+      "voluntarios",
+      "naciones",
+      ".",
+      "nota",
+      ",",
+      "ejército",
+      "israel",
+      "confirmó",
+      "ataque",
+      "aseguró",
+      "orientado",
+      "hacia",
+      "miliciano",
+      "hamás",
+      "“",
+      "actuaba",
+      "dentro",
+      "complejo",
+      "hospital",
+      "nasser",
+      "”",
+      ",",
+      "proporcionar",
+      "detalles",
+      ".",
+      "“",
+      "ataque",
+      "llevó",
+      "cabo",
+      "tras",
+      "exhaustivo",
+      "proceso",
+      "recopilación",
+      "inteligencia",
+      "munición",
+      "precisa",
+      ",",
+      "fin",
+      "mitigar",
+      "máximo",
+      "daños",
+      "entorno",
+      "circundante",
+      "”",
+      ",",
+      "agrega",
+      "texto",
+      ",",
+      "nuevamente",
+      "acusa",
+      "hamás",
+      "“",
+      "explotar",
+      "infraestructura",
+      "civil",
+      "”",
+      ".",
+      "embargo",
+      ",",
+      "fotos",
+      "tomadas",
+      "ciudadanos",
+      "periodistas",
+      "gazatíes",
+      "confirman",
+      "segunda",
+      "planta",
+      "completa",
+      "incendiada",
+      "destruida",
+      ",",
+      "afectando",
+      "pacientes",
+      "personal",
+      "hospital",
+      "."
+    ],
+    "token_count": 165,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "CC": 1,
+      "FW": 49,
+      "NN": 93,
+      "IN": 7,
+      "JJ": 22,
+      "VBP": 6,
+      "VBZ": 3,
+      "NNS": 11,
+      "DT": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-FW": 1,
+      "FW-NN": 8,
+      "NN-FW": 8,
+      "FW-NNP": 9,
+      "NNP-IN": 3,
+      "IN-NNP": 4,
+      "NNP-NNP": 8,
+      "NNP-JJ": 2,
+      "JJ-NN": 17,
+      "NN-NN": 58,
+      "NN-VBP": 2,
+      "VBP-NN": 1,
+      "NN-NNP": 4,
+      "NNP-NN": 7,
+      "FW-FW": 28,
+      "NNP-FW": 6,
+      "NN-JJ": 9,
+      "NNP-VBP": 1,
+      "VBP-JJ": 4,
+      "NN-IN": 4,
+      "IN-FW": 3,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "FW-JJ": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-NNS": 2,
+      "NNS-NNP": 3,
+      "NNP-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-NNS": 1,
+      "NNS-NNS": 2,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-NNS": 4,
+      "NNS-FW": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-FW": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NNP": 2,
+      "JJ-NNS": 1,
+      "NNS-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-FW": 1,
+      "CC-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 3,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 11,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-IN": 2,
+      "IN-NNP-NN": 3,
+      "NNP-NN-NN": 7,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 17,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 8,
+      "NN-NN-NN": 34,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NN": 5,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "NNS-NNP-JJ": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-IN-NNP": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-FW": 2,
+      "NN-NN-IN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNS-VBP": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 93,
+        "FW": 49,
+        "NNP": 31,
+        "JJ": 22,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 28,
+        "JJ-NN": 17,
+        "FW-NNP": 9,
+        "NN-JJ": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 11,
+        "NN-JJ-NN": 8,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 66,
+      "PP": 5,
+      "VP": 13,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0543
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('Ejército', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "S -> NP ('noche', 'CC') NP (',', ',') NP PP NP VP PP (',', ',') NP ('en', 'FW') ('la', 'FW') ('zona', 'FW') ('sureña', 'FW') ('de', 'FW') NP (',', ',') NP ('ofensiva', 'FW') NP NP (',', ',') NP (',', ',') NP PP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('del', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('lanzó', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('ataque', 'NN') ('contra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0109
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "del domingo"
+      },
+      {
+        "label": "NP",
+        "text": "el Ejército"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel lanzó"
+      },
+      {
+        "label": "NP",
+        "text": "Israel lanzó"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque contra"
+      },
+      {
+        "label": "VP",
+        "text": "el hospital Nasser"
+      },
+      {
+        "label": "NP",
+        "text": "hospital Nasser"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "situado"
+      },
+      {
+        "label": "NP",
+        "text": "Jan Yunis"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "sionista provocó"
+      },
+      {
+        "label": "NP",
+        "text": "un incendio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  noche/CC\n  (NP del/NN domingo/NN)\n  ,/,\n  (NP el/JJ Ejército/NNP)\n  (PP de/IN (NP Israel/NNP lanzó/NNP))\n  (NP un/JJ ataque/NN contra/NN)\n  (VP el/VBP (NP hospital/NN Nasser/NNP))\n  (PP de/IN (NP Gaza/NNP))\n  ,/,\n  (NP situado/NN)\n  en/FW\n  la/FW\n  zona/FW\n  sureña/FW\n  de/FW\n  (NP Jan/NNP Yunis/NNP)\n  ,/,\n  (NP la/NN)\n  ofensiva/FW\n  (NP sionista/NN provocó/NN)\n  (NP un/JJ incendio/NN)\n  ,/,\n  (NP que/NN devastó/NN la/NN instalación/NN)\n  ,/,\n  (NP según/JJ comunicó/NN el/NN Ministerio/NNP)\n  (PP de/IN (NP Sanidad/NNP))\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Hace/NNP poco/NN)\n  ,/,\n  (NP las/JJ fuerzas/NN)\n  de/IN\n  ocupación/FW\n  (NP\n    atacaron/NN\n    el/NN\n    edificio/NN\n    quirúrgico/NN\n    del/NN\n    Complejo/NNP\n    Médico/NNP\n    Nasser/NNP)\n  ,/,\n  (NP que/NN)\n  (VP alberga/VBD (NP a/DT numerosos/JJ pacientes/NNS))\n  (VP y/VBP (NP heridos/NN))\n  ,/,\n  y/FW\n  se/FW\n  produjo/FW\n  (NP un/JJ gran/NN incendio/NN ”/NNP)\n  ,/,\n  (NP informaron/NN las/NNS)\n  autoridades/IN\n  de/IN\n  salud/FW\n  del/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Hamás/NNP)\n  en/FW\n  (NP un/JJ anuncio/NN)\n  ./.)",
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  se/FW\n  (NP desconoce/NN)\n  la/FW\n  cantidad/FW\n  de/FW\n  heridos/FW\n  o/FW\n  de/FW\n  víctimas/FW\n  (NP fatales/NNS)\n  ./.)",
+      "(S\n  (NP Médicos/NNP voluntarios/NNS)\n  (VP confirmaron/VBP (NP a/DT medios/NNS))\n  (VP locales/VBZ el/RB ataque/JJ)\n  ,/,\n  (NP afirmando/JJ que/NN)\n  (NP no/DT estaba/NN claro/NN si/NN fue/NN causado/NN por/NN)\n  el/FW\n  lanzamiento/FW\n  de/FW\n  un/FW\n  (NP dron/NN o/NN)\n  (NP un/JJ misil/NN)\n  ,/,\n  (NP pero/NN que/NN)\n  en/FW\n  el/FW\n  (NP centro/NN también/NN)\n  (NP se/JJ encontraban/NN presentes/NNS tres/NNS)\n  médicos/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP y/NNP)\n  otros/MD\n  (VP voluntarios/VB)\n  de/FW\n  otras/FW\n  (NP naciones/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP una/JJ nota/NN)\n  ,/,\n  (NP el/JJ Ejército/NNP)\n  (PP\n    de/IN\n    (NP\n      Israel/NNP\n      confirmó/NN\n      el/NN\n      ataque/NN\n      y/NN\n      aseguró/NN\n      que/NN))\n  (VP estaba/VBP (NP orientado/JJ hacia/NN) (NP un/JJ miliciano/NN))\n  (PP\n    de/IN\n    (NP\n      Hamás/NNP\n      “/NNP\n      que/NN\n      actuaba/NN\n      dentro/NN\n      del/NN\n      complejo/NN))\n  del/FW\n  (NP Hospital/NNP Nasser/NNP ”/NNP)\n  ,/,\n  (NP sin/NN proporcionar/NN más/NN detalles/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          281,
+          290
+        ],
+        "start": 281,
+        "end": 290
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          211,
+          219
+        ],
+        "start": 211,
+        "end": 219
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de hamás en",
+        "position": [
+          468,
+          488
+        ],
+        "start": 468,
+        "end": 488
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          70,
+          78
+        ],
+        "start": 70,
+        "end": 78
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          796,
+          810
+        ],
+        "start": 796,
+        "end": 810
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona sureña",
+        "position": [
+          109,
+          120
+        ],
+        "start": 109,
+        "end": 120
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio quirúrgico",
+        "position": [
+          303,
+          322
+        ],
+        "start": 303,
+        "end": 322
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital nasser",
+        "position": [
+          70,
+          85
+        ],
+        "start": 70,
+        "end": 85
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hace poco",
+        "position": [
+          255,
+          264
+        ],
+        "start": 255,
+        "end": 264
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1316,
+          1323
+        ],
+        "start": 1316,
+        "end": 1323
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Nasser",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "hospital Nasser de",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Médicos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Sanidad de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Complejo Médico Nasser",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Sanidad de Gaza",
+        "relacion": "LANZAR_PROVOCAR",
+        "objeto": "hospital Nasser de"
+      },
+      {
+        "sujeto": "Ministerio de Sanidad de Gaza",
+        "relacion": "LANZAR_PROVOCAR",
+        "objeto": "Jan Yunis"
+      },
+      {
+        "sujeto": "Complejo Médico Nasser",
+        "relacion": "ATACAR_INFORMAR",
+        "objeto": "Gobierno de Hamás"
+      },
+      {
+        "sujeto": "Médicos",
+        "relacion": "CONFIRMAR",
+        "objeto": "Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8555,
+    "pos": 0.0,
+    "neu": 0.96,
+    "neg": 0.04,
+    "label": "negative"
+  }
+}

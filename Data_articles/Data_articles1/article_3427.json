@@ -1,0 +1,914 @@
+{
+  "url": "https://www.telesurtv.net/ee-uu-bombardea-objetivos-civiles-de-yemen-con-apoyo-de-inteligencia-israeli/",
+  "title": "EE.UU. bombardea objetivos civiles de Yemen con apoyo de inteligencia israelí - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Aeropuerto",
+    "agresiones",
+    "Estados Unidos",
+    "genocidio",
+    "Heridos",
+    "hutíes",
+    "Yemen"
+  ],
+  "text": "Estados Unidos ejecutó durante la madrugada y primeras horas de este viernes una nueva escalada militar contra varias zonas de Yemen, que incluyeron zonas residenciales y el Aeropuerto Internacional de Saná.\nLEA TAMBIÉN\nIsrael facilitó información a EE.UU. para atacar a Yemen\nLos aviones de guerra de Estados Unidos lanzaron alrededor de 41 bombardeos, el mayor número desde que reiniciara su campaña a mediados de marzo, los cuales dejaron al menos siete heridos, entre ellos dos menores.\nFueron utilizadas bombas de alto poder explosivo, que se lanzaron contra los alrededores de la capital Saná y su aeropuerto internacional. Se reportan numerosas viviendas destruidas. Se estima que los ataques tenían el objetivo de amedrentar a los civiles.\nDías atrás, mediante otro bombardeo, EE.UU. destruyó un centro hospitalario dedicado a tratamientos oncológicos.\nSegún revelaciones de The Wall Street Journal, la entidad sionista de Israel ha proporcionado a Estados Unidos información de inteligencia.\nDocumentos filtrados de un grupo de mensajería Signal, donde participaban altos funcionarios de la Casa Blanca, detallan cómo el Gobierno de Tel Aviv identificó a un líder importante del movimiento Ansarolá, blanco de un ataque previo el 15 de marzo.\nEl director de The Atlantic, Jeffrey Goldberg, fue añadido por un error al chat y accedió a planes operativos confidenciales relacionados con el ataque de Estados Unidos contra Yemen.\nLa campaña aérea, coordinada junto con Reino Unido, busca frenar las operaciones de las Fuerzas Armadas yemeníes en solidaridad con la resistencia en Gaza y contra las naves israelíes en el Mar Rojo, el estrecho de Bab al-Mandab y el Golfo de Adén.\nSin embargo, Ansarolá ha subrayado que mantendrá sus operaciones contra los barcos vinculados a la entidad sionista de Israel hasta que cese la agresión contra su territorio y el pueblo palestino.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ee-uu-bombardea-objetivos-civiles-de-yemen-con-apoyo-de-inteligencia-israeli/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 220,
+    "message_id": 90478,
+    "date": "2025-03-28T14:55:07+00:00",
+    "text": "teleSUR\nEE.UU. bombardea objetivos civiles de Yemen con apoyo de inteligencia israelí\nhttps://www.telesurtv.net/ee-uu-bombardea-objetivos-civiles-de-yemen-con-apoyo-de-inteligencia-israeli/",
+    "photo_path": null,
+    "views": 1495,
+    "reactions": {
+      "💩": 22,
+      "🤬": 14,
+      "👎": 5
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "estados unidos ejecutó durante la madrugada y primeras horas de este viernes una nueva escalada militar contra varias zonas de yemen, que incluyeron zonas residenciales y el aeropuerto internacional de saná. los aviones de guerra de estados unidos lanzaron alrededor de 41 bombardeos, el mayor número desde que reiniciara su campaña a mediados de marzo, los cuales dejaron al menos siete heridos, entre ellos dos menores. fueron utilizadas bombas de alto poder explosivo, que se lanzaron contra los alrededores de la capital saná y su aeropuerto internacional. se reportan numerosas viviendas destruidas. se estima que los ataques tenían el objetivo de amedrentar a los civiles. días atrás, mediante otro bombardeo, ee.uu. destruyó un centro hospitalario dedicado a tratamientos oncológicos. según revelaciones de the wall street journal, la entidad sionista de israel ha proporcionado a estados unidos información de inteligencia. documentos filtrados de un grupo de mensajería signal, donde participaban altos funcionarios de la casa blanca, detallan cómo el gobierno de tel aviv identificó a un líder importante del movimiento ansarolá, blanco de un ataque previo el 15 de marzo. el director de the atlantic, jeffrey goldberg, fue añadido por un error al chat y accedió a planes operativos confidenciales relacionados con el ataque de estados unidos contra yemen. la campaña aérea, coordinada junto con reino unido, busca frenar las operaciones de las fuerzas armadas yemeníes en solidaridad con la resistencia en gaza y contra las naves israelíes en el mar rojo, el estrecho de bab al-mandab y el golfo de adén. sin embargo, ansarolá ha subrayado que mantendrá sus operaciones contra los barcos vinculados a la entidad sionista de israel hasta que cese la agresión contra su territorio y el pueblo palestino.",
+    "tokens": [
+      "unidos",
+      "ejecutó",
+      "madrugada",
+      "primeras",
+      "horas",
+      "viernes",
+      "nueva",
+      "escalada",
+      "militar",
+      "varias",
+      "zonas",
+      "yemen",
+      ",",
+      "incluyeron",
+      "zonas",
+      "residenciales",
+      "aeropuerto",
+      "internacional",
+      "saná",
+      ".",
+      "aviones",
+      "guerra",
+      "unidos",
+      "lanzaron",
+      "alrededor",
+      "41",
+      "bombardeos",
+      ",",
+      "mayor",
+      "número",
+      "reiniciara",
+      "campaña",
+      "mediados",
+      "marzo",
+      ",",
+      "cuales",
+      "dejaron",
+      "menos",
+      "siete",
+      "heridos",
+      ",",
+      "dos",
+      "menores",
+      ".",
+      "utilizadas",
+      "bombas",
+      "alto",
+      "poder",
+      "explosivo",
+      ",",
+      "lanzaron",
+      "alrededores",
+      "capital",
+      "saná",
+      "aeropuerto",
+      "internacional",
+      ".",
+      "reportan",
+      "numerosas",
+      "viviendas",
+      "destruidas",
+      ".",
+      "estima",
+      "ataques",
+      "objetivo",
+      "amedrentar",
+      "civiles",
+      ".",
+      "días",
+      "atrás",
+      ",",
+      "mediante",
+      "bombardeo",
+      ",",
+      "ee.uu.",
+      "destruyó",
+      "centro",
+      "hospitalario",
+      "dedicado",
+      "tratamientos",
+      "oncológicos",
+      ".",
+      "según",
+      "revelaciones",
+      "the",
+      "wall",
+      "street",
+      "journal",
+      ",",
+      "entidad",
+      "sionista",
+      "israel",
+      "proporcionado",
+      "unidos",
+      "información",
+      "inteligencia",
+      ".",
+      "documentos",
+      "filtrados",
+      "grupo",
+      "mensajería",
+      "signal",
+      ",",
+      "participaban",
+      "altos",
+      "funcionarios",
+      "casa",
+      "blanca",
+      ",",
+      "detallan",
+      "cómo",
+      "gobierno",
+      "tel",
+      "aviv",
+      "identificó",
+      "líder",
+      "importante",
+      "movimiento",
+      "ansarolá",
+      ",",
+      "blanco",
+      "ataque",
+      "previo",
+      "15",
+      "marzo",
+      ".",
+      "director",
+      "the",
+      "atlantic",
+      ",",
+      "jeffrey",
+      "goldberg",
+      ",",
+      "añadido",
+      "error",
+      "chat",
+      "accedió",
+      "planes",
+      "operativos",
+      "confidenciales",
+      "relacionados",
+      "ataque",
+      "unidos",
+      "yemen",
+      ".",
+      "campaña",
+      "aérea",
+      ",",
+      "coordinada",
+      "junto",
+      "reino",
+      "unido",
+      ",",
+      "busca",
+      "frenar",
+      "operaciones",
+      "fuerzas",
+      "armadas",
+      "yemeníes",
+      "solidaridad",
+      "resistencia",
+      "gaza",
+      "naves",
+      "israelíes",
+      "mar",
+      "rojo",
+      ",",
+      "estrecho",
+      "bab",
+      "al-mandab",
+      "golfo",
+      "adén",
+      ".",
+      "embargo",
+      ",",
+      "ansarolá",
+      "subrayado",
+      "mantendrá",
+      "operaciones",
+      "barcos",
+      "vinculados",
+      "entidad",
+      "sionista",
+      "israel",
+      "cese",
+      "agresión",
+      "territorio",
+      "pueblo",
+      "palestino",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 57,
+      "FW": 59,
+      "NN": 82,
+      "NNS": 15,
+      "JJ": 26,
+      "RB": 1,
+      "VBP": 9,
+      "VBD": 4,
+      "VBZ": 5,
+      "IN": 14,
+      "CD": 2,
+      "DT": 2,
+      "WP": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 22,
+      "NNP-FW": 8,
+      "FW-NN": 10,
+      "NN-FW": 9,
+      "FW-FW": 32,
+      "FW-NNS": 4,
+      "NNS-JJ": 3,
+      "JJ-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 5,
+      "JJ-JJ": 3,
+      "JJ-NNS": 7,
+      "NNS-FW": 1,
+      "NNS-VBP": 6,
+      "VBP-NNP": 1,
+      "FW-NNP": 13,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-NNP": 3,
+      "NNP-NN": 16,
+      "NN-NN": 43,
+      "NN-NNP": 9,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "VBD-NN": 1,
+      "NN-IN": 6,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "JJ-NN": 11,
+      "NN-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 3,
+      "IN-FW": 6,
+      "NN-JJ": 8,
+      "NNS-IN": 4,
+      "NN-VBD": 2,
+      "NN-NNS": 2,
+      "JJ-FW": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 2,
+      "VBP-FW": 1,
+      "VBZ-IN": 1,
+      "IN-DT": 2,
+      "DT-NNP": 2,
+      "IN-NNP": 4,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "VBZ-WP": 1,
+      "WP-JJ": 1,
+      "IN-NNS": 1,
+      "VBP-NN": 1,
+      "VBZ-JJ": 1,
+      "VBP-IN": 1,
+      "NNP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 19,
+      "FW-FW-NNS": 4,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-RB": 1,
+      "JJ-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 6,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 23,
+      "NN-NN-FW": 5,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 5,
+      "NN-JJ-JJ": 2,
+      "JJ-NNS-IN": 4,
+      "NNS-IN-FW": 3,
+      "FW-NN-NNP": 3,
+      "NN-NNP-NN": 4,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "FW-NNP-FW": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-NN": 4,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-DT": 1,
+      "IN-DT-NNP": 2,
+      "DT-NNP-NNP": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-NNP-NN": 2,
+      "NN-JJ-NNS": 2,
+      "IN-FW-NNP": 4,
+      "NN-FW-NNP": 1,
+      "NN-FW-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-DT": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-WP": 1,
+      "VBZ-WP-JJ": 1,
+      "WP-JJ-NNS": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-IN": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NNP-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 82,
+        "FW": 59,
+        "NNP": 57,
+        "JJ": 26,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 43,
+        "FW-FW": 32,
+        "NNP-NNP": 22,
+        "NNP-NN": 16,
+        "FW-NNP": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "FW-FW-FW": 19,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 7,
+        "NN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 84,
+      "ADJP": 3,
+      "VP": 24,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0538
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0231
+      },
+      {
+        "rule": "S -> NP ('ejecutó', 'FW') NP ('la', 'FW') ('madrugada', 'FW') ('y', 'FW') ('primeras', 'FW') ('horas', 'FW') ('de', 'FW') ('este', 'FW') NP ADJP ('nueva', 'RB') VP ('zonas', 'FW') ('de', 'FW') NP (',', ',') NP VP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "NP -> ('durante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "NP -> ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "ADJP -> ('una', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "VP -> ('escalada', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "NP -> ('militar', 'JJ') ('contra', 'JJ') ('varias', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "NP -> ('que', 'NN') ('incluyeron', 'NN') ('zonas', 'NN') ('residenciales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0077
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      },
+      {
+        "label": "ADJP",
+        "text": "una"
+      },
+      {
+        "label": "VP",
+        "text": "escalada militar contra varias"
+      },
+      {
+        "label": "NP",
+        "text": "militar contra varias"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "que incluyeron zonas residenciales"
+      },
+      {
+        "label": "VP",
+        "text": "y el Aeropuerto Internacional"
+      },
+      {
+        "label": "NP",
+        "text": "el Aeropuerto Internacional"
+      },
+      {
+        "label": "NP",
+        "text": "Saná"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Israel"
+      },
+      {
+        "label": "VP",
+        "text": "facilitó"
+      },
+      {
+        "label": "VP",
+        "text": "información a EE.UU. para atacar a Yemen Los"
+      },
+      {
+        "label": "NP",
+        "text": "a EE.UU. para atacar"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Estados/NNP Unidos/NNP)\n  ejecutó/FW\n  (NP durante/NN)\n  la/FW\n  madrugada/FW\n  y/FW\n  primeras/FW\n  horas/FW\n  de/FW\n  este/FW\n  (NP viernes/NNS)\n  (ADJP una/JJ)\n  nueva/RB\n  (VP escalada/VBP (NP militar/JJ contra/JJ varias/NNS))\n  zonas/FW\n  de/FW\n  (NP Yemen/NNP)\n  ,/,\n  (NP que/NN incluyeron/NN zonas/NN residenciales/NNS)\n  (VP y/VBP (NP el/JJ Aeropuerto/NNP Internacional/NNP))\n  de/FW\n  (NP Saná/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Israel/NNP)\n  (VP facilitó/VBD)\n  (VP\n    información/VB\n    (NP a/DT EE.UU./NNP para/NN atacar/NN)\n    (NP a/DT Yemen/NNP Los/NNP))\n  (VP aviones/VBZ)\n  de/FW\n  guerra/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (VP lanzaron/VBD (NP alrededor/NN))\n  de/IN\n  41/CD\n  (NP bombardeos/NNS)\n  ,/,\n  (NP el/JJ mayor/NN número/NN desde/NN que/NN reiniciara/NN su/NN)\n  (VP campaña/VBZ (NP a/DT mediados/NN))\n  de/IN\n  marzo/FW\n  ,/,\n  (NP los/JJ cuales/NNS)\n  (VP dejaron/VBP (NP al/JJ menos/NNS) (NP siete/JJ heridos/NN))\n  ,/,\n  entre/FW\n  ellos/FW\n  (NP dos/NN menores/NNS)\n  ./.)",
+      "(S\n  (NP Fueron/NNP)\n  (NP utilizadas/JJ bombas/NN)\n  de/IN\n  alto/FW\n  (NP poder/NN explosivo/NN)\n  ,/,\n  (ADJP que/JJ)\n  se/FW\n  (NP lanzaron/NN contra/NN)\n  (NP los/JJ alrededores/NNS)\n  de/IN\n  la/FW\n  (NP capital/NN Saná/NNP y/NNP)\n  (VP su/VBD (NP aeropuerto/JJ internacional/NN))\n  ./.)",
+      "(S\n  (NP Se/NNP)\n  (VP reportan/VBZ (NP numerosas/JJ viviendas/NNS destruidas/NNS))\n  ./.)",
+      "(S\n  (NP Se/NNP estima/NN que/NN los/NN ataques/NNS)\n  (VP tenían/VBP el/JJ)\n  objetivo/FW\n  de/FW\n  amedrentar/FW\n  (NP a/DT los/NN civiles/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "PERIODOS_TEMPORALES",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra de estados unidos lanzaron alrededor de 41 bombardeos, el mayor número desde que reiniciara su campaña a mediados de marzo, los cuales dejaron al menos siete heridos, entre ellos",
+        "position": [
+          292,
+          477
+        ],
+        "start": 292,
+        "end": 477
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          586,
+          593
+        ],
+        "start": 586,
+        "end": 593
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con la resistencia en gaza",
+        "position": [
+          1552,
+          1590
+        ],
+        "start": 1552,
+        "end": 1590
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de tel aviv",
+        "position": [
+          1130,
+          1150
+        ],
+        "start": 1130,
+        "end": 1150
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          1626,
+          1629
+        ],
+        "start": 1626,
+        "end": 1629
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          174,
+          184
+        ],
+        "start": 174,
+        "end": 184
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          0,
+          14
+        ],
+        "start": 0,
+        "end": 14
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro hospitalario",
+        "position": [
+          804,
+          823
+        ],
+        "start": 804,
+        "end": 823
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la madrugada",
+        "position": [
+          23,
+          43
+        ],
+        "start": 23,
+        "end": 43
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1689,
+          1696
+        ],
+        "start": 1689,
+        "end": 1696
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 41",
+        "position": [
+          326,
+          341
+        ],
+        "start": 326,
+        "end": 341
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "The Atlantic",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estrecho de Bab al-Mandab",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mar Rojo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reino Unido",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Signal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ansarolá",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ansarolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jeffrey Goldberg",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Golfo de Adén",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aeropuerto Internacional de Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "EJECUTAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "EJECUTAR",
+        "objeto": "Aeropuerto Internacional de Saná"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "FACILITAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "FACILITAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "FACILITAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "FACILITAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "FACILITAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "ATACAR_FACILITAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PROPORCIONAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno de Tel Aviv",
+        "relacion": "DETALLAR",
+        "objeto": "Signal"
+      },
+      {
+        "sujeto": "Signal",
+        "relacion": "DETALLAR",
+        "objeto": "Ansarolá"
+      },
+      {
+        "sujeto": "Gobierno de Tel Aviv",
+        "relacion": "PARTICIPAR_DETALLAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Casa Blanca",
+        "relacion": "PARTICIPAR_DETALLAR",
+        "objeto": "Ansarolá"
+      },
+      {
+        "sujeto": "Gobierno de Tel Aviv",
+        "relacion": "IDENTIFICAR_DETALLAR",
+        "objeto": "Ansarolá"
+      },
+      {
+        "sujeto": "The Atlantic",
+        "relacion": "A_ADIR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "The Atlantic",
+        "relacion": "A_ADIR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Jeffrey Goldberg",
+        "relacion": "A_ADIR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Jeffrey Goldberg",
+        "relacion": "A_ADIR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Reino Unido",
+        "relacion": "BUSCAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Reino Unido",
+        "relacion": "BUSCAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Reino Unido",
+        "relacion": "BUSCAR",
+        "objeto": "Mar Rojo"
+      },
+      {
+        "sujeto": "Reino Unido",
+        "relacion": "BUSCAR",
+        "objeto": "estrecho de Bab al-Mandab"
+      },
+      {
+        "sujeto": "Reino Unido",
+        "relacion": "BUSCAR",
+        "objeto": "Golfo de Adén"
+      },
+      {
+        "sujeto": "Ansarolá",
+        "relacion": "SUBRAYAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3612,
+    "pos": 0.017,
+    "neu": 0.961,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

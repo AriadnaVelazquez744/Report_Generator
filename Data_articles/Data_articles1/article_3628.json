@@ -1,0 +1,780 @@
+{
+  "url": "https://www.telesurtv.net/mexico-detecta-y-elimina-39-cuentas-en-redes-sociales-dedicadas-al-crimen-organizado/",
+  "title": "México detecta y elimina 39 cuentas en redes sociales dedicadas al crimen organizado - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "cierre",
+    "Crimen organizado",
+    "México",
+    "redes sociales"
+  ],
+  "text": "Autoridades mexicanas anunciaron el lunes que la Policía Cibernética detectó alrededor de 39 cuentas de diversas plataformas de redes sociales dedicadas a reclutar personas para el crimen organizado y narcotráfico.\n“Derivado de los trabajos de análisis y seguimiento, el área de Investigación y Patrullaje Cibernético de la Secretaría de Seguridad y Protección Ciudadana (SSPC), realizó la búsqueda y análisis de perfiles en redes sociales relacionados con el reclutamiento de personas; se dieron de baja 39 páginas en diferentes plataformas”, refirió la SSPC.\nEl ente agregó que “de septiembre de 2024 a la fecha, han sido detenidas 49 personas, relacionadas con estos hechos”.\nEntre tanto, el secretario de Seguridad y Protección Ciudadana (Sspc) de México, Omar García Harfuch, había confirmado el bloqueo.\nDe igual manera, García Harfuch, también informó sobre la detención de José Gregorio “N”, alias “Lastra”, líder de una célula delictiva responsable del reclutamiento de personas para un grupo criminal.\n“Estas acciones representan un avance significativo en el esclarecimiento de los acontecimientos ocurridos en el rancho Izaguirre, en Teuchitlán, Jalisco. Esta detención aportará elementos esenciales en las investigaciones que desarrolla la Fiscalía General de la República. El Gabinete de Seguridad continuará con las investigaciones y las acciones operativas para detener a los responsables de estos hechos, y llevar la justicia a las víctimas y familias que han sido afectadas por estos grupos criminales”, resaltó.\nEl ministro agregó que “utilizaba principalmente redes sociales para ofrecer oportunidades laborales falsas mediante engaños, además de usar grupos cerrados donde se mencionaban las actividades delictivas. Algunas de estas publicaciones referían ofertas de trabajo para la organización criminal y ofrecían un puesto como guardias de seguridad con un pago de 4.000 a 12.000 pesos semanales (de 200 a 600 dólares)”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-detecta-y-elimina-39-cuentas-en-redes-sociales-dedicadas-al-crimen-organizado/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 518,
+    "message_id": 90132,
+    "date": "2025-03-25T05:55:13+00:00",
+    "text": "teleSUR\nMéxico detecta y elimina 39 cuentas en redes sociales dedicadas al crimen organizado\nhttps://www.telesurtv.net/mexico-detecta-y-elimina-39-cuentas-en-redes-sociales-dedicadas-al-crimen-organizado/",
+    "photo_path": null,
+    "views": 1735,
+    "reactions": {
+      "👏": 31,
+      "👍": 2,
+      "💯": 1
+    },
+    "total_reactions": 34
+  },
+  "preprocessing": {
+    "cleaned": "autoridades mexicanas anunciaron el lunes que la policía cibernética detectó alrededor de 39 cuentas de diversas plataformas de redes sociales dedicadas a reclutar personas para el crimen organizado y narcotráfico. “derivado de los trabajos de análisis y seguimiento, el área de investigación y patrullaje cibernético de la secretaría de seguridad y protección ciudadana (sspc), realizó la búsqueda y análisis de perfiles en redes sociales relacionados con el reclutamiento de personas; se dieron de baja 39 páginas en diferentes plataformas”, refirió la sspc. el ente agregó que “de septiembre de 2024 a la fecha, han sido detenidas 49 personas, relacionadas con estos hechos”. entre tanto, el secretario de seguridad y protección ciudadana (sspc) de méxico, omar garcía harfuch, había confirmado el bloqueo. de igual manera, garcía harfuch, también informó sobre la detención de josé gregorio “n”, alias “lastra”, líder de una célula delictiva responsable del reclutamiento de personas para un grupo criminal. “estas acciones representan un avance significativo en el esclarecimiento de los acontecimientos ocurridos en el rancho izaguirre, en teuchitlán, jalisco. esta detención aportará elementos esenciales en las investigaciones que desarrolla la fiscalía general de la república. el gabinete de seguridad continuará con las investigaciones y las acciones operativas para detener a los responsables de estos hechos, y llevar la justicia a las víctimas y familias que han sido afectadas por estos grupos criminales”, resaltó. el ministro agregó que “utilizaba principalmente redes sociales para ofrecer oportunidades laborales falsas mediante engaños, además de usar grupos cerrados donde se mencionaban las actividades delictivas. algunas de estas publicaciones referían ofertas de trabajo para la organización criminal y ofrecían un puesto como guardias de seguridad con un pago de 4.000 a 12.000 pesos semanales (de 200 a 600 dólares)”.",
+    "tokens": [
+      "autoridades",
+      "mexicanas",
+      "anunciaron",
+      "lunes",
+      "policía",
+      "cibernética",
+      "detectó",
+      "alrededor",
+      "39",
+      "cuentas",
+      "diversas",
+      "plataformas",
+      "redes",
+      "sociales",
+      "dedicadas",
+      "reclutar",
+      "personas",
+      "crimen",
+      "organizado",
+      "narcotráfico",
+      ".",
+      "“",
+      "derivado",
+      "trabajos",
+      "análisis",
+      "seguimiento",
+      ",",
+      "área",
+      "investigación",
+      "patrullaje",
+      "cibernético",
+      "secretaría",
+      "seguridad",
+      "protección",
+      "ciudadana",
+      "(",
+      "sspc",
+      ")",
+      ",",
+      "realizó",
+      "búsqueda",
+      "análisis",
+      "perfiles",
+      "redes",
+      "sociales",
+      "relacionados",
+      "reclutamiento",
+      "personas",
+      ";",
+      "dieron",
+      "baja",
+      "39",
+      "páginas",
+      "diferentes",
+      "plataformas",
+      "”",
+      ",",
+      "refirió",
+      "sspc",
+      ".",
+      "ente",
+      "agregó",
+      "“",
+      "septiembre",
+      "2024",
+      "fecha",
+      ",",
+      "sido",
+      "detenidas",
+      "49",
+      "personas",
+      ",",
+      "relacionadas",
+      "hechos",
+      "”",
+      ".",
+      ",",
+      "secretario",
+      "seguridad",
+      "protección",
+      "ciudadana",
+      "(",
+      "sspc",
+      ")",
+      "méxico",
+      ",",
+      "omar",
+      "garcía",
+      "harfuch",
+      ",",
+      "confirmado",
+      "bloqueo",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "garcía",
+      "harfuch",
+      ",",
+      "informó",
+      "detención",
+      "josé",
+      "gregorio",
+      "“",
+      "n",
+      "”",
+      ",",
+      "alias",
+      "“",
+      "lastra",
+      "”",
+      ",",
+      "líder",
+      "célula",
+      "delictiva",
+      "responsable",
+      "reclutamiento",
+      "personas",
+      "grupo",
+      "criminal",
+      ".",
+      "“",
+      "acciones",
+      "representan",
+      "avance",
+      "significativo",
+      "esclarecimiento",
+      "acontecimientos",
+      "ocurridos",
+      "rancho",
+      "izaguirre",
+      ",",
+      "teuchitlán",
+      ",",
+      "jalisco",
+      ".",
+      "detención",
+      "aportará",
+      "elementos",
+      "esenciales",
+      "investigaciones",
+      "desarrolla",
+      "fiscalía",
+      "general",
+      "república",
+      ".",
+      "gabinete",
+      "seguridad",
+      "continuará",
+      "investigaciones",
+      "acciones",
+      "operativas",
+      "detener",
+      "responsables",
+      "hechos",
+      ",",
+      "llevar",
+      "justicia",
+      "víctimas",
+      "familias",
+      "sido",
+      "afectadas",
+      "grupos",
+      "criminales",
+      "”",
+      ",",
+      "resaltó",
+      ".",
+      "ministro",
+      "agregó",
+      "“",
+      "utilizaba",
+      "principalmente",
+      "redes",
+      "sociales",
+      "ofrecer",
+      "oportunidades",
+      "laborales",
+      "falsas",
+      "mediante",
+      "engaños",
+      ",",
+      "además",
+      "usar",
+      "grupos",
+      "cerrados",
+      "mencionaban",
+      "actividades",
+      "delictivas",
+      ".",
+      "publicaciones",
+      "referían",
+      "ofertas",
+      "trabajo",
+      "organización",
+      "criminal",
+      "ofrecían",
+      "puesto",
+      "guardias",
+      "seguridad",
+      "pago",
+      "4.000",
+      "12.000",
+      "pesos",
+      "semanales",
+      "(",
+      "200",
+      "600",
+      "dólares",
+      ")",
+      "”",
+      "."
+    ],
+    "token_count": 212,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "NNS": 26,
+      "VBP": 15,
+      "JJ": 23,
+      "VBZ": 5,
+      "NN": 59,
+      "IN": 14,
+      "CD": 8,
+      "FW": 71,
+      "VBD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 2,
+      "NNS-VBP": 14,
+      "VBP-JJ": 7,
+      "JJ-NNS": 4,
+      "JJ-NNP": 5,
+      "NNP-NNP": 24,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NN-IN": 9,
+      "IN-CD": 2,
+      "CD-NNS": 4,
+      "NNS-FW": 4,
+      "FW-FW": 45,
+      "FW-NNS": 5,
+      "VBP-NN": 3,
+      "NN-NNS": 6,
+      "NNP-FW": 5,
+      "FW-NNP": 7,
+      "NNP-IN": 2,
+      "IN-FW": 8,
+      "NNP-NN": 8,
+      "NN-NN": 26,
+      "NN-JJ": 7,
+      "JJ-NN": 10,
+      "IN-NNS": 1,
+      "NNS-NNS": 3,
+      "FW-CD": 2,
+      "FW-VBZ": 1,
+      "VBZ-FW": 2,
+      "FW-NN": 9,
+      "NN-FW": 5,
+      "VBZ-JJ": 1,
+      "CD-NN": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "NNS-JJ": 1,
+      "NN-NNP": 4,
+      "IN-NNP": 2,
+      "NNP-JJ": 1,
+      "VBZ-NNP": 1,
+      "JJ-JJ": 2,
+      "VBP-IN": 1,
+      "FW-JJ": 2,
+      "NN-VBZ": 1,
+      "VBP-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNS-IN": 2,
+      "VBP-NNP": 1,
+      "JJ-FW": 1,
+      "IN-JJ": 1,
+      "VBP-FW": 1,
+      "CD-CD": 2,
+      "VBP-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 2,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNS": 3,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 32,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "JJ-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 13,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 10,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 1,
+      "NNS-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-IN-NNP": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NN-FW-FW": 3,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "IN-FW-NN": 2,
+      "FW-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "IN-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-CD": 1,
+      "CD-CD-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 71,
+        "NN": 59,
+        "NNP": 45,
+        "NNS": 26,
+        "JJ": 23
+      },
+      "top_bigrams": {
+        "FW-FW": 45,
+        "NN-NN": 26,
+        "NNP-NNP": 24,
+        "NNS-VBP": 14,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 32,
+        "NNP-NNP-NNP": 13,
+        "NN-NN-NN": 10,
+        "NNS-VBP-JJ": 7,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 82,
+      "VP": 19,
+      "ADJP": 3,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('para', 'NN')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "VP -> ('”', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "S -> NP VP VP VP ('de', 'IN') ('39', 'CD') NP ('de', 'FW') ('diversas', 'FW') ('plataformas', 'FW') ('de', 'FW') ('redes', 'FW') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP') ('mexicanas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('anunciaron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('la', 'JJ') ('Policía', 'NNP') ('Cibernética', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('detectó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades mexicanas"
+      },
+      {
+        "label": "VP",
+        "text": "anunciaron el lunes"
+      },
+      {
+        "label": "NP",
+        "text": "el lunes"
+      },
+      {
+        "label": "VP",
+        "text": "que la Policía Cibernética"
+      },
+      {
+        "label": "NP",
+        "text": "la Policía Cibernética"
+      },
+      {
+        "label": "VP",
+        "text": "detectó alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "cuentas"
+      },
+      {
+        "label": "NP",
+        "text": "sociales"
+      },
+      {
+        "label": "VP",
+        "text": "dedicadas a reclutar personas para el crimen"
+      },
+      {
+        "label": "NP",
+        "text": "a reclutar personas para"
+      },
+      {
+        "label": "NP",
+        "text": "el crimen"
+      },
+      {
+        "label": "VP",
+        "text": "organizado y narcotráfico"
+      },
+      {
+        "label": "NP",
+        "text": "y narcotráfico"
+      },
+      {
+        "label": "NP",
+        "text": "“ Derivado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP mexicanas/NNS)\n  (VP anunciaron/VBP (NP el/JJ lunes/NNS))\n  (VP que/VBP (NP la/JJ Policía/NNP Cibernética/NNP))\n  (VP detectó/VBZ (NP alrededor/NN))\n  de/IN\n  39/CD\n  (NP cuentas/NNS)\n  de/FW\n  diversas/FW\n  plataformas/FW\n  de/FW\n  redes/FW\n  (NP sociales/NNS)\n  (VP\n    dedicadas/VBP\n    (NP a/DT reclutar/NN personas/NN para/NN)\n    (NP el/JJ crimen/NNS))\n  (VP organizado/VBP (NP y/JJ narcotráfico/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Derivado/NNP)\n  de/FW\n  los/FW\n  trabajos/FW\n  de/FW\n  análisis/FW\n  y/FW\n  (NP seguimiento/NN)\n  ,/,\n  (ADJP el/JJ)\n  área/FW\n  de/FW\n  (NP Investigación/NNP)\n  y/CC\n  (NP Patrullaje/NNP Cibernético/NNP)\n  de/IN\n  la/FW\n  (NP Secretaría/NNP)\n  de/FW\n  (NP Seguridad/NNP)\n  y/CC\n  (NP Protección/NNP Ciudadana/NNP)\n  (/(\n  (NP SSPC/NNP)\n  )/)\n  ,/,\n  (ADJP realizó/JJ)\n  la/FW\n  búsqueda/FW\n  y/FW\n  (NP análisis/NN)\n  (PP de/IN (NP perfiles/NNS))\n  en/FW\n  (NP redes/NNS sociales/NNS)\n  (VP relacionados/VBP (NP con/NN el/NN reclutamiento/NN))\n  de/IN\n  personas/FW\n  ;/:\n  se/FW\n  dieron/FW\n  de/FW\n  baja/FW\n  39/CD\n  (NP páginas/NNS)\n  en/FW\n  (VP diferentes/VBZ)\n  plataformas/FW\n  (NP ”/NNP)\n  ,/,\n  (NP refirió/NN la/NN SSPC/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  ente/CC\n  (NP agregó/JJ que/NN “/NNP)\n  de/FW\n  septiembre/FW\n  de/FW\n  2024/CD\n  (NP a/DT la/NN fecha/NN)\n  ,/,\n  (NP han/NN sido/NN)\n  (VP detenidas/VBZ)\n  49/CD\n  (NP personas/NN)\n  ,/,\n  (NP relacionadas/JJ con/NN estos/NN hechos/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Entre/NNP tanto/NN)\n  ,/,\n  el/FW\n  (NP secretario/NN)\n  (PP de/IN (NP Seguridad/NNP y/NNP Protección/NNP Ciudadana/NNP))\n  (/(\n  (NP Sspc/NNP)\n  )/)\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Omar/NNP García/NNP Harfuch/NNP)\n  ,/,\n  (NP había/NN confirmado/NN el/NN bloqueo/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  (NP García/NNP Harfuch/NNP)\n  ,/,\n  (NP también/NN informó/NN sobre/NN)\n  la/FW\n  detención/FW\n  de/FW\n  (NP José/NNP Gregorio/NNP “/NNP N/NNP ”/NNP)\n  ,/,\n  (ADJP alias/JJ)\n  “/FW\n  (NP Lastra/NNP ”/NNP)\n  ,/,\n  (NP líder/NN)\n  de/FW\n  una/FW\n  (NP célula/NN delictiva/NN)\n  (NP responsable/JJ del/NN reclutamiento/NN)\n  de/IN\n  personas/FW\n  (NP para/NN)\n  (NP un/JJ grupo/JJ criminal/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "detención de josé gregorio “n”, alias",
+        "position": [
+          868,
+          905
+        ],
+        "start": 868,
+        "end": 905
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1788,
+          1795
+        ],
+        "start": 1788,
+        "end": 1795
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          851,
+          858
+        ],
+        "start": 851,
+        "end": 858
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          752,
+          758
+        ],
+        "start": 752,
+        "end": 758
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área de",
+        "position": [
+          271,
+          278
+        ],
+        "start": 271,
+        "end": 278
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          801,
+          808
+        ],
+        "start": 801,
+        "end": 808
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "49 personas",
+        "position": [
+          634,
+          645
+        ],
+        "start": 634,
+        "end": 645
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 39",
+        "position": [
+          77,
+          92
+        ],
+        "start": 77,
+        "end": 92
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "García Harfuch",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lastra",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Teuchitlán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Seguridad y Protección Ciudadana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sspc",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Omar García Harfuch",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jalisco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Investigación y Patrullaje Cibernético",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "José Gregorio “N",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía General de la República",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Secretaría de Seguridad y Protección Ciudadana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "SSPC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "rancho Izaguirre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía Cibernética",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "García Harfuch",
+        "relacion": "INFORMAR",
+        "objeto": "José Gregorio “N"
+      },
+      {
+        "sujeto": "García Harfuch",
+        "relacion": "INFORMAR",
+        "objeto": "Lastra"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7783,
+    "pos": 0.0,
+    "neu": 0.975,
+    "neg": 0.025,
+    "label": "negative"
+  }
+}

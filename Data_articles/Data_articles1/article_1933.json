@@ -1,0 +1,724 @@
+{
+  "url": "https://www.telesurtv.net/gaza-dieciocho-muertos-nuevos-ataques/",
+  "title": "Al menos 18 palestinos murieron en nuevos ataques a Gaza",
+  "section": "Mundo",
+  "tags": [
+    "asesinatos",
+    "Ataques Israelíes",
+    "Franja de Gaza"
+  ],
+  "text": "A pesar de la condena internacional y los llamados al cese de la operación militar israelí en la Franja de Gaza, las fuerzas israelíes asesinaron a al menos 18 palestinos en las primeras horas de este domingo en ataques y tiroteos contra varios lugares del territorio palestino.\nEntre los fallecidos de esta jornada, se encuentran 13 civiles muertos por disparos cerca del centro de distribución de ayuda de la Fundación Humanitaria para Gaza (GHF), al norte de la ciudad palestina de Rafah.\nMedios locales reportaron más decesos cuando aviones de guerra israelíes atacaron una escuela que albergaba a personas desplazadas en un barrio, al oeste de Khan Younis, donde murieron dos personas y resultaron heridas otras.\nEn otro hecho, cuatro palestinos más perdieron la vida en un ataque israelí contra solicitantes de ayuda cerca del llamado corredor Netzarim, en el centro de Gaza.\nAdemás, otros tres palestinos murieron y varios resultaron heridos en un ataque israelí contra un grupo de civiles en el barrio de Shujaiya, al este de la ciudad de Gaza.\nLa continua agresión israelí contra Gaza desde octubre de 2023 ha causado al menos 60.430 muertos palestinos documentados y más de 148.722 heridos.\nLos cuerpos de rescate palestinos temen que miles de víctimas se encuentren atrapadas bajo los escombros, inaccesibles para los equipos de emergencia y de defensa civil debido a los constantes ataques israelíes.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gaza-dieciocho-muertos-nuevos-ataques/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 2112,
+    "message_id": 100772,
+    "date": "2025-08-03T09:55:07+00:00",
+    "text": "teleSUR\nAl menos 18 palestinos murieron en nuevos ataques israelíes contra Gaza\nhttps://www.telesurtv.net/gaza-dieciocho-muertos-nuevos-ataques/",
+    "photo_path": null,
+    "views": 2118,
+    "reactions": {
+      "🤬": 47,
+      "🤮": 3,
+      "❤": 1,
+      "😭": 1
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "a pesar de la condena internacional y los llamados al cese de la operación militar israelí en la franja de gaza, las fuerzas israelíes asesinaron a al menos 18 palestinos en las primeras horas de este domingo en ataques y tiroteos contra varios lugares del territorio palestino. entre los fallecidos de esta jornada, se encuentran 13 civiles muertos por disparos cerca del centro de distribución de ayuda de la fundación humanitaria para gaza (ghf), al norte de la ciudad palestina de rafah. medios locales reportaron más decesos cuando aviones de guerra israelíes atacaron una escuela que albergaba a personas desplazadas en un barrio, al oeste de khan younis, donde murieron dos personas y resultaron heridas otras. en otro hecho, cuatro palestinos más perdieron la vida en un ataque israelí contra solicitantes de ayuda cerca del llamado corredor netzarim, en el centro de gaza. además, otros tres palestinos murieron y varios resultaron heridos en un ataque israelí contra un grupo de civiles en el barrio de shujaiya, al este de la ciudad de gaza. la continua agresión israelí contra gaza desde octubre de 2023 ha causado al menos 60.430 muertos palestinos documentados y más de 148.722 heridos. los cuerpos de rescate palestinos temen que miles de víctimas se encuentren atrapadas bajo los escombros, inaccesibles para los equipos de emergencia y de defensa civil debido a los constantes ataques israelíes.",
+    "tokens": [
+      "pesar",
+      "condena",
+      "internacional",
+      "llamados",
+      "cese",
+      "operación",
+      "militar",
+      "israelí",
+      "franja",
+      "gaza",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "asesinaron",
+      "menos",
+      "18",
+      "palestinos",
+      "primeras",
+      "horas",
+      "domingo",
+      "ataques",
+      "tiroteos",
+      "varios",
+      "lugares",
+      "territorio",
+      "palestino",
+      ".",
+      "fallecidos",
+      "jornada",
+      ",",
+      "encuentran",
+      "13",
+      "civiles",
+      "muertos",
+      "disparos",
+      "cerca",
+      "centro",
+      "distribución",
+      "ayuda",
+      "fundación",
+      "humanitaria",
+      "gaza",
+      "(",
+      "ghf",
+      ")",
+      ",",
+      "norte",
+      "ciudad",
+      "palestina",
+      "rafah",
+      ".",
+      "medios",
+      "locales",
+      "reportaron",
+      "decesos",
+      "aviones",
+      "guerra",
+      "israelíes",
+      "atacaron",
+      "escuela",
+      "albergaba",
+      "personas",
+      "desplazadas",
+      "barrio",
+      ",",
+      "oeste",
+      "khan",
+      "younis",
+      ",",
+      "murieron",
+      "dos",
+      "personas",
+      "resultaron",
+      "heridas",
+      ".",
+      "hecho",
+      ",",
+      "cuatro",
+      "palestinos",
+      "perdieron",
+      "vida",
+      "ataque",
+      "israelí",
+      "solicitantes",
+      "ayuda",
+      "cerca",
+      "llamado",
+      "corredor",
+      "netzarim",
+      ",",
+      "centro",
+      "gaza",
+      ".",
+      "además",
+      ",",
+      "tres",
+      "palestinos",
+      "murieron",
+      "varios",
+      "resultaron",
+      "heridos",
+      "ataque",
+      "israelí",
+      "grupo",
+      "civiles",
+      "barrio",
+      "shujaiya",
+      ",",
+      "ciudad",
+      "gaza",
+      ".",
+      "continua",
+      "agresión",
+      "israelí",
+      "gaza",
+      "octubre",
+      "2023",
+      "causado",
+      "menos",
+      "60.430",
+      "muertos",
+      "palestinos",
+      "documentados",
+      "148.722",
+      "heridos",
+      ".",
+      "cuerpos",
+      "rescate",
+      "palestinos",
+      "temen",
+      "miles",
+      "víctimas",
+      "encuentren",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      ",",
+      "inaccesibles",
+      "equipos",
+      "emergencia",
+      "defensa",
+      "civil",
+      "debido",
+      "constantes",
+      "ataques",
+      "israelíes",
+      "."
+    ],
+    "token_count": 147,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 53,
+      "IN": 14,
+      "FW": 53,
+      "JJ": 28,
+      "NNP": 20,
+      "CC": 1,
+      "VBD": 3,
+      "CD": 5,
+      "NNS": 20,
+      "VBP": 10,
+      "VBZ": 5,
+      "VB": 3,
+      "MD": 1,
+      "$": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NN-IN": 9,
+      "IN-FW": 6,
+      "FW-JJ": 7,
+      "JJ-JJ": 4,
+      "JJ-NN": 17,
+      "NN-JJ": 6,
+      "NN-NN": 20,
+      "FW-FW": 32,
+      "FW-NNP": 6,
+      "NNP-FW": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "CD-NNS": 3,
+      "NNS-IN": 4,
+      "IN-NN": 1,
+      "NN-NNS": 5,
+      "NNS-FW": 1,
+      "FW-NNS": 2,
+      "NNS-VBP": 8,
+      "VBP-JJ": 5,
+      "JJ-NNS": 5,
+      "NNS-VBZ": 1,
+      "VBZ-FW": 3,
+      "FW-NN": 5,
+      "NN-NNP": 3,
+      "NNP-VBZ": 3,
+      "FW-CD": 1,
+      "NNS-NNS": 2,
+      "NN-FW": 6,
+      "NNP-NNP": 6,
+      "NNP-NN": 4,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "VBZ-VB": 1,
+      "VB-JJ": 2,
+      "NN-VBP": 1,
+      "VBP-NNS": 1,
+      "VBP-IN": 1,
+      "IN-JJ": 1,
+      "IN-NNP": 3,
+      "VBP-NN": 3,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "IN-NNS": 1,
+      "NNP-JJ": 1,
+      "NNP-VBP": 1,
+      "JJ-NNP": 1,
+      "IN-CD": 2,
+      "CD-NN": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "NNS-NNP": 1,
+      "NNS-JJ": 1,
+      "NNS-RB": 1,
+      "RB-FW": 1,
+      "JJ-FW": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-VB": 1
+    },
+    "trigram_freq": {
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 3,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NN-NN": 6,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-FW": 1,
+      "VBZ-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 3,
+      "FW-JJ-NN": 5,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NN-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-NN": 1,
+      "FW-FW-JJ": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "FW-NN-IN": 2,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "IN-FW-NN": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "VBP-NN-IN": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-FW": 1,
+      "RB-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-VB": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 53,
+        "FW": 53,
+        "JJ": 28,
+        "NNP": 20,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 32,
+        "NN-NN": 20,
+        "JJ-NN": 17,
+        "NN-IN": 9,
+        "NNS-VBP": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "JJ-NN-NN": 8,
+        "NN-NN-NN": 6,
+        "FW-JJ-NN": 5,
+        "JJ-NN-JJ": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 18,
+      "ADJP": 1,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0323
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0323
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('ataque', 'NN') ('israelí', 'NN')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP NP ('de', 'IN') ('la', 'FW') ('operación', 'FW') ('militar', 'FW') ('israelí', 'FW') ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') VP VP ('18', 'CD') NP ('en', 'FW') ('las', 'FW') ('primeras', 'FW') ('horas', 'FW') ('de', 'FW') ('este', 'FW') ('domingo', 'FW') ('en', 'FW') NP VP VP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('A', 'DT') ('pesar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('condena', 'JJ') ('internacional', 'JJ') ('y', 'NN') ('los', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('llamados', 'JJ') ('al', 'NN') ('cese', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('las', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('fuerzas', 'JJ') ('israelíes', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "A pesar"
+      },
+      {
+        "label": "NP",
+        "text": "condena internacional y los"
+      },
+      {
+        "label": "NP",
+        "text": "llamados al cese"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "VP",
+        "text": "las fuerzas israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "fuerzas israelíes"
+      },
+      {
+        "label": "VP",
+        "text": "asesinaron a al menos"
+      },
+      {
+        "label": "NP",
+        "text": "a al menos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "y tiroteos contra varios"
+      },
+      {
+        "label": "NP",
+        "text": "tiroteos contra varios"
+      },
+      {
+        "label": "VP",
+        "text": "lugares"
+      },
+      {
+        "label": "NP",
+        "text": "territorio palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  la/FW\n  (NP condena/JJ internacional/JJ y/NN los/NN)\n  (NP llamados/JJ al/NN cese/NN)\n  de/IN\n  la/FW\n  operación/FW\n  militar/FW\n  israelí/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP las/VBZ (NP fuerzas/JJ israelíes/NN))\n  (VP asesinaron/VBZ (NP a/DT al/JJ menos/NN))\n  18/CD\n  (NP palestinos/NN)\n  en/FW\n  las/FW\n  primeras/FW\n  horas/FW\n  de/FW\n  este/FW\n  domingo/FW\n  en/FW\n  (NP ataques/NNS)\n  (VP y/VBP (NP tiroteos/JJ contra/JJ varios/NNS))\n  (VP lugares/VBZ)\n  del/FW\n  (NP territorio/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (NP los/JJ fallecidos/NN)\n  de/IN\n  esta/FW\n  (NP jornada/NN)\n  ,/,\n  (NP se/NN)\n  (VP encuentran/VBD)\n  13/CD\n  (NP civiles/NNS muertos/NNS)\n  (VP por/VBP (NP disparos/JJ cerca/NN))\n  del/FW\n  (NP centro/NN)\n  de/FW\n  distribución/FW\n  de/FW\n  ayuda/FW\n  de/FW\n  la/FW\n  (NP Fundación/NNP Humanitaria/NNP para/NN Gaza/NNP)\n  (/(\n  (NP GHF/NNP)\n  )/)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  palestina/FW\n  de/FW\n  (NP Rafah/NNP)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP locales/VBZ)\n  (VP reportaron/VBP (NP más/NN decesos/NN cuando/NN aviones/NNS))\n  de/IN\n  guerra/FW\n  (NP israelíes/JJ atacaron/NN)\n  (NP una/JJ escuela/NN que/NN)\n  (VP albergaba/VBZ (NP a/DT personas/JJ desplazadas/NN))\n  (PP en/IN (NP un/JJ barrio/NN))\n  ,/,\n  (NP al/JJ oeste/NN)\n  (PP de/IN (NP Khan/NNP Younis/NNP))\n  ,/,\n  (NP\n    donde/NN\n    murieron/NN\n    dos/NN\n    personas/NN\n    y/NN\n    resultaron/NN\n    heridas/NN\n    otras/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  otro/MD\n  (VP hecho/VB)\n  ,/,\n  (VP cuatro/VB (NP palestinos/NNS))\n  más/FW\n  (NP perdieron/NN la/NN)\n  vida/FW\n  en/FW\n  (NP un/JJ ataque/NN israelí/NN)\n  (NP contra/JJ solicitantes/NNS)\n  de/IN\n  ayuda/FW\n  (NP cerca/JJ del/NN llamado/NN corredor/NN Netzarim/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP otros/JJ tres/NNS)\n  (VP palestinos/VBP (NP murieron/NN y/NN varios/NNS))\n  (VP resultaron/VBP (NP heridos/NN))\n  en/FW\n  (NP un/JJ ataque/NN israelí/NN)\n  (NP contra/JJ un/JJ grupo/NN)\n  (PP de/IN (NP civiles/NNS))\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Shujaiya/NNP))\n  ,/,\n  (NP al/JJ este/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ORGANIZACIONES_SOCIALES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra israelíes atacaron una escuela que albergaba a personas desplazadas en un",
+        "position": [
+          548,
+          628
+        ],
+        "start": 548,
+        "end": 628
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          1394,
+          1411
+        ],
+        "start": 1394,
+        "end": 1411
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1356,
+          1363
+        ],
+        "start": 1356,
+        "end": 1363
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda de la fundación humanitaria",
+        "position": [
+          399,
+          432
+        ],
+        "start": 399,
+        "end": 432
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "fundación",
+        "position": [
+          411,
+          420
+        ],
+        "start": 411,
+        "end": 420
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela que albergaba",
+        "position": [
+          578,
+          599
+        ],
+        "start": 578,
+        "end": 599
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          578,
+          585
+        ],
+        "start": 578,
+        "end": 585
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          83,
+          90
+        ],
+        "start": 83,
+        "end": 90
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio, al",
+        "position": [
+          629,
+          639
+        ],
+        "start": 629,
+        "end": 639
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          373,
+          382
+        ],
+        "start": 373,
+        "end": 382
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela que",
+        "position": [
+          578,
+          589
+        ],
+        "start": 578,
+        "end": 589
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 148.722",
+        "position": [
+          1177,
+          1191
+        ],
+        "start": 1177,
+        "end": 1191
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "GHF",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Netzarim",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shujaiya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fundación Humanitaria para Gaza",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.011,
+    "neu": 0.989,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

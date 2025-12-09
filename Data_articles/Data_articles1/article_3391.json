@@ -1,0 +1,795 @@
+{
+  "url": "https://www.telesurtv.net/ecuador-derrame-crudo-esmeralda-sin-agua/",
+  "title": "Ecuador: Derrame de crudo en Esmeraldas deja sin agua a más de 500 mil pobladores - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "agua",
+    "derrame",
+    "Ecuador",
+    "esmeraldas",
+    "vital"
+  ],
+  "text": "De acuerdo con la información oficial, el derrame se produjo el pasado 13 de marzo tras el colapso de un dique que formaba parte de la estructura de contención de más de 25.000 barriles de petróleo que resultaron desperdiciados tras el incidente.\nAsimismo, se apunta que el crudo se extendió, provocando la contaminación de al menos cuatro ríos, así como, afectando el ecosistema de playas cercanas al lugar,\nEl Gobierno ecuatoriano subrayó que el origen del accidente lo produjo un sabotaje en el oleoducto, lo que añadido a los daños anteriormente expuestos, ocasionó la falta de agua en los pobladores de la zona.\nLa Secretaría de Riesgos indicó que se cuantifican unas 500.000 personas que no cuentan con servicio de agua.\nAsimismo, el ente dictaminó que entre los ríos contaminados figuran el Esmeraldas, y las parroquias Majua, Chinca, San Mateo y Tachina.\nEn tanto, se detalla que los territorios de Majua, Chinca y San Mateo, también sufren la escasez del líquido vital, pues se suministran del río.\nAnte la situación, se ha establecido el estado de emergencia en la zona, mientras que desde el Centro de Operaciones de Emergencia (COE) nacional estipularon la situación de desastre en Esmeraldas.\nPor si fuera poco, la Fundación Caritas —que fundamenta su actividad en el Desarrollo Humano Integral y Solidario— alerta que el contexto es aún más complicado, pues la situación del derrame ha llegado “en un contexto de alta violencia que afecta a esta provincia costera de Ecuador“.\nAnte ello, la propia Fundación ha donado unos 1.200 galones de agua a los pobladores afectados, mientras que se ha posibilitado la asistencia médica desde la perspectiva de la psicología, instalando al mismo tiempo un laboratorio para estudiar la calidad del agua.\nAsimismo, alertan que para resolver la situación se necesita de “una respuesta integral que combine la asistencia humanitaria con medidas de recuperación sostenible“.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ecuador-derrame-crudo-esmeralda-sin-agua/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 165,
+    "message_id": 90547,
+    "date": "2025-03-29T00:55:17+00:00",
+    "text": "teleSUR\nEcuador: Derrame de crudo en Esmeraldas deja sin agua a más de 500 mil pobladores\nhttps://www.telesurtv.net/ecuador-derrame-crudo-esmeralda-sin-agua/",
+    "photo_path": null,
+    "views": 1738,
+    "reactions": {
+      "🤬": 24,
+      "👎": 15,
+      "👍": 1,
+      "🌚": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "de acuerdo con la información oficial, el derrame se produjo el pasado 13 de marzo tras el colapso de un dique que formaba parte de la estructura de contención de más de 25.000 barriles de petróleo que resultaron desperdiciados tras el incidente. asimismo, se apunta que el crudo se extendió, provocando la contaminación de al menos cuatro ríos, así como, afectando el ecosistema de playas cercanas al lugar, el gobierno ecuatoriano subrayó que el origen del accidente lo produjo un sabotaje en el oleoducto, lo que añadido a los daños anteriormente expuestos, ocasionó la falta de agua en los pobladores de la zona. la secretaría de riesgos indicó que se cuantifican unas 500.000 personas que no cuentan con servicio de agua. asimismo, el ente dictaminó que entre los ríos contaminados figuran el esmeraldas, y las parroquias majua, chinca, san mateo y tachina. en tanto, se detalla que los territorios de majua, chinca y san mateo, también sufren la escasez del líquido vital, pues se suministran del río. ante la situación, se ha establecido el estado de emergencia en la zona, mientras que desde el centro de operaciones de emergencia (coe) nacional estipularon la situación de desastre en esmeraldas. por si fuera poco, la fundación caritas —que fundamenta su actividad en el desarrollo humano integral y solidario— alerta que el contexto es aún más complicado, pues la situación del derrame ha llegado “en un contexto de alta violencia que afecta a esta provincia costera de ecuador“. ante ello, la propia fundación ha donado unos 1.200 galones de agua a los pobladores afectados, mientras que se ha posibilitado la asistencia médica desde la perspectiva de la psicología, instalando al mismo tiempo un laboratorio para estudiar la calidad del agua. asimismo, alertan que para resolver la situación se necesita de “una respuesta integral que combine la asistencia humanitaria con medidas de recuperación sostenible“.",
+    "tokens": [
+      "acuerdo",
+      "información",
+      "oficial",
+      ",",
+      "derrame",
+      "produjo",
+      "pasado",
+      "13",
+      "marzo",
+      "tras",
+      "colapso",
+      "dique",
+      "formaba",
+      "parte",
+      "estructura",
+      "contención",
+      "25.000",
+      "barriles",
+      "petróleo",
+      "resultaron",
+      "desperdiciados",
+      "tras",
+      "incidente",
+      ".",
+      "asimismo",
+      ",",
+      "apunta",
+      "crudo",
+      "extendió",
+      ",",
+      "provocando",
+      "contaminación",
+      "menos",
+      "cuatro",
+      "ríos",
+      ",",
+      "así",
+      ",",
+      "afectando",
+      "ecosistema",
+      "playas",
+      "cercanas",
+      "lugar",
+      ",",
+      "gobierno",
+      "ecuatoriano",
+      "subrayó",
+      "origen",
+      "accidente",
+      "produjo",
+      "sabotaje",
+      "oleoducto",
+      ",",
+      "añadido",
+      "daños",
+      "anteriormente",
+      "expuestos",
+      ",",
+      "ocasionó",
+      "falta",
+      "agua",
+      "pobladores",
+      "zona",
+      ".",
+      "secretaría",
+      "riesgos",
+      "indicó",
+      "cuantifican",
+      "unas",
+      "500.000",
+      "personas",
+      "cuentan",
+      "servicio",
+      "agua",
+      ".",
+      "asimismo",
+      ",",
+      "ente",
+      "dictaminó",
+      "ríos",
+      "contaminados",
+      "figuran",
+      "esmeraldas",
+      ",",
+      "parroquias",
+      "majua",
+      ",",
+      "chinca",
+      ",",
+      "san",
+      "mateo",
+      "tachina",
+      ".",
+      ",",
+      "detalla",
+      "territorios",
+      "majua",
+      ",",
+      "chinca",
+      "san",
+      "mateo",
+      ",",
+      "sufren",
+      "escasez",
+      "líquido",
+      "vital",
+      ",",
+      "pues",
+      "suministran",
+      "río",
+      ".",
+      "situación",
+      ",",
+      "establecido",
+      "emergencia",
+      "zona",
+      ",",
+      "mientras",
+      "centro",
+      "operaciones",
+      "emergencia",
+      "(",
+      "coe",
+      ")",
+      "nacional",
+      "estipularon",
+      "situación",
+      "desastre",
+      "esmeraldas",
+      ".",
+      "si",
+      ",",
+      "fundación",
+      "caritas",
+      "—que",
+      "fundamenta",
+      "actividad",
+      "desarrollo",
+      "humano",
+      "integral",
+      "solidario—",
+      "alerta",
+      "contexto",
+      "aún",
+      "complicado",
+      ",",
+      "pues",
+      "situación",
+      "derrame",
+      "llegado",
+      "“",
+      "contexto",
+      "alta",
+      "violencia",
+      "afecta",
+      "provincia",
+      "costera",
+      "ecuador",
+      "“",
+      ".",
+      "ello",
+      ",",
+      "propia",
+      "fundación",
+      "donado",
+      "1.200",
+      "galones",
+      "agua",
+      "pobladores",
+      "afectados",
+      ",",
+      "mientras",
+      "posibilitado",
+      "asistencia",
+      "médica",
+      "perspectiva",
+      "psicología",
+      ",",
+      "instalando",
+      "mismo",
+      "tiempo",
+      "laboratorio",
+      "estudiar",
+      "calidad",
+      "agua",
+      ".",
+      "asimismo",
+      ",",
+      "alertan",
+      "resolver",
+      "situación",
+      "necesita",
+      "“",
+      "respuesta",
+      "integral",
+      "combine",
+      "asistencia",
+      "humanitaria",
+      "medidas",
+      "recuperación",
+      "sostenible",
+      "“",
+      "."
+    ],
+    "token_count": 203,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "FW": 86,
+      "NN": 116,
+      "JJ": 26,
+      "VBD": 4,
+      "CD": 4,
+      "IN": 10,
+      "NNS": 11,
+      "VBP": 6,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 6,
+      "FW-NN": 14,
+      "NN-FW": 15,
+      "FW-JJ": 3,
+      "JJ-JJ": 5,
+      "JJ-NN": 13,
+      "NN-NN": 78,
+      "NN-JJ": 8,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 6,
+      "FW-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-NN": 1,
+      "FW-FW": 57,
+      "NN-IN": 7,
+      "FW-CD": 1,
+      "CD-NNS": 3,
+      "NNS-FW": 2,
+      "NN-NNS": 2,
+      "VBP-JJ": 4,
+      "JJ-NNP": 2,
+      "NNP-NN": 9,
+      "NNP-NNP": 19,
+      "FW-NNP": 8,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "JJ-CD": 2,
+      "NNS-JJ": 2,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "VBD-RB": 1,
+      "RB-NNP": 1,
+      "NN-NNP": 4,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "NNP-JJ": 1,
+      "NNP-VBD": 2,
+      "VBD-NN": 1,
+      "VBD-JJ": 1,
+      "IN-JJ": 1,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NN": 3,
+      "FW-NN-FW": 4,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 4,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 8,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 10,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 43,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "NN-NN-NN": 49,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-FW": 10,
+      "NN-FW-NN": 5,
+      "FW-FW-NNS": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-CD": 1,
+      "JJ-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-IN": 3,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NN-VBD-RB": 1,
+      "VBD-RB-NNP": 1,
+      "RB-NNP-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 9,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NN": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-JJ-CD": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NNP-NN": 1,
+      "FW-FW-JJ": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 116,
+        "FW": 86,
+        "NNP": 38,
+        "JJ": 26,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 78,
+        "FW-FW": 57,
+        "NNP-NNP": 19,
+        "NN-FW": 15,
+        "FW-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 49,
+        "FW-FW-FW": 43,
+        "FW-NN-NN": 10,
+        "NN-NN-FW": 10,
+        "JJ-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 76,
+      "ADJP": 9,
+      "VP": 16,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Asimismo', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Chinca', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('pues', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP ('acuerdo', 'FW') NP ('la', 'FW') ADJP ADJP (',', ',') NP NP VP ('13', 'CD') ('de', 'IN') ('marzo', 'FW') NP VP ('de', 'FW') ('un', 'FW') NP NP ('de', 'IN') ('la', 'FW') ('estructura', 'FW') ('de', 'FW') ('contención', 'FW') ('de', 'FW') ('más', 'FW') ('de', 'FW') ('25.000', 'CD') NP ('de', 'FW') ('petróleo', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "ADJP -> ('información', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "ADJP",
+        "text": "información"
+      },
+      {
+        "label": "ADJP",
+        "text": "oficial"
+      },
+      {
+        "label": "NP",
+        "text": "el derrame"
+      },
+      {
+        "label": "NP",
+        "text": "se produjo el"
+      },
+      {
+        "label": "VP",
+        "text": "pasado"
+      },
+      {
+        "label": "NP",
+        "text": "tras"
+      },
+      {
+        "label": "VP",
+        "text": "el colapso"
+      },
+      {
+        "label": "NP",
+        "text": "colapso"
+      },
+      {
+        "label": "NP",
+        "text": "dique que"
+      },
+      {
+        "label": "NP",
+        "text": "formaba parte"
+      },
+      {
+        "label": "NP",
+        "text": "barriles"
+      },
+      {
+        "label": "NP",
+        "text": "que resultaron desperdiciados tras"
+      },
+      {
+        "label": "VP",
+        "text": "el incidente"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  (ADJP información/JJ)\n  (ADJP oficial/JJ)\n  ,/,\n  (NP el/JJ derrame/NN)\n  (NP se/JJ produjo/NN el/NN)\n  (VP pasado/VBD)\n  13/CD\n  de/IN\n  marzo/FW\n  (NP tras/NNS)\n  (VP el/VBP (NP colapso/NN))\n  de/FW\n  un/FW\n  (NP dique/NN que/NN)\n  (NP formaba/JJ parte/NN)\n  de/IN\n  la/FW\n  estructura/FW\n  de/FW\n  contención/FW\n  de/FW\n  más/FW\n  de/FW\n  25.000/CD\n  (NP barriles/NNS)\n  de/FW\n  petróleo/FW\n  (NP que/NN resultaron/NN desperdiciados/NN tras/NNS)\n  (VP el/VBP (NP incidente/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP se/VBZ (NP apunta/JJ que/NN el/NN crudo/NN se/NN extendió/NN))\n  ,/,\n  (NP provocando/NN)\n  la/FW\n  contaminación/FW\n  de/FW\n  al/FW\n  menos/FW\n  (NP cuatro/NN ríos/NN)\n  ,/,\n  (NP así/JJ como/NN)\n  ,/,\n  (ADJP afectando/JJ)\n  el/FW\n  ecosistema/FW\n  de/FW\n  playas/FW\n  (NP cercanas/NNS)\n  (VP al/VBP (NP lugar/NN))\n  ,/,\n  (NP\n    El/NNP\n    Gobierno/NNP\n    ecuatoriano/NN\n    subrayó/NN\n    que/NN\n    el/NN\n    origen/NN\n    del/NN\n    accidente/NN\n    lo/NN\n    produjo/NN)\n  (NP un/JJ sabotaje/NN)\n  en/IN\n  el/FW\n  oleoducto/FW\n  ,/,\n  lo/FW\n  (NP que/NN)\n  (PP\n    añadido/IN\n    (NP a/DT los/JJ daños/NN anteriormente/NN expuestos/NN))\n  ,/,\n  (ADJP ocasionó/JJ)\n  la/FW\n  falta/FW\n  de/FW\n  agua/FW\n  en/FW\n  los/FW\n  pobladores/FW\n  de/FW\n  la/FW\n  zona/FW\n  ./.)",
+      "(S\n  (NP La/NNP Secretaría/NNP)\n  (PP de/IN (NP Riesgos/NNP indicó/NN que/NN))\n  (ADJP se/JJ)\n  (ADJP cuantifican/JJ)\n  (ADJP unas/JJ)\n  500.000/CD\n  (NP personas/NNS)\n  (ADJP que/JJ)\n  (NP no/DT cuentan/JJ con/NN servicio/NN)\n  (PP de/IN (NP agua/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP el/VBZ (NP ente/JJ dictaminó/NN que/NN))\n  entre/FW\n  (NP los/NN ríos/NN contaminados/NN)\n  (VP figuran/VBD (NP el/JJ Esmeraldas/NNP))\n  ,/,\n  (NP y/NNP)\n  (VP las/VBZ (NP parroquias/JJ Majua/NNP))\n  ,/,\n  (NP Chinca/NNP)\n  ,/,\n  (NP San/NNP Mateo/NNP y/NNP Tachina/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  (NP se/JJ detalla/NN que/NN)\n  (NP los/JJ territorios/NNS)\n  de/FW\n  (NP Majua/NNP)\n  ,/,\n  (NP Chinca/NNP)\n  (VP y/VBZ (NP San/NNP Mateo/NNP))\n  ,/,\n  (NP también/JJ sufren/NN la/NN)\n  escasez/FW\n  (NP del/NN líquido/NN vital/NN)\n  ,/,\n  (NP pues/NNS)\n  (VP se/VBP (NP suministran/JJ del/NN río/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "APROBACION_RECHAZO",
+      "LEYES_NORMATIVAS",
+      "ORGANIZACIONES_SOCIALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "colapso de un dique que formaba parte de la estructura",
+        "position": [
+          91,
+          145
+        ],
+        "start": 91,
+        "end": 145
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "asistencia humanitaria",
+        "position": [
+          1859,
+          1881
+        ],
+        "start": 1859,
+        "end": 1881
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "falta de agua",
+        "position": [
+          573,
+          586
+        ],
+        "start": 573,
+        "end": 586
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "contaminación",
+        "position": [
+          307,
+          320
+        ],
+        "start": 307,
+        "end": 320
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "fundación",
+        "position": [
+          1228,
+          1237
+        ],
+        "start": 1228,
+        "end": 1237
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          433,
+          440
+        ],
+        "start": 433,
+        "end": 440
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la información oficial, el derrame se produjo el pasado 13",
+        "position": [
+          3,
+          73
+        ],
+        "start": 3,
+        "end": 73
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          582,
+          586
+        ],
+        "start": 582,
+        "end": 586
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          1481,
+          1488
+        ],
+        "start": 1481,
+        "end": 1488
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1048,
+          1057
+        ],
+        "start": 1048,
+        "end": 1057
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          1103,
+          1112
+        ],
+        "start": 1103,
+        "end": 1112
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          677,
+          689
+        ],
+        "start": 677,
+        "end": 689
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500.000 personas",
+        "position": [
+          673,
+          689
+        ],
+        "start": 673,
+        "end": 689
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 25.000",
+        "position": [
+          163,
+          176
+        ],
+        "start": 163,
+        "end": 176
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Esmeraldas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Desarrollo Humano Integral",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fundación",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "COE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Solidario",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tachina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Centro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretaría de Riesgos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Chinca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fundación Caritas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "San Mateo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Majua",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Centro",
+        "relacion": "ESTIPULAR",
+        "objeto": "Esmeraldas"
+      },
+      {
+        "sujeto": "COE",
+        "relacion": "ESTIPULAR",
+        "objeto": "Esmeraldas"
+      },
+      {
+        "sujeto": "Fundación Caritas",
+        "relacion": "DONAR",
+        "objeto": "Fundación"
+      },
+      {
+        "sujeto": "Fundación",
+        "relacion": "FUNDAMENTAR_DONAR",
+        "objeto": "Desarrollo Humano Integral"
+      },
+      {
+        "sujeto": "Fundación",
+        "relacion": "FUNDAMENTAR_DONAR",
+        "objeto": "Solidario"
+      },
+      {
+        "sujeto": "Fundación",
+        "relacion": "AFECTAR_LLEGAR_DONAR",
+        "objeto": "Ecuador"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8519,
+    "pos": 0.043,
+    "neu": 0.95,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "url": "https://www.telesurtv.net/mensaje-esperanzador-del-vaticano-papa-francisco-avanza-en-su-recuperacion/",
+  "title": "Mensaje esperanzador del Vaticano: papa Francisco avanza en su recuperación - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Hospital Policlínico Gemelli",
+    "Oraciones",
+    "Papa",
+    "recuperación",
+    "renuncia",
+    "Roma",
+    "salud",
+    "Santo Padre",
+    "Su Santidad",
+    "Vaticano"
+  ],
+  "text": "\nA pesar de la lentitud en su recuperación, el Santo Padre continúa mostrando progresos, lo que ha llevado a reducir gradualmente la necesidad de ventilación mecánica nocturna. La oxigenoterapia de alto flujo sigue siendo parte de su tratamiento, complementada con fisioterapia motora y respiratoria, explicaron los galenos a cargo de su cuidado.\nDe acuerdo con el parte médico, Francisco aún necesita terapia y habrá de continuar ingresado en el hospital Gemelli, de Roma, durante varias jornadas más. Resaltaron que el tratamiento “muestra mejoras adicionales y graduales”.\nEl papa ha pasado la mayor parte del día entre terapias, oración, descanso y un poco de trabajo, lo que indica su compromiso con sus responsabilidades a pesar de su condición.\nSe prevé que el siguiente parte médico se emita entre el martes y el miércoles de la semana próxima.\nEste domingo 16 de marzo se publicará el texto del Ángelus, siguiendo la tradición de las semanas anteriores.\nEn un gesto que refuerza su compromiso con la Iglesia, Francisco ha aprobado un nuevo proceso de reformas que se extenderá durante tres años. Este proceso incluye consultas con católicos de todo el mundo y culminará con una nueva reunión en 2028.\nLa iniciativa es parte del Sínodo de los Obispos, una de las principales reformas de su papado, que busca abordar temas como la inclusión de mujeres como diáconos y la mejor integración de las personas LGBTIQ+ en la Iglesia.\nA pesar de especulaciones sobre su renuncia, el papa demostró su intención de seguir adelante con su liderazgo. La aprobación de este proceso de reformas es un claro indicio de su compromiso con la renovación eclesiástica.\nLa larga ausencia pública de Francisco generó preocupación entre los fieles, pero su capacidad para seguir trabajando desde el hospital es un testimonio de su fortaleza y dedicación. Aunque su recuperación es lenta y requiere tiempo, el Vaticano ha asegurado que no existe peligro inmediato para la salud de esta figura inspiradora y un símbolo de esperanza para millones de católicos en todo el mundo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mensaje-esperanzador-del-vaticano-papa-francisco-avanza-en-su-recuperacion/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1257,
+    "message_id": 89237,
+    "date": "2025-03-15T21:55:13+00:00",
+    "text": "teleSUR\nMensaje esperanzador del Vaticano: papa Francisco avanza en su recuperación\nhttps://www.telesurtv.net/mensaje-esperanzador-del-vaticano-papa-francisco-avanza-en-su-recuperacion/",
+    "photo_path": null,
+    "views": 2189,
+    "reactions": {
+      "🙏": 38,
+      "❤": 16,
+      "👍": 5
+    },
+    "total_reactions": 59
+  },
+  "preprocessing": {
+    "cleaned": "a pesar de la lentitud en su recuperación, el santo padre continúa mostrando progresos, lo que ha llevado a reducir gradualmente la necesidad de ventilación mecánica nocturna. la oxigenoterapia de alto flujo sigue siendo parte de su tratamiento, complementada con fisioterapia motora y respiratoria, explicaron los galenos a cargo de su cuidado. de acuerdo con el parte médico, francisco aún necesita terapia y habrá de continuar ingresado en el hospital gemelli, de roma, durante varias jornadas más. resaltaron que el tratamiento “muestra mejoras adicionales y graduales”. el papa ha pasado la mayor parte del día entre terapias, oración, descanso y un poco de trabajo, lo que indica su compromiso con sus responsabilidades a pesar de su condición. se prevé que el siguiente parte médico se emita entre el martes y el miércoles de la semana próxima. este domingo 16 de marzo se publicará el texto del ángelus, siguiendo la tradición de las semanas anteriores. en un gesto que refuerza su compromiso con la iglesia, francisco ha aprobado un nuevo proceso de reformas que se extenderá durante tres años. este proceso incluye consultas con católicos de todo el mundo y culminará con una nueva reunión en 2028. la iniciativa es parte del sínodo de los obispos, una de las principales reformas de su papado, que busca abordar temas como la inclusión de mujeres como diáconos y la mejor integración de las personas lgbtiq+ en la iglesia. a pesar de especulaciones sobre su renuncia, el papa demostró su intención de seguir adelante con su liderazgo. la aprobación de este proceso de reformas es un claro indicio de su compromiso con la renovación eclesiástica. la larga ausencia pública de francisco generó preocupación entre los fieles, pero su capacidad para seguir trabajando desde el hospital es un testimonio de su fortaleza y dedicación. aunque su recuperación es lenta y requiere tiempo, el vaticano ha asegurado que no existe peligro inmediato para la salud de esta figura inspiradora y un símbolo de esperanza para millones de católicos en todo el mundo.",
+    "tokens": [
+      "pesar",
+      "lentitud",
+      "recuperación",
+      ",",
+      "santo",
+      "padre",
+      "continúa",
+      "mostrando",
+      "progresos",
+      ",",
+      "llevado",
+      "reducir",
+      "gradualmente",
+      "necesidad",
+      "ventilación",
+      "mecánica",
+      "nocturna",
+      ".",
+      "oxigenoterapia",
+      "alto",
+      "flujo",
+      "sigue",
+      "siendo",
+      "parte",
+      "tratamiento",
+      ",",
+      "complementada",
+      "fisioterapia",
+      "motora",
+      "respiratoria",
+      ",",
+      "explicaron",
+      "galenos",
+      "cargo",
+      "cuidado",
+      ".",
+      "acuerdo",
+      "parte",
+      "médico",
+      ",",
+      "francisco",
+      "aún",
+      "necesita",
+      "terapia",
+      "continuar",
+      "ingresado",
+      "hospital",
+      "gemelli",
+      ",",
+      "roma",
+      ",",
+      "varias",
+      "jornadas",
+      ".",
+      "resaltaron",
+      "tratamiento",
+      "“",
+      "muestra",
+      "mejoras",
+      "adicionales",
+      "graduales",
+      "”",
+      ".",
+      "papa",
+      "pasado",
+      "mayor",
+      "parte",
+      "día",
+      "terapias",
+      ",",
+      "oración",
+      ",",
+      "descanso",
+      "trabajo",
+      ",",
+      "indica",
+      "compromiso",
+      "responsabilidades",
+      "pesar",
+      "condición",
+      ".",
+      "prevé",
+      "siguiente",
+      "parte",
+      "médico",
+      "emita",
+      "martes",
+      "miércoles",
+      "semana",
+      "próxima",
+      ".",
+      "domingo",
+      "16",
+      "marzo",
+      "publicará",
+      "texto",
+      "ángelus",
+      ",",
+      "siguiendo",
+      "tradición",
+      "semanas",
+      "anteriores",
+      ".",
+      "gesto",
+      "refuerza",
+      "compromiso",
+      "iglesia",
+      ",",
+      "francisco",
+      "aprobado",
+      "nuevo",
+      "proceso",
+      "reformas",
+      "extenderá",
+      "tres",
+      "años",
+      ".",
+      "proceso",
+      "incluye",
+      "consultas",
+      "católicos",
+      "mundo",
+      "culminará",
+      "nueva",
+      "reunión",
+      "2028.",
+      "iniciativa",
+      "parte",
+      "sínodo",
+      "obispos",
+      ",",
+      "principales",
+      "reformas",
+      "papado",
+      ",",
+      "busca",
+      "abordar",
+      "temas",
+      "inclusión",
+      "mujeres",
+      "diáconos",
+      "mejor",
+      "integración",
+      "personas",
+      "lgbtiq+",
+      "iglesia",
+      ".",
+      "pesar",
+      "especulaciones",
+      "renuncia",
+      ",",
+      "papa",
+      "demostró",
+      "intención",
+      "seguir",
+      "adelante",
+      "liderazgo",
+      ".",
+      "aprobación",
+      "proceso",
+      "reformas",
+      "claro",
+      "indicio",
+      "compromiso",
+      "renovación",
+      "eclesiástica",
+      ".",
+      "larga",
+      "ausencia",
+      "pública",
+      "francisco",
+      "generó",
+      "preocupación",
+      "fieles",
+      ",",
+      "capacidad",
+      "seguir",
+      "trabajando",
+      "hospital",
+      "testimonio",
+      "fortaleza",
+      "dedicación",
+      ".",
+      "aunque",
+      "recuperación",
+      "lenta",
+      "requiere",
+      "tiempo",
+      ",",
+      "vaticano",
+      "asegurado",
+      "existe",
+      "peligro",
+      "inmediato",
+      "salud",
+      "figura",
+      "inspiradora",
+      "símbolo",
+      "esperanza",
+      "millones",
+      "católicos",
+      "mundo",
+      "."
+    ],
+    "token_count": 203,
+    "sentence_count": 14
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 127,
+      "IN": 18,
+      "FW": 102,
+      "NNP": 25,
+      "JJ": 24,
+      "NNS": 11,
+      "VBZ": 4,
+      "VBD": 1,
+      "CD": 2,
+      "VBP": 5,
+      "RB": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NN-IN": 14,
+      "IN-FW": 12,
+      "FW-FW": 70,
+      "FW-NNP": 7,
+      "NNP-NNP": 2,
+      "NNP-NN": 13,
+      "NN-NN": 76,
+      "NN-FW": 11,
+      "NNP-FW": 6,
+      "FW-NN": 15,
+      "FW-IN": 1,
+      "IN-NN": 3,
+      "NN-JJ": 7,
+      "JJ-NN": 15,
+      "NN-NNP": 9,
+      "FW-JJ": 7,
+      "JJ-FW": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 4,
+      "NNS-NNS": 2,
+      "NNS-NNP": 3,
+      "NN-VBZ": 3,
+      "VBZ-FW": 1,
+      "VBZ-JJ": 3,
+      "NNS-IN": 2,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NNP-JJ": 1,
+      "JJ-JJ": 3,
+      "NN-NNS": 3,
+      "NNS-VBP": 3,
+      "VBP-NNP": 1,
+      "VBP-NN": 3,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "FW-NNS": 2,
+      "NNS-FW": 1,
+      "NNP-VBP": 1,
+      "NNP-VBZ": 1,
+      "IN-NNP": 1,
+      "VBP-JJ": 1,
+      "NN-VBP": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-DT": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NN-IN-FW": 10,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 53,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 47,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 5,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 7,
+      "FW-NN-NN": 9,
+      "NN-NN-IN": 5,
+      "IN-FW-IN": 1,
+      "FW-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-NN": 5,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 7,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 2,
+      "NN-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 4,
+      "IN-FW-JJ": 4,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "JJ-NN-NN": 7,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "FW-JJ-NN": 4,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 127,
+        "FW": 102,
+        "NNP": 25,
+        "JJ": 24,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 76,
+        "FW-FW": 70,
+        "FW-NN": 15,
+        "JJ-NN": 15,
+        "NN-IN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 53,
+        "NN-NN-NN": 47,
+        "NNP-NN-NN": 11,
+        "NN-IN-FW": 10,
+        "FW-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 14,
+    "chunk_counts": {
+      "NP": 81,
+      "VP": 14,
+      "ADJP": 3,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('A', 'DT') ('pesar', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('católicos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') ('lentitud', 'FW') ('en', 'FW') ('su', 'FW') NP (',', ',') ('el', 'FW') NP (',', ',') NP VP ('la', 'FW') ('necesidad', 'FW') ('de', 'FW') ('ventilación', 'FW') ('mecánica', 'FW') ('nocturna', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('recuperación', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Santo', 'NNP') ('Padre', 'NNP') ('continúa', 'NN') ('mostrando', 'NN') ('progresos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('lo', 'JJ') ('que', 'NN') ('ha', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('llevado', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('reducir', 'NN') ('gradualmente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "A pesar"
+      },
+      {
+        "label": "NP",
+        "text": "recuperación"
+      },
+      {
+        "label": "NP",
+        "text": "Santo Padre continúa mostrando progresos"
+      },
+      {
+        "label": "NP",
+        "text": "lo que ha"
+      },
+      {
+        "label": "VP",
+        "text": "llevado a reducir gradualmente"
+      },
+      {
+        "label": "NP",
+        "text": "a reducir gradualmente"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "sigue siendo parte"
+      },
+      {
+        "label": "NP",
+        "text": "tratamiento"
+      },
+      {
+        "label": "NP",
+        "text": "complementada con fisioterapia motora y respiratoria"
+      },
+      {
+        "label": "VP",
+        "text": "explicaron los galenos a cargo"
+      },
+      {
+        "label": "NP",
+        "text": "los galenos"
+      },
+      {
+        "label": "NP",
+        "text": "a cargo"
+      },
+      {
+        "label": "NP",
+        "text": "cuidado"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  la/FW\n  lentitud/FW\n  en/FW\n  su/FW\n  (NP recuperación/NN)\n  ,/,\n  el/FW\n  (NP Santo/NNP Padre/NNP continúa/NN mostrando/NN progresos/NN)\n  ,/,\n  (NP lo/JJ que/NN ha/NN)\n  (VP llevado/VBZ (NP a/DT reducir/NN gradualmente/NN))\n  la/FW\n  necesidad/FW\n  de/FW\n  ventilación/FW\n  mecánica/FW\n  nocturna/FW\n  ./.)",
+      "(S\n  (NP La/NNP)\n  oxigenoterapia/FW\n  de/FW\n  alto/FW\n  flujo/FW\n  (NP sigue/NN siendo/NN parte/NN)\n  de/IN\n  su/FW\n  (NP tratamiento/NN)\n  ,/,\n  (NP\n    complementada/JJ\n    con/NN\n    fisioterapia/NN\n    motora/NN\n    y/NN\n    respiratoria/NN)\n  ,/,\n  (VP explicaron/VB (NP los/JJ galenos/NNS) (NP a/DT cargo/NN))\n  de/IN\n  su/FW\n  (NP cuidado/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN parte/NN médico/NN)\n  ,/,\n  (NP Francisco/NNP aún/NN necesita/NN terapia/NN y/NN habrá/NN)\n  de/IN\n  continuar/FW\n  (ADJP ingresado/JJ)\n  en/FW\n  el/FW\n  (NP hospital/NN Gemelli/NNP)\n  ,/,\n  de/FW\n  (NP Roma/NNP)\n  ,/,\n  (NP durante/NN varias/NNS)\n  (VP jornadas/VBP (NP más/NN))\n  ./.)",
+      "(S\n  (NP Resaltaron/NNP que/NN el/NN)\n  (PP\n    tratamiento/IN\n    (NP “/JJ muestra/JJ mejoras/NNS adicionales/NNS))\n  (VP y/VBP (NP graduales/NNS ”/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP papa/NN ha/NN pasado/NN)\n  la/FW\n  (NP mayor/NN parte/NN del/NN día/NN entre/NN terapias/NN)\n  ,/,\n  (NP oración/NN)\n  ,/,\n  (NP descanso/NN y/NN)\n  (NP un/JJ poco/NN)\n  (PP de/IN (NP trabajo/NN))\n  ,/,\n  (NP lo/JJ que/NN indica/NN su/NN compromiso/NN con/NN sus/NN)\n  (VP responsabilidades/VBZ (NP a/DT pesar/NN))\n  de/IN\n  su/FW\n  (NP condición/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "GRUPOS_ESPECIFICOS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "CIUDADES_CAPITALES",
+      "FECHAS_HORAS",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          664,
+          671
+        ],
+        "start": 664,
+        "end": 671
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el parte médico, francisco aún necesita terapia y habrá de",
+        "position": [
+          350,
+          420
+        ],
+        "start": 350,
+        "end": 420
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "inclusión",
+        "position": [
+          1338,
+          1347
+        ],
+        "start": 1338,
+        "end": 1347
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1351,
+          1358
+        ],
+        "start": 1351,
+        "end": 1358
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          447,
+          455
+        ],
+        "start": 447,
+        "end": 455
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "roma",
+        "position": [
+          468,
+          472
+        ],
+        "start": 468,
+        "end": 472
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital gemelli",
+        "position": [
+          447,
+          463
+        ],
+        "start": 447,
+        "end": 463
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 16 de marzo",
+        "position": [
+          858,
+          877
+        ],
+        "start": 858,
+        "end": 877
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "semana próxima",
+        "position": [
+          837,
+          851
+        ],
+        "start": 837,
+        "end": 851
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Sínodo de los Obispos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ángelus",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "el Vaticano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francisco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Iglesia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "hospital Gemelli",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Roma",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Francisco",
+        "relacion": "NECESITAR",
+        "objeto": "hospital Gemelli"
+      },
+      {
+        "sujeto": "Francisco",
+        "relacion": "NECESITAR",
+        "objeto": "Roma"
+      },
+      {
+        "sujeto": "Francisco",
+        "relacion": "REFORZAR_APROBAR",
+        "objeto": "Iglesia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7506,
+    "pos": 0.029,
+    "neu": 0.964,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

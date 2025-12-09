@@ -1,0 +1,678 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-esta-en-alerta-y-combate-contra-grupos-criminales-y-el-narcotrafico-de-colombia/",
+  "title": "Venezuela está en alerta y combate contra grupos criminales y el narcotráfico de Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "grupos criminales",
+    "narcotráfico",
+    "Venezuela"
+  ],
+  "text": "El presidente de Venezuela, Nicolás Maduro, puntualizó este lunes en su programa Con Maduro + que en el país están en alerta y combate contra cualquier grupo narcotraficante y criminal que provenga de Colombia u otro lugar.\n“Estamos en combate contra los grupos criminales, los terroristas armados y narcotraficantes de Colombia (Tancol), y cualquiera que aparezca”, refirió el presidente, al tiempo de mencionar la incautación por parte de la Fuerza Armada Nacional Bolivariana (FANB) de dos avionetas y destruir una pista clandestina en el estado fronterizo de Apure.\n“La fuerza armada, la milicia y la policía están desplegadas de manera permanente en todas nuestras fronteras”, aseveró el presidente al tiempo que destacó que en Colombia, por ejemplo, no solo con la operación de liberación del Catatumbo.\n“Es una de las pistas que estamos persiguiendo del narcotráfico que nos vienen permanente de Colombia. Venezuela tiene más de 2.200 kilómetros de frontera con Colombia y estamos en un combate serio”, alertó.\nAdemás, insistió que “no es nuevo”. “Lo empezó Chávez y lo hemos especializado con los equipos necesarios. Tenemos que aumentar la técnica”, dijo.\nEsto, refiere Nicolás Maduro “para que el territorio de la frontera sea libre de paramilitares, grupos armados, narco”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-esta-en-alerta-y-combate-contra-grupos-criminales-y-el-narcotrafico-de-colombia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1636,
+    "message_id": 88823,
+    "date": "2025-03-11T02:55:29+00:00",
+    "text": "teleSUR\nVenezuela está en alerta y combate contra grupos criminales y el narcotráfico de Colombia\nhttps://www.telesurtv.net/venezuela-esta-en-alerta-y-combate-contra-grupos-criminales-y-el-narcotrafico-de-colombia/",
+    "photo_path": null,
+    "views": 2107,
+    "reactions": {
+      "👏": 43,
+      "👍": 13,
+      "🤡": 1
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro, puntualizó este lunes en su programa con maduro + que en el país están en alerta y combate contra cualquier grupo narcotraficante y criminal que provenga de colombia u otro lugar. “estamos en combate contra los grupos criminales, los terroristas armados y narcotraficantes de colombia (tancol), y cualquiera que aparezca”, refirió el presidente, al tiempo de mencionar la incautación por parte de la fuerza armada nacional bolivariana (fanb) de dos avionetas y destruir una pista clandestina en el estado fronterizo de apure. “la fuerza armada, la milicia y la policía están desplegadas de manera permanente en todas nuestras fronteras”, aseveró el presidente al tiempo que destacó que en colombia, por ejemplo, no solo con la operación de liberación del catatumbo. “es una de las pistas que estamos persiguiendo del narcotráfico que nos vienen permanente de colombia. venezuela tiene más de 2.200 kilómetros de frontera con colombia y estamos en un combate serio”, alertó. además, insistió que “no es nuevo”. “lo empezó chávez y lo hemos especializado con los equipos necesarios. tenemos que aumentar la técnica”, dijo. esto, refiere nicolás maduro “para que el territorio de la frontera sea libre de paramilitares, grupos armados, narco”.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "puntualizó",
+      "lunes",
+      "programa",
+      "maduro",
+      "+",
+      "país",
+      "alerta",
+      "combate",
+      "cualquier",
+      "grupo",
+      "narcotraficante",
+      "criminal",
+      "provenga",
+      "colombia",
+      "u",
+      "lugar",
+      ".",
+      "“",
+      "combate",
+      "grupos",
+      "criminales",
+      ",",
+      "terroristas",
+      "armados",
+      "narcotraficantes",
+      "colombia",
+      "(",
+      "tancol",
+      ")",
+      ",",
+      "cualquiera",
+      "aparezca",
+      "”",
+      ",",
+      "refirió",
+      "presidente",
+      ",",
+      "tiempo",
+      "mencionar",
+      "incautación",
+      "parte",
+      "fuerza",
+      "armada",
+      "nacional",
+      "bolivariana",
+      "(",
+      "fanb",
+      ")",
+      "dos",
+      "avionetas",
+      "destruir",
+      "pista",
+      "clandestina",
+      "fronterizo",
+      "apure",
+      ".",
+      "“",
+      "fuerza",
+      "armada",
+      ",",
+      "milicia",
+      "policía",
+      "desplegadas",
+      "manera",
+      "permanente",
+      "todas",
+      "fronteras",
+      "”",
+      ",",
+      "aseveró",
+      "presidente",
+      "tiempo",
+      "destacó",
+      "colombia",
+      ",",
+      "ejemplo",
+      ",",
+      "solo",
+      "operación",
+      "liberación",
+      "catatumbo",
+      ".",
+      "“",
+      "pistas",
+      "persiguiendo",
+      "narcotráfico",
+      "vienen",
+      "permanente",
+      "colombia",
+      ".",
+      "venezuela",
+      "2.200",
+      "kilómetros",
+      "frontera",
+      "colombia",
+      "combate",
+      "serio",
+      "”",
+      ",",
+      "alertó",
+      ".",
+      "además",
+      ",",
+      "insistió",
+      "“",
+      "nuevo",
+      "”",
+      ".",
+      "“",
+      "empezó",
+      "chávez",
+      "especializado",
+      "equipos",
+      "necesarios",
+      ".",
+      "aumentar",
+      "técnica",
+      "”",
+      ",",
+      "dijo",
+      ".",
+      ",",
+      "refiere",
+      "nicolás",
+      "maduro",
+      "“",
+      "territorio",
+      "frontera",
+      "libre",
+      "paramilitares",
+      ",",
+      "grupos",
+      "armados",
+      ",",
+      "narco",
+      "”",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "NN": 60,
+      "FW": 48,
+      "NNS": 10,
+      "IN": 10,
+      "JJ": 15,
+      "VBP": 7,
+      "MD": 1,
+      "VB": 1,
+      "VBZ": 3,
+      "DT": 2,
+      "CD": 1,
+      "RB": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-FW": 7,
+      "FW-NNP": 4,
+      "NNP-NNP": 12,
+      "NN-NN": 31,
+      "NN-NNS": 5,
+      "NNS-IN": 2,
+      "IN-JJ": 1,
+      "JJ-NN": 10,
+      "NN-NNP": 5,
+      "FW-FW": 32,
+      "FW-NN": 9,
+      "NNS-VBP": 6,
+      "VBP-JJ": 6,
+      "JJ-JJ": 3,
+      "NN-IN": 7,
+      "IN-NNP": 4,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNP": 1,
+      "NNP-FW": 3,
+      "JJ-NNS": 2,
+      "IN-FW": 4,
+      "NNP-IN": 1,
+      "FW-NNS": 2,
+      "NNP-VBP": 1,
+      "VBP-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-JJ": 2,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-NNP": 2,
+      "VBZ-JJ": 1,
+      "NNS-NNP": 1,
+      "NNP-RB": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 6,
+      "NN-NN-NNS": 1,
+      "NN-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 23,
+      "FW-FW-NN": 5,
+      "FW-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 6,
+      "NN-IN-NNP": 3,
+      "IN-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNP": 1,
+      "VB-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NN-NN-NN": 17,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNP-NNP-FW": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-VBZ": 1,
+      "VBP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-NNP": 1,
+      "RB-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NNP-RB": 1,
+      "NNP-RB-NNP": 1,
+      "RB-NNP-NNP": 1,
+      "FW-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 60,
+        "FW": 48,
+        "NNP": 30,
+        "JJ": 15,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "FW-FW": 32,
+        "NN-NN": 31,
+        "NNP-NNP": 12,
+        "JJ-NN": 10,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 17,
+        "JJ-NN-NN": 8,
+        "NNP-NN-NN": 6,
+        "NNS-VBP-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 57,
+      "PP": 5,
+      "VP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0506
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.038
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP PP ('en', 'FW') ('el', 'FW') ('país', 'FW') ('están', 'FW') ('en', 'FW') ('alerta', 'FW') ('y', 'FW') NP VP ('y', 'FW') NP PP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('puntualizó', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('su', 'JJ') ('programa', 'NN') ('Con', 'NNP') ('Maduro', 'NNP') ('+', 'NNP') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('combate', 'NN') ('contra', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "puntualizó este lunes"
+      },
+      {
+        "label": "PP",
+        "text": "en su programa Con Maduro + que"
+      },
+      {
+        "label": "NP",
+        "text": "su programa Con Maduro + que"
+      },
+      {
+        "label": "NP",
+        "text": "combate contra"
+      },
+      {
+        "label": "VP",
+        "text": "cualquier grupo narcotraficante"
+      },
+      {
+        "label": "NP",
+        "text": "criminal que provenga"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "u otro lugar"
+      },
+      {
+        "label": "NP",
+        "text": "“ Estamos en combate"
+      },
+      {
+        "label": "NP",
+        "text": "contra los grupos criminales"
+      },
+      {
+        "label": "NP",
+        "text": "los terroristas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP puntualizó/NN este/NN lunes/NNS)\n  (PP en/IN (NP su/JJ programa/NN Con/NNP Maduro/NNP +/NNP que/NN))\n  en/FW\n  el/FW\n  país/FW\n  están/FW\n  en/FW\n  alerta/FW\n  y/FW\n  (NP combate/NN contra/NNS)\n  (VP cualquier/VBP grupo/JJ narcotraficante/JJ)\n  y/FW\n  (NP criminal/JJ que/NN provenga/NN)\n  (PP de/IN (NP Colombia/NNP))\n  (NP u/JJ otro/NN lugar/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Estamos/NNP en/NN combate/NN)\n  (NP contra/JJ los/NN grupos/NN criminales/NNS)\n  ,/,\n  (NP los/JJ terroristas/NNS)\n  (VP armados/VBP (NP y/JJ narcotraficantes/NNS))\n  (PP de/IN (NP Colombia/NNP))\n  (/(\n  (NP Tancol/NNP)\n  )/)\n  ,/,\n  (NP y/JJ cualquiera/NN que/NN aparezca/NN ”/NNP)\n  ,/,\n  (NP refirió/NN el/NN presidente/NN)\n  ,/,\n  (NP al/JJ tiempo/NN)\n  de/IN\n  mencionar/FW\n  la/FW\n  incautación/FW\n  por/FW\n  parte/FW\n  de/FW\n  la/FW\n  (NP Fuerza/NNP Armada/NNP Nacional/NNP Bolivariana/NNP)\n  (/(\n  (NP FANB/NNP)\n  )/)\n  de/FW\n  dos/FW\n  (NP avionetas/NNS)\n  (VP y/VBP (NP destruir/JJ una/JJ pista/NN clandestina/NN))\n  en/IN\n  el/FW\n  estado/FW\n  fronterizo/FW\n  de/FW\n  (NP Apure/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP fuerza/NN armada/NN)\n  ,/,\n  la/FW\n  milicia/FW\n  y/FW\n  la/FW\n  policía/FW\n  están/FW\n  desplegadas/FW\n  de/FW\n  manera/FW\n  (NP permanente/NN)\n  en/FW\n  (NP todas/NN nuestras/NNS)\n  (VP fronteras/VBP ”/RB)\n  ,/,\n  (NP\n    aseveró/JJ\n    el/NN\n    presidente/NN\n    al/NN\n    tiempo/NN\n    que/NN\n    destacó/NN\n    que/NN)\n  (PP en/IN (NP Colombia/NNP))\n  ,/,\n  (NP por/NN ejemplo/NN)\n  ,/,\n  (NP no/DT solo/NN con/NN)\n  la/FW\n  operación/FW\n  de/FW\n  liberación/FW\n  del/FW\n  (NP Catatumbo/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Es/NNP una/NN)\n  de/FW\n  las/FW\n  (NP pistas/NNS)\n  (VP\n    que/VBP\n    (NP estamos/JJ persiguiendo/NN del/NN narcotráfico/NN que/NN)\n    (NP nos/JJ vienen/NN permanente/NN))\n  (PP de/IN (NP Colombia/NNP))\n  ./.)",
+      "(S\n  (NP Venezuela/NNP tiene/NN más/NN)\n  de/IN\n  2.200/CD\n  (NP kilómetros/NNS)\n  de/FW\n  frontera/FW\n  (NP con/NN Colombia/NNP y/NNP)\n  (VP estamos/VBZ)\n  en/FW\n  (NP un/JJ combate/NN serio/NN ”/NNP)\n  ,/,\n  (NP alertó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "combate contra los grupos criminales, los terroristas armados",
+        "position": [
+          236,
+          297
+        ],
+        "start": 236,
+        "end": 297
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          1010,
+          1016
+        ],
+        "start": 1010,
+        "end": 1016
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          718,
+          725
+        ],
+        "start": 718,
+        "end": 725
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          201,
+          209
+        ],
+        "start": 201,
+        "end": 209
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado fronterizo",
+        "position": [
+          542,
+          559
+        ],
+        "start": 542,
+        "end": 559
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 2.200",
+        "position": [
+          929,
+          941
+        ],
+        "start": 929,
+        "end": 941
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Apure",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FANB",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerza Armada Nacional Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Catatumbo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tancol",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "PUNTUALIZAR",
+        "objeto": "de Colombia"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "PUNTUALIZAR",
+        "objeto": "de Colombia"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "REFERIR",
+        "objeto": "Fuerza Armada Nacional Bolivariana"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "REFERIR",
+        "objeto": "FANB"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "REFERIR",
+        "objeto": "Apure"
+      },
+      {
+        "sujeto": "Tancol",
+        "relacion": "REFERIR",
+        "objeto": "Fuerza Armada Nacional Bolivariana"
+      },
+      {
+        "sujeto": "Tancol",
+        "relacion": "REFERIR",
+        "objeto": "FANB"
+      },
+      {
+        "sujeto": "Tancol",
+        "relacion": "REFERIR",
+        "objeto": "Apure"
+      },
+      {
+        "sujeto": "Fuerza Armada Nacional Bolivariana",
+        "relacion": "MENCIONAR_REFERIR",
+        "objeto": "Apure"
+      },
+      {
+        "sujeto": "FANB",
+        "relacion": "MENCIONAR_REFERIR",
+        "objeto": "Apure"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "TENER_ALERTAR",
+        "objeto": "Colombia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.0,
+    "neu": 0.971,
+    "neg": 0.029,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,712 @@
+{
+  "url": "https://www.telesurtv.net/presidente-maduro-minuto-a-minuto-conferencia/",
+  "title": "Minuto a minuto: Presidente Maduro habla a la prensa internacional sobre amenaza estadounidense - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "amenaza militar",
+    "Caribe",
+    "Conferencia de prensa",
+    "Despliegue militar estadounidense",
+    "Minuto a Minuto",
+    "Presidente Maduro"
+  ],
+  "text": "El presidente de Venezuela, Nicolás Maduro, ofreció este lunes una rueda de prensa con el cuerpo diplomático y medios internacionales e instó a que se diga la verdad sobre su país, que trabaja de manera pacífica por el desarrollo y el bienestar social.\nEn la rueda de prensa, de la que participan más de 47 medios internacionales y 170 representaciones diplomáticas de todo el mundo, el jefe de Estado recordó el carácter emancipador de los ejércitos independentistas liderados por el Libertador Simón Bolívar, que atravesaron América del Sur para romper las cadenas de la metrópoli española y hacer libres a otros pueblos.\n“Somos pacíficos, pero rebeldes. Nadie nos podrá someter”, enfatizó el jefe de Estado venezolano. Y destacó: “Nosotros en estas cinco semanas hemos aprovechado el tiempo, y puedo decir: Hoy Venezuela tiene más poder nacional, está más unida, está más preparada para preservar, en cualquier circunstancia, si nos tocara ir a la lucha armada, preservar el país, su independencia y construir la paz en las nuevas circunstancias. Hoy estamos más fuertes que ayer, muchísimo más fuertes que ayer”.\n\n\n\n\n\nEl jefe de Estado venezolano preguntó “¿Para qué han servido las ocho bases militares de Estados Unidos?”, luego de señalar que Washington justificó la instalación de bases militares para terminar con la producción de coca y de cocaína en Colombia.  Sin embargo, Maduro señaló que la producción “se triplicó”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-maduro-minuto-a-minuto-conferencia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 58,
+    "message_id": 104648,
+    "date": "2025-09-15T17:55:07+00:00",
+    "text": "teleSUR\nMinuto a minuto: Presidente Maduro habla a la prensa internacional sobre amenaza estadounidense\nhttps://www.telesurtv.net/presidente-maduro-minuto-a-minuto-conferencia/",
+    "photo_path": null,
+    "views": 1720,
+    "reactions": {
+      "👍": 39,
+      "👏": 4,
+      "❤": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro, ofreció este lunes una rueda de prensa con el cuerpo diplomático y medios internacionales e instó a que se diga la verdad sobre su país, que trabaja de manera pacífica por el desarrollo y el bienestar social. en la rueda de prensa, de la que participan más de 47 medios internacionales y 170 representaciones diplomáticas de todo el mundo, el jefe de estado recordó el carácter emancipador de los ejércitos independentistas liderados por el libertador simón bolívar, que atravesaron américa del sur para romper las cadenas de la metrópoli española y hacer libres a otros pueblos. “somos pacíficos, pero rebeldes. nadie nos podrá someter”, enfatizó el jefe de estado venezolano. y destacó: “nosotros en estas cinco semanas hemos aprovechado el tiempo, y puedo decir: hoy venezuela tiene más poder nacional, está más unida, está más preparada para preservar, en cualquier circunstancia, si nos tocara ir a la lucha armada, preservar el país, su independencia y construir la paz en las nuevas circunstancias. hoy estamos más fuertes que ayer, muchísimo más fuertes que ayer”. el jefe de estado venezolano preguntó “¿para qué han servido las ocho bases militares de estados unidos?”, luego de señalar que washington justificó la instalación de bases militares para terminar con la producción de coca y de cocaína en colombia. sin embargo, maduro señaló que la producción “se triplicó”.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "ofreció",
+      "lunes",
+      "rueda",
+      "prensa",
+      "cuerpo",
+      "diplomático",
+      "medios",
+      "internacionales",
+      "instó",
+      "diga",
+      "verdad",
+      "país",
+      ",",
+      "trabaja",
+      "manera",
+      "pacífica",
+      "desarrollo",
+      "bienestar",
+      "social",
+      ".",
+      "rueda",
+      "prensa",
+      ",",
+      "participan",
+      "47",
+      "medios",
+      "internacionales",
+      "170",
+      "representaciones",
+      "diplomáticas",
+      "mundo",
+      ",",
+      "jefe",
+      "recordó",
+      "carácter",
+      "emancipador",
+      "ejércitos",
+      "independentistas",
+      "liderados",
+      "libertador",
+      "simón",
+      "bolívar",
+      ",",
+      "atravesaron",
+      "américa",
+      "sur",
+      "romper",
+      "cadenas",
+      "metrópoli",
+      "española",
+      "hacer",
+      "libres",
+      "pueblos",
+      ".",
+      "“",
+      "pacíficos",
+      ",",
+      "rebeldes",
+      ".",
+      "nadie",
+      "podrá",
+      "someter",
+      "”",
+      ",",
+      "enfatizó",
+      "jefe",
+      "venezolano",
+      ".",
+      "destacó",
+      ":",
+      "“",
+      "cinco",
+      "semanas",
+      "aprovechado",
+      "tiempo",
+      ",",
+      "puedo",
+      "decir",
+      ":",
+      "hoy",
+      "venezuela",
+      "poder",
+      "nacional",
+      ",",
+      "unida",
+      ",",
+      "preparada",
+      "preservar",
+      ",",
+      "cualquier",
+      "circunstancia",
+      ",",
+      "si",
+      "tocara",
+      "ir",
+      "lucha",
+      "armada",
+      ",",
+      "preservar",
+      "país",
+      ",",
+      "independencia",
+      "construir",
+      "paz",
+      "nuevas",
+      "circunstancias",
+      ".",
+      "hoy",
+      "fuertes",
+      "ayer",
+      ",",
+      "muchísimo",
+      "fuertes",
+      "ayer",
+      "”",
+      ".",
+      "jefe",
+      "venezolano",
+      "preguntó",
+      "“",
+      "¿para",
+      "servido",
+      "ocho",
+      "bases",
+      "militares",
+      "unidos",
+      "?",
+      "”",
+      ",",
+      "luego",
+      "señalar",
+      "washington",
+      "justificó",
+      "instalación",
+      "bases",
+      "militares",
+      "terminar",
+      "producción",
+      "coca",
+      "cocaína",
+      "colombia",
+      ".",
+      "embargo",
+      ",",
+      "maduro",
+      "señaló",
+      "producción",
+      "“",
+      "triplicó",
+      "”",
+      "."
+    ],
+    "token_count": 157,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "NN": 85,
+      "FW": 51,
+      "MD": 1,
+      "VB": 1,
+      "NNS": 11,
+      "JJ": 14,
+      "IN": 8,
+      "VBZ": 6,
+      "VBP": 7,
+      "VBN": 1,
+      "CD": 2,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-FW": 9,
+      "FW-NNP": 6,
+      "NNP-NNP": 9,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-NN": 12,
+      "NN-IN": 7,
+      "IN-FW": 4,
+      "FW-NN": 11,
+      "NN-NN": 50,
+      "NN-NNS": 4,
+      "NNS-VBZ": 2,
+      "VBZ-JJ": 3,
+      "NN-VBP": 2,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-FW": 5,
+      "FW-FW": 31,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "VBZ-CD": 1,
+      "NNS-FW": 1,
+      "IN-NNP": 3,
+      "FW-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-JJ": 5,
+      "NN-NNP": 7,
+      "NN-VBZ": 3,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-JJ": 2,
+      "IN-JJR": 1,
+      "JJR-NN": 1,
+      "VBP-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-IN": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNS": 1,
+      "VB-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 27,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 4,
+      "NN-NN-IN": 4,
+      "NN-NN-VBP": 2,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 24,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBZ": 1,
+      "NNS-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "NN-NNP-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NN-VBP-JJ": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-IN-JJR": 1,
+      "IN-JJR-NN": 1,
+      "JJR-NN-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 51,
+        "NNP": 28,
+        "JJ": 14,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 31,
+        "JJ-NN": 12,
+        "NNP-NN": 11,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 24,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 8,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 12,
+      "PP": 3,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0349
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('prensa', 'FW') NP VP VP ('verdad', 'FW') NP (',', ',') NP ('de', 'IN') ('manera', 'FW') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('ofreció', 'JJ') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('rueda', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('con', 'NN') ('el', 'NN') ('cuerpo', 'NN') ('diplomático', 'NN') ('y', 'NN') ('medios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "VP -> ('internacionales', 'VBZ') ('e', 'RB')",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "ofreció este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "una rueda"
+      },
+      {
+        "label": "NP",
+        "text": "con el cuerpo diplomático y medios"
+      },
+      {
+        "label": "VP",
+        "text": "internacionales e"
+      },
+      {
+        "label": "VP",
+        "text": "instó a que se diga la"
+      },
+      {
+        "label": "NP",
+        "text": "a que se diga la"
+      },
+      {
+        "label": "NP",
+        "text": "sobre su país"
+      },
+      {
+        "label": "NP",
+        "text": "que trabaja"
+      },
+      {
+        "label": "NP",
+        "text": "pacífica por el desarrollo y"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "VP",
+        "text": "bienestar social"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP ofreció/JJ este/NN lunes/NNS)\n  (NP una/JJ rueda/NN)\n  de/IN\n  prensa/FW\n  (NP con/NN el/NN cuerpo/NN diplomático/NN y/NN medios/NNS)\n  (VP internacionales/VBZ e/RB)\n  (VP instó/VB (NP a/DT que/NN se/NN diga/NN la/NN))\n  verdad/FW\n  (NP sobre/NN su/NN país/NN)\n  ,/,\n  (NP que/JJ trabaja/NN)\n  de/IN\n  manera/FW\n  (NP pacífica/NN por/NN el/NN desarrollo/NN y/NN)\n  (VP el/VBP)\n  (VP bienestar/VBN social/JJ)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  la/FW\n  rueda/FW\n  de/FW\n  prensa/FW\n  ,/,\n  de/FW\n  la/FW\n  que/FW\n  participan/FW\n  más/FW\n  de/FW\n  47/CD\n  (NP medios/NNS internacionales/NNS)\n  y/RB\n  170/CD\n  (NP representaciones/NNS)\n  diplomáticas/FW\n  de/FW\n  todo/FW\n  el/FW\n  (NP mundo/NN)\n  ,/,\n  (NP el/JJ jefe/NN)\n  (PP\n    de/IN\n    (NP Estado/NNP recordó/NN el/NN carácter/NN emancipador/NN))\n  de/IN\n  los/FW\n  (NP ejércitos/JJ independentistas/NNS)\n  (VP\n    liderados/VBP\n    (NP por/JJ el/NN Libertador/NNP Simón/NNP Bolívar/NNP))\n  ,/,\n  (NP que/NN atravesaron/NN América/NNP)\n  del/FW\n  (NP Sur/NNP)\n  para/FW\n  (NP romper/NN)\n  las/FW\n  cadenas/FW\n  de/FW\n  la/FW\n  metrópoli/FW\n  española/FW\n  y/FW\n  (NP hacer/NN)\n  (VP libres/VBZ (NP a/DT otros/JJ pueblos/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Somos/NNP pacíficos/NN)\n  ,/,\n  (NP pero/NN rebeldes/NNS)\n  ./.)",
+      "(S\n  (NP Nadie/NNP)\n  nos/CC\n  (NP podrá/JJ someter/NN ”/NN)\n  ,/,\n  (ADJP enfatizó/JJ)\n  el/FW\n  (NP jefe/NN)\n  (PP de/IN (NP Estado/NNP venezolano/NN))\n  ./.)",
+      "(S\n  (NP Y/JJ destacó/NN)\n  :/:\n  (NP “/JJ Nosotros/NNP)\n  en/FW\n  estas/FW\n  (NP cinco/NN semanas/NNS)\n  (VP hemos/VBP (NP aprovechado/JJ el/NN tiempo/NN))\n  ,/,\n  y/CC\n  (NP puedo/JJ decir/NN)\n  :/:\n  (NP Hoy/NNP Venezuela/NNP tiene/NN más/NN poder/NN)\n  (ADJP nacional/JJ)\n  ,/,\n  (NP está/JJ más/NN unida/NN)\n  ,/,\n  (NP está/JJ más/NN preparada/NN para/NN preservar/NN)\n  ,/,\n  en/FW\n  (NP cualquier/JJR circunstancia/NN)\n  ,/,\n  (ADJP si/JJ)\n  nos/FW\n  (NP tocara/NN)\n  (VP ir/VBP (NP a/DT la/NN lucha/NN armada/NN))\n  ,/,\n  (NP preservar/NN el/NN país/NN)\n  ,/,\n  (NP su/JJ independencia/NN y/NN construir/NN la/NN paz/NN)\n  en/IN\n  las/FW\n  (NP nuevas/JJ circunstancias/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "JUSTICIA_SOCIAL",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "rueda de prensa",
+        "position": [
+          67,
+          82
+        ],
+        "start": 67,
+        "end": 82
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1392,
+          1398
+        ],
+        "start": 1392,
+        "end": 1398
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          724,
+          731
+        ],
+        "start": 724,
+        "end": 731
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          1361,
+          1369
+        ],
+        "start": 1361,
+        "end": 1369
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1211,
+          1225
+        ],
+        "start": 1211,
+        "end": 1225
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1013,
+          1019
+        ],
+        "start": 1013,
+        "end": 1019
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado recordó",
+        "position": [
+          395,
+          409
+        ],
+        "start": 395,
+        "end": 409
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          810,
+          813
+        ],
+        "start": 810,
+        "end": 813
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1376,
+          1383
+        ],
+        "start": 1376,
+        "end": 1383
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "desarrollo y el bienestar social",
+        "position": [
+          219,
+          251
+        ],
+        "start": 219,
+        "end": 251
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 47",
+        "position": [
+          297,
+          306
+        ],
+        "start": 297,
+        "end": 306
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado venezolano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hoy Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "América del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Libertador Simón Bolívar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Washington",
+        "relacion": "SERVIR_PREGUNTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "SERVIR_PREGUNTAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "JUSTIFICAR_SE_ALAR_LUEGO_PREGUNTAR",
+        "objeto": "Colombia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.984,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

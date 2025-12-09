@@ -1,0 +1,809 @@
+{
+  "url": "https://www.telesurtv.net/rivalidad-tecnologica-china-insta-a-ee-uu-a-detener-acusaciones-de-ciberseguridad-contra-su-pais/",
+  "title": "Rivalidad tecnológica: China insta a EE.UU. a detener acusaciones de ciberseguridad contra su país - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "China",
+    "ciberataque",
+    "EE.UU.",
+    "rivalidad tecnológica",
+    "Sanciones"
+  ],
+  "text": "El Ministerio de Relaciones Exteriores de China instó a Estados Unidos a cesar el uso de cuestiones de ciberseguridad con el fin de desacreditar a China, y ha prometido tomar todas las medidas necesarias para proteger los derechos e intereses legítimos de Beijing.\nLEA TAMBIÉN:China rechaza las acusaciones de ciberataque al Departamento del Tesoro de EE.UU.\nEsta declaración se produjo en respuesta a las sanciones impuestas por el Departamento del Tesoro de EE.UU. a la empresa china de ciberseguridad Integrity Technology, acusada de múltiples incidentes de intrusión informática contra estadounidenses, sin pruebas que los evidencien.\nEl portavoz del Ministerio, Guo Jiakun, reiteró que China se opone firmemente a todas las formas de ciberataques y que ha tomado medidas enérgicas contra tales prácticas conforme a la ley. Integrity Technology, por su parte, ha rechazado las acusaciones y las sanciones, calificándolas de unilaterales y sin fundamento.\nAdemás, Guo subrayó que las acciones de Estados Unidos no solo dañan las relaciones bilaterales, sino que también socavan la cooperación internacional en materia de ciberseguridad.\nChina ha instado a Estados Unidos a adoptar un enfoque más constructivo y a trabajar conjuntamente para abordar los desafíos globales en el ciberespacio.\nLas sanciones contra el gigante de ciberseguridad chino suceden a un supuesto ataque al Departamento del Tesoro estadounidense, el cual fue adjudicado a un grupo de hackers de la nación asiática.\nSegún el Departamento del Tesoro los atacantes accedieron a estaciones de trabajo de empleados y documentos no clasificados. La entidad calificó esta brecha como un “incidente mayor” y ha estado trabajando con el FBI y otras agencias para investigar el impacto del ataque.\nLa pugna tecnológica entre dos de los mayores gigantes de ciberseguridad mundial ha ido en ascenso desde el año 2017, y está asociado con la disputa por la supremacía en dicho sector, en el cual China posee relaciones beneficiosas con otros países.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/rivalidad-tecnologica-china-insta-a-ee-uu-a-detener-acusaciones-de-ciberseguridad-contra-su-pais/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1941,
+    "message_id": 83686,
+    "date": "2025-01-06T13:55:07+00:00",
+    "text": "teleSUR\nRivalidad tecnológica: China insta a EE.UU. a detener acusaciones de ciberseguridad contra su país\nhttps://www.telesurtv.net/rivalidad-tecnologica-china-insta-a-ee-uu-a-detener-acusaciones-de-ciberseguridad-contra-su-pais/",
+    "photo_path": null,
+    "views": 2634,
+    "reactions": {
+      "👏": 40,
+      "👍": 11,
+      "🤔": 3,
+      "🔥": 1
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de relaciones exteriores de china instó a estados unidos a cesar el uso de cuestiones de ciberseguridad con el fin de desacreditar a china, y ha prometido tomar todas las medidas necesarias para proteger los derechos e intereses legítimos de beijing. esta declaración se produjo en respuesta a las sanciones impuestas por el departamento del tesoro de ee.uu. a la empresa china de ciberseguridad integrity technology, acusada de múltiples incidentes de intrusión informática contra estadounidenses, sin pruebas que los evidencien. el portavoz del ministerio, guo jiakun, reiteró que china se opone firmemente a todas las formas de ciberataques y que ha tomado medidas enérgicas contra tales prácticas conforme a la ley. integrity technology, por su parte, ha rechazado las acusaciones y las sanciones, calificándolas de unilaterales y sin fundamento. además, guo subrayó que las acciones de estados unidos no solo dañan las relaciones bilaterales, sino que también socavan la cooperación internacional en materia de ciberseguridad. china ha instado a estados unidos a adoptar un enfoque más constructivo y a trabajar conjuntamente para abordar los desafíos globales en el ciberespacio. las sanciones contra el gigante de ciberseguridad chino suceden a un supuesto ataque al departamento del tesoro estadounidense, el cual fue adjudicado a un grupo de hackers de la nación asiática. según el departamento del tesoro los atacantes accedieron a estaciones de trabajo de empleados y documentos no clasificados. la entidad calificó esta brecha como un “incidente mayor” y ha estado trabajando con el fbi y otras agencias para investigar el impacto del ataque. la pugna tecnológica entre dos de los mayores gigantes de ciberseguridad mundial ha ido en ascenso desde el año 2017, y está asociado con la disputa por la supremacía en dicho sector, en el cual china posee relaciones beneficiosas con otros países.",
+    "tokens": [
+      "ministerio",
+      "relaciones",
+      "exteriores",
+      "china",
+      "instó",
+      "unidos",
+      "cesar",
+      "uso",
+      "cuestiones",
+      "ciberseguridad",
+      "fin",
+      "desacreditar",
+      "china",
+      ",",
+      "prometido",
+      "tomar",
+      "todas",
+      "medidas",
+      "necesarias",
+      "proteger",
+      "derechos",
+      "intereses",
+      "legítimos",
+      "beijing",
+      ".",
+      "declaración",
+      "produjo",
+      "respuesta",
+      "sanciones",
+      "impuestas",
+      "departamento",
+      "tesoro",
+      "ee.uu.",
+      "empresa",
+      "china",
+      "ciberseguridad",
+      "integrity",
+      "technology",
+      ",",
+      "acusada",
+      "múltiples",
+      "incidentes",
+      "intrusión",
+      "informática",
+      "estadounidenses",
+      ",",
+      "pruebas",
+      "evidencien",
+      ".",
+      "portavoz",
+      "ministerio",
+      ",",
+      "guo",
+      "jiakun",
+      ",",
+      "reiteró",
+      "china",
+      "opone",
+      "firmemente",
+      "todas",
+      "formas",
+      "ciberataques",
+      "tomado",
+      "medidas",
+      "enérgicas",
+      "tales",
+      "prácticas",
+      "conforme",
+      "ley",
+      ".",
+      "integrity",
+      "technology",
+      ",",
+      "parte",
+      ",",
+      "rechazado",
+      "acusaciones",
+      "sanciones",
+      ",",
+      "calificándolas",
+      "unilaterales",
+      "fundamento",
+      ".",
+      "además",
+      ",",
+      "guo",
+      "subrayó",
+      "acciones",
+      "unidos",
+      "solo",
+      "dañan",
+      "relaciones",
+      "bilaterales",
+      ",",
+      "sino",
+      "socavan",
+      "cooperación",
+      "internacional",
+      "materia",
+      "ciberseguridad",
+      ".",
+      "china",
+      "instado",
+      "unidos",
+      "adoptar",
+      "enfoque",
+      "constructivo",
+      "trabajar",
+      "conjuntamente",
+      "abordar",
+      "desafíos",
+      "globales",
+      "ciberespacio",
+      ".",
+      "sanciones",
+      "gigante",
+      "ciberseguridad",
+      "chino",
+      "suceden",
+      "supuesto",
+      "ataque",
+      "departamento",
+      "tesoro",
+      "estadounidense",
+      ",",
+      "adjudicado",
+      "grupo",
+      "hackers",
+      "nación",
+      "asiática",
+      ".",
+      "según",
+      "departamento",
+      "tesoro",
+      "atacantes",
+      "accedieron",
+      "estaciones",
+      "trabajo",
+      "empleados",
+      "documentos",
+      "clasificados",
+      ".",
+      "entidad",
+      "calificó",
+      "brecha",
+      "“",
+      "incidente",
+      "mayor",
+      "”",
+      "trabajando",
+      "fbi",
+      "agencias",
+      "investigar",
+      "impacto",
+      "ataque",
+      ".",
+      "pugna",
+      "tecnológica",
+      "dos",
+      "mayores",
+      "gigantes",
+      "ciberseguridad",
+      "mundial",
+      "ido",
+      "ascenso",
+      "año",
+      "2017",
+      ",",
+      "asociado",
+      "disputa",
+      "supremacía",
+      "dicho",
+      "sector",
+      ",",
+      "china",
+      "posee",
+      "relaciones",
+      "beneficiosas",
+      "países",
+      "."
+    ],
+    "token_count": 180,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "IN": 14,
+      "JJ": 29,
+      "NN": 102,
+      "FW": 46,
+      "NNS": 25,
+      "VBP": 15,
+      "VBZ": 8,
+      "CD": 2,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 14,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-JJ": 1,
+      "JJ-NNP": 6,
+      "NNP-NN": 14,
+      "NN-NN": 58,
+      "NN-FW": 7,
+      "FW-FW": 23,
+      "FW-NN": 6,
+      "NN-IN": 6,
+      "IN-FW": 3,
+      "FW-NNP": 12,
+      "NN-NNS": 9,
+      "NNS-VBP": 14,
+      "VBP-JJ": 10,
+      "JJ-NN": 13,
+      "NN-VBZ": 3,
+      "VBZ-FW": 1,
+      "NNS-IN": 5,
+      "IN-NN": 4,
+      "NN-NNP": 9,
+      "NNP-FW": 9,
+      "NNS-NNS": 4,
+      "FW-NNS": 3,
+      "NN-JJ": 8,
+      "JJ-NNS": 5,
+      "VBP-NN": 2,
+      "JJ-JJ": 4,
+      "NNP-VBZ": 3,
+      "VBZ-CD": 1,
+      "CD-NN": 2,
+      "VBP-NNS": 1,
+      "IN-NNS": 2,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "VBZ-JJ": 3,
+      "NN-VBP": 1,
+      "JJ-FW": 1,
+      "VBP-FW": 2,
+      "NNP-NNS": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "VBZ-NN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "FW-JJ": 1,
+      "IN-JJ": 2,
+      "NN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NN": 12,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 14,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 4,
+      "NN-NN-NN": 30,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 8,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 3,
+      "NN-NN-NNP": 7,
+      "NN-NNP-FW": 2,
+      "NNP-FW-NNP": 7,
+      "FW-NNP-FW": 5,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NN-NNP-NNP": 2,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NN-NNS": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "JJ-NN-IN": 2,
+      "JJ-JJ-NN": 2,
+      "NN-JJ-NN": 2,
+      "NN-IN-NNS": 1,
+      "VBP-FW-FW": 1,
+      "NNP-NN-VBZ": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NNP": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NNP-NN": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-JJ-JJ": 1,
+      "NNP-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 46,
+        "NNP": 45,
+        "JJ": 29,
+        "NNS": 25
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 23,
+        "NNP-NNP": 14,
+        "NNP-NN": 14,
+        "NNS-VBP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 14,
+        "NNP-NN-NN": 12,
+        "NNS-VBP-JJ": 9,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 87,
+      "PP": 12,
+      "VP": 25
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 11,
+        "weight": 0.0815
+      },
+      {
+        "rule": "NP -> ('China', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "NP -> ('Tesoro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "S -> NP PP PP VP ('uso', 'FW') ('de', 'FW') ('cuestiones', 'FW') ('de', 'FW') ('ciberseguridad', 'FW') NP ('el', 'FW') NP ('de', 'FW') ('desacreditar', 'FW') NP (',', ',') NP VP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('Relaciones', 'NNP') ('Exteriores', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "VP -> ('instó', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('cesar', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores"
+      },
+      {
+        "label": "PP",
+        "text": "de China"
+      },
+      {
+        "label": "NP",
+        "text": "China"
+      },
+      {
+        "label": "VP",
+        "text": "instó a Estados Unidos a cesar el"
+      },
+      {
+        "label": "NP",
+        "text": "a Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "a cesar el"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "fin"
+      },
+      {
+        "label": "NP",
+        "text": "a China"
+      },
+      {
+        "label": "NP",
+        "text": "y ha prometido tomar todas las"
+      },
+      {
+        "label": "VP",
+        "text": "medidas necesarias para proteger los derechos e intereses"
+      },
+      {
+        "label": "NP",
+        "text": "necesarias para proteger los derechos e intereses"
+      },
+      {
+        "label": "VP",
+        "text": "legítimos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  (PP de/IN (NP China/NNP))\n  (VP\n    instó/VBP\n    (NP a/DT Estados/NNP Unidos/NNP)\n    (NP a/DT cesar/NN el/NN))\n  uso/FW\n  de/FW\n  cuestiones/FW\n  de/FW\n  ciberseguridad/FW\n  (NP con/NN)\n  el/FW\n  (NP fin/NN)\n  de/FW\n  desacreditar/FW\n  (NP a/DT China/NNP)\n  ,/,\n  (NP y/NN ha/NN prometido/NN tomar/NN todas/NN las/NNS)\n  (VP\n    medidas/VBP\n    (NP\n      necesarias/JJ\n      para/NN\n      proteger/NN\n      los/NN\n      derechos/NN\n      e/NN\n      intereses/NNS))\n  (VP legítimos/VBP)\n  (PP de/IN (NP Beijing/NNP))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP China/NNP)\n  (VP rechaza/VBZ (NP las/JJ acusaciones/NNS))\n  (PP de/IN (NP ciberataque/NN al/NN Departamento/NNP))\n  del/FW\n  (NP Tesoro/NNP)\n  de/FW\n  (NP EE.UU/NNP)\n  ./.)",
+      "(S\n  (NP Esta/NNP declaración/NN se/NN produjo/NN)\n  en/FW\n  (NP respuesta/NN)\n  (NP a/DT las/JJ sanciones/NNS impuestas/NNS)\n  (VP por/VBP (NP el/JJ Departamento/NNP))\n  del/FW\n  (NP Tesoro/NNP)\n  de/FW\n  (NP EE.UU./NNP)\n  (NP a/DT la/NN)\n  (NP empresa/JJ china/NN)\n  (PP de/IN (NP ciberseguridad/JJ Integrity/NNP Technology/NNP))\n  ,/,\n  acusada/FW\n  de/FW\n  múltiples/FW\n  (NP incidentes/NNS)\n  (PP\n    de/IN\n    (NP intrusión/NN informática/NN contra/NN estadounidenses/NNS))\n  ,/,\n  (NP sin/NN pruebas/NN que/NN)\n  (NP los/JJ evidencien/NN)\n  ./.)",
+      "(S\n  (NP El/NNP portavoz/NN del/NN Ministerio/NNP)\n  ,/,\n  (NP Guo/NNP Jiakun/NNP)\n  ,/,\n  (NP reiteró/NN)\n  (NP que/JJ China/NNP se/NN opone/NN)\n  (VP firmemente/VBD (NP a/DT todas/JJ las/NN formas/NN))\n  (PP de/IN (NP ciberataques/NNS))\n  (VP\n    y/VBP\n    (NP que/JJ ha/NN tomado/NN medidas/NN enérgicas/NN)\n    (NP contra/JJ tales/NNS))\n  (VP prácticas/VBP)\n  (VP conforme/VB (NP a/DT la/NN ley/NN))\n  ./.)",
+      "(S\n  (NP Integrity/NNP Technology/NNP)\n  ,/,\n  (NP por/NN su/NN parte/NN)\n  ,/,\n  (NP ha/NN rechazado/NN las/NN acusaciones/NNS)\n  y/RB\n  (VP las/VBP (NP sanciones/NNS))\n  ,/,\n  (NP calificándolas/NNS)\n  (PP de/IN (NP unilaterales/NNS))\n  y/RB\n  (VP sin/VBP (NP fundamento/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "FECHAS_HORAS",
+      "APROBACION_RECHAZO",
+      "INSTITUCIONES_EDUCATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ciberataque",
+        "position": [
+          310,
+          321
+        ],
+        "start": 310,
+        "end": 321
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1564,
+          1571
+        ],
+        "start": 1564,
+        "end": 1571
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación internacional",
+        "position": [
+          1084,
+          1109
+        ],
+        "start": 1084,
+        "end": 1109
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "relaciones bilaterales",
+        "position": [
+          1032,
+          1054
+        ],
+        "start": 1032,
+        "end": 1054
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento del tesoro",
+        "position": [
+          325,
+          348
+        ],
+        "start": 325,
+        "end": 348
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          971,
+          978
+        ],
+        "start": 971,
+        "end": 978
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          56,
+          70
+        ],
+        "start": 56,
+        "end": 70
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          42,
+          47
+        ],
+        "start": 42,
+        "end": 47
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento del",
+        "position": [
+          325,
+          341
+        ],
+        "start": 325,
+        "end": 341
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2017",
+        "position": [
+          1871,
+          1879
+        ],
+        "start": 1871,
+        "end": 1879
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "el año 2017",
+        "position": [
+          1868,
+          1879
+        ],
+        "start": 1868,
+        "end": 1879
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Guo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Integrity Technology",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guo Jiakun",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Departamento del Tesoro estadounidense",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FBI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Relaciones Exteriores de China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento del Tesoro de EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beijing",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento del Tesoro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores de China",
+        "relacion": "INSTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores de China",
+        "relacion": "INSTAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores de China",
+        "relacion": "INSTAR",
+        "objeto": "Beijing"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "INSTAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "INSTAR",
+        "objeto": "Beijing"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "DESACREDITAR_CESAR_INSTAR",
+        "objeto": "Beijing"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "RECHAZAR",
+        "objeto": "Departamento del Tesoro de EE.UU."
+      },
+      {
+        "sujeto": "China",
+        "relacion": "RECHAZAR",
+        "objeto": "Integrity Technology"
+      },
+      {
+        "sujeto": "Departamento del Tesoro de EE.UU.",
+        "relacion": "RECHAZAR",
+        "objeto": "Integrity Technology"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "REITERAR",
+        "objeto": "Ministerio"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "REITERAR",
+        "objeto": "Guo Jiakun"
+      },
+      {
+        "sujeto": "Guo",
+        "relacion": "SUBRAYAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "INSTAR",
+        "objeto": "Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7184,
+    "pos": 0.064,
+    "neu": 0.898,
+    "neg": 0.038,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,988 @@
+{
+  "url": "https://www.telesurtv.net/cuba-condena-despliegue-militar-eeuu-caribe/",
+  "title": "Zona de paz: Cuba condena despliegue militar de EE. UU. en el Caribe - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Celac",
+    "condena",
+    "Cuba",
+    "Desestabilización",
+    "Despliegue Militar",
+    "EE.UU.",
+    "narcotráfico",
+    "seguridad regional",
+    "zona de paz"
+  ],
+  "text": "Durante una reunión de cancilleres de la Comunidad de Estados Latinoamericanos y Caribeños (CELAC), que sesiona este lunes, el viceministro primero de Relaciones Exteriores de Cuba, Gerardo Peñalver Portal, denunció este lunes el despliegue militar de Estados Unidos en el sur del mar Caribe. Cuba considera que esta operación, presentada como una iniciativa antidrogas, representa una amenaza a la paz y seguridad regional.\n\nPeñalver Portal afirmó que la acción estadounidense atenta contra la proclamación de América Latina y el Caribe como Zona de Paz, adoptada en el seno de la CELAC desde 2014.\nAdicionalmente, el funcionario cubano tildó de “pretexto absurdo” las acusaciones de narcotráfico contra el presidente de Venezuela, Nicolás Maduro, y destacó que es Estados Unidos el mayor mercado de estupefacientes, según datos de la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC).\n\n\n\nAsimismo, Cuba señaló que Washington, con su industria armamentista y su mercado ilegal de armas, contribuye al fortalecimiento de las redes de narcotráfico en la región. El Viceministro cubano cuestionó la autoridad moral de Estados Unidos para imponerse como “guardián”, recordando su historial de intervenciones, chantajes y complicidad en conflictos como el de Irak y el genocidio que Israel perpetra en Gaza.\nEl diplomático cubano instó a las naciones de la región a unirse y a no guardar silencio ante esta operación militar. Peñalver reiteró el compromiso de Cuba de luchar contra el narcotráfico mediante la cooperación y el respeto a la soberanía nacional, enfatizando que el problema no se resolverá con el despliegue de fuerzas militares, sino a través del diálogo y la no injerencia.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuba-condena-despliegue-militar-eeuu-caribe/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 1074,
+    "message_id": 103469,
+    "date": "2025-09-01T16:55:07+00:00",
+    "text": "teleSUR\nZona de paz: Cuba condena despliegue militar de EE. UU. en el Caribe\nhttps://www.telesurtv.net/cuba-condena-despliegue-militar-eeuu-caribe/",
+    "photo_path": null,
+    "views": 1187,
+    "reactions": {
+      "❤": 29,
+      "👍": 14
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "durante una reunión de cancilleres de la comunidad de estados latinoamericanos y caribeños (celac), que sesiona este lunes, el viceministro primero de relaciones exteriores de cuba, gerardo peñalver portal, denunció este lunes el despliegue militar de estados unidos en el sur del mar caribe. cuba considera que esta operación, presentada como una iniciativa antidrogas, representa una amenaza a la paz y seguridad regional. peñalver portal afirmó que la acción estadounidense atenta contra la proclamación de américa latina y el caribe como zona de paz, adoptada en el seno de la celac desde 2014. adicionalmente, el funcionario cubano tildó de “pretexto absurdo” las acusaciones de narcotráfico contra el presidente de venezuela, nicolás maduro, y destacó que es estados unidos el mayor mercado de estupefacientes, según datos de la oficina de las naciones unidas contra la droga y el delito (unodc). asimismo, cuba señaló que washington, con su industria armamentista y su mercado ilegal de armas, contribuye al fortalecimiento de las redes de narcotráfico en la región. el viceministro cubano cuestionó la autoridad moral de estados unidos para imponerse como “guardián”, recordando su historial de intervenciones, chantajes y complicidad en conflictos como el de irak y el genocidio que israel perpetra en gaza. el diplomático cubano instó a las naciones de la región a unirse y a no guardar silencio ante esta operación militar. peñalver reiteró el compromiso de cuba de luchar contra el narcotráfico mediante la cooperación y el respeto a la soberanía nacional, enfatizando que el problema no se resolverá con el despliegue de fuerzas militares, sino a través del diálogo y la no injerencia.",
+    "tokens": [
+      "reunión",
+      "cancilleres",
+      "comunidad",
+      "latinoamericanos",
+      "caribeños",
+      "(",
+      "celac",
+      ")",
+      ",",
+      "sesiona",
+      "lunes",
+      ",",
+      "viceministro",
+      "primero",
+      "relaciones",
+      "exteriores",
+      "cuba",
+      ",",
+      "gerardo",
+      "peñalver",
+      "portal",
+      ",",
+      "denunció",
+      "lunes",
+      "despliegue",
+      "militar",
+      "unidos",
+      "sur",
+      "mar",
+      "caribe",
+      ".",
+      "cuba",
+      "considera",
+      "operación",
+      ",",
+      "presentada",
+      "iniciativa",
+      "antidrogas",
+      ",",
+      "representa",
+      "amenaza",
+      "paz",
+      "seguridad",
+      "regional",
+      ".",
+      "peñalver",
+      "portal",
+      "afirmó",
+      "acción",
+      "estadounidense",
+      "atenta",
+      "proclamación",
+      "américa",
+      "latina",
+      "caribe",
+      "zona",
+      "paz",
+      ",",
+      "adoptada",
+      "seno",
+      "celac",
+      "2014.",
+      "adicionalmente",
+      ",",
+      "funcionario",
+      "cubano",
+      "tildó",
+      "“",
+      "pretexto",
+      "absurdo",
+      "”",
+      "acusaciones",
+      "narcotráfico",
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "destacó",
+      "unidos",
+      "mayor",
+      "mercado",
+      "estupefacientes",
+      ",",
+      "según",
+      "datos",
+      "oficina",
+      "naciones",
+      "unidas",
+      "droga",
+      "delito",
+      "(",
+      "unodc",
+      ")",
+      ".",
+      "asimismo",
+      ",",
+      "cuba",
+      "señaló",
+      "washington",
+      ",",
+      "industria",
+      "armamentista",
+      "mercado",
+      "ilegal",
+      "armas",
+      ",",
+      "contribuye",
+      "fortalecimiento",
+      "redes",
+      "narcotráfico",
+      "región",
+      ".",
+      "viceministro",
+      "cubano",
+      "cuestionó",
+      "autoridad",
+      "moral",
+      "unidos",
+      "imponerse",
+      "“",
+      "guardián",
+      "”",
+      ",",
+      "recordando",
+      "historial",
+      "intervenciones",
+      ",",
+      "chantajes",
+      "complicidad",
+      "conflictos",
+      "irak",
+      "genocidio",
+      "israel",
+      "perpetra",
+      "gaza",
+      ".",
+      "diplomático",
+      "cubano",
+      "instó",
+      "naciones",
+      "región",
+      "unirse",
+      "guardar",
+      "silencio",
+      "operación",
+      "militar",
+      ".",
+      "peñalver",
+      "reiteró",
+      "compromiso",
+      "cuba",
+      "luchar",
+      "narcotráfico",
+      "mediante",
+      "cooperación",
+      "respeto",
+      "soberanía",
+      "nacional",
+      ",",
+      "enfatizando",
+      "problema",
+      "resolverá",
+      "despliegue",
+      "fuerzas",
+      "militares",
+      ",",
+      "sino",
+      "través",
+      "diálogo",
+      "injerencia",
+      "."
+    ],
+    "token_count": 173,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "JJ": 26,
+      "NN": 80,
+      "FW": 54,
+      "NNS": 8,
+      "VBP": 7,
+      "IN": 15,
+      "VBD": 1,
+      "CD": 1,
+      "VBZ": 3,
+      "CC": 1,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-NN": 14,
+      "NN-FW": 5,
+      "FW-FW": 30,
+      "FW-NNP": 12,
+      "NNP-FW": 6,
+      "NNP-NNP": 21,
+      "NNP-NN": 15,
+      "NN-NN": 40,
+      "NN-NNS": 2,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "NN-IN": 11,
+      "IN-NNP": 4,
+      "FW-NN": 4,
+      "NN-NNP": 7,
+      "IN-NN": 1,
+      "NN-JJ": 8,
+      "FW-JJ": 7,
+      "JJ-JJ": 4,
+      "JJ-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "NNP-IN": 1,
+      "NNP-VBP": 1,
+      "VBP-FW": 1,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "IN-FW": 8,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "JJ-FW": 4,
+      "NN-VBP": 2,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "IN-NNS": 2,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "NNS-JJ": 1,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "JJ-DT": 1,
+      "DT-NN": 3,
+      "VBP-NN": 1,
+      "NN-DT": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "FW-NNS": 1,
+      "VBZ-DT": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 18,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 18,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 6,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NN-NN-IN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 5,
+      "NN-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 3,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-JJ-NN": 2,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NN-NN-NNP": 2,
+      "IN-FW-NN": 1,
+      "IN-FW-FW": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-JJ-NNS": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "IN-NNP-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 80,
+        "FW": 54,
+        "NNP": 49,
+        "JJ": 26,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 40,
+        "FW-FW": 30,
+        "NNP-NNP": 21,
+        "NNP-NN": 15,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 18,
+        "NN-NN-NN": 18,
+        "NNP-NN-NN": 11,
+        "NNP-NNP-NN": 9,
+        "FW-NNP-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 12,
+      "PP": 8,
+      "ADJP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0686
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "S -> NP NP ('de', 'FW') ('cancilleres', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') ('el', 'FW') ('viceministro', 'FW') ('primero', 'FW') ('de', 'FW') ('Relaciones', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP PP ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('Durante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('reunión', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('Comunidad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Latinoamericanos', 'NNP') ('y', 'NN') ('Caribeños', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('CELAC', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Durante"
+      },
+      {
+        "label": "NP",
+        "text": "una reunión"
+      },
+      {
+        "label": "NP",
+        "text": "Comunidad"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Latinoamericanos y Caribeños"
+      },
+      {
+        "label": "NP",
+        "text": "CELAC"
+      },
+      {
+        "label": "NP",
+        "text": "que sesiona este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "Gerardo Peñalver Portal"
+      },
+      {
+        "label": "NP",
+        "text": "denunció este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "el despliegue militar"
+      },
+      {
+        "label": "NP",
+        "text": "despliegue militar"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "mar Caribe"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Durante/NNP)\n  (NP una/JJ reunión/NN)\n  de/FW\n  cancilleres/FW\n  de/FW\n  la/FW\n  (NP Comunidad/NNP)\n  de/FW\n  (NP Estados/NNP Latinoamericanos/NNP y/NN Caribeños/NNP)\n  (/(\n  (NP CELAC/NNP)\n  )/)\n  ,/,\n  (NP que/JJ sesiona/NN este/NN lunes/NNS)\n  ,/,\n  el/FW\n  viceministro/FW\n  primero/FW\n  de/FW\n  Relaciones/FW\n  (NP Exteriores/NNP)\n  de/FW\n  (NP Cuba/NNP)\n  ,/,\n  (NP Gerardo/NNP Peñalver/NNP Portal/NNP)\n  ,/,\n  (NP denunció/NN este/NN lunes/NNS)\n  (VP el/VBP (NP despliegue/JJ militar/NN))\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  (NP mar/NN Caribe/NNP)\n  ./.)",
+      "(S\n  (NP Cuba/NNP considera/NN que/NN esta/NN operación/NN)\n  ,/,\n  (NP presentada/NN como/NN)\n  (NP una/JJ iniciativa/NN antidrogas/NN)\n  ,/,\n  (VP\n    representa/VB\n    (NP una/JJ amenaza/NN)\n    (NP a/DT la/NN paz/NN y/NN)\n    seguridad/JJ\n    regional/JJ)\n  ./.)",
+      "(S\n  (NP Peñalver/NNP Portal/NNP afirmó/NN que/NN la/NN)\n  (NP acción/JJ estadounidense/NN atenta/NN contra/NN)\n  la/FW\n  proclamación/FW\n  de/FW\n  (NP América/NNP Latina/NNP y/NNP)\n  (VP el/VBD (NP Caribe/NNP como/NN Zona/NNP))\n  (PP de/IN (NP Paz/NNP))\n  ,/,\n  (VP adoptada/VBZ)\n  en/FW\n  el/FW\n  seno/FW\n  de/FW\n  la/FW\n  (NP CELAC/NNP desde/NN)\n  2014/CD\n  ./.)",
+      "(S\n  (NP Adicionalmente/NNP)\n  ,/,\n  (VP el/VBZ (NP funcionario/JJ cubano/NN tildó/NN))\n  (PP de/IN (NP “/NNP pretexto/NN absurdo/NN ”/NNP))\n  (VP las/VBZ (NP acusaciones/NNS))\n  de/IN\n  narcotráfico/FW\n  (ADJP contra/JJ)\n  el/FW\n  presidente/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP destacó/VBZ (NP que/JJ es/JJ Estados/NNP Unidos/NNP))\n  (VP el/VBZ (NP mayor/NN mercado/NN))\n  (PP de/IN (NP estupefacientes/NNS))\n  ,/,\n  (NP según/JJ datos/NN)\n  de/IN\n  la/FW\n  (NP Oficina/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (NP contra/JJ la/NN Droga/NNP y/NNP el/NN Delito/NNP)\n  (/(\n  (NP UNODC/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP Cuba/NNP señaló/NN que/NN Washington/NNP)\n  ,/,\n  (NP con/NN su/NN industria/NN armamentista/NN y/NN su/NN)\n  (NP mercado/JJ ilegal/NN)\n  de/IN\n  armas/FW\n  ,/,\n  (VP contribuye/VBP (NP al/JJ fortalecimiento/NN))\n  de/IN\n  las/FW\n  redes/FW\n  de/FW\n  narcotráfico/FW\n  en/FW\n  la/FW\n  región/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció este lunes el despliegue militar de estados unidos en el sur del mar caribe. cuba considera que esta operación, presentada como una iniciativa antidrogas, representa una amenaza a",
+        "position": [
+          207,
+          395
+        ],
+        "start": 207,
+        "end": 395
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocidio que israel perpetra en gaza",
+        "position": [
+          1282,
+          1319
+        ],
+        "start": 1282,
+        "end": 1319
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación y el respeto a la soberanía nacional, enfatizando que el problema no se resolverá con el despliegue de fuerzas militares, sino a través del diálogo y la",
+        "position": [
+          1523,
+          1687
+        ],
+        "start": 1523,
+        "end": 1687
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          442,
+          448
+        ],
+        "start": 442,
+        "end": 448
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          708,
+          731
+        ],
+        "start": 708,
+        "end": 731
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          851,
+          866
+        ],
+        "start": 851,
+        "end": 866
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "celac",
+        "position": [
+          92,
+          97
+        ],
+        "start": 92,
+        "end": 97
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "cuestionó",
+        "position": [
+          1101,
+          1110
+        ],
+        "start": 1101,
+        "end": 1110
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          751,
+          758
+        ],
+        "start": 751,
+        "end": 758
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          207,
+          215
+        ],
+        "start": 207,
+        "end": 215
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          281,
+          284
+        ],
+        "start": 281,
+        "end": 284
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          176,
+          180
+        ],
+        "start": 176,
+        "end": 180
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          252,
+          266
+        ],
+        "start": 252,
+        "end": 266
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          722,
+          731
+        ],
+        "start": 722,
+        "end": 731
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          396,
+          402
+        ],
+        "start": 396,
+        "end": 402
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          285,
+          291
+        ],
+        "start": 285,
+        "end": 291
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          543,
+          550
+        ],
+        "start": 543,
+        "end": 550
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          1553,
+          1571
+        ],
+        "start": 1553,
+        "end": 1571
+      }
+    ],
+    "match_count": 18
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Zona de Paz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Peñalver Portal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNODC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "CELAC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irak",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Peñalver",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Comunidad de Estados Latinoamericanos y Caribeños",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Oficina de las Naciones Unidas contra la Droga y el Delito",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Relaciones Exteriores de Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Viceministro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gerardo Peñalver Portal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "mar Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Comunidad de Estados Latinoamericanos y Caribeños",
+        "relacion": "DENUNCIAR",
+        "objeto": "Relaciones Exteriores de Cuba"
+      },
+      {
+        "sujeto": "Comunidad de Estados Latinoamericanos y Caribeños",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gerardo Peñalver Portal"
+      },
+      {
+        "sujeto": "Comunidad de Estados Latinoamericanos y Caribeños",
+        "relacion": "DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Comunidad de Estados Latinoamericanos y Caribeños",
+        "relacion": "DENUNCIAR",
+        "objeto": "mar Caribe"
+      },
+      {
+        "sujeto": "CELAC",
+        "relacion": "DENUNCIAR",
+        "objeto": "Relaciones Exteriores de Cuba"
+      },
+      {
+        "sujeto": "CELAC",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gerardo Peñalver Portal"
+      },
+      {
+        "sujeto": "CELAC",
+        "relacion": "DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "CELAC",
+        "relacion": "DENUNCIAR",
+        "objeto": "mar Caribe"
+      },
+      {
+        "sujeto": "Relaciones Exteriores de Cuba",
+        "relacion": "DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Relaciones Exteriores de Cuba",
+        "relacion": "DENUNCIAR",
+        "objeto": "mar Caribe"
+      },
+      {
+        "sujeto": "Gerardo Peñalver Portal",
+        "relacion": "DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gerardo Peñalver Portal",
+        "relacion": "DENUNCIAR",
+        "objeto": "mar Caribe"
+      },
+      {
+        "sujeto": "Peñalver Portal",
+        "relacion": "AFIRMAR",
+        "objeto": "Zona de Paz"
+      },
+      {
+        "sujeto": "Peñalver Portal",
+        "relacion": "AFIRMAR",
+        "objeto": "CELAC"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "TILDAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "TILDAR",
+        "objeto": "Oficina de las Naciones Unidas contra la Droga y el Delito"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "TILDAR",
+        "objeto": "UNODC"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "TILDAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "TILDAR",
+        "objeto": "Oficina de las Naciones Unidas contra la Droga y el Delito"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "TILDAR",
+        "objeto": "UNODC"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "SER_DESTACAR_TILDAR",
+        "objeto": "Oficina de las Naciones Unidas contra la Droga y el Delito"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "SER_DESTACAR_TILDAR",
+        "objeto": "UNODC"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "SE_ALAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "El Viceministro",
+        "relacion": "CUESTIONAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "El Viceministro",
+        "relacion": "CUESTIONAR",
+        "objeto": "Irak"
+      },
+      {
+        "sujeto": "El Viceministro",
+        "relacion": "CUESTIONAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "El Viceministro",
+        "relacion": "CUESTIONAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CUESTIONAR",
+        "objeto": "Irak"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CUESTIONAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CUESTIONAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PERPETRAR_RECORDAR_CUESTIONAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Peñalver",
+        "relacion": "REITERAR",
+        "objeto": "Cuba"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.0,
+    "neu": 0.974,
+    "neg": 0.026,
+    "label": "negative"
+  }
+}

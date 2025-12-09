@@ -1,0 +1,955 @@
+{
+  "url": "https://www.telesurtv.net/exterminio-gaza-masacres-israel-asesinados/",
+  "title": "Exterminio en Gaza: Masacres de Israel dejan 95 palestinos asesinados durante las últimas 48 horas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "conflicto destacadas",
+    "exterminio",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Masacres"
+  ],
+  "text": "Durante la mañana del sábado 23 de agosto, el Ejército israelí intensificó sus operaciones militares en el centro y sur de la Franja de Gaza, lo cual dejó un saldo de al menos 34 civiles palestinos asesinados y una numerosa cantidad de heridos. Sumados a los 61 masacrados el viernes, la entidad sionista mató en total a 95 civiles e hirió a 308 en las últimas 48 horas, de acuerdo con el Ministerio de Salud de Gaza.\nSegún los informes del Ministerio de Salud gazatí, al menos 62.622 palestinos fueron asesinados por la ocupación israelí desde el 7 de octubre de 2023. El asedio militar también provocó 157.673 heridos y 10.000 desaparecidos.\nLos hechos ocurrieron en el campamento de Khan Younis, al sur del enclave, y en el campamento de refugiados de Maghazi, ubicado en la zona central. En ambos lugares, las fuerzas israelíes bombardearon tiendas de campaña, causando destrucción y víctimas entre la población civil.\nFuentes locales informaron que en Maghazi, dos personas resultaron heridas tras el impacto de un dron militar. Simultáneamente, en Khan Younis, 17 civiles fueron alcanzados por fuego de artillería, entre ellos seis menores de edad y un bebé, quienes perdieron la vida en el ataque.\n\n\nAgencias internacionales reportaron que nueve palestinos fueron asesinados cuando la ocupación bombardeó una casa en el barrio de Al Sabra, en la asediada ciudad de Gaza. Los bombardeos se suceden ininterrumpidamente desde el 10 de agosto, mientras los ocupantes demuelen decenas de edificios en el barrio de Zeitún.\nEn el norte de la Franja de Gaza, cerca del puesto militar de Zikim, otros seis gazatíes fueron asesinados por la ocupación mientras aguardaban ayuda humanitaria. Al lugar en ocasiones llegan camiones de la ONU.\nLa Organización de las Naciones Unidas alertó que el número de víctimas continúa en aumento debido a la crisis alimentaria y el deterioro de los niveles de nutrición, provocados por el bloqueo militar que impide el ingreso de suministros médicos, alimentos, agua y combustibles.\nAnte esta situación, agencias humanitarias y representantes de la ONU han solicitado un alto el fuego inmediato, que permita una respuesta humanitaria sin restricciones y la liberación de todos los rehenes, según lo publicado en el portal ONU News.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/exterminio-gaza-masacres-israel-asesinados/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 635,
+    "message_id": 102565,
+    "date": "2025-08-23T13:55:08+00:00",
+    "text": "teleSUR\nExterminio en Gaza: Masacres de Israel dejan 95 palestinos asesinados durante las últimas 48 horas\nhttps://www.telesurtv.net/exterminio-gaza-masacres-israel-asesinados/",
+    "photo_path": null,
+    "views": 1655,
+    "reactions": {
+      "😢": 31,
+      "🤬": 18,
+      "👎": 1
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "durante la mañana del sábado 23 de agosto, el ejército israelí intensificó sus operaciones militares en el centro y sur de la franja de gaza, lo cual dejó un saldo de al menos 34 civiles palestinos asesinados y una numerosa cantidad de heridos. sumados a los 61 masacrados el viernes, la entidad sionista mató en total a 95 civiles e hirió a 308 en las últimas 48 horas, de acuerdo con el ministerio de salud de gaza. según los informes del ministerio de salud gazatí, al menos 62.622 palestinos fueron asesinados por la ocupación israelí desde el 7 de octubre de 2023. el asedio militar también provocó 157.673 heridos y 10.000 desaparecidos. los hechos ocurrieron en el campamento de khan younis, al sur del enclave, y en el campamento de refugiados de maghazi, ubicado en la zona central. en ambos lugares, las fuerzas israelíes bombardearon tiendas de campaña, causando destrucción y víctimas entre la población civil. fuentes locales informaron que en maghazi, dos personas resultaron heridas tras el impacto de un dron militar. simultáneamente, en khan younis, 17 civiles fueron alcanzados por fuego de artillería, entre ellos seis menores de edad y un bebé, quienes perdieron la vida en el ataque. agencias internacionales reportaron que nueve palestinos fueron asesinados cuando la ocupación bombardeó una casa en el barrio de al sabra, en la asediada ciudad de gaza. los bombardeos se suceden ininterrumpidamente desde el 10 de agosto, mientras los ocupantes demuelen decenas de edificios en el barrio de zeitún. en el norte de la franja de gaza, cerca del puesto militar de zikim, otros seis gazatíes fueron asesinados por la ocupación mientras aguardaban ayuda humanitaria. al lugar en ocasiones llegan camiones de la onu. la organización de las naciones unidas alertó que el número de víctimas continúa en aumento debido a la crisis alimentaria y el deterioro de los niveles de nutrición, provocados por el bloqueo militar que impide el ingreso de suministros médicos, alimentos, agua y combustibles. ante esta situación, agencias humanitarias y representantes de la onu han solicitado un alto el fuego inmediato, que permita una respuesta humanitaria sin restricciones y la liberación de todos los rehenes, según lo publicado en el portal onu news.",
+    "tokens": [
+      "mañana",
+      "sábado",
+      "23",
+      "agosto",
+      ",",
+      "ejército",
+      "israelí",
+      "intensificó",
+      "operaciones",
+      "militares",
+      "centro",
+      "sur",
+      "franja",
+      "gaza",
+      ",",
+      "dejó",
+      "saldo",
+      "menos",
+      "34",
+      "civiles",
+      "palestinos",
+      "asesinados",
+      "numerosa",
+      "cantidad",
+      "heridos",
+      ".",
+      "sumados",
+      "61",
+      "masacrados",
+      "viernes",
+      ",",
+      "entidad",
+      "sionista",
+      "mató",
+      "total",
+      "95",
+      "civiles",
+      "hirió",
+      "308",
+      "últimas",
+      "48",
+      "horas",
+      ",",
+      "acuerdo",
+      "ministerio",
+      "salud",
+      "gaza",
+      ".",
+      "según",
+      "informes",
+      "ministerio",
+      "salud",
+      "gazatí",
+      ",",
+      "menos",
+      "62.622",
+      "palestinos",
+      "asesinados",
+      "ocupación",
+      "israelí",
+      "7",
+      "octubre",
+      "2023.",
+      "asedio",
+      "militar",
+      "provocó",
+      "157.673",
+      "heridos",
+      "10.000",
+      "desaparecidos",
+      ".",
+      "hechos",
+      "ocurrieron",
+      "campamento",
+      "khan",
+      "younis",
+      ",",
+      "sur",
+      "enclave",
+      ",",
+      "campamento",
+      "refugiados",
+      "maghazi",
+      ",",
+      "ubicado",
+      "zona",
+      "central",
+      ".",
+      "ambos",
+      "lugares",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "bombardearon",
+      "tiendas",
+      "campaña",
+      ",",
+      "causando",
+      "destrucción",
+      "víctimas",
+      "población",
+      "civil",
+      ".",
+      "fuentes",
+      "locales",
+      "informaron",
+      "maghazi",
+      ",",
+      "dos",
+      "personas",
+      "resultaron",
+      "heridas",
+      "tras",
+      "impacto",
+      "dron",
+      "militar",
+      ".",
+      "simultáneamente",
+      ",",
+      "khan",
+      "younis",
+      ",",
+      "17",
+      "civiles",
+      "alcanzados",
+      "fuego",
+      "artillería",
+      ",",
+      "seis",
+      "menores",
+      "edad",
+      "bebé",
+      ",",
+      "perdieron",
+      "vida",
+      "ataque",
+      ".",
+      "agencias",
+      "internacionales",
+      "reportaron",
+      "nueve",
+      "palestinos",
+      "asesinados",
+      "ocupación",
+      "bombardeó",
+      "casa",
+      "barrio",
+      "sabra",
+      ",",
+      "asediada",
+      "ciudad",
+      "gaza",
+      ".",
+      "bombardeos",
+      "suceden",
+      "ininterrumpidamente",
+      "10",
+      "agosto",
+      ",",
+      "mientras",
+      "ocupantes",
+      "demuelen",
+      "decenas",
+      "edificios",
+      "barrio",
+      "zeitún",
+      ".",
+      "norte",
+      "franja",
+      "gaza",
+      ",",
+      "cerca",
+      "puesto",
+      "militar",
+      "zikim",
+      ",",
+      "seis",
+      "gazatíes",
+      "asesinados",
+      "ocupación",
+      "mientras",
+      "aguardaban",
+      "ayuda",
+      "humanitaria",
+      ".",
+      "lugar",
+      "ocasiones",
+      "llegan",
+      "camiones",
+      "onu",
+      ".",
+      "organización",
+      "naciones",
+      "unidas",
+      "alertó",
+      "número",
+      "víctimas",
+      "continúa",
+      "aumento",
+      "debido",
+      "crisis",
+      "alimentaria",
+      "deterioro",
+      "niveles",
+      "nutrición",
+      ",",
+      "provocados",
+      "bloqueo",
+      "militar",
+      "impide",
+      "ingreso",
+      "suministros",
+      "médicos",
+      ",",
+      "alimentos",
+      ",",
+      "agua",
+      "combustibles",
+      ".",
+      "situación",
+      ",",
+      "agencias",
+      "humanitarias",
+      "representantes",
+      "onu",
+      "solicitado",
+      "alto",
+      "fuego",
+      "inmediato",
+      ",",
+      "permita",
+      "respuesta",
+      "humanitaria",
+      "restricciones",
+      "liberación",
+      "rehenes",
+      ",",
+      "según",
+      "publicado",
+      "portal",
+      "onu",
+      "news",
+      "."
+    ],
+    "token_count": 243,
+    "sentence_count": 14
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "FW": 93,
+      "CD": 12,
+      "NN": 99,
+      "VBZ": 7,
+      "NNS": 20,
+      "IN": 22,
+      "JJ": 32,
+      "CC": 1,
+      "VBP": 13,
+      "VBD": 4,
+      "RB": 2,
+      "VBN": 1,
+      "VB": 2,
+      "MD": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 11,
+      "FW-FW": 48,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "FW-NNP": 19,
+      "NNP-NN": 10,
+      "NN-NN": 52,
+      "NN-VBZ": 3,
+      "VBZ-NNS": 2,
+      "NNS-IN": 4,
+      "IN-FW": 16,
+      "FW-JJ": 7,
+      "JJ-FW": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 19,
+      "NN-JJ": 4,
+      "NN-IN": 14,
+      "CD-NNS": 5,
+      "NNS-VBP": 10,
+      "VBP-JJ": 8,
+      "JJ-JJ": 3,
+      "NNP-VBD": 1,
+      "VBD-CD": 4,
+      "CD-NN": 3,
+      "NN-NNS": 5,
+      "IN-JJ": 2,
+      "JJ-CD": 1,
+      "NNS-RB": 2,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "NN-VBD": 3,
+      "NNS-FW": 2,
+      "FW-NN": 13,
+      "NN-FW": 11,
+      "NNP-NNP": 10,
+      "NNP-VBZ": 3,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "NN-CD": 2,
+      "NN-NNP": 4,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 4,
+      "VBP-VBN": 1,
+      "VBN-FW": 1,
+      "JJ-NNP": 3,
+      "NN-VBP": 1,
+      "NNP-NNS": 1,
+      "VBP-NN": 2,
+      "NNP-CD": 1,
+      "RB-VBP": 1,
+      "VBZ-VB": 1,
+      "VB-JJ": 2,
+      "IN-NNP": 3,
+      "CD-IN": 1,
+      "FW-VBZ": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "NNS-JJ": 1,
+      "NNP-IN": 1,
+      "FW-NNS": 2,
+      "VBP-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBZ-IN": 1,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 5,
+      "FW-FW-FW": 27,
+      "FW-FW-CD": 2,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 27,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-FW": 4,
+      "IN-FW-JJ": 3,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 6,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-NNP": 4,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NN": 11,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-RB": 2,
+      "NNS-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 3,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NN-NN-VBD": 2,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-FW-FW": 6,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-CD": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-VBN": 1,
+      "VBP-VBN-FW": 1,
+      "VBN-FW-NN": 1,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-FW-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-FW": 1,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NNS": 1,
+      "VBP-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "FW-NN-JJ": 1,
+      "FW-NN-IN": 4,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "IN-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NNP-NNP-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-NN-JJ": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "JJ-NNP-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 99,
+        "FW": 93,
+        "NNP": 42,
+        "JJ": 32,
+        "IN": 22
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 48,
+        "FW-NNP": 19,
+        "JJ-NN": 19,
+        "IN-FW": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 27,
+        "JJ-NN-NN": 11,
+        "NNP-NN-NN": 9,
+        "NN-IN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 14,
+    "chunk_counts": {
+      "NP": 97,
+      "VP": 21,
+      "PP": 6,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.042
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.028
+      },
+      {
+        "rule": "NP -> ('civiles', 'NNS')",
+        "frequency": 3,
+        "weight": 0.021
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.014
+      },
+      {
+        "rule": "NP -> ('Ministerio', 'NNP')",
+        "frequency": 2,
+        "weight": 0.014
+      },
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 2,
+        "weight": 0.014
+      },
+      {
+        "rule": "NP -> ('Khan', 'NNP') ('Younis', 'NNP')",
+        "frequency": 2,
+        "weight": 0.014
+      },
+      {
+        "rule": "NP -> ('Maghazi', 'NNP')",
+        "frequency": 2,
+        "weight": 0.014
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN')",
+        "frequency": 2,
+        "weight": 0.014
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') ('mañana', 'FW') ('del', 'FW') ('sábado', 'FW') ('23', 'CD') ('de', 'FW') ('agosto', 'FW') (',', ',') ('el', 'FW') NP VP ('en', 'IN') ('el', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP NP ('de', 'IN') ('al', 'FW') ('menos', 'FW') ('34', 'CD') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.007
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Durante"
+      },
+      {
+        "label": "NP",
+        "text": "Ejército israelí intensificó sus"
+      },
+      {
+        "label": "VP",
+        "text": "operaciones militares"
+      },
+      {
+        "label": "NP",
+        "text": "militares"
+      },
+      {
+        "label": "NP",
+        "text": "centro y sur"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "lo cual dejó"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos asesinados y una numerosa cantidad"
+      },
+      {
+        "label": "NP",
+        "text": "asesinados y"
+      },
+      {
+        "label": "NP",
+        "text": "una numerosa cantidad"
+      },
+      {
+        "label": "PP",
+        "text": "de heridos"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Durante/NNP)\n  la/FW\n  mañana/FW\n  del/FW\n  sábado/FW\n  23/CD\n  de/FW\n  agosto/FW\n  ,/,\n  el/FW\n  (NP Ejército/NNP israelí/NN intensificó/NN sus/NN)\n  (VP operaciones/VBZ (NP militares/NNS))\n  en/IN\n  el/FW\n  (NP centro/NN y/NN sur/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP lo/JJ cual/JJ dejó/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  al/FW\n  menos/FW\n  34/CD\n  (NP civiles/NNS)\n  (VP\n    palestinos/VBP\n    (NP asesinados/JJ y/NN)\n    (NP una/JJ numerosa/JJ cantidad/NN))\n  (PP de/IN (NP heridos/NN))\n  ./.)",
+      "(S\n  (NP Sumados/NNP)\n  a/DT\n  (ADJP los/JJ)\n  61/CD\n  (NP masacrados/NN el/NN viernes/NNS)\n  ,/,\n  la/FW\n  entidad/FW\n  (NP sionista/NN mató/NN)\n  en/IN\n  (ADJP total/JJ)\n  a/DT\n  95/CD\n  (NP civiles/NNS)\n  e/RB\n  (VP hirió/VBP)\n  a/DT\n  308/CD\n  (NP en/NN las/NN)\n  (VP últimas/VBD)\n  48/CD\n  (NP horas/NNS)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP los/VBZ (NP informes/NNS))\n  del/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP gazatí/NN)\n  ,/,\n  (ADJP al/JJ)\n  menos/FW\n  62.622/CD\n  (NP palestinos/NNS)\n  (VP fueron/VBP (NP asesinados/JJ por/NN la/NN))\n  ocupación/FW\n  (NP israelí/NN desde/NN)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ./.)",
+      "(S\n  (NP El/NNP asedio/NN militar/NN también/NN provocó/NN)\n  157.673/CD\n  (NP heridos/NN y/NN)\n  10.000/CD\n  (NP desaparecidos/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP hechos/NN ocurrieron/NN)\n  en/FW\n  el/FW\n  campamento/FW\n  de/FW\n  (NP Khan/NNP Younis/NNP)\n  ,/,\n  (NP al/JJ sur/NN del/NN enclave/NN)\n  ,/,\n  y/CC\n  en/FW\n  el/FW\n  campamento/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Maghazi/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  la/FW\n  zona/FW\n  (ADJP central/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "PERIODOS_TEMPORALES",
+      "REGIONES_PROVINCIAS",
+      "TIEMPO_RELATIVO",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación bombardeó una casa en el barrio de al sabra, en la asediada ciudad",
+        "position": [
+          1292,
+          1368
+        ],
+        "start": 1292,
+        "end": 1368
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "asedio militar",
+        "position": [
+          573,
+          587
+        ],
+        "start": 573,
+        "end": 587
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "fuego de artillería",
+        "position": [
+          1100,
+          1119
+        ],
+        "start": 1100,
+        "end": 1119
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          1302,
+          1311
+        ],
+        "start": 1302,
+        "end": 1311
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          1951,
+          1958
+        ],
+        "start": 1951,
+        "end": 1958
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          521,
+          530
+        ],
+        "start": 521,
+        "end": 530
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          1775,
+          1781
+        ],
+        "start": 1775,
+        "end": 1781
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          1668,
+          1685
+        ],
+        "start": 1668,
+        "end": 1685
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1731,
+          1734
+        ],
+        "start": 1731,
+        "end": 1734
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1994,
+          1998
+        ],
+        "start": 1994,
+        "end": 1998
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          55,
+          62
+        ],
+        "start": 55,
+        "end": 62
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona central",
+        "position": [
+          778,
+          790
+        ],
+        "start": 778,
+        "end": 790
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          1327,
+          1336
+        ],
+        "start": 1327,
+        "end": 1336
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro y sur",
+        "position": [
+          107,
+          119
+        ],
+        "start": 107,
+        "end": 119
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          548,
+          568
+        ],
+        "start": 548,
+        "end": 568
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "sábado 23 de agosto",
+        "position": [
+          22,
+          41
+        ],
+        "start": 22,
+        "end": 41
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la mañana",
+        "position": [
+          0,
+          17
+        ],
+        "start": 0,
+        "end": 17
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          11,
+          17
+        ],
+        "start": 11,
+        "end": 17
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1921,
+          1928
+        ],
+        "start": 1921,
+        "end": 1928
+      }
+    ],
+    "match_count": 19
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zikim",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU News",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maghazi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Sabra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Simultáneamente",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zeitún",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Simultáneamente",
+        "relacion": "SIMULT_NEAMENTE_ALCANZAR",
+        "objeto": "Khan Younis"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "SOLICITAR",
+        "objeto": "ONU News"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8271,
+    "pos": 0.0,
+    "neu": 0.978,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

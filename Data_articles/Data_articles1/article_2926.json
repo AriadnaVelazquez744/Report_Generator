@@ -1,0 +1,834 @@
+{
+  "url": "https://www.telesurtv.net/ocha-alerta-sobre-la-crisis-de-hambre-en-gaza/",
+  "title": "OCHA alerta sobre la crisis de hambre en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "comida",
+    "Gaza",
+    "Israel",
+    "OCHA",
+    "Palestina"
+  ],
+  "text": "En su informe diario, OCHA indicó que los socios humanitarios en el centro de Gaza agotaron todas sus reservas de suministros desde el domingo.\nLa Oficina de las Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) alertó que la crisis de hambre en Gaza sigue empeorando, debido a la grave escasez de suministros, las estrictas restricciones de acceso y el violento saqueo armado.\nA pesar de esta crítica situación, las autoridades israelíes continúan bloqueando la mayoría de las solicitudes para permitir el ingreso de ayuda alimentaria a través del puesto de control de Erez, impidiendo que la asistencia llegue a las zonas al sur del valle de Gaza.\nEl informe subraya que aproximadamente 120 mil toneladas métricas de ayuda alimentaria, suficientes para proporcionar raciones completas a la población de Gaza durante más de tres meses, permanecen atrapadas fuera de la región.\nSin el ingreso de suministros adicionales, la capacidad de distribuir paquetes de alimentos a las familias hambrientas seguirá siendo extremadamente limitada.\nAdemás, se advierte que más de 50 cocinas comunitarias, que actualmente proporcionan más de 200 mil comidas diarias en el centro y el sur de Gaza, podrían cerrar en los próximos días debido a la falta de recursos.\nEl Programa Mundial de Alimentos (PMA) reportó que, hasta este lunes, solo cinco de las 20 panaderías que apoya en el sector siguen operativas, todas ubicadas en la ciudad de Gaza, y dependen de un suministro constante de combustible para continuar funcionando.\nLa OCHA también advirtió sobre la escasez de combustible para los generadores, lo que está paralizando el ya deteriorado sistema de salud en Gaza y poniendo en peligro la vida de los pacientes.\nLos ataques continuos en el norte de Gaza han interrumpido gravemente los servicios de atención médica, y el acceso al hospital de Al-Awda en Jabalia, actualmente el único hospital parcialmente funcional en la zona norte, es extremadamente limitado.\nAsimismo, la ONU sigue intentado acceder al norte de Gaza a través de diversas misiones, pero estos esfuerzos han sido sistemáticamente rechazados por las autoridades israelíes, lo que agrava aún más la crisis humanitaria en la región.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ocha-alerta-sobre-la-crisis-de-hambre-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1613,
+    "message_id": 84060,
+    "date": "2025-01-10T03:55:07+00:00",
+    "text": "teleSUR\nOCHA alerta sobre la crisis de hambre en Gaza\nhttps://www.telesurtv.net/ocha-alerta-sobre-la-crisis-de-hambre-en-gaza/",
+    "photo_path": null,
+    "views": 3173,
+    "reactions": {
+      "😢": 42,
+      "😱": 8,
+      "🤬": 6,
+      "👍": 3
+    },
+    "total_reactions": 59
+  },
+  "preprocessing": {
+    "cleaned": "en su informe diario, ocha indicó que los socios humanitarios en el centro de gaza agotaron todas sus reservas de suministros desde el domingo. la oficina de las naciones unidas para la coordinación de asuntos humanitarios (ocha) alertó que la crisis de hambre en gaza sigue empeorando, debido a la grave escasez de suministros, las estrictas restricciones de acceso y el violento saqueo armado. a pesar de esta crítica situación, las autoridades israelíes continúan bloqueando la mayoría de las solicitudes para permitir el ingreso de ayuda alimentaria a través del puesto de control de erez, impidiendo que la asistencia llegue a las zonas al sur del valle de gaza. el informe subraya que aproximadamente 120 mil toneladas métricas de ayuda alimentaria, suficientes para proporcionar raciones completas a la población de gaza durante más de tres meses, permanecen atrapadas fuera de la región. sin el ingreso de suministros adicionales, la capacidad de distribuir paquetes de alimentos a las familias hambrientas seguirá siendo extremadamente limitada. además, se advierte que más de 50 cocinas comunitarias, que actualmente proporcionan más de 200 mil comidas diarias en el centro y el sur de gaza, podrían cerrar en los próximos días debido a la falta de recursos. el programa mundial de alimentos (pma) reportó que, hasta este lunes, solo cinco de las 20 panaderías que apoya en el sector siguen operativas, todas ubicadas en la ciudad de gaza, y dependen de un suministro constante de combustible para continuar funcionando. la ocha también advirtió sobre la escasez de combustible para los generadores, lo que está paralizando el ya deteriorado sistema de salud en gaza y poniendo en peligro la vida de los pacientes. los ataques continuos en el norte de gaza han interrumpido gravemente los servicios de atención médica, y el acceso al hospital de al-awda en jabalia, actualmente el único hospital parcialmente funcional en la zona norte, es extremadamente limitado. asimismo, la onu sigue intentado acceder al norte de gaza a través de diversas misiones, pero estos esfuerzos han sido sistemáticamente rechazados por las autoridades israelíes, lo que agrava aún más la crisis humanitaria en la región.",
+    "tokens": [
+      "informe",
+      "diario",
+      ",",
+      "ocha",
+      "indicó",
+      "socios",
+      "humanitarios",
+      "centro",
+      "gaza",
+      "agotaron",
+      "todas",
+      "reservas",
+      "suministros",
+      "domingo",
+      ".",
+      "oficina",
+      "naciones",
+      "unidas",
+      "coordinación",
+      "asuntos",
+      "humanitarios",
+      "(",
+      "ocha",
+      ")",
+      "alertó",
+      "crisis",
+      "hambre",
+      "gaza",
+      "sigue",
+      "empeorando",
+      ",",
+      "debido",
+      "grave",
+      "escasez",
+      "suministros",
+      ",",
+      "estrictas",
+      "restricciones",
+      "acceso",
+      "violento",
+      "saqueo",
+      "armado",
+      ".",
+      "pesar",
+      "crítica",
+      "situación",
+      ",",
+      "autoridades",
+      "israelíes",
+      "continúan",
+      "bloqueando",
+      "mayoría",
+      "solicitudes",
+      "permitir",
+      "ingreso",
+      "ayuda",
+      "alimentaria",
+      "través",
+      "puesto",
+      "control",
+      "erez",
+      ",",
+      "impidiendo",
+      "asistencia",
+      "llegue",
+      "zonas",
+      "sur",
+      "valle",
+      "gaza",
+      ".",
+      "informe",
+      "subraya",
+      "aproximadamente",
+      "120",
+      "mil",
+      "toneladas",
+      "métricas",
+      "ayuda",
+      "alimentaria",
+      ",",
+      "suficientes",
+      "proporcionar",
+      "raciones",
+      "completas",
+      "población",
+      "gaza",
+      "tres",
+      "meses",
+      ",",
+      "permanecen",
+      "atrapadas",
+      "región",
+      ".",
+      "ingreso",
+      "suministros",
+      "adicionales",
+      ",",
+      "capacidad",
+      "distribuir",
+      "paquetes",
+      "alimentos",
+      "familias",
+      "hambrientas",
+      "seguirá",
+      "siendo",
+      "extremadamente",
+      "limitada",
+      ".",
+      "además",
+      ",",
+      "advierte",
+      "50",
+      "cocinas",
+      "comunitarias",
+      ",",
+      "actualmente",
+      "proporcionan",
+      "200",
+      "mil",
+      "comidas",
+      "diarias",
+      "centro",
+      "sur",
+      "gaza",
+      ",",
+      "podrían",
+      "cerrar",
+      "próximos",
+      "días",
+      "debido",
+      "falta",
+      "recursos",
+      ".",
+      "programa",
+      "mundial",
+      "alimentos",
+      "(",
+      "pma",
+      ")",
+      "reportó",
+      ",",
+      "lunes",
+      ",",
+      "solo",
+      "cinco",
+      "20",
+      "panaderías",
+      "apoya",
+      "sector",
+      "siguen",
+      "operativas",
+      ",",
+      "todas",
+      "ubicadas",
+      "ciudad",
+      "gaza",
+      ",",
+      "dependen",
+      "suministro",
+      "constante",
+      "combustible",
+      "continuar",
+      "funcionando",
+      ".",
+      "ocha",
+      "advirtió",
+      "escasez",
+      "combustible",
+      "generadores",
+      ",",
+      "paralizando",
+      "deteriorado",
+      "sistema",
+      "salud",
+      "gaza",
+      "poniendo",
+      "peligro",
+      "vida",
+      "pacientes",
+      ".",
+      "ataques",
+      "continuos",
+      "norte",
+      "gaza",
+      "interrumpido",
+      "gravemente",
+      "servicios",
+      "atención",
+      "médica",
+      ",",
+      "acceso",
+      "hospital",
+      "al-awda",
+      "jabalia",
+      ",",
+      "actualmente",
+      "único",
+      "hospital",
+      "parcialmente",
+      "funcional",
+      "zona",
+      "norte",
+      ",",
+      "extremadamente",
+      "limitado",
+      ".",
+      "asimismo",
+      ",",
+      "onu",
+      "sigue",
+      "intentado",
+      "acceder",
+      "norte",
+      "gaza",
+      "través",
+      "diversas",
+      "misiones",
+      ",",
+      "esfuerzos",
+      "sido",
+      "sistemáticamente",
+      "rechazados",
+      "autoridades",
+      "israelíes",
+      ",",
+      "agrava",
+      "aún",
+      "crisis",
+      "humanitaria",
+      "región",
+      "."
+    ],
+    "token_count": 231,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "NN": 109,
+      "JJ": 28,
+      "NNS": 26,
+      "VBP": 13,
+      "IN": 24,
+      "FW": 90,
+      "VBN": 1,
+      "VBD": 4,
+      "CD": 4,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 18,
+      "NN-NN": 61,
+      "NN-NNP": 8,
+      "NN-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NNS": 6,
+      "NNS-VBP": 12,
+      "VBP-JJ": 9,
+      "JJ-NN": 16,
+      "NN-IN": 15,
+      "IN-NNP": 4,
+      "IN-FW": 13,
+      "FW-FW": 54,
+      "FW-NN": 10,
+      "NNP-NNP": 11,
+      "NNP-IN": 2,
+      "FW-NNP": 13,
+      "NN-FW": 12,
+      "NN-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-IN": 1,
+      "FW-NNS": 9,
+      "VBP-NNS": 1,
+      "NNS-FW": 4,
+      "NN-NNS": 6,
+      "NNS-IN": 4,
+      "IN-JJ": 4,
+      "NN-VBD": 3,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "NNP-FW": 5,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-JJ": 3,
+      "NNS-VBD": 1,
+      "VBD-NN": 1,
+      "FW-CD": 1,
+      "IN-NN": 1,
+      "VBD-JJ": 2,
+      "JJ-IN": 1,
+      "FW-JJ": 3,
+      "JJ-FW": 1,
+      "NNS-NNP": 1,
+      "NNP-NNS": 1,
+      "VBP-IN": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 15,
+      "NN-NN-NN": 31,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "NN-NN-IN": 8,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 7,
+      "FW-FW-FW": 31,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 6,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 9,
+      "FW-FW-NNP": 10,
+      "FW-NNP-NN": 6,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-IN": 1,
+      "VBN-IN-FW": 1,
+      "IN-FW-NNS": 3,
+      "FW-NNS-VBP": 6,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 4,
+      "FW-NN-NN": 2,
+      "NN-NN-NNS": 4,
+      "NN-NNS-IN": 2,
+      "NNS-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NN": 11,
+      "FW-FW-NNS": 6,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NNS-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "IN-JJ-JJ": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-VBD-JJ": 2,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NNP-NN-FW": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NN-VBD": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "IN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 109,
+        "FW": 90,
+        "NNP": 38,
+        "JJ": 28,
+        "NNS": 26
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 54,
+        "NNP-NN": 18,
+        "JJ-NN": 16,
+        "NN-IN": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 31,
+        "FW-FW-FW": 31,
+        "NNP-NN-NN": 15,
+        "JJ-NN-NN": 11,
+        "FW-FW-NNP": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 94,
+      "VP": 16,
+      "PP": 10
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0462
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0385
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0231
+      },
+      {
+        "rule": "VP -> ('debido', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0154
+      },
+      {
+        "rule": "S -> NP (',', ',') NP NP VP PP ('de', 'IN') ('suministros', 'FW') ('desde', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('su', 'NN') ('informe', 'NN') ('diario', 'NN')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "NP -> ('OCHA', 'NNP') ('indicó', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('socios', 'JJ') ('humanitarios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0077
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0077
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En su informe diario"
+      },
+      {
+        "label": "NP",
+        "text": "OCHA indicó que"
+      },
+      {
+        "label": "NP",
+        "text": "los socios humanitarios"
+      },
+      {
+        "label": "VP",
+        "text": "en el centro"
+      },
+      {
+        "label": "NP",
+        "text": "el centro"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza agotaron todas sus reservas"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza agotaron todas sus reservas"
+      },
+      {
+        "label": "NP",
+        "text": "domingo"
+      },
+      {
+        "label": "NP",
+        "text": "La Oficina"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para la Coordinación"
+      },
+      {
+        "label": "PP",
+        "text": "de Asuntos Humanitarios"
+      },
+      {
+        "label": "NP",
+        "text": "Asuntos Humanitarios"
+      },
+      {
+        "label": "NP",
+        "text": "OCHA"
+      },
+      {
+        "label": "VP",
+        "text": "alertó que"
+      },
+      {
+        "label": "NP",
+        "text": "crisis"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP su/NN informe/NN diario/NN)\n  ,/,\n  (NP OCHA/NNP indicó/NN que/NN)\n  (NP los/JJ socios/JJ humanitarios/NNS)\n  (VP en/VBP (NP el/JJ centro/NN))\n  (PP de/IN (NP Gaza/NNP agotaron/NN todas/NN sus/NN reservas/NN))\n  de/IN\n  suministros/FW\n  desde/FW\n  el/FW\n  (NP domingo/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Oficina/NNP)\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN la/NN Coordinación/NNP)\n  (PP de/IN (NP Asuntos/NNP Humanitarios/NNP))\n  (/(\n  (NP OCHA/NNP)\n  )/)\n  (VP alertó/VBP que/JJ)\n  la/FW\n  (NP crisis/NN)\n  de/FW\n  hambre/FW\n  en/FW\n  (NP Gaza/NNP sigue/NN empeorando/NN)\n  ,/,\n  (VP debido/VBZ (NP a/DT la/NN grave/NN))\n  escasez/FW\n  de/FW\n  suministros/FW\n  ,/,\n  las/FW\n  (NP estrictas/JJ restricciones/NNS)\n  de/IN\n  acceso/FW\n  y/FW\n  el/FW\n  violento/FW\n  (NP saqueo/NN armado/NN)\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  esta/FW\n  (NP crítica/NN situación/NN)\n  ,/,\n  las/FW\n  (NP autoridades/NNS)\n  (VP israelíes/VBP (NP continúan/JJ bloqueando/NN la/NN))\n  mayoría/FW\n  de/FW\n  las/FW\n  (NP solicitudes/NNS)\n  (VP para/VBP (NP permitir/JJ el/JJ ingreso/NN))\n  de/IN\n  ayuda/FW\n  alimentaria/FW\n  (NP a/DT través/NN del/NN puesto/NN)\n  de/FW\n  (NP control/NN)\n  (PP de/IN (NP Erez/NNP))\n  ,/,\n  (NP impidiendo/NN que/NN la/NN)\n  (VP\n    asistencia/VBP\n    (NP llegue/NN)\n    (NP a/DT las/JJ zonas/NN al/NN sur/NN))\n  del/FW\n  valle/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP informe/NN subraya/NN que/NN)\n  (VP aproximadamente/VBD)\n  120/CD\n  (NP mil/NN toneladas/NNS)\n  métricas/FW\n  de/FW\n  ayuda/FW\n  (NP alimentaria/NNS)\n  ,/,\n  (NP suficientes/NNS)\n  (VP para/VBP (NP proporcionar/JJ raciones/NNS))\n  (VP completas/VBP (NP a/DT la/NN))\n  población/FW\n  de/FW\n  (NP Gaza/NNP)\n  durante/FW\n  más/FW\n  de/FW\n  tres/FW\n  (NP meses/NNS)\n  ,/,\n  (NP permanecen/NN atrapadas/NNS)\n  (VP fuera/VBP)\n  de/IN\n  la/FW\n  (NP región/NN)\n  ./.)",
+      "(S\n  (NP Sin/NNP)\n  (VP el/VBD)\n  ingreso/FW\n  de/FW\n  suministros/FW\n  (NP adicionales/NNS)\n  ,/,\n  la/FW\n  capacidad/FW\n  de/FW\n  distribuir/FW\n  (NP paquetes/NNS)\n  de/IN\n  alimentos/FW\n  (NP a/DT las/NN familias/NN hambrientas/NNS)\n  (VP seguirá/VBP (NP siendo/JJ extremadamente/NN limitada/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          525,
+          532
+        ],
+        "start": 525,
+        "end": 532
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          230,
+          236
+        ],
+        "start": 230,
+        "end": 236
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          162,
+          177
+        ],
+        "start": 162,
+        "end": 177
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario, ocha indicó",
+        "position": [
+          14,
+          33
+        ],
+        "start": 14,
+        "end": 33
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1844,
+          1852
+        ],
+        "start": 1844,
+        "end": 1852
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona norte",
+        "position": [
+          1935,
+          1945
+        ],
+        "start": 1935,
+        "end": 1945
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          68,
+          77
+        ],
+        "start": 68,
+        "end": 77
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital de",
+        "position": [
+          1844,
+          1855
+        ],
+        "start": 1844,
+        "end": 1855
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1115,
+          1126
+        ],
+        "start": 1115,
+        "end": 1126
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "120 mil",
+        "position": [
+          707,
+          714
+        ],
+        "start": 707,
+        "end": 714
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 120",
+        "position": [
+          691,
+          710
+        ],
+        "start": 691,
+        "end": 710
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          1079,
+          1088
+        ],
+        "start": 1079,
+        "end": 1088
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "OCHA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al-Awda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina de las Naciones Unidas para la Coordinación de Asuntos Humanitarios",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "valle de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jabalia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "PMA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Erez",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "OCHA",
+        "relacion": "INDICAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Oficina de las Naciones Unidas para la Coordinación de Asuntos Humanitarios",
+        "relacion": "ALERTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "ALERTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Erez",
+        "relacion": "PERMITIR_BLOQUEAR_CONTINUAR",
+        "objeto": "valle de Gaza"
+      },
+      {
+        "sujeto": "PMA",
+        "relacion": "REPORTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "ADVERTIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "INTERRUMPIR",
+        "objeto": "Al-Awda"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "INTERRUMPIR",
+        "objeto": "Jabalia"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "SEGUIR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9371,
+    "pos": 0.0,
+    "neu": 0.959,
+    "neg": 0.041,
+    "label": "negative"
+  }
+}

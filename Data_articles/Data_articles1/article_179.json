@@ -1,0 +1,727 @@
+{
+  "url": "https://www.telesurtv.net/ataque-armado-ecuador-muertos-maicol-valencia/",
+  "title": "Ataque armado en Ecuador deja cuatro muertos, entre ellos el futbolista Maicol Valencia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "ataque armado",
+    "Ecuador",
+    "futbolista",
+    "tiroteo",
+    "Violencia"
+  ],
+  "text": "Un ataque armado ocurrido la noche del 10 de septiembre en la ciudad portuaria de Manta, al oeste del país, dejó cuatro personas muertas. El hecho se registró aproximadamente a las 22:30 horas locales. Entre las víctimas se encuentra el futbolista Maicol Valencia Escobar, de 25 años, recién incorporado al club Exapromo Costa FC, de la segunda división nacional.\n\nSegún información preliminar, un grupo de hombres armados disparó contra varias personas en un hostal de la ciudadela Costa Azul, donde se hospedaba el equipo. El club confirmó que Valencia fue víctima colateral del ataque y que otro jugador resultó herido, actualmente bajo atención médica.\nEl plantel había viajado a Manta para disputar el partido de ida de los treintaidosavos de final del torneo nacional frente a Deportivo Quito, programado para el 13 de septiembre. El asesinato del jugador se produjo apenas horas después de su presentación oficial como nuevo refuerzo.\nAgentes de Medicina Legal trasladaron los cuerpos a la morgue de Manta, mientras la Policía Nacional y el Ejército aseguraron la zona y recogieron evidencias. Hasta el momento, las autoridades no han informado sobre detenidos ni han revelado la identidad de las demás víctimas.\n\n\nEste crimen se suma a una serie de hechos violentos registrados en la provincia de Manabí. En lo que va de 2025, la región contabiliza al menos 15 masacres y más de 360 muertes violentas, en medio de un incremento de la actividad de grupos armados vinculados al crimen organizado.\nEn junio pasado, el presidente del club Liga Deportiva Universitaria de El Carmen, Santiago Rodríguez, fue asesinado a tiros en un restaurante, lo que evidenció la creciente exposición de dirigentes y jugadores del fútbol local a la violencia que afecta al país.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-armado-ecuador-muertos-maicol-valencia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 298,
+    "message_id": 104379,
+    "date": "2025-09-11T19:55:14+00:00",
+    "text": "teleSUR\nAtaque armado en Ecuador deja cuatro muertos, entre ellos el futbolista Maicol Valencia\nhttps://www.telesurtv.net/ataque-armado-ecuador-muertos-maicol-valencia/",
+    "photo_path": null,
+    "views": 1665,
+    "reactions": {
+      "👍": 12,
+      "😢": 10,
+      "😱": 5,
+      "🤬": 1
+    },
+    "total_reactions": 28
+  },
+  "preprocessing": {
+    "cleaned": "un ataque armado ocurrido la noche del 10 de septiembre en la ciudad portuaria de manta, al oeste del país, dejó cuatro personas muertas. el hecho se registró aproximadamente a las 22:30 horas locales. entre las víctimas se encuentra el futbolista maicol valencia escobar, de 25 años, recién incorporado al club exapromo costa fc, de la segunda división nacional. según información preliminar, un grupo de hombres armados disparó contra varias personas en un hostal de la ciudadela costa azul, donde se hospedaba el equipo. el club confirmó que valencia fue víctima colateral del ataque y que otro jugador resultó herido, actualmente bajo atención médica. el plantel había viajado a manta para disputar el partido de ida de los treintaidosavos de final del torneo nacional frente a deportivo quito, programado para el 13 de septiembre. el asesinato del jugador se produjo apenas horas después de su presentación oficial como nuevo refuerzo. agentes de medicina legal trasladaron los cuerpos a la morgue de manta, mientras la policía nacional y el ejército aseguraron la zona y recogieron evidencias. hasta el momento, las autoridades no han informado sobre detenidos ni han revelado la identidad de las demás víctimas. este crimen se suma a una serie de hechos violentos registrados en la provincia de manabí. en lo que va de 2025, la región contabiliza al menos 15 masacres y más de 360 muertes violentas, en medio de un incremento de la actividad de grupos armados vinculados al crimen organizado. en junio pasado, el presidente del club liga deportiva universitaria de el carmen, santiago rodríguez, fue asesinado a tiros en un restaurante, lo que evidenció la creciente exposición de dirigentes y jugadores del fútbol local a la violencia que afecta al país.",
+    "tokens": [
+      "ataque",
+      "armado",
+      "ocurrido",
+      "noche",
+      "10",
+      "septiembre",
+      "ciudad",
+      "portuaria",
+      "manta",
+      ",",
+      "oeste",
+      "país",
+      ",",
+      "dejó",
+      "cuatro",
+      "personas",
+      "muertas",
+      ".",
+      "hecho",
+      "registró",
+      "aproximadamente",
+      "22:30",
+      "horas",
+      "locales",
+      ".",
+      "víctimas",
+      "encuentra",
+      "futbolista",
+      "maicol",
+      "valencia",
+      "escobar",
+      ",",
+      "25",
+      "años",
+      ",",
+      "recién",
+      "incorporado",
+      "club",
+      "exapromo",
+      "costa",
+      "fc",
+      ",",
+      "segunda",
+      "división",
+      "nacional",
+      ".",
+      "según",
+      "información",
+      "preliminar",
+      ",",
+      "grupo",
+      "hombres",
+      "armados",
+      "disparó",
+      "varias",
+      "personas",
+      "hostal",
+      "ciudadela",
+      "costa",
+      "azul",
+      ",",
+      "hospedaba",
+      "equipo",
+      ".",
+      "club",
+      "confirmó",
+      "valencia",
+      "víctima",
+      "colateral",
+      "ataque",
+      "jugador",
+      "resultó",
+      "herido",
+      ",",
+      "actualmente",
+      "bajo",
+      "atención",
+      "médica",
+      ".",
+      "plantel",
+      "viajado",
+      "manta",
+      "disputar",
+      "partido",
+      "ida",
+      "treintaidosavos",
+      "final",
+      "torneo",
+      "nacional",
+      "frente",
+      "deportivo",
+      "quito",
+      ",",
+      "programado",
+      "13",
+      "septiembre",
+      ".",
+      "asesinato",
+      "jugador",
+      "produjo",
+      "apenas",
+      "horas",
+      "después",
+      "presentación",
+      "oficial",
+      "nuevo",
+      "refuerzo",
+      ".",
+      "agentes",
+      "medicina",
+      "legal",
+      "trasladaron",
+      "cuerpos",
+      "morgue",
+      "manta",
+      ",",
+      "mientras",
+      "policía",
+      "nacional",
+      "ejército",
+      "aseguraron",
+      "zona",
+      "recogieron",
+      "evidencias",
+      ".",
+      "momento",
+      ",",
+      "autoridades",
+      "informado",
+      "detenidos",
+      "revelado",
+      "identidad",
+      "demás",
+      "víctimas",
+      ".",
+      "crimen",
+      "suma",
+      "serie",
+      "hechos",
+      "violentos",
+      "registrados",
+      "provincia",
+      "manabí",
+      ".",
+      "va",
+      "2025",
+      ",",
+      "región",
+      "contabiliza",
+      "menos",
+      "15",
+      "masacres",
+      "360",
+      "muertes",
+      "violentas",
+      ",",
+      "medio",
+      "incremento",
+      "actividad",
+      "grupos",
+      "armados",
+      "vinculados",
+      "crimen",
+      "organizado",
+      ".",
+      "junio",
+      "pasado",
+      ",",
+      "presidente",
+      "club",
+      "liga",
+      "deportiva",
+      "universitaria",
+      "carmen",
+      ",",
+      "santiago",
+      "rodríguez",
+      ",",
+      "asesinado",
+      "tiros",
+      "restaurante",
+      ",",
+      "evidenció",
+      "creciente",
+      "exposición",
+      "dirigentes",
+      "jugadores",
+      "fútbol",
+      "local",
+      "violencia",
+      "afecta",
+      "país",
+      "."
+    ],
+    "token_count": 193,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 100,
+      "FW": 56,
+      "CD": 7,
+      "CC": 1,
+      "NNS": 12,
+      "VBP": 8,
+      "VBD": 3,
+      "$": 1,
+      "JJ": 28,
+      "VBZ": 3,
+      "IN": 13,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 18,
+      "NN-NN": 60,
+      "NN-FW": 8,
+      "FW-FW": 37,
+      "FW-CD": 3,
+      "CD-FW": 1,
+      "FW-NNP": 7,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 8,
+      "VBP-NNP": 2,
+      "NN-VBD": 3,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 4,
+      "JJ-JJ": 8,
+      "JJ-NN": 16,
+      "NN-NNP": 12,
+      "NNP-NNP": 15,
+      "NNP-IN": 4,
+      "IN-CD": 1,
+      "CD-NNS": 3,
+      "NNS-JJ": 2,
+      "IN-FW": 6,
+      "JJ-NNP": 1,
+      "NN-JJ": 6,
+      "NN-IN": 6,
+      "IN-NNS": 1,
+      "VBP-JJ": 3,
+      "VBP-IN": 2,
+      "IN-JJ": 3,
+      "FW-NN": 2,
+      "VBD-CD": 2,
+      "CD-IN": 1,
+      "VBP-NN": 1,
+      "IN-NNP": 2,
+      "NNP-FW": 1,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-JJ": 1,
+      "NNP-NNS": 1,
+      "FW-NNS": 3,
+      "CD-NN": 1,
+      "NNS-FW": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 16,
+      "NN-NN-NN": 35,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 6,
+      "FW-FW-CD": 3,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 6,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NN-NN-VBD": 3,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 7,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 9,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 3,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 3,
+      "NN-IN-FW": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 6,
+      "NN-NNP-NN": 7,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-NNP": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-IN-FW": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NN-NN": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-CD-NNS": 1,
+      "NN-IN-JJ": 2,
+      "FW-FW-NNS": 2,
+      "NN-NN-IN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 100,
+        "FW": 56,
+        "NNP": 41,
+        "JJ": 28,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 60,
+        "FW-FW": 37,
+        "NNP-NN": 18,
+        "JJ-NN": 16,
+        "NNP-NNP": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 23,
+        "NNP-NN-NN": 16,
+        "NN-NN-NNP": 9,
+        "JJ-JJ-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 19,
+      "ADJP": 4,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0388
+      },
+      {
+        "rule": "NP -> ('Manta', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP ('noche', 'FW') ('del', 'FW') ('10', 'CD') ('de', 'FW') ('septiembre', 'FW') ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('portuaria', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') ('dejó', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('ataque', 'NN') ('armado', 'NN') ('ocurrido', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('oeste', 'NN') ('del', 'NN') ('país', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('cuatro', 'NN') ('personas', 'NN') ('muertas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "S -> NP VP ('a', 'DT') ADJP ('22:30', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('hecho', 'NN') ('se', 'NN') ('registró', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('aproximadamente', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un ataque armado ocurrido la"
+      },
+      {
+        "label": "NP",
+        "text": "Manta"
+      },
+      {
+        "label": "NP",
+        "text": "al oeste del país"
+      },
+      {
+        "label": "NP",
+        "text": "cuatro personas muertas"
+      },
+      {
+        "label": "NP",
+        "text": "El hecho se registró"
+      },
+      {
+        "label": "VP",
+        "text": "aproximadamente"
+      },
+      {
+        "label": "ADJP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "horas locales"
+      },
+      {
+        "label": "NP",
+        "text": "Entre"
+      },
+      {
+        "label": "VP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "se encuentra el futbolista Maicol Valencia Escobar"
+      },
+      {
+        "label": "NP",
+        "text": "años"
+      },
+      {
+        "label": "VP",
+        "text": "recién incorporado al club Exapromo Costa FC"
+      },
+      {
+        "label": "NP",
+        "text": "incorporado al club Exapromo Costa FC"
+      },
+      {
+        "label": "ADJP",
+        "text": "nacional"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP ataque/NN armado/NN ocurrido/NN la/NN)\n  noche/FW\n  del/FW\n  10/CD\n  de/FW\n  septiembre/FW\n  en/FW\n  la/FW\n  ciudad/FW\n  portuaria/FW\n  de/FW\n  (NP Manta/NNP)\n  ,/,\n  (NP al/JJ oeste/NN del/NN país/NN)\n  ,/,\n  dejó/FW\n  (NP cuatro/NN personas/NN muertas/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP hecho/NN se/NN registró/NN)\n  (VP aproximadamente/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  22:30/CD\n  (NP horas/JJ locales/NNS)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP las/VBZ)\n  víctimas/FW\n  (NP\n    se/JJ\n    encuentra/JJ\n    el/NN\n    futbolista/NN\n    Maicol/NNP\n    Valencia/NNP\n    Escobar/NNP)\n  ,/,\n  de/FW\n  25/CD\n  (NP años/NN)\n  ,/,\n  (VP\n    recién/VB\n    (NP incorporado/NN al/NN club/NN Exapromo/NNP Costa/NNP FC/NNP))\n  ,/,\n  de/FW\n  la/FW\n  segunda/FW\n  división/FW\n  (ADJP nacional/JJ)\n  ./.)",
+      "(S\n  (NP Según/NNP información/NN preliminar/NN)\n  ,/,\n  (NP un/JJ grupo/NN)\n  (PP de/IN (NP hombres/NNS))\n  (VP armados/VBP (NP disparó/JJ contra/JJ varias/NNS))\n  (VP personas/VBP)\n  (PP en/IN (NP un/JJ hostal/NN))\n  de/IN\n  la/FW\n  ciudadela/FW\n  (NP Costa/NNP Azul/NNP)\n  ,/,\n  (NP donde/NN se/NN hospedaba/NN el/NN equipo/NN)\n  ./.)",
+      "(S\n  (NP El/NNP club/NN confirmó/NN que/NN Valencia/NNP fue/NN)\n  (NP víctima/JJ colateral/JJ del/NN ataque/NN y/NN que/NN)\n  (NP otro/JJ jugador/NN resultó/NN herido/NN)\n  ,/,\n  (NP actualmente/JJ bajo/NN atención/NN médica/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "CIUDADES_CAPITALES",
+      "FECHAS_HORAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "disparó",
+        "position": [
+          423,
+          430
+        ],
+        "start": 423,
+        "end": 430
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del club",
+        "position": [
+          1523,
+          1542
+        ],
+        "start": 1523,
+        "end": 1542
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santiago",
+        "position": [
+          1586,
+          1594
+        ],
+        "start": 1586,
+        "end": 1594
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "quito",
+        "position": [
+          793,
+          798
+        ],
+        "start": 793,
+        "end": 798
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona y recogieron",
+        "position": [
+          1071,
+          1088
+        ],
+        "start": 1071,
+        "end": 1088
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          623,
+          634
+        ],
+        "start": 623,
+        "end": 634
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 360",
+        "position": [
+          1380,
+          1390
+        ],
+        "start": 1380,
+        "end": 1390
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "a las 22:30 horas",
+        "position": [
+          175,
+          192
+        ],
+        "start": 175,
+        "end": 192
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Exapromo Costa FC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Policía Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "provincia de Manabí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Manta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Valencia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agentes de Medicina Legal",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Liga Deportiva Universitaria de El Carmen",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Santiago Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Costa Azul",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maicol Valencia Escobar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Deportivo Quito",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Manta",
+        "relacion": "VIAJAR",
+        "objeto": "Deportivo Quito"
+      },
+      {
+        "sujeto": "Agentes de Medicina Legal",
+        "relacion": "TRASLADAR",
+        "objeto": "Manta"
+      },
+      {
+        "sujeto": "Agentes de Medicina Legal",
+        "relacion": "TRASLADAR",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "Policía Nacional",
+        "relacion": "TRASLADAR",
+        "objeto": "Manta"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.1779,
+    "pos": 0.005,
+    "neu": 0.987,
+    "neg": 0.008,
+    "label": "negative"
+  }
+}

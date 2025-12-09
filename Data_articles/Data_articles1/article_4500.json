@@ -1,0 +1,533 @@
+{
+  "url": "https://www.telesurtv.net/avion-militar-surcoreano-arroja-accidentalmente-bombas-en-una-zona-civil/",
+  "title": "Avión militar surcoreano arroja accidentalmente bombas en una zona civil - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Accidente Aérea",
+    "bomba",
+    "Fuerza Aérea Surcoreana",
+    "Lanzamiento Bomba"
+  ],
+  "text": "Un avión caza de la Fuerza Aérea de Corea del Sur lanzó accidentalmente una bomba sobre una vivienda durante un ejercicio con fuego real, dejando al menos siete civiles heridos, de los cuales cuatro se encuentran en gravedad.\nDe acuerdo a medios locales, el proyectil cayó este jueves en una carretera cercana a un edificio residencial, causando daños a una iglesia y a otras seis edificaciones en el área.\nEl incidente ocurrió en la localidad de Pocheon, a 43 kilómetros al norte de la capital surcoreana, Seúl.\nSe reporta que, durante el ejercicio se lanzaron ocho bombas MK-82 desde el avión de combate que cayeron fuera del campo de entrenamiento.\nEste tipo de bomba se utiliza para destruir edificios y puentes, y su radio de destrucción es, aproximadamente, del tamaño de un campo de fútbol.\nTras el incidente, la Fuerza Aérea surcoreana formó una comisión para investigar las circunstancias del accidente y los daños causados.\n“Pedimos disculpas por los daños civiles causados por el lanzamiento anómalo y deseamos a los heridos una pronta recuperación”, declaró el organismo militar, añadiendo que “aplicará activamente todas las medidas necesarias, incluida la indemnización por daños y perjuicios”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/avion-militar-surcoreano-arroja-accidentalmente-bombas-en-una-zona-civil/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1981,
+    "message_id": 88454,
+    "date": "2025-03-06T07:55:07+00:00",
+    "text": "teleSUR\nAvión militar surcoreano arroja accidentalmente bombas en una zona civil\nhttps://www.telesurtv.net/avion-militar-surcoreano-arroja-accidentalmente-bombas-en-una-zona-civil/",
+    "photo_path": null,
+    "views": 2102,
+    "reactions": {
+      "👎": 30,
+      "😱": 20,
+      "🤣": 4,
+      "🔥": 2,
+      "👍": 1
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "un avión caza de la fuerza aérea de corea del sur lanzó accidentalmente una bomba sobre una vivienda durante un ejercicio con fuego real, dejando al menos siete civiles heridos, de los cuales cuatro se encuentran en gravedad. de acuerdo a medios locales, el proyectil cayó este jueves en una carretera cercana a un edificio residencial, causando daños a una iglesia y a otras seis edificaciones en el área. el incidente ocurrió en la localidad de pocheon, a 43 kilómetros al norte de la capital surcoreana, seúl. se reporta que, durante el ejercicio se lanzaron ocho bombas mk-82 desde el avión de combate que cayeron fuera del campo de entrenamiento. este tipo de bomba se utiliza para destruir edificios y puentes, y su radio de destrucción es, aproximadamente, del tamaño de un campo de fútbol. tras el incidente, la fuerza aérea surcoreana formó una comisión para investigar las circunstancias del accidente y los daños causados. “pedimos disculpas por los daños civiles causados por el lanzamiento anómalo y deseamos a los heridos una pronta recuperación”, declaró el organismo militar, añadiendo que “aplicará activamente todas las medidas necesarias, incluida la indemnización por daños y perjuicios”.",
+    "tokens": [
+      "avión",
+      "caza",
+      "fuerza",
+      "aérea",
+      "corea",
+      "sur",
+      "lanzó",
+      "accidentalmente",
+      "bomba",
+      "vivienda",
+      "ejercicio",
+      "fuego",
+      "real",
+      ",",
+      "dejando",
+      "menos",
+      "siete",
+      "civiles",
+      "heridos",
+      ",",
+      "cuales",
+      "cuatro",
+      "encuentran",
+      "gravedad",
+      ".",
+      "acuerdo",
+      "medios",
+      "locales",
+      ",",
+      "proyectil",
+      "cayó",
+      "jueves",
+      "carretera",
+      "cercana",
+      "edificio",
+      "residencial",
+      ",",
+      "causando",
+      "daños",
+      "iglesia",
+      "seis",
+      "edificaciones",
+      "área",
+      ".",
+      "incidente",
+      "ocurrió",
+      "localidad",
+      "pocheon",
+      ",",
+      "43",
+      "kilómetros",
+      "norte",
+      "capital",
+      "surcoreana",
+      ",",
+      "seúl",
+      ".",
+      "reporta",
+      ",",
+      "ejercicio",
+      "lanzaron",
+      "ocho",
+      "bombas",
+      "mk-82",
+      "avión",
+      "combate",
+      "cayeron",
+      "campo",
+      "entrenamiento",
+      ".",
+      "tipo",
+      "bomba",
+      "utiliza",
+      "destruir",
+      "edificios",
+      "puentes",
+      ",",
+      "radio",
+      "destrucción",
+      ",",
+      "aproximadamente",
+      ",",
+      "tamaño",
+      "campo",
+      "fútbol",
+      ".",
+      "tras",
+      "incidente",
+      ",",
+      "fuerza",
+      "aérea",
+      "surcoreana",
+      "formó",
+      "comisión",
+      "investigar",
+      "circunstancias",
+      "accidente",
+      "daños",
+      "causados",
+      ".",
+      "“",
+      "pedimos",
+      "disculpas",
+      "daños",
+      "civiles",
+      "causados",
+      "lanzamiento",
+      "anómalo",
+      "deseamos",
+      "heridos",
+      "pronta",
+      "recuperación",
+      "”",
+      ",",
+      "declaró",
+      "organismo",
+      "militar",
+      ",",
+      "añadiendo",
+      "“",
+      "aplicará",
+      "activamente",
+      "todas",
+      "medidas",
+      "necesarias",
+      ",",
+      "incluida",
+      "indemnización",
+      "daños",
+      "perjuicios",
+      "”",
+      "."
+    ],
+    "token_count": 132,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 16,
+      "JJ": 28,
+      "NN": 66,
+      "IN": 8,
+      "FW": 41,
+      "VBD": 2,
+      "NNS": 12,
+      "VBP": 6,
+      "CD": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 18,
+      "NN-IN": 6,
+      "IN-FW": 4,
+      "FW-NNP": 8,
+      "NNP-NNP": 3,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-FW": 5,
+      "FW-NN": 3,
+      "NN-JJ": 8,
+      "NN-NN": 39,
+      "JJ-JJ": 6,
+      "NN-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-NNS": 1,
+      "NNS-FW": 2,
+      "FW-FW": 24,
+      "FW-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "NN-FW": 4,
+      "NNS-NNS": 1,
+      "NN-NNS": 6,
+      "VBP-NNS": 1,
+      "NNP-NN": 4,
+      "NNP-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 2,
+      "NN-NNP": 2,
+      "FW-JJ": 4,
+      "JJ-IN": 1,
+      "IN-NN": 2,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-VBD": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 13,
+      "NN-NN-JJ": 7,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 5,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 16,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBP": 4,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-IN": 4,
+      "IN-FW-FW": 2,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-NN-NN": 19,
+      "NN-NN-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NNP-FW-FW": 1,
+      "FW-JJ-NN": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "VBP-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 66,
+        "FW": 41,
+        "JJ": 28,
+        "NNP": 16,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 39,
+        "FW-FW": 24,
+        "JJ-NN": 18,
+        "FW-NNP": 8,
+        "NN-JJ": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 19,
+        "FW-FW-FW": 16,
+        "JJ-NN-NN": 13,
+        "NN-NN-JJ": 7,
+        "NN-JJ-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 52,
+      "PP": 5,
+      "ADJP": 3,
+      "VP": 12
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Fuerza', 'NNP') ('Aérea', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('la', 'FW') NP PP ('del', 'FW') NP ('lanzó', 'FW') NP NP NP NP ADJP (',', ',') NP NP (',', ',') ('de', 'FW') ('los', 'FW') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('avión', 'JJ') ('caza', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Corea', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Sur', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('accidentalmente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('bomba', 'NN') ('sobre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un"
+      },
+      {
+        "label": "NP",
+        "text": "avión caza"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerza Aérea"
+      },
+      {
+        "label": "PP",
+        "text": "de Corea"
+      },
+      {
+        "label": "NP",
+        "text": "Corea"
+      },
+      {
+        "label": "NP",
+        "text": "Sur"
+      },
+      {
+        "label": "NP",
+        "text": "accidentalmente"
+      },
+      {
+        "label": "NP",
+        "text": "una bomba sobre"
+      },
+      {
+        "label": "NP",
+        "text": "una vivienda durante"
+      },
+      {
+        "label": "NP",
+        "text": "un ejercicio con fuego"
+      },
+      {
+        "label": "ADJP",
+        "text": "real"
+      },
+      {
+        "label": "NP",
+        "text": "dejando al menos"
+      },
+      {
+        "label": "NP",
+        "text": "siete civiles heridos"
+      },
+      {
+        "label": "NP",
+        "text": "cuales"
+      },
+      {
+        "label": "VP",
+        "text": "cuatro se encuentran"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP)\n  (NP avión/JJ caza/NN)\n  de/IN\n  la/FW\n  (NP Fuerza/NNP Aérea/NNP)\n  (PP de/IN (NP Corea/NNP))\n  del/FW\n  (NP Sur/NNP)\n  lanzó/FW\n  (NP accidentalmente/NN)\n  (NP una/JJ bomba/NN sobre/NN)\n  (NP una/JJ vivienda/NN durante/NN)\n  (NP un/JJ ejercicio/JJ con/NN fuego/NN)\n  (ADJP real/JJ)\n  ,/,\n  (NP dejando/JJ al/NN menos/NNS)\n  (NP siete/JJ civiles/NNS heridos/NNS)\n  ,/,\n  de/FW\n  los/FW\n  (NP cuales/NNS)\n  (VP cuatro/VBP (NP se/JJ encuentran/NN))\n  (PP en/IN (NP gravedad/NN))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP acuerdo/VBZ (NP a/DT medios/JJ locales/NNS))\n  ,/,\n  el/FW\n  proyectil/FW\n  cayó/FW\n  (NP este/NN jueves/NNS)\n  (VP en/VBP (NP una/JJ carretera/NN))\n  (VP cercana/VBZ (NP a/DT un/JJ edificio/NN residencial/NN))\n  ,/,\n  (NP causando/NN)\n  (VP daños/VBD (NP a/DT una/JJ iglesia/NN))\n  (VP y/VBZ (NP a/DT otras/JJ seis/NN edificaciones/NNS))\n  (PP en/IN (NP el/JJ área/NN))\n  ./.)",
+      "(S\n  (NP El/NNP incidente/NN ocurrió/NN)\n  en/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Pocheon/NNP)\n  ,/,\n  a/DT\n  43/CD\n  (NP kilómetros/NNS)\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  (NP capital/NN surcoreana/NN)\n  ,/,\n  (NP Seúl/NNP)\n  ./.)",
+      "(S\n  (NP Se/NNP reporta/NN que/NN)\n  ,/,\n  (NP durante/NN)\n  el/FW\n  ejercicio/FW\n  se/FW\n  lanzaron/FW\n  (ADJP ocho/JJ)\n  (PP bombas/IN (NP MK-82/NNP desde/NN el/NN avión/NN))\n  (PP\n    de/IN\n    (NP combate/NN que/NN cayeron/NN fuera/NN del/NN campo/NN))\n  de/IN\n  entrenamiento/FW\n  ./.)",
+      "(S\n  (NP Este/NNP tipo/NN)\n  de/FW\n  bomba/FW\n  se/FW\n  (NP utiliza/JJ para/NN destruir/NN edificios/NNS)\n  (VP y/VBP (NP puentes/NNS))\n  ,/,\n  y/CC\n  (NP su/JJ radio/NN)\n  de/IN\n  destrucción/FW\n  (NP es/NN)\n  ,/,\n  (NP aproximadamente/NN)\n  ,/,\n  del/FW\n  tamaño/FW\n  de/FW\n  un/FW\n  campo/FW\n  de/FW\n  (NP fútbol/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          487,
+          494
+        ],
+        "start": 487,
+        "end": 494
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1062,
+          1069
+        ],
+        "start": 1062,
+        "end": 1069
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "carretera",
+        "position": [
+          292,
+          301
+        ],
+        "start": 292,
+        "end": 301
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio residencial",
+        "position": [
+          315,
+          335
+        ],
+        "start": 315,
+        "end": 335
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pocheon",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Seúl",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerza Aérea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerza Aérea de Corea del Sur",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

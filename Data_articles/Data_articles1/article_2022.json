@@ -1,0 +1,732 @@
+{
+  "url": "https://www.telesurtv.net/cuba-recibe-migrantes-repatriados-eeuu/",
+  "title": "Cuba recibe a 118 migrantes repatriados desde EE.UU. en 2025 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Acuerdos Migratorios",
+    "Aeropuerto José Martí",
+    "Cuba",
+    "Estados Unidos",
+    "migración segura.",
+    "Migrantes Irregulares",
+    "Ministerio del Interior",
+    "Repatriación"
+  ],
+  "text": "El Ministerio del Interior de Cuba (Minint) informó que un vuelo procedente de Estados Unidos (EE.UU.) llegó a La Habana el jueves con 118 migrantes irregulares repatriados. La operación se realizó en cumplimiento de acuerdos migratorios bilaterales.\nEl Minint detalló en la red social X que los repatriados, 96 hombres y 22 mujeres, forman parte de las 27 devoluciones realizadas en 2025 desde diversos países de la región, sumando 833 personas devueltas. Esta es la séptima operación de retorno desde territorio estadounidense en el año.\nLos 118 migrantes arribaron al Aeropuerto Internacional José Martí, en La Habana, durante la tarde del jueves.\nEl Minint precisó que tres de ellos fueron trasladados a órganos de investigación por ser presuntos responsables de delitos cometidos antes de salir de Cuba.\nEl Gobierno cubano reafirmó su compromiso con una migración “regular, segura y ordenada”. La declaración oficial destacó los riesgos para la vida que implican las salidas ilegales del país.\nLas autoridades cubanas subrayaron la importancia de los acuerdos bilaterales para gestionar la migración. Estas operaciones buscan garantizar el retorno de personas que intentan migrar de manera irregular.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuba-recibe-migrantes-repatriados-eeuu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 2242,
+    "message_id": 100637,
+    "date": "2025-08-01T01:55:18+00:00",
+    "text": "teleSUR\nCuba recibe a 118 migrantes repatriados desde EE.UU. en 2025\nhttps://www.telesurtv.net/cuba-recibe-migrantes-repatriados-eeuu/",
+    "photo_path": null,
+    "views": 1636,
+    "reactions": {
+      "👍": 35,
+      "❤": 4
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio del interior de cuba (minint) informó que un vuelo procedente de estados unidos (ee.uu.) llegó a la habana el jueves con 118 migrantes irregulares repatriados. la operación se realizó en cumplimiento de acuerdos migratorios bilaterales. el minint detalló en la red social x que los repatriados, 96 hombres y 22 mujeres, forman parte de las 27 devoluciones realizadas en 2025 desde diversos países de la región, sumando 833 personas devueltas. esta es la séptima operación de retorno desde territorio estadounidense en el año. los 118 migrantes arribaron al aeropuerto internacional josé martí, en la habana, durante la tarde del jueves. el minint precisó que tres de ellos fueron trasladados a órganos de investigación por ser presuntos responsables de delitos cometidos antes de salir de cuba. el gobierno cubano reafirmó su compromiso con una migración “regular, segura y ordenada”. la declaración oficial destacó los riesgos para la vida que implican las salidas ilegales del país. las autoridades cubanas subrayaron la importancia de los acuerdos bilaterales para gestionar la migración. estas operaciones buscan garantizar el retorno de personas que intentan migrar de manera irregular.",
+    "tokens": [
+      "ministerio",
+      "interior",
+      "cuba",
+      "(",
+      "minint",
+      ")",
+      "informó",
+      "vuelo",
+      "procedente",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "llegó",
+      "habana",
+      "jueves",
+      "118",
+      "migrantes",
+      "irregulares",
+      "repatriados",
+      ".",
+      "operación",
+      "realizó",
+      "cumplimiento",
+      "acuerdos",
+      "migratorios",
+      "bilaterales",
+      ".",
+      "minint",
+      "detalló",
+      "red",
+      "social",
+      "x",
+      "repatriados",
+      ",",
+      "96",
+      "hombres",
+      "22",
+      "mujeres",
+      ",",
+      "forman",
+      "parte",
+      "27",
+      "devoluciones",
+      "realizadas",
+      "2025",
+      "diversos",
+      "países",
+      "región",
+      ",",
+      "sumando",
+      "833",
+      "personas",
+      "devueltas",
+      ".",
+      "séptima",
+      "operación",
+      "retorno",
+      "territorio",
+      "estadounidense",
+      "año",
+      ".",
+      "118",
+      "migrantes",
+      "arribaron",
+      "aeropuerto",
+      "internacional",
+      "josé",
+      "martí",
+      ",",
+      "habana",
+      ",",
+      "tarde",
+      "jueves",
+      ".",
+      "minint",
+      "precisó",
+      "tres",
+      "trasladados",
+      "órganos",
+      "investigación",
+      "ser",
+      "presuntos",
+      "responsables",
+      "delitos",
+      "cometidos",
+      "salir",
+      "cuba",
+      ".",
+      "gobierno",
+      "cubano",
+      "reafirmó",
+      "compromiso",
+      "migración",
+      "“",
+      "regular",
+      ",",
+      "segura",
+      "ordenada",
+      "”",
+      ".",
+      "declaración",
+      "oficial",
+      "destacó",
+      "riesgos",
+      "vida",
+      "implican",
+      "salidas",
+      "ilegales",
+      "país",
+      ".",
+      "autoridades",
+      "cubanas",
+      "subrayaron",
+      "importancia",
+      "acuerdos",
+      "bilaterales",
+      "gestionar",
+      "migración",
+      ".",
+      "operaciones",
+      "buscan",
+      "garantizar",
+      "retorno",
+      "personas",
+      "intentan",
+      "migrar",
+      "manera",
+      "irregular",
+      "."
+    ],
+    "token_count": 130,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "FW": 28,
+      "NN": 49,
+      "JJ": 23,
+      "IN": 11,
+      "VBZ": 5,
+      "VBP": 7,
+      "NNS": 17,
+      "CD": 7,
+      "VBD": 1,
+      "RB": 1,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 13,
+      "NNP-FW": 4,
+      "FW-NNP": 4,
+      "NNP-NN": 6,
+      "NN-NN": 22,
+      "NN-JJ": 8,
+      "JJ-NN": 12,
+      "NN-IN": 6,
+      "IN-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-CD": 1,
+      "CD-NNS": 6,
+      "NNS-NNS": 2,
+      "VBP-NNP": 1,
+      "FW-FW": 10,
+      "FW-NN": 6,
+      "NN-FW": 5,
+      "FW-NNS": 1,
+      "NNS-NNP": 2,
+      "JJ-JJ": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "NNS-CD": 1,
+      "NNS-JJ": 4,
+      "IN-FW": 9,
+      "FW-CD": 2,
+      "NNS-RB": 1,
+      "RB-IN": 1,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "NN-VBZ": 3,
+      "VBZ-IN": 3,
+      "JJ-NNP": 4,
+      "FW-JJ": 4,
+      "NNP-CD": 1,
+      "VBP-JJ": 3,
+      "NN-NNS": 1,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "JJ-NNS": 4,
+      "NNS-IN": 1,
+      "NN-NNP": 2,
+      "VBZ-JJ": 1,
+      "NNP-NNS": 2,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 6,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 2,
+      "NN-NN-NN": 6,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 2,
+      "CD-NNS-RB": 1,
+      "NNS-RB-IN": 1,
+      "RB-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 3,
+      "VBZ-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-NN": 4,
+      "FW-NN-NN": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NN-NN-FW": 3,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-VBZ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-FW-NNP": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-FW-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-JJ": 1,
+      "FW-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 49,
+        "NNP": 29,
+        "FW": 28,
+        "JJ": 23,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 22,
+        "NNP-NNP": 13,
+        "JJ-NN": 12,
+        "FW-FW": 10,
+        "IN-FW": 9
+      },
+      "top_trigrams": {
+        "NN-JJ-NN": 7,
+        "NNP-NN-NN": 6,
+        "NN-NN-JJ": 6,
+        "JJ-NN-NN": 6,
+        "NN-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 56,
+      "PP": 2,
+      "VP": 14
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('jueves', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "S -> NP ('del', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') NP NP PP ('(', '(') NP (')', ')') VP VP VP ('118', 'CD') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Interior', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Minint', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('informó', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('vuelo', 'NN') ('procedente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "NP",
+        "text": "Interior"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "Minint"
+      },
+      {
+        "label": "NP",
+        "text": "informó que"
+      },
+      {
+        "label": "NP",
+        "text": "un vuelo procedente"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "VP",
+        "text": "llegó a La Habana"
+      },
+      {
+        "label": "NP",
+        "text": "a La Habana"
+      },
+      {
+        "label": "VP",
+        "text": "el jueves"
+      },
+      {
+        "label": "NP",
+        "text": "jueves"
+      },
+      {
+        "label": "VP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "migrantes irregulares"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  del/FW\n  (NP Interior/NNP)\n  de/FW\n  (NP Cuba/NNP)\n  (/(\n  (NP Minint/NNP)\n  )/)\n  (NP informó/NN que/NN)\n  (NP un/JJ vuelo/NN procedente/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (VP llegó/VBZ (NP a/DT La/NNP Habana/NNP))\n  (VP el/VBP (NP jueves/NNS))\n  (VP con/VBP)\n  118/CD\n  (NP migrantes/NNS irregulares/NNS)\n  (VP repatriados/VBP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  operación/MD\n  (VP se/VB (NP realizó/NN))\n  en/FW\n  (NP cumplimiento/NN)\n  de/FW\n  acuerdos/FW\n  (NP migratorios/NNS bilaterales/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP Minint/NNP detalló/NN en/NN la/NN)\n  (NP red/JJ social/JJ X/NNP que/NN los/NN repatriados/NN)\n  ,/,\n  96/CD\n  (NP hombres/NNS)\n  y/RB\n  22/CD\n  (NP mujeres/NNS)\n  ,/,\n  (NP forman/JJ parte/NN)\n  de/IN\n  las/FW\n  27/CD\n  (NP devoluciones/NNS)\n  realizadas/RB\n  en/IN\n  2025/CD\n  (NP desde/NN diversos/NN)\n  (VP países/VBZ)\n  de/IN\n  la/FW\n  región/FW\n  ,/,\n  (VP sumando/VBD)\n  833/CD\n  (NP personas/NNS devueltas/NNS)\n  ./.)",
+      "(S\n  (NP Esta/NNP)\n  es/CC\n  (NP la/NNP séptima/NNP)\n  operación/FW\n  de/FW\n  retorno/FW\n  desde/FW\n  (NP territorio/NN estadounidense/NN)\n  (PP en/IN (NP el/NN año/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  118/CD\n  (NP migrantes/NNS)\n  (VP\n    arribaron/VBP\n    (NP al/JJ Aeropuerto/NNP Internacional/NNP José/NNP Martí/NNP))\n  ,/,\n  en/FW\n  (NP La/NNP Habana/NNP)\n  ,/,\n  (NP durante/NN)\n  la/FW\n  tarde/FW\n  del/FW\n  (NP jueves/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          44,
+          51
+        ],
+        "start": 44,
+        "end": 51
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          661,
+          668
+        ],
+        "start": 661,
+        "end": 668
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          325,
+          332
+        ],
+        "start": 325,
+        "end": 332
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          828,
+          836
+        ],
+        "start": 828,
+        "end": 836
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          922,
+          929
+        ],
+        "start": 922,
+        "end": 929
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          571,
+          581
+        ],
+        "start": 571,
+        "end": 581
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          30,
+          34
+        ],
+        "start": 30,
+        "end": 34
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          79,
+          93
+        ],
+        "start": 79,
+        "end": 93
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la habana",
+        "position": [
+          111,
+          120
+        ],
+        "start": 111,
+        "end": 120
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, sumando",
+        "position": [
+          417,
+          432
+        ],
+        "start": 417,
+        "end": 432
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el año",
+        "position": [
+          529,
+          538
+        ],
+        "start": 529,
+        "end": 538
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la tarde",
+        "position": [
+          622,
+          638
+        ],
+        "start": 622,
+        "end": 638
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "833 personas",
+        "position": [
+          433,
+          445
+        ],
+        "start": 433,
+        "end": 445
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobierno cubano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Minint",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio del Interior de Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aeropuerto Internacional José Martí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Minint",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio del Interior de Cuba",
+        "relacion": "INFORMAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Ministerio del Interior de Cuba",
+        "relacion": "INFORMAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Ministerio del Interior de Cuba",
+        "relacion": "INFORMAR",
+        "objeto": "La Habana"
+      },
+      {
+        "sujeto": "Minint",
+        "relacion": "INFORMAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Minint",
+        "relacion": "INFORMAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Minint",
+        "relacion": "INFORMAR",
+        "objeto": "La Habana"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "LLEGAR_INFORMAR",
+        "objeto": "La Habana"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "LLEGAR_INFORMAR",
+        "objeto": "La Habana"
+      },
+      {
+        "sujeto": "El Minint",
+        "relacion": "PRECISAR",
+        "objeto": "Cuba"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

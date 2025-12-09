@@ -1,0 +1,636 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-guatemala-derogara-normativa-que-genero-bloqueos-de-carreteras/",
+  "title": "Presidente de Guatemala derogará normativa que generó bloqueos de carreteras - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bloqueos Carreteras",
+    "Presidente Guatemala",
+    "protestas"
+  ],
+  "text": "Tras 48 horas de protestas y bloqueo de carreteras en la capital y en el interior del país, el presidente de Guatemala, Bernardo Arévalo informó este miércoles que derogará el seguro obligatorio para todos los vehículos en favor de terceros, anunciado a inicios de esta semana.\nA través de sus canales oficiales, el mandatario guatemalteco dio marcha atrás a la medida que obligaba a todos los vehículos, incluyendo motocicletas, a contratar un seguro en favor de terceros a partir del próximo 1 de mayo.\nLa normativa divulgada el lunes provocó que en las últimas 48 horas se registraran bloqueos de algunas calles en Ciudad de Guatemala, lo que llevó a la suspensión de las clases en algunos colegios y universidades, además de la cancelación de actividades comerciales.\nEl jefe de Estado indicó que se creó una mesa de diálogo el miércoles y que todas las partes se comprometieron a contribuir en una nueva ley general de transportes en el plazo de un año.\n“Mantengo la convicción de que una nueva ley general de transportes es el camino correcto que debemos transitar todos juntos por el bienestar de nuestro país”, resaltó el presidente Bernardo Arévalo.\nLa normativa, que será derogada, fue oficializada el lunes por el ministro de Gobernación (Interior), Francisco Jiménez, debido a las consecuencias de los accidentes de tránsito, principalmente por el incremento en el número de motocicletas en los últimos años.\nLos cierres de vías y carreteras comenzaron el martes 18 luego que el gobierno anunciara la obligatoriedad de adquirir un seguro para todos los vehículos destinado a cubrir los daños sufridos por terceras personas durante los accidentes de tránsito.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-guatemala-derogara-normativa-que-genero-bloqueos-de-carreteras/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 898,
+    "message_id": 89656,
+    "date": "2025-03-20T04:55:07+00:00",
+    "text": "teleSUR\nPresidente de Guatemala derogará normativa que generó bloqueos de carreteras\nhttps://www.telesurtv.net/presidente-de-guatemala-derogara-normativa-que-genero-bloqueos-de-carreteras/",
+    "photo_path": null,
+    "views": 1839,
+    "reactions": {
+      "🤔": 12,
+      "🤨": 1
+    },
+    "total_reactions": 13
+  },
+  "preprocessing": {
+    "cleaned": "tras 48 horas de protestas y bloqueo de carreteras en la capital y en el interior del país, el presidente de guatemala, bernardo arévalo informó este miércoles que derogará el seguro obligatorio para todos los vehículos en favor de terceros, anunciado a inicios de esta semana. a través de sus canales oficiales, el mandatario guatemalteco dio marcha atrás a la medida que obligaba a todos los vehículos, incluyendo motocicletas, a contratar un seguro en favor de terceros a partir del próximo 1 de mayo. la normativa divulgada el lunes provocó que en las últimas 48 horas se registraran bloqueos de algunas calles en ciudad de guatemala, lo que llevó a la suspensión de las clases en algunos colegios y universidades, además de la cancelación de actividades comerciales. el jefe de estado indicó que se creó una mesa de diálogo el miércoles y que todas las partes se comprometieron a contribuir en una nueva ley general de transportes en el plazo de un año. “mantengo la convicción de que una nueva ley general de transportes es el camino correcto que debemos transitar todos juntos por el bienestar de nuestro país”, resaltó el presidente bernardo arévalo. la normativa, que será derogada, fue oficializada el lunes por el ministro de gobernación (interior), francisco jiménez, debido a las consecuencias de los accidentes de tránsito, principalmente por el incremento en el número de motocicletas en los últimos años. los cierres de vías y carreteras comenzaron el martes 18 luego que el gobierno anunciara la obligatoriedad de adquirir un seguro para todos los vehículos destinado a cubrir los daños sufridos por terceras personas durante los accidentes de tránsito.",
+    "tokens": [
+      "tras",
+      "48",
+      "horas",
+      "protestas",
+      "bloqueo",
+      "carreteras",
+      "capital",
+      "interior",
+      "país",
+      ",",
+      "presidente",
+      "guatemala",
+      ",",
+      "bernardo",
+      "arévalo",
+      "informó",
+      "miércoles",
+      "derogará",
+      "seguro",
+      "obligatorio",
+      "vehículos",
+      "favor",
+      "terceros",
+      ",",
+      "anunciado",
+      "inicios",
+      "semana",
+      ".",
+      "través",
+      "canales",
+      "oficiales",
+      ",",
+      "mandatario",
+      "guatemalteco",
+      "dio",
+      "marcha",
+      "atrás",
+      "medida",
+      "obligaba",
+      "vehículos",
+      ",",
+      "incluyendo",
+      "motocicletas",
+      ",",
+      "contratar",
+      "seguro",
+      "favor",
+      "terceros",
+      "partir",
+      "próximo",
+      "1",
+      "mayo",
+      ".",
+      "normativa",
+      "divulgada",
+      "lunes",
+      "provocó",
+      "últimas",
+      "48",
+      "horas",
+      "registraran",
+      "bloqueos",
+      "calles",
+      "ciudad",
+      "guatemala",
+      ",",
+      "llevó",
+      "suspensión",
+      "clases",
+      "colegios",
+      "universidades",
+      ",",
+      "además",
+      "cancelación",
+      "actividades",
+      "comerciales",
+      ".",
+      "jefe",
+      "indicó",
+      "creó",
+      "mesa",
+      "diálogo",
+      "miércoles",
+      "todas",
+      "partes",
+      "comprometieron",
+      "contribuir",
+      "nueva",
+      "ley",
+      "general",
+      "transportes",
+      "plazo",
+      "año",
+      ".",
+      "“",
+      "mantengo",
+      "convicción",
+      "nueva",
+      "ley",
+      "general",
+      "transportes",
+      "camino",
+      "correcto",
+      "debemos",
+      "transitar",
+      "juntos",
+      "bienestar",
+      "país",
+      "”",
+      ",",
+      "resaltó",
+      "presidente",
+      "bernardo",
+      "arévalo",
+      ".",
+      "normativa",
+      ",",
+      "derogada",
+      ",",
+      "oficializada",
+      "lunes",
+      "ministro",
+      "gobernación",
+      "(",
+      "interior",
+      ")",
+      ",",
+      "francisco",
+      "jiménez",
+      ",",
+      "debido",
+      "consecuencias",
+      "accidentes",
+      "tránsito",
+      ",",
+      "principalmente",
+      "incremento",
+      "número",
+      "motocicletas",
+      "últimos",
+      "años",
+      ".",
+      "cierres",
+      "vías",
+      "carreteras",
+      "comenzaron",
+      "martes",
+      "18",
+      "luego",
+      "gobierno",
+      "anunciara",
+      "obligatoriedad",
+      "adquirir",
+      "seguro",
+      "vehículos",
+      "destinado",
+      "cubrir",
+      "daños",
+      "sufridos",
+      "terceras",
+      "personas",
+      "accidentes",
+      "tránsito",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "$": 1,
+      "CD": 3,
+      "FW": 77,
+      "NN": 81,
+      "JJ": 29,
+      "NNP": 19,
+      "NNS": 19,
+      "VBP": 11,
+      "IN": 12,
+      "VBZ": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "$-CD": 1,
+      "CD-FW": 1,
+      "FW-FW": 46,
+      "FW-NN": 8,
+      "NN-FW": 11,
+      "FW-JJ": 7,
+      "JJ-FW": 6,
+      "FW-NNP": 8,
+      "NNP-NNP": 8,
+      "NNP-NN": 6,
+      "NN-NN": 45,
+      "NN-NNS": 7,
+      "NNS-VBP": 10,
+      "VBP-JJ": 10,
+      "JJ-NN": 18,
+      "NN-IN": 8,
+      "IN-FW": 7,
+      "JJ-NNS": 4,
+      "NNS-IN": 3,
+      "IN-NN": 2,
+      "NNS-VBZ": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "NNP-FW": 4,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-JJ": 1,
+      "FW-NNS": 7,
+      "NNS-FW": 1,
+      "NNS-NNP": 1,
+      "NN-JJ": 5,
+      "VBP-NN": 1,
+      "IN-JJ": 3,
+      "NN-NNP": 2,
+      "NN-VBP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNS-CD": 1,
+      "CD-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "$-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-FW": 34,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 3,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-FW-NN": 4,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 29,
+      "NN-NN-FW": 4,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-IN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NN-FW": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 3,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 3,
+      "NN-JJ-FW": 2,
+      "JJ-FW-NNS": 2,
+      "FW-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 77,
+        "JJ": 29,
+        "NNP": 19,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 46,
+        "NN-NN": 45,
+        "JJ-NN": 18,
+        "NN-FW": 11,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 29,
+        "NNS-VBP-JJ": 9,
+        "JJ-NN-NN": 8,
+        "NN-NNS-VBP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 72,
+      "PP": 9,
+      "VP": 23,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0619
+      },
+      {
+        "rule": "NP -> ('Guatemala', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('favor', 'NN')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('nueva', 'NN') ('ley', 'NN')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "ADJP -> ('general', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('transportes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('tránsito', 'NN')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> ('Tras', '$') ('48', 'CD') ('horas', 'FW') ('de', 'FW') ('protestas', 'FW') ('y', 'FW') ('bloqueo', 'FW') ('de', 'FW') ('carreteras', 'FW') ('en', 'FW') ('la', 'FW') NP ('en', 'IN') ('el', 'FW') NP (',', ',') NP PP (',', ',') NP VP ('en', 'FW') NP PP (',', ',') VP ('de', 'IN') ('esta', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "capital y"
+      },
+      {
+        "label": "NP",
+        "text": "interior del país"
+      },
+      {
+        "label": "NP",
+        "text": "el presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de Guatemala"
+      },
+      {
+        "label": "NP",
+        "text": "Guatemala"
+      },
+      {
+        "label": "NP",
+        "text": "Bernardo Arévalo informó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que derogará el seguro obligatorio para todos los vehículos"
+      },
+      {
+        "label": "NP",
+        "text": "derogará el seguro obligatorio para todos los vehículos"
+      },
+      {
+        "label": "NP",
+        "text": "favor"
+      },
+      {
+        "label": "PP",
+        "text": "de terceros"
+      },
+      {
+        "label": "NP",
+        "text": "terceros"
+      },
+      {
+        "label": "VP",
+        "text": "anunciado a inicios"
+      },
+      {
+        "label": "NP",
+        "text": "a inicios"
+      },
+      {
+        "label": "NP",
+        "text": "semana"
+      },
+      {
+        "label": "NP",
+        "text": "A través"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  Tras/$\n  48/CD\n  horas/FW\n  de/FW\n  protestas/FW\n  y/FW\n  bloqueo/FW\n  de/FW\n  carreteras/FW\n  en/FW\n  la/FW\n  (NP capital/NN y/NN)\n  en/IN\n  el/FW\n  (NP interior/JJ del/NN país/NN)\n  ,/,\n  (NP el/JJ presidente/NN)\n  (PP de/IN (NP Guatemala/NNP))\n  ,/,\n  (NP Bernardo/NNP Arévalo/NNP informó/NN este/NN miércoles/NNS)\n  (VP\n    que/VBP\n    (NP\n      derogará/JJ\n      el/NN\n      seguro/NN\n      obligatorio/NN\n      para/NN\n      todos/NN\n      los/NN\n      vehículos/NN))\n  en/FW\n  (NP favor/NN)\n  (PP de/IN (NP terceros/NNS))\n  ,/,\n  (VP anunciado/VBP (NP a/DT inicios/NN))\n  de/IN\n  esta/FW\n  (NP semana/NN)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP sus/NN canales/NNS oficiales/NNS))\n  ,/,\n  (VP el/VBP (NP mandatario/NN guatemalteco/NN dio/NN marcha/NN))\n  (VP atrás/VBZ (NP a/DT la/NN medida/NN que/NN))\n  (VP obligaba/VBZ (NP a/DT todos/JJ los/NN vehículos/NN))\n  ,/,\n  (NP incluyendo/NN motocicletas/NNS)\n  ,/,\n  (NP a/DT contratar/NN)\n  (NP un/JJ seguro/NN)\n  en/FW\n  (NP favor/NN)\n  de/FW\n  terceros/FW\n  (NP a/DT partir/NN del/NN)\n  (VP próximo/VBD)\n  1/CD\n  (PP de/IN (NP mayo/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  normativa/FW\n  (NP divulgada/NN el/NN lunes/NNS)\n  (VP provocó/VBP que/JJ)\n  en/FW\n  las/FW\n  últimas/FW\n  48/CD\n  (NP horas/NNS)\n  (NP se/JJ registraran/JJ bloqueos/NN)\n  de/IN\n  algunas/FW\n  (NP calles/NNS)\n  en/FW\n  (NP Ciudad/NNP)\n  de/FW\n  (NP Guatemala/NNP)\n  ,/,\n  (NP lo/NN que/NN)\n  (VP llevó/VBZ (NP a/DT la/NN))\n  suspensión/FW\n  de/FW\n  las/FW\n  (NP clases/NNS)\n  (VP en/VBP (NP algunos/JJ colegios/NNS))\n  y/MD\n  (NP universidades/NNS)\n  ,/,\n  además/FW\n  de/FW\n  la/FW\n  cancelación/FW\n  de/FW\n  actividades/FW\n  (NP comerciales/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP jefe/NN)\n  de/FW\n  (NP Estado/NNP indicó/NN que/NN se/NN creó/NN)\n  (NP una/JJ mesa/NN)\n  de/IN\n  diálogo/FW\n  (NP el/JJ miércoles/NNS)\n  (VP y/VBP (NP que/JJ todas/NNS))\n  (VP las/VBP (NP partes/NNS))\n  (VP se/VBP)\n  (VP comprometieron/VB (NP a/DT contribuir/NN))\n  (PP en/IN (NP una/JJ nueva/NN ley/NN))\n  (ADJP general/JJ)\n  de/FW\n  (NP transportes/NNS)\n  (PP en/IN (NP el/JJ plazo/NN))\n  (PP de/IN (NP un/JJ año/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Mantengo/NNP la/NN convicción/NN)\n  de/IN\n  que/FW\n  (NP una/JJ nueva/NN ley/NN)\n  (ADJP general/JJ)\n  de/FW\n  (NP transportes/NNS)\n  (VP\n    es/VBP\n    (NP\n      el/JJ\n      camino/NN\n      correcto/NN\n      que/NN\n      debemos/NN\n      transitar/NN\n      todos/NN\n      juntos/NN\n      por/NN)\n    (NP el/JJ bienestar/NN))\n  de/FW\n  nuestro/FW\n  (NP país/NN ”/NN)\n  ,/,\n  (VP resaltó/VB)\n  el/FW\n  presidente/FW\n  (NP Bernardo/NNP Arévalo/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          57,
+          64
+        ],
+        "start": 57,
+        "end": 64
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          137,
+          144
+        ],
+        "start": 137,
+        "end": 144
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de guatemala",
+        "position": [
+          95,
+          118
+        ],
+        "start": 95,
+        "end": 118
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de gobernación",
+        "position": [
+          1225,
+          1248
+        ],
+        "start": 1225,
+        "end": 1248
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "normativa",
+        "position": [
+          508,
+          517
+        ],
+        "start": 508,
+        "end": 517
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "guatemala",
+        "position": [
+          109,
+          118
+        ],
+        "start": 109,
+        "end": 118
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado indicó",
+        "position": [
+          783,
+          796
+        ],
+        "start": 783,
+        "end": 796
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          265,
+          276
+        ],
+        "start": 265,
+        "end": 276
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          29,
+          36
+        ],
+        "start": 29,
+        "end": 36
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ciudad de Guatemala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francisco Jiménez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guatemala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bernardo Arévalo",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.6597,
+    "pos": 0.021,
+    "neu": 0.979,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

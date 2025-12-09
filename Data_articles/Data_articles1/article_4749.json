@@ -1,0 +1,796 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-felicitacion-vietnam-aniversario/",
+  "title": "Venezuela felicita a Vietnam por 50 aniversario de su liberación y reafirma alianza estratégica - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "50 aniversario",
+    "alianza",
+    "Liberación",
+    "Venezuela",
+    "Vietnam"
+  ],
+  "text": "El documento emitido por la cancillería venezolana recordó el 30 de abril de 1975, como la fecha histórica que marcó el fin de la guerra y la victoria definitiva contra el colonialismo y el imperialismo, logrando la reunificación nacional bajo el luminoso legado del camarada Ho Chi Minh.\nEl Gobierno venezolano calificó esta gesta como un “faro de inspiración para los pueblos que luchan contra la dominación extranjera”, resaltándola como una de las páginas más brillantes de la historia contemporánea escrita por la resistencia vietnamita, demostrando que ningún poder opresor puede vencer la voluntad indomable de un pueblo unido en defensa de su soberanía.\n\n\nVenezuela reiteró su admiración por Vietnam y ratificó el compromiso de profundizar los lazos de hermandad y cooperación revolucionaria entre ambas naciones. “Desde la tierra de Bolívar y Chávez, honramos este legado luminoso que guía nuestra lucha por un mundo justo”, subrayó el comunicado. Asimismo ratifica el compromiso inquebrantable de Venezuela con la profundización de los lazos de hermandad, cooperación y solidaridad revolucionaria entre nuestras naciones.\nVenezuela y Vietnam establecieron relaciones diplomáticas en 1989, pero fue en 2007, bajo el mandato del comandante Hugo Chávez (1954-2013), cuando formalizaron una asociación estratégica integral. Durante los últimos 25 años, los vínculos se han fortalecido en áreas como política, economía, cultura, educación y asuntos sociales, basados en una “visión compartida de un mundo multicéntrico y pluripolar”, según la Cancillería venezolana.\n\n\n\n\nAmbas naciones han priorizado proyectos conjuntos que promueven la integración Sur-Sur y la defensa de la soberanía nacional. Venezuela destacó su interés en seguir colaborando con Vietnam, no solo en el ámbito económico, sino también en la formación académica y el intercambio de experiencias en justicia social.\nCon esta conmemoración, Venezuela reafirma su postura de solidaridad activa con los pueblos que resisten intervenciones extranjeras, posicionándose junto a Vietnam como aliados en la construcción de un orden internacional equitativo.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-felicitacion-vietnam-aniversario/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 14,
+    "message_id": 93084,
+    "date": "2025-04-30T19:55:07+00:00",
+    "text": "teleSUR\nVenezuela felicita a Vietnam por 50 aniversario de su liberación y reafirma alianza estratégica\nhttps://www.telesurtv.net/venezuela-felicitacion-vietnam-aniversario/",
+    "photo_path": null,
+    "views": 1566,
+    "reactions": {
+      "❤": 37,
+      "🫡": 5,
+      "👍": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "el documento emitido por la cancillería venezolana recordó el 30 de abril de 1975, como la fecha histórica que marcó el fin de la guerra y la victoria definitiva contra el colonialismo y el imperialismo, logrando la reunificación nacional bajo el luminoso legado del camarada ho chi minh. el gobierno venezolano calificó esta gesta como un “faro de inspiración para los pueblos que luchan contra la dominación extranjera”, resaltándola como una de las páginas más brillantes de la historia contemporánea escrita por la resistencia vietnamita, demostrando que ningún poder opresor puede vencer la voluntad indomable de un pueblo unido en defensa de su soberanía. venezuela reiteró su admiración por vietnam y ratificó el compromiso de profundizar los lazos de hermandad y cooperación revolucionaria entre ambas naciones. “desde la tierra de bolívar y chávez, honramos este legado luminoso que guía nuestra lucha por un mundo justo”, subrayó el comunicado. asimismo ratifica el compromiso inquebrantable de venezuela con la profundización de los lazos de hermandad, cooperación y solidaridad revolucionaria entre nuestras naciones. venezuela y vietnam establecieron relaciones diplomáticas en 1989, pero fue en 2007, bajo el mandato del comandante hugo chávez (1954-2013), cuando formalizaron una asociación estratégica integral. durante los últimos 25 años, los vínculos se han fortalecido en áreas como política, economía, cultura, educación y asuntos sociales, basados en una “visión compartida de un mundo multicéntrico y pluripolar”, según la cancillería venezolana. ambas naciones han priorizado proyectos conjuntos que promueven la integración sur-sur y la defensa de la soberanía nacional. venezuela destacó su interés en seguir colaborando con vietnam, no solo en el ámbito económico, sino también en la formación académica y el intercambio de experiencias en justicia social. con esta conmemoración, venezuela reafirma su postura de solidaridad activa con los pueblos que resisten intervenciones extranjeras, posicionándose junto a vietnam como aliados en la construcción de un orden internacional equitativo.",
+    "tokens": [
+      "documento",
+      "emitido",
+      "cancillería",
+      "venezolana",
+      "recordó",
+      "30",
+      "abril",
+      "1975",
+      ",",
+      "fecha",
+      "histórica",
+      "marcó",
+      "fin",
+      "guerra",
+      "victoria",
+      "definitiva",
+      "colonialismo",
+      "imperialismo",
+      ",",
+      "logrando",
+      "reunificación",
+      "nacional",
+      "bajo",
+      "luminoso",
+      "legado",
+      "camarada",
+      "ho",
+      "chi",
+      "minh",
+      ".",
+      "gobierno",
+      "venezolano",
+      "calificó",
+      "gesta",
+      "“",
+      "faro",
+      "inspiración",
+      "pueblos",
+      "luchan",
+      "dominación",
+      "extranjera",
+      "”",
+      ",",
+      "resaltándola",
+      "páginas",
+      "brillantes",
+      "historia",
+      "contemporánea",
+      "escrita",
+      "resistencia",
+      "vietnamita",
+      ",",
+      "demostrando",
+      "ningún",
+      "poder",
+      "opresor",
+      "puede",
+      "vencer",
+      "voluntad",
+      "indomable",
+      "pueblo",
+      "unido",
+      "defensa",
+      "soberanía",
+      ".",
+      "venezuela",
+      "reiteró",
+      "admiración",
+      "vietnam",
+      "ratificó",
+      "compromiso",
+      "profundizar",
+      "lazos",
+      "hermandad",
+      "cooperación",
+      "revolucionaria",
+      "ambas",
+      "naciones",
+      ".",
+      "“",
+      "tierra",
+      "bolívar",
+      "chávez",
+      ",",
+      "honramos",
+      "legado",
+      "luminoso",
+      "guía",
+      "lucha",
+      "mundo",
+      "justo",
+      "”",
+      ",",
+      "subrayó",
+      "comunicado",
+      ".",
+      "asimismo",
+      "ratifica",
+      "compromiso",
+      "inquebrantable",
+      "venezuela",
+      "profundización",
+      "lazos",
+      "hermandad",
+      ",",
+      "cooperación",
+      "solidaridad",
+      "revolucionaria",
+      "naciones",
+      ".",
+      "venezuela",
+      "vietnam",
+      "establecieron",
+      "relaciones",
+      "diplomáticas",
+      "1989",
+      ",",
+      "2007",
+      ",",
+      "bajo",
+      "mandato",
+      "comandante",
+      "hugo",
+      "chávez",
+      "(",
+      "1954-2013",
+      ")",
+      ",",
+      "formalizaron",
+      "asociación",
+      "estratégica",
+      "integral",
+      ".",
+      "últimos",
+      "25",
+      "años",
+      ",",
+      "vínculos",
+      "fortalecido",
+      "áreas",
+      "política",
+      ",",
+      "economía",
+      ",",
+      "cultura",
+      ",",
+      "educación",
+      "asuntos",
+      "sociales",
+      ",",
+      "basados",
+      "“",
+      "visión",
+      "compartida",
+      "mundo",
+      "multicéntrico",
+      "pluripolar",
+      "”",
+      ",",
+      "según",
+      "cancillería",
+      "venezolana",
+      ".",
+      "ambas",
+      "naciones",
+      "priorizado",
+      "proyectos",
+      "conjuntos",
+      "promueven",
+      "integración",
+      "sur-sur",
+      "defensa",
+      "soberanía",
+      "nacional",
+      ".",
+      "venezuela",
+      "destacó",
+      "interés",
+      "seguir",
+      "colaborando",
+      "vietnam",
+      ",",
+      "solo",
+      "ámbito",
+      "económico",
+      ",",
+      "sino",
+      "formación",
+      "académica",
+      "intercambio",
+      "experiencias",
+      "justicia",
+      "social",
+      ".",
+      "conmemoración",
+      ",",
+      "venezuela",
+      "reafirma",
+      "postura",
+      "solidaridad",
+      "activa",
+      "pueblos",
+      "resisten",
+      "intervenciones",
+      "extranjeras",
+      ",",
+      "posicionándose",
+      "junto",
+      "vietnam",
+      "aliados",
+      "construcción",
+      "orden",
+      "internacional",
+      "equitativo",
+      "."
+    ],
+    "token_count": 215,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 127,
+      "VBD": 3,
+      "CD": 5,
+      "IN": 14,
+      "FW": 68,
+      "JJ": 30,
+      "VBP": 5,
+      "NNS": 9,
+      "VBZ": 3,
+      "CC": 1,
+      "RB": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-NN": 80,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 11,
+      "FW-FW": 42,
+      "FW-CD": 1,
+      "CD-NN": 4,
+      "NN-FW": 9,
+      "FW-NN": 13,
+      "NN-IN": 11,
+      "FW-JJ": 8,
+      "JJ-FW": 5,
+      "NN-VBP": 2,
+      "VBP-JJ": 1,
+      "JJ-NN": 14,
+      "NN-NNP": 8,
+      "NNP-NNP": 9,
+      "NN-JJ": 9,
+      "JJ-JJ": 5,
+      "FW-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-NNS": 3,
+      "NNS-IN": 1,
+      "FW-NNP": 3,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-NNS": 2,
+      "NNS-NNP": 3,
+      "NNP-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "JJ-NNS": 1,
+      "VBP-IN": 1,
+      "IN-CD": 2,
+      "NN-CC": 1,
+      "CC-NN": 1,
+      "NNP-JJ": 1,
+      "JJ-NNP": 5,
+      "NNP-CD": 1,
+      "IN-JJ": 1,
+      "NN-VBZ": 2,
+      "VBZ-RB": 1,
+      "RB-JJ": 2,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-RB": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 10,
+      "NN-NN-NN": 47,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 8,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 5,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 9,
+      "FW-FW-FW": 27,
+      "FW-FW-JJ": 6,
+      "FW-JJ-FW": 4,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 8,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 10,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 2,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 2,
+      "FW-FW-NN": 6,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "NN-NN-IN": 8,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "NN-FW-JJ": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNP": 6,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NN": 1,
+      "NN-NNP-NN": 2,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "IN-CD-NN": 2,
+      "NN-IN-CD": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 5,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-JJ": 2,
+      "FW-JJ-NN": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "NNP-NN-FW": 1,
+      "FW-JJ-NNP": 2,
+      "IN-FW-NN": 1,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 127,
+        "FW": 68,
+        "JJ": 30,
+        "NNP": 29,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 80,
+        "FW-FW": 42,
+        "JJ-NN": 14,
+        "NNP-NN": 13,
+        "FW-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 47,
+        "FW-FW-FW": 27,
+        "NNP-NN-NN": 10,
+        "JJ-NN-NN": 10,
+        "NN-IN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 13,
+      "ADJP": 11,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "ADJP -> ('los', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP VP ('30', 'CD') ('de', 'IN') ('abril', 'FW') ('de', 'FW') ('1975', 'CD') (',', ',') NP ('el', 'FW') NP ('de', 'IN') ('la', 'FW') ('guerra', 'FW') ('y', 'FW') ('la', 'FW') ('victoria', 'FW') ('definitiva', 'FW') ADJP ('el', 'FW') NP (',', ',') NP VP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('documento', 'NN') ('emitido', 'NN') ('por', 'NN') ('la', 'NN') ('cancillería', 'NN') ('venezolana', 'NN') ('recordó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('como', 'NN') ('la', 'NN') ('fecha', 'NN') ('histórica', 'NN') ('que', 'NN') ('marcó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('fin', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('colonialismo', 'NN') ('y', 'NN') ('el', 'NN') ('imperialismo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('logrando', 'JJ') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El documento emitido por la cancillería venezolana recordó"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "como la fecha histórica que marcó"
+      },
+      {
+        "label": "NP",
+        "text": "fin"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "NP",
+        "text": "colonialismo y el imperialismo"
+      },
+      {
+        "label": "NP",
+        "text": "logrando la"
+      },
+      {
+        "label": "VP",
+        "text": "reunificación nacional bajo el luminoso legado"
+      },
+      {
+        "label": "NP",
+        "text": "nacional bajo el luminoso legado"
+      },
+      {
+        "label": "NP",
+        "text": "camarada Ho Chi Minh"
+      },
+      {
+        "label": "NP",
+        "text": "El Gobierno venezolano calificó esta gesta como"
+      },
+      {
+        "label": "NP",
+        "text": "un “ faro"
+      },
+      {
+        "label": "NP",
+        "text": "pueblos que"
+      },
+      {
+        "label": "NP",
+        "text": "luchan contra la dominación extranjera ”"
+      },
+      {
+        "label": "VP",
+        "text": "resaltándola como una"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    documento/NN\n    emitido/NN\n    por/NN\n    la/NN\n    cancillería/NN\n    venezolana/NN\n    recordó/NN)\n  (VP el/VBD)\n  30/CD\n  de/IN\n  abril/FW\n  de/FW\n  1975/CD\n  ,/,\n  (NP como/NN la/NN fecha/NN histórica/NN que/NN marcó/NN)\n  el/FW\n  (NP fin/NN)\n  de/IN\n  la/FW\n  guerra/FW\n  y/FW\n  la/FW\n  victoria/FW\n  definitiva/FW\n  (ADJP contra/JJ)\n  el/FW\n  (NP colonialismo/NN y/NN el/NN imperialismo/NN)\n  ,/,\n  (NP logrando/JJ la/NN)\n  (VP\n    reunificación/VBP\n    (NP nacional/JJ bajo/NN el/NN luminoso/NN legado/NN))\n  del/FW\n  (NP camarada/NN Ho/NNP Chi/NNP Minh/NNP)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    Gobierno/NNP\n    venezolano/NN\n    calificó/NN\n    esta/NN\n    gesta/NN\n    como/NN)\n  (NP un/JJ “/NNP faro/NN)\n  de/FW\n  inspiración/FW\n  para/FW\n  los/FW\n  (NP pueblos/NN que/NN)\n  (NP luchan/JJ contra/JJ la/NN dominación/NN extranjera/NN ”/NN)\n  ,/,\n  (VP resaltándola/VB como/JJ una/JJ)\n  de/FW\n  las/FW\n  (NP páginas/NNS)\n  (VP más/VBP (NP brillantes/NNS))\n  de/IN\n  la/FW\n  historia/FW\n  (NP contemporánea/NN)\n  escrita/FW\n  (NP por/NN)\n  la/FW\n  resistencia/FW\n  (NP vietnamita/NN)\n  ,/,\n  (NP demostrando/NN que/NN)\n  (NP ningún/JJ poder/NN opresor/NN puede/NN vencer/NN la/NN)\n  voluntad/FW\n  (ADJP indomable/JJ)\n  de/FW\n  un/FW\n  pueblo/FW\n  (ADJP unido/JJ)\n  en/FW\n  defensa/FW\n  de/FW\n  su/FW\n  (NP soberanía/NN)\n  ./.)",
+      "(S\n  (NP\n    Venezuela/NNP\n    reiteró/NN\n    su/NN\n    admiración/NN\n    por/NN\n    Vietnam/NNP)\n  (VP y/VBZ (NP ratificó/JJ el/JJ compromiso/NN))\n  de/IN\n  profundizar/FW\n  (ADJP los/JJ)\n  lazos/FW\n  de/FW\n  hermandad/FW\n  y/FW\n  (NP cooperación/NN revolucionaria/NN)\n  entre/FW\n  (NP ambas/JJ naciones/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Desde/NNP la/NNP)\n  tierra/FW\n  de/FW\n  (NP Bolívar/NNP)\n  y/CC\n  (NP Chávez/NNP)\n  ,/,\n  (NP honramos/JJ este/NN legado/NN luminoso/NN que/NN guía/NN)\n  (NP nuestra/JJ lucha/NN por/NN)\n  (NP un/JJ mundo/NN justo/NN ”/NNP)\n  ,/,\n  (NP subrayó/NN el/NN comunicado/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP ratifica/NN el/NN compromiso/NN)\n  (ADJP inquebrantable/JJ)\n  de/FW\n  (NP Venezuela/NNP con/NN la/NN)\n  profundización/FW\n  de/FW\n  los/FW\n  lazos/FW\n  de/FW\n  hermandad/FW\n  ,/,\n  (VP\n    cooperación/VBP\n    (NP y/JJ solidaridad/NN revolucionaria/NN entre/NN)\n    (NP nuestras/JJ naciones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "JUSTICIA_SOCIAL",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra y la victoria definitiva contra el",
+        "position": [
+          130,
+          171
+        ],
+        "start": 130,
+        "end": 171
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación revolucionaria entre ambas naciones. “desde la tierra de bolívar y chávez, honramos",
+        "position": [
+          773,
+          868
+        ],
+        "start": 773,
+        "end": 868
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "hermandad y cooperación revolucionaria entre ambas naciones",
+        "position": [
+          761,
+          820
+        ],
+        "start": 761,
+        "end": 820
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "asociación estratégica",
+        "position": [
+          1297,
+          1319
+        ],
+        "start": 1297,
+        "end": 1319
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          637,
+          644
+        ],
+        "start": 637,
+        "end": 644
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          710,
+          718
+        ],
+        "start": 710,
+        "end": 718
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          934,
+          941
+        ],
+        "start": 934,
+        "end": 941
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          1712,
+          1719
+        ],
+        "start": 1712,
+        "end": 1719
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          664,
+          673
+        ],
+        "start": 664,
+        "end": 673
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "30 de abril de 1975",
+        "position": [
+          62,
+          81
+        ],
+        "start": 62,
+        "end": 81
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "imperialismo",
+        "position": [
+          190,
+          202
+        ],
+        "start": 190,
+        "end": 202
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          1682,
+          1700
+        ],
+        "start": 1682,
+        "end": 1700
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "justicia social",
+        "position": [
+          1873,
+          1888
+        ],
+        "start": 1873,
+        "end": 1888
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vietnam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ho Chi Minh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bolívar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno venezolano",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "REITERAR",
+        "objeto": "Vietnam"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ESTABLECER",
+        "objeto": "Hugo Chávez"
+      },
+      {
+        "sujeto": "Vietnam",
+        "relacion": "ESTABLECER",
+        "objeto": "Hugo Chávez"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DESTACAR",
+        "objeto": "Vietnam"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "REAFIRMAR",
+        "objeto": "Vietnam"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.993,
+    "neg": 0.007,
+    "label": "negative"
+  }
+}

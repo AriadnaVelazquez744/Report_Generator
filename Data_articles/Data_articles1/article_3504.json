@@ -1,0 +1,765 @@
+{
+  "url": "https://www.telesurtv.net/cuba-condena-ante-la-onu-el-genocidio-de-israel-en-la-franja-de-gaza/",
+  "title": "Cuba condena ante la ONU el genocidio de Israel en la Franja de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Cuba",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "\nEl embajador de Cuba ante la Organización de las Naciones Unidas (ONU), Rodolfo Benítez Verson, durante el 58° período de sesiones del Consejo de Derechos Humanos (CDH), demandó este miércoles el restablecimiento del alto al fuego y la llegada de la asistencia humanitaria a la Franja de Gaza.\nEl  representante cubano ante la ONU en el debate general sobre la “Situación de los derechos humanos en Palestina y otros territorios árabes ocupados” requirió “el restablecimiento inmediato del alto al fuego y la entrada de ayuda humanitaria sin restricciones a la Franja de Gaza, tras el bloqueo a esa actividad impuesto por Tel Aviv”.\nEn este sentido, solicitó al Comité implementar más acciones para poner fin al actual contexto que  continúa en medio de las violaciones de alto al fuego y que garantice, por parte de la ocupación, rendir informes a la ONU de su proceder.\n“El hermano pueblo palestino siempre podrá contar con el firme apoyo y la solidaridad de la Isla”, aseveró Rodolfo Benítez Verson.\nTambién el diplomático cubano refirió que “no es posible lograr la paz en el Medio Oriente sin una solución justa y duradera para la cuestión de Palestina y no es posible un Estado palestino soberano e independiente sin Gaza”.\nDefendió además la necesidad de prever el ingreso de Palestina como Estado miembro de las Naciones Unidas, “donde le corresponde estar”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuba-condena-ante-la-onu-el-genocidio-de-israel-en-la-franja-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 330,
+    "message_id": 90352,
+    "date": "2025-03-27T02:55:34+00:00",
+    "text": "teleSUR\nCuba condena ante la ONU el genocidio de Israel en la Franja de Gaza\nhttps://www.telesurtv.net/cuba-condena-ante-la-onu-el-genocidio-de-israel-en-la-franja-de-gaza/",
+    "photo_path": null,
+    "views": 1987,
+    "reactions": {
+      "👍": 53,
+      "❤": 7,
+      "💯": 1
+    },
+    "total_reactions": 61
+  },
+  "preprocessing": {
+    "cleaned": "el embajador de cuba ante la organización de las naciones unidas (onu), rodolfo benítez verson, durante el 58° período de sesiones del consejo de derechos humanos (cdh), demandó este miércoles el restablecimiento del alto al fuego y la llegada de la asistencia humanitaria a la franja de gaza. el representante cubano ante la onu en el debate general sobre la “situación de los derechos humanos en palestina y otros territorios árabes ocupados” requirió “el restablecimiento inmediato del alto al fuego y la entrada de ayuda humanitaria sin restricciones a la franja de gaza, tras el bloqueo a esa actividad impuesto por tel aviv”. en este sentido, solicitó al comité implementar más acciones para poner fin al actual contexto que continúa en medio de las violaciones de alto al fuego y que garantice, por parte de la ocupación, rendir informes a la onu de su proceder. “el hermano pueblo palestino siempre podrá contar con el firme apoyo y la solidaridad de la isla”, aseveró rodolfo benítez verson. también el diplomático cubano refirió que “no es posible lograr la paz en el medio oriente sin una solución justa y duradera para la cuestión de palestina y no es posible un estado palestino soberano e independiente sin gaza”. defendió además la necesidad de prever el ingreso de palestina como estado miembro de las naciones unidas, “donde le corresponde estar”.",
+    "tokens": [
+      "embajador",
+      "cuba",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      ",",
+      "rodolfo",
+      "benítez",
+      "verson",
+      ",",
+      "58°",
+      "período",
+      "sesiones",
+      "consejo",
+      "derechos",
+      "humanos",
+      "(",
+      "cdh",
+      ")",
+      ",",
+      "demandó",
+      "miércoles",
+      "restablecimiento",
+      "alto",
+      "fuego",
+      "llegada",
+      "asistencia",
+      "humanitaria",
+      "franja",
+      "gaza",
+      ".",
+      "representante",
+      "cubano",
+      "onu",
+      "debate",
+      "general",
+      "“",
+      "situación",
+      "derechos",
+      "humanos",
+      "palestina",
+      "territorios",
+      "árabes",
+      "ocupados",
+      "”",
+      "requirió",
+      "“",
+      "restablecimiento",
+      "inmediato",
+      "alto",
+      "fuego",
+      "entrada",
+      "ayuda",
+      "humanitaria",
+      "restricciones",
+      "franja",
+      "gaza",
+      ",",
+      "tras",
+      "bloqueo",
+      "actividad",
+      "impuesto",
+      "tel",
+      "aviv",
+      "”",
+      ".",
+      ",",
+      "solicitó",
+      "comité",
+      "implementar",
+      "acciones",
+      "poner",
+      "fin",
+      "actual",
+      "contexto",
+      "continúa",
+      "medio",
+      "violaciones",
+      "alto",
+      "fuego",
+      "garantice",
+      ",",
+      "parte",
+      "ocupación",
+      ",",
+      "rendir",
+      "informes",
+      "onu",
+      "proceder",
+      ".",
+      "“",
+      "hermano",
+      "pueblo",
+      "palestino",
+      "siempre",
+      "podrá",
+      "contar",
+      "firme",
+      "apoyo",
+      "solidaridad",
+      "isla",
+      "”",
+      ",",
+      "aseveró",
+      "rodolfo",
+      "benítez",
+      "verson",
+      ".",
+      "diplomático",
+      "cubano",
+      "refirió",
+      "“",
+      "posible",
+      "lograr",
+      "paz",
+      "medio",
+      "oriente",
+      "solución",
+      "justa",
+      "duradera",
+      "cuestión",
+      "palestina",
+      "posible",
+      "palestino",
+      "soberano",
+      "independiente",
+      "gaza",
+      "”",
+      ".",
+      "defendió",
+      "además",
+      "necesidad",
+      "prever",
+      "ingreso",
+      "palestina",
+      "miembro",
+      "naciones",
+      "unidas",
+      ",",
+      "“",
+      "corresponde",
+      "”",
+      "."
+    ],
+    "token_count": 146,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 43,
+      "NN": 79,
+      "FW": 49,
+      "VBD": 1,
+      "RB": 2,
+      "CD": 1,
+      "IN": 6,
+      "NNS": 7,
+      "VBP": 8,
+      "JJ": 11,
+      "MD": 1,
+      "VB": 1,
+      "PRP": 1,
+      "VBZ": 2,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-FW": 10,
+      "FW-NNP": 14,
+      "NNP-FW": 6,
+      "FW-FW": 28,
+      "NNP-NNP": 16,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "CD-NN": 1,
+      "NN-IN": 5,
+      "IN-NNS": 1,
+      "NNS-FW": 2,
+      "NN-NN": 47,
+      "NN-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 3,
+      "JJ-NN": 8,
+      "FW-NN": 4,
+      "NN-JJ": 4,
+      "NN-NNP": 7,
+      "NNP-IN": 1,
+      "IN-FW": 2,
+      "FW-JJ": 1,
+      "IN-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNP": 1,
+      "NNP-PRP": 1,
+      "PRP-VBP": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "FW-NNS": 2,
+      "VBP-NNS": 1,
+      "NNP-NNS": 1,
+      "JJ-NNP": 2,
+      "VBP-NN": 2,
+      "NN-VBP": 2,
+      "IN-NN": 2,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 2,
+      "NNP-DT": 1,
+      "JJ-JJ": 1,
+      "VBZ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 3,
+      "NN-FW-NNP": 4,
+      "FW-NNP-NN": 3,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-NNP": 2,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 28,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 18,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNP": 1,
+      "VB-NNP-PRP": 1,
+      "NNP-PRP-VBP": 1,
+      "PRP-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-FW": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-VBP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-JJ": 2,
+      "IN-NN-NNP": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 49,
+        "NNP": 43,
+        "JJ": 11,
+        "VBP": 8
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "FW-FW": 28,
+        "NNP-NNP": 16,
+        "FW-NNP": 14,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 18,
+        "NNP-NNP-NNP": 8,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 55,
+      "VP": 14,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('es', 'NN')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('la', 'FW') NP ('de', 'FW') ('las', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP VP ('58°', 'CD') NP PP ('del', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP VP ('la', 'FW') ('llegada', 'FW') ('de', 'FW') ('la', 'FW') ('asistencia', 'FW') ('humanitaria', 'FW') ('a', 'DT') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('embajador', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP') ('ante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El embajador"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba ante"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "ONU"
+      },
+      {
+        "label": "NP",
+        "text": "Rodolfo Benítez Verson"
+      },
+      {
+        "label": "NP",
+        "text": "durante"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "período"
+      },
+      {
+        "label": "PP",
+        "text": "de sesiones"
+      },
+      {
+        "label": "NP",
+        "text": "sesiones"
+      },
+      {
+        "label": "NP",
+        "text": "Consejo"
+      },
+      {
+        "label": "NP",
+        "text": "Derechos Humanos"
+      },
+      {
+        "label": "NP",
+        "text": "CDH"
+      },
+      {
+        "label": "NP",
+        "text": "demandó este miércoles"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP embajador/NN)\n  de/FW\n  (NP Cuba/NNP ante/NN)\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  ,/,\n  (NP Rodolfo/NNP Benítez/NNP Verson/NNP)\n  ,/,\n  (NP durante/NN)\n  (VP el/VBD)\n  58°/CD\n  (NP período/NN)\n  (PP de/IN (NP sesiones/NNS))\n  del/FW\n  (NP Consejo/NNP)\n  de/FW\n  (NP Derechos/NNP Humanos/NNP)\n  (/(\n  (NP CDH/NNP)\n  )/)\n  ,/,\n  (NP demandó/JJ este/NN miércoles/NNS)\n  (VP\n    el/VBP\n    (NP restablecimiento/JJ del/NN alto/NN al/NN fuego/NN y/NN))\n  la/FW\n  llegada/FW\n  de/FW\n  la/FW\n  asistencia/FW\n  humanitaria/FW\n  a/DT\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP representante/NN cubano/NN ante/NN)\n  la/FW\n  (NP ONU/NNP)\n  en/FW\n  (NP el/NN debate/NN)\n  (NP general/JJ sobre/NN la/NN “/NNP Situación/NNP)\n  de/IN\n  los/FW\n  (NP derechos/JJ humanos/NN)\n  (PP en/IN (NP Palestina/NNP y/NNP))\n  otros/MD\n  (VP territorios/VB (NP árabes/NNP) ocupados/PRP)\n  (VP\n    ”/VBP\n    (NP\n      requirió/JJ\n      “/NNP\n      el/NN\n      restablecimiento/NN\n      inmediato/NN\n      del/NN\n      alto/NN\n      al/NN\n      fuego/NN\n      y/NN))\n  la/FW\n  entrada/FW\n  de/FW\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (VP sin/VBP)\n  (VP restricciones/VBZ (NP a/DT la/NN Franja/NNP))\n  (PP de/IN (NP Gaza/NNP))\n  ,/,\n  (VP tras/VBZ el/JJ)\n  (PP bloqueo/IN (NP a/DT esa/JJ actividad/NN impuesto/NN))\n  (NP por/JJ Tel/NNP Aviv/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (NP\n    solicitó/JJ\n    al/NN\n    Comité/NNP\n    implementar/NN\n    más/NN\n    acciones/NNS)\n  (VP para/VBP (NP poner/NN fin/NN))\n  (VP al/VBP (NP actual/JJ contexto/NN que/NN continúa/NN))\n  (PP en/IN (NP medio/NN))\n  de/FW\n  las/FW\n  violaciones/FW\n  de/FW\n  alto/FW\n  al/FW\n  (NP fuego/NN y/NN que/NN garantice/NN)\n  ,/,\n  (NP por/JJ parte/NN)\n  de/IN\n  la/FW\n  ocupación/FW\n  ,/,\n  rendir/FW\n  (VP informes/VBZ (NP a/DT la/NN ONU/NNP))\n  de/IN\n  su/FW\n  (NP proceder/NN)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    El/NNP\n    hermano/NN\n    pueblo/NN\n    palestino/NN\n    siempre/NN\n    podrá/NN\n    contar/NN\n    con/NN)\n  (VP el/VBP (NP firme/JJ apoyo/NN y/NN))\n  la/FW\n  solidaridad/FW\n  de/FW\n  la/FW\n  (NP Isla/NNP ”/NNP)\n  ,/,\n  (NP aseveró/NN Rodolfo/NNP Benítez/NNP Verson/NNP)\n  ./.)",
+      "(S\n  (NP También/NNP)\n  (VP el/VBZ (NP diplomático/JJ cubano/NN refirió/NN que/NN))\n  (VP “/VBZ (NP no/DT es/NN) (NP posible/JJ lograr/NN la/NN paz/NN))\n  (PP\n    en/IN\n    (NP\n      el/NN\n      Medio/NNP\n      Oriente/NNP\n      sin/NN\n      una/NN\n      solución/NN\n      justa/NN\n      y/NN\n      duradera/NN\n      para/NN))\n  la/FW\n  cuestión/FW\n  de/FW\n  (NP Palestina/NNP)\n  y/CC\n  (NP no/DT es/NN)\n  (NP\n    posible/JJ\n    un/JJ\n    Estado/NNP\n    palestino/NN\n    soberano/NN\n    e/NN\n    independiente/NN\n    sin/NN\n    Gaza/NNP\n    ”/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "ACCIONES_LEGALES",
+      "JUSTICIA_SOCIAL",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          1231,
+          1239
+        ],
+        "start": 1231,
+        "end": 1239
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          610,
+          618
+        ],
+        "start": 610,
+        "end": 618
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          1273,
+          1280
+        ],
+        "start": 1273,
+        "end": 1280
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          821,
+          830
+        ],
+        "start": 821,
+        "end": 830
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "asistencia humanitaria",
+        "position": [
+          251,
+          273
+        ],
+        "start": 251,
+        "end": 273
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          30,
+          65
+        ],
+        "start": 30,
+        "end": 65
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "demandó",
+        "position": [
+          171,
+          178
+        ],
+        "start": 171,
+        "end": 178
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          17,
+          21
+        ],
+        "start": 17,
+        "end": 21
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          400,
+          409
+        ],
+        "start": 400,
+        "end": 409
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1068,
+          1074
+        ],
+        "start": 1068,
+        "end": 1074
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado palestino",
+        "position": [
+          1178,
+          1194
+        ],
+        "start": 1178,
+        "end": 1194
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          586,
+          593
+        ],
+        "start": 586,
+        "end": 593
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          147,
+          163
+        ],
+        "start": 147,
+        "end": 163
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Derechos Humanos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado palestino soberano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CDH",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comité",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Isla",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado miembro de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rodolfo Benítez Verson",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cuba",
+        "relacion": "DEMANDAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "DEMANDAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DEMANDAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Rodolfo Benítez Verson",
+        "relacion": "DEMANDAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Consejo de Derechos Humanos",
+        "relacion": "DEMANDAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "CDH",
+        "relacion": "DEMANDAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "REQUERIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "REQUERIR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Palestina",
+        "relacion": "REQUERIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Palestina",
+        "relacion": "REQUERIR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Comité",
+        "relacion": "SOLICITAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Rodolfo Benítez Verson",
+        "relacion": "CONTAR_ASEVERAR",
+        "objeto": "Isla"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9186,
+    "pos": 0.0,
+    "neu": 0.942,
+    "neg": 0.058,
+    "label": "negative"
+  }
+}

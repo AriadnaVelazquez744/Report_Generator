@@ -1,0 +1,827 @@
+{
+  "url": "https://www.telesurtv.net/diosdado-cabello-califica-de-fascista-y-secuestrador-a-presidente-de-el-salvador/",
+  "title": "Diosdado Cabello califica de fascista y secuestrador a presidente de El Salvador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "campo de concentración",
+    "Diosdado Cabello",
+    "El Salvador",
+    "Estados Unidos",
+    "humillaciones",
+    "ministro de Interior",
+    "Psuv",
+    "secuestro",
+    "Venezuela"
+  ],
+  "text": "Durante la emisión del programa Con el Mazo Dando 519, el ministro de Interior, Justicia y Paz de Venezuela, Diosdado Cabello Rondón, calificó como fascista y secuestrador al presidente de El Salvador, Nayib Bukele, luego de la creación de campos de concentración para migrantes en su mayoría venezolanos.\n“Quiero dedicarle la etiqueta del día de hoy quizás a la expresión hoy en día de los cachorritos imperiales personificados e individuos o en un presidente de un país como Bukele #BukuleCachorritoYLacayo”, dijo y lanzó la etiqueta para las redes sociales Cabello.\nEl también secretario general del Partido Socialista Unido de Venezuela (PSUV) comentó que hoy día, un grupo de venezolanos está siendo sometidos a malos tratos y a humillaciones allá en los Estados Unidos, así como también por parte de la oposición del país latinoamericano.\n“Venezuela no tiene nada en contra de Estados Unidos, contra el pueblo de Estados Unidos menos, contra el imperialismo sí. Ante cualquier forma de dominación, siempre estaremos alzados”, reafirmó Cabello.\nCabello desmintió la narrativa que algunos de los miembros de la oposición defendieron, tales como que el Gobierno venezolano “había incitado a los migrantes a abandonar el país para que se convirtieran en un brazo armado de la Revolución bolivariana en el extranjero”.\n“Se les está revirtiendo y se les va a revertir la narrativa”, aseguró el funcionario de la nación bolivariana.\nEl ministro de Interior, Justicia y Paz venezolano denunció la posición del presidente de El Salvador, Nayib Bukele, sobre el secuestro de los 238 migrantes que vinieron desde los Estados Unidos.\n“Bukele es un secuestrador que tiene apresado a venezolanos y por ello cobra recompensas”, comentó Cabello, quien también añadió que todas las naciones mantienen el silencio sobre esta situación.\nEl vicepresidente del PSUV recordó que, por esta actitud, el mandatario salvadoreño va a terminar “más temprano que tarde en manos de la justicia norteamericana, tal como fue el caso del expresidente de Honduras, Juan Orlando Hernández, y del exmandatario de Panamá, Manuel Antonio Noriega Moreno”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/diosdado-cabello-califica-de-fascista-y-secuestrador-a-presidente-de-el-salvador/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 906,
+    "message_id": 89648,
+    "date": "2025-03-20T01:55:23+00:00",
+    "text": "teleSUR\nDiosdado Cabello califica de fascista y secuestrador a presidente de El Salvador\nhttps://www.telesurtv.net/diosdado-cabello-califica-de-fascista-y-secuestrador-a-presidente-de-el-salvador/",
+    "photo_path": null,
+    "views": 1642,
+    "reactions": {
+      "👍": 33,
+      "👏": 6
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "durante la emisión del programa con el mazo dando 519, el ministro de interior, justicia y paz de venezuela, diosdado cabello rondón, calificó como fascista y secuestrador al presidente de el salvador, nayib bukele, luego de la creación de campos de concentración para migrantes en su mayoría venezolanos. “quiero dedicarle la etiqueta del día de hoy quizás a la expresión hoy en día de los cachorritos imperiales personificados e individuos o en un presidente de un país como bukele #bukulecachorritoylacayo”, dijo y lanzó la etiqueta para las redes sociales cabello. el también secretario general del partido socialista unido de venezuela (psuv) comentó que hoy día, un grupo de venezolanos está siendo sometidos a malos tratos y a humillaciones allá en los estados unidos, así como también por parte de la oposición del país latinoamericano. “venezuela no tiene nada en contra de estados unidos, contra el pueblo de estados unidos menos, contra el imperialismo sí. ante cualquier forma de dominación, siempre estaremos alzados”, reafirmó cabello. cabello desmintió la narrativa que algunos de los miembros de la oposición defendieron, tales como que el gobierno venezolano “había incitado a los migrantes a abandonar el país para que se convirtieran en un brazo armado de la revolución bolivariana en el extranjero”. “se les está revirtiendo y se les va a revertir la narrativa”, aseguró el funcionario de la nación bolivariana. el ministro de interior, justicia y paz venezolano denunció la posición del presidente de el salvador, nayib bukele, sobre el secuestro de los 238 migrantes que vinieron desde los estados unidos. “bukele es un secuestrador que tiene apresado a venezolanos y por ello cobra recompensas”, comentó cabello, quien también añadió que todas las naciones mantienen el silencio sobre esta situación. el vicepresidente del psuv recordó que, por esta actitud, el mandatario salvadoreño va a terminar “más temprano que tarde en manos de la justicia norteamericana, tal como fue el caso del expresidente de honduras, juan orlando hernández, y del exmandatario de panamá, manuel antonio noriega moreno”.",
+    "tokens": [
+      "emisión",
+      "programa",
+      "mazo",
+      "dando",
+      "519",
+      ",",
+      "ministro",
+      "interior",
+      ",",
+      "justicia",
+      "paz",
+      "venezuela",
+      ",",
+      "diosdado",
+      "cabello",
+      "rondón",
+      ",",
+      "calificó",
+      "fascista",
+      "secuestrador",
+      "presidente",
+      "salvador",
+      ",",
+      "nayib",
+      "bukele",
+      ",",
+      "luego",
+      "creación",
+      "campos",
+      "concentración",
+      "migrantes",
+      "mayoría",
+      "venezolanos",
+      ".",
+      "“",
+      "quiero",
+      "dedicarle",
+      "etiqueta",
+      "día",
+      "hoy",
+      "quizás",
+      "expresión",
+      "hoy",
+      "día",
+      "cachorritos",
+      "imperiales",
+      "personificados",
+      "individuos",
+      "presidente",
+      "país",
+      "bukele",
+      "#",
+      "bukulecachorritoylacayo",
+      "”",
+      ",",
+      "dijo",
+      "lanzó",
+      "etiqueta",
+      "redes",
+      "sociales",
+      "cabello",
+      ".",
+      "secretario",
+      "general",
+      "partido",
+      "socialista",
+      "unido",
+      "venezuela",
+      "(",
+      "psuv",
+      ")",
+      "comentó",
+      "hoy",
+      "día",
+      ",",
+      "grupo",
+      "venezolanos",
+      "siendo",
+      "sometidos",
+      "malos",
+      "tratos",
+      "humillaciones",
+      "allá",
+      "unidos",
+      ",",
+      "así",
+      "parte",
+      "oposición",
+      "país",
+      "latinoamericano",
+      ".",
+      "“",
+      "venezuela",
+      "unidos",
+      ",",
+      "pueblo",
+      "unidos",
+      "menos",
+      ",",
+      "imperialismo",
+      ".",
+      "cualquier",
+      "forma",
+      "dominación",
+      ",",
+      "siempre",
+      "alzados",
+      "”",
+      ",",
+      "reafirmó",
+      "cabello",
+      ".",
+      "cabello",
+      "desmintió",
+      "narrativa",
+      "miembros",
+      "oposición",
+      "defendieron",
+      ",",
+      "tales",
+      "gobierno",
+      "venezolano",
+      "“",
+      "incitado",
+      "migrantes",
+      "abandonar",
+      "país",
+      "convirtieran",
+      "brazo",
+      "armado",
+      "revolución",
+      "bolivariana",
+      "extranjero",
+      "”",
+      ".",
+      "“",
+      "revirtiendo",
+      "va",
+      "revertir",
+      "narrativa",
+      "”",
+      ",",
+      "aseguró",
+      "funcionario",
+      "nación",
+      "bolivariana",
+      ".",
+      "ministro",
+      "interior",
+      ",",
+      "justicia",
+      "paz",
+      "venezolano",
+      "denunció",
+      "posición",
+      "presidente",
+      "salvador",
+      ",",
+      "nayib",
+      "bukele",
+      ",",
+      "secuestro",
+      "238",
+      "migrantes",
+      "vinieron",
+      "unidos",
+      ".",
+      "“",
+      "bukele",
+      "secuestrador",
+      "apresado",
+      "venezolanos",
+      "ello",
+      "cobra",
+      "recompensas",
+      "”",
+      ",",
+      "comentó",
+      "cabello",
+      ",",
+      "añadió",
+      "todas",
+      "naciones",
+      "mantienen",
+      "silencio",
+      "situación",
+      ".",
+      "vicepresidente",
+      "psuv",
+      "recordó",
+      ",",
+      "actitud",
+      ",",
+      "mandatario",
+      "salvadoreño",
+      "va",
+      "terminar",
+      "“",
+      "temprano",
+      "tarde",
+      "manos",
+      "justicia",
+      "norteamericana",
+      ",",
+      "tal",
+      "caso",
+      "expresidente",
+      "honduras",
+      ",",
+      "juan",
+      "orlando",
+      "hernández",
+      ",",
+      "exmandatario",
+      "panamá",
+      ",",
+      "manuel",
+      "antonio",
+      "noriega",
+      "moreno",
+      "”",
+      "."
+    ],
+    "token_count": 222,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 63,
+      "FW": 79,
+      "CD": 2,
+      "NN": 105,
+      "IN": 15,
+      "JJ": 24,
+      "NNS": 11,
+      "VBP": 8,
+      "VBZ": 4,
+      "DT": 1,
+      "RB": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 33,
+      "NNP-FW": 8,
+      "FW-FW": 49,
+      "FW-NNP": 10,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NN-NN": 58,
+      "NN-IN": 14,
+      "IN-NNP": 4,
+      "NNP-NN": 14,
+      "NN-JJ": 4,
+      "JJ-NN": 17,
+      "FW-NN": 12,
+      "NN-NNS": 7,
+      "NNS-VBP": 7,
+      "VBP-JJ": 6,
+      "NNS-NNP": 2,
+      "NN-FW": 8,
+      "IN-FW": 8,
+      "FW-JJ": 7,
+      "JJ-NNS": 1,
+      "JJ-FW": 5,
+      "IN-JJ": 2,
+      "NN-NNP": 12,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NNP-JJ": 1,
+      "VBZ-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-NNP": 1,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 6,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 35,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 15,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 13,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 32,
+      "FW-FW-NN": 7,
+      "FW-NN-NNS": 4,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "NN-IN-FW": 8,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 5,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "JJ-NN-NNP": 3,
+      "IN-FW-FW": 4,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 3,
+      "JJ-FW-NN": 1,
+      "NN-NNP-NN": 5,
+      "NN-FW-JJ": 1,
+      "NN-NN-NNS": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "FW-FW-JJ": 1,
+      "NNP-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 105,
+        "FW": 79,
+        "NNP": 63,
+        "JJ": 24,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 49,
+        "NNP-NNP": 33,
+        "JJ-NN": 17,
+        "NN-IN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 32,
+        "NNP-NNP-NNP": 15,
+        "NNP-NN-NN": 13,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 89,
+      "PP": 8,
+      "VP": 11,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0413
+      },
+      {
+        "rule": "NP -> ('Interior', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Salvador', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('Nayib', 'NNP') ('Bukele', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "VP -> ('les', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "S -> NP ('emisión', 'FW') ('del', 'FW') ('programa', 'FW') NP ('el', 'FW') NP ('519', 'CD') (',', ',') ('el', 'FW') ('ministro', 'FW') ('de', 'FW') NP (',', ',') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP PP (',', ',') NP (',', ',') ('luego', 'FW') ('de', 'FW') ('la', 'FW') ('creación', 'FW') ('de', 'FW') ('campos', 'FW') ('de', 'FW') ('concentración', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Durante', 'NNP') ('la', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Durante la"
+      },
+      {
+        "label": "NP",
+        "text": "Con"
+      },
+      {
+        "label": "NP",
+        "text": "Mazo Dando"
+      },
+      {
+        "label": "NP",
+        "text": "Interior"
+      },
+      {
+        "label": "NP",
+        "text": "Justicia y Paz"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Diosdado Cabello Rondón"
+      },
+      {
+        "label": "NP",
+        "text": "calificó como fascista y secuestrador"
+      },
+      {
+        "label": "NP",
+        "text": "al presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de El Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "El Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "Nayib Bukele"
+      },
+      {
+        "label": "NP",
+        "text": "para migrantes"
+      },
+      {
+        "label": "VP",
+        "text": "en su mayoría venezolanos"
+      },
+      {
+        "label": "NP",
+        "text": "su mayoría venezolanos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Durante/NNP la/NNP)\n  emisión/FW\n  del/FW\n  programa/FW\n  (NP Con/NNP)\n  el/FW\n  (NP Mazo/NNP Dando/NNP)\n  519/CD\n  ,/,\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Interior/NNP)\n  ,/,\n  (NP Justicia/NNP y/NNP Paz/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Diosdado/NNP Cabello/NNP Rondón/NNP)\n  ,/,\n  (NP calificó/NN como/NN fascista/NN y/NN secuestrador/NN)\n  (NP al/JJ presidente/NN)\n  (PP de/IN (NP El/NNP Salvador/NNP))\n  ,/,\n  (NP Nayib/NNP Bukele/NNP)\n  ,/,\n  luego/FW\n  de/FW\n  la/FW\n  creación/FW\n  de/FW\n  campos/FW\n  de/FW\n  concentración/FW\n  (NP para/NN migrantes/NNS)\n  (VP en/VBP (NP su/JJ mayoría/NN venezolanos/NNS))\n  ./.)",
+      "(S\n  (NP “/NN Quiero/NNP dedicarle/NN la/NN)\n  etiqueta/FW\n  del/FW\n  día/FW\n  de/FW\n  hoy/FW\n  quizás/FW\n  (NP a/DT la/NN)\n  expresión/FW\n  (NP hoy/NN)\n  en/FW\n  (NP día/NN)\n  de/IN\n  los/FW\n  (NP cachorritos/JJ imperiales/NNS)\n  (VP personificados/VBP (NP e/JJ individuos/NN o/NN))\n  (PP en/IN (NP un/JJ presidente/NN))\n  (PP de/IN (NP un/JJ país/NN como/NN Bukele/NNP))\n  #/#\n  (NP BukuleCachorritoYLacayo/NNP ”/NNP)\n  ,/,\n  (NP dijo/NN y/NN lanzó/NN la/NN)\n  etiqueta/FW\n  (NP para/NN las/NNS)\n  (VP redes/VBZ (NP sociales/NNS Cabello/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP también/NN secretario/NN)\n  (NP general/JJ del/NN Partido/NNP Socialista/NNP Unido/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  (/(\n  (NP PSUV/NNP)\n  )/)\n  (NP comentó/NN que/NN hoy/NN día/NN)\n  ,/,\n  (NP un/JJ grupo/NN)\n  de/IN\n  venezolanos/FW\n  está/FW\n  siendo/FW\n  sometidos/FW\n  (NP a/DT malos/NN tratos/NN)\n  (VP y/VBZ (NP a/DT humillaciones/NNS))\n  allá/IN\n  en/FW\n  los/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP así/NN como/NN también/NN por/NN parte/NN)\n  de/IN\n  la/FW\n  oposición/FW\n  del/FW\n  (NP país/NN latinoamericano/NN)\n  ./.)",
+      "(S\n  (NP “/NN Venezuela/NNP)\n  (NP no/DT tiene/NN)\n  nada/RB\n  (NP en/JJ contra/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (ADJP contra/JJ)\n  el/FW\n  pueblo/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP menos/NN)\n  ,/,\n  (NP contra/JJ el/NN imperialismo/NN sí/NN)\n  ./.)",
+      "(S\n  (NP Ante/NNP)\n  (NP cualquier/JJR forma/NN)\n  (PP de/IN (NP dominación/NN))\n  ,/,\n  (NP siempre/JJ estaremos/NN alzados/NN ”/NNP)\n  ,/,\n  (NP reafirmó/NN Cabello/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de el",
+        "position": [
+          175,
+          191
+        ],
+        "start": 175,
+        "end": 191
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de interior",
+        "position": [
+          58,
+          78
+        ],
+        "start": 58,
+        "end": 78
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          1032,
+          1040
+        ],
+        "start": 1032,
+        "end": 1040
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1483,
+          1491
+        ],
+        "start": 1483,
+        "end": 1491
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          189,
+          200
+        ],
+        "start": 189,
+        "end": 200
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "panamá",
+        "position": [
+          2083,
+          2089
+        ],
+        "start": 2083,
+        "end": 2089
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          98,
+          107
+        ],
+        "start": 98,
+        "end": 107
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          760,
+          774
+        ],
+        "start": 760,
+        "end": 774
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          347,
+          350
+        ],
+        "start": 347,
+        "end": 350
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "imperialismo",
+        "position": [
+          951,
+          963
+        ],
+        "start": 951,
+        "end": 963
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "PSUV",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Manuel Antonio Noriega Moreno",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nayib Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cabello",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno venezolano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juan Orlando Hernández",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Partido Socialista Unido de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Revolución bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Diosdado Cabello Rondón",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Diosdado Cabello Rondón",
+        "relacion": "CALIFICAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Diosdado Cabello Rondón",
+        "relacion": "CALIFICAR",
+        "objeto": "Nayib Bukele"
+      },
+      {
+        "sujeto": "Partido Socialista Unido de Venezuela",
+        "relacion": "COMENTAR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "PSUV",
+        "relacion": "COMENTAR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "TENER",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Cabello",
+        "relacion": "DESMENTIR",
+        "objeto": "Gobierno venezolano"
+      },
+      {
+        "sujeto": "Cabello",
+        "relacion": "DESMENTIR",
+        "objeto": "Revolución bolivariana"
+      },
+      {
+        "sujeto": "Gobierno venezolano",
+        "relacion": "INCITAR_DEFENDER_DESMENTIR",
+        "objeto": "Revolución bolivariana"
+      },
+      {
+        "sujeto": "Bukele",
+        "relacion": "COMENTAR",
+        "objeto": "Cabello"
+      },
+      {
+        "sujeto": "PSUV",
+        "relacion": "RECORDAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "PSUV",
+        "relacion": "RECORDAR",
+        "objeto": "Juan Orlando Hernández"
+      },
+      {
+        "sujeto": "PSUV",
+        "relacion": "RECORDAR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "PSUV",
+        "relacion": "RECORDAR",
+        "objeto": "Manuel Antonio Noriega Moreno"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.993,
+    "neg": 0.007,
+    "label": "negative"
+  }
+}

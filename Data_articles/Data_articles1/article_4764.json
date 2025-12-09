@@ -1,0 +1,859 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-felicita-trinidad-y-tobago-eleccion/",
+  "title": "Venezuela felicita a Trinidad y Tobago tras elecciones generales - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Elecciones generales",
+    "Felicitaciones",
+    "Trinidad y Tobago",
+    "Venezuela",
+    "victoria"
+  ],
+  "text": "Por medio de un comunicado emitido por la cancillería de Venezuela, el Gobierno Bolivariano celebró la victoria del partido Congreso de Unidad Nacional (UNC), y extendió sus felicitaciones a la lideresa de esa organización, Kamla Persad-Bissessar, quien asumirá el cargo de Primera Ministra, deseándole pleno éxito en esta nueva etapa al frente del Gobierno.\n\n\nEn el escrito, se recordó que durante su anterior mandato, comprendido entre los años 2010-2015, Persad-Bissessar y el Gobierno de Venezuela consolidaron una relación estratégica basada en el respeto mutuo y la cooperación en áreas clave como seguridad, economía e integración regional.\n“Nuestras naciones han construido una alianza sólida, fundamentada en la hermandad caribeña y el interés común por el desarrollo de nuestros pueblos”, señaló el gobierno venezolano, al tiempo que destacó total disposición para fortalecer estos vínculos, especialmente en proyectos energéticos que beneficien a ambas naciones.\n\n\n\n\nVenezuela reitera su compromiso con la continuidad de los proyectos conjuntos, especialmente en el ámbito de la seguridad energética, por lo aseguró que mantendrá un suministro confiable de gas a Trinidad y Tobago, lo que contribuirá al crecimiento económico sostenible de ese país y de la región caribeña.\n\n\n\n\nEl comunicado destaca finalmente que “Venezuela y Trinidad y Tobago comparten lazos históricos, geográficos y culturales que nos hermanan en el corazón del Caribe”. En tal sentido, precisa que conscientes de los desafíos que enfrenta la región, “reafirmamos la voluntad de avanzar en una agenda común de cooperación que responda a las aspiraciones de nuestros pueblos y promueva la paz, el desarrollo y la soberanía de nuestras naciones”.\nA este respecto, Venezuela espera que la cooperación bilateral se profundice, con la llegada de Persad-Bissessar al poder, consolidando a ambas naciones como socios estratégicos en la región.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-felicita-trinidad-y-tobago-eleccion/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 32,
+    "message_id": 93064,
+    "date": "2025-04-30T16:55:12+00:00",
+    "text": "teleSUR\nVenezuela felicita a Trinidad y Tobago tras elecciones generales\nhttps://www.telesurtv.net/venezuela-felicita-trinidad-y-tobago-eleccion/",
+    "photo_path": null,
+    "views": 1530,
+    "reactions": {
+      "👍": 37
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "por medio de un comunicado emitido por la cancillería de venezuela, el gobierno bolivariano celebró la victoria del partido congreso de unidad nacional (unc), y extendió sus felicitaciones a la lideresa de esa organización, kamla persad-bissessar, quien asumirá el cargo de primera ministra, deseándole pleno éxito en esta nueva etapa al frente del gobierno. en el escrito, se recordó que durante su anterior mandato, comprendido entre los años 2010-2015, persad-bissessar y el gobierno de venezuela consolidaron una relación estratégica basada en el respeto mutuo y la cooperación en áreas clave como seguridad, economía e integración regional. “nuestras naciones han construido una alianza sólida, fundamentada en la hermandad caribeña y el interés común por el desarrollo de nuestros pueblos”, señaló el gobierno venezolano, al tiempo que destacó total disposición para fortalecer estos vínculos, especialmente en proyectos energéticos que beneficien a ambas naciones. venezuela reitera su compromiso con la continuidad de los proyectos conjuntos, especialmente en el ámbito de la seguridad energética, por lo aseguró que mantendrá un suministro confiable de gas a trinidad y tobago, lo que contribuirá al crecimiento económico sostenible de ese país y de la región caribeña. el comunicado destaca finalmente que “venezuela y trinidad y tobago comparten lazos históricos, geográficos y culturales que nos hermanan en el corazón del caribe”. en tal sentido, precisa que conscientes de los desafíos que enfrenta la región, “reafirmamos la voluntad de avanzar en una agenda común de cooperación que responda a las aspiraciones de nuestros pueblos y promueva la paz, el desarrollo y la soberanía de nuestras naciones”. a este respecto, venezuela espera que la cooperación bilateral se profundice, con la llegada de persad-bissessar al poder, consolidando a ambas naciones como socios estratégicos en la región.",
+    "tokens": [
+      "medio",
+      "comunicado",
+      "emitido",
+      "cancillería",
+      "venezuela",
+      ",",
+      "gobierno",
+      "bolivariano",
+      "celebró",
+      "victoria",
+      "partido",
+      "congreso",
+      "unidad",
+      "nacional",
+      "(",
+      "unc",
+      ")",
+      ",",
+      "extendió",
+      "felicitaciones",
+      "lideresa",
+      "organización",
+      ",",
+      "kamla",
+      "persad-bissessar",
+      ",",
+      "asumirá",
+      "cargo",
+      "primera",
+      "ministra",
+      ",",
+      "deseándole",
+      "pleno",
+      "éxito",
+      "nueva",
+      "etapa",
+      "frente",
+      "gobierno",
+      ".",
+      "escrito",
+      ",",
+      "recordó",
+      "anterior",
+      "mandato",
+      ",",
+      "comprendido",
+      "años",
+      "2010-2015",
+      ",",
+      "persad-bissessar",
+      "gobierno",
+      "venezuela",
+      "consolidaron",
+      "relación",
+      "estratégica",
+      "basada",
+      "respeto",
+      "mutuo",
+      "cooperación",
+      "áreas",
+      "clave",
+      "seguridad",
+      ",",
+      "economía",
+      "integración",
+      "regional",
+      ".",
+      "“",
+      "naciones",
+      "construido",
+      "alianza",
+      "sólida",
+      ",",
+      "fundamentada",
+      "hermandad",
+      "caribeña",
+      "interés",
+      "común",
+      "desarrollo",
+      "pueblos",
+      "”",
+      ",",
+      "señaló",
+      "gobierno",
+      "venezolano",
+      ",",
+      "tiempo",
+      "destacó",
+      "total",
+      "disposición",
+      "fortalecer",
+      "vínculos",
+      ",",
+      "especialmente",
+      "proyectos",
+      "energéticos",
+      "beneficien",
+      "ambas",
+      "naciones",
+      ".",
+      "venezuela",
+      "reitera",
+      "compromiso",
+      "continuidad",
+      "proyectos",
+      "conjuntos",
+      ",",
+      "especialmente",
+      "ámbito",
+      "seguridad",
+      "energética",
+      ",",
+      "aseguró",
+      "mantendrá",
+      "suministro",
+      "confiable",
+      "gas",
+      "trinidad",
+      "tobago",
+      ",",
+      "contribuirá",
+      "crecimiento",
+      "económico",
+      "sostenible",
+      "país",
+      "región",
+      "caribeña",
+      ".",
+      "comunicado",
+      "destaca",
+      "finalmente",
+      "“",
+      "venezuela",
+      "trinidad",
+      "tobago",
+      "comparten",
+      "lazos",
+      "históricos",
+      ",",
+      "geográficos",
+      "culturales",
+      "hermanan",
+      "corazón",
+      "caribe",
+      "”",
+      ".",
+      "tal",
+      ",",
+      "precisa",
+      "conscientes",
+      "desafíos",
+      "enfrenta",
+      "región",
+      ",",
+      "“",
+      "reafirmamos",
+      "voluntad",
+      "avanzar",
+      "agenda",
+      "común",
+      "cooperación",
+      "responda",
+      "aspiraciones",
+      "pueblos",
+      "promueva",
+      "paz",
+      ",",
+      "desarrollo",
+      "soberanía",
+      "naciones",
+      "”",
+      ".",
+      "respecto",
+      ",",
+      "venezuela",
+      "espera",
+      "cooperación",
+      "bilateral",
+      "profundice",
+      ",",
+      "llegada",
+      "persad-bissessar",
+      "poder",
+      ",",
+      "consolidando",
+      "ambas",
+      "naciones",
+      "socios",
+      "estratégicos",
+      "región",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "NN": 99,
+      "FW": 79,
+      "CC": 1,
+      "VBZ": 3,
+      "NNS": 9,
+      "VBP": 7,
+      "IN": 10,
+      "JJ": 26,
+      "VBN": 1,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-FW": 15,
+      "FW-FW": 51,
+      "FW-NN": 15,
+      "NN-NN": 58,
+      "FW-NNP": 7,
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "NNP-NNP": 10,
+      "NNP-FW": 4,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-FW": 1,
+      "NN-IN": 5,
+      "IN-NNP": 1,
+      "NN-NNP": 6,
+      "NN-JJ": 8,
+      "JJ-NN": 12,
+      "FW-JJ": 4,
+      "JJ-JJ": 5,
+      "JJ-NNP": 3,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "IN-NNS": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 2,
+      "IN-FW": 6,
+      "NNS-NNP": 1,
+      "FW-NNS": 2,
+      "VBP-JJ": 3,
+      "JJ-FW": 2,
+      "JJ-IN": 2,
+      "IN-NN": 1,
+      "IN-JJ": 1,
+      "NNP-VBD": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 2,
+      "VBP-IN": 1,
+      "NNP-JJ": 1,
+      "VBZ-IN": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 9,
+      "FW-FW-NN": 8,
+      "FW-NN-NN": 9,
+      "NN-NN-NN": 32,
+      "NN-NN-FW": 10,
+      "FW-FW-FW": 36,
+      "FW-FW-NNP": 4,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 9,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NN": 1,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-JJ": 2,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-JJ-IN": 2,
+      "JJ-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "FW-FW-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "VBP-JJ-NNP": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 99,
+        "FW": 79,
+        "NNP": 30,
+        "JJ": 26,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 51,
+        "NN-FW": 15,
+        "FW-NN": 15,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 36,
+        "NN-NN-NN": 32,
+        "NN-NN-FW": 10,
+        "NN-FW-FW": 9,
+        "FW-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 11,
+      "ADJP": 9,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('un', 'FW') NP ('la', 'FW') ('cancillería', 'FW') ('de', 'FW') NP (',', ',') VP ('victoria', 'FW') ('del', 'FW') ('partido', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') ADJP ('extendió', 'FW') NP VP ('a', 'DT') ADJP ('lideresa', 'FW') ('de', 'FW') ('esa', 'FW') NP (',', ',') NP (',', ',') NP ('el', 'FW') NP PP (',', ',') NP ('en', 'FW') NP ('nueva', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Por', 'NNP') ('medio', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('comunicado', 'NN') ('emitido', 'NN') ('por', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP') ('Bolivariano', 'NNP') ('celebró', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Congreso', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Unidad', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Por medio"
+      },
+      {
+        "label": "NP",
+        "text": "comunicado emitido por"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "VP",
+        "text": "el Gobierno Bolivariano celebró la"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno Bolivariano celebró la"
+      },
+      {
+        "label": "NP",
+        "text": "Congreso"
+      },
+      {
+        "label": "NP",
+        "text": "Unidad Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "UNC"
+      },
+      {
+        "label": "ADJP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "sus"
+      },
+      {
+        "label": "VP",
+        "text": "felicitaciones"
+      },
+      {
+        "label": "ADJP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "organización"
+      },
+      {
+        "label": "NP",
+        "text": "Kamla Persad-Bissessar"
+      },
+      {
+        "label": "NP",
+        "text": "quien asumirá"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Por/NNP medio/NN)\n  de/FW\n  un/FW\n  (NP comunicado/NN emitido/NN por/NN)\n  la/FW\n  cancillería/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (VP el/VBZ (NP Gobierno/NNP Bolivariano/NNP celebró/NN la/NN))\n  victoria/FW\n  del/FW\n  partido/FW\n  (NP Congreso/NNP)\n  de/FW\n  (NP Unidad/NNP Nacional/NNP)\n  (/(\n  (NP UNC/NNP)\n  )/)\n  ,/,\n  (ADJP y/JJ)\n  extendió/FW\n  (NP sus/NN)\n  (VP felicitaciones/VBZ)\n  a/DT\n  (ADJP la/JJ)\n  lideresa/FW\n  de/FW\n  esa/FW\n  (NP organización/NN)\n  ,/,\n  (NP Kamla/NNP Persad-Bissessar/NNP)\n  ,/,\n  (NP quien/NN asumirá/NN)\n  el/FW\n  (NP cargo/NN)\n  (PP de/IN (NP Primera/NNP Ministra/NNP))\n  ,/,\n  (NP deseándole/JJ pleno/NN éxito/NNP)\n  en/FW\n  (NP esta/NN)\n  nueva/FW\n  (NP etapa/NN al/NN frente/NN del/NN Gobierno/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP el/NN escrito/NN)\n  ,/,\n  se/FW\n  (NP recordó/NN que/NN durante/NN su/NN)\n  (NP anterior/JJ mandato/NN)\n  ,/,\n  (NP comprendido/NN)\n  entre/FW\n  (ADJP los/JJ)\n  (ADJP años/JJ)\n  (ADJP 2010-2015/JJ)\n  ,/,\n  (NP Persad-Bissessar/NNP y/NNP)\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Venezuela/NNP consolidaron/NN una/NN relación/NN)\n  (VP estratégica/VBP (NP basada/NN))\n  en/FW\n  el/FW\n  (NP respeto/NN mutuo/NN y/NN la/NN cooperación/NN)\n  (PP en/IN (NP áreas/NNS))\n  (VP clave/VBP (NP como/NN seguridad/NN))\n  ,/,\n  (NP economía/JJ e/NN)\n  (ADJP integración/JJ)\n  (ADJP regional/JJ)\n  ./.)",
+      "(S\n  (NP “/NN Nuestras/NNP naciones/NNS)\n  (VP han/VBD (NP construido/JJ una/JJ alianza/NN sólida/NN))\n  ,/,\n  (NP fundamentada/NN)\n  en/FW\n  la/FW\n  hermandad/FW\n  (NP caribeña/NN y/NN el/NN interés/NN común/NN por/NN)\n  el/FW\n  desarrollo/FW\n  de/FW\n  nuestros/FW\n  pueblos/FW\n  ”/FW\n  ,/,\n  señaló/FW\n  el/FW\n  (NP gobierno/NN venezolano/NN)\n  ,/,\n  (NP al/JJ tiempo/NN que/NN destacó/NN)\n  (NP\n    total/JJ\n    disposición/NN\n    para/NN\n    fortalecer/NN\n    estos/NN\n    vínculos/NN)\n  ,/,\n  especialmente/FW\n  en/FW\n  proyectos/FW\n  energéticos/FW\n  que/FW\n  beneficien/FW\n  (NP a/DT ambas/NN naciones/NNS)\n  ./.)",
+      "(S\n  (NP Venezuela/NNP reitera/NN su/NN compromiso/NN con/NN)\n  la/FW\n  continuidad/FW\n  de/FW\n  los/FW\n  (NP proyectos/NN conjuntos/NN)\n  ,/,\n  especialmente/FW\n  en/FW\n  el/FW\n  ámbito/FW\n  de/FW\n  la/FW\n  seguridad/FW\n  (NP energética/NN)\n  ,/,\n  (NP por/NN lo/NN aseguró/NN que/NN mantendrá/NN)\n  (NP un/JJ suministro/NN)\n  (ADJP confiable/JJ)\n  de/FW\n  (NP gas/NN)\n  (NP a/DT Trinidad/NNP y/NN Tobago/NNP)\n  ,/,\n  (NP lo/NN que/NN contribuirá/NN al/NN crecimiento/NN económico/NN)\n  (ADJP sostenible/JJ)\n  (PP de/IN (NP ese/JJ país/JJ y/NN))\n  de/IN\n  la/FW\n  región/FW\n  (NP caribeña/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    comunicado/NN\n    destaca/NN\n    finalmente/NN\n    que/NN\n    “/NNP\n    Venezuela/NNP\n    y/NNP\n    Trinidad/NNP\n    y/NNP\n    Tobago/NNP)\n  (VP comparten/VBD (NP lazos/JJ históricos/NN))\n  ,/,\n  (NP geográficos/NN y/NN culturales/NNS)\n  (VP que/VBP (NP nos/JJ hermanan/NN))\n  en/IN\n  el/FW\n  (NP corazón/NN del/NN Caribe/NNP ”/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "FECHAS_ESPECIFICAS",
+      "INTEGRACION_LATINOAMERICANA",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "crecimiento económico sostenible de ese país",
+        "position": [
+          1215,
+          1259
+        ],
+        "start": 1215,
+        "end": 1259
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación bilateral",
+        "position": [
+          1769,
+          1790
+        ],
+        "start": 1769,
+        "end": 1790
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "comunicado destaca finalmente que “venezuela y trinidad y tobago comparten lazos históricos, geográficos y culturales que nos hermanan en el corazón del caribe”. en tal sentido, precisa que conscientes de los desafíos que enfrenta la región, “reafirmamos la voluntad de avanzar en una agenda común",
+        "position": [
+          1292,
+          1589
+        ],
+        "start": 1292,
+        "end": 1589
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación bilateral se profundice, con la llegada de persad-bissessar al poder, consolidando a ambas naciones",
+        "position": [
+          1769,
+          1880
+        ],
+        "start": 1769,
+        "end": 1880
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          799,
+          805
+        ],
+        "start": 799,
+        "end": 805
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de venezuela consolidaron",
+        "position": [
+          480,
+          514
+        ],
+        "start": 480,
+        "end": 514
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          844,
+          851
+        ],
+        "start": 844,
+        "end": 851
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          57,
+          66
+        ],
+        "start": 57,
+        "end": 66
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1668,
+          1674
+        ],
+        "start": 1668,
+        "end": 1674
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          1445,
+          1451
+        ],
+        "start": 1445,
+        "end": 1451
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región caribeña",
+        "position": [
+          1268,
+          1283
+        ],
+        "start": 1268,
+        "end": 1283
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "años 2010",
+        "position": [
+          442,
+          451
+        ],
+        "start": 442,
+        "end": 451
+      },
+      {
+        "category": "INTEGRACION_LATINOAMERICANA",
+        "matched_text": "cooperación en áreas clave como seguridad, economía e integración regional",
+        "position": [
+          572,
+          646
+        ],
+        "start": 572,
+        "end": 646
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Trinidad y Tobago",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Persad-Bissessar",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kamla Persad-Bissessar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno Bolivariano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "partido Congreso de Unidad Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Primera Ministra",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "CELEBRAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "partido Congreso de Unidad Nacional"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "UNC"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "Kamla Persad-Bissessar"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "Primera Ministra"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "CELEBRAR",
+        "objeto": "partido Congreso de Unidad Nacional"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "CELEBRAR",
+        "objeto": "UNC"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "CELEBRAR",
+        "objeto": "Kamla Persad-Bissessar"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "CELEBRAR",
+        "objeto": "Primera Ministra"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "CELEBRAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "partido Congreso de Unidad Nacional",
+        "relacion": "CELEBRAR",
+        "objeto": "Kamla Persad-Bissessar"
+      },
+      {
+        "sujeto": "partido Congreso de Unidad Nacional",
+        "relacion": "CELEBRAR",
+        "objeto": "Primera Ministra"
+      },
+      {
+        "sujeto": "partido Congreso de Unidad Nacional",
+        "relacion": "CELEBRAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "UNC",
+        "relacion": "CELEBRAR",
+        "objeto": "Kamla Persad-Bissessar"
+      },
+      {
+        "sujeto": "UNC",
+        "relacion": "CELEBRAR",
+        "objeto": "Primera Ministra"
+      },
+      {
+        "sujeto": "UNC",
+        "relacion": "CELEBRAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Primera Ministra",
+        "relacion": "ASUMIR_EXTENDER_CELEBRAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "REITERAR",
+        "objeto": "Trinidad y Tobago"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "COMPARTIR_DESTACAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Trinidad y Tobago",
+        "relacion": "COMPARTIR_DESTACAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ESPERAR",
+        "objeto": "Persad-Bissessar"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

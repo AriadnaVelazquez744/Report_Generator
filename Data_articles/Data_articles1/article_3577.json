@@ -1,0 +1,816 @@
+{
+  "url": "https://www.telesurtv.net/presidente-maduro-ratifica-que-venezuela-no-cumple-ordenes-de-ee-uu/",
+  "title": "Presidente Maduro ratifica que Venezuela no cumple órdenes de EE.UU. - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "libertad",
+    "Nicolás Maduro",
+    "presidente",
+    "Venezuela"
+  ],
+  "text": "El presidente de Venezuela, Nicolás Maduro, ratificó este martes que su país no cumple órdenes de los Estados Unidos (EE.UU.) y aseguró que su nación es libre.\nDurante el acto de inauguración de la Casa de los Abuelos y las Abuelas de la Patria, el mandatario venezolano subrayó que los ataques constantes de la Casa Blanca contra Venezuela, son dañinos para la salud del país.\n“Allá ellos, quienes pierden son ellos. Nosotros hemos querido tener relaciones civilizadas, de respeto. Venezuela es un país libre, no somos colonia de nadie”, preció el jefe de Estado.\nAunque Maduro fue firme al decir que no cumplirá órdenes de EE.UU., aseveró que pretende mantener relaciones de respeto y cooperación con ese país.\nDe igual manera, el mandatario denunció la complicidad de los factores de poder en EE.UU. con la extrema derecha venezolana, que incidió en que muchos decidieran migrar al país del norte, lo cual propició el enriquecimiento de los llamados coyotes.\nReveló además que testimonios de muchos de los migrantes que han regresado al país con el Plan Vuelta a la Patria, dan cuenta de que solo desde Chile, Perú, Ecuador y Colombia se movilizaron unos 500.000 migrantes que fueron llevados por coyotes.\nAsimismo, denunció la grave situación a la que se enfrentan los migrantes que han sido deportados desde EE.UU. y se encuentran actualmente secuestrados en El Salvador, acusados de presuntos vínculos con el extinto Tren de Aragua, sin pruebas que los incriminen.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-maduro-ratifica-que-venezuela-no-cumple-ordenes-de-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 430,
+    "message_id": 90245,
+    "date": "2025-03-26T02:55:29+00:00",
+    "text": "teleSUR\nPresidente Maduro ratifica que Venezuela no cumple órdenes de EE.UU.\nhttps://www.telesurtv.net/presidente-maduro-ratifica-que-venezuela-no-cumple-ordenes-de-ee-uu/",
+    "photo_path": null,
+    "views": 1836,
+    "reactions": {
+      "👍": 44,
+      "👏": 7,
+      "😈": 1
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro, ratificó este martes que su país no cumple órdenes de los estados unidos (ee.uu.) y aseguró que su nación es libre. durante el acto de inauguración de la casa de los abuelos y las abuelas de la patria, el mandatario venezolano subrayó que los ataques constantes de la casa blanca contra venezuela, son dañinos para la salud del país. “allá ellos, quienes pierden son ellos. nosotros hemos querido tener relaciones civilizadas, de respeto. venezuela es un país libre, no somos colonia de nadie”, preció el jefe de estado. aunque maduro fue firme al decir que no cumplirá órdenes de ee.uu., aseveró que pretende mantener relaciones de respeto y cooperación con ese país. de igual manera, el mandatario denunció la complicidad de los factores de poder en ee.uu. con la extrema derecha venezolana, que incidió en que muchos decidieran migrar al país del norte, lo cual propició el enriquecimiento de los llamados coyotes. reveló además que testimonios de muchos de los migrantes que han regresado al país con el plan vuelta a la patria, dan cuenta de que solo desde chile, perú, ecuador y colombia se movilizaron unos 500.000 migrantes que fueron llevados por coyotes. asimismo, denunció la grave situación a la que se enfrentan los migrantes que han sido deportados desde ee.uu. y se encuentran actualmente secuestrados en el salvador, acusados de presuntos vínculos con el extinto tren de aragua, sin pruebas que los incriminen.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "ratificó",
+      "martes",
+      "país",
+      "cumple",
+      "órdenes",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "aseguró",
+      "nación",
+      "libre",
+      ".",
+      "acto",
+      "inauguración",
+      "casa",
+      "abuelos",
+      "abuelas",
+      "patria",
+      ",",
+      "mandatario",
+      "venezolano",
+      "subrayó",
+      "ataques",
+      "constantes",
+      "casa",
+      "blanca",
+      "venezuela",
+      ",",
+      "dañinos",
+      "salud",
+      "país",
+      ".",
+      "“",
+      "allá",
+      ",",
+      "pierden",
+      ".",
+      "querido",
+      "tener",
+      "relaciones",
+      "civilizadas",
+      ",",
+      "respeto",
+      ".",
+      "venezuela",
+      "país",
+      "libre",
+      ",",
+      "colonia",
+      "nadie",
+      "”",
+      ",",
+      "preció",
+      "jefe",
+      ".",
+      "aunque",
+      "maduro",
+      "firme",
+      "decir",
+      "cumplirá",
+      "órdenes",
+      "ee.uu.",
+      ",",
+      "aseveró",
+      "pretende",
+      "mantener",
+      "relaciones",
+      "respeto",
+      "cooperación",
+      "país",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "mandatario",
+      "denunció",
+      "complicidad",
+      "factores",
+      "poder",
+      "ee.uu.",
+      "extrema",
+      "derecha",
+      "venezolana",
+      ",",
+      "incidió",
+      "decidieran",
+      "migrar",
+      "país",
+      "norte",
+      ",",
+      "propició",
+      "enriquecimiento",
+      "llamados",
+      "coyotes",
+      ".",
+      "reveló",
+      "además",
+      "testimonios",
+      "migrantes",
+      "regresado",
+      "país",
+      "plan",
+      "vuelta",
+      "patria",
+      ",",
+      "dan",
+      "cuenta",
+      "solo",
+      "chile",
+      ",",
+      "perú",
+      ",",
+      "ecuador",
+      "colombia",
+      "movilizaron",
+      "500.000",
+      "migrantes",
+      "llevados",
+      "coyotes",
+      ".",
+      "asimismo",
+      ",",
+      "denunció",
+      "grave",
+      "situación",
+      "enfrentan",
+      "migrantes",
+      "sido",
+      "deportados",
+      "ee.uu.",
+      "encuentran",
+      "actualmente",
+      "secuestrados",
+      "salvador",
+      ",",
+      "acusados",
+      "presuntos",
+      "vínculos",
+      "extinto",
+      "tren",
+      "aragua",
+      ",",
+      "pruebas",
+      "incriminen",
+      "."
+    ],
+    "token_count": 152,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NN": 91,
+      "FW": 44,
+      "VBZ": 4,
+      "JJ": 19,
+      "DT": 3,
+      "NNS": 12,
+      "IN": 12,
+      "VBP": 6,
+      "VBD": 2,
+      "CD": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-FW": 6,
+      "FW-NNP": 12,
+      "NNP-NNP": 12,
+      "NN-NN": 55,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 1,
+      "JJ-NN": 13,
+      "NN-DT": 2,
+      "DT-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 3,
+      "IN-FW": 5,
+      "NN-JJ": 4,
+      "NN-NNP": 7,
+      "NNP-FW": 10,
+      "FW-FW": 22,
+      "FW-NN": 4,
+      "NN-NNS": 6,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 2,
+      "FW-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-NN": 1,
+      "VBP-IN": 1,
+      "FW-JJ": 3,
+      "VBZ-DT": 1,
+      "NN-IN": 6,
+      "IN-NNP": 4,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "DT-NN": 1,
+      "IN-NN": 3,
+      "NNP-JJ": 2,
+      "JJ-JJ": 2,
+      "NNS-NNP": 2,
+      "NNS-FW": 1,
+      "VBP-JJ": 3,
+      "VBD-NNP": 1,
+      "JJ-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-VBP": 1,
+      "NN-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 11,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-DT": 2,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 3,
+      "NN-NN-NN": 30,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "IN-NN-FW": 1,
+      "FW-NNP-NN": 3,
+      "NN-FW-NN": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "IN-FW-JJ": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-JJ": 1,
+      "NNP-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-NN": 1,
+      "IN-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 91,
+        "FW": 44,
+        "NNP": 39,
+        "JJ": 19,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 22,
+        "NNP-NN": 13,
+        "JJ-NN": 13,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 13,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 7,
+        "FW-NNP-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 15,
+      "PP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0388
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('migrantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'IN') ('los', 'FW') NP ('(', '(') NP (')', ')') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('ratificó', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') NP NP",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "ratificó este"
+      },
+      {
+        "label": "VP",
+        "text": "martes que su país no cumple órdenes"
+      },
+      {
+        "label": "NP",
+        "text": "que su país"
+      },
+      {
+        "label": "NP",
+        "text": "no cumple órdenes"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "y aseguró que su"
+      },
+      {
+        "label": "NP",
+        "text": "nación es libre"
+      },
+      {
+        "label": "NP",
+        "text": "Durante"
+      },
+      {
+        "label": "NP",
+        "text": "Casa"
+      },
+      {
+        "label": "NP",
+        "text": "Abuelos y"
+      },
+      {
+        "label": "VP",
+        "text": "las Abuelas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP ratificó/NN este/NN)\n  (VP\n    martes/VBZ\n    (NP que/JJ su/NN país/NN)\n    (NP no/DT cumple/JJ órdenes/NNS))\n  de/IN\n  los/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (NP y/NN aseguró/NN que/NN su/NN)\n  (NP nación/JJ es/NN libre/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  el/FW\n  acto/FW\n  de/FW\n  inauguración/FW\n  de/FW\n  la/FW\n  (NP Casa/NNP)\n  de/FW\n  los/FW\n  (NP Abuelos/NNP y/NNP)\n  (VP las/VBD (NP Abuelas/NNP))\n  de/IN\n  la/FW\n  (NP Patria/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP\n      mandatario/NN\n      venezolano/NN\n      subrayó/NN\n      que/NN\n      los/NN\n      ataques/NNS))\n  (VP constantes/VBZ)\n  de/IN\n  la/FW\n  (NP Casa/NNP Blanca/NNP contra/NN Venezuela/NNP)\n  ,/,\n  (NP son/NN dañinos/NNS)\n  (VP para/VBP la/JJ)\n  salud/FW\n  (NP del/NN país/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Allá/NNP ellos/NN)\n  ,/,\n  (NP quienes/NNS)\n  (VP pierden/VBP (NP son/NN ellos/NN))\n  ./.)",
+      "(S\n  (NP Nosotros/NNP)\n  hemos/PRP\n  (VP querido/VBD (NP tener/NN relaciones/NNS civilizadas/NNS))\n  ,/,\n  de/FW\n  (NP respeto/NN)\n  ./.)",
+      "(S\n  (NP Venezuela/NNP)\n  es/CC\n  (NP un/JJ país/NN libre/NN)\n  ,/,\n  (NP no/DT somos/JJ colonia/NN)\n  de/IN\n  nadie/FW\n  (NP ”/NNP)\n  ,/,\n  (NP preció/NN el/NN jefe/NN)\n  (PP de/IN (NP Estado/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció la complicidad de los factores de poder en ee.uu. con la extrema derecha venezolana, que incidió en que muchos decidieran migrar al",
+        "position": [
+          744,
+          884
+        ],
+        "start": 744,
+        "end": 884
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          810,
+          825
+        ],
+        "start": 810,
+        "end": 825
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          44,
+          52
+        ],
+        "start": 44,
+        "end": 52
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          271,
+          278
+        ],
+        "start": 271,
+        "end": 278
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          744,
+          752
+        ],
+        "start": 744,
+        "end": 752
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "chile",
+        "position": [
+          1106,
+          1111
+        ],
+        "start": 1106,
+        "end": 1111
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          102,
+          116
+        ],
+        "start": 102,
+        "end": 116
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          1113,
+          1117
+        ],
+        "start": 1113,
+        "end": 1117
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1336,
+          1347
+        ],
+        "start": 1336,
+        "end": 1347
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reveló",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chile",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abuelas de la Patria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Casa de los Abuelos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tren de Aragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plan Vuelta a la Patria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RATIFICAR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RATIFICAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "RATIFICAR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "RATIFICAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Casa de los Abuelos",
+        "relacion": "SUBRAYAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Casa de los Abuelos",
+        "relacion": "SUBRAYAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Abuelas de la Patria",
+        "relacion": "SUBRAYAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Abuelas de la Patria",
+        "relacion": "SUBRAYAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "PRECE_R",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Reveló",
+        "relacion": "REVELAR_DAR",
+        "objeto": "Plan Vuelta a la Patria"
+      },
+      {
+        "sujeto": "Reveló",
+        "relacion": "REVELAR_DAR",
+        "objeto": "Chile"
+      },
+      {
+        "sujeto": "Reveló",
+        "relacion": "REVELAR_DAR",
+        "objeto": "Perú"
+      },
+      {
+        "sujeto": "Reveló",
+        "relacion": "REVELAR_DAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Reveló",
+        "relacion": "REVELAR_DAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "REGRESAR_REVELAR_DAR",
+        "objeto": "Chile"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "REGRESAR_REVELAR_DAR",
+        "objeto": "Perú"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "REGRESAR_REVELAR_DAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "REGRESAR_REVELAR_DAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "DEPORTAR_ENFRENTAR_DENUNCIAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "DEPORTAR_ENFRENTAR_DENUNCIAR",
+        "objeto": "Tren de Aragua"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8957,
+    "pos": 0.0,
+    "neu": 0.947,
+    "neg": 0.053,
+    "label": "negative"
+  }
+}

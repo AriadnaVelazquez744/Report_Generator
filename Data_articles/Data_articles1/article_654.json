@@ -1,0 +1,920 @@
+{
+  "url": "https://www.telesurtv.net/casi-100-palestinos-asesinados-ulltimo-dia/",
+  "title": "Casi 100 palestinos asesinados por fuerzas israelíes en el último día - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Conflicto",
+    "conflicto destacado",
+    "Gaza",
+    "genocidio",
+    "Israel"
+  ],
+  "text": "En solo 24 horas, 98 palestinos han sido asesinados por el Ejército israelí en distintos puntos de la Franja de Gaza el domingo 30 de agosto, según informó el Ministerio de Salud local. Además, al menos 404 personas resultaron heridas por los ataques.\n\nDe los fallecidos, 46 fueron abatidos mientras esperaban recibir ayuda humanitaria, una escena que se repite con dolorosa frecuencia en los alrededores de los centros de distribución. En total, 2.294 personas han perdido la vida en esos puntos de asistencia, ya sea por disparos de soldados israelíes o por contratistas de seguridad de la Fundación Humanitaria para Gaza (GHF), una empresa privada con vínculos estadounidenses que ha sido duramente cuestionada por organizaciones internacionales.\nTambién nueve personas murieron de hambre en el mismo periodo. La escasez de alimentos, agua potable y medicinas es crítica, y el bloqueo israelí sigue obstaculizando la entrada de ayuda.\nDesde el inicio de la ofensiva militar de la ocupación el 7 de octubre de 2023, la cifra total de muertos palestinos asciende ya a 63.557, con más de 160.000 heridos. Solo desde el rompimiento del alto el fuego, el pasado 18 de marzo de 2025, Israel ha matado a 11.426 personas más.\n\n\nEntre el 19 de enero y el 1 de marzo del 2025, se mantuvo una tregua que permitió el intercambio de 30 rehenes israelíes vivos y los cuerpos de 8 más, a cambio de la liberación de 1.700 presos palestinos y el retiro parcial de tropas israelíes. Sin embargo, al expirar el acuerdo, Israel restringió el acceso a ayuda humanitaria, suspendió el suministro eléctrico a la planta desalinizadora de Gaza y rompió la tregua bajo el argumento de la “inflexibilidad” de Hamás.\nLa Fundación Humanitaria para Gaza, que fue designada por el gobierno de Netanyahu para distribuir la ayuda internacional, ha sido rechazada por todas las organizaciones humanitarias que operan en el terreno, acusándola de actuar bajo intereses políticos y de carecer de preparación para atender una emergencia de esta magnitud.\nMientras tanto, la población civil palestina sigue pagando el precio de una guerra injusta impuesta por la ocupación durante más de 22 meses, bajo bombardeos, bloqueos y hambre, sin una solución a la vista.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/casi-100-palestinos-asesinados-ulltimo-dia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 1072,
+    "message_id": 103471,
+    "date": "2025-09-01T16:55:18+00:00",
+    "text": "teleSUR\nCasi 100 palestinos asesinados por fuerzas israelíes en el último día\nhttps://www.telesurtv.net/casi-100-palestinos-asesinados-ulltimo-dia/",
+    "photo_path": null,
+    "views": 1151,
+    "reactions": {
+      "😭": 23,
+      "🤬": 17,
+      "❤": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "en solo 24 horas, 98 palestinos han sido asesinados por el ejército israelí en distintos puntos de la franja de gaza el domingo 30 de agosto, según informó el ministerio de salud local. además, al menos 404 personas resultaron heridas por los ataques. de los fallecidos, 46 fueron abatidos mientras esperaban recibir ayuda humanitaria, una escena que se repite con dolorosa frecuencia en los alrededores de los centros de distribución. en total, 2.294 personas han perdido la vida en esos puntos de asistencia, ya sea por disparos de soldados israelíes o por contratistas de seguridad de la fundación humanitaria para gaza (ghf), una empresa privada con vínculos estadounidenses que ha sido duramente cuestionada por organizaciones internacionales. también nueve personas murieron de hambre en el mismo periodo. la escasez de alimentos, agua potable y medicinas es crítica, y el bloqueo israelí sigue obstaculizando la entrada de ayuda. desde el inicio de la ofensiva militar de la ocupación el 7 de octubre de 2023, la cifra total de muertos palestinos asciende ya a 63.557, con más de 160.000 heridos. solo desde el rompimiento del alto el fuego, el pasado 18 de marzo de 2025, israel ha matado a 11.426 personas más. entre el 19 de enero y el 1 de marzo del 2025, se mantuvo una tregua que permitió el intercambio de 30 rehenes israelíes vivos y los cuerpos de 8 más, a cambio de la liberación de 1.700 presos palestinos y el retiro parcial de tropas israelíes. sin embargo, al expirar el acuerdo, israel restringió el acceso a ayuda humanitaria, suspendió el suministro eléctrico a la planta desalinizadora de gaza y rompió la tregua bajo el argumento de la “inflexibilidad” de hamás. la fundación humanitaria para gaza, que fue designada por el gobierno de netanyahu para distribuir la ayuda internacional, ha sido rechazada por todas las organizaciones humanitarias que operan en el terreno, acusándola de actuar bajo intereses políticos y de carecer de preparación para atender una emergencia de esta magnitud. mientras tanto, la población civil palestina sigue pagando el precio de una guerra injusta impuesta por la ocupación durante más de 22 meses, bajo bombardeos, bloqueos y hambre, sin una solución a la vista.",
+    "tokens": [
+      "solo",
+      "24",
+      "horas",
+      ",",
+      "98",
+      "palestinos",
+      "sido",
+      "asesinados",
+      "ejército",
+      "israelí",
+      "distintos",
+      "puntos",
+      "franja",
+      "gaza",
+      "domingo",
+      "30",
+      "agosto",
+      ",",
+      "según",
+      "informó",
+      "ministerio",
+      "salud",
+      "local",
+      ".",
+      "además",
+      ",",
+      "menos",
+      "404",
+      "personas",
+      "resultaron",
+      "heridas",
+      "ataques",
+      ".",
+      "fallecidos",
+      ",",
+      "46",
+      "abatidos",
+      "mientras",
+      "esperaban",
+      "recibir",
+      "ayuda",
+      "humanitaria",
+      ",",
+      "escena",
+      "repite",
+      "dolorosa",
+      "frecuencia",
+      "alrededores",
+      "centros",
+      "distribución",
+      ".",
+      "total",
+      ",",
+      "2.294",
+      "personas",
+      "perdido",
+      "vida",
+      "puntos",
+      "asistencia",
+      ",",
+      "disparos",
+      "soldados",
+      "israelíes",
+      "contratistas",
+      "seguridad",
+      "fundación",
+      "humanitaria",
+      "gaza",
+      "(",
+      "ghf",
+      ")",
+      ",",
+      "empresa",
+      "privada",
+      "vínculos",
+      "estadounidenses",
+      "sido",
+      "duramente",
+      "cuestionada",
+      "organizaciones",
+      "internacionales",
+      ".",
+      "nueve",
+      "personas",
+      "murieron",
+      "hambre",
+      "mismo",
+      "periodo",
+      ".",
+      "escasez",
+      "alimentos",
+      ",",
+      "agua",
+      "potable",
+      "medicinas",
+      "crítica",
+      ",",
+      "bloqueo",
+      "israelí",
+      "sigue",
+      "obstaculizando",
+      "entrada",
+      "ayuda",
+      ".",
+      "inicio",
+      "ofensiva",
+      "militar",
+      "ocupación",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "cifra",
+      "total",
+      "muertos",
+      "palestinos",
+      "asciende",
+      "63.557",
+      ",",
+      "160.000",
+      "heridos",
+      ".",
+      "solo",
+      "rompimiento",
+      "alto",
+      "fuego",
+      ",",
+      "pasado",
+      "18",
+      "marzo",
+      "2025",
+      ",",
+      "israel",
+      "matado",
+      "11.426",
+      "personas",
+      ".",
+      "19",
+      "enero",
+      "1",
+      "marzo",
+      "2025",
+      ",",
+      "mantuvo",
+      "tregua",
+      "permitió",
+      "intercambio",
+      "30",
+      "rehenes",
+      "israelíes",
+      "vivos",
+      "cuerpos",
+      "8",
+      ",",
+      "cambio",
+      "liberación",
+      "1.700",
+      "presos",
+      "palestinos",
+      "retiro",
+      "parcial",
+      "tropas",
+      "israelíes",
+      ".",
+      "embargo",
+      ",",
+      "expirar",
+      "acuerdo",
+      ",",
+      "israel",
+      "restringió",
+      "acceso",
+      "ayuda",
+      "humanitaria",
+      ",",
+      "suspendió",
+      "suministro",
+      "eléctrico",
+      "planta",
+      "desalinizadora",
+      "gaza",
+      "rompió",
+      "tregua",
+      "bajo",
+      "argumento",
+      "“",
+      "inflexibilidad",
+      "”",
+      "hamás",
+      ".",
+      "fundación",
+      "humanitaria",
+      "gaza",
+      ",",
+      "designada",
+      "gobierno",
+      "netanyahu",
+      "distribuir",
+      "ayuda",
+      "internacional",
+      ",",
+      "sido",
+      "rechazada",
+      "todas",
+      "organizaciones",
+      "humanitarias",
+      "operan",
+      "terreno",
+      ",",
+      "acusándola",
+      "actuar",
+      "bajo",
+      "intereses",
+      "políticos",
+      "carecer",
+      "preparación",
+      "atender",
+      "emergencia",
+      "magnitud",
+      ".",
+      "mientras",
+      ",",
+      "población",
+      "civil",
+      "palestina",
+      "sigue",
+      "pagando",
+      "precio",
+      "guerra",
+      "injusta",
+      "impuesta",
+      "ocupación",
+      "22",
+      "meses",
+      ",",
+      "bajo",
+      "bombardeos",
+      ",",
+      "bloqueos",
+      "hambre",
+      ",",
+      "solución",
+      "vista",
+      "."
+    ],
+    "token_count": 244,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "VBD": 3,
+      "CD": 17,
+      "NNS": 17,
+      "JJ": 37,
+      "NN": 115,
+      "FW": 92,
+      "IN": 21,
+      "CC": 1,
+      "VBP": 10,
+      "VBZ": 2,
+      "PRP": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 8,
+      "NNS-CD": 1,
+      "NNS-JJ": 5,
+      "JJ-JJ": 4,
+      "JJ-NN": 23,
+      "NN-NN": 68,
+      "NN-NNP": 6,
+      "NNP-NN": 10,
+      "NN-FW": 11,
+      "FW-NN": 10,
+      "NN-IN": 14,
+      "IN-FW": 14,
+      "FW-NNP": 10,
+      "NNP-FW": 4,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-CD": 4,
+      "CD-IN": 2,
+      "FW-JJ": 7,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NNP-JJ": 3,
+      "JJ-NNP": 1,
+      "NN-VBD": 1,
+      "NNS-VBP": 5,
+      "VBP-JJ": 8,
+      "NN-NNS": 6,
+      "NNS-NNP": 3,
+      "CD-NN": 4,
+      "NN-JJ": 5,
+      "IN-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "FW-FW": 60,
+      "JJ-VBP": 2,
+      "VBP-FW": 1,
+      "NNP-NNP": 5,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNS-NNS": 1,
+      "NNP-VBP": 1,
+      "FW-CD": 3,
+      "FW-VBP": 1,
+      "VBP-PRP": 1,
+      "PRP-CD": 1,
+      "CD-JJ": 1,
+      "IN-CD": 3,
+      "NN-VBP": 1,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "CD-NNP": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "NNP-VBZ": 1,
+      "VBZ-CD": 1,
+      "NN-CD": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 5,
+      "NNS-JJ-JJ": 3,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 15,
+      "NN-NN-NN": 39,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 9,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 5,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 6,
+      "NN-NN-NNS": 4,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NNS-VBP": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 5,
+      "NN-NN-FW": 9,
+      "NN-FW-JJ": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 8,
+      "FW-FW-FW": 41,
+      "FW-FW-NNP": 8,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "NNS-JJ-VBP": 2,
+      "JJ-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-NN-IN": 7,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-FW-FW": 6,
+      "FW-FW-CD": 3,
+      "FW-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-PRP": 1,
+      "VBP-PRP-CD": 1,
+      "PRP-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-VBD": 1,
+      "NNP-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "FW-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-CD-NNS": 2,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-NN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NNP-NNP": 2,
+      "IN-JJ-NN": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 115,
+        "FW": 92,
+        "JJ": 37,
+        "NNP": 29,
+        "IN": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 68,
+        "FW-FW": 60,
+        "JJ-NN": 23,
+        "NN-IN": 14,
+        "IN-FW": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 41,
+        "NN-NN-NN": 39,
+        "JJ-NN-NN": 15,
+        "NN-IN-FW": 9,
+        "NN-NN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 81,
+      "VP": 20,
+      "ADJP": 9,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "ADJP -> ('una', 'JJ')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP VP ('24', 'CD') NP (',', ',') ('98', 'CD') NP NP ('en', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('el', 'CC') ADJP ('30', 'CD') ('de', 'FW') ('agosto', 'FW') (',', ',') ('según', 'FW') ADJP ('el', 'FW') NP ('de', 'FW') NP ADJP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "VP -> ('solo', 'VBD')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('horas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('han', 'JJ') ('sido', 'JJ') ('asesinados', 'NN') ('por', 'NN') ('el', 'NN') ('Ejército', 'NNP') ('israelí', 'NN')",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "VP",
+        "text": "solo"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "han sido asesinados por el Ejército israelí"
+      },
+      {
+        "label": "NP",
+        "text": "distintos puntos"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "ADJP",
+        "text": "domingo"
+      },
+      {
+        "label": "ADJP",
+        "text": "informó"
+      },
+      {
+        "label": "NP",
+        "text": "Ministerio"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "ADJP",
+        "text": "local"
+      },
+      {
+        "label": "NP",
+        "text": "Además"
+      },
+      {
+        "label": "VP",
+        "text": "al menos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (VP solo/VBD)\n  24/CD\n  (NP horas/NNS)\n  ,/,\n  98/CD\n  (NP palestinos/NNS)\n  (NP\n    han/JJ\n    sido/JJ\n    asesinados/NN\n    por/NN\n    el/NN\n    Ejército/NNP\n    israelí/NN)\n  en/FW\n  (NP distintos/NN puntos/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  el/CC\n  (ADJP domingo/JJ)\n  30/CD\n  de/FW\n  agosto/FW\n  ,/,\n  según/FW\n  (ADJP informó/JJ)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  (ADJP local/JJ)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP al/VBD menos/JJ)\n  404/CD\n  (NP personas/NNS)\n  (VP resultaron/VBP (NP heridas/JJ por/NN los/NN ataques/NNS))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  los/FW\n  (NP fallecidos/NN)\n  ,/,\n  46/CD\n  (NP fueron/NN abatidos/NN mientras/NNS)\n  (VP esperaban/VBP (NP recibir/JJ ayuda/NN humanitaria/NN))\n  ,/,\n  (NP una/JJ escena/NN que/NN)\n  se/FW\n  (NP repite/JJ con/NN dolorosa/NN frecuencia/NN)\n  (PP en/IN (NP los/JJ alrededores/NNS))\n  de/IN\n  los/FW\n  centros/FW\n  de/FW\n  distribución/FW\n  ./.)",
+      "(S\n  (NP En/NNP total/NN)\n  ,/,\n  2.294/CD\n  (NP personas/NNS)\n  (ADJP han/JJ)\n  (VP perdido/VBP)\n  la/FW\n  vida/FW\n  en/FW\n  esos/FW\n  puntos/FW\n  de/FW\n  asistencia/FW\n  ,/,\n  ya/PRP\n  (VP sea/VBP (NP por/JJ disparos/NN))\n  de/IN\n  soldados/FW\n  (NP israelíes/JJ o/NN por/NN contratistas/NN)\n  de/IN\n  seguridad/FW\n  de/FW\n  la/FW\n  (NP Fundación/NNP Humanitaria/NNP para/NN Gaza/NNP)\n  (/(\n  (NP GHF/NNP)\n  )/)\n  ,/,\n  (ADJP una/JJ)\n  empresa/FW\n  (NP privada/JJ con/NN vínculos/NN)\n  (VP\n    estadounidenses/VBZ\n    (NP\n      que/JJ\n      ha/NN\n      sido/NN\n      duramente/NN\n      cuestionada/NN\n      por/NN\n      organizaciones/NNS\n      internacionales/NNS))\n  ./.)",
+      "(S\n  (NP También/NNP)\n  (VP nueve/VBP (NP personas/JJ murieron/NN))\n  de/IN\n  hambre/FW\n  en/FW\n  el/FW\n  mismo/FW\n  (NP periodo/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "FECHAS_HORAS",
+      "ORGANIZACIONES_SOCIALES",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva militar",
+        "position": [
+          960,
+          976
+        ],
+        "start": 960,
+        "end": 976
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          983,
+          992
+        ],
+        "start": 983,
+        "end": 992
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          148,
+          155
+        ],
+        "start": 148,
+        "end": 155
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          318,
+          335
+        ],
+        "start": 318,
+        "end": 335
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambre en el mismo periodo. la escasez de alimentos",
+        "position": [
+          785,
+          836
+        ],
+        "start": 785,
+        "end": 836
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de netanyahu para",
+        "position": [
+          1753,
+          1779
+        ],
+        "start": 1753,
+        "end": 1779
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "fundación",
+        "position": [
+          592,
+          601
+        ],
+        "start": 592,
+        "end": 601
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          838,
+          842
+        ],
+        "start": 838,
+        "end": 842
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          838,
+          850
+        ],
+        "start": 838,
+        "end": 850
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          68,
+          75
+        ],
+        "start": 68,
+        "end": 75
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          996,
+          1016
+        ],
+        "start": 996,
+        "end": 1016
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 30 de agosto",
+        "position": [
+          120,
+          140
+        ],
+        "start": 120,
+        "end": 140
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          880,
+          887
+        ],
+        "start": 880,
+        "end": 887
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "404 personas",
+        "position": [
+          203,
+          215
+        ],
+        "start": 203,
+        "end": 215
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2.294 personas",
+        "position": [
+          447,
+          461
+        ],
+        "start": 447,
+        "end": 461
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 160.000",
+        "position": [
+          1081,
+          1095
+        ],
+        "start": 1081,
+        "end": 1095
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 22",
+        "position": [
+          2146,
+          2155
+        ],
+        "start": 2146,
+        "end": 2155
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "11.426 personas",
+        "position": [
+          1200,
+          1215
+        ],
+        "start": 1200,
+        "end": 1215
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "18 de marzo de 2025",
+        "position": [
+          1160,
+          1179
+        ],
+        "start": 1160,
+        "end": 1179
+      }
+    ],
+    "match_count": 19
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "GHF",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fundación Humanitaria para Gaza",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "ASESINAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "RESTRINGIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "RESTRINGIR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "SUSPENDER_RESTRINGIR",
+        "objeto": "Hamás"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.02,
+    "neu": 0.959,
+    "neg": 0.02,
+    "label": "negative"
+  }
+}

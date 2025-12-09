@@ -1,0 +1,689 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-alerta-desmantela-base-terroristas/",
+  "title": "Venezuela en alerta: Desmantelan base logística de grupos terroristas en el oriente del país - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "explosivos",
+    "Grupos terroristas",
+    "María Corina Machado",
+    "narcobandas",
+    "Oposición extremista",
+    "Venezuela"
+  ],
+  "text": "El ministro del Interior, Justicia y Paz de Venezuela, Diosdado Cabello, denunció este sábado nuevos detalles de operaciones terroristas para generar desestabilización.\nSe refirió al intento de la oposición extremista, aliada con bandas criminales, de detonar una bomba en la Plaza Venezuela, frustrado por la acción coordinada y la investigación profunda de las autoridades.\nRefirió que investigaron la denuncia de material extraño en galpones de la ciudad de Maturín. Lo que hemos hallado aquí es alarmante, por el altísimo poder destructivo de los materiales encontrados, explicó Cabello, quien precisó que hasta el momento se han hallado 1.137 cajas de cargas huecas —como las utilizadas para atacar un blindado de combate—, para un total de 54.000 cargas y también 57.000 metros de cable detonante. Explicó que el poder explosivo de todo este material abarca varios centenares de metros y podría detonarse a través de teléfonos celulares.\nNada de esto es casual. Todo está concebido para hacer daño al pueblo de Venezuela, enfatizó Cabello.\n\n\nTambién se halló gran cantidad de cordón detonante, cargas explosivas secundarias, detonadores eléctricos como los que iban a usar en Plaza Venezuela, puntas de carga hueca, detonadores no eléctricos y teléfonos celulares que fueron decomisados a los detenidos, además de combustible de distinto tipo.\nHay 8 detenidos, mientras se busca a otrs 12 personas. Se trata de sectores muy ligados a la extrema derecha violenta, asociados a María Corina Machado.\nQuiero alertar al pueblo de Venezuela por lo peligroso, por lo nocivo que este material puede ser para el pueblo de Venezuela. Sabemos que tienen vinculación directa con la oposición extremista, con María Corina Machado.\nVamos a continuar atacando a todos estos grupos que quieren cometer actos violentos en nuestro país.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-alerta-desmantela-base-terroristas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1639,
+    "message_id": 101349,
+    "date": "2025-08-09T16:55:18+00:00",
+    "text": "teleSUR\nVenezuela en alerta: Desmantelan base logística de grupos terroristas en el oriente del país\nhttps://www.telesurtv.net/venezuela-alerta-desmantela-base-terroristas/",
+    "photo_path": null,
+    "views": 1605,
+    "reactions": {
+      "👍": 48,
+      "❤": 2
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "el ministro del interior, justicia y paz de venezuela, diosdado cabello, denunció este sábado nuevos detalles de operaciones terroristas para generar desestabilización. se refirió al intento de la oposición extremista, aliada con bandas criminales, de detonar una bomba en la plaza venezuela, frustrado por la acción coordinada y la investigación profunda de las autoridades. refirió que investigaron la denuncia de material extraño en galpones de la ciudad de maturín. lo que hemos hallado aquí es alarmante, por el altísimo poder destructivo de los materiales encontrados, explicó cabello, quien precisó que hasta el momento se han hallado 1.137 cajas de cargas huecas —como las utilizadas para atacar un blindado de combate—, para un total de 54.000 cargas y también 57.000 metros de cable detonante. explicó que el poder explosivo de todo este material abarca varios centenares de metros y podría detonarse a través de teléfonos celulares. nada de esto es casual. todo está concebido para hacer daño al pueblo de venezuela, enfatizó cabello. también se halló gran cantidad de cordón detonante, cargas explosivas secundarias, detonadores eléctricos como los que iban a usar en plaza venezuela, puntas de carga hueca, detonadores no eléctricos y teléfonos celulares que fueron decomisados a los detenidos, además de combustible de distinto tipo. hay 8 detenidos, mientras se busca a otrs 12 personas. se trata de sectores muy ligados a la extrema derecha violenta, asociados a maría corina machado. quiero alertar al pueblo de venezuela por lo peligroso, por lo nocivo que este material puede ser para el pueblo de venezuela. sabemos que tienen vinculación directa con la oposición extremista, con maría corina machado. vamos a continuar atacando a todos estos grupos que quieren cometer actos violentos en nuestro país.",
+    "tokens": [
+      "ministro",
+      "interior",
+      ",",
+      "justicia",
+      "paz",
+      "venezuela",
+      ",",
+      "diosdado",
+      "cabello",
+      ",",
+      "denunció",
+      "sábado",
+      "nuevos",
+      "detalles",
+      "operaciones",
+      "terroristas",
+      "generar",
+      "desestabilización",
+      ".",
+      "refirió",
+      "intento",
+      "oposición",
+      "extremista",
+      ",",
+      "aliada",
+      "bandas",
+      "criminales",
+      ",",
+      "detonar",
+      "bomba",
+      "plaza",
+      "venezuela",
+      ",",
+      "frustrado",
+      "acción",
+      "coordinada",
+      "investigación",
+      "profunda",
+      "autoridades",
+      ".",
+      "refirió",
+      "investigaron",
+      "denuncia",
+      "material",
+      "extraño",
+      "galpones",
+      "ciudad",
+      "maturín",
+      ".",
+      "hallado",
+      "aquí",
+      "alarmante",
+      ",",
+      "altísimo",
+      "poder",
+      "destructivo",
+      "materiales",
+      "encontrados",
+      ",",
+      "explicó",
+      "cabello",
+      ",",
+      "precisó",
+      "momento",
+      "hallado",
+      "1.137",
+      "cajas",
+      "cargas",
+      "huecas",
+      "—como",
+      "utilizadas",
+      "atacar",
+      "blindado",
+      "combate—",
+      ",",
+      "total",
+      "54.000",
+      "cargas",
+      "57.000",
+      "metros",
+      "cable",
+      "detonante",
+      ".",
+      "explicó",
+      "poder",
+      "explosivo",
+      "material",
+      "abarca",
+      "varios",
+      "centenares",
+      "metros",
+      "podría",
+      "detonarse",
+      "través",
+      "teléfonos",
+      "celulares",
+      ".",
+      "casual",
+      ".",
+      "concebido",
+      "hacer",
+      "daño",
+      "pueblo",
+      "venezuela",
+      ",",
+      "enfatizó",
+      "cabello",
+      ".",
+      "halló",
+      "gran",
+      "cantidad",
+      "cordón",
+      "detonante",
+      ",",
+      "cargas",
+      "explosivas",
+      "secundarias",
+      ",",
+      "detonadores",
+      "eléctricos",
+      "iban",
+      "usar",
+      "plaza",
+      "venezuela",
+      ",",
+      "puntas",
+      "carga",
+      "hueca",
+      ",",
+      "detonadores",
+      "eléctricos",
+      "teléfonos",
+      "celulares",
+      "decomisados",
+      "detenidos",
+      ",",
+      "además",
+      "combustible",
+      "distinto",
+      "tipo",
+      ".",
+      "8",
+      "detenidos",
+      ",",
+      "mientras",
+      "busca",
+      "otrs",
+      "12",
+      "personas",
+      ".",
+      "trata",
+      "sectores",
+      "ligados",
+      "extrema",
+      "derecha",
+      "violenta",
+      ",",
+      "asociados",
+      "maría",
+      "corina",
+      "machado",
+      ".",
+      "quiero",
+      "alertar",
+      "pueblo",
+      "venezuela",
+      "peligroso",
+      ",",
+      "nocivo",
+      "material",
+      "puede",
+      "ser",
+      "pueblo",
+      "venezuela",
+      ".",
+      "sabemos",
+      "vinculación",
+      "directa",
+      "oposición",
+      "extremista",
+      ",",
+      "maría",
+      "corina",
+      "machado",
+      ".",
+      "vamos",
+      "continuar",
+      "atacando",
+      "grupos",
+      "quieren",
+      "cometer",
+      "actos",
+      "violentos",
+      "país",
+      "."
+    ],
+    "token_count": 195,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "PRP": 1,
+      "VBP": 7,
+      "JJ": 26,
+      "FW": 38,
+      "NN": 113,
+      "NNS": 15,
+      "IN": 19,
+      "VBD": 2,
+      "CD": 4,
+      "VBZ": 4,
+      "RB": 2,
+      "CC": 1,
+      "DT": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-PRP": 1,
+      "PRP-VBP": 1,
+      "VBP-JJ": 5,
+      "JJ-NNP": 3,
+      "NNP-NNP": 14,
+      "NNP-FW": 2,
+      "FW-NNP": 5,
+      "NNP-NN": 14,
+      "NN-NN": 68,
+      "NN-JJ": 9,
+      "JJ-NNS": 2,
+      "NNS-IN": 4,
+      "IN-NNS": 1,
+      "NNS-NNS": 2,
+      "NNS-VBP": 6,
+      "JJ-NN": 17,
+      "NN-NNP": 7,
+      "NN-IN": 14,
+      "IN-FW": 12,
+      "FW-FW": 16,
+      "FW-NN": 10,
+      "NN-NNS": 4,
+      "FW-JJ": 4,
+      "IN-NN": 2,
+      "FW-NNS": 3,
+      "NNS-NNP": 2,
+      "NN-FW": 6,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 3,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-RB": 1,
+      "RB-CD": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-VBZ": 3,
+      "JJ-FW": 2,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "IN-JJ": 1,
+      "JJ-$": 1,
+      "$-CD": 1,
+      "JJ-JJ": 1,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-PRP-VBP": 1,
+      "PRP-VBP-JJ": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 13,
+      "NN-NN-NN": 44,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 11,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 6,
+      "IN-FW-NNP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-JJ-NN": 6,
+      "IN-FW-NNS": 3,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-FW-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "IN-FW-NN": 4,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "FW-NN-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "NN-NN-NNP": 2,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-$": 1,
+      "JJ-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-NNP-NNP": 2,
+      "IN-NNP-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-FW-JJ": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 113,
+        "FW": 38,
+        "NNP": 35,
+        "JJ": 26,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 68,
+        "JJ-NN": 17,
+        "FW-FW": 16,
+        "NNP-NNP": 14,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 44,
+        "NNP-NN-NN": 13,
+        "FW-FW-FW": 11,
+        "NN-IN-FW": 9,
+        "NN-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 76,
+      "PP": 7,
+      "VP": 16,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0531
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "NP -> ('extremista', 'NN')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('teléfonos', 'JJ') ('celulares', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP ('ministro', 'PRP') ('del', 'FW') NP (',', ',') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP PP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Interior', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Justicia', 'NNP') ('y', 'NNP') ('Paz', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Diosdado', 'NNP') ('Cabello', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('denunció', 'NN') ('este', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "Interior"
+      },
+      {
+        "label": "NP",
+        "text": "Justicia y Paz"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Diosdado Cabello"
+      },
+      {
+        "label": "NP",
+        "text": "denunció este sábado"
+      },
+      {
+        "label": "NP",
+        "text": "nuevos detalles"
+      },
+      {
+        "label": "PP",
+        "text": "de operaciones terroristas"
+      },
+      {
+        "label": "NP",
+        "text": "operaciones terroristas"
+      },
+      {
+        "label": "VP",
+        "text": "para generar desestabilización"
+      },
+      {
+        "label": "NP",
+        "text": "generar desestabilización"
+      },
+      {
+        "label": "NP",
+        "text": "Se refirió al intento"
+      },
+      {
+        "label": "NP",
+        "text": "extremista"
+      },
+      {
+        "label": "NP",
+        "text": "aliada con bandas criminales"
+      },
+      {
+        "label": "NP",
+        "text": "una bomba"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  ministro/PRP\n  del/FW\n  (NP Interior/NNP)\n  ,/,\n  (NP Justicia/NNP y/NNP Paz/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Diosdado/NNP Cabello/NNP)\n  ,/,\n  (NP denunció/NN este/NN sábado/NN)\n  (NP nuevos/JJ detalles/NNS)\n  (PP de/IN (NP operaciones/NNS terroristas/NNS))\n  (VP para/VBP (NP generar/JJ desestabilización/NN))\n  ./.)",
+      "(S\n  (NP Se/NNP refirió/NN al/NN intento/NN)\n  de/IN\n  la/FW\n  oposición/FW\n  (NP extremista/NN)\n  ,/,\n  (NP aliada/JJ con/NN bandas/NN criminales/NNS)\n  ,/,\n  de/FW\n  detonar/FW\n  (NP una/JJ bomba/NN)\n  en/IN\n  la/FW\n  (NP Plaza/NNP Venezuela/NNP)\n  ,/,\n  (NP frustrado/NN por/NN la/NN)\n  (PP acción/IN (NP coordinada/NN y/NN la/NN))\n  (NP investigación/JJ profunda/NN)\n  de/IN\n  las/FW\n  (NP autoridades/NNS)\n  ./.)",
+      "(S\n  (NP Refirió/NNP que/NN investigaron/NN la/NN)\n  denuncia/FW\n  de/FW\n  material/FW\n  extraño/FW\n  en/FW\n  galpones/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Maturín/NNP)\n  ./.)",
+      "(S\n  (NP Lo/NNP que/NN hemos/NN hallado/NN aquí/NN es/NN alarmante/NN)\n  ,/,\n  (NP por/NN el/NN altísimo/NN poder/NN destructivo/NN)\n  de/IN\n  los/FW\n  (NP materiales/NNS)\n  (VP encontrados/VBP)\n  ,/,\n  (NP explicó/JJ Cabello/NNP)\n  ,/,\n  (NP quien/NN precisó/NN que/NN hasta/NN el/NN)\n  momento/FW\n  (NP se/NN han/NN)\n  (VP hallado/VBD)\n  1.137/CD\n  (NP cajas/NN)\n  de/IN\n  cargas/FW\n  (NP huecas/NN —como/NNP)\n  (VP\n    las/VBZ\n    (NP utilizadas/JJ para/NN atacar/NN)\n    (NP un/JJ blindado/NN))\n  (PP de/IN (NP combate—/NN))\n  ,/,\n  (NP para/NN)\n  (NP un/JJ total/NN)\n  de/IN\n  54.000/CD\n  (NP cargas/NNS)\n  y/RB\n  (VP también/VBP)\n  57.000/CD\n  (NP metros/NNS)\n  (PP de/IN (NP cable/NN detonante/NN))\n  ./.)",
+      "(S\n  (NP Explicó/NNP que/NN el/NN poder/NN explosivo/NN)\n  de/IN\n  todo/FW\n  (NP este/NN material/NN abarca/NN)\n  (NP varios/JJ centenares/NNS)\n  de/IN\n  metros/FW\n  y/FW\n  podría/FW\n  detonarse/FW\n  (NP a/DT través/NN)\n  (PP de/IN (NP teléfonos/JJ celulares/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ACCIONES_LEGALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          575,
+          582
+        ],
+        "start": 575,
+        "end": 582
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del interior",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          1443,
+          1458
+        ],
+        "start": 1443,
+        "end": 1458
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          73,
+          81
+        ],
+        "start": 73,
+        "end": 81
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          44,
+          53
+        ],
+        "start": 44,
+        "end": 53
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza venezuela",
+        "position": [
+          276,
+          291
+        ],
+        "start": 276,
+        "end": 291
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "12 personas",
+        "position": [
+          1392,
+          1403
+        ],
+        "start": 1392,
+        "end": 1403
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Diosdado Cabello",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Maturín",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cabello",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Plaza Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "María Corina Machado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.1027,
+    "pos": 0.007,
+    "neu": 0.985,
+    "neg": 0.008,
+    "label": "negative"
+  }
+}

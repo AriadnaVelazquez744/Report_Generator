@@ -1,0 +1,756 @@
+{
+  "url": "https://www.telesurtv.net/antigua-y-barbuda-advierte-a-ee-uu/",
+  "title": "Antigua y Barbuda: Primer Ministro advierte a EE.UU. su oposición a una escalada militar en el Caribe - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Antigua y Barbuda",
+    "Caribe",
+    "escalada militar",
+    "Estados Unidos",
+    "injerencia",
+    "Nicolás Maduro"
+  ],
+  "text": "El primer ministro de Antigua y Barbuda, Gaston Browne, advirtió que cualquier intento de Estados Unidos de transformar operaciones antidrogas en una escalada militar en el Caribe encontrará firme oposición de su Gobierno. La declaración se produce tras el anuncio de Washington sobre la supuesta destrucción de una embarcación vinculada presuntamente al narcotráfico, en un operativo en el que murieron 11 personas.\n\nSegún declaraciones recogidas por el Trinidad and Tobago Guardian, Browne señaló que, si la acción estadounidense se limitó a interceptar una embarcación de narcotráfico, no hay motivos para condenarla. Sin embargo, expresó su preocupación por el riesgo de que estas operaciones deriven en una intervención militar en la región.\nEl mandatario subrayó que un conflicto armado en América Latina tendría consecuencias imprevisibles para el Caribe, donde los Estados insulares figuran entre los más vulnerables ante crisis de seguridad y estabilidad. Insistió en que incluso una acción limitada podría tener un efecto desproporcionado en sus países.\n\n\nBrowne afirmó que su postura responde a la defensa del interés nacional y regional, así como a la necesidad de preservar la paz hemisférica. Destacó que Antigua y Barbuda rechaza cualquier escalada militar y que el Caribe debe ser un espacio de seguridad y estabilidad para todos sus ciudadanos.\nEl Primer Ministro hizo un llamado a las potencias globales para que detengan la tendencia a convertir disputas en guerras, defendiendo el recurso a la diplomacia y al diálogo como las únicas vías legítimas para resolver tensiones en el continente.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/antigua-y-barbuda-advierte-a-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 756,
+    "message_id": 103845,
+    "date": "2025-09-05T18:55:17+00:00",
+    "text": "teleSUR\nAntigua y Barbuda: Primer Ministro advierte a  EE.UU. su oposición a una escalada militar en el Caribe\nhttps://www.telesurtv.net/antigua-y-barbuda-advierte-a-ee-uu/",
+    "photo_path": null,
+    "views": 1939,
+    "reactions": {
+      "👍": 59,
+      "❤": 6,
+      "🔥": 3,
+      "👏": 3
+    },
+    "total_reactions": 71
+  },
+  "preprocessing": {
+    "cleaned": "el primer ministro de antigua y barbuda, gaston browne, advirtió que cualquier intento de estados unidos de transformar operaciones antidrogas en una escalada militar en el caribe encontrará firme oposición de su gobierno. la declaración se produce tras el anuncio de washington sobre la supuesta destrucción de una embarcación vinculada presuntamente al narcotráfico, en un operativo en el que murieron 11 personas. según declaraciones recogidas por el trinidad and tobago guardian, browne señaló que, si la acción estadounidense se limitó a interceptar una embarcación de narcotráfico, no hay motivos para condenarla. sin embargo, expresó su preocupación por el riesgo de que estas operaciones deriven en una intervención militar en la región. el mandatario subrayó que un conflicto armado en américa latina tendría consecuencias imprevisibles para el caribe, donde los estados insulares figuran entre los más vulnerables ante crisis de seguridad y estabilidad. insistió en que incluso una acción limitada podría tener un efecto desproporcionado en sus países. browne afirmó que su postura responde a la defensa del interés nacional y regional, así como a la necesidad de preservar la paz hemisférica. destacó que antigua y barbuda rechaza cualquier escalada militar y que el caribe debe ser un espacio de seguridad y estabilidad para todos sus ciudadanos. el primer ministro hizo un llamado a las potencias globales para que detengan la tendencia a convertir disputas en guerras, defendiendo el recurso a la diplomacia y al diálogo como las únicas vías legítimas para resolver tensiones en el continente.",
+    "tokens": [
+      "primer",
+      "ministro",
+      "antigua",
+      "barbuda",
+      ",",
+      "gaston",
+      "browne",
+      ",",
+      "advirtió",
+      "cualquier",
+      "intento",
+      "unidos",
+      "transformar",
+      "operaciones",
+      "antidrogas",
+      "escalada",
+      "militar",
+      "caribe",
+      "encontrará",
+      "firme",
+      "oposición",
+      "gobierno",
+      ".",
+      "declaración",
+      "produce",
+      "tras",
+      "anuncio",
+      "washington",
+      "supuesta",
+      "destrucción",
+      "embarcación",
+      "vinculada",
+      "presuntamente",
+      "narcotráfico",
+      ",",
+      "operativo",
+      "murieron",
+      "11",
+      "personas",
+      ".",
+      "según",
+      "declaraciones",
+      "recogidas",
+      "trinidad",
+      "and",
+      "tobago",
+      "guardian",
+      ",",
+      "browne",
+      "señaló",
+      ",",
+      "si",
+      "acción",
+      "estadounidense",
+      "limitó",
+      "interceptar",
+      "embarcación",
+      "narcotráfico",
+      ",",
+      "motivos",
+      "condenarla",
+      ".",
+      "embargo",
+      ",",
+      "expresó",
+      "preocupación",
+      "riesgo",
+      "operaciones",
+      "deriven",
+      "intervención",
+      "militar",
+      "región",
+      ".",
+      "mandatario",
+      "subrayó",
+      "conflicto",
+      "armado",
+      "américa",
+      "latina",
+      "consecuencias",
+      "imprevisibles",
+      "caribe",
+      ",",
+      "insulares",
+      "figuran",
+      "vulnerables",
+      "crisis",
+      "seguridad",
+      "estabilidad",
+      ".",
+      "insistió",
+      "incluso",
+      "acción",
+      "limitada",
+      "podría",
+      "tener",
+      "efecto",
+      "desproporcionado",
+      "países",
+      ".",
+      "browne",
+      "afirmó",
+      "postura",
+      "responde",
+      "defensa",
+      "interés",
+      "nacional",
+      "regional",
+      ",",
+      "así",
+      "necesidad",
+      "preservar",
+      "paz",
+      "hemisférica",
+      ".",
+      "destacó",
+      "antigua",
+      "barbuda",
+      "rechaza",
+      "cualquier",
+      "escalada",
+      "militar",
+      "caribe",
+      "debe",
+      "ser",
+      "espacio",
+      "seguridad",
+      "estabilidad",
+      "ciudadanos",
+      ".",
+      "primer",
+      "ministro",
+      "hizo",
+      "llamado",
+      "potencias",
+      "globales",
+      "detengan",
+      "tendencia",
+      "convertir",
+      "disputas",
+      "guerras",
+      ",",
+      "defendiendo",
+      "recurso",
+      "diplomacia",
+      "diálogo",
+      "únicas",
+      "vías",
+      "legítimas",
+      "resolver",
+      "tensiones",
+      "continente",
+      "."
+    ],
+    "token_count": 153,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 94,
+      "IN": 15,
+      "NNS": 12,
+      "VBP": 9,
+      "JJ": 25,
+      "FW": 40,
+      "CD": 1,
+      "VBZ": 2,
+      "CC": 1,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-NN": 50,
+      "NN-IN": 12,
+      "IN-NNP": 4,
+      "NNP-NNP": 11,
+      "NNP-IN": 1,
+      "IN-NN": 3,
+      "NN-NNS": 7,
+      "NNS-VBP": 7,
+      "VBP-IN": 1,
+      "IN-JJ": 3,
+      "JJ-NN": 12,
+      "IN-FW": 5,
+      "FW-NNP": 4,
+      "NNP-FW": 3,
+      "FW-JJ": 4,
+      "JJ-FW": 5,
+      "FW-FW": 19,
+      "FW-NN": 11,
+      "NN-VBP": 1,
+      "VBP-NNS": 2,
+      "VBP-NN": 2,
+      "NN-JJ": 9,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NN-NNP": 6,
+      "NNP-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 4,
+      "JJ-NNP": 3,
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "NN-FW": 7,
+      "JJ-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 3,
+      "VBZ-JJ": 1,
+      "NNS-NNP": 2,
+      "FW-NNS": 1,
+      "VBP-FW": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 12,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NN-NN-NN": 23,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NNS": 2,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 11,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 7,
+      "JJ-NN-IN": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-NNP": 1,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "NN-IN-NN": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-JJ-NNP": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "FW": 40,
+        "NNP": 32,
+        "JJ": 25,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 19,
+        "NNP-NN": 14,
+        "NN-IN": 12,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "NNP-NN-NN": 12,
+        "FW-FW-FW": 11,
+        "JJ-NN-NN": 8,
+        "NN-NN-JJ": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 63,
+      "PP": 11,
+      "VP": 14,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0606
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0505
+      },
+      {
+        "rule": "S -> NP PP (',', ',') NP (',', ',') NP PP PP VP PP ('en', 'IN') ('el', 'FW') NP ('encontrará', 'FW') ADJP ('oposición', 'FW') ('de', 'FW') ('su', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('primer', 'NN') ('ministro', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Antigua', 'NNP') ('y', 'NNP') ('Barbuda', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Gaston', 'NNP') ('Browne', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('advirtió', 'NN') ('que', 'NN') ('cualquier', 'NN') ('intento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('transformar', 'NN') ('operaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "VP -> ('antidrogas', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El primer ministro"
+      },
+      {
+        "label": "PP",
+        "text": "de Antigua y Barbuda"
+      },
+      {
+        "label": "NP",
+        "text": "Antigua y Barbuda"
+      },
+      {
+        "label": "NP",
+        "text": "Gaston Browne"
+      },
+      {
+        "label": "NP",
+        "text": "advirtió que cualquier intento"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "PP",
+        "text": "de transformar operaciones"
+      },
+      {
+        "label": "NP",
+        "text": "transformar operaciones"
+      },
+      {
+        "label": "VP",
+        "text": "antidrogas"
+      },
+      {
+        "label": "PP",
+        "text": "en una escalada militar"
+      },
+      {
+        "label": "NP",
+        "text": "una escalada militar"
+      },
+      {
+        "label": "NP",
+        "text": "Caribe"
+      },
+      {
+        "label": "ADJP",
+        "text": "firme"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP primer/NN ministro/NN)\n  (PP de/IN (NP Antigua/NNP y/NNP Barbuda/NNP))\n  ,/,\n  (NP Gaston/NNP Browne/NNP)\n  ,/,\n  (NP advirtió/NN que/NN cualquier/NN intento/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (PP de/IN (NP transformar/NN operaciones/NNS))\n  (VP antidrogas/VBP)\n  (PP en/IN (NP una/JJ escalada/NN militar/NN))\n  en/IN\n  el/FW\n  (NP Caribe/NNP)\n  encontrará/FW\n  (ADJP firme/JJ)\n  oposición/FW\n  de/FW\n  su/FW\n  (NP Gobierno/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  declaración/FW\n  (NP se/NN)\n  (VP produce/VBP (NP tras/NNS))\n  (VP el/VBP (NP anuncio/NN))\n  (PP de/IN (NP Washington/NNP sobre/NN la/NN))\n  (NP supuesta/JJ destrucción/NN)\n  (PP\n    de/IN\n    (NP\n      una/JJ\n      embarcación/NN\n      vinculada/NN\n      presuntamente/NN\n      al/NN\n      narcotráfico/NN))\n  ,/,\n  en/FW\n  (NP un/JJ operativo/NN)\n  en/IN\n  el/FW\n  (NP que/NN murieron/NN)\n  11/CD\n  (NP personas/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP declaraciones/NNS)\n  (VP recogidas/VBP (NP por/JJ el/NN Trinidad/NNP))\n  and/CC\n  (NP Tobago/NNP Guardian/NNP)\n  ,/,\n  (NP Browne/NNP señaló/NN que/NN)\n  ,/,\n  (NP si/JJ la/NN acción/NN estadounidense/NN se/NN)\n  (VP limitó/VBZ (NP a/DT interceptar/NN) (NP una/JJ embarcación/NN))\n  de/IN\n  narcotráfico/FW\n  ,/,\n  (NP no/DT hay/NN motivos/NN para/NN condenarla/NN)\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP expresó/JJ su/NN preocupación/NN por/NN)\n  el/FW\n  (NP riesgo/NN)\n  de/IN\n  que/FW\n  (NP estas/JJ operaciones/NNS)\n  deriven/RB\n  (VP en/VBP (NP una/JJ intervención/NN militar/NN))\n  (PP en/IN (NP la/NN región/NN))\n  ./.)",
+      "(S\n  (NP El/NNP mandatario/NN subrayó/NN que/NN)\n  (NP un/JJ conflicto/NN armado/NN)\n  (PP\n    en/IN\n    (NP\n      América/NNP\n      Latina/NNP\n      tendría/NN\n      consecuencias/NN\n      imprevisibles/NNS))\n  (VP para/VBP (NP el/JJ Caribe/NNP))\n  ,/,\n  (VP donde/VBZ (NP los/JJ Estados/NNP))\n  (VP insulares/VBZ figuran/JJ)\n  entre/FW\n  (NP los/NN más/NN vulnerables/NNS)\n  (VP ante/VBP (NP crisis/NN))\n  de/FW\n  seguridad/FW\n  y/FW\n  (NP estabilidad/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto armado en américa latina",
+        "position": [
+          776,
+          810
+        ],
+        "start": 776,
+        "end": 810
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto armado en américa latina tendría consecuencias imprevisibles para el caribe, donde los estados insulares figuran entre los más vulnerables ante crisis de seguridad y",
+        "position": [
+          776,
+          951
+        ],
+        "start": 776,
+        "end": 951
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          492,
+          498
+        ],
+        "start": 492,
+        "end": 498
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          56,
+          64
+        ],
+        "start": 56,
+        "end": 64
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1109,
+          1116
+        ],
+        "start": 1109,
+        "end": 1116
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de antigua y",
+        "position": [
+          10,
+          31
+        ],
+        "start": 10,
+        "end": 31
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          761,
+          768
+        ],
+        "start": 761,
+        "end": 768
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          1207,
+          1214
+        ],
+        "start": 1207,
+        "end": 1214
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          90,
+          104
+        ],
+        "start": 90,
+        "end": 104
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1187,
+          1193
+        ],
+        "start": 1187,
+        "end": 1193
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          173,
+          179
+        ],
+        "start": 173,
+        "end": 179
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          625,
+          632
+        ],
+        "start": 625,
+        "end": 632
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "11 personas",
+        "position": [
+          404,
+          415
+        ],
+        "start": 404,
+        "end": 415
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Washington",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Browne",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "el Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antigua y Barbuda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaston Browne",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trinidad and Tobago Guardian",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Antigua y Barbuda",
+        "relacion": "ADVERTIR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Antigua y Barbuda",
+        "relacion": "ADVERTIR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "Antigua y Barbuda",
+        "relacion": "ADVERTIR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Gaston Browne",
+        "relacion": "ADVERTIR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gaston Browne",
+        "relacion": "ADVERTIR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "Gaston Browne",
+        "relacion": "ADVERTIR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ENCONTRAR_ADVERTIR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "el Caribe",
+        "relacion": "TRANSFORMAR_ENCONTRAR_ADVERTIR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Browne",
+        "relacion": "SE_ALAR",
+        "objeto": "Trinidad and Tobago Guardian"
+      },
+      {
+        "sujeto": "Antigua y Barbuda",
+        "relacion": "RECHAZAR_DESTACAR",
+        "objeto": "el Caribe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.007,
+    "neu": 0.952,
+    "neg": 0.041,
+    "label": "negative"
+  }
+}

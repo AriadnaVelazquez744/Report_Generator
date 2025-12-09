@@ -1,0 +1,908 @@
+{
+  "url": "https://www.telesurtv.net/alerta-situacion-humanitaria-rdc-del-congo/",
+  "title": "Alerta por crítica situación humanitaria en la República Democrática del Congo - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto armado",
+    "Crisis humanitaria",
+    "RD Congo",
+    "Rebeldes M23",
+    "situación crítica"
+  ],
+  "text": "El líder de la jefatura de Bavira, Mwami Romain Lenge, informó a medios locales sobre las “graves dificultades” para brindar atención médica y ayuda humanitaria a los miles de desplazados que llegaron a la zona de Uvira.\nSegún Lenge, las poblaciones de Goma y Bukavu están durmiendo a la intemperie y expuestas a enfermedades transmitidas por el agua, lo que agrava aún más la crisis. Ante la situación, la Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) lanzó la campaña digital “Cada Dólar Cuenta” con el objetivo de recaudar fondos para los más de tres millones de desplazados internos en la República Democrática del Congo.\n\n\n\n\nEl coordinador humanitario en el país, Bruno Lemarquis, señaló que la iniciativa busca proveer un alivio a las casi ocho millones de personas que han sido forzadas a abandonar sus hogares. A pesar de la urgencia, el Plan de Respuesta Humanitaria 2025 para la República Democrática del Congo logró reunir un 11% de los 2.540 millones de dólares necesarios. El Gobierno de esa nación africana y el grupo rebelde Movimiento 23 de Marzo (M23) dieron un paso hacia la paz al firmar una declaración de principios en Doha, Qatar, con el objetivo de detener los combates en el este del país.\n\n\nEste acuerdo, auspiciado por Qatar, abre la puerta a una posible cumbre de jefes de Estado en Washington, que podría reunir al presidente de la República Democrática del Congo, Félix Tshisekedi, y a su homólogo ruandés, Paul Kagame, para dialogar sobre la estabilidad y la prosperidad económica en la región. Sin embargo, la situación sigue siendo frágil, ya que líderes del M23 declararon que por ahora no se retirarán del este de la República Democrática del Congo.\nLa región está sumida en conflictos con milicias armadas y enfrentamientos militares desde 1998, a pesar de la presencia de la misión de la Organización de las Naciones Unidas (ONU), lo que subraya la complejidad de los desafíos que aún quedan por resolver.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/alerta-situacion-humanitaria-rdc-del-congo/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1949,
+    "message_id": 100970,
+    "date": "2025-08-05T18:55:07+00:00",
+    "text": "teleSUR\nAlerta por crítica situación humanitaria en la República Democrática del Congo\nhttps://www.telesurtv.net/alerta-situacion-humanitaria-rdc-del-congo/",
+    "photo_path": null,
+    "views": 1518,
+    "reactions": {
+      "👍": 25,
+      "🔥": 1
+    },
+    "total_reactions": 26
+  },
+  "preprocessing": {
+    "cleaned": "el líder de la jefatura de bavira, mwami romain lenge, informó a medios locales sobre las “graves dificultades” para brindar atención médica y ayuda humanitaria a los miles de desplazados que llegaron a la zona de uvira. según lenge, las poblaciones de goma y bukavu están durmiendo a la intemperie y expuestas a enfermedades transmitidas por el agua, lo que agrava aún más la crisis. ante la situación, la oficina de naciones unidas para la coordinación de asuntos humanitarios (ocha) lanzó la campaña digital “cada dólar cuenta” con el objetivo de recaudar fondos para los más de tres millones de desplazados internos en la república democrática del congo. el coordinador humanitario en el país, bruno lemarquis, señaló que la iniciativa busca proveer un alivio a las casi ocho millones de personas que han sido forzadas a abandonar sus hogares. a pesar de la urgencia, el plan de respuesta humanitaria 2025 para la república democrática del congo logró reunir un 11% de los 2.540 millones de dólares necesarios. el gobierno de esa nación africana y el grupo rebelde movimiento 23 de marzo (m23) dieron un paso hacia la paz al firmar una declaración de principios en doha, qatar, con el objetivo de detener los combates en el este del país. este acuerdo, auspiciado por qatar, abre la puerta a una posible cumbre de jefes de estado en washington, que podría reunir al presidente de la república democrática del congo, félix tshisekedi, y a su homólogo ruandés, paul kagame, para dialogar sobre la estabilidad y la prosperidad económica en la región. sin embargo, la situación sigue siendo frágil, ya que líderes del m23 declararon que por ahora no se retirarán del este de la república democrática del congo. la región está sumida en conflictos con milicias armadas y enfrentamientos militares desde 1998, a pesar de la presencia de la misión de la organización de las naciones unidas (onu), lo que subraya la complejidad de los desafíos que aún quedan por resolver.",
+    "tokens": [
+      "líder",
+      "jefatura",
+      "bavira",
+      ",",
+      "mwami",
+      "romain",
+      "lenge",
+      ",",
+      "informó",
+      "medios",
+      "locales",
+      "“",
+      "graves",
+      "dificultades",
+      "”",
+      "brindar",
+      "atención",
+      "médica",
+      "ayuda",
+      "humanitaria",
+      "miles",
+      "desplazados",
+      "llegaron",
+      "zona",
+      "uvira",
+      ".",
+      "según",
+      "lenge",
+      ",",
+      "poblaciones",
+      "goma",
+      "bukavu",
+      "durmiendo",
+      "intemperie",
+      "expuestas",
+      "enfermedades",
+      "transmitidas",
+      "agua",
+      ",",
+      "agrava",
+      "aún",
+      "crisis",
+      ".",
+      "situación",
+      ",",
+      "oficina",
+      "naciones",
+      "unidas",
+      "coordinación",
+      "asuntos",
+      "humanitarios",
+      "(",
+      "ocha",
+      ")",
+      "lanzó",
+      "campaña",
+      "digital",
+      "“",
+      "cada",
+      "dólar",
+      "cuenta",
+      "”",
+      "objetivo",
+      "recaudar",
+      "fondos",
+      "tres",
+      "millones",
+      "desplazados",
+      "internos",
+      "república",
+      "democrática",
+      "congo",
+      ".",
+      "coordinador",
+      "humanitario",
+      "país",
+      ",",
+      "bruno",
+      "lemarquis",
+      ",",
+      "señaló",
+      "iniciativa",
+      "busca",
+      "proveer",
+      "alivio",
+      "casi",
+      "ocho",
+      "millones",
+      "personas",
+      "sido",
+      "forzadas",
+      "abandonar",
+      "hogares",
+      ".",
+      "pesar",
+      "urgencia",
+      ",",
+      "plan",
+      "respuesta",
+      "humanitaria",
+      "2025",
+      "república",
+      "democrática",
+      "congo",
+      "logró",
+      "reunir",
+      "11",
+      "%",
+      "2.540",
+      "millones",
+      "dólares",
+      "necesarios",
+      ".",
+      "gobierno",
+      "nación",
+      "africana",
+      "grupo",
+      "rebelde",
+      "movimiento",
+      "23",
+      "marzo",
+      "(",
+      "m23",
+      ")",
+      "dieron",
+      "paso",
+      "hacia",
+      "paz",
+      "firmar",
+      "declaración",
+      "principios",
+      "doha",
+      ",",
+      "qatar",
+      ",",
+      "objetivo",
+      "detener",
+      "combates",
+      "país",
+      ".",
+      "acuerdo",
+      ",",
+      "auspiciado",
+      "qatar",
+      ",",
+      "abre",
+      "puerta",
+      "posible",
+      "cumbre",
+      "jefes",
+      "washington",
+      ",",
+      "podría",
+      "reunir",
+      "presidente",
+      "república",
+      "democrática",
+      "congo",
+      ",",
+      "félix",
+      "tshisekedi",
+      ",",
+      "homólogo",
+      "ruandés",
+      ",",
+      "paul",
+      "kagame",
+      ",",
+      "dialogar",
+      "estabilidad",
+      "prosperidad",
+      "económica",
+      "región",
+      ".",
+      "embargo",
+      ",",
+      "situación",
+      "sigue",
+      "siendo",
+      "frágil",
+      ",",
+      "líderes",
+      "m23",
+      "declararon",
+      "ahora",
+      "retirarán",
+      "república",
+      "democrática",
+      "congo",
+      ".",
+      "región",
+      "sumida",
+      "conflictos",
+      "milicias",
+      "armadas",
+      "enfrentamientos",
+      "militares",
+      "1998",
+      ",",
+      "pesar",
+      "presencia",
+      "misión",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      ",",
+      "subraya",
+      "complejidad",
+      "desafíos",
+      "aún",
+      "quedan",
+      "resolver",
+      "."
+    ],
+    "token_count": 216,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 63,
+      "NN": 102,
+      "FW": 72,
+      "NNS": 16,
+      "VBZ": 6,
+      "JJ": 21,
+      "VBP": 6,
+      "IN": 18,
+      "VBD": 1,
+      "CD": 5,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-FW": 9,
+      "FW-FW": 38,
+      "FW-NNP": 18,
+      "NNP-NNP": 28,
+      "NN-NNS": 3,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-JJ": 3,
+      "JJ-NNS": 4,
+      "NNS-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-NN": 3,
+      "NN-NN": 61,
+      "NN-JJ": 7,
+      "NNS-IN": 4,
+      "IN-NN": 2,
+      "NN-NNP": 9,
+      "NNP-IN": 4,
+      "IN-NNP": 4,
+      "NNP-JJ": 1,
+      "NNS-FW": 2,
+      "NNP-FW": 10,
+      "FW-NN": 8,
+      "FW-NNS": 4,
+      "VBP-JJ": 2,
+      "JJ-NN": 11,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 3,
+      "FW-JJ": 3,
+      "NN-IN": 8,
+      "IN-NNS": 1,
+      "IN-FW": 10,
+      "NN-VBZ": 3,
+      "NNP-CD": 2,
+      "CD-NN": 2,
+      "JJ-CD": 1,
+      "CD-IN": 2,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-NNP": 1,
+      "IN-JJ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 25,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 12,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 10,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 34,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-NNP": 6,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NNP-NNP-FW": 6,
+      "NNP-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 6,
+      "NNP-NN-NN": 13,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-FW": 7,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNS": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "NN-FW-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-FW": 2,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-NNP": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NNP-IN": 1,
+      "IN-NNP-NN": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "VBZ-FW-NNP": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 72,
+        "NNP": 63,
+        "JJ": 21,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 38,
+        "NNP-NNP": 28,
+        "FW-NNP": 18,
+        "NNP-NN": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "FW-FW-FW": 25,
+        "NNP-NN-NN": 13,
+        "FW-NNP-NNP": 12,
+        "NNP-NNP-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 93,
+      "VP": 19,
+      "PP": 8,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Congo', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0303
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0303
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Democrática', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('la', 'FW') ('jefatura', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') VP VP VP VP PP VP ('zona', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('líder', 'NN')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('Bavira', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('Mwami', 'NNP') ('Romain', 'NNP') ('Lenge', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "VP -> ('informó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0076
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El líder"
+      },
+      {
+        "label": "NP",
+        "text": "Bavira"
+      },
+      {
+        "label": "NP",
+        "text": "Mwami Romain Lenge"
+      },
+      {
+        "label": "VP",
+        "text": "informó a medios locales"
+      },
+      {
+        "label": "NP",
+        "text": "a medios locales"
+      },
+      {
+        "label": "VP",
+        "text": "sobre las “ graves"
+      },
+      {
+        "label": "NP",
+        "text": "las “ graves"
+      },
+      {
+        "label": "VP",
+        "text": "dificultades ” para brindar atención médica y ayuda"
+      },
+      {
+        "label": "NP",
+        "text": "” para brindar atención médica y ayuda"
+      },
+      {
+        "label": "VP",
+        "text": "humanitaria a los miles"
+      },
+      {
+        "label": "NP",
+        "text": "a los miles"
+      },
+      {
+        "label": "PP",
+        "text": "de desplazados que"
+      },
+      {
+        "label": "NP",
+        "text": "desplazados que"
+      },
+      {
+        "label": "VP",
+        "text": "llegaron a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP líder/NN)\n  de/FW\n  la/FW\n  jefatura/FW\n  de/FW\n  (NP Bavira/NNP)\n  ,/,\n  (NP Mwami/NNP Romain/NNP Lenge/NNP)\n  ,/,\n  (VP informó/VBZ (NP a/DT medios/JJ locales/NNS))\n  (VP sobre/VBP (NP las/JJ “/NNP graves/NNS))\n  (VP\n    dificultades/VBZ\n    (NP ”/JJ para/NN brindar/NN atención/NN médica/NN y/NN ayuda/NN))\n  (VP humanitaria/VBD (NP a/DT los/JJ miles/NNS))\n  (PP de/IN (NP desplazados/NN que/NN))\n  (VP llegaron/VBZ (NP a/DT la/NN))\n  zona/FW\n  de/FW\n  (NP Uvira/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP Lenge/NNP)\n  ,/,\n  (NP las/JJ poblaciones/NNS)\n  de/FW\n  (NP Goma/NNP)\n  y/CC\n  (NP Bukavu/NNP)\n  (VP están/VBP)\n  (VP durmiendo/VBZ (NP a/DT la/NN intemperie/NN y/NN))\n  (VP\n    expuestas/VBZ\n    (NP a/DT enfermedades/JJ transmitidas/NN por/NN el/NN agua/NN))\n  ,/,\n  (NP lo/JJ que/NN agrava/NN aún/NN más/NN la/NN crisis/NN)\n  ./.)",
+      "(S\n  (NP Ante/NNP la/NNP situación/NN)\n  ,/,\n  la/FW\n  (NP Oficina/NNP)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP para/NN la/NN Coordinación/NNP)\n  (PP de/IN (NP Asuntos/NNP Humanitarios/NNP))\n  (/(\n  (NP OCHA/NNP)\n  )/)\n  (VP\n    lanzó/VBP\n    (NP\n      la/JJ\n      campaña/JJ\n      digital/JJ\n      “/NN\n      Cada/NNP\n      Dólar/NNP\n      Cuenta/NNP\n      ”/NNP\n      con/NN\n      el/NN))\n  objetivo/FW\n  de/FW\n  recaudar/FW\n  (NP fondos/NN para/NN)\n  (NP los/JJ más/NN)\n  (PP de/IN (NP tres/NNS millones/NNS))\n  de/IN\n  desplazados/FW\n  (NP internos/NNS)\n  (VP en/VBP (NP la/NN República/NNP Democrática/NNP))\n  del/FW\n  (NP Congo/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP coordinador/NN humanitario/NN)\n  (PP en/IN (NP el/NN país/NN))\n  ,/,\n  (NP Bruno/NNP Lemarquis/NNP)\n  ,/,\n  (NP señaló/NN que/NN la/NN)\n  iniciativa/FW\n  (NP busca/NN proveer/NN)\n  (ADJP un/JJ)\n  (VP alivio/VBZ (NP a/DT las/JJ casi/NN) (NP ocho/JJ millones/NNS))\n  de/IN\n  personas/FW\n  (NP que/NN han/NN sido/NN)\n  (VP forzadas/VBD (NP a/DT abandonar/JJ sus/NN hogares/NNS))\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  la/FW\n  (ADJP urgencia/JJ)\n  ,/,\n  (NP el/JJ Plan/NNP)\n  de/FW\n  (NP Respuesta/NNP Humanitaria/NNP)\n  2025/CD\n  (NP para/NN la/NN República/NNP Democrática/NNP)\n  del/FW\n  (NP Congo/NNP)\n  logró/FW\n  (NP reunir/NN)\n  (ADJP un/JJ)\n  11/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  2.540/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS necesarios/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CIUDADES_CAPITALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          719,
+          725
+        ],
+        "start": 719,
+        "end": 725
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          55,
+          62
+        ],
+        "start": 55,
+        "end": 62
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          143,
+          160
+        ],
+        "start": 143,
+        "end": 160
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de esa nación",
+        "position": [
+          1022,
+          1044
+        ],
+        "start": 1022,
+        "end": 1044
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          1376,
+          1392
+        ],
+        "start": 1376,
+        "end": 1392
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          418,
+          433
+        ],
+        "start": 418,
+        "end": 433
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          346,
+          350
+        ],
+        "start": 346,
+        "end": 350
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1123,
+          1129
+        ],
+        "start": 1123,
+        "end": 1129
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          206,
+          213
+        ],
+        "start": 206,
+        "end": 213
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1562,
+          1569
+        ],
+        "start": 1562,
+        "end": 1569
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "540 millones",
+        "position": [
+          983,
+          995
+        ],
+        "start": 983,
+        "end": 995
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "2.540 millones de dólares",
+        "position": [
+          981,
+          1006
+        ],
+        "start": 981,
+        "end": 1006
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "República Democrática del Congo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bukavu",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lenge",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "OCHA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Paul Kagame",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mwami Romain Lenge",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bavira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Democrática del Congo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Qatar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bruno Lemarquis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Félix Tshisekedi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "M23",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Movimiento 23 de Marzo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Goma",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Uvira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Doha",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Bavira",
+        "relacion": "INFORMAR",
+        "objeto": "Uvira"
+      },
+      {
+        "sujeto": "Mwami Romain Lenge",
+        "relacion": "INFORMAR",
+        "objeto": "Uvira"
+      },
+      {
+        "sujeto": "Lenge",
+        "relacion": "DORMIR",
+        "objeto": "Goma"
+      },
+      {
+        "sujeto": "Lenge",
+        "relacion": "DORMIR",
+        "objeto": "Bukavu"
+      },
+      {
+        "sujeto": "Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios",
+        "relacion": "LANZAR",
+        "objeto": "República Democrática del Congo"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "LANZAR",
+        "objeto": "República Democrática del Congo"
+      },
+      {
+        "sujeto": "Movimiento 23 de Marzo",
+        "relacion": "DAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Movimiento 23 de Marzo",
+        "relacion": "DAR",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "M23",
+        "relacion": "DAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "M23",
+        "relacion": "DAR",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "ABRIR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "ABRIR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "ABRIR",
+        "objeto": "República Democrática del Congo"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "ABRIR",
+        "objeto": "Félix Tshisekedi"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "ABRIR",
+        "objeto": "Paul Kagame"
+      },
+      {
+        "sujeto": "M23",
+        "relacion": "DECLARAR_SEGUIR",
+        "objeto": "República Democrática del Congo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.005,
+    "neu": 0.964,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

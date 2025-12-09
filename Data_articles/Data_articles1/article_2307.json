@@ -1,0 +1,580 @@
+{
+  "url": "https://www.telesurtv.net/hamas-entrega-a-cri-a-cuatro-mujeres-soldado-israelies/",
+  "title": "Hamas entrega a CRI a cuatro mujeres soldado israelíes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "acuerdo de cese el fuego",
+    "Hamás",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "El movimiento de resistencia islámica palestino Hamas entregó este sábado a personal de la Cruz Roja Internacional (CRI) a cuatro mujeres soldado israelíes, en cumplimiento de los acuerdos del cese el fuego con Israel que se mantiene en vigencia en la Franja de Gaza desde el domingo pasado.\nEsta acción, que tuvo lugar en una abarrotada plaza de Palestina de la ciudad de Gaza y que fue transmitida por televisión, se enmarca en el segundo intercambio de prisioneros entre ambas partes.\nLas militares liberadas son Liri Albag, Karina Ariev, Daniella Gilboa y Naama Levy, de entre 19 y 20 años, que fueron retenidas el 7 de octubre de 2023 en la base militar Nahal Oz, a un kilómetro de la Franja de Gaza.\nAhora, como establecen los acuerdos fijados, la parte israelí deberá liberar a un total de 200 palestinos, que se encuentran retenidos en cárceles de la ocupación sionista.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hamas-entrega-a-cri-a-cuatro-mujeres-soldado-israelies/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 496,
+    "message_id": 85338,
+    "date": "2025-01-25T09:55:07+00:00",
+    "text": "teleSUR\nHamas entrega a CRI a cuatro mujeres soldado israelíes\nhttps://www.telesurtv.net/hamas-entrega-a-cri-a-cuatro-mujeres-soldado-israelies/",
+    "photo_path": null,
+    "views": 2505,
+    "reactions": {
+      "👍": 40,
+      "🤔": 3,
+      "😢": 2,
+      "❤": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "el movimiento de resistencia islámica palestino hamas entregó este sábado a personal de la cruz roja internacional (cri) a cuatro mujeres soldado israelíes, en cumplimiento de los acuerdos del cese el fuego con israel que se mantiene en vigencia en la franja de gaza desde el domingo pasado. esta acción, que tuvo lugar en una abarrotada plaza de palestina de la ciudad de gaza y que fue transmitida por televisión, se enmarca en el segundo intercambio de prisioneros entre ambas partes. las militares liberadas son liri albag, karina ariev, daniella gilboa y naama levy, de entre 19 y 20 años, que fueron retenidas el 7 de octubre de 2023 en la base militar nahal oz, a un kilómetro de la franja de gaza. ahora, como establecen los acuerdos fijados, la parte israelí deberá liberar a un total de 200 palestinos, que se encuentran retenidos en cárceles de la ocupación sionista.",
+    "tokens": [
+      "movimiento",
+      "resistencia",
+      "islámica",
+      "palestino",
+      "hamas",
+      "entregó",
+      "sábado",
+      "personal",
+      "cruz",
+      "roja",
+      "internacional",
+      "(",
+      "cri",
+      ")",
+      "cuatro",
+      "mujeres",
+      "soldado",
+      "israelíes",
+      ",",
+      "cumplimiento",
+      "acuerdos",
+      "cese",
+      "fuego",
+      "israel",
+      "mantiene",
+      "vigencia",
+      "franja",
+      "gaza",
+      "domingo",
+      "pasado",
+      ".",
+      "acción",
+      ",",
+      "lugar",
+      "abarrotada",
+      "plaza",
+      "palestina",
+      "ciudad",
+      "gaza",
+      "transmitida",
+      "televisión",
+      ",",
+      "enmarca",
+      "segundo",
+      "intercambio",
+      "prisioneros",
+      "ambas",
+      "partes",
+      ".",
+      "militares",
+      "liberadas",
+      "liri",
+      "albag",
+      ",",
+      "karina",
+      "ariev",
+      ",",
+      "daniella",
+      "gilboa",
+      "naama",
+      "levy",
+      ",",
+      "19",
+      "20",
+      "años",
+      ",",
+      "retenidas",
+      "7",
+      "octubre",
+      "2023",
+      "base",
+      "militar",
+      "nahal",
+      "oz",
+      ",",
+      "kilómetro",
+      "franja",
+      "gaza",
+      ".",
+      "ahora",
+      ",",
+      "establecen",
+      "acuerdos",
+      "fijados",
+      ",",
+      "parte",
+      "israelí",
+      "deberá",
+      "liberar",
+      "total",
+      "200",
+      "palestinos",
+      ",",
+      "encuentran",
+      "retenidos",
+      "cárceles",
+      "ocupación",
+      "sionista",
+      "."
+    ],
+    "token_count": 99,
+    "sentence_count": 4
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "NN": 50,
+      "FW": 30,
+      "VBZ": 2,
+      "JJ": 14,
+      "NNS": 4,
+      "VBP": 1,
+      "IN": 9,
+      "CD": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-FW": 4,
+      "FW-FW": 14,
+      "FW-NN": 6,
+      "NN-NN": 27,
+      "NN-NNP": 5,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-JJ": 4,
+      "JJ-JJ": 3,
+      "JJ-FW": 3,
+      "FW-NNP": 6,
+      "NNP-NNP": 14,
+      "NN-NNS": 2,
+      "NNS-VBP": 1,
+      "VBP-JJ": 1,
+      "FW-JJ": 2,
+      "JJ-NN": 8,
+      "NN-IN": 7,
+      "IN-FW": 4,
+      "NNP-FW": 4,
+      "IN-JJ": 1,
+      "IN-NNP": 1,
+      "NNS-NNP": 1,
+      "VBZ-JJ": 1,
+      "FW-CD": 1,
+      "CD-CD": 1,
+      "CD-NN": 1,
+      "FW-IN": 1,
+      "IN-CD": 2,
+      "CD-IN": 1,
+      "NNP-JJ": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "IN-NNS": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 3,
+      "NN-NN-NN": 15,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 5,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-FW-CD": 1,
+      "FW-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "NN-NN-JJ": 2,
+      "NN-FW-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 50,
+        "FW": 30,
+        "NNP": 28,
+        "JJ": 14,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 27,
+        "FW-FW": 14,
+        "NNP-NNP": 14,
+        "JJ-NN": 8,
+        "NNP-NN": 7
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 15,
+        "NNP-NNP-NNP": 9,
+        "NNP-NN-NN": 5,
+        "FW-FW-FW": 5,
+        "NN-NN-NNP": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 4,
+    "chunk_counts": {
+      "NP": 40,
+      "VP": 5,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0392
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0392
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('resistencia', 'FW') NP VP ('la', 'FW') NP ('(', '(') NP (')', ')') NP VP (',', ',') ('en', 'FW') ('cumplimiento', 'FW') ('de', 'FW') ('los', 'FW') NP NP ('en', 'IN') ('vigencia', 'FW') ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('movimiento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('islámica', 'NN') ('palestino', 'NN') ('Hamas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('entregó', 'VBZ') NP NP",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('personal', 'JJ') ('de', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Cruz', 'NNP') ('Roja', 'NNP') ('Internacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('CRI', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El movimiento"
+      },
+      {
+        "label": "NP",
+        "text": "islámica palestino Hamas"
+      },
+      {
+        "label": "VP",
+        "text": "entregó este sábado a personal de"
+      },
+      {
+        "label": "NP",
+        "text": "este sábado"
+      },
+      {
+        "label": "NP",
+        "text": "a personal de"
+      },
+      {
+        "label": "NP",
+        "text": "Cruz Roja Internacional"
+      },
+      {
+        "label": "NP",
+        "text": "CRI"
+      },
+      {
+        "label": "NP",
+        "text": "a cuatro"
+      },
+      {
+        "label": "VP",
+        "text": "mujeres soldado israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "soldado israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "acuerdos del"
+      },
+      {
+        "label": "NP",
+        "text": "cese el fuego con Israel que se mantiene"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza desde el domingo pasado"
+      },
+      {
+        "label": "NP",
+        "text": "Esta acción"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP movimiento/NN)\n  de/FW\n  resistencia/FW\n  (NP islámica/NN palestino/NN Hamas/NNP)\n  (VP entregó/VBZ (NP este/NN sábado/NN) (NP a/DT personal/JJ de/NN))\n  la/FW\n  (NP Cruz/NNP Roja/NNP Internacional/NNP)\n  (/(\n  (NP CRI/NNP)\n  )/)\n  (NP a/DT cuatro/NN)\n  (VP mujeres/VBZ (NP soldado/JJ israelíes/NN))\n  ,/,\n  en/FW\n  cumplimiento/FW\n  de/FW\n  los/FW\n  (NP acuerdos/JJ del/NN)\n  (NP\n    cese/JJ\n    el/NN\n    fuego/NN\n    con/NN\n    Israel/NNP\n    que/NN\n    se/NN\n    mantiene/NN)\n  en/IN\n  vigencia/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP desde/NN el/NN domingo/NN pasado/NN)\n  ./.)",
+      "(S\n  (NP Esta/NNP acción/NN)\n  ,/,\n  (NP que/JJ tuvo/NN lugar/NN)\n  (PP en/IN (NP una/JJ abarrotada/JJ plaza/NN))\n  (PP de/IN (NP Palestina/NNP de/NNP))\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  y/CC\n  (NP que/JJ fue/NN transmitida/NN por/NN televisión/NN)\n  ,/,\n  se/FW\n  enmarca/FW\n  en/FW\n  el/FW\n  segundo/FW\n  intercambio/FW\n  de/FW\n  prisioneros/FW\n  entre/FW\n  (NP ambas/NN partes/NNS)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP militares/VBZ (NP liberadas/JJ son/NN Liri/NNP Albag/NNP))\n  ,/,\n  (NP Karina/NNP Ariev/NNP)\n  ,/,\n  (NP Daniella/NNP Gilboa/NNP y/NN Naama/NNP Levy/NNP)\n  ,/,\n  (NP de/NNP)\n  entre/FW\n  19/CD\n  (NP y/NN)\n  20/CD\n  (NP años/NN)\n  ,/,\n  (NP que/JJ fueron/NN retenidas/NN)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  en/IN\n  la/FW\n  (NP base/NN militar/NN Nahal/NNP Oz/NNP)\n  ,/,\n  (NP a/DT un/JJ kilómetro/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Ahora/NNP)\n  ,/,\n  (NP como/NN)\n  (NP establecen/JJ los/NN)\n  (NP acuerdos/JJ fijados/NN)\n  ,/,\n  la/FW\n  parte/FW\n  israelí/FW\n  deberá/FW\n  liberar/FW\n  (NP a/DT un/JJ total/NN)\n  de/IN\n  200/CD\n  (NP palestinos/NNS)\n  ,/,\n  (NP que/NN se/NN)\n  (VP encuentran/VBD (NP retenidos/JJ en/JJ cárceles/NNS))\n  de/IN\n  la/FW\n  ocupación/FW\n  (NP sionista/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "GRUPOS_ESPECIFICOS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          859,
+          868
+        ],
+        "start": 859,
+        "end": 868
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          130,
+          137
+        ],
+        "start": 130,
+        "end": 137
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          347,
+          356
+        ],
+        "start": 347,
+        "end": 356
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza de",
+        "position": [
+          338,
+          346
+        ],
+        "start": 338,
+        "end": 346
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          619,
+          639
+        ],
+        "start": 619,
+        "end": 639
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cruz Roja Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nahal Oz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Liri Albag",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Karina Ariev",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Naama Levy",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CRI",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniella Gilboa",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hamas",
+        "relacion": "ENTREGAR",
+        "objeto": "Cruz Roja Internacional"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "ENTREGAR",
+        "objeto": "CRI"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "ENTREGAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "ENTREGAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Cruz Roja Internacional",
+        "relacion": "ENTREGAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Cruz Roja Internacional",
+        "relacion": "ENTREGAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "CRI",
+        "relacion": "ENTREGAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "CRI",
+        "relacion": "ENTREGAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Nahal Oz",
+        "relacion": "RETENER",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

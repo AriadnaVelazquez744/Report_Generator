@@ -1,0 +1,1065 @@
+{
+  "url": "https://www.telesurtv.net/alba-tcp-80-paises-movilizan-apoyo-venezuela/",
+  "title": "ALBA-TCP: más de 80 países movilizados en apoyo a Venezuela",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "ALBA-TCP",
+    "Rander Peña",
+    "Solidaridad internacional",
+    "Venezuela"
+  ],
+  "text": "El secretario ejecutivo de la Alianza Bolivariana para los Pueblos de Nuestra América-Tratado de Comercio de los Pueblos (ALBA-TCP), Rander Peña, informó que más de 10.000 personas en 80 países y 105 ciudades se movilizaron en una jornada internacional de apoyo a Venezuela.\n\nEn declaraciones en Venezolana de Televisión (VTV), Peña aseguró que la movilización busca impedir cualquier intento de intervención por parte de Estados Unidos y reafirmó el compromiso de los pueblos con la estabilidad regional.\nDenunció que Washington pretende imponer una narrativa, en las dimensiones política, jurídica y comunicacional, para justificar una acción militar en el mar Caribe bajo el argumento del combate al narcotráfico.\n\n\nPeña sostuvo que la versión difudida por la Casa Blanca carece de sustento, citando informes de la Oficina de las Naciones Unidas contra la Droga que, según él, señalan que la ruta del narcotráfico pasa por el Pacífico y Colombia, y no por territorio venezolano. Calificó el despliegue de un submarino nuclear estadounidense como “desproporcionado” y afirmó que su verdadera intención es “intimidar, amenazar la paz, y provocar un cambio de régimen en el país”.\nEl secretario del ALBA-TCP destacó también la respuesta del pueblo venezolano al llamado del presidente Nicolás Maduro para el alistamiento y la organización popular. Afirmó que este proceso de movilizacción es una expresión de defensa activa ante las amenazas externas.\n\n\nRander Peña ratificó el compromiso del ALBA-TCP de seguir en lo que describió como la “batalla comunicacional”, con el objetivo de promover la verdad de los pueblos de la región.\nEn una demostración sin precedentes de respaldo internacional, miles de personas participaron este sábado 30 de agosto en la Jornada Mundial de Solidaridad con Venezuela, alzando su voz contra la injerencia extranjera y las amenazas militares de Estados Unidos.\nDesde Europa, África, América Latina y el Caribe, así como desde países tan distantes entre sí como Sudáfrica, Azerbaiyán y Santa Lucía, los pueblos se unieron para expresar un mensaje común: “Venezuela no es una amenaza, es una esperanza”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/alba-tcp-80-paises-movilizan-apoyo-venezuela/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 13,
+    "message_id": 103404,
+    "date": "2025-08-31T18:55:07+00:00",
+    "text": "teleSUR\nALBA-TCP afirma que más de 80 países se movilizaron en apoyo a Venezuela\nhttps://www.telesurtv.net/alba-tcp-80-paises-movilizan-apoyo-venezuela/",
+    "photo_path": null,
+    "views": 1849,
+    "reactions": {
+      "👍": 45,
+      "❤": 6
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "el secretario ejecutivo de la alianza bolivariana para los pueblos de nuestra américa-tratado de comercio de los pueblos (alba-tcp), rander peña, informó que más de 10.000 personas en 80 países y 105 ciudades se movilizaron en una jornada internacional de apoyo a venezuela. en declaraciones en venezolana de televisión (vtv), peña aseguró que la movilización busca impedir cualquier intento de intervención por parte de estados unidos y reafirmó el compromiso de los pueblos con la estabilidad regional. denunció que washington pretende imponer una narrativa, en las dimensiones política, jurídica y comunicacional, para justificar una acción militar en el mar caribe bajo el argumento del combate al narcotráfico. peña sostuvo que la versión difudida por la casa blanca carece de sustento, citando informes de la oficina de las naciones unidas contra la droga que, según él, señalan que la ruta del narcotráfico pasa por el pacífico y colombia, y no por territorio venezolano. calificó el despliegue de un submarino nuclear estadounidense como “desproporcionado” y afirmó que su verdadera intención es “intimidar, amenazar la paz, y provocar un cambio de régimen en el país”. el secretario del alba-tcp destacó también la respuesta del pueblo venezolano al llamado del presidente nicolás maduro para el alistamiento y la organización popular. afirmó que este proceso de movilizacción es una expresión de defensa activa ante las amenazas externas. rander peña ratificó el compromiso del alba-tcp de seguir en lo que describió como la “batalla comunicacional”, con el objetivo de promover la verdad de los pueblos de la región. en una demostración sin precedentes de respaldo internacional, miles de personas participaron este sábado 30 de agosto en la jornada mundial de solidaridad con venezuela, alzando su voz contra la injerencia extranjera y las amenazas militares de estados unidos. desde europa, áfrica, américa latina y el caribe, así como desde países tan distantes entre sí como sudáfrica, azerbaiyán y santa lucía, los pueblos se unieron para expresar un mensaje común: “venezuela no es una amenaza, es una esperanza”.",
+    "tokens": [
+      "secretario",
+      "ejecutivo",
+      "alianza",
+      "bolivariana",
+      "pueblos",
+      "américa-tratado",
+      "comercio",
+      "pueblos",
+      "(",
+      "alba-tcp",
+      ")",
+      ",",
+      "rander",
+      "peña",
+      ",",
+      "informó",
+      "10.000",
+      "personas",
+      "80",
+      "países",
+      "105",
+      "ciudades",
+      "movilizaron",
+      "jornada",
+      "internacional",
+      "apoyo",
+      "venezuela",
+      ".",
+      "declaraciones",
+      "venezolana",
+      "televisión",
+      "(",
+      "vtv",
+      ")",
+      ",",
+      "peña",
+      "aseguró",
+      "movilización",
+      "busca",
+      "impedir",
+      "cualquier",
+      "intento",
+      "intervención",
+      "parte",
+      "unidos",
+      "reafirmó",
+      "compromiso",
+      "pueblos",
+      "estabilidad",
+      "regional",
+      ".",
+      "denunció",
+      "washington",
+      "pretende",
+      "imponer",
+      "narrativa",
+      ",",
+      "dimensiones",
+      "política",
+      ",",
+      "jurídica",
+      "comunicacional",
+      ",",
+      "justificar",
+      "acción",
+      "militar",
+      "mar",
+      "caribe",
+      "bajo",
+      "argumento",
+      "combate",
+      "narcotráfico",
+      ".",
+      "peña",
+      "sostuvo",
+      "versión",
+      "difudida",
+      "casa",
+      "blanca",
+      "carece",
+      "sustento",
+      ",",
+      "citando",
+      "informes",
+      "oficina",
+      "naciones",
+      "unidas",
+      "droga",
+      ",",
+      "según",
+      ",",
+      "señalan",
+      "ruta",
+      "narcotráfico",
+      "pasa",
+      "pacífico",
+      "colombia",
+      ",",
+      "territorio",
+      "venezolano",
+      ".",
+      "calificó",
+      "despliegue",
+      "submarino",
+      "nuclear",
+      "estadounidense",
+      "“",
+      "desproporcionado",
+      "”",
+      "afirmó",
+      "verdadera",
+      "intención",
+      "“",
+      "intimidar",
+      ",",
+      "amenazar",
+      "paz",
+      ",",
+      "provocar",
+      "cambio",
+      "régimen",
+      "país",
+      "”",
+      ".",
+      "secretario",
+      "alba-tcp",
+      "destacó",
+      "respuesta",
+      "pueblo",
+      "venezolano",
+      "llamado",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "alistamiento",
+      "organización",
+      "popular",
+      ".",
+      "afirmó",
+      "proceso",
+      "movilizacción",
+      "expresión",
+      "defensa",
+      "activa",
+      "amenazas",
+      "externas",
+      ".",
+      "rander",
+      "peña",
+      "ratificó",
+      "compromiso",
+      "alba-tcp",
+      "seguir",
+      "describió",
+      "“",
+      "batalla",
+      "comunicacional",
+      "”",
+      ",",
+      "objetivo",
+      "promover",
+      "verdad",
+      "pueblos",
+      "región",
+      ".",
+      "demostración",
+      "precedentes",
+      "respaldo",
+      "internacional",
+      ",",
+      "miles",
+      "personas",
+      "participaron",
+      "sábado",
+      "30",
+      "agosto",
+      "jornada",
+      "mundial",
+      "solidaridad",
+      "venezuela",
+      ",",
+      "alzando",
+      "voz",
+      "injerencia",
+      "extranjera",
+      "amenazas",
+      "militares",
+      "unidos",
+      ".",
+      "europa",
+      ",",
+      "áfrica",
+      ",",
+      "américa",
+      "latina",
+      "caribe",
+      ",",
+      "así",
+      "países",
+      "tan",
+      "distantes",
+      "sudáfrica",
+      ",",
+      "azerbaiyán",
+      "santa",
+      "lucía",
+      ",",
+      "pueblos",
+      "unieron",
+      "expresar",
+      "mensaje",
+      "común",
+      ":",
+      "“",
+      "venezuela",
+      "amenaza",
+      ",",
+      "esperanza",
+      "”",
+      "."
+    ],
+    "token_count": 220,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 60,
+      "NN": 124,
+      "IN": 19,
+      "FW": 60,
+      "CD": 4,
+      "NNS": 9,
+      "RB": 1,
+      "JJ": 28,
+      "VBZ": 5,
+      "VBP": 3,
+      "DT": 2,
+      "VBD": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 21,
+      "NN-NN": 74,
+      "NN-IN": 13,
+      "IN-FW": 8,
+      "FW-NNP": 15,
+      "NNP-NNP": 25,
+      "NN-NNP": 11,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NNP-FW": 7,
+      "FW-FW": 33,
+      "IN-CD": 1,
+      "CD-NNS": 3,
+      "NNS-RB": 1,
+      "RB-CD": 1,
+      "NNS-CD": 1,
+      "NNS-JJ": 1,
+      "JJ-NN": 18,
+      "NN-FW": 8,
+      "FW-JJ": 6,
+      "NN-JJ": 11,
+      "JJ-FW": 2,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-NN": 6,
+      "JJ-NNP": 3,
+      "IN-JJ": 3,
+      "JJ-NNS": 4,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "JJ-JJ": 1,
+      "IN-NN": 3,
+      "NN-NNS": 1,
+      "VBP-FW": 1,
+      "NNP-JJ": 1,
+      "NNP-DT": 2,
+      "DT-NN": 2,
+      "IN-NNS": 1,
+      "NNS-IN": 3,
+      "NN-VBZ": 3,
+      "VBZ-NNP": 1,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "VBZ-IN": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "VBZ-JJ": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 16,
+      "NN-NN-IN": 8,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NN": 8,
+      "NN-NN-NNP": 7,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 8,
+      "NNP-NNP-NNP": 10,
+      "NN-NN-NN": 41,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "IN-FW-JJ": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "JJ-NN-NN": 9,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NN": 5,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 8,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-FW": 3,
+      "FW-NNP-NN": 2,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-JJ-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "FW-FW-FW": 22,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 2,
+      "DT-NN-NN": 1,
+      "NNP-NN-IN": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "IN-NN-IN": 1,
+      "IN-JJ-NNP": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NN-JJ-NNS": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-DT": 1,
+      "DT-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 124,
+        "NNP": 60,
+        "FW": 60,
+        "JJ": 28,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 74,
+        "FW-FW": 33,
+        "NNP-NNP": 25,
+        "NNP-NN": 21,
+        "JJ-NN": 18
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 41,
+        "FW-FW-FW": 22,
+        "NNP-NN-NN": 16,
+        "NNP-NNP-NNP": 10,
+        "JJ-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 8,
+      "ADJP": 7,
+      "VP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0431
+      },
+      {
+        "rule": "NP -> ('ALBA-TCP', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "ADJP -> ('internacional', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('y', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP PP ('de', 'FW') NP ('de', 'FW') ('los', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP ('de', 'IN') ('10.000', 'CD') NP ('en', 'RB') ('80', 'CD') NP ('y', 'RB') ('105', 'CD') NP NP ('en', 'FW') NP ADJP ('de', 'FW') ('apoyo', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('secretario', 'NN') ('ejecutivo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Alianza', 'NNP') ('Bolivariana', 'NNP') ('para', 'NN') ('los', 'NN') ('Pueblos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Nuestra', 'NNP') ('América-Tratado', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Comercio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Pueblos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El secretario ejecutivo"
+      },
+      {
+        "label": "NP",
+        "text": "Alianza Bolivariana para los Pueblos"
+      },
+      {
+        "label": "PP",
+        "text": "de Nuestra América-Tratado"
+      },
+      {
+        "label": "NP",
+        "text": "Nuestra América-Tratado"
+      },
+      {
+        "label": "NP",
+        "text": "Comercio"
+      },
+      {
+        "label": "NP",
+        "text": "Pueblos"
+      },
+      {
+        "label": "NP",
+        "text": "ALBA-TCP"
+      },
+      {
+        "label": "NP",
+        "text": "Rander Peña"
+      },
+      {
+        "label": "NP",
+        "text": "informó que más"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "países"
+      },
+      {
+        "label": "NP",
+        "text": "ciudades"
+      },
+      {
+        "label": "NP",
+        "text": "se movilizaron"
+      },
+      {
+        "label": "NP",
+        "text": "una jornada"
+      },
+      {
+        "label": "ADJP",
+        "text": "internacional"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP secretario/NN ejecutivo/NN)\n  de/IN\n  la/FW\n  (NP Alianza/NNP Bolivariana/NNP para/NN los/NN Pueblos/NNP)\n  (PP de/IN (NP Nuestra/NNP América-Tratado/NNP))\n  de/FW\n  (NP Comercio/NNP)\n  de/FW\n  los/FW\n  (NP Pueblos/NNP)\n  (/(\n  (NP ALBA-TCP/NNP)\n  )/)\n  ,/,\n  (NP Rander/NNP Peña/NNP)\n  ,/,\n  (NP informó/NN que/NN más/NN)\n  de/IN\n  10.000/CD\n  (NP personas/NNS)\n  en/RB\n  80/CD\n  (NP países/NNS)\n  y/RB\n  105/CD\n  (NP ciudades/NNS)\n  (NP se/JJ movilizaron/NN)\n  en/FW\n  (NP una/JJ jornada/NN)\n  (ADJP internacional/JJ)\n  de/FW\n  apoyo/FW\n  (NP a/DT Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP declaraciones/NNS)\n  en/FW\n  (NP Venezolana/NNP)\n  de/FW\n  (NP Televisión/NNP)\n  (/(\n  (NP VTV/NNP)\n  )/)\n  ,/,\n  (NP Peña/NNP)\n  (VP aseguró/VBZ que/JJ)\n  la/FW\n  movilización/FW\n  busca/FW\n  impedir/FW\n  (NP cualquier/JJR intento/NN)\n  de/IN\n  intervención/FW\n  (NP por/JJ parte/NN)\n  (PP\n    de/IN\n    (NP Estados/NNP Unidos/NNP y/NNP reafirmó/NN el/NN compromiso/NN))\n  de/IN\n  los/FW\n  (NP pueblos/JJ con/NN la/NN)\n  (ADJP estabilidad/JJ)\n  (ADJP regional/JJ)\n  ./.)",
+      "(S\n  (NP Denunció/NNP que/NN Washington/NNP pretende/NN imponer/NN)\n  (NP una/JJ narrativa/NN)\n  ,/,\n  en/FW\n  las/FW\n  (NP dimensiones/NNS política/NN)\n  ,/,\n  (NP jurídica/NN y/NNP comunicacional/NN)\n  ,/,\n  (NP para/NN justificar/NN)\n  (NP una/JJ acción/NN militar/NN)\n  en/IN\n  el/FW\n  mar/FW\n  (NP Caribe/NNP bajo/NN el/NN)\n  (PP argumento/IN (NP del/NN combate/NN al/NN narcotráfico/NN))\n  ./.)",
+      "(S\n  (NP Peña/NNP sostuvo/NN que/NN la/NN)\n  versión/FW\n  (NP difudida/NN por/NN la/NN Casa/NNP Blanca/NNP carece/NN)\n  de/FW\n  sustento/FW\n  ,/,\n  (ADJP citando/JJ)\n  informes/FW\n  de/FW\n  la/FW\n  (NP Oficina/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (NP contra/JJ la/NN Droga/NNP que/NN)\n  ,/,\n  (NP según/NN él/NN)\n  ,/,\n  (NP señalan/NN que/NN la/NN)\n  ruta/FW\n  del/FW\n  narcotráfico/FW\n  pasa/FW\n  por/FW\n  el/FW\n  (NP Pacífico/NNP y/NN Colombia/NNP)\n  ,/,\n  (VP y/VBZ (NP no/DT por/NN territorio/NN venezolano/NN))\n  ./.)",
+      "(S\n  (NP Calificó/NNP)\n  el/CC\n  (NP despliegue/NN)\n  (PP de/IN (NP un/JJ submarino/NN))\n  (NP\n    nuclear/JJ\n    estadounidense/NN\n    como/NN\n    “/NNP\n    desproporcionado/NN\n    ”/NNP\n    y/NNP\n    afirmó/NN\n    que/NN\n    su/NN\n    verdadera/NN\n    intención/NN\n    es/NN\n    “/NNP\n    intimidar/NN)\n  ,/,\n  (NP amenazar/JJ la/NN paz/NN)\n  ,/,\n  (NP y/NN provocar/NN)\n  (NP un/JJ cambio/NN)\n  (PP de/IN (NP régimen/NNS))\n  (PP en/IN (NP el/NN país/NN ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "FECHAS_ESPECIFICAS",
+      "INTEGRACION_LATINOAMERICANA",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que washington pretende imponer una narrativa, en las dimensiones política, jurídica y comunicacional, para justificar una acción militar en el mar caribe bajo el argumento del combate al",
+        "position": [
+          506,
+          702
+        ],
+        "start": 506,
+        "end": 702
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "alianza bolivariana para los pueblos de nuestra américa-tratado de comercio de los pueblos (alba-tcp), rander peña, informó que más de 10.000 personas en 80 países y 105 ciudades se movilizaron en una jornada internacional",
+        "position": [
+          30,
+          252
+        ],
+        "start": 30,
+        "end": 252
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          724,
+          731
+        ],
+        "start": 724,
+        "end": 731
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          146,
+          153
+        ],
+        "start": 146,
+        "end": 153
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1409,
+          1416
+        ],
+        "start": 1409,
+        "end": 1416
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "organización popular",
+        "position": [
+          1326,
+          1346
+        ],
+        "start": 1326,
+        "end": 1346
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          1274,
+          1299
+        ],
+        "start": 1274,
+        "end": 1299
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          833,
+          848
+        ],
+        "start": 833,
+        "end": 848
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "alba",
+        "position": [
+          122,
+          126
+        ],
+        "start": 122,
+        "end": 126
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          1466,
+          1474
+        ],
+        "start": 1466,
+        "end": 1474
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          439,
+          447
+        ],
+        "start": 439,
+        "end": 447
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          1208,
+          1215
+        ],
+        "start": 1208,
+        "end": 1215
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          506,
+          514
+        ],
+        "start": 506,
+        "end": 514
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          659,
+          662
+        ],
+        "start": 659,
+        "end": 662
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "ruta",
+        "position": [
+          895,
+          899
+        ],
+        "start": 895,
+        "end": 899
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          940,
+          948
+        ],
+        "start": 940,
+        "end": 948
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          422,
+          436
+        ],
+        "start": 422,
+        "end": 436
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          264,
+          273
+        ],
+        "start": 264,
+        "end": 273
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1128,
+          1134
+        ],
+        "start": 1128,
+        "end": 1134
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          663,
+          669
+        ],
+        "start": 663,
+        "end": 669
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "sábado 30 de agosto",
+        "position": [
+          1732,
+          1751
+        ],
+        "start": 1732,
+        "end": 1751
+      },
+      {
+        "category": "INTEGRACION_LATINOAMERICANA",
+        "matched_text": "alba-tcp destacó también la respuesta del pueblo venezolano al llamado del presidente nicolás maduro para el alistamiento y la organización popular. afirmó que este proceso",
+        "position": [
+          1199,
+          1371
+        ],
+        "start": 1199,
+        "end": 1371
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          168,
+          180
+        ],
+        "start": 168,
+        "end": 180
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10.000 personas",
+        "position": [
+          165,
+          180
+        ],
+        "start": 165,
+        "end": 180
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10.000",
+        "position": [
+          158,
+          171
+        ],
+        "start": 158,
+        "end": 171
+      }
+    ],
+    "match_count": 25
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "América Latina y el Caribe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pacífico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "la Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "movilizacción",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "VTV",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Peña",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudáfrica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rander Peña",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Azerbaiyán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina de las Naciones Unidas contra la Droga",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Santa Lucía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alianza Bolivariana para los Pueblos de Nuestra América-Tratado de Comercio de los Pueblos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezolana de Televisión",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "mar Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Alianza Bolivariana para los Pueblos de Nuestra América-Tratado de Comercio de los Pueblos",
+        "relacion": "INFORMAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Rander Peña",
+        "relacion": "INFORMAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "ASEGURAR",
+        "objeto": "Venezolana de Televisión"
+      },
+      {
+        "sujeto": "Venezolana de Televisión",
+        "relacion": "ASEGURAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "ASEGURAR",
+        "objeto": "VTV"
+      },
+      {
+        "sujeto": "VTV",
+        "relacion": "ASEGURAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "ASEGURAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "PRETENDER_DENUNCIAR",
+        "objeto": "mar Caribe"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "SOSTENER",
+        "objeto": "la Casa Blanca"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "SOSTENER",
+        "objeto": "Oficina de las Naciones Unidas contra la Droga"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "SOSTENER",
+        "objeto": "Pacífico"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "SOSTENER",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "la Casa Blanca",
+        "relacion": "CARECER_SOSTENER",
+        "objeto": "Oficina de las Naciones Unidas contra la Droga"
+      },
+      {
+        "sujeto": "la Casa Blanca",
+        "relacion": "CARECER_SOSTENER",
+        "objeto": "Pacífico"
+      },
+      {
+        "sujeto": "la Casa Blanca",
+        "relacion": "CARECER_SOSTENER",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "UNIR",
+        "objeto": "Europa"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "UNIR",
+        "objeto": "África"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "UNIR",
+        "objeto": "América Latina y el Caribe"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "UNIR",
+        "objeto": "Sudáfrica"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "UNIR",
+        "objeto": "Azerbaiyán"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "UNIR",
+        "objeto": "Santa Lucía"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6369,
+    "pos": 0.009,
+    "neu": 0.967,
+    "neg": 0.025,
+    "label": "negative"
+  }
+}

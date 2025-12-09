@@ -1,0 +1,746 @@
+{
+  "url": "https://www.telesurtv.net/estados-unidos-plantea-mecanismo-de-inspeccion-para-frenar-exportacion-de-petroleo-irani/",
+  "title": "Estados Unidos plantea \"mecanismo de inspección\" para frenar exportación de petróleo iraní - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Buques petroleros",
+    "detención",
+    "EE.UU.",
+    "Inspección",
+    "Irán",
+    "Trump"
+  ],
+  "text": "El gobierno del presidente de Estados Unidos, Donald Trump, analizó un plan para detener e inspeccionar petroleros iraníes en alta mar, en el marco de la Iniciativa de Seguridad contra la Proliferación de 2003, que fue liderada por Washington bajo el argumento de supuestamente frenar la “propagación de armas de destrucción masiva (ADM)”\nEl plan tendría como objetivo tomar medidas drásticas contra las ventas de petróleo iraní. Según medios locales, este mecanismo podría permitir a los gobiernos extranjeros apuntar a los envíos de petróleo de Irán a petición de Washington.\n\n\n\n\nDesde que asumió el cargo de presidente de Estados Unidos, el 20 de enero de 2025, Donald Trump ha renovado su política de “máxima presión” de sanciones contra Irán, que comenzó durante su primer mandato entre los años 2017 y 2021.\nEn esta oportunidad, el mandatario estadounidense se ha centrado especialmente en tomar medidas energéticas contra los envíos de petróleo iraní, el 24 de febrero Washington impuso sanciones dirigidas a lo que denomina una flota “en la sombra” formada por empresas, individuos y buques involucrados en el transporte de petróleo iraní, recurso vital para su economía. Veintidós individuos y 13 barcos se vieron afectados por las medidas estadounidenses contra Irán.\n\n\nLEA TAMBIÉN\nIrán incauta petrolero estadounidense en el mar de Omán\n\n\nLas autoridades gubernamentales de Irán criticaron a Washington por expresar su voluntad de mantener negociaciones nucleares y, al mismo tiempo, reanudar una guerra económica en toda regla contra Teherán. Analistas califican esto como un claro reflejo de la política exterior estadounidense, que solo busca limitar el desarrollo nuclear de Teherán.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/estados-unidos-plantea-mecanismo-de-inspeccion-para-frenar-exportacion-de-petroleo-irani/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1935,
+    "message_id": 88502,
+    "date": "2025-03-06T20:55:07+00:00",
+    "text": "teleSUR\nEstados Unidos plantea «mecanismo de inspección» para frenar exportación de petróleo iraní\nhttps://www.telesurtv.net/estados-unidos-plantea-mecanismo-de-inspeccion-para-frenar-exportacion-de-petroleo-irani/",
+    "photo_path": null,
+    "views": 1994,
+    "reactions": {
+      "👎": 43,
+      "😁": 3,
+      "🖕": 3,
+      "👍": 1,
+      "🤬": 1
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno del presidente de estados unidos, donald trump, analizó un plan para detener e inspeccionar petroleros iraníes en alta mar, en el marco de la iniciativa de seguridad contra la proliferación de 2003, que fue liderada por washington bajo el argumento de supuestamente frenar la “propagación de armas de destrucción masiva (adm)” el plan tendría como objetivo tomar medidas drásticas contra las ventas de petróleo iraní. según medios locales, este mecanismo podría permitir a los gobiernos extranjeros apuntar a los envíos de petróleo de irán a petición de washington. desde que asumió el cargo de presidente de estados unidos, el 20 de enero de 2025, donald trump ha renovado su política de “máxima presión” de sanciones contra irán, que comenzó durante su primer mandato entre los años 2017 y 2021. en esta oportunidad, el mandatario estadounidense se ha centrado especialmente en tomar medidas energéticas contra los envíos de petróleo iraní, el 24 de febrero washington impuso sanciones dirigidas a lo que denomina una flota “en la sombra” formada por empresas, individuos y buques involucrados en el transporte de petróleo iraní, recurso vital para su economía. veintidós individuos y 13 barcos se vieron afectados por las medidas estadounidenses contra irán. las autoridades gubernamentales de irán criticaron a washington por expresar su voluntad de mantener negociaciones nucleares y, al mismo tiempo, reanudar una guerra económica en toda regla contra teherán. analistas califican esto como un claro reflejo de la política exterior estadounidense, que solo busca limitar el desarrollo nuclear de teherán.",
+    "tokens": [
+      "gobierno",
+      "presidente",
+      "unidos",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "analizó",
+      "plan",
+      "detener",
+      "inspeccionar",
+      "petroleros",
+      "iraníes",
+      "alta",
+      "mar",
+      ",",
+      "marco",
+      "iniciativa",
+      "seguridad",
+      "proliferación",
+      "2003",
+      ",",
+      "liderada",
+      "washington",
+      "bajo",
+      "argumento",
+      "supuestamente",
+      "frenar",
+      "“",
+      "propagación",
+      "armas",
+      "destrucción",
+      "masiva",
+      "(",
+      "adm",
+      ")",
+      "”",
+      "plan",
+      "objetivo",
+      "tomar",
+      "medidas",
+      "drásticas",
+      "ventas",
+      "petróleo",
+      "iraní",
+      ".",
+      "según",
+      "medios",
+      "locales",
+      ",",
+      "mecanismo",
+      "podría",
+      "permitir",
+      "gobiernos",
+      "extranjeros",
+      "apuntar",
+      "envíos",
+      "petróleo",
+      "irán",
+      "petición",
+      "washington",
+      ".",
+      "asumió",
+      "cargo",
+      "presidente",
+      "unidos",
+      ",",
+      "20",
+      "enero",
+      "2025",
+      ",",
+      "donald",
+      "trump",
+      "renovado",
+      "política",
+      "“",
+      "máxima",
+      "presión",
+      "”",
+      "sanciones",
+      "irán",
+      ",",
+      "comenzó",
+      "primer",
+      "mandato",
+      "años",
+      "2017",
+      "2021.",
+      "oportunidad",
+      ",",
+      "mandatario",
+      "estadounidense",
+      "centrado",
+      "especialmente",
+      "tomar",
+      "medidas",
+      "energéticas",
+      "envíos",
+      "petróleo",
+      "iraní",
+      ",",
+      "24",
+      "febrero",
+      "washington",
+      "impuso",
+      "sanciones",
+      "dirigidas",
+      "denomina",
+      "flota",
+      "“",
+      "sombra",
+      "”",
+      "formada",
+      "empresas",
+      ",",
+      "individuos",
+      "buques",
+      "involucrados",
+      "transporte",
+      "petróleo",
+      "iraní",
+      ",",
+      "recurso",
+      "vital",
+      "economía",
+      ".",
+      "veintidós",
+      "individuos",
+      "13",
+      "barcos",
+      "vieron",
+      "afectados",
+      "medidas",
+      "estadounidenses",
+      "irán",
+      ".",
+      "autoridades",
+      "gubernamentales",
+      "irán",
+      "criticaron",
+      "washington",
+      "expresar",
+      "voluntad",
+      "mantener",
+      "negociaciones",
+      "nucleares",
+      ",",
+      "mismo",
+      "tiempo",
+      ",",
+      "reanudar",
+      "guerra",
+      "económica",
+      "toda",
+      "regla",
+      "teherán",
+      ".",
+      "analistas",
+      "califican",
+      "claro",
+      "reflejo",
+      "política",
+      "exterior",
+      "estadounidense",
+      ",",
+      "solo",
+      "busca",
+      "limitar",
+      "desarrollo",
+      "nuclear",
+      "teherán",
+      "."
+    ],
+    "token_count": 172,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "NN": 90,
+      "IN": 16,
+      "VBD": 2,
+      "JJ": 24,
+      "VBP": 9,
+      "FW": 55,
+      "CD": 7,
+      "VBZ": 5,
+      "NNS": 10
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 52,
+      "NN-IN": 13,
+      "IN-NNP": 3,
+      "NNP-NNP": 12,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "JJ-NN": 16,
+      "NN-VBP": 2,
+      "VBP-NN": 1,
+      "IN-JJ": 2,
+      "IN-FW": 8,
+      "FW-FW": 34,
+      "FW-NNP": 8,
+      "NNP-FW": 2,
+      "NN-NNP": 2,
+      "NNP-IN": 1,
+      "IN-CD": 2,
+      "CD-NN": 2,
+      "VBP-NNP": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-JJ": 3,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-JJ": 4,
+      "JJ-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-JJ": 9,
+      "NN-FW": 5,
+      "FW-NN": 6,
+      "VBD-CD": 1,
+      "CD-FW": 2,
+      "FW-IN": 1,
+      "CD-NNP": 2,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-CD": 1,
+      "CD-CD": 1,
+      "FW-JJ": 2,
+      "JJ-FW": 2,
+      "FW-CD": 1,
+      "VBP-IN": 1,
+      "NNP-VBZ": 2,
+      "VBZ-CD": 1,
+      "VBP-VBZ": 1,
+      "JJ-NNP": 2,
+      "VBZ-FW": 1,
+      "NNP-VBP": 1,
+      "NNS-NNS": 1,
+      "IN-NN": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 7,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 8,
+      "NNP-NN-IN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 2,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-CD": 1,
+      "CD-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "VBP-JJ-JJ": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "FW-FW-NN": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-JJ-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 55,
+        "NNP": 33,
+        "JJ": 24,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 34,
+        "JJ-NN": 16,
+        "NN-IN": 13,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 20,
+        "NN-NN-JJ": 9,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 63,
+      "PP": 9,
+      "VP": 14,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0632
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0316
+      },
+      {
+        "rule": "NP -> ('iraní', 'NN')",
+        "frequency": 3,
+        "weight": 0.0316
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('Irán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP PP (',', ',') NP (',', ',') ('analizó', 'RB') NP VP PP (',', ',') ('en', 'FW') ('el', 'FW') ('marco', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('de', 'IN') ('2003', 'CD') (',', ',') ('que', 'FW') ('fue', 'FW') ('liderada', 'FW') ('por', 'FW') NP ('argumento', 'IN') ('de', 'FW') ('supuestamente', 'FW') ('frenar', 'FW') ('la', 'FW') ('“', 'FW') ('propagación', 'FW') ('de', 'FW') ('armas', 'FW') ('de', 'FW') ('destrucción', 'FW') ('masiva', 'FW') ('(', '(') NP (')', ')') VP VP VP ('ventas', 'FW') ('de', 'FW') ('petróleo', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('gobierno', 'NN') ('del', 'NN') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('Donald', 'NNP') ('Trump', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('plan', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El gobierno del presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "un plan"
+      },
+      {
+        "label": "VP",
+        "text": "para detener e inspeccionar petroleros iraníes"
+      },
+      {
+        "label": "NP",
+        "text": "detener e inspeccionar petroleros iraníes"
+      },
+      {
+        "label": "PP",
+        "text": "en alta mar"
+      },
+      {
+        "label": "NP",
+        "text": "alta mar"
+      },
+      {
+        "label": "NP",
+        "text": "Iniciativa"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad contra la Proliferación"
+      },
+      {
+        "label": "NP",
+        "text": "Washington bajo el"
+      },
+      {
+        "label": "NP",
+        "text": "ADM"
+      },
+      {
+        "label": "VP",
+        "text": "” El plan"
+      },
+      {
+        "label": "NP",
+        "text": "El plan"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP gobierno/NN del/NN presidente/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  analizó/RB\n  (NP un/JJ plan/NN)\n  (VP\n    para/VBP\n    (NP detener/NN e/NN inspeccionar/NN petroleros/NN iraníes/NN))\n  (PP en/IN (NP alta/JJ mar/NN))\n  ,/,\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  (NP Iniciativa/NNP)\n  de/FW\n  (NP Seguridad/NNP contra/NN la/NN Proliferación/NNP)\n  de/IN\n  2003/CD\n  ,/,\n  que/FW\n  fue/FW\n  liderada/FW\n  por/FW\n  (NP Washington/NNP bajo/NN el/NN)\n  argumento/IN\n  de/FW\n  supuestamente/FW\n  frenar/FW\n  la/FW\n  “/FW\n  propagación/FW\n  de/FW\n  armas/FW\n  de/FW\n  destrucción/FW\n  masiva/FW\n  (/(\n  (NP ADM/NNP)\n  )/)\n  (VP ”/VBP (NP El/NNP plan/NN))\n  (VP tendría/VBZ (NP como/JJ objetivo/JJ tomar/NN medidas/NNS))\n  (VP drásticas/VBP (NP contra/JJ las/NNS))\n  ventas/FW\n  de/FW\n  petróleo/FW\n  (NP iraní/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP medios/NNS locales/NNS)\n  ,/,\n  (NP este/NN mecanismo/NN podría/NN)\n  (VP\n    permitir/VBZ\n    (NP a/DT los/JJ gobiernos/JJ extranjeros/NN apuntar/NN)\n    (NP a/DT los/JJ envíos/NN))\n  de/IN\n  petróleo/FW\n  de/FW\n  Irán/FW\n  (NP a/DT petición/NN)\n  (PP de/IN (NP Washington/NNP))\n  ./.)",
+      "(S\n  (NP Desde/NNP que/NN asumió/NN)\n  el/FW\n  (NP cargo/NN)\n  de/FW\n  presidente/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (VP el/VBD)\n  20/CD\n  de/FW\n  enero/FW\n  de/IN\n  2025/CD\n  ,/,\n  (NP Donald/NNP Trump/NNP ha/NN renovado/NN su/NN política/NN)\n  (PP de/IN (NP “/NNP máxima/NNP presión/NN ”/NNP))\n  (PP de/IN (NP sanciones/NNS))\n  (NP contra/JJ Irán/NNP)\n  ,/,\n  (NP que/NN comenzó/NN durante/NN su/NN primer/NN mandato/NN)\n  entre/FW\n  (NP los/NN años/NN)\n  2017/CD\n  (NP y/NN)\n  2021/CD\n  ./.)",
+      "(S\n  (NP En/NNP esta/NN oportunidad/NN)\n  ,/,\n  el/FW\n  (NP\n    mandatario/NN\n    estadounidense/NN\n    se/NN\n    ha/NN\n    centrado/NN\n    especialmente/NN)\n  en/FW\n  (NP tomar/NN medidas/NNS)\n  (VP energéticas/VBP (NP contra/JJ los/JJ envíos/NN))\n  de/IN\n  petróleo/FW\n  (NP iraní/NN)\n  ,/,\n  el/FW\n  24/CD\n  de/FW\n  febrero/FW\n  (NP Washington/NNP impuso/NN sanciones/NNS)\n  (VP\n    dirigidas/VBP\n    (NP a/DT lo/NN que/NN denomina/NN)\n    (NP una/JJ flota/NN “/NNP))\n  (VP en/VBZ)\n  la/FW\n  sombra/FW\n  ”/FW\n  formada/FW\n  por/FW\n  (NP empresas/NN)\n  ,/,\n  (NP individuos/JJ y/NN buques/NNS)\n  (VP involucrados/VBP)\n  en/IN\n  el/FW\n  transporte/FW\n  de/FW\n  petróleo/FW\n  (NP iraní/NN)\n  ,/,\n  (NP recurso/JJ vital/JJ para/NN su/NN economía/NN)\n  ./.)",
+      "(S\n  (NP Veintidós/NNP individuos/NN y/NN)\n  13/CD\n  (NP barcos/NN se/NN vieron/NN afectados/NN por/NN las/NNS)\n  (VP medidas/VBP)\n  (VP estadounidenses/VBZ (NP contra/JJ Irán/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra económica en toda",
+        "position": [
+          1508,
+          1532
+        ],
+        "start": 1508,
+        "end": 1532
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "sanciones dirigidas a lo que denomina una flota “en la sombra” formada por empresas",
+        "position": [
+          994,
+          1077
+        ],
+        "start": 994,
+        "end": 1077
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente de",
+        "position": [
+          3,
+          29
+        ],
+        "start": 3,
+        "end": 29
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de estados",
+        "position": [
+          16,
+          37
+        ],
+        "start": 16,
+        "end": 37
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          131,
+          134
+        ],
+        "start": 131,
+        "end": 134
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          30,
+          44
+        ],
+        "start": 30,
+        "end": 44
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "20 de enero de 2025",
+        "position": [
+          644,
+          663
+        ],
+        "start": 644,
+        "end": 663
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "años 2017",
+        "position": [
+          796,
+          805
+        ],
+        "start": 796,
+        "end": 805
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Washington",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Iniciativa de Seguridad contra la Proliferación de 2003",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Analistas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "mar de Omán\n\n\nLas autoridades gubernamentales de",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ANALIZAR",
+        "objeto": "Iniciativa de Seguridad contra la Proliferación de 2003"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ANALIZAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ANALIZAR",
+        "objeto": "Iniciativa de Seguridad contra la Proliferación de 2003"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ANALIZAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "APUNTAR_PERMITIR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ASUMIR_RENOVAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ASUMIR_RENOVAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "RENOVAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "CRITICAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "CRITICAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "CRITICAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Analistas",
+        "relacion": "CALIFICAR",
+        "objeto": "Teherán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7184,
+    "pos": 0.027,
+    "neu": 0.973,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

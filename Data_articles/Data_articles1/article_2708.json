@@ -1,0 +1,737 @@
+{
+  "url": "https://www.telesurtv.net/cancilleria-venezolana-denuncia-vandalismo-en-sede-diplomatica-en-oslo/",
+  "title": "Cancillería venezolana denuncia vandalismo en sede diplomática en Oslo - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ataque",
+    "fascismo",
+    "Noruega",
+    "Oslo",
+    "sede diplomática",
+    "Venezuela",
+    "Violencia",
+    "Yván Gil"
+  ],
+  "text": "El ministro del Poder Popular para Relaciones Exteriores de la República Bolivariana de Venezuela, Yván Gil, emitió un comunicado para condenar enérgicamente la invasión y vandalización de la sede diplomática venezolana en Oslo, Noruega, ocurrida el día de hoy. En su declaración, Gil calificó a los responsables del ataque como “elementos fascistas” que actúan en contra de los intereses del pueblo venezolano.\nLEA TAMBIÉN\nVenezuela denuncia ataques contra sus sedes diplomáticas en el extranjero\nEl canciller subrayó que la inviolabilidad de las sedes diplomáticas es una responsabilidad del Estado receptor y exigió a las autoridades noruegas que identifiquen y lleven ante la justicia a los culpables de este acto violento.\n“El país y el mundo se dan cuenta de quiénes son estos desquiciados fascistas, capaces de arremeter contra los intereses del pueblo venezolano”, afirmó Gil.\nEste incidente se produce en un contexto de creciente tensión política y social, donde el gobierno venezolano ha denunciado repetidamente ataques a su soberanía y a sus representaciones diplomáticas en el extranjero. La acción vandálica ha sido interpretada por la Cancillería como un intento deliberado de socavar la imagen y los derechos del Estado venezolano en el ámbito internacional.\nLa denuncia del Canciller resuena con las preocupaciones sobre la seguridad de las misiones diplomáticas y la necesidad de protegerlas frente a actos de violencia e intolerancia. El Gobierno venezolano espera una respuesta rápida y efectiva por parte del gobierno noruego para garantizar la protección de su sede diplomática y asegurar que tales incidentes no se repitan.\nEste ataque no solo pone en riesgo las relaciones bilaterales entre Venezuela y Noruega, sino que también refleja un clima global donde las fuerzas extremistas buscan desestabilizar gobiernos progresistas. La Cancillería venezolana reafirma su compromiso con la defensa de su soberanía y llama a la comunidad internacional a condenar estos actos violentos que atentan contra el respeto mutuo entre naciones.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cancilleria-venezolana-denuncia-vandalismo-en-sede-diplomatica-en-oslo/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1225,
+    "message_id": 84508,
+    "date": "2025-01-15T14:55:12+00:00",
+    "text": "teleSUR\nCancillería venezolana denuncia vandalismo en sede diplomática en Oslo\nhttps://www.telesurtv.net/cancilleria-venezolana-denuncia-vandalismo-en-sede-diplomatica-en-oslo/",
+    "photo_path": null,
+    "views": 2771,
+    "reactions": {
+      "🤬": 73,
+      "🫡": 2,
+      "👎": 1
+    },
+    "total_reactions": 76
+  },
+  "preprocessing": {
+    "cleaned": "el ministro del poder popular para relaciones exteriores de la república bolivariana de venezuela, yván gil, emitió un comunicado para condenar enérgicamente la invasión y vandalización de la sede diplomática venezolana en oslo, noruega, ocurrida el día de hoy. en su declaración, gil calificó a los responsables del ataque como “elementos fascistas” que actúan en contra de los intereses del pueblo venezolano. el canciller subrayó que la inviolabilidad de las sedes diplomáticas es una responsabilidad del estado receptor y exigió a las autoridades noruegas que identifiquen y lleven ante la justicia a los culpables de este acto violento. “el país y el mundo se dan cuenta de quiénes son estos desquiciados fascistas, capaces de arremeter contra los intereses del pueblo venezolano”, afirmó gil. este incidente se produce en un contexto de creciente tensión política y social, donde el gobierno venezolano ha denunciado repetidamente ataques a su soberanía y a sus representaciones diplomáticas en el extranjero. la acción vandálica ha sido interpretada por la cancillería como un intento deliberado de socavar la imagen y los derechos del estado venezolano en el ámbito internacional. la denuncia del canciller resuena con las preocupaciones sobre la seguridad de las misiones diplomáticas y la necesidad de protegerlas frente a actos de violencia e intolerancia. el gobierno venezolano espera una respuesta rápida y efectiva por parte del gobierno noruego para garantizar la protección de su sede diplomática y asegurar que tales incidentes no se repitan. este ataque no solo pone en riesgo las relaciones bilaterales entre venezuela y noruega, sino que también refleja un clima global donde las fuerzas extremistas buscan desestabilizar gobiernos progresistas. la cancillería venezolana reafirma su compromiso con la defensa de su soberanía y llama a la comunidad internacional a condenar estos actos violentos que atentan contra el respeto mutuo entre naciones.",
+    "tokens": [
+      "ministro",
+      "poder",
+      "popular",
+      "relaciones",
+      "exteriores",
+      "república",
+      "bolivariana",
+      "venezuela",
+      ",",
+      "yván",
+      "gil",
+      ",",
+      "emitió",
+      "comunicado",
+      "condenar",
+      "enérgicamente",
+      "invasión",
+      "vandalización",
+      "sede",
+      "diplomática",
+      "venezolana",
+      "oslo",
+      ",",
+      "noruega",
+      ",",
+      "ocurrida",
+      "día",
+      "hoy",
+      ".",
+      "declaración",
+      ",",
+      "gil",
+      "calificó",
+      "responsables",
+      "ataque",
+      "“",
+      "elementos",
+      "fascistas",
+      "”",
+      "actúan",
+      "intereses",
+      "pueblo",
+      "venezolano",
+      ".",
+      "canciller",
+      "subrayó",
+      "inviolabilidad",
+      "sedes",
+      "diplomáticas",
+      "responsabilidad",
+      "receptor",
+      "exigió",
+      "autoridades",
+      "noruegas",
+      "identifiquen",
+      "lleven",
+      "justicia",
+      "culpables",
+      "acto",
+      "violento",
+      ".",
+      "“",
+      "país",
+      "mundo",
+      "dan",
+      "cuenta",
+      "quiénes",
+      "desquiciados",
+      "fascistas",
+      ",",
+      "capaces",
+      "arremeter",
+      "intereses",
+      "pueblo",
+      "venezolano",
+      "”",
+      ",",
+      "afirmó",
+      "gil",
+      ".",
+      "incidente",
+      "produce",
+      "contexto",
+      "creciente",
+      "tensión",
+      "política",
+      "social",
+      ",",
+      "gobierno",
+      "venezolano",
+      "denunciado",
+      "repetidamente",
+      "ataques",
+      "soberanía",
+      "representaciones",
+      "diplomáticas",
+      "extranjero",
+      ".",
+      "acción",
+      "vandálica",
+      "sido",
+      "interpretada",
+      "cancillería",
+      "intento",
+      "deliberado",
+      "socavar",
+      "imagen",
+      "derechos",
+      "venezolano",
+      "ámbito",
+      "internacional",
+      ".",
+      "denuncia",
+      "canciller",
+      "resuena",
+      "preocupaciones",
+      "seguridad",
+      "misiones",
+      "diplomáticas",
+      "necesidad",
+      "protegerlas",
+      "frente",
+      "actos",
+      "violencia",
+      "intolerancia",
+      ".",
+      "gobierno",
+      "venezolano",
+      "espera",
+      "respuesta",
+      "rápida",
+      "efectiva",
+      "parte",
+      "gobierno",
+      "noruego",
+      "garantizar",
+      "protección",
+      "sede",
+      "diplomática",
+      "asegurar",
+      "tales",
+      "incidentes",
+      "repitan",
+      ".",
+      "ataque",
+      "solo",
+      "pone",
+      "riesgo",
+      "relaciones",
+      "bilaterales",
+      "venezuela",
+      "noruega",
+      ",",
+      "sino",
+      "refleja",
+      "clima",
+      "global",
+      "fuerzas",
+      "extremistas",
+      "buscan",
+      "desestabilizar",
+      "gobiernos",
+      "progresistas",
+      ".",
+      "cancillería",
+      "venezolana",
+      "reafirma",
+      "compromiso",
+      "defensa",
+      "soberanía",
+      "llama",
+      "comunidad",
+      "internacional",
+      "condenar",
+      "actos",
+      "violentos",
+      "atentan",
+      "respeto",
+      "mutuo",
+      "naciones",
+      "."
+    ],
+    "token_count": 181,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "PRP": 1,
+      "FW": 62,
+      "NN": 111,
+      "IN": 9,
+      "VBZ": 4,
+      "JJ": 28,
+      "MD": 1,
+      "VB": 1,
+      "NNS": 19,
+      "VBP": 16,
+      "RB": 1,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-PRP": 1,
+      "PRP-FW": 1,
+      "FW-NNP": 6,
+      "NNP-NNP": 13,
+      "NNP-NN": 16,
+      "NN-NNP": 12,
+      "NNP-IN": 1,
+      "IN-FW": 5,
+      "NNP-FW": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-NN": 18,
+      "NN-NN": 64,
+      "NN-FW": 8,
+      "FW-JJ": 5,
+      "JJ-FW": 5,
+      "FW-FW": 41,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "NN-IN": 3,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-NN": 7,
+      "NN-NNS": 14,
+      "NNS-VBP": 14,
+      "VBP-JJ": 9,
+      "FW-NNS": 3,
+      "VBP-NN": 2,
+      "VBP-IN": 3,
+      "IN-NN": 2,
+      "JJ-JJ": 3,
+      "NNS-IN": 2,
+      "IN-JJ": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NN-JJ": 6,
+      "JJ-NNS": 1,
+      "NN-VBP": 2,
+      "JJ-NNP": 1,
+      "NNS-VBZ": 1,
+      "VBZ-DT": 2,
+      "DT-JJ": 1,
+      "DT-NN": 1,
+      "NNS-NNS": 1,
+      "VBP-NNP": 2
+    },
+    "trigram_freq": {
+      "NNP-PRP-FW": 1,
+      "PRP-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 35,
+      "NN-NN-FW": 6,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 5,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 2,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NN": 7,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 8,
+      "NN-NNS-VBP": 9,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-FW": 3,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNP": 3,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-FW-FW": 5,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "NN-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "NNP-NN-FW": 2,
+      "FW-FW-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NNS": 4,
+      "NN-NN-VBP": 1,
+      "NN-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-IN": 1,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-FW-NN": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 111,
+        "FW": 62,
+        "NNP": 35,
+        "JJ": 28,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 64,
+        "FW-FW": 41,
+        "JJ-NN": 18,
+        "NNP-NN": 16,
+        "NN-NNS": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 29,
+        "NNP-NN-NN": 12,
+        "JJ-NN-NN": 9,
+        "NN-NNS-VBP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 26,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0275
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "S -> NP ('ministro', 'PRP') ('del', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') VP ('la', 'FW') ('invasión', 'FW') ('y', 'FW') ('vandalización', 'FW') ('de', 'FW') ('la', 'FW') ('sede', 'FW') ('diplomática', 'FW') ('venezolana', 'FW') ('en', 'FW') NP (',', ',') NP (',', ',') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Poder', 'NNP') ('Popular', 'NNP') ('para', 'NN') ('Relaciones', 'NNP') ('Exteriores', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Bolivariana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Yván', 'NNP') ('Gil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "VP -> ('emitió', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0092
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "Poder Popular para Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Yván Gil"
+      },
+      {
+        "label": "VP",
+        "text": "emitió un comunicado para condenar enérgicamente"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado para condenar enérgicamente"
+      },
+      {
+        "label": "NP",
+        "text": "Oslo"
+      },
+      {
+        "label": "NP",
+        "text": "Noruega"
+      },
+      {
+        "label": "NP",
+        "text": "ocurrida el día"
+      },
+      {
+        "label": "PP",
+        "text": "de hoy"
+      },
+      {
+        "label": "NP",
+        "text": "hoy"
+      },
+      {
+        "label": "NP",
+        "text": "En su declaración"
+      },
+      {
+        "label": "NP",
+        "text": "Gil"
+      },
+      {
+        "label": "VP",
+        "text": "calificó a los responsables"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  ministro/PRP\n  del/FW\n  (NP Poder/NNP Popular/NNP para/NN Relaciones/NNP Exteriores/NNP)\n  de/IN\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Yván/NNP Gil/NNP)\n  ,/,\n  (VP\n    emitió/VBZ\n    (NP un/JJ comunicado/NN para/NN condenar/NN enérgicamente/NN))\n  la/FW\n  invasión/FW\n  y/FW\n  vandalización/FW\n  de/FW\n  la/FW\n  sede/FW\n  diplomática/FW\n  venezolana/FW\n  en/FW\n  (NP Oslo/NNP)\n  ,/,\n  (NP Noruega/NNP)\n  ,/,\n  (NP ocurrida/JJ el/NN día/NN)\n  (PP de/IN (NP hoy/NN))\n  ./.)",
+      "(S\n  (NP En/NNP su/NN declaración/NN)\n  ,/,\n  (NP Gil/NNP)\n  (VP calificó/VBZ (NP a/DT los/JJ responsables/NNS))\n  (VP\n    del/VBP\n    (NP ataque/JJ como/NN “/NNP elementos/NN fascistas/NNS))\n  (VP ”/VBP (NP que/JJ actúan/NN))\n  en/FW\n  (NP contra/NN)\n  de/IN\n  los/FW\n  (NP intereses/NNS)\n  (VP del/VBP (NP pueblo/JJ venezolano/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Venezuela/NNP denuncia/NN ataques/NNS)\n  (VP contra/VBP (NP sus/NN sedes/NNS))\n  (VP diplomáticas/VBP)\n  (PP\n    en/IN\n    (NP el/NN extranjero/NN El/NNP canciller/NN subrayó/NN que/NN))\n  la/FW\n  inviolabilidad/FW\n  de/FW\n  las/FW\n  (NP sedes/NNS)\n  (VP\n    diplomáticas/VBP\n    (NP\n      es/JJ\n      una/JJ\n      responsabilidad/NN\n      del/NN\n      Estado/NNP\n      receptor/NN\n      y/NN))\n  (VP exigió/VBZ (NP a/DT las/JJ autoridades/NNS))\n  (VP\n    noruegas/VBP\n    (NP que/JJ identifiquen/NN y/NN)\n    lleven/RB\n    ante/JJ)\n  la/FW\n  justicia/FW\n  (NP a/DT los/JJ culpables/NNS)\n  de/IN\n  este/FW\n  acto/FW\n  (NP violento/NN)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP país/NN y/NN)\n  el/FW\n  mundo/FW\n  se/FW\n  dan/FW\n  cuenta/FW\n  de/FW\n  quiénes/FW\n  (NP son/NN estos/NN desquiciados/NN fascistas/NNS)\n  ,/,\n  (NP capaces/NNS)\n  (VP de/VBP (NP arremeter/NN) (NP contra/JJ los/NN intereses/NNS))\n  (VP del/VBP (NP pueblo/JJ venezolano/NN ”/NNP))\n  ,/,\n  (NP afirmó/NN Gil/NNP)\n  ./.)",
+      "(S\n  (NP Este/NN incidente/NN)\n  se/FW\n  (VP produce/VBP)\n  en/FW\n  (NP un/JJ contexto/NN)\n  de/IN\n  creciente/FW\n  (NP tensión/NN política/NN y/NNP)\n  (ADJP social/JJ)\n  ,/,\n  (NP\n    donde/JJ\n    el/NN\n    gobierno/NN\n    venezolano/NN\n    ha/NN\n    denunciado/NN\n    repetidamente/NN)\n  (VP ataques/VBZ (NP a/DT su/JJ soberanía/NN))\n  (VP y/VBZ (NP a/DT sus/NN))\n  (VP representaciones/VBZ (NP diplomáticas/NNS))\n  (PP en/IN (NP el/NN extranjero/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque no solo pone en riesgo las relaciones bilaterales entre venezuela y noruega, sino que también refleja un clima global donde las fuerzas",
+        "position": [
+          1652,
+          1794
+        ],
+        "start": 1652,
+        "end": 1794
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "relaciones bilaterales",
+        "position": [
+          1686,
+          1708
+        ],
+        "start": 1686,
+        "end": 1708
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          873,
+          879
+        ],
+        "start": 873,
+        "end": 879
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1909,
+          1916
+        ],
+        "start": 1909,
+        "end": 1916
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "soberanía y llama a la comunidad internacional a condenar estos actos violentos que atentan contra el respeto",
+        "position": [
+          1923,
+          2032
+        ],
+        "start": 1923,
+        "end": 2032
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del poder popular",
+        "position": [
+          3,
+          29
+        ],
+        "start": 3,
+        "end": 29
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          511,
+          518
+        ],
+        "start": 511,
+        "end": 518
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          88,
+          97
+        ],
+        "start": 88,
+        "end": 97
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado receptor",
+        "position": [
+          594,
+          609
+        ],
+        "start": 594,
+        "end": 609
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          257,
+          260
+        ],
+        "start": 257,
+        "end": 260
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Poder Popular para Relaciones Exteriores de la",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Canciller",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado venezolano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado receptor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Noruega",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oslo",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Poder Popular para Relaciones Exteriores de la",
+        "relacion": "EMITIR",
+        "objeto": "Oslo"
+      },
+      {
+        "sujeto": "Poder Popular para Relaciones Exteriores de la",
+        "relacion": "EMITIR",
+        "objeto": "Noruega"
+      },
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "EMITIR",
+        "objeto": "Oslo"
+      },
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "EMITIR",
+        "objeto": "Noruega"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "EMITIR",
+        "objeto": "Oslo"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "EMITIR",
+        "objeto": "Noruega"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4939,
+    "pos": 0.026,
+    "neu": 0.96,
+    "neg": 0.015,
+    "label": "positive"
+  }
+}

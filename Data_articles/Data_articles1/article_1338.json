@@ -1,0 +1,701 @@
+{
+  "url": "https://www.telesurtv.net/unicef-mas-cien-ninos-desnutricion-gaza/",
+  "title": "112 niños corren riesgo de desnutrición diariamente en Gaza",
+  "section": "Mundo",
+  "tags": [
+    "Desnutición",
+    "Gaza",
+    "niños palestinos",
+    "Unicef"
+  ],
+  "text": "El vocero del Fondo de las Naciones Unidas para la Infancia (Unicef), Kazem Abu Khalaf, advirtió el sábado sobre el grave y acelerado deterioro de la situación humanitaria en la Franja de Gaza, señalando que alrededor de 112 niños enfrentan diariamente el riesgo de desnutrición en el territorio palestino.\nKazem Abu Khalaf precisó que la cifra de niños y niñas que han alcanzado un estado de desnutrición severa ha aumentado en 180 por ciento al comparar los datos de febrero, durante la tregua en la Franja de Gaza, con junio pasado.\n\n\nAdemás afirmó que decenas de miles de menores palestinos sufrían distintos grados de desnutrición, lo que representaba una amenaza directa para sus vidas y su futuro.\nSegún el funcionario de la Unicef la crisis humanitaria en la Franja de Gaza no afecta sólo a los niños, sino también a mujeres embarazadas, muchas de las cuales padecen desnutrición severa, lo que resulta en el nacimiento de niños en condiciones críticas de salud desde el nacimiento.\nAnte la gravedad de la situación, Unicef instó a la comunidad internacional a actuar y presionar para la entrada de ayuda alimentaria y médica al territorio palestino, con el fin de salvar vidas y evitar una catástrofe humanitaria mayor.\nCon anterioridad, el director de la Red de Organizaciones Civiles en Gaza, Amjad al-Shawa, afirmó que más de 15 mil enfermos y heridos necesitaban con urgencia ser evacuados fuera de la Franja de Gaza para recibir tratamiento.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/unicef-mas-cien-ninos-desnutricion-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1124,
+    "message_id": 101982,
+    "date": "2025-08-17T05:55:07+00:00",
+    "text": "teleSUR\nUnicef advierte que más de 100 niños corren riesgo de desnutrición diariamente en Gaza\nhttps://www.telesurtv.net/unicef-mas-cien-ninos-desnutricion-gaza/",
+    "photo_path": null,
+    "views": 1996,
+    "reactions": {
+      "🤬": 44,
+      "😭": 18,
+      "❤": 3
+    },
+    "total_reactions": 65
+  },
+  "preprocessing": {
+    "cleaned": "el vocero del fondo de las naciones unidas para la infancia (unicef), kazem abu khalaf, advirtió el sábado sobre el grave y acelerado deterioro de la situación humanitaria en la franja de gaza, señalando que alrededor de 112 niños enfrentan diariamente el riesgo de desnutrición en el territorio palestino. kazem abu khalaf precisó que la cifra de niños y niñas que han alcanzado un estado de desnutrición severa ha aumentado en 180 por ciento al comparar los datos de febrero, durante la tregua en la franja de gaza, con junio pasado. además afirmó que decenas de miles de menores palestinos sufrían distintos grados de desnutrición, lo que representaba una amenaza directa para sus vidas y su futuro. según el funcionario de la unicef la crisis humanitaria en la franja de gaza no afecta sólo a los niños, sino también a mujeres embarazadas, muchas de las cuales padecen desnutrición severa, lo que resulta en el nacimiento de niños en condiciones críticas de salud desde el nacimiento. ante la gravedad de la situación, unicef instó a la comunidad internacional a actuar y presionar para la entrada de ayuda alimentaria y médica al territorio palestino, con el fin de salvar vidas y evitar una catástrofe humanitaria mayor. con anterioridad, el director de la red de organizaciones civiles en gaza, amjad al-shawa, afirmó que más de 15 mil enfermos y heridos necesitaban con urgencia ser evacuados fuera de la franja de gaza para recibir tratamiento.",
+    "tokens": [
+      "vocero",
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      ",",
+      "kazem",
+      "abu",
+      "khalaf",
+      ",",
+      "advirtió",
+      "sábado",
+      "grave",
+      "acelerado",
+      "deterioro",
+      "situación",
+      "humanitaria",
+      "franja",
+      "gaza",
+      ",",
+      "señalando",
+      "alrededor",
+      "112",
+      "niños",
+      "enfrentan",
+      "diariamente",
+      "riesgo",
+      "desnutrición",
+      "territorio",
+      "palestino",
+      ".",
+      "kazem",
+      "abu",
+      "khalaf",
+      "precisó",
+      "cifra",
+      "niños",
+      "niñas",
+      "alcanzado",
+      "desnutrición",
+      "severa",
+      "aumentado",
+      "180",
+      "ciento",
+      "comparar",
+      "datos",
+      "febrero",
+      ",",
+      "tregua",
+      "franja",
+      "gaza",
+      ",",
+      "junio",
+      "pasado",
+      ".",
+      "además",
+      "afirmó",
+      "decenas",
+      "miles",
+      "menores",
+      "palestinos",
+      "sufrían",
+      "distintos",
+      "grados",
+      "desnutrición",
+      ",",
+      "representaba",
+      "amenaza",
+      "directa",
+      "vidas",
+      "futuro",
+      ".",
+      "según",
+      "funcionario",
+      "unicef",
+      "crisis",
+      "humanitaria",
+      "franja",
+      "gaza",
+      "afecta",
+      "sólo",
+      "niños",
+      ",",
+      "sino",
+      "mujeres",
+      "embarazadas",
+      ",",
+      "muchas",
+      "cuales",
+      "padecen",
+      "desnutrición",
+      "severa",
+      ",",
+      "resulta",
+      "nacimiento",
+      "niños",
+      "condiciones",
+      "críticas",
+      "salud",
+      "nacimiento",
+      ".",
+      "gravedad",
+      "situación",
+      ",",
+      "unicef",
+      "instó",
+      "comunidad",
+      "internacional",
+      "actuar",
+      "presionar",
+      "entrada",
+      "ayuda",
+      "alimentaria",
+      "médica",
+      "territorio",
+      "palestino",
+      ",",
+      "fin",
+      "salvar",
+      "vidas",
+      "evitar",
+      "catástrofe",
+      "humanitaria",
+      "mayor",
+      ".",
+      "anterioridad",
+      ",",
+      "director",
+      "red",
+      "organizaciones",
+      "civiles",
+      "gaza",
+      ",",
+      "amjad",
+      "al-shawa",
+      ",",
+      "afirmó",
+      "15",
+      "mil",
+      "enfermos",
+      "heridos",
+      "necesitaban",
+      "urgencia",
+      "ser",
+      "evacuados",
+      "franja",
+      "gaza",
+      "recibir",
+      "tratamiento",
+      "."
+    ],
+    "token_count": 153,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "NN": 78,
+      "IN": 16,
+      "FW": 63,
+      "VBZ": 2,
+      "JJ": 18,
+      "VBP": 7,
+      "CD": 3,
+      "NNS": 9,
+      "RB": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 42,
+      "NN-NNP": 5,
+      "NNP-IN": 2,
+      "IN-FW": 11,
+      "FW-NNP": 14,
+      "NNP-NNP": 9,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 2,
+      "JJ-NN": 13,
+      "NN-VBP": 2,
+      "VBP-JJ": 4,
+      "NN-IN": 14,
+      "FW-FW": 34,
+      "FW-NN": 10,
+      "NN-FW": 7,
+      "NNP-FW": 7,
+      "IN-CD": 3,
+      "CD-JJ": 1,
+      "JJ-JJ": 4,
+      "NN-JJ": 4,
+      "CD-NN": 1,
+      "IN-NNS": 1,
+      "NNS-RB": 1,
+      "RB-NNS": 1,
+      "NNS-VBP": 5,
+      "JJ-NNS": 1,
+      "NNS-FW": 2,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-NNS": 2,
+      "VBP-FW": 1,
+      "FW-NNS": 3,
+      "VBP-RB": 1,
+      "RB-NN": 1,
+      "VBP-NNP": 1,
+      "IN-NNP": 1,
+      "NNP-JJ": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 10,
+      "NN-NN-NNP": 5,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 5,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 10,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NN": 4,
+      "NN-NN-NN": 17,
+      "NN-NN-IN": 9,
+      "NN-IN-CD": 3,
+      "IN-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "FW-FW-FW": 22,
+      "FW-NN-NN": 6,
+      "NN-NN-FW": 4,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 4,
+      "IN-FW-NN": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-NN": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-RB": 1,
+      "NNS-RB-NNS": 1,
+      "RB-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "FW-NNS-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-NN": 1,
+      "RB-NN-NN": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 78,
+        "FW": 63,
+        "NNP": 31,
+        "JJ": 18,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 34,
+        "FW-NNP": 14,
+        "NN-IN": 14,
+        "JJ-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 17,
+        "NNP-NN-NN": 10,
+        "NN-IN-FW": 10,
+        "NN-NN-IN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 9,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0476
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0476
+      },
+      {
+        "rule": "NP -> ('Unicef', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0357
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0357
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('las', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP VP VP ('de', 'IN') ('la', 'FW') ('situación', 'FW') NP ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP ('de', 'IN') ('112', 'CD') NP ('el', 'FW') NP ('de', 'IN') ('desnutrición', 'FW') ('en', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('vocero', 'NN') ('del', 'NN') ('Fondo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP') ('para', 'NN') ('la', 'NN') ('Infancia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('Kazem', 'NNP') ('Abu', 'NNP') ('Khalaf', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('advirtió', 'NN') ('el', 'NN') ('sábado', 'NN') ('sobre', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "VP -> ('grave', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0119
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El vocero del Fondo"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para la Infancia"
+      },
+      {
+        "label": "NP",
+        "text": "Unicef"
+      },
+      {
+        "label": "NP",
+        "text": "Kazem Abu Khalaf"
+      },
+      {
+        "label": "NP",
+        "text": "advirtió el sábado sobre el"
+      },
+      {
+        "label": "VP",
+        "text": "grave"
+      },
+      {
+        "label": "VP",
+        "text": "y acelerado deterioro"
+      },
+      {
+        "label": "NP",
+        "text": "acelerado deterioro"
+      },
+      {
+        "label": "NP",
+        "text": "humanitaria"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "señalando que alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "niños enfrentan diariamente"
+      },
+      {
+        "label": "NP",
+        "text": "riesgo"
+      },
+      {
+        "label": "NP",
+        "text": "territorio palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP vocero/NN del/NN Fondo/NNP)\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN la/NN Infancia/NNP)\n  (/(\n  (NP Unicef/NNP)\n  )/)\n  ,/,\n  (NP Kazem/NNP Abu/NNP Khalaf/NNP)\n  ,/,\n  (NP advirtió/NN el/NN sábado/NN sobre/NN el/NN)\n  (VP grave/VBP)\n  (VP y/VBN (NP acelerado/JJ deterioro/NN))\n  de/IN\n  la/FW\n  situación/FW\n  (NP humanitaria/NN)\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP señalando/NN que/NN alrededor/NN)\n  de/IN\n  112/CD\n  (NP niños/JJ enfrentan/JJ diariamente/NN)\n  el/FW\n  (NP riesgo/NN)\n  de/IN\n  desnutrición/FW\n  en/FW\n  el/FW\n  (NP territorio/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP Kazem/NNP Abu/NNP Khalaf/NNP precisó/NN que/NN)\n  la/FW\n  cifra/FW\n  de/FW\n  niños/FW\n  y/FW\n  niñas/FW\n  (NP que/NN han/NN alcanzado/NN)\n  (NP un/JJ estado/NN)\n  de/IN\n  desnutrición/FW\n  (NP severa/NN ha/NN aumentado/NN)\n  en/IN\n  180/CD\n  (NP por/NN ciento/NN al/NN comparar/NN)\n  (NP los/JJ datos/NN)\n  (PP de/IN (NP febrero/NN))\n  ,/,\n  (NP durante/NN)\n  la/FW\n  tregua/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP con/NN junio/NN pasado/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP afirmó/NN que/NN decenas/NN)\n  (PP de/IN (NP miles/NNS))\n  de/RB\n  (NP menores/NNS)\n  (VP palestinos/VBP (NP sufrían/JJ distintos/NNS))\n  grados/FW\n  de/FW\n  desnutrición/FW\n  ,/,\n  lo/FW\n  (NP que/NN representaba/NN)\n  (NP una/JJ amenaza/NN directa/NN para/NN sus/NN)\n  vidas/FW\n  (NP y/NN su/NN futuro/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP funcionario/NN)\n  de/IN\n  la/FW\n  (NP Unicef/NNP)\n  la/FW\n  (NP crisis/NN humanitaria/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  (NP no/DT afecta/NN)\n  (VP sólo/VBZ (NP a/DT los/NN niños/NN))\n  ,/,\n  (NP sino/NN)\n  (VP también/VBD (NP a/DT mujeres/NNS))\n  embarazadas/FW\n  ,/,\n  muchas/FW\n  de/FW\n  las/FW\n  (NP cuales/NNS)\n  (VP padecen/VBP (NP desnutrición/JJ severa/NN))\n  ,/,\n  (NP lo/JJ que/NN resulta/NN)\n  en/IN\n  el/FW\n  nacimiento/FW\n  de/FW\n  niños/FW\n  en/FW\n  (NP condiciones/NNS)\n  críticas/FW\n  de/FW\n  salud/FW\n  desde/FW\n  el/FW\n  nacimiento/FW\n  ./.)",
+      "(S\n  (NP Ante/NNP la/NNP)\n  gravedad/FW\n  de/FW\n  la/FW\n  situación/FW\n  ,/,\n  (NP Unicef/NNP)\n  (VP instó/VBZ (NP a/DT la/NN) comunidad/JJ)\n  (VP\n    internacional/VBZ\n    (NP a/DT actuar/JJ y/NN presionar/NN para/NN))\n  la/FW\n  entrada/FW\n  de/FW\n  ayuda/FW\n  (NP alimentaria/NNS)\n  (VP y/VBP (NP médica/JJ al/NN territorio/NN palestino/NN))\n  ,/,\n  (NP con/NN el/NN fin/NN)\n  de/IN\n  salvar/FW\n  vidas/FW\n  y/FW\n  evitar/FW\n  (NP una/JJ catástrofe/NN humanitaria/NN mayor/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          545,
+          551
+        ],
+        "start": 545,
+        "end": 551
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          88,
+          96
+        ],
+        "start": 88,
+        "end": 96
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis humanitaria en la franja de gaza",
+        "position": [
+          742,
+          781
+        ],
+        "start": 742,
+        "end": 781
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda alimentaria y médica al territorio palestino, con el fin de salvar vidas y evitar una catástrofe humanitaria",
+        "position": [
+          1107,
+          1221
+        ],
+        "start": 1107,
+        "end": 1221
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "catástrofe humanitaria",
+        "position": [
+          1199,
+          1221
+        ],
+        "start": 1199,
+        "end": 1221
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          27,
+          42
+        ],
+        "start": 27,
+        "end": 42
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unicef",
+        "position": [
+          61,
+          67
+        ],
+        "start": 61,
+        "end": 67
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          825,
+          832
+        ],
+        "start": 825,
+        "end": 832
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          383,
+          392
+        ],
+        "start": 383,
+        "end": 392
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15 mil",
+        "position": [
+          1338,
+          1344
+        ],
+        "start": 1338,
+        "end": 1344
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 112",
+        "position": [
+          208,
+          224
+        ],
+        "start": 208,
+        "end": 224
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 15",
+        "position": [
+          1331,
+          1340
+        ],
+        "start": 1331,
+        "end": 1340
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kazem Abu Khalaf",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Unicef",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Red de Organizaciones Civiles",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Amjad al-Shawa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fondo de las Naciones Unidas para la Infancia",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fondo de las Naciones Unidas para la Infancia",
+        "relacion": "ADVERTIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "ADVERTIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Kazem Abu Khalaf",
+        "relacion": "ADVERTIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Kazem Abu Khalaf",
+        "relacion": "PRECISAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "AFECTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Red de Organizaciones Civiles",
+        "relacion": "AFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "AFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Amjad al-Shawa",
+        "relacion": "AFIRMAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7579,
+    "pos": 0.01,
+    "neu": 0.952,
+    "neg": 0.038,
+    "label": "negative"
+  }
+}

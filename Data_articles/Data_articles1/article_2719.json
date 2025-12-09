@@ -1,0 +1,713 @@
+{
+  "url": "https://www.telesurtv.net/antony-blinken-asegura-que-ya-hay-un-acuerdo-final-para-el-alto-el-fuego-en-gaza/",
+  "title": "Antony Blinken confirma un acuerdo final para el alto el fuego en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Alto el fuego",
+    "Antony Blinken",
+    "Estados Unidos",
+    "Gaza",
+    "genocidio"
+  ],
+  "text": "Desde occidente proponen colocar una autoridad extranjera para que tome el control de Gaza.\nEl secretario de Estado de Estados Unidos, Antony Blinken, aseguró desde Atlantic Council que Qatar y Egipto han llegado a un acuerdo final para un alto el fuego en la Franja de Gaza.\nBlinken destacó que entre las primeras indicaciones que se tiene en cuanto a la perspectiva de occidente es que Hamás no vuelva a tomar el poder en Gaza. En tal sentido, proponen una nueva entidad extranjera que asuma la autoridad en la región, este regimiento lo haría una administración que colabore con el sionismo mientras “transfieren el control a la Autoridad Palestina”.\nEl alto funcionario norteamericano insistió en que buscan normalizar a Israel en la región pese a que esta nación usurpadora es la que busca generar tensión con los países de Medio Oriente.\nEn cuanto a Líbano, Blinken confirmó que el acuerdo de alto el fuego con Israel busca facilitar el regreso de los desplazados a sus hogares.En medio de su discurso, una persona interrumpió levantando un cartel que acusaba a Blinken de ser un “criminal de guerra”, dejando claro el repudio de los ciudadanos ante la intervención de occidente a favor de Israel.\nEl anuncio sobre el alto el fuego siguió a una reunión en Doha que se centró en ultimar detalles del presunto acuerdo que a criterio de las autoridades estadounidenses están en un “punto crucial” que aspiran finiquitar antes de que Donald Trump asuma la presidencia estadounidense.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/antony-blinken-asegura-que-ya-hay-un-acuerdo-final-para-el-alto-el-fuego-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1241,
+    "message_id": 84491,
+    "date": "2025-01-15T06:55:12+00:00",
+    "text": "teleSUR\nAntony Blinken confirma un acuerdo final para el alto el fuego en Gaza\nhttps://www.telesurtv.net/antony-blinken-asegura-que-ya-hay-un-acuerdo-final-para-el-alto-el-fuego-en-gaza/",
+    "photo_path": null,
+    "views": 2430,
+    "reactions": {
+      "🥱": 25,
+      "💩": 18,
+      "😈": 4,
+      "👍": 3,
+      "🔥": 2,
+      "🤔": 2,
+      "🙏": 2
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "desde occidente proponen colocar una autoridad extranjera para que tome el control de gaza. el secretario de estado de estados unidos, antony blinken, aseguró desde atlantic council que qatar y egipto han llegado a un acuerdo final para un alto el fuego en la franja de gaza. blinken destacó que entre las primeras indicaciones que se tiene en cuanto a la perspectiva de occidente es que hamás no vuelva a tomar el poder en gaza. en tal sentido, proponen una nueva entidad extranjera que asuma la autoridad en la región, este regimiento lo haría una administración que colabore con el sionismo mientras “transfieren el control a la autoridad palestina”. el alto funcionario norteamericano insistió en que buscan normalizar a israel en la región pese a que esta nación usurpadora es la que busca generar tensión con los países de medio oriente. en cuanto a líbano, blinken confirmó que el acuerdo de alto el fuego con israel busca facilitar el regreso de los desplazados a sus hogares.en medio de su discurso, una persona interrumpió levantando un cartel que acusaba a blinken de ser un “criminal de guerra”, dejando claro el repudio de los ciudadanos ante la intervención de occidente a favor de israel. el anuncio sobre el alto el fuego siguió a una reunión en doha que se centró en ultimar detalles del presunto acuerdo que a criterio de las autoridades estadounidenses están en un “punto crucial” que aspiran finiquitar antes de que donald trump asuma la presidencia estadounidense.",
+    "tokens": [
+      "occidente",
+      "proponen",
+      "colocar",
+      "autoridad",
+      "extranjera",
+      "tome",
+      "control",
+      "gaza",
+      ".",
+      "secretario",
+      "unidos",
+      ",",
+      "antony",
+      "blinken",
+      ",",
+      "aseguró",
+      "atlantic",
+      "council",
+      "qatar",
+      "egipto",
+      "llegado",
+      "acuerdo",
+      "final",
+      "alto",
+      "fuego",
+      "franja",
+      "gaza",
+      ".",
+      "blinken",
+      "destacó",
+      "primeras",
+      "indicaciones",
+      "cuanto",
+      "perspectiva",
+      "occidente",
+      "hamás",
+      "vuelva",
+      "tomar",
+      "poder",
+      "gaza",
+      ".",
+      "tal",
+      ",",
+      "proponen",
+      "nueva",
+      "entidad",
+      "extranjera",
+      "asuma",
+      "autoridad",
+      "región",
+      ",",
+      "regimiento",
+      "haría",
+      "administración",
+      "colabore",
+      "sionismo",
+      "mientras",
+      "“",
+      "transfieren",
+      "control",
+      "autoridad",
+      "palestina",
+      "”",
+      ".",
+      "alto",
+      "funcionario",
+      "norteamericano",
+      "insistió",
+      "buscan",
+      "normalizar",
+      "israel",
+      "región",
+      "pese",
+      "nación",
+      "usurpadora",
+      "busca",
+      "generar",
+      "tensión",
+      "países",
+      "medio",
+      "oriente",
+      ".",
+      "cuanto",
+      "líbano",
+      ",",
+      "blinken",
+      "confirmó",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "israel",
+      "busca",
+      "facilitar",
+      "regreso",
+      "desplazados",
+      "hogares.en",
+      "medio",
+      "discurso",
+      ",",
+      "persona",
+      "interrumpió",
+      "levantando",
+      "cartel",
+      "acusaba",
+      "blinken",
+      "ser",
+      "“",
+      "criminal",
+      "guerra",
+      "”",
+      ",",
+      "dejando",
+      "claro",
+      "repudio",
+      "ciudadanos",
+      "intervención",
+      "occidente",
+      "favor",
+      "israel",
+      ".",
+      "anuncio",
+      "alto",
+      "fuego",
+      "siguió",
+      "reunión",
+      "doha",
+      "centró",
+      "ultimar",
+      "detalles",
+      "presunto",
+      "acuerdo",
+      "criterio",
+      "autoridades",
+      "estadounidenses",
+      "“",
+      "punto",
+      "crucial",
+      "”",
+      "aspiran",
+      "finiquitar",
+      "donald",
+      "trump",
+      "asuma",
+      "presidencia",
+      "estadounidense",
+      "."
+    ],
+    "token_count": 146,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "MD": 1,
+      "VB": 1,
+      "NN": 98,
+      "JJ": 27,
+      "IN": 16,
+      "FW": 43,
+      "NNS": 4,
+      "DT": 1,
+      "VBP": 3,
+      "VBZ": 4
+    },
+    "bigram_freq": {
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "NN-JJ": 10,
+      "JJ-NN": 18,
+      "NN-NN": 59,
+      "JJ-JJ": 6,
+      "NN-IN": 12,
+      "IN-NNP": 5,
+      "NNP-NNP": 19,
+      "NNP-NN": 10,
+      "NN-FW": 8,
+      "FW-NNP": 7,
+      "NNP-FW": 4,
+      "NN-NNP": 4,
+      "IN-FW": 7,
+      "FW-FW": 21,
+      "FW-NNS": 2,
+      "NNS-FW": 1,
+      "FW-NN": 8,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NNP-JJ": 1,
+      "NN-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-FW": 1,
+      "IN-JJ": 3,
+      "FW-JJ": 5,
+      "NN-VBZ": 2,
+      "VBZ-IN": 2,
+      "NN-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NNS-VBZ": 1,
+      "JJ-FW": 1,
+      "JJ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 13,
+      "NN-NN-NN": 33,
+      "NN-NN-JJ": 7,
+      "NN-JJ-JJ": 4,
+      "JJ-JJ-NN": 5,
+      "NN-NN-IN": 9,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 12,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "IN-FW-JJ": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-FW": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-IN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-NNP-NN": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "VBZ-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "FW": 43,
+        "NNP": 37,
+        "JJ": 27,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 21,
+        "NNP-NNP": 19,
+        "JJ-NN": 18,
+        "NN-IN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "JJ-NN-NN": 13,
+        "FW-FW-FW": 12,
+        "NN-NN-IN": 9,
+        "NNP-NNP-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 13,
+      "PP": 8,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.033
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.033
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.033
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "S -> NP ('occidente', 'MD') VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Desde', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "VP -> ('proponen', 'VB') NP NP NP",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('colocar', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('autoridad', 'NN') ('extranjera', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('tome', 'JJ') ('el', 'NN') ('control', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Desde"
+      },
+      {
+        "label": "VP",
+        "text": "proponen colocar una autoridad extranjera para que tome el control"
+      },
+      {
+        "label": "NP",
+        "text": "colocar"
+      },
+      {
+        "label": "NP",
+        "text": "una autoridad extranjera para"
+      },
+      {
+        "label": "NP",
+        "text": "que tome el control"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "El secretario"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Antony Blinken"
+      },
+      {
+        "label": "NP",
+        "text": "aseguró desde Atlantic Council que Qatar y Egipto han"
+      },
+      {
+        "label": "VP",
+        "text": "llegado a un acuerdo final para un alto el fuego"
+      },
+      {
+        "label": "NP",
+        "text": "a un acuerdo final para"
+      },
+      {
+        "label": "NP",
+        "text": "un alto el fuego"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Desde/NNP)\n  occidente/MD\n  (VP\n    proponen/VB\n    (NP colocar/NN)\n    (NP una/JJ autoridad/NN extranjera/NN para/NN)\n    (NP que/JJ tome/JJ el/NN control/NN))\n  (PP de/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP secretario/NN)\n  de/FW\n  (NP Estado/NNP)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Antony/NNP Blinken/NNP)\n  ,/,\n  (NP\n    aseguró/NN\n    desde/NN\n    Atlantic/NNP\n    Council/NNP\n    que/NNP\n    Qatar/NNP\n    y/NNP\n    Egipto/NNP\n    han/NN)\n  (VP\n    llegado/VBZ\n    (NP a/DT un/JJ acuerdo/JJ final/JJ para/NN)\n    (NP un/JJ alto/NN el/NN fuego/NN))\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Blinken/NNP destacó/NN que/NN)\n  entre/FW\n  las/FW\n  primeras/FW\n  (NP indicaciones/NNS)\n  que/FW\n  se/FW\n  (NP tiene/NN)\n  en/FW\n  (NP cuanto/NN)\n  (NP a/DT la/NN)\n  perspectiva/FW\n  de/FW\n  occidente/FW\n  es/FW\n  que/FW\n  (NP Hamás/NNP)\n  (NP no/DT vuelva/NN)\n  (NP a/DT tomar/NN el/NN poder/NN)\n  (PP en/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP tal/JJ sentido/NN)\n  ,/,\n  (NP proponen/NN)\n  (NP una/JJ nueva/JJ entidad/NN extranjera/NN que/NN asuma/NN la/NN)\n  autoridad/FW\n  en/FW\n  la/FW\n  región/FW\n  ,/,\n  (NP este/NN regimiento/NN lo/NN haría/NN)\n  (NP\n    una/JJ\n    administración/NN\n    que/NN\n    colabore/NN\n    con/NN\n    el/NN\n    sionismo/NN\n    mientras/NNS)\n  (VP “/VBP transfieren/JJ)\n  el/FW\n  (NP control/NN)\n  (NP a/DT la/NN Autoridad/NNP Palestina/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP alto/NN funcionario/NN norteamericano/NN insistió/NN)\n  en/IN\n  (ADJP que/JJ)\n  (ADJP buscan/JJ)\n  (PP normalizar/IN (NP a/DT Israel/NNP en/NN la/NN))\n  (VP región/VBZ)\n  (VP\n    pese/VBZ\n    (NP a/DT que/NN esta/NN)\n    (NP\n      nación/JJ\n      usurpadora/JJ\n      es/NN\n      la/NN\n      que/NN\n      busca/NN\n      generar/NN\n      tensión/NN\n      con/NN\n      los/NN))\n  (VP países/VBZ)\n  (PP de/IN (NP Medio/NNP Oriente/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "APROBACION_RECHAZO",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "PAISES",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "interrumpió",
+        "position": [
+          1021,
+          1032
+        ],
+        "start": 1021,
+        "end": 1032
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          284,
+          291
+        ],
+        "start": 284,
+        "end": 291
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          119,
+          133
+        ],
+        "start": 119,
+        "end": 133
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          642,
+          651
+        ],
+        "start": 642,
+        "end": 651
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          109,
+          118
+        ],
+        "start": 109,
+        "end": 118
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Blinken",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Atlantic Council",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado de Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antony Blinken",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Autoridad Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Doha",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qatar",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estado de Estados Unidos",
+        "relacion": "ASEGURAR",
+        "objeto": "Atlantic Council"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "ASEGURAR",
+        "objeto": "Estado de Estados Unidos"
+      },
+      {
+        "sujeto": "Estado de Estados Unidos",
+        "relacion": "ASEGURAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Estado de Estados Unidos",
+        "relacion": "ASEGURAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Antony Blinken",
+        "relacion": "ASEGURAR",
+        "objeto": "Atlantic Council"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "ASEGURAR",
+        "objeto": "Antony Blinken"
+      },
+      {
+        "sujeto": "Antony Blinken",
+        "relacion": "ASEGURAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Antony Blinken",
+        "relacion": "ASEGURAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "ASEGURAR",
+        "objeto": "Atlantic Council"
+      },
+      {
+        "sujeto": "Atlantic Council",
+        "relacion": "ASEGURAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Atlantic Council",
+        "relacion": "ASEGURAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Qatar",
+        "relacion": "LLEGAR_ASEGURAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "LLEGAR_ASEGURAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "DESTACAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "DESTACAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "VOLVER_SER_DESTACAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "CONFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "CONFIRMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "CONFIRMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "ACUSAR_LEVANTAR_INTERRUMPIR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.128,
+    "pos": 0.011,
+    "neu": 0.979,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

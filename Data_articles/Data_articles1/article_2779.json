@@ -1,0 +1,912 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-denuncia-ataques-contra-sus-sedes-diplomaticas-en-el-extranjero/",
+  "title": "Venezuela denuncia ataques contra sus sedes diplomáticas en el extranjero - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "diplomacia",
+    "extrema derecha",
+    "terrorismo",
+    "Venezuela",
+    "Violencia"
+  ],
+  "text": "El ministro del Poder Popular para las Relaciones Exteriores de Venezuela, Yván Gil, ha hecho un llamado urgente a las autoridades de Lisboa (Portugal), Frankfurt (Alemania), Medellín (Colombia), Vigo (España) y San José (Costa Rica) para que aceleren las investigaciones relacionadas con los recientes ataques a sedes consulares venezolanas.\nA través de sus redes sociales, el canciller denunció que estos actos son parte de una “acción coordinada por los comanditos del fascismo desquiciado”.\nGil subrayó que varios consulados han sido objeto de agresiones por parte de extremistas, quienes, según él, buscan causar el mismo daño a las instalaciones diplomáticas que intentan infligir a la “amada Patria Bolivariana”. En este contexto, instó a los gobiernos involucrados a garantizar la integridad de las sedes diplomáticas, tal como lo establece la Convención de Viena sobre Relaciones Diplomáticas.\nEl canciller también señaló que “el odio fascista inoculado, estimulado y protegido por años en el exterior” es la principal causa detrás de estas agresiones. Esta declaración se produce en un momento en que la tensión política y social se intensifica en diversas regiones del mundo.\nUn ejemplo reciente de estos ataques ocurrió el pasado domingo, cuando la Asociación Gallego Bolivariana Hugo Chávez (Agabo) emitió un comunicado condenando actos vandálicos perpetrados por grupos ultraderechistas contra el Consulado de Venezuela en Vigo, España.\nEl edificio amaneció con grafitis despectivos hacia el presidente Nicolás Maduro y presentó daños visibles en su ventana y fachada frontal.\nEstos incidentes han generado preocupación entre las autoridades venezolanas, quienes ven en ellos una manifestación del creciente extremismo político que amenaza no solo a sus representaciones diplomáticas, sino también a la estabilidad regional.\nLa exigencia de celeridad en las investigaciones refleja la necesidad de proteger los derechos y la seguridad de las misiones diplomáticas venezolanas en el extranjero.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-denuncia-ataques-contra-sus-sedes-diplomaticas-en-el-extranjero/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1338,
+    "message_id": 84387,
+    "date": "2025-01-13T19:55:17+00:00",
+    "text": "teleSUR\nVenezuela denuncia ataques contra sus sedes diplomáticas en el extranjero\nhttps://www.telesurtv.net/venezuela-denuncia-ataques-contra-sus-sedes-diplomaticas-en-el-extranjero/",
+    "photo_path": null,
+    "views": 2635,
+    "reactions": {
+      "👍": 23,
+      "🤬": 6
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "el ministro del poder popular para las relaciones exteriores de venezuela, yván gil, ha hecho un llamado urgente a las autoridades de lisboa (portugal), frankfurt (alemania), medellín (colombia), vigo (españa) y san josé (costa rica) para que aceleren las investigaciones relacionadas con los recientes ataques a sedes consulares venezolanas. a través de sus redes sociales, el canciller denunció que estos actos son parte de una “acción coordinada por los comanditos del fascismo desquiciado”. gil subrayó que varios consulados han sido objeto de agresiones por parte de extremistas, quienes, según él, buscan causar el mismo daño a las instalaciones diplomáticas que intentan infligir a la “amada patria bolivariana”. en este contexto, instó a los gobiernos involucrados a garantizar la integridad de las sedes diplomáticas, tal como lo establece la convención de viena sobre relaciones diplomáticas. el canciller también señaló que “el odio fascista inoculado, estimulado y protegido por años en el exterior” es la principal causa detrás de estas agresiones. esta declaración se produce en un momento en que la tensión política y social se intensifica en diversas regiones del mundo. un ejemplo reciente de estos ataques ocurrió el pasado domingo, cuando la asociación gallego bolivariana hugo chávez (agabo) emitió un comunicado condenando actos vandálicos perpetrados por grupos ultraderechistas contra el consulado de venezuela en vigo, españa. el edificio amaneció con grafitis despectivos hacia el presidente nicolás maduro y presentó daños visibles en su ventana y fachada frontal. estos incidentes han generado preocupación entre las autoridades venezolanas, quienes ven en ellos una manifestación del creciente extremismo político que amenaza no solo a sus representaciones diplomáticas, sino también a la estabilidad regional. la exigencia de celeridad en las investigaciones refleja la necesidad de proteger los derechos y la seguridad de las misiones diplomáticas venezolanas en el extranjero.",
+    "tokens": [
+      "ministro",
+      "poder",
+      "popular",
+      "relaciones",
+      "exteriores",
+      "venezuela",
+      ",",
+      "yván",
+      "gil",
+      ",",
+      "hecho",
+      "llamado",
+      "urgente",
+      "autoridades",
+      "lisboa",
+      "(",
+      "portugal",
+      ")",
+      ",",
+      "frankfurt",
+      "(",
+      "alemania",
+      ")",
+      ",",
+      "medellín",
+      "(",
+      "colombia",
+      ")",
+      ",",
+      "vigo",
+      "(",
+      "españa",
+      ")",
+      "san",
+      "josé",
+      "(",
+      "costa",
+      "rica",
+      ")",
+      "aceleren",
+      "investigaciones",
+      "relacionadas",
+      "recientes",
+      "ataques",
+      "sedes",
+      "consulares",
+      "venezolanas",
+      ".",
+      "través",
+      "redes",
+      "sociales",
+      ",",
+      "canciller",
+      "denunció",
+      "actos",
+      "parte",
+      "“",
+      "acción",
+      "coordinada",
+      "comanditos",
+      "fascismo",
+      "desquiciado",
+      "”",
+      ".",
+      "gil",
+      "subrayó",
+      "varios",
+      "consulados",
+      "sido",
+      "objeto",
+      "agresiones",
+      "parte",
+      "extremistas",
+      ",",
+      ",",
+      "según",
+      ",",
+      "buscan",
+      "causar",
+      "mismo",
+      "daño",
+      "instalaciones",
+      "diplomáticas",
+      "intentan",
+      "infligir",
+      "“",
+      "amada",
+      "patria",
+      "bolivariana",
+      "”",
+      ".",
+      "contexto",
+      ",",
+      "instó",
+      "gobiernos",
+      "involucrados",
+      "garantizar",
+      "integridad",
+      "sedes",
+      "diplomáticas",
+      ",",
+      "tal",
+      "establece",
+      "convención",
+      "viena",
+      "relaciones",
+      "diplomáticas",
+      ".",
+      "canciller",
+      "señaló",
+      "“",
+      "odio",
+      "fascista",
+      "inoculado",
+      ",",
+      "estimulado",
+      "protegido",
+      "años",
+      "exterior",
+      "”",
+      "principal",
+      "causa",
+      "detrás",
+      "agresiones",
+      ".",
+      "declaración",
+      "produce",
+      "momento",
+      "tensión",
+      "política",
+      "social",
+      "intensifica",
+      "diversas",
+      "regiones",
+      "mundo",
+      ".",
+      "ejemplo",
+      "reciente",
+      "ataques",
+      "ocurrió",
+      "pasado",
+      "domingo",
+      ",",
+      "asociación",
+      "gallego",
+      "bolivariana",
+      "hugo",
+      "chávez",
+      "(",
+      "agabo",
+      ")",
+      "emitió",
+      "comunicado",
+      "condenando",
+      "actos",
+      "vandálicos",
+      "perpetrados",
+      "grupos",
+      "ultraderechistas",
+      "consulado",
+      "venezuela",
+      "vigo",
+      ",",
+      "españa",
+      ".",
+      "edificio",
+      "amaneció",
+      "grafitis",
+      "despectivos",
+      "hacia",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "presentó",
+      "daños",
+      "visibles",
+      "ventana",
+      "fachada",
+      "frontal",
+      ".",
+      "incidentes",
+      "generado",
+      "preocupación",
+      "autoridades",
+      "venezolanas",
+      ",",
+      "ven",
+      "manifestación",
+      "creciente",
+      "extremismo",
+      "político",
+      "amenaza",
+      "solo",
+      "representaciones",
+      "diplomáticas",
+      ",",
+      "sino",
+      "estabilidad",
+      "regional",
+      ".",
+      "exigencia",
+      "celeridad",
+      "investigaciones",
+      "refleja",
+      "necesidad",
+      "proteger",
+      "derechos",
+      "seguridad",
+      "misiones",
+      "diplomáticas",
+      "venezolanas",
+      "extranjero",
+      "."
+    ],
+    "token_count": 213,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "PRP": 1,
+      "FW": 46,
+      "NN": 103,
+      "JJ": 31,
+      "NNS": 22,
+      "IN": 8,
+      "VBP": 18,
+      "VBZ": 3,
+      "RB": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-PRP": 1,
+      "PRP-FW": 1,
+      "FW-NNP": 8,
+      "NNP-NNP": 27,
+      "NNP-NN": 9,
+      "NN-NN": 66,
+      "NN-NNP": 6,
+      "NNP-FW": 7,
+      "NN-JJ": 6,
+      "JJ-NN": 17,
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "IN-IN": 1,
+      "IN-NNP": 1,
+      "NN-VBP": 3,
+      "VBP-JJ": 11,
+      "NNS-VBP": 14,
+      "NN-NNS": 5,
+      "VBP-NNS": 3,
+      "NNS-NNS": 2,
+      "VBP-NN": 3,
+      "NN-FW": 10,
+      "FW-FW": 20,
+      "FW-NNS": 8,
+      "NN-IN": 5,
+      "IN-JJ": 3,
+      "JJ-JJ": 5,
+      "IN-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 4,
+      "IN-FW": 2,
+      "FW-JJ": 3,
+      "FW-NN": 7,
+      "NNS-NNP": 1,
+      "VBP-IN": 1,
+      "NNS-FW": 2,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-PRP-FW": 1,
+      "PRP-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 4,
+      "NNP-NNP-NNP": 18,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-IN": 1,
+      "IN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 7,
+      "FW-NNS-NNS": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-NN": 41,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NN": 12,
+      "NN-NNP-NN": 1,
+      "NN-NN-NNS": 4,
+      "VBP-JJ-JJ": 4,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 10,
+      "FW-NNS-VBP": 6,
+      "NN-NN-FW": 6,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "FW-NN-VBP": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNP": 1,
+      "NNP-FW-NN": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-NN": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-VBZ": 1,
+      "VBP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "VBP-JJ-FW": 1,
+      "FW-FW-JJ": 1,
+      "VBP-NNS-FW": 1,
+      "FW-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 103,
+        "NNP": 46,
+        "FW": 46,
+        "JJ": 31,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "NNP-NNP": 27,
+        "FW-FW": 20,
+        "JJ-NN": 17,
+        "NNS-VBP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 41,
+        "NNP-NNP-NNP": 18,
+        "JJ-NN-NN": 12,
+        "FW-FW-FW": 10,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 85,
+      "ADJP": 3,
+      "VP": 24,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Vigo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('España', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('investigaciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('agresiones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('quienes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP ('ministro', 'PRP') ('del', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP ('urgente', 'IN') ('a', 'DT') ADJP ('autoridades', 'FW') ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP ('(', '(') NP (')', ')') (',', ',') NP ('(', '(') NP (')', ')') (',', ',') NP ('(', '(') NP (')', ')') VP ('(', '(') NP (')', ')') NP NP VP VP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "Poder Popular para las Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Yván Gil"
+      },
+      {
+        "label": "NP",
+        "text": "ha hecho"
+      },
+      {
+        "label": "NP",
+        "text": "un llamado"
+      },
+      {
+        "label": "ADJP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "Lisboa"
+      },
+      {
+        "label": "NP",
+        "text": "Portugal"
+      },
+      {
+        "label": "NP",
+        "text": "Frankfurt"
+      },
+      {
+        "label": "NP",
+        "text": "Alemania"
+      },
+      {
+        "label": "NP",
+        "text": "Medellín"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Vigo"
+      },
+      {
+        "label": "NP",
+        "text": "España"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  ministro/PRP\n  del/FW\n  (NP\n    Poder/NNP\n    Popular/NNP\n    para/NN\n    las/NN\n    Relaciones/NNP\n    Exteriores/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Yván/NNP Gil/NNP)\n  ,/,\n  (NP ha/NN hecho/NN)\n  (NP un/JJ llamado/NN)\n  urgente/IN\n  a/DT\n  (ADJP las/JJ)\n  autoridades/FW\n  de/FW\n  (NP Lisboa/NNP)\n  (/(\n  (NP Portugal/NNP)\n  )/)\n  ,/,\n  (NP Frankfurt/NNP)\n  (/(\n  (NP Alemania/NNP)\n  )/)\n  ,/,\n  (NP Medellín/NNP)\n  (/(\n  (NP Colombia/NNP)\n  )/)\n  ,/,\n  (NP Vigo/NNP)\n  (/(\n  (NP España/NNP)\n  )/)\n  (VP y/VBZ (NP San/NNP José/NNP))\n  (/(\n  (NP Costa/NNP Rica/NNP)\n  )/)\n  (NP para/NN)\n  (NP que/JJ aceleren/NNS)\n  (VP las/VBP (NP investigaciones/NNS))\n  (VP relacionadas/VB (NP con/NN los/NN))\n  (VP recientes/VBZ)\n  (VP ataques/VBZ (NP a/DT sedes/JJ consulares/NNS venezolanas/NNS))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  sus/FW\n  (NP redes/NNS sociales/NNS)\n  ,/,\n  (VP\n    el/VBP\n    (NP\n      canciller/NN\n      denunció/NN\n      que/NN\n      estos/NN\n      actos/NN\n      son/NN\n      parte/NN))\n  (PP\n    de/IN\n    (NP\n      una/JJ\n      “/NNP\n      acción/NN\n      coordinada/NN\n      por/NN\n      los/NN\n      comanditos/NN\n      del/NN\n      fascismo/NN\n      desquiciado/NN\n      ”/NN))\n  ./.)",
+      "(S\n  (NP Gil/NNP subrayó/NN que/NN varios/NNS)\n  (VP consulados/VBP (NP han/JJ sido/JJ objeto/NN))\n  (PP de/IN (NP agresiones/NNS))\n  (ADJP por/JJ)\n  parte/FW\n  de/FW\n  extremistas/FW\n  ,/,\n  (NP quienes/NNS)\n  ,/,\n  (NP según/NN él/NN)\n  ,/,\n  (NP buscan/JJ causar/NN el/NN mismo/NN)\n  (VP daño/VBZ (NP a/DT las/JJ instalaciones/NNS))\n  (VP\n    diplomáticas/VBP\n    (NP que/JJ intentan/JJ infligir/NN)\n    (NP a/DT la/NN “/NNP))\n  (VP amada/VBZ (NP Patria/NNP Bolivariana/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP este/NN contexto/NN)\n  ,/,\n  (VP\n    instó/VB\n    (NP a/DT los/JJ gobiernos/JJ involucrados/NN)\n    (NP a/DT garantizar/NN la/NN))\n  integridad/FW\n  de/FW\n  las/FW\n  (NP sedes/NNS)\n  (VP diplomáticas/VBP)\n  ,/,\n  (NP tal/JJ como/NN lo/NN establece/NN)\n  la/FW\n  (NP Convención/NNP)\n  de/FW\n  (NP Viena/NNP sobre/NN Relaciones/NNP Diplomáticas/NNP)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    canciller/NN\n    también/NN\n    señaló/NN\n    que/NN\n    “/NNP\n    el/NN\n    odio/NN\n    fascista/NN\n    inoculado/NN)\n  ,/,\n  estimulado/FW\n  y/FW\n  (NP protegido/NN por/NN años/NN)\n  en/IN\n  el/FW\n  (ADJP exterior/JJ)\n  ”/FW\n  es/FW\n  la/FW\n  (NP principal/JJ causa/NN detrás/NN)\n  de/IN\n  estas/FW\n  (NP agresiones/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "exigencia de celeridad en las investigaciones refleja la necesidad de proteger los derechos",
+        "position": [
+          1842,
+          1933
+        ],
+        "start": 1842,
+        "end": 1933
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          924,
+          930
+        ],
+        "start": 924,
+        "end": 930
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          1506,
+          1531
+        ],
+        "start": 1506,
+        "end": 1531
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del poder popular",
+        "position": [
+          3,
+          29
+        ],
+        "start": 3,
+        "end": 29
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          499,
+          506
+        ],
+        "start": 499,
+        "end": 506
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          388,
+          396
+        ],
+        "start": 388,
+        "end": 396
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          185,
+          193
+        ],
+        "start": 185,
+        "end": 193
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "españa",
+        "position": [
+          202,
+          208
+        ],
+        "start": 202,
+        "end": 208
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          64,
+          73
+        ],
+        "start": 64,
+        "end": 73
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "san josé",
+        "position": [
+          212,
+          220
+        ],
+        "start": 212,
+        "end": 220
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio amaneció",
+        "position": [
+          1454,
+          1471
+        ],
+        "start": 1454,
+        "end": 1471
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "España",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lisboa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Portugal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Patria Bolivariana",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Costa Rica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agabo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Relaciones Diplomáticas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "San José",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asociación Gallego Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alemania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vigo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Medellín",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Frankfurt",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "Lisboa"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "Portugal"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "Frankfurt"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "Alemania"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "Medellín"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "Vigo"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "España"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "San José"
+      },
+      {
+        "sujeto": "Poder Popular para las Relaciones Exteriores de Venezuela",
+        "relacion": "HACER",
+        "objeto": "Costa Rica"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "Lisboa"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "Portugal"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "Frankfurt"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "Alemania"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "Medellín"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "Vigo"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "España"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "San José"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "HACER",
+        "objeto": "Costa Rica"
+      },
+      {
+        "sujeto": "Gil",
+        "relacion": "SUBRAYAR",
+        "objeto": "Patria Bolivariana"
+      },
+      {
+        "sujeto": "Asociación Gallego Bolivariana",
+        "relacion": "EMITIR_OCURRIR",
+        "objeto": "Vigo"
+      },
+      {
+        "sujeto": "Asociación Gallego Bolivariana",
+        "relacion": "EMITIR_OCURRIR",
+        "objeto": "España"
+      },
+      {
+        "sujeto": "Hugo Chávez",
+        "relacion": "EMITIR_OCURRIR",
+        "objeto": "Vigo"
+      },
+      {
+        "sujeto": "Hugo Chávez",
+        "relacion": "EMITIR_OCURRIR",
+        "objeto": "España"
+      },
+      {
+        "sujeto": "Agabo",
+        "relacion": "EMITIR_OCURRIR",
+        "objeto": "Vigo"
+      },
+      {
+        "sujeto": "Agabo",
+        "relacion": "EMITIR_OCURRIR",
+        "objeto": "España"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4588,
+    "pos": 0.018,
+    "neu": 0.974,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

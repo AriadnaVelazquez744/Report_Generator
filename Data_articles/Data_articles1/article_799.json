@@ -1,0 +1,802 @@
+{
+  "url": "https://www.telesurtv.net/coferes-exigen-garantias-laborales-paraguay/",
+  "title": "Choferes exigen garantías laborales ante reforma del transporte en Paraguay",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Huelga",
+    "Paraguay",
+    "reforma del transporte",
+    "sindicato",
+    "Trabajadores"
+  ],
+  "text": "La Central Nacional de Trabajadores (CNT) alertó sobre la falta de garantías laborales en la reforma del sistema de transporte público, denunciando que el proyecto plantea la tercerización de servicios sin asegurar estabilidad, continuidad ni respeto a la antigüedad de los trabajadores.\n\nLEA TAMBIÉN\nParaguay: Docentes acuerdan con Gobierno alza salarial del 3.6 % y levantan huelga\n\nRamón Ávalos, representante sindical, explicó que cerca de 5.000 empleados, entre choferes, personal administrativo y de talleres, se encuentran en incertidumbre sobre su futuro laboral.\nEl artículo 89 de la propuesta de ley ha generado especial preocupación, ya que divide las responsabilidades entre empresas operadoras sin establecer mecanismos de absorción laboral, lo que según el gremio deja a los trabajadores expuestos a despidos arbitrarios y conflictos legales sin un responsable patronal claro.\n“Queremos que se incluyan cláusulas que garanticen la estabilidad y que se respete la antigüedad de cada chofer”, afirmó Ávalos, quien además denunció que el sector no fue informado con claridad hasta la audiencia pública, donde se confirmó la falta de garantías.\n\n\nAunque se ha convocado una huelga general para el 3 y 4 de septiembre, la CNT insiste en que el objetivo principal no es paralizar el servicio, sino lograr que las autoridades atiendan los reclamos antes de implementar la reforma.\nÁvalos subrayó que los trabajadores siguen abiertos al diálogo y que una mesa de negociación con el Ministerio de Trabajo podría evitar una confrontación mayor.\nLa CNT también señaló la inactividad de la Comisión Interinstitucional de Transporte, creada en 1995, que debería velar por los derechos laborales del sector pero que, según los sindicatos, “ignora a los trabajadores y no cumple su función reguladora”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/coferes-exigen-garantias-laborales-paraguay/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 245,
+    "message_id": 103057,
+    "date": "2025-08-28T21:55:12+00:00",
+    "text": "teleSUR\nChoferes exigen garantías laborales ante reforma del transporte en Paraguay\nhttps://www.telesurtv.net/coferes-exigen-garantias-laborales-paraguay/",
+    "photo_path": null,
+    "views": 1536,
+    "reactions": {
+      "👏": 23,
+      "👍": 6
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "la central nacional de trabajadores (cnt) alertó sobre la falta de garantías laborales en la reforma del sistema de transporte público, denunciando que el proyecto plantea la tercerización de servicios sin asegurar estabilidad, continuidad ni respeto a la antigüedad de los trabajadores. ramón ávalos, representante sindical, explicó que cerca de 5.000 empleados, entre choferes, personal administrativo y de talleres, se encuentran en incertidumbre sobre su futuro laboral. el artículo 89 de la propuesta de ley ha generado especial preocupación, ya que divide las responsabilidades entre empresas operadoras sin establecer mecanismos de absorción laboral, lo que según el gremio deja a los trabajadores expuestos a despidos arbitrarios y conflictos legales sin un responsable patronal claro. “queremos que se incluyan cláusulas que garanticen la estabilidad y que se respete la antigüedad de cada chofer”, afirmó ávalos, quien además denunció que el sector no fue informado con claridad hasta la audiencia pública, donde se confirmó la falta de garantías. aunque se ha convocado una huelga general para el 3 y 4 de septiembre, la cnt insiste en que el objetivo principal no es paralizar el servicio, sino lograr que las autoridades atiendan los reclamos antes de implementar la reforma. ávalos subrayó que los trabajadores siguen abiertos al diálogo y que una mesa de negociación con el ministerio de trabajo podría evitar una confrontación mayor. la cnt también señaló la inactividad de la comisión interinstitucional de transporte, creada en 1995, que debería velar por los derechos laborales del sector pero que, según los sindicatos, “ignora a los trabajadores y no cumple su función reguladora”.",
+    "tokens": [
+      "central",
+      "nacional",
+      "trabajadores",
+      "(",
+      "cnt",
+      ")",
+      "alertó",
+      "falta",
+      "garantías",
+      "laborales",
+      "reforma",
+      "sistema",
+      "transporte",
+      "público",
+      ",",
+      "denunciando",
+      "proyecto",
+      "plantea",
+      "tercerización",
+      "servicios",
+      "asegurar",
+      "estabilidad",
+      ",",
+      "continuidad",
+      "respeto",
+      "antigüedad",
+      "trabajadores",
+      ".",
+      "ramón",
+      "ávalos",
+      ",",
+      "representante",
+      "sindical",
+      ",",
+      "explicó",
+      "cerca",
+      "5.000",
+      "empleados",
+      ",",
+      "choferes",
+      ",",
+      "personal",
+      "administrativo",
+      "talleres",
+      ",",
+      "encuentran",
+      "incertidumbre",
+      "futuro",
+      "laboral",
+      ".",
+      "artículo",
+      "89",
+      "propuesta",
+      "ley",
+      "generado",
+      "especial",
+      "preocupación",
+      ",",
+      "divide",
+      "responsabilidades",
+      "empresas",
+      "operadoras",
+      "establecer",
+      "mecanismos",
+      "absorción",
+      "laboral",
+      ",",
+      "según",
+      "gremio",
+      "deja",
+      "trabajadores",
+      "expuestos",
+      "despidos",
+      "arbitrarios",
+      "conflictos",
+      "legales",
+      "responsable",
+      "patronal",
+      "claro",
+      ".",
+      "“",
+      "queremos",
+      "incluyan",
+      "cláusulas",
+      "garanticen",
+      "estabilidad",
+      "respete",
+      "antigüedad",
+      "cada",
+      "chofer",
+      "”",
+      ",",
+      "afirmó",
+      "ávalos",
+      ",",
+      "además",
+      "denunció",
+      "sector",
+      "informado",
+      "claridad",
+      "audiencia",
+      "pública",
+      ",",
+      "confirmó",
+      "falta",
+      "garantías",
+      ".",
+      "aunque",
+      "convocado",
+      "huelga",
+      "general",
+      "3",
+      "4",
+      "septiembre",
+      ",",
+      "cnt",
+      "insiste",
+      "objetivo",
+      "principal",
+      "paralizar",
+      "servicio",
+      ",",
+      "sino",
+      "lograr",
+      "autoridades",
+      "atiendan",
+      "reclamos",
+      "implementar",
+      "reforma",
+      ".",
+      "ávalos",
+      "subrayó",
+      "trabajadores",
+      "siguen",
+      "abiertos",
+      "diálogo",
+      "mesa",
+      "negociación",
+      "ministerio",
+      "trabajo",
+      "podría",
+      "evitar",
+      "confrontación",
+      "mayor",
+      ".",
+      "cnt",
+      "señaló",
+      "inactividad",
+      "comisión",
+      "interinstitucional",
+      "transporte",
+      ",",
+      "creada",
+      "1995",
+      ",",
+      "debería",
+      "velar",
+      "derechos",
+      "laborales",
+      "sector",
+      ",",
+      "según",
+      "sindicatos",
+      ",",
+      "“",
+      "ignora",
+      "trabajadores",
+      "cumple",
+      "función",
+      "reguladora",
+      "”",
+      "."
+    ],
+    "token_count": 172,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "FW": 54,
+      "VBZ": 7,
+      "JJ": 33,
+      "NNS": 13,
+      "VBP": 9,
+      "NN": 103,
+      "CD": 4,
+      "VB": 1,
+      "IN": 7,
+      "VBD": 1,
+      "JJR": 1,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-FW": 4,
+      "FW-NNP": 8,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 4,
+      "JJ-FW": 4,
+      "FW-FW": 29,
+      "FW-NNS": 3,
+      "NNS-VBP": 7,
+      "VBP-FW": 1,
+      "FW-NN": 11,
+      "NN-NN": 62,
+      "NN-FW": 12,
+      "NN-JJ": 12,
+      "JJ-NN": 18,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NNP": 4,
+      "NN-CD": 2,
+      "CD-JJ": 1,
+      "NNP-VB": 1,
+      "VB-JJ": 1,
+      "NN-IN": 4,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-NNS": 5,
+      "VBP-JJ": 5,
+      "JJ-JJ": 3,
+      "JJ-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 3,
+      "IN-JJR": 1,
+      "JJR-NNS": 1,
+      "FW-JJ": 2,
+      "NN-VBZ": 4,
+      "VBP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NNP-NN": 7,
+      "FW-VBP": 1,
+      "NN-DT": 1,
+      "DT-JJ": 2,
+      "JJ-DT": 1,
+      "NN-NNS": 2,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "VBZ-IN": 1,
+      "IN-NN": 1,
+      "VBP-NNS": 1,
+      "CD-NN": 1,
+      "NNS-FW": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 19,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 7,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 4,
+      "NN-FW-FW": 4,
+      "NN-NN-NN": 35,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 8,
+      "JJ-NN-NN": 11,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VB": 1,
+      "NNP-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "NN-IN-JJR": 1,
+      "IN-JJR-NNS": 1,
+      "JJR-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "FW-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "JJ-NN-JJ": 2,
+      "NN-IN-FW": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-NNP": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 103,
+        "FW": 54,
+        "JJ": 33,
+        "NNP": 25,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 62,
+        "FW-FW": 29,
+        "JJ-NN": 18,
+        "NN-FW": 12,
+        "NN-JJ": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 19,
+        "JJ-NN-NN": 11,
+        "NN-NN-JJ": 9,
+        "NN-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 20,
+      "ADJP": 5,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('(', '(') NP (')', ')') VP ('la', 'FW') ('falta', 'FW') ('de', 'FW') ('garantías', 'FW') NP VP ('la', 'FW') ('reforma', 'FW') ('del', 'FW') ('sistema', 'FW') ('de', 'FW') ('transporte', 'FW') NP (',', ',') NP ('el', 'FW') NP ('la', 'FW') ('tercerización', 'FW') ('de', 'FW') ('servicios', 'FW') NP (',', ',') NP NP NP ('antigüedad', 'FW') ('de', 'FW') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Central', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Trabajadores', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('CNT', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('alertó', 'VBP') ('sobre', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('laborales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('en', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('público', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Central Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Trabajadores"
+      },
+      {
+        "label": "NP",
+        "text": "CNT"
+      },
+      {
+        "label": "VP",
+        "text": "alertó sobre"
+      },
+      {
+        "label": "NP",
+        "text": "laborales"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "público"
+      },
+      {
+        "label": "NP",
+        "text": "denunciando que"
+      },
+      {
+        "label": "NP",
+        "text": "proyecto plantea"
+      },
+      {
+        "label": "NP",
+        "text": "sin asegurar estabilidad"
+      },
+      {
+        "label": "NP",
+        "text": "continuidad"
+      },
+      {
+        "label": "NP",
+        "text": "ni respeto"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "trabajadores"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Paraguay"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Central/NNP Nacional/NNP)\n  de/FW\n  (NP Trabajadores/NNP)\n  (/(\n  (NP CNT/NNP)\n  )/)\n  (VP alertó/VBP sobre/JJ)\n  la/FW\n  falta/FW\n  de/FW\n  garantías/FW\n  (NP laborales/NNS)\n  (VP en/VBP)\n  la/FW\n  reforma/FW\n  del/FW\n  sistema/FW\n  de/FW\n  transporte/FW\n  (NP público/NN)\n  ,/,\n  (NP denunciando/NN que/NN)\n  el/FW\n  (NP proyecto/NN plantea/NN)\n  la/FW\n  tercerización/FW\n  de/FW\n  servicios/FW\n  (NP sin/NN asegurar/NN estabilidad/NN)\n  ,/,\n  (NP continuidad/NN)\n  (NP ni/JJ respeto/NN)\n  (NP a/DT la/NN)\n  antigüedad/FW\n  de/FW\n  los/FW\n  (NP trabajadores/NNS)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Paraguay/NNP)\n  :/:\n  (VP Docentes/VBZ (NP acuerdan/JJ con/NN Gobierno/NNP))\n  (VP alza/VBZ salarial/JJ)\n  del/FW\n  3.6/CD\n  (NP %/NN)\n  (NP y/JJ levantan/JJ huelga/NN Ramón/NNP Ávalos/NNP)\n  ,/,\n  (ADJP representante/JJ)\n  (ADJP sindical/JJ)\n  ,/,\n  (NP explicó/JJ que/NN cerca/NN)\n  de/IN\n  5.000/CD\n  (NP empleados/NNS)\n  ,/,\n  (NP entre/JJ choferes/NNS)\n  ,/,\n  (NP personal/JJ administrativo/NN y/NN)\n  (PP de/IN (NP talleres/NNS))\n  ,/,\n  se/FW\n  (NP encuentran/NN)\n  en/FW\n  (NP incertidumbre/NN sobre/NN su/NN)\n  (NP futuro/JJ laboral/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP artículo/VBD)\n  89/CD\n  de/IN\n  la/FW\n  propuesta/FW\n  de/FW\n  ley/FW\n  (NP ha/NN generado/NN)\n  (NP especial/JJ preocupación/NN)\n  ,/,\n  ya/PRP\n  (NP que/JJ divide/JJ las/NN responsabilidades/NNS)\n  (VP entre/VBP (NP empresas/JJ operadoras/NNS))\n  (VP sin/VBP establecer/JJ)\n  mecanismos/FW\n  de/FW\n  absorción/FW\n  (ADJP laboral/JJ)\n  ,/,\n  (NP lo/JJ que/NN según/NN el/NN gremio/NN deja/NN)\n  (NP a/DT los/NN)\n  (VP trabajadores/VBZ)\n  (VP expuestos/VBZ (NP a/DT despidos/JJ arbitrarios/NNS))\n  (VP y/VBP (NP conflictos/NNS))\n  (VP\n    legales/VBZ\n    (NP sin/JJ un/JJ responsable/JJ patronal/JJ claro/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Queremos/NNP que/NN se/NN)\n  (NP incluyan/JJ cláusulas/NN que/NN garanticen/NN la/NN)\n  estabilidad/FW\n  (NP y/NN que/NN)\n  (VP se/VBD respete/JJ)\n  la/FW\n  antigüedad/FW\n  de/FW\n  cada/FW\n  (NP chofer/NN ”/NN)\n  ,/,\n  (NP afirmó/JJ Ávalos/NN)\n  ,/,\n  (NP quien/JJ además/NN denunció/NN que/NN el/NN sector/NN)\n  (NP\n    no/DT\n    fue/JJ\n    informado/NN\n    con/NN\n    claridad/NN\n    hasta/NN\n    la/NN\n    audiencia/NN\n    pública/NN)\n  ,/,\n  donde/FW\n  se/FW\n  (NP confirmó/NN)\n  la/FW\n  falta/FW\n  de/FW\n  garantías/FW\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  (VP\n    se/VBD\n    (NP ha/JJ convocado/NN)\n    (NP una/JJ huelga/NN)\n    (NP general/JJ para/NN))\n  (VP el/VBD)\n  3/CD\n  (ADJP y/JJ)\n  4/CD\n  de/FW\n  septiembre/FW\n  ,/,\n  la/FW\n  (NP CNT/NNP insiste/NN)\n  en/FW\n  (NP que/NN)\n  el/FW\n  (NP objetivo/NN)\n  (ADJP principal/JJ)\n  (NP no/DT es/JJ paralizar/NN el/NN servicio/NN)\n  ,/,\n  (NP sino/NN lograr/NN que/NN las/NNS)\n  (PP autoridades/IN (NP atiendan/JJ los/NN reclamos/NN))\n  (VP antes/VBZ)\n  (PP de/IN (NP implementar/NN la/NN reforma/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "LEYES_NORMATIVAS",
+      "ORGANIZACIONES_SOCIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "huelga general para el 3 y 4 de septiembre, la cnt insiste en que el objetivo principal no es paralizar el servicio, sino lograr que las autoridades atiendan los reclamos antes de implementar la reforma",
+        "position": [
+          1184,
+          1386
+        ],
+        "start": 1184,
+        "end": 1386
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "huelga general para el 3 y 4 de septiembre, la cnt insiste en que el objetivo principal no es paralizar el servicio",
+        "position": [
+          1184,
+          1299
+        ],
+        "start": 1184,
+        "end": 1299
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1502,
+          1509
+        ],
+        "start": 1502,
+        "end": 1509
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1005,
+          1011
+        ],
+        "start": 1005,
+        "end": 1011
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          42,
+          48
+        ],
+        "start": 42,
+        "end": 48
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "audiencia pública",
+        "position": [
+          1095,
+          1112
+        ],
+        "start": 1095,
+        "end": 1112
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "gremio deja a los trabajadores",
+        "position": [
+          771,
+          801
+        ],
+        "start": 771,
+        "end": 801
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "central nacional de trabajadores",
+        "position": [
+          3,
+          35
+        ],
+        "start": 3,
+        "end": 35
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "docentes",
+        "position": [
+          311,
+          319
+        ],
+        "start": 311,
+        "end": 319
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1395,
+          1402
+        ],
+        "start": 1395,
+        "end": 1402
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1033,
+          1041
+        ],
+        "start": 1033,
+        "end": 1041
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "propuesta de ley",
+        "position": [
+          593,
+          609
+        ],
+        "start": 593,
+        "end": 609
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "paraguay",
+        "position": [
+          301,
+          309
+        ],
+        "start": 301,
+        "end": 309
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 5.000",
+        "position": [
+          435,
+          449
+        ],
+        "start": 435,
+        "end": 449
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Docentes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Paraguay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ávalos",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Trabajo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CNT",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Central Nacional de Trabajadores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comisión Interinstitucional de Transporte",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ramón Ávalos",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "LEA",
+        "relacion": "EXPLICAR",
+        "objeto": "Ramón Ávalos"
+      },
+      {
+        "sujeto": "Ramón Ávalos",
+        "relacion": "EXPLICAR",
+        "objeto": "Paraguay"
+      },
+      {
+        "sujeto": "Docentes",
+        "relacion": "ACORDAR_EXPLICAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Docentes",
+        "relacion": "ACORDAR_EXPLICAR",
+        "objeto": "Ramón Ávalos"
+      },
+      {
+        "sujeto": "Ramón Ávalos",
+        "relacion": "ACORDAR_EXPLICAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Ávalos",
+        "relacion": "SUBRAYAR",
+        "objeto": "Ministerio de Trabajo"
+      },
+      {
+        "sujeto": "CNT",
+        "relacion": "SE_ALAR",
+        "objeto": "Comisión Interinstitucional de Transporte"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9118,
+    "pos": 0.017,
+    "neu": 0.919,
+    "neg": 0.063,
+    "label": "negative"
+  }
+}

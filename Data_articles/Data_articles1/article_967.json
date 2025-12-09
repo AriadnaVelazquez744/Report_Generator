@@ -1,0 +1,836 @@
+{
+  "url": "https://www.telesurtv.net/ministerio-de-salud-de-gaza-condena-masacre/",
+  "title": "Ministerio de Salud de Gaza condena masacre y ataque contra instalaciones del Hospital Nasser - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "asesinatos",
+    "Bombardeo",
+    "Conflicto",
+    "conflicto destacadas",
+    "Gaza",
+    "genocidio",
+    "Hospital Nasser",
+    "masacre",
+    "Ministerio de Salud",
+    "Periodistas",
+    "Sionismo"
+  ],
+  "text": "El ataque aéreo israelí contra el hospital Nasser, ubicado en Khan Younis, sur de Gaza, ha dejado un saldo devastador de al menos 20 víctimas mortales, entre ellas pacientes, personal médico y ahora, cinco periodistas.\n\nLa jornada de violencia comenzó el lunes 25 de agosto cuando un bombardeo alcanzó en dos ocasiones este centro médico, el único de su tipo en el sur de Gaza, lo que desató una serie de muertes y heridas.\nLa cifra de reporteros fallecidos aumentó de cuatro a cinco tras confirmarse la muerte de Ahmed Abu Aziz, quien se sumó a la lista de víctimas que ya incluía a Mohammed Salama (camarógrafo de Al Jazeera), Mariam Abu Daqa (reportera para The Independent Arabic y Associated Press), Hossam al Masri (fotoperiodista de Reuters) y Moaz Abu Taha (periodista de NBC).\n\n\nEl Ministerio de Salud de Gaza condenó de manera contundente el ataque, calificándolo de “genocidio” y acusó a Israel de una acción deliberada contra la humanidad y la justicia. La comunidad internacional ha sido instada a actuar con urgencia para proteger los servicios sanitarios y los equipos humanitarios en la región, que continúan siendo blanco de agresiones constantes.\nEste acto forma parte de un patrón de violencia que ha destruido el sistema de salud de Gaza, privando a miles de personas de atención médica esencial y generando una crisis humanitaria sin precedentes en la zona.\nLa resistencia palestina y otras organizaciones repudiaron el ataque, que consideraron parte de un plan multidimensional de exterminio y limpieza étnica. Advirtieron que las masacres de periodistas también buscan silenciar la verdad sobre el genocidio sionista. De acuerdo con la oficina de medios del Gobierno de Gaza, los comunicadores asesinados por la ocupación ya suman 245.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ministerio-de-salud-de-gaza-condena-masacre/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 496,
+    "message_id": 102785,
+    "date": "2025-08-25T14:55:13+00:00",
+    "text": "teleSUR\nMinisterio de Salud de Gaza condena masacre y ataque contra instalaciones del Hospital Nasser\nhttps://www.telesurtv.net/ministerio-de-salud-de-gaza-condena-masacre/",
+    "photo_path": null,
+    "views": 1925,
+    "reactions": {
+      "😢": 25,
+      "🤬": 18,
+      "😭": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "el ataque aéreo israelí contra el hospital nasser, ubicado en khan younis, sur de gaza, ha dejado un saldo devastador de al menos 20 víctimas mortales, entre ellas pacientes, personal médico y ahora, cinco periodistas. la jornada de violencia comenzó el lunes 25 de agosto cuando un bombardeo alcanzó en dos ocasiones este centro médico, el único de su tipo en el sur de gaza, lo que desató una serie de muertes y heridas. la cifra de reporteros fallecidos aumentó de cuatro a cinco tras confirmarse la muerte de ahmed abu aziz, quien se sumó a la lista de víctimas que ya incluía a mohammed salama (camarógrafo de al jazeera), mariam abu daqa (reportera para the independent arabic y associated press), hossam al masri (fotoperiodista de reuters) y moaz abu taha (periodista de nbc). el ministerio de salud de gaza condenó de manera contundente el ataque, calificándolo de “genocidio” y acusó a israel de una acción deliberada contra la humanidad y la justicia. la comunidad internacional ha sido instada a actuar con urgencia para proteger los servicios sanitarios y los equipos humanitarios en la región, que continúan siendo blanco de agresiones constantes. este acto forma parte de un patrón de violencia que ha destruido el sistema de salud de gaza, privando a miles de personas de atención médica esencial y generando una crisis humanitaria sin precedentes en la zona. la resistencia palestina y otras organizaciones repudiaron el ataque, que consideraron parte de un plan multidimensional de exterminio y limpieza étnica. advirtieron que las masacres de periodistas también buscan silenciar la verdad sobre el genocidio sionista. de acuerdo con la oficina de medios del gobierno de gaza, los comunicadores asesinados por la ocupación ya suman 245.",
+    "tokens": [
+      "ataque",
+      "aéreo",
+      "israelí",
+      "hospital",
+      "nasser",
+      ",",
+      "ubicado",
+      "khan",
+      "younis",
+      ",",
+      "sur",
+      "gaza",
+      ",",
+      "dejado",
+      "saldo",
+      "devastador",
+      "menos",
+      "20",
+      "víctimas",
+      "mortales",
+      ",",
+      "pacientes",
+      ",",
+      "personal",
+      "médico",
+      "ahora",
+      ",",
+      "cinco",
+      "periodistas",
+      ".",
+      "jornada",
+      "violencia",
+      "comenzó",
+      "lunes",
+      "25",
+      "agosto",
+      "bombardeo",
+      "alcanzó",
+      "dos",
+      "ocasiones",
+      "centro",
+      "médico",
+      ",",
+      "único",
+      "tipo",
+      "sur",
+      "gaza",
+      ",",
+      "desató",
+      "serie",
+      "muertes",
+      "heridas",
+      ".",
+      "cifra",
+      "reporteros",
+      "fallecidos",
+      "aumentó",
+      "cuatro",
+      "cinco",
+      "tras",
+      "confirmarse",
+      "muerte",
+      "ahmed",
+      "abu",
+      "aziz",
+      ",",
+      "sumó",
+      "lista",
+      "víctimas",
+      "incluía",
+      "mohammed",
+      "salama",
+      "(",
+      "camarógrafo",
+      "jazeera",
+      ")",
+      ",",
+      "mariam",
+      "abu",
+      "daqa",
+      "(",
+      "reportera",
+      "the",
+      "independent",
+      "arabic",
+      "associated",
+      "press",
+      ")",
+      ",",
+      "hossam",
+      "masri",
+      "(",
+      "fotoperiodista",
+      "reuters",
+      ")",
+      "moaz",
+      "abu",
+      "taha",
+      "(",
+      "periodista",
+      "nbc",
+      ")",
+      ".",
+      "ministerio",
+      "salud",
+      "gaza",
+      "condenó",
+      "manera",
+      "contundente",
+      "ataque",
+      ",",
+      "calificándolo",
+      "“",
+      "genocidio",
+      "”",
+      "acusó",
+      "israel",
+      "acción",
+      "deliberada",
+      "humanidad",
+      "justicia",
+      ".",
+      "comunidad",
+      "internacional",
+      "sido",
+      "instada",
+      "actuar",
+      "urgencia",
+      "proteger",
+      "servicios",
+      "sanitarios",
+      "equipos",
+      "humanitarios",
+      "región",
+      ",",
+      "continúan",
+      "siendo",
+      "blanco",
+      "agresiones",
+      "constantes",
+      ".",
+      "acto",
+      "forma",
+      "parte",
+      "patrón",
+      "violencia",
+      "destruido",
+      "sistema",
+      "salud",
+      "gaza",
+      ",",
+      "privando",
+      "miles",
+      "personas",
+      "atención",
+      "médica",
+      "esencial",
+      "generando",
+      "crisis",
+      "humanitaria",
+      "precedentes",
+      "zona",
+      ".",
+      "resistencia",
+      "palestina",
+      "organizaciones",
+      "repudiaron",
+      "ataque",
+      ",",
+      "consideraron",
+      "parte",
+      "plan",
+      "multidimensional",
+      "exterminio",
+      "limpieza",
+      "étnica",
+      ".",
+      "advirtieron",
+      "masacres",
+      "periodistas",
+      "buscan",
+      "silenciar",
+      "verdad",
+      "genocidio",
+      "sionista",
+      ".",
+      "acuerdo",
+      "oficina",
+      "medios",
+      "gobierno",
+      "gaza",
+      ",",
+      "comunicadores",
+      "asesinados",
+      "ocupación",
+      "suman",
+      "245",
+      "."
+    ],
+    "token_count": 198,
+    "sentence_count": 9
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 87,
+      "VP": 17,
+      "ADJP": 2,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.041
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0328
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP VP (',', ',') ADJP ('en', 'FW') NP (',', ',') NP ('de', 'FW') NP (',', ',') NP NP ('de', 'IN') ('al', 'FW') ('menos', 'FW') ('20', 'CD') NP (',', ',') ('entre', 'FW') ('ellas', 'FW') NP (',', ',') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('ataque', 'NN') ('aéreo', 'NN') ('israelí', 'NN') ('contra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('hospital', 'NN') ('Nasser', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "ADJP -> ('ubicado', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Khan', 'NNP') ('Younis', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El ataque aéreo israelí contra"
+      },
+      {
+        "label": "VP",
+        "text": "el hospital Nasser"
+      },
+      {
+        "label": "NP",
+        "text": "hospital Nasser"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicado"
+      },
+      {
+        "label": "NP",
+        "text": "Khan Younis"
+      },
+      {
+        "label": "NP",
+        "text": "sur"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "ha dejado"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo devastador"
+      },
+      {
+        "label": "NP",
+        "text": "víctimas mortales"
+      },
+      {
+        "label": "NP",
+        "text": "pacientes"
+      },
+      {
+        "label": "NP",
+        "text": "personal médico y ahora"
+      },
+      {
+        "label": "NP",
+        "text": "cinco periodistas"
+      },
+      {
+        "label": "NP",
+        "text": "La jornada"
+      },
+      {
+        "label": "NP",
+        "text": "comenzó el"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP ataque/NN aéreo/NN israelí/NN contra/NN)\n  (VP el/VBP (NP hospital/NN Nasser/NNP))\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  (NP Khan/NNP Younis/NNP)\n  ,/,\n  (NP sur/NN)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP ha/NN dejado/NN)\n  (NP un/JJ saldo/JJ devastador/NN)\n  de/IN\n  al/FW\n  menos/FW\n  20/CD\n  (NP víctimas/NN mortales/NNS)\n  ,/,\n  entre/FW\n  ellas/FW\n  (NP pacientes/NNS)\n  ,/,\n  (NP personal/JJ médico/NN y/NN ahora/NN)\n  ,/,\n  (NP cinco/NN periodistas/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP jornada/NNP)\n  de/IN\n  violencia/FW\n  (NP comenzó/NN el/NN)\n  (VP lunes/VBZ)\n  25/CD\n  de/IN\n  agosto/FW\n  (NP cuando/NN)\n  (NP un/JJ bombardeo/NN alcanzó/NN)\n  (PP en/IN (NP dos/JJ ocasiones/NNS este/NN centro/NN médico/NN))\n  ,/,\n  (NP el/JJ único/NNP)\n  de/FW\n  su/FW\n  (NP tipo/NN)\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP lo/NN que/NN desató/NN)\n  (NP una/JJ serie/NN)\n  (PP de/IN (NP muertes/NNS))\n  y/RB\n  (NP heridas/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP cifra/NN)\n  de/FW\n  reporteros/FW\n  (NP fallecidos/JJ aumentó/NN)\n  de/FW\n  cuatro/FW\n  (NP a/DT cinco/NN)\n  (NP tras/JJ confirmarse/NN la/NN)\n  muerte/FW\n  de/FW\n  (NP Ahmed/NNP Abu/NNP Aziz/NNP)\n  ,/,\n  (NP quien/NN se/NN)\n  (VP sumó/VBD (NP a/DT la/NN))\n  lista/FW\n  de/FW\n  víctimas/FW\n  (NP que/NN ya/NN)\n  (VP incluía/VB (NP a/DT Mohammed/NNP Salama/NNP))\n  (/(\n  camarógrafo/FW\n  de/FW\n  (NP Al/NNP Jazeera/NNP)\n  )/)\n  ,/,\n  (NP Mariam/NNP Abu/NNP Daqa/NNP)\n  (/(\n  (NP reportera/NN)\n  (VP\n    para/VBZ\n    (NP The/DT Independent/NNP Arabic/NNP)\n    y/RB\n    (NP Associated/NNP Press/NNP))\n  )/)\n  ,/,\n  (NP Hossam/NNP)\n  (VP al/VBZ (NP Masri/NNP))\n  (/(\n  fotoperiodista/FW\n  de/FW\n  (NP Reuters/NNP)\n  )/)\n  (NP y/NN Moaz/NNP Abu/NNP Taha/NNP)\n  (/(\n  periodista/FW\n  de/FW\n  (NP NBC/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  (NP Gaza/NNP condenó/NN)\n  de/FW\n  manera/FW\n  (NP contundente/NN el/NN ataque/NN)\n  ,/,\n  (NP calificándolo/NN)\n  de/FW\n  “/FW\n  (NP genocidio/NN ”/NNP y/NNP)\n  (VP acusó/VBZ (NP a/DT Israel/NNP de/NNP))\n  una/FW\n  (NP acción/NN deliberada/NN)\n  (NP contra/JJ la/NN humanidad/NN y/NN la/NN justicia/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP comunidad/VBD (NP internacional/JJ ha/NN sido/NN))\n  (VP\n    instada/VBZ\n    (NP a/DT actuar/JJ con/NN)\n    (NP urgencia/JJ para/NN proteger/NN)\n    (NP los/JJ servicios/JJ sanitarios/NNS))\n  (VP y/VBP (NP los/JJ equipos/JJ humanitarios/NNS))\n  (VP en/VBP (NP la/NN región/NN))\n  ,/,\n  (NP que/JJ continúan/NN siendo/NN blanco/NN)\n  (PP de/IN (NP agresiones/NNS constantes/NNS))\n  ./.)"
+    ]
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "NN": 85,
+      "VBP": 11,
+      "FW": 63,
+      "JJ": 27,
+      "IN": 14,
+      "CD": 3,
+      "NNS": 14,
+      "VBZ": 6,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-NN": 34,
+      "NN-VBP": 2,
+      "VBP-NN": 3,
+      "NN-NNP": 5,
+      "NN-FW": 16,
+      "FW-NNP": 13,
+      "NNP-NNP": 19,
+      "NNP-FW": 8,
+      "FW-FW": 28,
+      "NN-JJ": 9,
+      "JJ-JJ": 3,
+      "JJ-NN": 18,
+      "NN-IN": 8,
+      "IN-FW": 8,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-NNS": 6,
+      "NNS-VBP": 8,
+      "NNS-JJ": 1,
+      "VBP-NNS": 1,
+      "NNS-NNP": 2,
+      "FW-NN": 15,
+      "NN-VBZ": 4,
+      "VBZ-CD": 1,
+      "CD-IN": 1,
+      "IN-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-NN": 1,
+      "NNP-IN": 2,
+      "IN-NNS": 2,
+      "VBP-NNP": 1,
+      "FW-JJ": 5,
+      "VBP-JJ": 5,
+      "JJ-FW": 2,
+      "VBZ-DT": 1,
+      "DT-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "IN-NNP": 1,
+      "JJ-NNP": 1,
+      "VBZ-JJ": 1,
+      "VBP-FW": 1,
+      "NNS-NNS": 1,
+      "NNP-VBP": 1,
+      "NNS-IN": 1,
+      "VBZ-IN": 2,
+      "FW-NNS": 1,
+      "NN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 14,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 2,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-FW": 5,
+      "NN-FW-NNP": 4,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NN": 5,
+      "NN-NN-JJ": 5,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-FW-FW": 13,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 7,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 7,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NN-FW": 5,
+      "NN-FW-FW": 6,
+      "NN-IN-NNS": 2,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-FW": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-NN": 5,
+      "NN-NN-FW": 4,
+      "NN-NNP-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NNP": 1,
+      "DT-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NN-FW-JJ": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-NN": 3,
+      "NN-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-JJ": 3,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "IN-JJ-NN": 2,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "FW-NNP-FW": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-JJ-FW": 1,
+      "FW-JJ-JJ": 1,
+      "NN-NNP-FW": 1,
+      "NN-NN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 63,
+        "NNP": 45,
+        "JJ": 27,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 28,
+        "NNP-NNP": 19,
+        "JJ-NN": 18,
+        "NN-FW": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 14,
+        "FW-FW-FW": 13,
+        "NNP-NNP-NNP": 10,
+        "FW-FW-NNP": 7,
+        "FW-NN-NN": 7
+      }
+    }
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          3,
+          15
+        ],
+        "start": 3,
+        "end": 15
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "acusó a",
+        "position": [
+          891,
+          898
+        ],
+        "start": 891,
+        "end": 898
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1735,
+          1744
+        ],
+        "start": 1735,
+        "end": 1744
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "periodistas también buscan silenciar la verdad sobre el genocidio sionista. de acuerdo con la oficina de medios del gobierno de gaza, los comunicadores asesinados",
+        "position": [
+          1565,
+          1727
+        ],
+        "start": 1565,
+        "end": 1727
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio sionista. de acuerdo con la oficina de medios del gobierno de gaza",
+        "position": [
+          1621,
+          1697
+        ],
+        "start": 1621,
+        "end": 1697
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de gaza",
+        "position": [
+          1681,
+          1697
+        ],
+        "start": 1681,
+        "end": 1697
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periodista de nbc",
+        "position": [
+          766,
+          783
+        ],
+        "start": 766,
+        "end": 783
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          819,
+          826
+        ],
+        "start": 819,
+        "end": 826
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusó",
+        "position": [
+          891,
+          896
+        ],
+        "start": 891,
+        "end": 896
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la oficina de medios del gobierno de gaza, los comunicadores asesinados por la ocupación ya suman 245",
+        "position": [
+          1644,
+          1757
+        ],
+        "start": 1644,
+        "end": 1757
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          34,
+          42
+        ],
+        "start": 34,
+        "end": 42
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          16,
+          23
+        ],
+        "start": 16,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, que",
+        "position": [
+          1103,
+          1114
+        ],
+        "start": 1103,
+        "end": 1114
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro médico",
+        "position": [
+          324,
+          337
+        ],
+        "start": 324,
+        "end": 337
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital nasser",
+        "position": [
+          34,
+          49
+        ],
+        "start": 34,
+        "end": 49
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 25 de agosto",
+        "position": [
+          255,
+          273
+        ],
+        "start": 255,
+        "end": 273
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Mohammed Salama",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Associated Press",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Moaz Abu Taha",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "NBC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al Jazeera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ahmed Abu Aziz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "The Independent Arabic",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mariam Abu Daqa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hossam al Masri",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "hospital Nasser",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reuters",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud de Gaza",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3612,
+    "pos": 0.026,
+    "neu": 0.947,
+    "neg": 0.028,
+    "label": "negative"
+  }
+}

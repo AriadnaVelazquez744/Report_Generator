@@ -1,0 +1,863 @@
+{
+  "url": "https://www.telesurtv.net/delcy-venezuela-fortalece-ante-agresiones/",
+  "title": "Venezuela se fortalece ante las agresiones externas: la unidad nacional como respuesta estratégica - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "alistamiento",
+    "amenazas",
+    "Delcy Rodríguez",
+    "EE.UU.",
+    "milicia bolivariana",
+    "Patriotismo",
+    "paz",
+    "pueblo",
+    "Soberanía",
+    "Venezuela",
+    "zona de paz"
+  ],
+  "text": "En medio de un contexto internacional marcado por tensiones geopolíticas y estrategias de desestabilización, la República Bolivariana de Venezuela continúa consolidando su unidad nacional como respuesta firme ante las agresiones externas, provenientes de Estados Unidos.\nDurante una jornada de alistamiento voluntario en el estado Carabobo el viernes 29 de agosto, la vicepresidenta ejecutiva, Delcy Rodríguez, destacó que el pueblo venezolano, consciente del momento histórico que atraviesa, no se rinde ni se doblega, a pesar de las presiones económicas, diplomáticas y mediáticas.\nLa Vicepresidenta recordó que estas estrategias de presión no son nuevas. Ya en 2002, la industria petrolera nacional fue blanco de ataques que generaron pérdidas millonarias. A esto se suma el impacto devastador de las medidas coercitivas unilaterales impuestas en los últimos años, que (según cifras oficiales) le han costado al país cerca de 600.000 millones de dólares en solo cinco años.\nSin embargo, lejos de fracturar a la nación, estas agresiones han servido de catalizador para un proceso de fortalecimiento interno. El pueblo trabajador, en especial el sector petrolero, ha respondido con organización, disciplina y compromiso patriótico.\n\nLa Vicepresidenta también advirtió que cualquier intento de agresión militar hacia Venezuela —como los recientes movimientos navales estadounidenses en el Caribe— no solo sería injustificado, sino profundamente desestabilizador para toda la región.\n“Si se atreven, será su calamidad. No porque queramos la confrontación, sino porque estamos preparados para resistirla. Llamamos a la paz, pero también a la dignidad”, concluyó, haciendo un llamado directo a los sectores más agresivos del Gobierno estadounidense.\nEn su discurso, Rodríguez reafirmó que Venezuela seguirá avanzando por el camino del desarrollo económico, la justicia social y la autodeterminación, al tiempo que reiteró el carácter pacífico pero firme de un país que ha decidido no arrodillarse ante intereses imperiales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/delcy-venezuela-fortalece-ante-agresiones/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 138,
+    "message_id": 103195,
+    "date": "2025-08-30T13:55:07+00:00",
+    "text": "teleSUR\nVenezuela se fortalece ante las agresiones externas: la unidad nacional como respuesta estratégica\nhttps://www.telesurtv.net/delcy-venezuela-fortalece-ante-agresiones/",
+    "photo_path": null,
+    "views": 1418,
+    "reactions": {
+      "👍": 38,
+      "❤": 5
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "en medio de un contexto internacional marcado por tensiones geopolíticas y estrategias de desestabilización, la república bolivariana de venezuela continúa consolidando su unidad nacional como respuesta firme ante las agresiones externas, provenientes de estados unidos. durante una jornada de alistamiento voluntario en el estado carabobo el viernes 29 de agosto, la vicepresidenta ejecutiva, delcy rodríguez, destacó que el pueblo venezolano, consciente del momento histórico que atraviesa, no se rinde ni se doblega, a pesar de las presiones económicas, diplomáticas y mediáticas. la vicepresidenta recordó que estas estrategias de presión no son nuevas. ya en 2002, la industria petrolera nacional fue blanco de ataques que generaron pérdidas millonarias. a esto se suma el impacto devastador de las medidas coercitivas unilaterales impuestas en los últimos años, que (según cifras oficiales) le han costado al país cerca de 600.000 millones de dólares en solo cinco años. sin embargo, lejos de fracturar a la nación, estas agresiones han servido de catalizador para un proceso de fortalecimiento interno. el pueblo trabajador, en especial el sector petrolero, ha respondido con organización, disciplina y compromiso patriótico. la vicepresidenta también advirtió que cualquier intento de agresión militar hacia venezuela —como los recientes movimientos navales estadounidenses en el caribe— no solo sería injustificado, sino profundamente desestabilizador para toda la región. “si se atreven, será su calamidad. no porque queramos la confrontación, sino porque estamos preparados para resistirla. llamamos a la paz, pero también a la dignidad”, concluyó, haciendo un llamado directo a los sectores más agresivos del gobierno estadounidense. en su discurso, rodríguez reafirmó que venezuela seguirá avanzando por el camino del desarrollo económico, la justicia social y la autodeterminación, al tiempo que reiteró el carácter pacífico pero firme de un país que ha decidido no arrodillarse ante intereses imperiales.",
+    "tokens": [
+      "medio",
+      "contexto",
+      "internacional",
+      "marcado",
+      "tensiones",
+      "geopolíticas",
+      "estrategias",
+      "desestabilización",
+      ",",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "continúa",
+      "consolidando",
+      "unidad",
+      "nacional",
+      "respuesta",
+      "firme",
+      "agresiones",
+      "externas",
+      ",",
+      "provenientes",
+      "unidos",
+      ".",
+      "jornada",
+      "alistamiento",
+      "voluntario",
+      "carabobo",
+      "viernes",
+      "29",
+      "agosto",
+      ",",
+      "vicepresidenta",
+      "ejecutiva",
+      ",",
+      "delcy",
+      "rodríguez",
+      ",",
+      "destacó",
+      "pueblo",
+      "venezolano",
+      ",",
+      "consciente",
+      "momento",
+      "histórico",
+      "atraviesa",
+      ",",
+      "rinde",
+      "doblega",
+      ",",
+      "pesar",
+      "presiones",
+      "económicas",
+      ",",
+      "diplomáticas",
+      "mediáticas",
+      ".",
+      "vicepresidenta",
+      "recordó",
+      "estrategias",
+      "presión",
+      "nuevas",
+      ".",
+      "2002",
+      ",",
+      "industria",
+      "petrolera",
+      "nacional",
+      "blanco",
+      "ataques",
+      "generaron",
+      "pérdidas",
+      "millonarias",
+      ".",
+      "suma",
+      "impacto",
+      "devastador",
+      "medidas",
+      "coercitivas",
+      "unilaterales",
+      "impuestas",
+      "últimos",
+      "años",
+      ",",
+      "(",
+      "según",
+      "cifras",
+      "oficiales",
+      ")",
+      "costado",
+      "país",
+      "cerca",
+      "600.000",
+      "millones",
+      "dólares",
+      "solo",
+      "cinco",
+      "años",
+      ".",
+      "embargo",
+      ",",
+      "lejos",
+      "fracturar",
+      "nación",
+      ",",
+      "agresiones",
+      "servido",
+      "catalizador",
+      "proceso",
+      "fortalecimiento",
+      "interno",
+      ".",
+      "pueblo",
+      "trabajador",
+      ",",
+      "especial",
+      "sector",
+      "petrolero",
+      ",",
+      "respondido",
+      "organización",
+      ",",
+      "disciplina",
+      "compromiso",
+      "patriótico",
+      ".",
+      "vicepresidenta",
+      "advirtió",
+      "cualquier",
+      "intento",
+      "agresión",
+      "militar",
+      "hacia",
+      "venezuela",
+      "—como",
+      "recientes",
+      "movimientos",
+      "navales",
+      "estadounidenses",
+      "caribe—",
+      "solo",
+      "injustificado",
+      ",",
+      "sino",
+      "profundamente",
+      "desestabilizador",
+      "toda",
+      "región",
+      ".",
+      "“",
+      "si",
+      "atreven",
+      ",",
+      "calamidad",
+      ".",
+      "queramos",
+      "confrontación",
+      ",",
+      "sino",
+      "preparados",
+      "resistirla",
+      ".",
+      "llamamos",
+      "paz",
+      ",",
+      "dignidad",
+      "”",
+      ",",
+      "concluyó",
+      ",",
+      "haciendo",
+      "llamado",
+      "directo",
+      "sectores",
+      "agresivos",
+      "gobierno",
+      "estadounidense",
+      ".",
+      "discurso",
+      ",",
+      "rodríguez",
+      "reafirmó",
+      "venezuela",
+      "seguirá",
+      "avanzando",
+      "camino",
+      "desarrollo",
+      "económico",
+      ",",
+      "justicia",
+      "social",
+      "autodeterminación",
+      ",",
+      "tiempo",
+      "reiteró",
+      "carácter",
+      "pacífico",
+      "firme",
+      "país",
+      "decidido",
+      "arrodillarse",
+      "intereses",
+      "imperiales",
+      "."
+    ],
+    "token_count": 204,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 128,
+      "FW": 37,
+      "VBP": 13,
+      "JJ": 24,
+      "NNS": 16,
+      "IN": 15,
+      "CD": 3,
+      "VBZ": 7,
+      "DT": 4,
+      "RB": 3,
+      "JJR": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-FW": 6,
+      "FW-FW": 19,
+      "FW-VBP": 1,
+      "VBP-JJ": 5,
+      "JJ-NN": 19,
+      "NN-NN": 78,
+      "NN-NNS": 4,
+      "NNS-VBP": 8,
+      "VBP-FW": 1,
+      "FW-NNP": 4,
+      "NNP-NNP": 8,
+      "NNP-FW": 1,
+      "NN-JJ": 7,
+      "JJ-JJ": 2,
+      "FW-NNS": 4,
+      "VBP-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NNP": 1,
+      "NNP-JJ": 1,
+      "NN-IN": 12,
+      "IN-FW": 7,
+      "FW-NN": 7,
+      "NNP-VBP": 1,
+      "NNS-CD": 1,
+      "CD-FW": 1,
+      "NN-VBZ": 4,
+      "VBZ-DT": 2,
+      "DT-JJ": 1,
+      "NN-NNP": 12,
+      "JJ-FW": 1,
+      "FW-DT": 1,
+      "DT-NN": 3,
+      "NN-RB": 2,
+      "RB-NNP": 1,
+      "NNP-IN": 1,
+      "IN-CD": 2,
+      "CD-NN": 1,
+      "IN-NNS": 1,
+      "VBP-NN": 4,
+      "VBP-IN": 1,
+      "IN-NN": 2,
+      "NNS-VBZ": 1,
+      "VBZ-JJR": 1,
+      "JJR-JJ": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "FW-JJ": 1,
+      "JJ-NNP": 2,
+      "IN-JJ": 2,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 3,
+      "NNP-DT": 1,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "RB-VBZ": 1,
+      "VBZ-JJ": 3,
+      "NN-VBP": 3,
+      "NNP-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 13,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 11,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 10,
+      "NN-NN-NN": 46,
+      "NN-NN-JJ": 5,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 7,
+      "IN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "IN-FW-FW": 3,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NNP-NNP-NN": 5,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-DT": 2,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-JJ-NN": 5,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-JJ": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-NNP": 1,
+      "RB-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-NN-IN": 7,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-NN": 6,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJR": 1,
+      "VBZ-JJR-JJ": 1,
+      "JJR-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "NN-NN-NNP": 8,
+      "FW-FW-NNS": 1,
+      "VBP-NN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "NN-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NNP-NN-RB": 1,
+      "NN-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-VBP": 3,
+      "NN-VBP-NN": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "VBZ-DT-NN": 1,
+      "NN-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 128,
+        "FW": 37,
+        "NNP": 29,
+        "JJ": 24,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 78,
+        "FW-FW": 19,
+        "JJ-NN": 19,
+        "NNP-NN": 14,
+        "NN-IN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 46,
+        "JJ-NN-NN": 13,
+        "FW-FW-FW": 11,
+        "NNP-NN-NN": 10,
+        "NN-NN-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 77,
+      "VP": 22,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.042
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('un', 'FW') VP VP ('estrategias', 'FW') ('de', 'FW') ('desestabilización', 'FW') (',', ',') ('la', 'FW') NP ('de', 'FW') NP NP ('las', 'FW') NP (',', ',') VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('medio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "VP -> ('contexto', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('internacional', 'JJ') ('marcado', 'NN') ('por', 'NN') ('tensiones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "VP -> ('geopolíticas', 'VBP') ('y', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Bolivariana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP') ('continúa', 'NN') ('consolidando', 'NN') ('su', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('unidad', 'JJ') ('nacional', 'JJ') ('como', 'NN') ('respuesta', 'NN') ('firme', 'NN') ('ante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En medio"
+      },
+      {
+        "label": "VP",
+        "text": "contexto internacional marcado por tensiones"
+      },
+      {
+        "label": "NP",
+        "text": "internacional marcado por tensiones"
+      },
+      {
+        "label": "VP",
+        "text": "geopolíticas y"
+      },
+      {
+        "label": "NP",
+        "text": "República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela continúa consolidando su"
+      },
+      {
+        "label": "NP",
+        "text": "unidad nacional como respuesta firme ante"
+      },
+      {
+        "label": "NP",
+        "text": "agresiones externas"
+      },
+      {
+        "label": "VP",
+        "text": "provenientes"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Durante"
+      },
+      {
+        "label": "NP",
+        "text": "una jornada"
+      },
+      {
+        "label": "NP",
+        "text": "voluntario"
+      },
+      {
+        "label": "NP",
+        "text": "Carabobo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP medio/NN)\n  de/FW\n  un/FW\n  (VP\n    contexto/VBP\n    (NP internacional/JJ marcado/NN por/NN tensiones/NNS))\n  (VP geopolíticas/VBP y/JJ)\n  estrategias/FW\n  de/FW\n  desestabilización/FW\n  ,/,\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP continúa/NN consolidando/NN su/NN)\n  (NP unidad/JJ nacional/JJ como/NN respuesta/NN firme/NN ante/NN)\n  las/FW\n  (NP agresiones/NNS externas/NNS)\n  ,/,\n  (VP provenientes/VBZ)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  (NP una/JJ jornada/NN)\n  de/IN\n  alistamiento/FW\n  (NP voluntario/NN)\n  en/IN\n  el/FW\n  estado/FW\n  (NP Carabobo/NNP)\n  (VP el/VBP (NP viernes/NNS))\n  29/CD\n  (PP de/IN (NP agosto/NN))\n  ,/,\n  la/FW\n  vicepresidenta/FW\n  ejecutiva/FW\n  ,/,\n  (NP Delcy/NNP Rodríguez/NNP)\n  ,/,\n  (NP destacó/NN que/NN el/NN pueblo/NN venezolano/NN)\n  ,/,\n  (ADJP consciente/JJ)\n  del/FW\n  (NP momento/NN histórico/NN que/NN atraviesa/NN)\n  ,/,\n  (NP no/DT se/NN)\n  (VP rinde/VBZ (NP ni/JJ se/JJ doblega/NN))\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  las/FW\n  (NP presiones/NNS)\n  económicas/RB\n  ,/,\n  (NP diplomáticas/JJ y/NN mediáticas/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Vicepresidenta/NNP recordó/NN que/NN)\n  (ADJP estas/JJ)\n  estrategias/FW\n  de/FW\n  presión/FW\n  (NP no/DT son/NN)\n  nuevas/RB\n  ./.)",
+      "(S\n  (NP Ya/NNP en/NN)\n  2002/CD\n  ,/,\n  la/FW\n  industria/FW\n  petrolera/FW\n  (NP nacional/JJ fue/NN blanco/NN)\n  (PP de/IN (NP ataques/NNS))\n  (VP que/VBP (NP generaron/NN pérdidas/NN millonarias/NN))\n  ./.)",
+      "(S\n  (NP A/DT esto/JJ se/NN suma/NN)\n  el/FW\n  (NP impacto/JJ devastador/NN)\n  de/IN\n  las/FW\n  medidas/FW\n  (NP coercitivas/NN unilaterales/NNS)\n  (VP impuestas/VBP)\n  (PP en/IN (NP los/NN últimos/NNP años/NN))\n  ,/,\n  (NP que/NN)\n  (/(\n  (NP según/JJ cifras/NNS oficiales/NNS)\n  )/)\n  (VP le/VBP (NP han/JJ costado/NN al/NN país/NN cerca/NN))\n  de/IN\n  600.000/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  (VP en/VBP (NP solo/JJ cinco/NN años/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "JUSTICIA_SOCIAL",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresión militar",
+        "position": [
+          1294,
+          1310
+        ],
+        "start": 1294,
+        "end": 1310
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desarrollo económico, la justicia social y la autodeterminación, al tiempo que reiteró el carácter pacífico pero firme de un país",
+        "position": [
+          1832,
+          1961
+        ],
+        "start": 1832,
+        "end": 1961
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desarrollo económico",
+        "position": [
+          1832,
+          1852
+        ],
+        "start": 1832,
+        "end": 1852
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1260,
+          1268
+        ],
+        "start": 1260,
+        "end": 1268
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          411,
+          418
+        ],
+        "start": 411,
+        "end": 418
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          1773,
+          1781
+        ],
+        "start": 1773,
+        "end": 1781
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          255,
+          269
+        ],
+        "start": 255,
+        "end": 269
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          137,
+          146
+        ],
+        "start": 137,
+        "end": 146
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1614,
+          1620
+        ],
+        "start": 1614,
+        "end": 1620
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          1389,
+          1395
+        ],
+        "start": 1389,
+        "end": 1395
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado carabobo",
+        "position": [
+          324,
+          339
+        ],
+        "start": 324,
+        "end": 339
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "viernes 29 de agosto",
+        "position": [
+          343,
+          363
+        ],
+        "start": 343,
+        "end": 363
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          981,
+          988
+        ],
+        "start": 981,
+        "end": 988
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "justicia social",
+        "position": [
+          1857,
+          1872
+        ],
+        "start": 1857,
+        "end": 1872
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "desarrollo económico, la justicia social",
+        "position": [
+          1832,
+          1872
+        ],
+        "start": 1832,
+        "end": 1872
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 millones",
+        "position": [
+          933,
+          945
+        ],
+        "start": 933,
+        "end": 945
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 600.000",
+        "position": [
+          920,
+          936
+        ],
+        "start": 920,
+        "end": 936
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "600.000 millones de dólares",
+        "position": [
+          929,
+          956
+        ],
+        "start": 929,
+        "end": 956
+      }
+    ],
+    "match_count": 18
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "estado Carabobo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Delcy Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "el Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno estadounidense",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Vicepresidenta",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "CONTINUAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "estado Carabobo",
+        "relacion": "DESTACAR",
+        "objeto": "Delcy Rodríguez"
+      },
+      {
+        "sujeto": "Rodríguez",
+        "relacion": "REAFIRMAR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8316,
+    "pos": 0.016,
+    "neu": 0.934,
+    "neg": 0.05,
+    "label": "negative"
+  }
+}

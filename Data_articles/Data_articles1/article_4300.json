@@ -1,0 +1,790 @@
+{
+  "url": "https://www.telesurtv.net/indepaz-denuncia-masacre-numero-13-en-norte-de-santander-colombia/",
+  "title": "Indepaz denuncia masacre número 13 en Norte de Santander, Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Los Sauces",
+    "masacre",
+    "Norte de Santander"
+  ],
+  "text": "\nEl Instituto de Estudios para el Desarrollo y la Paz (Indepaz) denunció este lunes la muerte de cinco personas en un ataque armado ocurrido en el barrio Los Sauces, en el municipio de Ocaña, departamento de Norte de Santander.\nA través de la red social X, Indepaz resaltó que este hecho marca la masacre número 13 registrada en lo que va de 2025.\nIndepaz dio a conocer que, según la Defensoría del Pueblo, “el escenario de riesgo se configura por las pretensiones de fortalecimiento y expansión territorial de grupos disidentes de las FARC desde Catatumbo, hacia los municipios de Santander y sur del Cesar”.\nPor otra parte, la Policía de Norte de Santander informó en un comunicado que los sujetos llegaron en motocicleta al lugar y dispararon indiscriminadamente contra las personas.\n“Como resultado de este acto criminal, tres personas fallecen en el lugar de los hechos, dos fallecen en el hospital por la gravedad de las heridas y tres quedaron lesionadas y son atendidas en el hospital Emiro Quintero Cañizares”, subraya el texto.\nEntre las víctimas se encuentran una mujer y un niño, mientras que otras tres personas resultaron lesionadas y fueron atendidas en el hospital Emiro Quintero Cañizares.\nLas autoridades colombianas aseveraron que llevan a cabo las investigaciones en coordinación con unidades de inteligencia y el Ejército para identificar y capturar a los responsables del ataque. Sin embargo, la comunidad exige medidas más contundentes para frenar la violencia que afecta a la región.\nOcaña, la segunda ciudad más importante de Norte de Santander, ha sido testigo de un aumento significativo de la violencia en los últimos meses. Solo en enero de este año, la ciudad recibió a más de 10.000 desplazados provenientes de la región del Catatumbo, quienes huyeron de los enfrentamientos y la inseguridad en esa zona.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/indepaz-denuncia-masacre-numero-13-en-norte-de-santander-colombia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1659,
+    "message_id": 88798,
+    "date": "2025-03-10T19:55:18+00:00",
+    "text": "teleSUR\nIndepaz denuncia masacre número 13 en Norte de Santander, Colombia\nhttps://www.telesurtv.net/indepaz-denuncia-masacre-numero-13-en-norte-de-santander-colombia/",
+    "photo_path": null,
+    "views": 2153,
+    "reactions": {
+      "🤬": 37,
+      "👍": 4
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "el instituto de estudios para el desarrollo y la paz (indepaz) denunció este lunes la muerte de cinco personas en un ataque armado ocurrido en el barrio los sauces, en el municipio de ocaña, departamento de norte de santander. a través de la red social x, indepaz resaltó que este hecho marca la masacre número 13 registrada en lo que va de 2025. indepaz dio a conocer que, según la defensoría del pueblo, “el escenario de riesgo se configura por las pretensiones de fortalecimiento y expansión territorial de grupos disidentes de las farc desde catatumbo, hacia los municipios de santander y sur del cesar”. por otra parte, la policía de norte de santander informó en un comunicado que los sujetos llegaron en motocicleta al lugar y dispararon indiscriminadamente contra las personas. “como resultado de este acto criminal, tres personas fallecen en el lugar de los hechos, dos fallecen en el hospital por la gravedad de las heridas y tres quedaron lesionadas y son atendidas en el hospital emiro quintero cañizares”, subraya el texto. entre las víctimas se encuentran una mujer y un niño, mientras que otras tres personas resultaron lesionadas y fueron atendidas en el hospital emiro quintero cañizares. las autoridades colombianas aseveraron que llevan a cabo las investigaciones en coordinación con unidades de inteligencia y el ejército para identificar y capturar a los responsables del ataque. sin embargo, la comunidad exige medidas más contundentes para frenar la violencia que afecta a la región. ocaña, la segunda ciudad más importante de norte de santander, ha sido testigo de un aumento significativo de la violencia en los últimos meses. solo en enero de este año, la ciudad recibió a más de 10.000 desplazados provenientes de la región del catatumbo, quienes huyeron de los enfrentamientos y la inseguridad en esa zona.",
+    "tokens": [
+      "instituto",
+      "estudios",
+      "desarrollo",
+      "paz",
+      "(",
+      "indepaz",
+      ")",
+      "denunció",
+      "lunes",
+      "muerte",
+      "cinco",
+      "personas",
+      "ataque",
+      "armado",
+      "ocurrido",
+      "barrio",
+      "sauces",
+      ",",
+      "municipio",
+      "ocaña",
+      ",",
+      "departamento",
+      "norte",
+      "santander",
+      ".",
+      "través",
+      "red",
+      "social",
+      "x",
+      ",",
+      "indepaz",
+      "resaltó",
+      "hecho",
+      "marca",
+      "masacre",
+      "número",
+      "13",
+      "registrada",
+      "va",
+      "2025.",
+      "indepaz",
+      "dio",
+      "conocer",
+      ",",
+      "según",
+      "defensoría",
+      "pueblo",
+      ",",
+      "“",
+      "escenario",
+      "riesgo",
+      "configura",
+      "pretensiones",
+      "fortalecimiento",
+      "expansión",
+      "territorial",
+      "grupos",
+      "disidentes",
+      "farc",
+      "catatumbo",
+      ",",
+      "hacia",
+      "municipios",
+      "santander",
+      "sur",
+      "cesar",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "policía",
+      "norte",
+      "santander",
+      "informó",
+      "comunicado",
+      "sujetos",
+      "llegaron",
+      "motocicleta",
+      "lugar",
+      "dispararon",
+      "indiscriminadamente",
+      "personas",
+      ".",
+      "“",
+      "resultado",
+      "acto",
+      "criminal",
+      ",",
+      "tres",
+      "personas",
+      "fallecen",
+      "lugar",
+      "hechos",
+      ",",
+      "dos",
+      "fallecen",
+      "hospital",
+      "gravedad",
+      "heridas",
+      "tres",
+      "quedaron",
+      "lesionadas",
+      "atendidas",
+      "hospital",
+      "emiro",
+      "quintero",
+      "cañizares",
+      "”",
+      ",",
+      "subraya",
+      "texto",
+      ".",
+      "víctimas",
+      "encuentran",
+      "mujer",
+      "niño",
+      ",",
+      "mientras",
+      "tres",
+      "personas",
+      "resultaron",
+      "lesionadas",
+      "atendidas",
+      "hospital",
+      "emiro",
+      "quintero",
+      "cañizares",
+      ".",
+      "autoridades",
+      "colombianas",
+      "aseveraron",
+      "llevan",
+      "cabo",
+      "investigaciones",
+      "coordinación",
+      "unidades",
+      "inteligencia",
+      "ejército",
+      "identificar",
+      "capturar",
+      "responsables",
+      "ataque",
+      ".",
+      "embargo",
+      ",",
+      "comunidad",
+      "exige",
+      "medidas",
+      "contundentes",
+      "frenar",
+      "violencia",
+      "afecta",
+      "región",
+      ".",
+      "ocaña",
+      ",",
+      "segunda",
+      "ciudad",
+      "importante",
+      "norte",
+      "santander",
+      ",",
+      "sido",
+      "testigo",
+      "aumento",
+      "significativo",
+      "violencia",
+      "últimos",
+      "meses",
+      ".",
+      "solo",
+      "enero",
+      "año",
+      ",",
+      "ciudad",
+      "recibió",
+      "10.000",
+      "desplazados",
+      "provenientes",
+      "región",
+      "catatumbo",
+      ",",
+      "huyeron",
+      "enfrentamientos",
+      "inseguridad",
+      "zona",
+      "."
+    ],
+    "token_count": 187,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "IN": 17,
+      "NN": 89,
+      "NNS": 15,
+      "VBP": 8,
+      "FW": 76,
+      "JJ": 26,
+      "RB": 1,
+      "CD": 3,
+      "MD": 1,
+      "VB": 1,
+      "VBD": 1,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-NN": 13,
+      "NN-NN": 48,
+      "NN-NNP": 8,
+      "NN-NNS": 5,
+      "NNS-VBP": 8,
+      "VBP-FW": 1,
+      "FW-FW": 39,
+      "FW-NNS": 3,
+      "NNS-IN": 5,
+      "IN-JJ": 3,
+      "JJ-NN": 14,
+      "NN-IN": 10,
+      "IN-FW": 11,
+      "FW-NN": 9,
+      "NNP-FW": 10,
+      "FW-NNP": 13,
+      "FW-JJ": 10,
+      "JJ-JJ": 2,
+      "JJ-NNP": 3,
+      "NN-RB": 1,
+      "RB-CD": 1,
+      "CD-NN": 2,
+      "NN-FW": 12,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "NN-JJ": 3,
+      "JJ-NNS": 6,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "VBP-NNP": 1,
+      "VBP-JJ": 5,
+      "JJ-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 2,
+      "VBP-NN": 1,
+      "VBZ-JJ": 1,
+      "IN-NN": 1,
+      "NN-VBZ": 1,
+      "NNS-NNP": 1,
+      "FW-CD": 1,
+      "NNP-NNS": 1,
+      "NNS-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 24,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 27,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 8,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NN": 6,
+      "NNP-NN-IN": 1,
+      "IN-FW-JJ": 4,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 7,
+      "NN-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 3,
+      "FW-JJ-NN": 6,
+      "JJ-NN-IN": 2,
+      "IN-FW-NNS": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-FW": 5,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NNS": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-IN-JJ": 2,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNS-IN": 2,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "FW-NNS-VBP": 1,
+      "NN-FW-NNP": 2,
+      "FW-NN-FW": 2,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-NN": 1,
+      "NNS-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 89,
+        "FW": 76,
+        "NNP": 40,
+        "JJ": 26,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 39,
+        "JJ-NN": 14,
+        "NNP-NN": 13,
+        "FW-NNP": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 24,
+        "NNP-NN-NN": 9,
+        "NN-IN-FW": 8,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 79,
+      "PP": 7,
+      "VP": 19,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0342
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "NP -> ('Indepaz', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "NP -> ('Norte', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "NP -> ('Ocaña', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('Santander', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('tres', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP PP ('la', 'FW') NP ('(', '(') NP (')', ')') VP VP ('muerte', 'FW') ('de', 'FW') ('cinco', 'FW') NP PP ('en', 'IN') ('el', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('municipio', 'FW') ('de', 'FW') NP (',', ',') NP ('de', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Instituto', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Estudios', 'NNP') ('para', 'NN') ('el', 'NN') ('Desarrollo', 'NNP') ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Instituto"
+      },
+      {
+        "label": "PP",
+        "text": "de Estudios para el Desarrollo y"
+      },
+      {
+        "label": "NP",
+        "text": "Estudios para el Desarrollo y"
+      },
+      {
+        "label": "NP",
+        "text": "Paz"
+      },
+      {
+        "label": "NP",
+        "text": "Indepaz"
+      },
+      {
+        "label": "VP",
+        "text": "denunció este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "PP",
+        "text": "en un ataque armado ocurrido"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque armado ocurrido"
+      },
+      {
+        "label": "NP",
+        "text": "barrio Los Sauces"
+      },
+      {
+        "label": "NP",
+        "text": "Ocaña"
+      },
+      {
+        "label": "NP",
+        "text": "departamento"
+      },
+      {
+        "label": "NP",
+        "text": "Norte"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Instituto/NNP)\n  (PP de/IN (NP Estudios/NNP para/NN el/NN Desarrollo/NNP y/NNP))\n  la/FW\n  (NP Paz/NNP)\n  (/(\n  (NP Indepaz/NNP)\n  )/)\n  (VP denunció/VBP (NP este/NN lunes/NNS))\n  (VP la/VBP)\n  muerte/FW\n  de/FW\n  cinco/FW\n  (NP personas/NNS)\n  (PP en/IN (NP un/JJ ataque/NN armado/NN ocurrido/NN))\n  en/IN\n  el/FW\n  (NP barrio/NN Los/NNP Sauces/NNP)\n  ,/,\n  en/FW\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Ocaña/NNP)\n  ,/,\n  (NP departamento/NN)\n  de/FW\n  (NP Norte/NNP)\n  (PP de/IN (NP Santander/NNP))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  ,/,\n  (NP Indepaz/NNP)\n  (VP\n    resaltó/VBZ\n    (NP que/JJ este/NN hecho/NN marca/NN la/NN masacre/NN)\n    número/RB)\n  13/CD\n  (NP registrada/NN)\n  en/FW\n  (NP lo/NN que/NN)\n  va/FW\n  de/IN\n  2025/CD\n  ./.)",
+      "(S\n  (NP Indepaz/NNP)\n  (VP dio/VBZ (NP a/DT conocer/NN que/NN))\n  ,/,\n  (NP según/JJ la/NN Defensoría/NNP del/NN Pueblo/NNP)\n  ,/,\n  (NP “/NNP)\n  el/FW\n  (NP escenario/NN)\n  de/IN\n  riesgo/FW\n  se/FW\n  (NP configura/NN por/NN)\n  (NP las/JJ pretensiones/NNS)\n  de/IN\n  fortalecimiento/FW\n  y/FW\n  expansión/FW\n  (ADJP territorial/JJ)\n  de/FW\n  grupos/FW\n  (VP disidentes/VBZ)\n  de/IN\n  las/FW\n  (NP FARC/NNP desde/NN Catatumbo/NNP)\n  ,/,\n  (NP hacia/NN)\n  (NP los/JJ municipios/NNS)\n  (PP de/IN (NP Santander/NNP y/NNP))\n  (VP sur/VBD)\n  del/FW\n  (NP Cesar/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  la/FW\n  (NP Policía/NNP)\n  de/FW\n  (NP Norte/NNP)\n  de/FW\n  (NP Santander/NNP informó/NN)\n  en/FW\n  (NP un/JJ comunicado/NN que/NN los/NN sujetos/NN llegaron/NN)\n  en/FW\n  (NP\n    motocicleta/NN\n    al/NN\n    lugar/NN\n    y/NN\n    dispararon/NN\n    indiscriminadamente/NN)\n  (NP contra/JJ las/NNS personas/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Como/NNP resultado/NN)\n  de/FW\n  este/FW\n  acto/FW\n  (ADJP criminal/JJ)\n  ,/,\n  (VP tres/VBZ (NP personas/JJ fallecen/NN))\n  en/IN\n  el/FW\n  lugar/FW\n  de/FW\n  los/FW\n  (NP hechos/NN)\n  ,/,\n  (NP dos/JJ fallecen/NN)\n  (PP en/IN (NP el/JJ hospital/NN por/NN))\n  la/FW\n  gravedad/FW\n  de/FW\n  las/FW\n  heridas/FW\n  y/FW\n  (NP tres/NNS)\n  (VP quedaron/VBP (NP lesionadas/JJ y/NN son/NN))\n  (VP\n    atendidas/VBD\n    (NP\n      en/JJ\n      el/JJ\n      hospital/NN\n      Emiro/NNP\n      Quintero/NNP\n      Cañizares/NNP\n      ”/NNP))\n  ,/,\n  (NP subraya/NN el/NN texto/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "CIUDADES_CAPITALES",
+      "ACCIONES_LEGALES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          659,
+          666
+        ],
+        "start": 659,
+        "end": 666
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensoría del pueblo, “el escenario de riesgo",
+        "position": [
+          384,
+          430
+        ],
+        "start": 384,
+        "end": 430
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto de estudios",
+        "position": [
+          4,
+          25
+        ],
+        "start": 4,
+        "end": 25
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de norte",
+        "position": [
+          192,
+          213
+        ],
+        "start": 192,
+        "end": 213
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          64,
+          72
+        ],
+        "start": 64,
+        "end": 72
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          895,
+          903
+        ],
+        "start": 895,
+        "end": 903
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          47,
+          53
+        ],
+        "start": 47,
+        "end": 53
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          192,
+          207
+        ],
+        "start": 192,
+        "end": 207
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio los",
+        "position": [
+          147,
+          157
+        ],
+        "start": 147,
+        "end": 157
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital por",
+        "position": [
+          895,
+          907
+        ],
+        "start": 895,
+        "end": 907
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1406,
+          1413
+        ],
+        "start": 1406,
+        "end": 1413
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10.000",
+        "position": [
+          1700,
+          1713
+        ],
+        "start": 1700,
+        "end": 1713
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Indepaz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Instituto de Estudios para el Desarrollo y la Paz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Policía de Norte de Santander",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Los Sauces",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FARC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Catatumbo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santander",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "departamento de Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Emiro Quintero Cañizares",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Indepaz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cesar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Norte de Santander",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ocaña",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Los Sauces"
+      },
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Ocaña"
+      },
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "departamento de Norte"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Los Sauces"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Ocaña"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "DENUNCIAR",
+        "objeto": "departamento de Norte"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.008,
+    "neu": 0.967,
+    "neg": 0.024,
+    "label": "negative"
+  }
+}

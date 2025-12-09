@@ -1,0 +1,538 @@
+{
+  "url": "https://www.telesurtv.net/armenia-expresa-su-interes-por-convertirse-en-pais-observador-de-los-brics/",
+  "title": "Armenia expresa su interés por convertirse en país observador de los BRICS - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Armenia",
+    "Brics",
+    "observador",
+    "TV BRICS"
+  ],
+  "text": "El ministro armenio de Asuntos Exteriores, Ararat Mirzoyan, ha manifestado en una entrevista al portal indio “Wion” el deseo del país de convertirse en observador del grupo.\nEn respuesta a una pregunta sobre los BRICS, Mirzoyan señaló la participación de Armenia en los actos de esta asociación, así como en la Organización de Cooperación de Shanghái.\nSegún el funcionario, Armenia espera evaluar qué oportunidades de cooperación y desarrollo puede ofrecer este formato para la región.\nTambién señaló el interés de Armenia en ampliar la cooperación con India. Previamente, el lunes 10 de marzo, el ministro indio de Asuntos Exteriores, Subrahmanyam Jaishankar, mantuvo conversaciones con el ministro armenio de Asuntos Exteriores, Ararat Mirzoyan. Uno de los temas de las conversaciones de los funcionarios fue la posibilidad de establecer vuelos directos entre Ereván y Nueva Deli.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/armenia-expresa-su-interes-por-convertirse-en-pais-observador-de-los-brics/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1488,
+    "message_id": 88985,
+    "date": "2025-03-13T00:55:12+00:00",
+    "text": "teleSUR\nArmenia expresa su interés por convertirse en país observador de los BRICS\nhttps://www.telesurtv.net/armenia-expresa-su-interes-por-convertirse-en-pais-observador-de-los-brics/",
+    "photo_path": null,
+    "views": 1477,
+    "reactions": {
+      "🤔": 20,
+      "👏": 9,
+      "❤": 2
+    },
+    "total_reactions": 31
+  },
+  "preprocessing": {
+    "cleaned": "el ministro armenio de asuntos exteriores, ararat mirzoyan, ha manifestado en una entrevista al portal indio “wion” el deseo del país de convertirse en observador del grupo. en respuesta a una pregunta sobre los brics, mirzoyan señaló la participación de armenia en los actos de esta asociación, así como en la organización de cooperación de shanghái. según el funcionario, armenia espera evaluar qué oportunidades de cooperación y desarrollo puede ofrecer este formato para la región. también señaló el interés de armenia en ampliar la cooperación con india. previamente, el lunes 10 de marzo, el ministro indio de asuntos exteriores, subrahmanyam jaishankar, mantuvo conversaciones con el ministro armenio de asuntos exteriores, ararat mirzoyan. uno de los temas de las conversaciones de los funcionarios fue la posibilidad de establecer vuelos directos entre ereván y nueva deli.",
+    "tokens": [
+      "ministro",
+      "armenio",
+      "asuntos",
+      "exteriores",
+      ",",
+      "ararat",
+      "mirzoyan",
+      ",",
+      "manifestado",
+      "entrevista",
+      "portal",
+      "indio",
+      "“",
+      "wion",
+      "”",
+      "deseo",
+      "país",
+      "convertirse",
+      "observador",
+      "grupo",
+      ".",
+      "respuesta",
+      "pregunta",
+      "brics",
+      ",",
+      "mirzoyan",
+      "señaló",
+      "participación",
+      "armenia",
+      "actos",
+      "asociación",
+      ",",
+      "así",
+      "organización",
+      "cooperación",
+      "shanghái",
+      ".",
+      "según",
+      "funcionario",
+      ",",
+      "armenia",
+      "espera",
+      "evaluar",
+      "oportunidades",
+      "cooperación",
+      "desarrollo",
+      "puede",
+      "ofrecer",
+      "formato",
+      "región",
+      ".",
+      "señaló",
+      "interés",
+      "armenia",
+      "ampliar",
+      "cooperación",
+      "india",
+      ".",
+      "previamente",
+      ",",
+      "lunes",
+      "10",
+      "marzo",
+      ",",
+      "ministro",
+      "indio",
+      "asuntos",
+      "exteriores",
+      ",",
+      "subrahmanyam",
+      "jaishankar",
+      ",",
+      "mantuvo",
+      "conversaciones",
+      "ministro",
+      "armenio",
+      "asuntos",
+      "exteriores",
+      ",",
+      "ararat",
+      "mirzoyan",
+      ".",
+      "temas",
+      "conversaciones",
+      "funcionarios",
+      "posibilidad",
+      "establecer",
+      "vuelos",
+      "directos",
+      "ereván",
+      "nueva",
+      "deli",
+      "."
+    ],
+    "token_count": 93,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "FW": 36,
+      "NN": 37,
+      "IN": 8,
+      "JJ": 8,
+      "VBZ": 2,
+      "NNS": 4,
+      "CD": 1,
+      "VBP": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-FW": 5,
+      "FW-FW": 21,
+      "FW-NNP": 6,
+      "NNP-NN": 7,
+      "NN-NN": 18,
+      "NN-IN": 4,
+      "IN-JJ": 1,
+      "JJ-NN": 4,
+      "NN-JJ": 3,
+      "JJ-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-FW": 6,
+      "FW-NN": 6,
+      "NN-NNP": 5,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "IN-NNP": 3,
+      "FW-JJ": 1,
+      "VBZ-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 3,
+      "NN-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-JJ": 2,
+      "NNP-IN": 1,
+      "FW-NNS": 2,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 13,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NN-NN": 9,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNP": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-NN-IN": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 37,
+        "FW": 36,
+        "NNP": 33,
+        "IN": 8,
+        "JJ": 8
+      },
+      "top_bigrams": {
+        "FW-FW": 21,
+        "NN-NN": 18,
+        "NNP-NNP": 17,
+        "NNP-NN": 7,
+        "FW-NNP": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 13,
+        "NNP-NNP-NNP": 9,
+        "NN-NN-NN": 9,
+        "NNP-NN-NN": 5,
+        "FW-NN-FW": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 41,
+      "PP": 6,
+      "VP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0847
+      },
+      {
+        "rule": "NP -> ('Asuntos', 'NNP') ('Exteriores', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0508
+      },
+      {
+        "rule": "NP -> ('Ararat', 'NNP') ('Mirzoyan', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0339
+      },
+      {
+        "rule": "NP -> ('Armenia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0339
+      },
+      {
+        "rule": "S -> NP ('armenio', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP PP NP VP ('del', 'FW') NP ('de', 'FW') ('convertirse', 'FW') ('en', 'FW') ('observador', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('ministro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('ha', 'NN') ('manifestado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('entrevista', 'NN') ('al', 'NN')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('portal', 'JJ') ('indio', 'NN') ('“', 'NNP') ('Wion', 'NNP') ('”', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0169
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El ministro"
+      },
+      {
+        "label": "NP",
+        "text": "Asuntos Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Ararat Mirzoyan"
+      },
+      {
+        "label": "NP",
+        "text": "ha manifestado"
+      },
+      {
+        "label": "PP",
+        "text": "en una entrevista al"
+      },
+      {
+        "label": "NP",
+        "text": "una entrevista al"
+      },
+      {
+        "label": "NP",
+        "text": "portal indio “ Wion ”"
+      },
+      {
+        "label": "VP",
+        "text": "el deseo"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "grupo"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "VP",
+        "text": "respuesta a una pregunta sobre los BRICS"
+      },
+      {
+        "label": "NP",
+        "text": "a una pregunta sobre los BRICS"
+      },
+      {
+        "label": "NP",
+        "text": "Mirzoyan"
+      },
+      {
+        "label": "VP",
+        "text": "señaló la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP ministro/NNP)\n  armenio/FW\n  de/FW\n  (NP Asuntos/NNP Exteriores/NNP)\n  ,/,\n  (NP Ararat/NNP Mirzoyan/NNP)\n  ,/,\n  (NP ha/NN manifestado/NN)\n  (PP en/IN (NP una/JJ entrevista/NN al/NN))\n  (NP portal/JJ indio/NN “/NNP Wion/NNP ”/NNP)\n  (VP el/VBZ deseo/JJ)\n  del/FW\n  (NP país/NN)\n  de/FW\n  convertirse/FW\n  en/FW\n  observador/FW\n  del/FW\n  (NP grupo/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP\n    respuesta/VBZ\n    (NP a/DT una/JJ pregunta/NN sobre/NN los/NN BRICS/NNP))\n  ,/,\n  (NP Mirzoyan/NNP)\n  (VP señaló/VBD la/JJ)\n  participación/FW\n  de/FW\n  (NP Armenia/NNP)\n  en/FW\n  los/FW\n  actos/FW\n  de/FW\n  esta/FW\n  (NP asociación/NN)\n  ,/,\n  (NP así/JJ como/NN)\n  en/IN\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  (NP Cooperación/NNP)\n  de/FW\n  (NP Shanghái/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP el/NN funcionario/NN)\n  ,/,\n  (NP Armenia/NNP espera/NN evaluar/NN)\n  (NP qué/JJ oportunidades/NNS)\n  (PP\n    de/IN\n    (NP\n      cooperación/NN\n      y/NN\n      desarrollo/NN\n      puede/NN\n      ofrecer/NN\n      este/NN\n      formato/NN\n      para/NN\n      la/NN\n      región/NN))\n  ./.)",
+      "(S\n  (NP También/NNP señaló/NN el/NN interés/NN)\n  (PP de/IN (NP Armenia/NNP))\n  en/FW\n  (NP ampliar/NN)\n  la/FW\n  (NP cooperación/JJ con/NN India/NNP)\n  ./.)",
+      "(S\n  (NP Previamente/NNP)\n  ,/,\n  (VP el/VBP (NP lunes/NNS))\n  10/CD\n  (PP de/IN (NP marzo/NN))\n  ,/,\n  el/FW\n  ministro/FW\n  (NP indio/NN)\n  (PP de/IN (NP Asuntos/NNP Exteriores/NNP))\n  ,/,\n  (NP Subrahmanyam/NNP Jaishankar/NNP)\n  ,/,\n  (NP mantuvo/NN conversaciones/NNS)\n  (VP con/VBP (NP el/JJ ministro/NN armenio/NN))\n  (PP de/IN (NP Asuntos/NNP Exteriores/NNP))\n  ,/,\n  (NP Ararat/NNP Mirzoyan/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación con india. previamente, el lunes 10 de marzo, el ministro indio de asuntos exteriores, subrahmanyam jaishankar, mantuvo conversaciones con el ministro armenio de asuntos exteriores, ararat mirzoyan. uno de los temas de las conversaciones de los funcionarios fue la posibilidad de establecer vuelos directos entre ereván y nueva",
+        "position": [
+          537,
+          876
+        ],
+        "start": 537,
+        "end": 876
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          228,
+          234
+        ],
+        "start": 228,
+        "end": 234
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 10 de marzo",
+        "position": [
+          576,
+          593
+        ],
+        "start": 576,
+        "end": 593
+      }
+    ],
+    "match_count": 3
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Subrahmanyam Jaishankar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organización de Cooperación de Shanghái",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ararat Mirzoyan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mirzoyan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nueva Deli",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wion",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asuntos Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ereván",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Armenia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Asuntos Exteriores",
+        "relacion": "MANIFESTAR",
+        "objeto": "Wion"
+      },
+      {
+        "sujeto": "Ararat Mirzoyan",
+        "relacion": "MANIFESTAR",
+        "objeto": "Wion"
+      },
+      {
+        "sujeto": "Mirzoyan",
+        "relacion": "SE_ALAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "SE_ALAR",
+        "objeto": "Armenia"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "SE_ALAR",
+        "objeto": "Organización de Cooperación de Shanghái"
+      },
+      {
+        "sujeto": "Mirzoyan",
+        "relacion": "SE_ALAR",
+        "objeto": "Armenia"
+      },
+      {
+        "sujeto": "Mirzoyan",
+        "relacion": "SE_ALAR",
+        "objeto": "Organización de Cooperación de Shanghái"
+      },
+      {
+        "sujeto": "Asuntos Exteriores",
+        "relacion": "MANTENER",
+        "objeto": "Ararat Mirzoyan"
+      },
+      {
+        "sujeto": "Subrahmanyam Jaishankar",
+        "relacion": "MANTENER",
+        "objeto": "Asuntos Exteriores"
+      },
+      {
+        "sujeto": "Subrahmanyam Jaishankar",
+        "relacion": "MANTENER",
+        "objeto": "Ararat Mirzoyan"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.018,
+    "neu": 0.982,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

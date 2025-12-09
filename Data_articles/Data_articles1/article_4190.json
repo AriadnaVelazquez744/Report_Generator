@@ -1,0 +1,574 @@
+{
+  "url": "https://www.telesurtv.net/reprimen-movilizacion-de-jubilados-e-hinchas/",
+  "title": "Reprimen masiva movilización de jubilados e hinchas de fútbol de Argentina - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "Fútbol",
+    "hinchadas",
+    "Jubilados",
+    "represión"
+  ],
+  "text": "\nLa gendarmería avanzó sobre los manifestantes y una mujer adulta mayor resultó herida en la cabeza mientras otras personas intentan asistirla informa la prensa local argentina.  Según confirman fuentes periodísticas se trata de Beatriz Blanco, de 87 años, que fue traslada al Hospital Argerich por una herida.\nTambién se reporta la presencia de infiltrados en la manifestación que se desarrollaba pacíficamente. Según informes periodísticos, los manifestantes denunciaron que un grupo de personas con las caras cubiertas intentaron meterse en la protesta con piedras.\n“Se tienen que ir, están de la cabeza esta gente” señaló a la televisión uno de los manifestantes en medio de un inmenso despliegue policial que incluye decenas de efectivos de Seguridad en las inmediaciones del Parlamento.\nLos jubilados, junto a hinchas de diversos equipos de fútbol, se manifiestan este miércoles por la tarde en las afueras del Congreso de la Nación para reclamar una recomposición en sus ingresos y la mejora de sus condiciones de vida.\n\n\nCon la adhesión masiva del mundo del fútbol a la demanda de los jubilados, una icónica frase de Diego Armando Maradona cobró nuevamente vigencia esta semana. “Hay que ser muy cagón para no defender a los jubilados. A muerte estoy con los jubilados. Lo que les hacen es una vergüenza”, fue la frase del ídolo del fútbol argentino que es el lema de la convocatoria.\n\nNoticia en desarrollo…",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/reprimen-movilizacion-de-jubilados-e-hinchas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1482,
+    "message_id": 89000,
+    "date": "2025-03-13T01:32:27+00:00",
+    "text": "🌐 Noticias de la web que debes conocer\n\n▪ Reprimen masiva movilización de jubilados e hinchas de futbol de Argentina\nhttps://www.telesurtv.net/reprimen-movilizacion-de-jubilados-e-hinchas/\n\n▪ Conaie y grupos afines anuncian apoyo a candidata Luisa González en Ecuador\nhttps://www.telesurtv.net/conaie-y-grupos-afines-anuncian-apoyo-a-candidata-luisa-gonzalez-en-ecuador/\n\n▪ Trump amenaza con imponer aranceles a las importaciones de vehículos europeos\nhttps://www.telesurtv.net/trump-amenaza-con-imponer-aranceles-a-las-importaciones-de-vehiculos-europeos/\n\nSíguenos en 📲",
+    "photo_path": null,
+    "views": 1822,
+    "reactions": {
+      "🔥": 24,
+      "🤔": 6,
+      "👍": 4,
+      "🤮": 2
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "la gendarmería avanzó sobre los manifestantes y una mujer adulta mayor resultó herida en la cabeza mientras otras personas intentan asistirla informa la prensa local argentina. según confirman fuentes periodísticas se trata de beatriz blanco, de 87 años, que fue traslada al hospital argerich por una herida. también se reporta la presencia de infiltrados en la manifestación que se desarrollaba pacíficamente. según informes periodísticos, los manifestantes denunciaron que un grupo de personas con las caras cubiertas intentaron meterse en la protesta con piedras. “se tienen que ir, están de la cabeza esta gente” señaló a la televisión uno de los manifestantes en medio de un inmenso despliegue policial que incluye decenas de efectivos de seguridad en las inmediaciones del parlamento. los jubilados, junto a hinchas de diversos equipos de fútbol, se manifiestan este miércoles por la tarde en las afueras del congreso de la nación para reclamar una recomposición en sus ingresos y la mejora de sus condiciones de vida. con la adhesión masiva del mundo del fútbol a la demanda de los jubilados, una icónica frase de diego armando maradona cobró nuevamente vigencia esta semana. “hay que ser muy cagón para no defender a los jubilados. a muerte estoy con los jubilados. lo que les hacen es una vergüenza”, fue la frase del ídolo del fútbol argentino que es el lema de la convocatoria. noticia en desarrollo…",
+    "tokens": [
+      "gendarmería",
+      "avanzó",
+      "manifestantes",
+      "mujer",
+      "adulta",
+      "mayor",
+      "resultó",
+      "herida",
+      "cabeza",
+      "mientras",
+      "personas",
+      "intentan",
+      "asistirla",
+      "informa",
+      "prensa",
+      "local",
+      "argentina",
+      ".",
+      "según",
+      "confirman",
+      "fuentes",
+      "periodísticas",
+      "trata",
+      "beatriz",
+      "blanco",
+      ",",
+      "87",
+      "años",
+      ",",
+      "traslada",
+      "hospital",
+      "argerich",
+      "herida",
+      ".",
+      "reporta",
+      "presencia",
+      "infiltrados",
+      "manifestación",
+      "desarrollaba",
+      "pacíficamente",
+      ".",
+      "según",
+      "informes",
+      "periodísticos",
+      ",",
+      "manifestantes",
+      "denunciaron",
+      "grupo",
+      "personas",
+      "caras",
+      "cubiertas",
+      "intentaron",
+      "meterse",
+      "protesta",
+      "piedras",
+      ".",
+      "“",
+      "ir",
+      ",",
+      "cabeza",
+      "gente",
+      "”",
+      "señaló",
+      "televisión",
+      "manifestantes",
+      "medio",
+      "inmenso",
+      "despliegue",
+      "policial",
+      "incluye",
+      "decenas",
+      "efectivos",
+      "seguridad",
+      "inmediaciones",
+      "parlamento",
+      ".",
+      "jubilados",
+      ",",
+      "junto",
+      "hinchas",
+      "diversos",
+      "equipos",
+      "fútbol",
+      ",",
+      "manifiestan",
+      "miércoles",
+      "tarde",
+      "afueras",
+      "congreso",
+      "nación",
+      "reclamar",
+      "recomposición",
+      "ingresos",
+      "mejora",
+      "condiciones",
+      "vida",
+      ".",
+      "adhesión",
+      "masiva",
+      "mundo",
+      "fútbol",
+      "demanda",
+      "jubilados",
+      ",",
+      "icónica",
+      "frase",
+      "diego",
+      "armando",
+      "maradona",
+      "cobró",
+      "nuevamente",
+      "vigencia",
+      "semana",
+      ".",
+      "“",
+      "ser",
+      "cagón",
+      "defender",
+      "jubilados",
+      ".",
+      "muerte",
+      "jubilados",
+      ".",
+      "hacen",
+      "vergüenza",
+      "”",
+      ",",
+      "frase",
+      "ídolo",
+      "fútbol",
+      "argentino",
+      "lema",
+      "convocatoria",
+      ".",
+      "noticia",
+      "desarrollo…"
+    ],
+    "token_count": 136,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "NN": 73,
+      "VBZ": 6,
+      "JJ": 21,
+      "IN": 11,
+      "FW": 69,
+      "CD": 1,
+      "NNS": 11,
+      "VBP": 6,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-NN": 37,
+      "NN-VBZ": 5,
+      "VBZ-JJ": 5,
+      "JJ-NN": 16,
+      "NN-JJ": 7,
+      "NN-IN": 8,
+      "IN-FW": 4,
+      "FW-FW": 50,
+      "FW-NN": 7,
+      "NN-FW": 7,
+      "FW-JJ": 1,
+      "NN-NNP": 5,
+      "JJ-JJ": 2,
+      "IN-NNP": 3,
+      "NNP-NNP": 5,
+      "NNP-IN": 1,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "NNP-VBZ": 1,
+      "FW-NNP": 6,
+      "NNP-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "JJ-NNS": 2,
+      "NN-NNS": 3,
+      "VBP-NNS": 1,
+      "VBP-NN": 1,
+      "NNS-NNP": 2,
+      "JJ-FW": 1,
+      "FW-NNS": 4,
+      "NNS-IN": 2,
+      "IN-NN": 2,
+      "FW-VBP": 1,
+      "NNP-FW": 5,
+      "NNS-FW": 2,
+      "IN-JJ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 21,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 4,
+      "VBZ-JJ-NN": 4,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 4,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 38,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 5,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NNP-NN-VBZ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 6,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "NN-FW-FW": 6,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-JJ": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 4,
+      "FW-NNS-IN": 2,
+      "NNS-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NN-FW": 1,
+      "NNP-NNP-NNP": 1,
+      "NN-NN-NNP": 3,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 73,
+        "FW": 69,
+        "NNP": 22,
+        "JJ": 21,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "FW-FW": 50,
+        "NN-NN": 37,
+        "JJ-NN": 16,
+        "NNP-NN": 9,
+        "NN-IN": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 38,
+        "NN-NN-NN": 21,
+        "NNP-NN-NN": 7,
+        "NN-JJ-NN": 6,
+        "JJ-NN-IN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 14,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0323
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0323
+      },
+      {
+        "rule": "NP -> ('fútbol', 'NN')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "S -> NP VP ('en', 'IN') ('la', 'FW') ('cabeza', 'FW') ('mientras', 'FW') ('otras', 'FW') ('personas', 'FW') NP ('prensa', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('gendarmería', 'NN') ('avanzó', 'NN') ('sobre', 'NN') ('los', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('manifestantes', 'VBZ') ('y', 'RB') NP NP",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('mujer', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('adulta', 'JJ') ('mayor', 'NN') ('resultó', 'NN') ('herida', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('intentan', 'NN') ('asistirla', 'NN') ('informa', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('local', 'JJ') ('argentina', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La gendarmería avanzó sobre los"
+      },
+      {
+        "label": "VP",
+        "text": "manifestantes y una mujer adulta mayor resultó herida"
+      },
+      {
+        "label": "NP",
+        "text": "una mujer"
+      },
+      {
+        "label": "NP",
+        "text": "adulta mayor resultó herida"
+      },
+      {
+        "label": "NP",
+        "text": "intentan asistirla informa la"
+      },
+      {
+        "label": "NP",
+        "text": "local argentina"
+      },
+      {
+        "label": "NP",
+        "text": "Según confirman"
+      },
+      {
+        "label": "VP",
+        "text": "fuentes periodísticas se trata"
+      },
+      {
+        "label": "NP",
+        "text": "periodísticas se trata"
+      },
+      {
+        "label": "PP",
+        "text": "de Beatriz Blanco"
+      },
+      {
+        "label": "NP",
+        "text": "Beatriz Blanco"
+      },
+      {
+        "label": "NP",
+        "text": "años"
+      },
+      {
+        "label": "NP",
+        "text": "que fue traslada"
+      },
+      {
+        "label": "PP",
+        "text": "al Hospital Argerich"
+      },
+      {
+        "label": "NP",
+        "text": "Hospital Argerich"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP gendarmería/NN avanzó/NN sobre/NN los/NN)\n  (VP\n    manifestantes/VBZ\n    y/RB\n    (NP una/JJ mujer/NN)\n    (NP adulta/JJ mayor/NN resultó/NN herida/NN))\n  en/IN\n  la/FW\n  cabeza/FW\n  mientras/FW\n  otras/FW\n  personas/FW\n  (NP intentan/NN asistirla/NN informa/NN la/NN)\n  prensa/FW\n  (NP local/JJ argentina/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP confirman/NN)\n  (VP fuentes/VBZ (NP periodísticas/JJ se/JJ trata/NN))\n  (PP de/IN (NP Beatriz/NNP Blanco/NNP))\n  ,/,\n  de/FW\n  87/CD\n  (NP años/NN)\n  ,/,\n  (NP que/JJ fue/NN traslada/NN)\n  (PP al/IN (NP Hospital/NNP Argerich/NNP))\n  (VP por/VBZ (NP una/JJ herida/NN))\n  ./.)",
+      "(S\n  (NP También/NNP)\n  (VP se/VBD reporta/JJ)\n  la/FW\n  presencia/FW\n  de/FW\n  infiltrados/FW\n  en/FW\n  la/FW\n  manifestación/FW\n  que/FW\n  se/FW\n  (NP desarrollaba/NN pacíficamente/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP informes/VBZ periodísticos/RB)\n  ,/,\n  (NP los/JJ manifestantes/NNS)\n  (VP denunciaron/VBP (NP que/JJ un/JJ grupo/NN))\n  de/IN\n  personas/FW\n  (NP con/NN las/NNS)\n  (VP caras/VBP (NP cubiertas/NNS))\n  (VP\n    intentaron/VBP\n    (NP meterse/NN en/NN la/NN)\n    (NP protesta/JJ con/NN piedras/NNS))\n  ./.)",
+      "(S\n  (NP “/JJ Se/NNP tienen/NN que/NN ir/NN)\n  ,/,\n  están/FW\n  de/FW\n  la/FW\n  cabeza/FW\n  esta/FW\n  gente/FW\n  ”/FW\n  señaló/FW\n  (NP a/DT la/NN)\n  (NP televisión/JJ uno/NN)\n  de/IN\n  los/FW\n  (NP manifestantes/NNS)\n  (PP en/IN (NP medio/NN))\n  de/FW\n  un/FW\n  inmenso/FW\n  (VP\n    despliegue/VBP\n    (NP policial/JJ que/NN)\n    (NP incluye/JJ decenas/NN))\n  de/IN\n  efectivos/FW\n  de/FW\n  (NP Seguridad/NNP)\n  en/FW\n  las/FW\n  (NP inmediaciones/NNS)\n  del/FW\n  (NP Parlamento/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "ACCIONES_LEGALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          619,
+          625
+        ],
+        "start": 619,
+        "end": 625
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunciaron",
+        "position": [
+          461,
+          472
+        ],
+        "start": 461,
+        "end": 472
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          277,
+          285
+        ],
+        "start": 277,
+        "end": 285
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          167,
+          176
+        ],
+        "start": 167,
+        "end": 176
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital argerich",
+        "position": [
+          277,
+          294
+        ],
+        "start": 277,
+        "end": 294
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          1174,
+          1185
+        ],
+        "start": 1174,
+        "end": 1185
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Beatriz Blanco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Diego Armando Maradona",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Argerich",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso de la Nación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.2023,
+    "pos": 0.006,
+    "neu": 0.984,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

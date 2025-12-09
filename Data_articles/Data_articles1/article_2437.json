@@ -1,0 +1,830 @@
+{
+  "url": "https://www.telesurtv.net/ocupantes-israelies-violan-acuerdo-de-alto-al-fuego-en-gaza/",
+  "title": "Ocupantes israelíes violan acuerdo de alto al fuego en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Acuerdo",
+    "Alto al Fuego",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "Desde la firma del acuerdo de alto al fuego entre el Movimiento de Resistencia Palestina Hamás y el régimen sionista de Israel, Tel Aviv ha violado reiteradamente los acuerdos de la tregua humanitaria.\nLEA TAMBIÉN\nIsrael asalta Yenín, en Cisjordania, en medio del alto en fuego en Gaza\nCon relación a los rehenes, estaba previsto que ambas partes liberaran a los detenidos este lunes a las 16H00 hora local, en cambio Israel incumplió con el horario establecido y los liberó en horas de la madrugada.\nLa situación de la ayuda humanitaria también refleja los incumplimientos por parte de Tel Aviv. Aunque el acuerdo estipula que diariamente deben entrar a la Franja de Gaza entre 500 y 600 camiones con suministros, este martes apenas ingresaron 100, cifra insuficiente para atender las necesidades críticas de la población gazatí.\nAunque el lunes lograron entrar 630 camiones, el suministro sigue siendo irregular y muy por debajo de lo necesario para las condiciones extremas que enfrenta la población.\nAdemás, el régimen israelí abrió fuego contra gazatíes que se acercaron a los territorios fronterizos, pese a que estos permanecían en zonas declaradas seguras en el acuerdo.\nEn esta jornada, al menos 10 personas resultaron heridas, los lesionados se suman a los más de 20 reportados el lunes tras la entrada en vigor del alto al fuego.\nEste lunes también comenzó el proceso para recuperar los cuerpos de las víctimas que se encuentran bajo los escombros en zonas previamente bloqueadas por los ocupantes sionistas.\nHasta el momento, han sido rescatados aproximadamente 58 cadáveres en estado de descomposición, muchos de ellos reducidos a esqueletos.\nMientras tanto, la crisis sanitaria continúa, solo cinco hospitales permanecen operativos en medio de una generalizada escasez de medicamentos, combustible y personal médico, consecuencia del asedio militar de la ocupación y el bloqueo de suministros esenciales.\nA esto se suman las condiciones precarias de miles de personas desplazadas que permanecen en campamentos improvisados, sin acceso adecuado a servicios básicos como electricidad y telecomunicaciones.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ocupantes-israelies-violan-acuerdo-de-alto-al-fuego-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 704,
+    "message_id": 85112,
+    "date": "2025-01-22T12:55:13+00:00",
+    "text": "teleSUR\nOcupantes israelíes violan acuerdo de alto al fuego en Gaza\nhttps://www.telesurtv.net/ocupantes-israelies-violan-acuerdo-de-alto-al-fuego-en-gaza/",
+    "photo_path": null,
+    "views": 2643,
+    "reactions": {
+      "🤬": 57,
+      "👍": 4
+    },
+    "total_reactions": 61
+  },
+  "preprocessing": {
+    "cleaned": "desde la firma del acuerdo de alto al fuego entre el movimiento de resistencia palestina hamás y el régimen sionista de israel, tel aviv ha violado reiteradamente los acuerdos de la tregua humanitaria. con relación a los rehenes, estaba previsto que ambas partes liberaran a los detenidos este lunes a las 16h00 hora local, en cambio israel incumplió con el horario establecido y los liberó en horas de la madrugada. la situación de la ayuda humanitaria también refleja los incumplimientos por parte de tel aviv. aunque el acuerdo estipula que diariamente deben entrar a la franja de gaza entre 500 y 600 camiones con suministros, este martes apenas ingresaron 100, cifra insuficiente para atender las necesidades críticas de la población gazatí. aunque el lunes lograron entrar 630 camiones, el suministro sigue siendo irregular y muy por debajo de lo necesario para las condiciones extremas que enfrenta la población. además, el régimen israelí abrió fuego contra gazatíes que se acercaron a los territorios fronterizos, pese a que estos permanecían en zonas declaradas seguras en el acuerdo. en esta jornada, al menos 10 personas resultaron heridas, los lesionados se suman a los más de 20 reportados el lunes tras la entrada en vigor del alto al fuego. este lunes también comenzó el proceso para recuperar los cuerpos de las víctimas que se encuentran bajo los escombros en zonas previamente bloqueadas por los ocupantes sionistas. hasta el momento, han sido rescatados aproximadamente 58 cadáveres en estado de descomposición, muchos de ellos reducidos a esqueletos. mientras tanto, la crisis sanitaria continúa, solo cinco hospitales permanecen operativos en medio de una generalizada escasez de medicamentos, combustible y personal médico, consecuencia del asedio militar de la ocupación y el bloqueo de suministros esenciales. a esto se suman las condiciones precarias de miles de personas desplazadas que permanecen en campamentos improvisados, sin acceso adecuado a servicios básicos como electricidad y telecomunicaciones.",
+    "tokens": [
+      "firma",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "movimiento",
+      "resistencia",
+      "palestina",
+      "hamás",
+      "régimen",
+      "sionista",
+      "israel",
+      ",",
+      "tel",
+      "aviv",
+      "violado",
+      "reiteradamente",
+      "acuerdos",
+      "tregua",
+      "humanitaria",
+      ".",
+      "relación",
+      "rehenes",
+      ",",
+      "previsto",
+      "ambas",
+      "partes",
+      "liberaran",
+      "detenidos",
+      "lunes",
+      "16h00",
+      "hora",
+      "local",
+      ",",
+      "cambio",
+      "israel",
+      "incumplió",
+      "horario",
+      "establecido",
+      "liberó",
+      "horas",
+      "madrugada",
+      ".",
+      "situación",
+      "ayuda",
+      "humanitaria",
+      "refleja",
+      "incumplimientos",
+      "parte",
+      "tel",
+      "aviv",
+      ".",
+      "aunque",
+      "acuerdo",
+      "estipula",
+      "diariamente",
+      "deben",
+      "entrar",
+      "franja",
+      "gaza",
+      "500",
+      "600",
+      "camiones",
+      "suministros",
+      ",",
+      "martes",
+      "apenas",
+      "ingresaron",
+      "100",
+      ",",
+      "cifra",
+      "insuficiente",
+      "atender",
+      "necesidades",
+      "críticas",
+      "población",
+      "gazatí",
+      ".",
+      "aunque",
+      "lunes",
+      "lograron",
+      "entrar",
+      "630",
+      "camiones",
+      ",",
+      "suministro",
+      "sigue",
+      "siendo",
+      "irregular",
+      "debajo",
+      "necesario",
+      "condiciones",
+      "extremas",
+      "enfrenta",
+      "población",
+      ".",
+      "además",
+      ",",
+      "régimen",
+      "israelí",
+      "abrió",
+      "fuego",
+      "gazatíes",
+      "acercaron",
+      "territorios",
+      "fronterizos",
+      ",",
+      "pese",
+      "permanecían",
+      "zonas",
+      "declaradas",
+      "seguras",
+      "acuerdo",
+      ".",
+      "jornada",
+      ",",
+      "menos",
+      "10",
+      "personas",
+      "resultaron",
+      "heridas",
+      ",",
+      "lesionados",
+      "suman",
+      "20",
+      "reportados",
+      "lunes",
+      "tras",
+      "entrada",
+      "vigor",
+      "alto",
+      "fuego",
+      ".",
+      "lunes",
+      "comenzó",
+      "proceso",
+      "recuperar",
+      "cuerpos",
+      "víctimas",
+      "encuentran",
+      "bajo",
+      "escombros",
+      "zonas",
+      "previamente",
+      "bloqueadas",
+      "ocupantes",
+      "sionistas",
+      ".",
+      "momento",
+      ",",
+      "sido",
+      "rescatados",
+      "aproximadamente",
+      "58",
+      "cadáveres",
+      "descomposición",
+      ",",
+      "reducidos",
+      "esqueletos",
+      ".",
+      "mientras",
+      ",",
+      "crisis",
+      "sanitaria",
+      "continúa",
+      ",",
+      "solo",
+      "cinco",
+      "hospitales",
+      "permanecen",
+      "operativos",
+      "medio",
+      "generalizada",
+      "escasez",
+      "medicamentos",
+      ",",
+      "combustible",
+      "personal",
+      "médico",
+      ",",
+      "consecuencia",
+      "asedio",
+      "militar",
+      "ocupación",
+      "bloqueo",
+      "suministros",
+      "esenciales",
+      ".",
+      "suman",
+      "condiciones",
+      "precarias",
+      "miles",
+      "personas",
+      "desplazadas",
+      "permanecen",
+      "campamentos",
+      "improvisados",
+      ",",
+      "acceso",
+      "adecuado",
+      "servicios",
+      "básicos",
+      "electricidad",
+      "telecomunicaciones",
+      "."
+    ],
+    "token_count": 204,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 96,
+      "FW": 73,
+      "IN": 12,
+      "JJ": 30,
+      "VBZ": 6,
+      "NNS": 30,
+      "VBP": 19,
+      "VBD": 5,
+      "CD": 8,
+      "RB": 3,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 6,
+      "NN-NN": 57,
+      "NN-FW": 6,
+      "FW-NN": 7,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "FW-JJ": 2,
+      "JJ-NN": 17,
+      "FW-NNP": 10,
+      "NNP-FW": 6,
+      "NNP-NNP": 9,
+      "NNP-VBZ": 5,
+      "VBZ-NNS": 2,
+      "NNS-FW": 2,
+      "FW-FW": 47,
+      "FW-NNS": 7,
+      "NNS-NNP": 1,
+      "NN-NNP": 4,
+      "VBZ-NNP": 1,
+      "IN-NN": 4,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 5,
+      "NNS-VBP": 17,
+      "VBP-JJ": 12,
+      "NN-VBZ": 1,
+      "NN-JJ": 7,
+      "NN-NNS": 10,
+      "NNS-VBD": 1,
+      "VBD-CD": 3,
+      "CD-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-FW": 6,
+      "IN-NNP": 1,
+      "NNP-VBD": 1,
+      "CD-CD": 1,
+      "CD-NNS": 4,
+      "NNS-JJ": 3,
+      "VBP-NNS": 1,
+      "VBP-RB": 2,
+      "RB-CD": 2,
+      "CD-NN": 2,
+      "NNS-IN": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-IN": 1,
+      "NN-VBD": 3,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "VBD-NNP": 1,
+      "NNP-IN": 2,
+      "IN-CD": 1,
+      "NNS-NNS": 1,
+      "NNS-NN": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 10,
+      "NN-FW-NNP": 4,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NNS": 2,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "NNP-NNP-NN": 2,
+      "NN-NN-NN": 33,
+      "NN-FW-FW": 1,
+      "FW-FW-FW": 36,
+      "FW-FW-NNS": 4,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-JJ": 11,
+      "VBP-JJ-NN": 8,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-JJ": 5,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "NNP-FW-FW": 1,
+      "FW-NNS-VBP": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-NNS": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-RB": 2,
+      "VBP-RB-CD": 2,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NNS": 7,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-IN": 1,
+      "IN-FW-FW": 3,
+      "NNP-FW-NNS": 2,
+      "RB-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "IN-FW-NN": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NN-VBD": 3,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-FW": 3,
+      "FW-FW-NN": 2,
+      "VBZ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "JJ-NN-IN": 2,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NNS-JJ-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNS-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "NN-JJ-NNS": 1,
+      "NNS-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 73,
+        "JJ": 30,
+        "NNS": 30,
+        "NNP": 29
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 47,
+        "JJ-NN": 17,
+        "NNS-VBP": 17,
+        "VBP-JJ": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 36,
+        "NN-NN-NN": 33,
+        "NNS-VBP-JJ": 11,
+        "JJ-NN-NN": 10,
+        "VBP-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 75,
+      "VP": 26,
+      "ADJP": 6,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Aunque', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP ('del', 'FW') NP ('de', 'IN') ('alto', 'FW') NP ('el', 'FW') NP ('de', 'FW') NP VP ('sionista', 'FW') ('de', 'FW') NP (',', ',') NP ('los', 'FW') ('acuerdos', 'FW') ('de', 'FW') ('la', 'FW') ('tregua', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Desde', 'NNP') ('la', 'NN') ('firma', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('acuerdo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('fuego', 'NN') ('entre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Movimiento', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Resistencia', 'NNP') ('Palestina', 'NNP') ('Hamás', 'NNP') ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('régimen', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Desde la firma"
+      },
+      {
+        "label": "NP",
+        "text": "acuerdo"
+      },
+      {
+        "label": "NP",
+        "text": "al fuego entre"
+      },
+      {
+        "label": "NP",
+        "text": "Movimiento"
+      },
+      {
+        "label": "NP",
+        "text": "Resistencia Palestina Hamás y"
+      },
+      {
+        "label": "VP",
+        "text": "el régimen"
+      },
+      {
+        "label": "NP",
+        "text": "régimen"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv ha violado reiteradamente"
+      },
+      {
+        "label": "NP",
+        "text": "humanitaria"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Israel asalta Yenín"
+      },
+      {
+        "label": "NP",
+        "text": "Cisjordania"
+      },
+      {
+        "label": "NP",
+        "text": "alto"
+      },
+      {
+        "label": "NP",
+        "text": "fuego"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza Con"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Desde/NNP la/NN firma/NN)\n  del/FW\n  (NP acuerdo/NN)\n  de/IN\n  alto/FW\n  (NP al/JJ fuego/NN entre/NN)\n  el/FW\n  (NP Movimiento/NNP)\n  de/FW\n  (NP Resistencia/NNP Palestina/NNP Hamás/NNP y/NNP)\n  (VP el/VBZ (NP régimen/NNS))\n  sionista/FW\n  de/FW\n  (NP Israel/NNP)\n  ,/,\n  (NP Tel/NNP Aviv/NNP ha/NN violado/NN reiteradamente/NN)\n  los/FW\n  acuerdos/FW\n  de/FW\n  la/FW\n  tregua/FW\n  (NP humanitaria/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Israel/NNP asalta/NN Yenín/NNP)\n  ,/,\n  en/FW\n  (NP Cisjordania/NNP)\n  ,/,\n  en/FW\n  medio/FW\n  del/FW\n  (NP alto/NN)\n  en/FW\n  (NP fuego/NN)\n  en/FW\n  (NP Gaza/NNP Con/NNP)\n  (VP relación/VBZ (NP a/DT los/JJ rehenes/NNS))\n  ,/,\n  (VP estaba/VBP (NP previsto/JJ que/NN ambas/NN))\n  (VP partes/VBZ)\n  (VP liberaran/VBD (NP a/DT los/JJ detenidos/JJ este/NN))\n  (VP lunes/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  16H00/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  ,/,\n  en/FW\n  (NP\n    cambio/NN\n    Israel/NNP\n    incumplió/NN\n    con/NN\n    el/NN\n    horario/NN\n    establecido/NN\n    y/NN\n    los/NN)\n  (ADJP liberó/JJ)\n  en/FW\n  horas/FW\n  de/FW\n  la/FW\n  madrugada/FW\n  ./.)",
+      "(S\n  (NP La/NNP)\n  situación/FW\n  de/FW\n  la/FW\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (VP\n    también/VBP\n    (NP refleja/JJ los/NN incumplimientos/NN por/NN parte/NN))\n  (PP de/IN (NP Tel/NNP Aviv/NNP))\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  el/CC\n  (NP acuerdo/JJ estipula/NN que/NN diariamente/NN deben/NN)\n  (VP entrar/VBZ (NP a/DT la/NN Franja/NNP))\n  (PP de/IN (NP Gaza/NNP))\n  (VP entre/VBD)\n  500/CD\n  (NP y/NN)\n  600/CD\n  (NP camiones/NNS con/NN suministros/NN)\n  ,/,\n  (NP este/NN martes/NNS)\n  (VP apenas/VBP (NP ingresaron/NN))\n  100/CD\n  ,/,\n  (NP cifra/NN insuficiente/NN para/NN atender/NN las/NNS)\n  (PP necesidades/IN (NP críticas/NN))\n  de/IN\n  la/FW\n  población/FW\n  (NP gazatí/NN)\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  el/CC\n  (NP lunes/NNS)\n  (VP lograron/VBP entrar/RB)\n  630/CD\n  (NP camiones/NNS)\n  ,/,\n  el/FW\n  suministro/FW\n  sigue/FW\n  siendo/FW\n  (NP irregular/JJ y/NN muy/NN por/NN debajo/NN)\n  de/IN\n  lo/FW\n  (NP necesario/NN para/NN las/NN condiciones/NNS)\n  (VP extremas/VBP (NP que/JJ enfrenta/NN la/NN población/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "LEYES_NORMATIVAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "asedio militar",
+        "position": [
+          1848,
+          1862
+        ],
+        "start": 1848,
+        "end": 1862
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1869,
+          1878
+        ],
+        "start": 1869,
+        "end": 1878
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "firma del acuerdo",
+        "position": [
+          9,
+          26
+        ],
+        "start": 9,
+        "end": 26
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo de alto al fuego entre el movimiento de resistencia palestina hamás y el",
+        "position": [
+          19,
+          99
+        ],
+        "start": 19,
+        "end": 99
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "firma del acuerdo de alto al fuego entre el movimiento de resistencia palestina hamás y",
+        "position": [
+          9,
+          96
+        ],
+        "start": 9,
+        "end": 96
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          520,
+          537
+        ],
+        "start": 520,
+        "end": 537
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo estipula que diariamente deben entrar a la franja de gaza entre 500",
+        "position": [
+          607,
+          682
+        ],
+        "start": 607,
+        "end": 682
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          2083,
+          2095
+        ],
+        "start": 2083,
+        "end": 2095
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          79,
+          88
+        ],
+        "start": 79,
+        "end": 88
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1590,
+          1599
+        ],
+        "start": 1590,
+        "end": 1599
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1884,
+          1891
+        ],
+        "start": 1884,
+        "end": 1891
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10 personas",
+        "position": [
+          1205,
+          1216
+        ],
+        "start": 1205,
+        "end": 1216
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 20",
+        "position": [
+          1267,
+          1276
+        ],
+        "start": 1267,
+        "end": 1276
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 58",
+        "position": [
+          1558,
+          1576
+        ],
+        "start": 1558,
+        "end": 1576
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento de Resistencia Palestina Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yenín",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "VIOLAR",
+        "objeto": "Movimiento de Resistencia Palestina Hamás"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "VIOLAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASALTAR",
+        "objeto": "Yenín"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASALTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASALTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Yenín",
+        "relacion": "ASALTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Yenín",
+        "relacion": "ASALTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "ASALTAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6369,
+    "pos": 0.014,
+    "neu": 0.962,
+    "neg": 0.024,
+    "label": "negative"
+  }
+}

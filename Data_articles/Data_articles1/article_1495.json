@@ -1,0 +1,750 @@
+{
+  "url": "https://www.telesurtv.net/celebran-eeuu-natalicio-fidel-castro/",
+  "title": "Conmemoran en Nueva York el natalicio de Fidel Castro",
+  "section": "Mundo",
+  "tags": [
+    "Cuba",
+    "Fidel Castro",
+    "Natalicio",
+    "Nueva York"
+  ],
+  "text": "Con un mural lumínico en las calles de Nueva York, se conmemoró el natalicio de Fidel Castro Ruz, señalando de esta manera el comienzo de su centenario en el próximo año.\nFidel fue un “líder revolucionario y defensor inquebrantable de los oprimidos, Fidel sigue vivo en todos aquellos que luchan por un mundo mejor”, publicó la cuenta oficial The People’s Forum, una organización con sede en Nueva York para la clase trabajadora.\n“Su vida nos recuerda que la dignidad, la soberanía y la solidaridad no son solo ideales, sino batallas que hay que librar y ganar”, añadió.\nAsimismo, “conmemoramos los 100 años de Malcolm X, otra voz inquebrantable en favor de la liberación, cuyo legado continúa encendiendo luchas aquí y en todo el mundo”, agregó la organización en la publicación.\nEntre las imágenes que se proyectan están la que inmortalizó el único encuentro entre Fidel y Malcolm X en el Hotel Theresa el 19 de septiembre de 1960 en el barrio neoyorquino de Harlem y una durante su participación en la Asamblea General de la ONU.\nSe pueden observar igualmente textos como “100 años de Fidel”, “100 años de Fidel y Malcolm X” y “Dejen que Cuba viva”.\nComo legado de estas dos grandes figuras, sus visiones perduran en cada acción que se anima a concebir y edificar un futuro más promisorio para la población mundial.\nEl principal líder de la Revolución cubana nació en Holguín el 13 de agosto de 1926, lo intentaron eliminar físicamente en cientos de veces, pero no lo consiguieron. El 25 de diciembre de 2016 falleció por muerte natural a la edad de 90 años.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/celebran-eeuu-natalicio-fidel-castro/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1382,
+    "message_id": 101665,
+    "date": "2025-08-13T07:55:07+00:00",
+    "text": "teleSUR\nConmemoran en Nueva York el natalicio del líder de la Revolución Cubana, Fidel Castro\nhttps://www.telesurtv.net/celebran-eeuu-natalicio-fidel-castro/",
+    "photo_path": null,
+    "views": 1659,
+    "reactions": {
+      "👍": 40,
+      "👏": 7,
+      "❤": 6
+    },
+    "total_reactions": 53
+  },
+  "preprocessing": {
+    "cleaned": "con un mural lumínico en las calles de nueva york, se conmemoró el natalicio de fidel castro ruz, señalando de esta manera el comienzo de su centenario en el próximo año. fidel fue un “líder revolucionario y defensor inquebrantable de los oprimidos, fidel sigue vivo en todos aquellos que luchan por un mundo mejor”, publicó la cuenta oficial the people’s forum, una organización con sede en nueva york para la clase trabajadora. “su vida nos recuerda que la dignidad, la soberanía y la solidaridad no son solo ideales, sino batallas que hay que librar y ganar”, añadió. asimismo, “conmemoramos los 100 años de malcolm x, otra voz inquebrantable en favor de la liberación, cuyo legado continúa encendiendo luchas aquí y en todo el mundo”, agregó la organización en la publicación. entre las imágenes que se proyectan están la que inmortalizó el único encuentro entre fidel y malcolm x en el hotel theresa el 19 de septiembre de 1960 en el barrio neoyorquino de harlem y una durante su participación en la asamblea general de la onu. se pueden observar igualmente textos como “100 años de fidel”, “100 años de fidel y malcolm x” y “dejen que cuba viva”. como legado de estas dos grandes figuras, sus visiones perduran en cada acción que se anima a concebir y edificar un futuro más promisorio para la población mundial. el principal líder de la revolución cubana nació en holguín el 13 de agosto de 1926, lo intentaron eliminar físicamente en cientos de veces, pero no lo consiguieron. el 25 de diciembre de 2016 falleció por muerte natural a la edad de 90 años.",
+    "tokens": [
+      "mural",
+      "lumínico",
+      "calles",
+      "nueva",
+      "york",
+      ",",
+      "conmemoró",
+      "natalicio",
+      "fidel",
+      "castro",
+      "ruz",
+      ",",
+      "señalando",
+      "manera",
+      "comienzo",
+      "centenario",
+      "próximo",
+      "año",
+      ".",
+      "fidel",
+      "“",
+      "líder",
+      "revolucionario",
+      "defensor",
+      "inquebrantable",
+      "oprimidos",
+      ",",
+      "fidel",
+      "sigue",
+      "vivo",
+      "aquellos",
+      "luchan",
+      "mundo",
+      "mejor",
+      "”",
+      ",",
+      "publicó",
+      "cuenta",
+      "oficial",
+      "the",
+      "people",
+      "’",
+      "s",
+      "forum",
+      ",",
+      "organización",
+      "sede",
+      "nueva",
+      "york",
+      "clase",
+      "trabajadora",
+      ".",
+      "“",
+      "vida",
+      "recuerda",
+      "dignidad",
+      ",",
+      "soberanía",
+      "solidaridad",
+      "solo",
+      "ideales",
+      ",",
+      "sino",
+      "batallas",
+      "librar",
+      "ganar",
+      "”",
+      ",",
+      "añadió",
+      ".",
+      "asimismo",
+      ",",
+      "“",
+      "conmemoramos",
+      "100",
+      "años",
+      "malcolm",
+      "x",
+      ",",
+      "voz",
+      "inquebrantable",
+      "favor",
+      "liberación",
+      ",",
+      "cuyo",
+      "legado",
+      "continúa",
+      "encendiendo",
+      "luchas",
+      "aquí",
+      "mundo",
+      "”",
+      ",",
+      "agregó",
+      "organización",
+      "publicación",
+      ".",
+      "imágenes",
+      "proyectan",
+      "inmortalizó",
+      "único",
+      "encuentro",
+      "fidel",
+      "malcolm",
+      "x",
+      "hotel",
+      "theresa",
+      "19",
+      "septiembre",
+      "1960",
+      "barrio",
+      "neoyorquino",
+      "harlem",
+      "participación",
+      "asamblea",
+      "general",
+      "onu",
+      ".",
+      "pueden",
+      "observar",
+      "igualmente",
+      "textos",
+      "“",
+      "100",
+      "años",
+      "fidel",
+      "”",
+      ",",
+      "“",
+      "100",
+      "años",
+      "fidel",
+      "malcolm",
+      "x",
+      "”",
+      "“",
+      "dejen",
+      "cuba",
+      "viva",
+      "”",
+      ".",
+      "legado",
+      "dos",
+      "grandes",
+      "figuras",
+      ",",
+      "visiones",
+      "perduran",
+      "cada",
+      "acción",
+      "anima",
+      "concebir",
+      "edificar",
+      "futuro",
+      "promisorio",
+      "población",
+      "mundial",
+      ".",
+      "principal",
+      "líder",
+      "revolución",
+      "cubana",
+      "nació",
+      "holguín",
+      "13",
+      "agosto",
+      "1926",
+      ",",
+      "intentaron",
+      "eliminar",
+      "físicamente",
+      "cientos",
+      "veces",
+      ",",
+      "consiguieron",
+      ".",
+      "25",
+      "diciembre",
+      "2016",
+      "falleció",
+      "muerte",
+      "natural",
+      "edad",
+      "90",
+      "años",
+      "."
+    ],
+    "token_count": 186,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "JJ": 18,
+      "NN": 84,
+      "IN": 16,
+      "NNS": 7,
+      "FW": 69,
+      "VBP": 6,
+      "DT": 3,
+      "VBD": 4,
+      "VBZ": 1,
+      "$": 1,
+      "CD": 10,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 4,
+      "JJ-JJ": 1,
+      "JJ-NN": 8,
+      "NN-IN": 11,
+      "IN-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NNP": 4,
+      "NNP-NNP": 11,
+      "NNP-NN": 9,
+      "NN-NN": 48,
+      "NN-FW": 10,
+      "FW-FW": 40,
+      "FW-NNP": 12,
+      "FW-NN": 7,
+      "IN-FW": 5,
+      "NN-JJ": 4,
+      "JJ-FW": 4,
+      "FW-JJ": 2,
+      "JJ-NNP": 2,
+      "NN-VBP": 3,
+      "VBP-JJ": 4,
+      "JJ-DT": 1,
+      "DT-NNP": 1,
+      "NN-NNP": 4,
+      "NN-NNS": 1,
+      "NNS-VBP": 3,
+      "FW-DT": 1,
+      "DT-NN": 2,
+      "NN-VBD": 1,
+      "VBD-NNS": 1,
+      "NNS-NN": 1,
+      "VBP-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-$": 1,
+      "$-CD": 1,
+      "CD-NN": 6,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "IN-NN": 2,
+      "NNP-FW": 5,
+      "FW-NNS": 3,
+      "NNS-FW": 1,
+      "NNP-VBD": 2,
+      "VBD-CD": 2,
+      "CD-FW": 4,
+      "FW-IN": 3,
+      "IN-CD": 3,
+      "NN-CD": 1,
+      "NNP-CD": 2,
+      "NNS-VBD": 1,
+      "VBD-IN": 1,
+      "VBP-DT": 1,
+      "FW-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 25,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 6,
+      "NNP-NN-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-FW": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-JJ": 3,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-NNP": 1,
+      "DT-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 3,
+      "NN-IN-NNP": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-$": 1,
+      "VBZ-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-FW": 3,
+      "NN-FW-NNP": 3,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 2,
+      "VBD-CD-FW": 2,
+      "CD-FW-FW": 4,
+      "FW-FW-IN": 3,
+      "FW-IN-CD": 3,
+      "IN-CD-FW": 1,
+      "IN-NNP-JJ": 1,
+      "IN-FW-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-FW-NNP": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBD": 1,
+      "NNS-VBD-IN": 1,
+      "VBD-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-NN": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "IN-NNP-VBD": 1,
+      "IN-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "FW": 69,
+        "NNP": 35,
+        "JJ": 18,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 40,
+        "FW-NNP": 12,
+        "NN-IN": 11,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 25,
+        "NN-NN-IN": 7,
+        "FW-NNP-NNP": 6,
+        "JJ-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 71,
+      "PP": 8,
+      "ADJP": 2,
+      "VP": 13
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0583
+      },
+      {
+        "rule": "NP -> ('años', 'NN')",
+        "frequency": 4,
+        "weight": 0.0388
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "ADJP -> ('inquebrantable', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "VP -> ('“', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP NP PP PP (',', ',') NP ('natalicio', 'FW') ('de', 'FW') ('Fidel', 'FW') NP (',', ',') NP ('de', 'FW') ('esta', 'FW') NP ('de', 'IN') ('su', 'FW') NP ('en', 'IN') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Con', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('mural', 'JJ') ('lumínico', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Con"
+      },
+      {
+        "label": "NP",
+        "text": "un mural lumínico"
+      },
+      {
+        "label": "PP",
+        "text": "en las calles"
+      },
+      {
+        "label": "NP",
+        "text": "las calles"
+      },
+      {
+        "label": "PP",
+        "text": "de Nueva York"
+      },
+      {
+        "label": "NP",
+        "text": "Nueva York"
+      },
+      {
+        "label": "NP",
+        "text": "se conmemoró el"
+      },
+      {
+        "label": "NP",
+        "text": "Castro Ruz"
+      },
+      {
+        "label": "NP",
+        "text": "señalando"
+      },
+      {
+        "label": "NP",
+        "text": "manera el comienzo"
+      },
+      {
+        "label": "NP",
+        "text": "centenario"
+      },
+      {
+        "label": "NP",
+        "text": "próximo año"
+      },
+      {
+        "label": "NP",
+        "text": "Fidel fue"
+      },
+      {
+        "label": "NP",
+        "text": "un “ líder revolucionario y defensor"
+      },
+      {
+        "label": "ADJP",
+        "text": "inquebrantable"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Con/NNP)\n  (NP un/JJ mural/JJ lumínico/NN)\n  (PP en/IN (NP las/JJ calles/NNS))\n  (PP de/IN (NP Nueva/NNP York/NNP))\n  ,/,\n  (NP se/JJ conmemoró/NN el/NN)\n  natalicio/FW\n  de/FW\n  Fidel/FW\n  (NP Castro/NNP Ruz/NNP)\n  ,/,\n  (NP señalando/NN)\n  de/FW\n  esta/FW\n  (NP manera/NN el/NN comienzo/NN)\n  de/IN\n  su/FW\n  (NP centenario/NN)\n  en/IN\n  el/FW\n  (NP próximo/NN año/NN)\n  ./.)",
+      "(S\n  (NP Fidel/NNP fue/NN)\n  (NP un/JJ “/NNP líder/NN revolucionario/NN y/NN defensor/NN)\n  (ADJP inquebrantable/JJ)\n  de/FW\n  los/FW\n  oprimidos/FW\n  ,/,\n  (NP Fidel/NNP sigue/NN vivo/NN)\n  (PP en/IN (NP todos/JJ aquellos/NN que/NN luchan/NN por/NN))\n  (NP un/JJ mundo/NN mejor/NN ”/NN)\n  ,/,\n  (NP publicó/NN la/NN)\n  (VP\n    cuenta/VBP\n    oficial/JJ\n    (NP The/DT People/NNP ’/NNP s/NN Forum/NNP))\n  ,/,\n  (NP una/JJ organización/NN con/NN sede/NN)\n  (PP\n    en/IN\n    (NP Nueva/NNP York/NNP para/NN la/NN clase/NN trabajadora/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Su/NNP vida/NN nos/NNS)\n  (VP recuerda/VBP (NP que/JJ la/NN dignidad/NN))\n  ,/,\n  la/FW\n  soberanía/FW\n  y/FW\n  la/FW\n  solidaridad/FW\n  (NP no/DT son/NN solo/NN ideales/NNS)\n  ,/,\n  (NP sino/NN batallas/NNS)\n  (VP que/VBP (NP hay/JJ que/NN librar/NN y/NN ganar/NN ”/NNP))\n  ,/,\n  (NP añadió/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP “/NNP)\n  (VP conmemoramos/VBD los/JJ)\n  100/CD\n  (NP años/NN)\n  de/FW\n  (NP Malcolm/NNP X/NNP)\n  ,/,\n  (NP otra/JJ voz/NN)\n  (ADJP inquebrantable/JJ)\n  en/FW\n  (NP favor/NN)\n  de/IN\n  la/FW\n  liberación/FW\n  ,/,\n  (VP\n    cuyo/VBP\n    (NP legado/JJ continúa/NN encendiendo/NN luchas/NN aquí/NN y/NN))\n  (PP en/IN (NP todo/NN))\n  el/FW\n  (NP mundo/NN ”/NN)\n  ,/,\n  (NP agregó/JJ la/NN)\n  organización/FW\n  en/FW\n  la/FW\n  publicación/FW\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  las/CC\n  (NP imágenes/NNS)\n  (NP\n    que/JJ\n    se/JJ\n    proyectan/NN\n    están/NN\n    la/NN\n    que/NN\n    inmortalizó/NN\n    el/NN\n    único/NNP\n    encuentro/NN\n    entre/NN\n    Fidel/NNP\n    y/NNP\n    Malcolm/NNP\n    X/NNP)\n  en/FW\n  (NP el/JJ Hotel/NNP Theresa/NNP)\n  (VP el/VBD)\n  19/CD\n  de/FW\n  septiembre/FW\n  de/IN\n  1960/CD\n  en/FW\n  el/FW\n  (NP barrio/NN neoyorquino/NN)\n  (PP de/IN (NP Harlem/NNP y/NNP))\n  (NP una/JJ durante/NN su/NN participación/NN)\n  en/IN\n  la/FW\n  (NP Asamblea/NNP General/NNP de/NNP)\n  la/FW\n  (NP ONU/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "FECHAS_HORAS",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1028,
+          1031
+        ],
+        "start": 1028,
+        "end": 1031
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          1141,
+          1145
+        ],
+        "start": 1141,
+        "end": 1145
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio neoyorquino",
+        "position": [
+          939,
+          957
+        ],
+        "start": 939,
+        "end": 957
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "19 de septiembre de 1960",
+        "position": [
+          908,
+          932
+        ],
+        "start": 908,
+        "end": 932
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "próximo año",
+        "position": [
+          158,
+          169
+        ],
+        "start": 158,
+        "end": 169
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "13 de agosto de 1926",
+        "position": [
+          1382,
+          1402
+        ],
+        "start": 1382,
+        "end": 1402
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Fidel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hotel Theresa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea General de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fidel Castro Ruz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nueva York",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Harlem",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Malcolm X",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Holguín",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nueva York",
+        "relacion": "CONMEMORAR",
+        "objeto": "Fidel Castro Ruz"
+      },
+      {
+        "sujeto": "Fidel",
+        "relacion": "PUBLICAR",
+        "objeto": "Nueva York"
+      },
+      {
+        "sujeto": "Fidel",
+        "relacion": "SEGUIR_PUBLICAR",
+        "objeto": "Nueva York"
+      },
+      {
+        "sujeto": "Fidel",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Hotel Theresa"
+      },
+      {
+        "sujeto": "Fidel",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Harlem"
+      },
+      {
+        "sujeto": "Fidel",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Asamblea General de la ONU"
+      },
+      {
+        "sujeto": "Malcolm X",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Hotel Theresa"
+      },
+      {
+        "sujeto": "Malcolm X",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Harlem"
+      },
+      {
+        "sujeto": "Malcolm X",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Asamblea General de la ONU"
+      },
+      {
+        "sujeto": "Hotel Theresa",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Harlem"
+      },
+      {
+        "sujeto": "Hotel Theresa",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Asamblea General de la ONU"
+      },
+      {
+        "sujeto": "Harlem",
+        "relacion": "INMORTALIZAR_ESTAR",
+        "objeto": "Asamblea General de la ONU"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2023,
+    "pos": 0.02,
+    "neu": 0.964,
+    "neg": 0.017,
+    "label": "positive"
+  }
+}

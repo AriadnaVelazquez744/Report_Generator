@@ -1,0 +1,840 @@
+{
+  "url": "https://www.telesurtv.net/mexico-sheinbaum-pib-subio-primer-trimestre/",
+  "title": "México: Sheinbaum resalta aumento del PIB en 0.8% durante primer trimestre de 2025",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Claudia Sheimbaun",
+    "Economía",
+    "México",
+    "PIB"
+  ],
+  "text": "La presidenta de México, Claudia Sheinbaum, aseguró este jueves que el Producto Interno Bruto (PIB) en ese país ascendió en 0.8 por ciento durante el primer trimestre del año.\nAl respecto, la mandataria subrayó que “es una buena noticia”, aunque “claro que queremos más”.Siguiendo esa línea, resaltó que el crecimiento se logró, aunque las agencias financieras pronosticaban una recesión.\n“No conocían los esfuerzos que estamos haciendo. Hay quienes pudieron haberse cruzado de brazos o haber rescatado a los de arriba, como en el pasado, pero nosotros hemos impulsado la economía desde abajo y el desarrollo económico del país con prosperidad compartida”, dijo.\nEn tanto, destacó que “frente a la circunstancia de aranceles, la situación de incertidumbre en que se ha movido todos estos meses la economía mundial por el marco impuesto por el presidente Donald Trump, es una buena noticia”.\n“Estamos en los niveles más bajos de desempleo para el mes de marzo y la inflación prácticamente se mantiene. Entonces vamos bien. Por supuesto que ha tenido sus implicaciones esta situación (derivada de Trump), pero se está trabajando todos los días”, continuó.\nPor otro lado, detalló que el Gobierno mexicano ha trazado sus estrategias para lograr una diversificación de los mercados, asegurando que en 2026 estará listo el tratado con Europa.\nAdemás, precisó que el intercambio con el Gobierno de Brasil se encuentra en un estado avanzado, a lo que agregó que pronto el secretario de Comercio mexicano, Lucas Ferraz, sostendrá un intercambio con el secretario de Hacienda, Edgar Amador, para concretar las rutas a seguir entre ambas partes.\n“Pero particularmente económica de complementariedad, es decir, que no se sustituyan productos que se fabrican en México por los de Brasil, sino más bien qué podemos darles nosotros que no fabriquen y qué pueden ellos darnos que no fabriquemos, y cómo podemos fortalecer la inversión de Brasil en México y de México en Brasil”, enfatizó la presidenta.\nPor último, aseguró que su país está “hablando con muchísimos países”, lo que demuestra la intención por la búsqueda de avances en lo económico por parte del Gobierno del país azteca.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-sheinbaum-pib-subio-primer-trimestre/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 5,
+    "message_id": 93094,
+    "date": "2025-04-30T22:55:07+00:00",
+    "text": "teleSUR\nMéxico: Sheinbaum resalta aumento del PIB en 0,8% durante primer trimestre de 2025\nhttps://www.telesurtv.net/mexico-sheinbaum-pib-subio-primer-trimestre/",
+    "photo_path": null,
+    "views": 2381,
+    "reactions": {
+      "👍": 46,
+      "👏": 9
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de méxico, claudia sheinbaum, aseguró este jueves que el producto interno bruto (pib) en ese país ascendió en 0.8 por ciento durante el primer trimestre del año. al respecto, la mandataria subrayó que “es una buena noticia”, aunque “claro que queremos más”.siguiendo esa línea, resaltó que el crecimiento se logró, aunque las agencias financieras pronosticaban una recesión. “no conocían los esfuerzos que estamos haciendo. hay quienes pudieron haberse cruzado de brazos o haber rescatado a los de arriba, como en el pasado, pero nosotros hemos impulsado la economía desde abajo y el desarrollo económico del país con prosperidad compartida”, dijo. en tanto, destacó que “frente a la circunstancia de aranceles, la situación de incertidumbre en que se ha movido todos estos meses la economía mundial por el marco impuesto por el presidente donald trump, es una buena noticia”. “estamos en los niveles más bajos de desempleo para el mes de marzo y la inflación prácticamente se mantiene. entonces vamos bien. por supuesto que ha tenido sus implicaciones esta situación (derivada de trump), pero se está trabajando todos los días”, continuó. por otro lado, detalló que el gobierno mexicano ha trazado sus estrategias para lograr una diversificación de los mercados, asegurando que en 2026 estará listo el tratado con europa. además, precisó que el intercambio con el gobierno de brasil se encuentra en un estado avanzado, a lo que agregó que pronto el secretario de comercio mexicano, lucas ferraz, sostendrá un intercambio con el secretario de hacienda, edgar amador, para concretar las rutas a seguir entre ambas partes. “pero particularmente económica de complementariedad, es decir, que no se sustituyan productos que se fabrican en méxico por los de brasil, sino más bien qué podemos darles nosotros que no fabriquen y qué pueden ellos darnos que no fabriquemos, y cómo podemos fortalecer la inversión de brasil en méxico y de méxico en brasil”, enfatizó la presidenta. por último, aseguró que su país está “hablando con muchísimos países”, lo que demuestra la intención por la búsqueda de avances en lo económico por parte del gobierno del país azteca.",
+    "tokens": [
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "aseguró",
+      "jueves",
+      "producto",
+      "interno",
+      "bruto",
+      "(",
+      "pib",
+      ")",
+      "país",
+      "ascendió",
+      "0.8",
+      "ciento",
+      "primer",
+      "trimestre",
+      "año",
+      ".",
+      "respecto",
+      ",",
+      "mandataria",
+      "subrayó",
+      "“",
+      "buena",
+      "noticia",
+      "”",
+      ",",
+      "aunque",
+      "“",
+      "claro",
+      "queremos",
+      "”",
+      ".siguiendo",
+      "línea",
+      ",",
+      "resaltó",
+      "crecimiento",
+      "logró",
+      ",",
+      "aunque",
+      "agencias",
+      "financieras",
+      "pronosticaban",
+      "recesión",
+      ".",
+      "“",
+      "conocían",
+      "esfuerzos",
+      "haciendo",
+      ".",
+      "pudieron",
+      "haberse",
+      "cruzado",
+      "brazos",
+      "haber",
+      "rescatado",
+      "arriba",
+      ",",
+      "pasado",
+      ",",
+      "impulsado",
+      "economía",
+      "abajo",
+      "desarrollo",
+      "económico",
+      "país",
+      "prosperidad",
+      "compartida",
+      "”",
+      ",",
+      "dijo",
+      ".",
+      ",",
+      "destacó",
+      "“",
+      "frente",
+      "circunstancia",
+      "aranceles",
+      ",",
+      "situación",
+      "incertidumbre",
+      "movido",
+      "meses",
+      "economía",
+      "mundial",
+      "marco",
+      "impuesto",
+      "presidente",
+      "donald",
+      "trump",
+      ",",
+      "buena",
+      "noticia",
+      "”",
+      ".",
+      "“",
+      "niveles",
+      "bajos",
+      "desempleo",
+      "mes",
+      "marzo",
+      "inflación",
+      "prácticamente",
+      "mantiene",
+      ".",
+      "entonces",
+      "vamos",
+      "bien",
+      ".",
+      "supuesto",
+      "implicaciones",
+      "situación",
+      "(",
+      "derivada",
+      "trump",
+      ")",
+      ",",
+      "trabajando",
+      "días",
+      "”",
+      ",",
+      "continuó",
+      ".",
+      "lado",
+      ",",
+      "detalló",
+      "gobierno",
+      "mexicano",
+      "trazado",
+      "estrategias",
+      "lograr",
+      "diversificación",
+      "mercados",
+      ",",
+      "asegurando",
+      "2026",
+      "listo",
+      "tratado",
+      "europa",
+      ".",
+      "además",
+      ",",
+      "precisó",
+      "intercambio",
+      "gobierno",
+      "brasil",
+      "encuentra",
+      "avanzado",
+      ",",
+      "agregó",
+      "pronto",
+      "secretario",
+      "comercio",
+      "mexicano",
+      ",",
+      "lucas",
+      "ferraz",
+      ",",
+      "sostendrá",
+      "intercambio",
+      "secretario",
+      "hacienda",
+      ",",
+      "edgar",
+      "amador",
+      ",",
+      "concretar",
+      "rutas",
+      "seguir",
+      "ambas",
+      "partes",
+      ".",
+      "“",
+      "particularmente",
+      "económica",
+      "complementariedad",
+      ",",
+      "decir",
+      ",",
+      "sustituyan",
+      "productos",
+      "fabrican",
+      "méxico",
+      "brasil",
+      ",",
+      "sino",
+      "bien",
+      "podemos",
+      "darles",
+      "fabriquen",
+      "pueden",
+      "darnos",
+      "fabriquemos",
+      ",",
+      "cómo",
+      "podemos",
+      "fortalecer",
+      "inversión",
+      "brasil",
+      "méxico",
+      "méxico",
+      "brasil",
+      "”",
+      ",",
+      "enfatizó",
+      "presidenta",
+      ".",
+      "último",
+      ",",
+      "aseguró",
+      "país",
+      "“",
+      "hablando",
+      "muchísimos",
+      "países",
+      "”",
+      ",",
+      "demuestra",
+      "intención",
+      "búsqueda",
+      "avances",
+      "económico",
+      "parte",
+      "gobierno",
+      "país",
+      "azteca",
+      "."
+    ],
+    "token_count": 231,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "FW": 58,
+      "VBZ": 6,
+      "NN": 165,
+      "NNS": 11,
+      "VBP": 9,
+      "JJ": 30,
+      "IN": 12,
+      "CD": 2,
+      "VBD": 1,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-FW": 8,
+      "FW-FW": 35,
+      "FW-NNP": 7,
+      "NNP-NNP": 11,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 2,
+      "NN-NNS": 8,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "JJ-NNP": 2,
+      "NNP-IN": 3,
+      "IN-JJ": 2,
+      "JJ-NN": 21,
+      "NN-NN": 109,
+      "NN-IN": 9,
+      "IN-CD": 2,
+      "CD-NN": 2,
+      "NN-FW": 12,
+      "FW-NN": 13,
+      "NN-NNP": 13,
+      "NNP-NN": 14,
+      "NN-JJ": 8,
+      "VBP-NNP": 1,
+      "NNP-NNS": 1,
+      "IN-FW": 2,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-JJ": 5,
+      "IN-NN": 1,
+      "VBP-NN": 1,
+      "IN-NNP": 5,
+      "FW-JJ": 2,
+      "JJ-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-NNP": 1,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NN": 12,
+      "NN-NN-IN": 5,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NN-NN-NN": 72,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 6,
+      "FW-NN-NN": 10,
+      "NN-NN-NNP": 10,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 11,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 8,
+      "NN-NNP-VBZ": 2,
+      "VBZ-NN-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "FW-FW-FW": 25,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "IN-FW-FW": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NN-DT": 2,
+      "NN-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "DT-NN-NN": 1,
+      "NNP-FW-NNP": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 165,
+        "FW": 58,
+        "NNP": 41,
+        "JJ": 30,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 109,
+        "FW-FW": 35,
+        "JJ-NN": 21,
+        "NNP-NN": 14,
+        "FW-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 72,
+        "FW-FW-FW": 25,
+        "JJ-NN-NN": 12,
+        "NNP-NN-NN": 11,
+        "FW-NN-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 93,
+      "VP": 19,
+      "PP": 8,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0448
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0224
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0224
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0149
+      },
+      {
+        "rule": "VP -> ('es', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0149
+      },
+      {
+        "rule": "S -> NP NP ('.', '.')",
+        "frequency": 2,
+        "weight": 0.0149
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('(', '(') NP (')', ')') PP ('en', 'IN') ('0.8', 'CD') NP ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('aseguró', 'JJ') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0075
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "aseguró este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "que el Producto Interno Bruto"
+      },
+      {
+        "label": "NP",
+        "text": "el Producto Interno Bruto"
+      },
+      {
+        "label": "NP",
+        "text": "PIB"
+      },
+      {
+        "label": "PP",
+        "text": "en ese país ascendió"
+      },
+      {
+        "label": "NP",
+        "text": "ese país ascendió"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento durante"
+      },
+      {
+        "label": "NP",
+        "text": "primer trimestre del año"
+      },
+      {
+        "label": "NP",
+        "text": "Al respecto"
+      },
+      {
+        "label": "NP",
+        "text": "que “"
+      },
+      {
+        "label": "VP",
+        "text": "es una buena noticia ”"
+      },
+      {
+        "label": "NP",
+        "text": "una buena noticia ”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP aseguró/JJ este/NN jueves/NNS)\n  (VP que/VBP (NP el/JJ Producto/NNP Interno/NNP Bruto/NNP))\n  (/(\n  (NP PIB/NNP)\n  )/)\n  (PP en/IN (NP ese/JJ país/NN ascendió/NN))\n  en/IN\n  0.8/CD\n  (NP por/NN ciento/NN durante/NN)\n  el/FW\n  (NP primer/NN trimestre/NN del/NN año/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP respecto/NN)\n  ,/,\n  la/FW\n  mandataria/FW\n  subrayó/FW\n  (NP que/NN “/NNP)\n  (VP es/VBZ (NP una/JJ buena/NN noticia/NN ”/NNP))\n  ,/,\n  (NP\n    aunque/NN\n    “/NNP\n    claro/NN\n    que/NN\n    queremos/NN\n    más/NN\n    ”/NNP\n    .Siguiendo/NNP)\n  esa/FW\n  (NP línea/NN)\n  ,/,\n  (NP resaltó/NN que/NN el/NN crecimiento/NN se/NN logró/NN)\n  ,/,\n  (NP aunque/JJ las/NN agencias/NN)\n  (NP financieras/JJ pronosticaban/NN)\n  (NP una/JJ recesión/NN)\n  ./.)",
+      "(S\n  (NP “/JJ No/NNP conocían/NN los/NN)\n  (NP esfuerzos/JJ que/NN estamos/NN haciendo/NN)\n  ./.)",
+      "(S\n  (NP Hay/NNP quienes/NNS)\n  (VP pudieron/VBP (NP haberse/JJ cruzado/NN))\n  de/IN\n  brazos/FW\n  (NP o/JJ haber/NN)\n  (VP rescatado/VB (NP a/DT los/NN))\n  (PP de/IN (NP arriba/NN))\n  ,/,\n  (NP como/NN)\n  en/FW\n  (NP el/NN pasado/NN)\n  ,/,\n  (NP pero/NN nosotros/NNS)\n  (VP hemos/VBP (NP impulsado/JJ la/NN))\n  economía/FW\n  (NP\n    desde/NN\n    abajo/NN\n    y/NN\n    el/NN\n    desarrollo/NN\n    económico/NN\n    del/NN\n    país/NN\n    con/NN\n    prosperidad/NN\n    compartida/NN\n    ”/NNP)\n  ,/,\n  (NP dijo/NN)\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  (NP destacó/NN que/NN “/NNP)\n  (VP frente/VBZ (NP a/DT la/NN circunstancia/NN))\n  (PP de/IN (NP aranceles/NNS))\n  ,/,\n  la/FW\n  situación/FW\n  de/FW\n  incertidumbre/FW\n  en/FW\n  que/FW\n  se/FW\n  (NP ha/NN movido/NN todos/NN estos/NN)\n  (VP\n    meses/VBZ\n    (NP\n      la/JJ\n      economía/JJ\n      mundial/JJ\n      por/NN\n      el/NN\n      marco/NN\n      impuesto/NN\n      por/NN\n      el/NN\n      presidente/NN\n      Donald/NNP\n      Trump/NNP))\n  ,/,\n  (VP es/VBZ (NP una/JJ buena/NN noticia/NN ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desarrollo económico del país",
+        "position": [
+          598,
+          627
+        ],
+        "start": 598,
+        "end": 627
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inflación",
+        "position": [
+          964,
+          973
+        ],
+        "start": 964,
+        "end": 973
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          827,
+          835
+        ],
+        "start": 827,
+        "end": 835
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desempleo",
+        "position": [
+          928,
+          937
+        ],
+        "start": 928,
+        "end": 937
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inversión",
+        "position": [
+          1909,
+          1918
+        ],
+        "start": 1909,
+        "end": 1918
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desarrollo económico",
+        "position": [
+          598,
+          618
+        ],
+        "start": 598,
+        "end": 618
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          1345,
+          1352
+        ],
+        "start": 1345,
+        "end": 1352
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de brasil se",
+        "position": [
+          1379,
+          1400
+        ],
+        "start": 1379,
+        "end": 1400
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          203,
+          210
+        ],
+        "start": 203,
+        "end": 210
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          673,
+          680
+        ],
+        "start": 673,
+        "end": 680
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          1391,
+          1397
+        ],
+        "start": 1391,
+        "end": 1397
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado avanzado",
+        "position": [
+          1417,
+          1432
+        ],
+        "start": 1417,
+        "end": 1432
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lucas Ferraz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Edgar Amador",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno mexicano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno del país azteca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comercio mexicano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hacienda",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Brasil",
+        "relacion": "ENCONTRAR_PRECISAR",
+        "objeto": "Comercio mexicano"
+      },
+      {
+        "sujeto": "Gobierno de Brasil",
+        "relacion": "ENCONTRAR_PRECISAR",
+        "objeto": "Lucas Ferraz"
+      },
+      {
+        "sujeto": "Gobierno de Brasil",
+        "relacion": "ENCONTRAR_PRECISAR",
+        "objeto": "Hacienda"
+      },
+      {
+        "sujeto": "Gobierno de Brasil",
+        "relacion": "ENCONTRAR_PRECISAR",
+        "objeto": "Edgar Amador"
+      },
+      {
+        "sujeto": "Comercio mexicano",
+        "relacion": "SOSTENER_AGREGAR_ENCONTRAR_PRECISAR",
+        "objeto": "Hacienda"
+      },
+      {
+        "sujeto": "Comercio mexicano",
+        "relacion": "SOSTENER_AGREGAR_ENCONTRAR_PRECISAR",
+        "objeto": "Edgar Amador"
+      },
+      {
+        "sujeto": "Lucas Ferraz",
+        "relacion": "SOSTENER_AGREGAR_ENCONTRAR_PRECISAR",
+        "objeto": "Hacienda"
+      },
+      {
+        "sujeto": "Lucas Ferraz",
+        "relacion": "SOSTENER_AGREGAR_ENCONTRAR_PRECISAR",
+        "objeto": "Edgar Amador"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "FABRICAR_SUSTITUIR_ENFATIZAR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "SUSTITUIR_ENFATIZAR",
+        "objeto": "México"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1531,
+    "pos": 0.021,
+    "neu": 0.96,
+    "neg": 0.019,
+    "label": "positive"
+  }
+}

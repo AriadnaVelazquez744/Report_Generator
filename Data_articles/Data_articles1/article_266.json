@@ -1,0 +1,897 @@
+{
+  "url": "https://www.telesurtv.net/trump-es-abucheado-por-manifestantes/",
+  "title": "Trump es abucheado por manifestantes: “Es el Hitler de nuestro tiempo”",
+  "section": "Mundo",
+  "tags": [
+    "abucheado",
+    "Cena",
+    "CODEPINK",
+    "Donald Trump",
+    "EE.UU.",
+    "Estados Unidos",
+    "Hitler",
+    "manifestantes",
+    "Palestina Libre",
+    "Washington D.C."
+  ],
+  "text": "El presidente de Estados Unidos, Donald Trump, fue abucheado por manifestantes mientras cenaba en un restaurante de Washington D.C. este martes 9 de septiembre.\n\nUn grupo de mujeres, pertenecientes a la organización feminista Codepink, con banderas palestinas confrontó a Trump directamente a la entrada del restaurante.\nLos manifestantes corearon consignas como “¡Palestina libre!”, “¡Libertad para D.C.!” y exclamaron: “¡Trump es el Hitler de nuestro tiempo!”.\nAunque al principio el presidente pareció burlarse de ellas, luego las miró fijamente y gesticuló para que los agentes de seguridad las retiraran del establecimiento a la fuerza.\n\nJunto a Trump cenaban el vicepresidente JD Vance, el secretario de Estado, Marco Rubio y el secretario de Defensa, Pete Hegseth.\nCodepink declaró que se mantuvieron firmes para decir la verdad al presidente y a su gabinete, asegurándose de que Trump “nunca cenaría en paz mientras las comunidades estuvieran asediadas”.\nEsta salida a cenar marcó la primera vez que el presidente Trump cenaba en un establecimiento fuera de la Casa Blanca en Washington D.C. desde que asumió el cargo en enero para su segundo mandato.\nEl presidente estadounidense utilizó la ocasión para reforzar su discurso sobre la seguridad en la capital, afirmando a los comensales que D.C. es “una ciudad segura” y que “no los asaltarán al regresar a casa”.\n\n\nLas protestas de Palestina Libre se enmarcan en un contexto de dos años de genocidio perpetrado por Israel, con la Franja de Gaza bajo órdenes de evacuación y su población sometida a una hambruna.\nLos manifestantes también expresaron preocupación por la situación en Puerto Rico y Venezuela, y el hecho de que el Pentágono se autodenomine “Departamento de Guerra“.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/trump-es-abucheado-por-manifestantes/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 434,
+    "message_id": 104218,
+    "date": "2025-09-10T02:55:07+00:00",
+    "text": "teleSUR\nTrump es abucheado por manifestantes: “Es el Hitler de nuestro tiempo”\nhttps://www.telesurtv.net/trump-es-abucheado-por-manifestantes/",
+    "photo_path": null,
+    "views": 2041,
+    "reactions": {
+      "👏": 84,
+      "👍": 5,
+      "❤": 1,
+      "🔥": 1,
+      "😈": 1
+    },
+    "total_reactions": 92
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de estados unidos, donald trump, fue abucheado por manifestantes mientras cenaba en un restaurante de washington d.c. este martes 9 de septiembre. un grupo de mujeres, pertenecientes a la organización feminista codepink, con banderas palestinas confrontó a trump directamente a la entrada del restaurante. los manifestantes corearon consignas como “¡palestina libre!”, “¡libertad para d.c.!” y exclamaron: “¡trump es el hitler de nuestro tiempo!”. aunque al principio el presidente pareció burlarse de ellas, luego las miró fijamente y gesticuló para que los agentes de seguridad las retiraran del establecimiento a la fuerza. junto a trump cenaban el vicepresidente jd vance, el secretario de estado, marco rubio y el secretario de defensa, pete hegseth. codepink declaró que se mantuvieron firmes para decir la verdad al presidente y a su gabinete, asegurándose de que trump “nunca cenaría en paz mientras las comunidades estuvieran asediadas”. esta salida a cenar marcó la primera vez que el presidente trump cenaba en un establecimiento fuera de la casa blanca en washington d.c. desde que asumió el cargo en enero para su segundo mandato. el presidente estadounidense utilizó la ocasión para reforzar su discurso sobre la seguridad en la capital, afirmando a los comensales que d.c. es “una ciudad segura” y que “no los asaltarán al regresar a casa”. las protestas de palestina libre se enmarcan en un contexto de dos años de genocidio perpetrado por israel, con la franja de gaza bajo órdenes de evacuación y su población sometida a una hambruna. los manifestantes también expresaron preocupación por la situación en puerto rico y venezuela, y el hecho de que el pentágono se autodenomine “departamento de guerra“.",
+    "tokens": [
+      "presidente",
+      "unidos",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "abucheado",
+      "manifestantes",
+      "mientras",
+      "cenaba",
+      "restaurante",
+      "washington",
+      "d.c",
+      ".",
+      "martes",
+      "9",
+      "septiembre",
+      ".",
+      "grupo",
+      "mujeres",
+      ",",
+      "pertenecientes",
+      "organización",
+      "feminista",
+      "codepink",
+      ",",
+      "banderas",
+      "palestinas",
+      "confrontó",
+      "trump",
+      "directamente",
+      "entrada",
+      "restaurante",
+      ".",
+      "manifestantes",
+      "corearon",
+      "consignas",
+      "“",
+      "¡palestina",
+      "libre",
+      "!",
+      "”",
+      ",",
+      "“",
+      "¡libertad",
+      "d.c",
+      ".",
+      "!",
+      "”",
+      "exclamaron",
+      ":",
+      "“",
+      "¡trump",
+      "hitler",
+      "tiempo",
+      "!",
+      "”",
+      ".",
+      "aunque",
+      "principio",
+      "presidente",
+      "pareció",
+      "burlarse",
+      ",",
+      "luego",
+      "miró",
+      "fijamente",
+      "gesticuló",
+      "agentes",
+      "seguridad",
+      "retiraran",
+      "establecimiento",
+      "fuerza",
+      ".",
+      "junto",
+      "trump",
+      "cenaban",
+      "vicepresidente",
+      "jd",
+      "vance",
+      ",",
+      "secretario",
+      ",",
+      "marco",
+      "rubio",
+      "secretario",
+      "defensa",
+      ",",
+      "pete",
+      "hegseth",
+      ".",
+      "codepink",
+      "declaró",
+      "mantuvieron",
+      "firmes",
+      "decir",
+      "verdad",
+      "presidente",
+      "gabinete",
+      ",",
+      "asegurándose",
+      "trump",
+      "“",
+      "nunca",
+      "cenaría",
+      "paz",
+      "mientras",
+      "comunidades",
+      "asediadas",
+      "”",
+      ".",
+      "salida",
+      "cenar",
+      "marcó",
+      "primera",
+      "vez",
+      "presidente",
+      "trump",
+      "cenaba",
+      "establecimiento",
+      "casa",
+      "blanca",
+      "washington",
+      "d.c",
+      ".",
+      "asumió",
+      "cargo",
+      "enero",
+      "segundo",
+      "mandato",
+      ".",
+      "presidente",
+      "estadounidense",
+      "utilizó",
+      "ocasión",
+      "reforzar",
+      "discurso",
+      "seguridad",
+      "capital",
+      ",",
+      "afirmando",
+      "comensales",
+      "d.c",
+      ".",
+      "“",
+      "ciudad",
+      "segura",
+      "”",
+      "“",
+      "asaltarán",
+      "regresar",
+      "casa",
+      "”",
+      ".",
+      "protestas",
+      "palestina",
+      "libre",
+      "enmarcan",
+      "contexto",
+      "dos",
+      "años",
+      "genocidio",
+      "perpetrado",
+      "israel",
+      ",",
+      "franja",
+      "gaza",
+      "bajo",
+      "órdenes",
+      "evacuación",
+      "población",
+      "sometida",
+      "hambruna",
+      ".",
+      "manifestantes",
+      "expresaron",
+      "preocupación",
+      "situación",
+      "puerto",
+      "rico",
+      "venezuela",
+      ",",
+      "hecho",
+      "pentágono",
+      "autodenomine",
+      "“",
+      "departamento",
+      "guerra",
+      "“",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 14
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 50,
+      "NN": 91,
+      "FW": 52,
+      "VBZ": 7,
+      "NNS": 8,
+      "IN": 16,
+      "JJ": 15,
+      "VBP": 8,
+      "VBD": 3,
+      "RB": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 16,
+      "NN-FW": 8,
+      "FW-NNP": 10,
+      "NNP-NNP": 16,
+      "NN-NN": 48,
+      "NN-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-NN": 1,
+      "NN-IN": 10,
+      "IN-JJ": 2,
+      "JJ-NN": 10,
+      "IN-NNP": 6,
+      "VBZ-IN": 2,
+      "IN-FW": 7,
+      "NNP-FW": 8,
+      "FW-FW": 25,
+      "FW-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-NN": 12,
+      "NN-NNP": 12,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 2,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 3,
+      "VBZ-VBP": 1,
+      "VBP-NNS": 1,
+      "VBP-NNP": 2,
+      "VBZ-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-JJ": 4,
+      "FW-NNS": 2,
+      "VBP-FW": 1,
+      "NNP-VBD": 2,
+      "VBD-NN": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-FW": 2,
+      "VBP-RB": 1,
+      "RB-NNP": 1,
+      "FW-JJ": 2,
+      "NNP-IN": 2,
+      "IN-NN": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "JJ-IN": 1,
+      "NNP-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "VBZ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 28,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NN": 1,
+      "NNS-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 5,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 13,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-NNP": 6,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-NNP": 7,
+      "NN-NNP-FW": 3,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-NN-NN": 5,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 4,
+      "FW-NN-IN": 3,
+      "NN-NN-NNS": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-NNP": 1,
+      "RB-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "NN-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "NN-NNP-IN": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNP-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 91,
+        "FW": 52,
+        "NNP": 50,
+        "IN": 16,
+        "JJ": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 25,
+        "NNP-NN": 16,
+        "NNP-NNP": 16,
+        "FW-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 13,
+        "NNP-NN-NN": 9,
+        "NN-NN-NNP": 7,
+        "NNP-NNP-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 14,
+    "chunk_counts": {
+      "NP": 79,
+      "VP": 22,
+      "PP": 11,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0394
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0315
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 3,
+        "weight": 0.0236
+      },
+      {
+        "rule": "VP -> ('manifestantes', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "NP -> ('Washington', 'NNP') ('D.C', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "NP -> ('secretario', 'NN')",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP PP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "fue abucheado por"
+      },
+      {
+        "label": "VP",
+        "text": "manifestantes mientras cenaba"
+      },
+      {
+        "label": "NP",
+        "text": "mientras cenaba"
+      },
+      {
+        "label": "PP",
+        "text": "en un restaurante"
+      },
+      {
+        "label": "NP",
+        "text": "un restaurante"
+      },
+      {
+        "label": "PP",
+        "text": "de Washington D.C"
+      },
+      {
+        "label": "NP",
+        "text": "Washington D.C"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "VP",
+        "text": "martes"
+      },
+      {
+        "label": "PP",
+        "text": "de septiembre"
+      },
+      {
+        "label": "NP",
+        "text": "septiembre"
+      },
+      {
+        "label": "NP",
+        "text": "Un grupo de mujeres"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  (NP fue/NN abucheado/NN por/NN)\n  (VP manifestantes/VBZ (NP mientras/NNS cenaba/NN))\n  (PP en/IN (NP un/JJ restaurante/NN))\n  (PP de/IN (NP Washington/NNP D.C/NNP))\n  ./.)",
+      "(S\n  (NP este/NN)\n  (VP martes/VBZ)\n  9/CD\n  (PP de/IN (NP septiembre/NN))\n  ./.)",
+      "(S\n  (NP Un/NNP grupo/NN de/NN mujeres/NNS)\n  ,/,\n  (VP\n    pertenecientes/VBZ\n    (NP a/DT la/NN organización/NN feminista/NN Codepink/NNP))\n  ,/,\n  (NP con/NN banderas/NNS)\n  (VP palestinas/VBP)\n  (VP\n    confrontó/VB\n    (NP a/DT Trump/NNP directamente/NN)\n    (NP a/DT la/NN))\n  entrada/FW\n  (NP del/NN restaurante/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP manifestantes/VBZ)\n  (VP corearon/VBP (NP consignas/NNS))\n  (VP como/VBP (NP “/JJ ¡Palestina/NNP libre/NN))\n  !/.\n  (NP ”/NN)\n  ,/,\n  (NP “/NNP ¡Libertad/NNP para/NN D.C/NNP)\n  ./.)",
+      "(S\n  !/.\n  (NP ”/NN)\n  (NP y/JJ exclamaron/NN)\n  :/:\n  (NP “/JJ ¡Trump/NNP es/NN el/NN Hitler/NNP)\n  de/FW\n  nuestro/FW\n  (NP tiempo/NN)\n  !/.\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protestas de palestina",
+        "position": [
+          1378,
+          1400
+        ],
+        "start": 1378,
+        "end": 1400
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocidio perpetrado por israel, con la franja de gaza",
+        "position": [
+          1449,
+          1503
+        ],
+        "start": 1449,
+        "end": 1503
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1259,
+          1266
+        ],
+        "start": 1259,
+        "end": 1266
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          781,
+          788
+        ],
+        "start": 781,
+        "end": 788
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          749,
+          756
+        ],
+        "start": 749,
+        "end": 756
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de estados",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          174,
+          181
+        ],
+        "start": 174,
+        "end": 181
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de guerra",
+        "position": [
+          1714,
+          1736
+        ],
+        "start": 1714,
+        "end": 1736
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          1641,
+          1647
+        ],
+        "start": 1641,
+        "end": 1647
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          17,
+          31
+        ],
+        "start": 17,
+        "end": 31
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "puerto rico",
+        "position": [
+          1641,
+          1652
+        ],
+        "start": 1641,
+        "end": 1652
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          365,
+          374
+        ],
+        "start": 365,
+        "end": 374
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, marco",
+        "position": [
+          710,
+          723
+        ],
+        "start": 710,
+        "end": 723
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "martes 9 de septiembre",
+        "position": [
+          137,
+          159
+        ],
+        "start": 137,
+        "end": 159
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Marco Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "JD Vance",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Pete Hegseth",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hitler",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Codepink",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Libertad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pentágono",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Washington D.C.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Puerto Rico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento de Guerra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "D.C.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ABUCHEAR",
+        "objeto": "Washington D.C."
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ABUCHEAR",
+        "objeto": "Washington D.C."
+      },
+      {
+        "sujeto": "Codepink",
+        "relacion": "CONFRONTAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "COREAR",
+        "objeto": "Libertad"
+      },
+      {
+        "sujeto": "Libertad",
+        "relacion": "COREAR",
+        "objeto": "Hitler"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "COREAR",
+        "objeto": "D.C."
+      },
+      {
+        "sujeto": "D.C.",
+        "relacion": "COREAR",
+        "objeto": "Hitler"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "CENAR",
+        "objeto": "JD Vance"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "CENAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "CENAR",
+        "objeto": "Pete Hegseth"
+      },
+      {
+        "sujeto": "JD Vance",
+        "relacion": "CENAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "JD Vance",
+        "relacion": "CENAR",
+        "objeto": "Pete Hegseth"
+      },
+      {
+        "sujeto": "Codepink",
+        "relacion": "DECLARAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "CENAR_MARCAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "CENAR_MARCAR",
+        "objeto": "Washington D.C."
+      },
+      {
+        "sujeto": "Casa Blanca",
+        "relacion": "FUERA_CENAR_MARCAR",
+        "objeto": "Washington D.C."
+      },
+      {
+        "sujeto": "Pentágono",
+        "relacion": "AUTODENOMINIR_EXPRESAR",
+        "objeto": "Departamento de Guerra"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

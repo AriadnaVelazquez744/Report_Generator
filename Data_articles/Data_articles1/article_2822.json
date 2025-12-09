@@ -1,0 +1,793 @@
+{
+  "url": "https://www.telesurtv.net/ataques-de-aeronaves-israelies-dejan-19-muertos-en-gaza/",
+  "title": "Ataques de aeronaves israelíes dejan 19 muertos en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Israel",
+    "Muertos"
+  ],
+  "text": "Varios bombardeos aéreos llevados a cabo por Israel en diferentes localidades de la Franja de Gaza, incluyendo refugios y zonas residenciales como Zaynab al-Wazir, Abasan al-Kabira y la calle Al-Beltajj, han dejado un saldo de al menos 19 asesinados en las últimas horas, según informaron fuentes oficiales.\nDe acuerdo con los reportes, uno de los ataques se produjo en una escuela que funciona como refugio en Zaynab al-Wazir, donde murieron ocho palestinos, entre ellos dos niños y dos mujeres, además de un número indeterminado de heridos.\nEn otro incidente, un ataque en el barrio residencial de la calle Al-Beltajj resultó en la muerte de dos personas.\nHasta el momento, las autoridades han logrado evacuar y atender a los heridos de un ataque llevado a cabo por las fuerzas israelíes.\nSin embargo, los bombardeos no cesaron, puesto que en la ciudad de Deir al-Balah, en el centro de Gaza, otros tres palestinos perdieron la vida y varios más resultaron heridos cuando aviones de combate israelíes atacaron una tienda que albergaba a familias desplazadas cerca de la estación de Abu Salim, en el sur de la ciudad.\nAsimismo, en Jan Yunis, al sur de Gaza, un palestino falleció y otros dos sufrieron heridas debido a un ataque aéreo israelí que se dirigió contra una vivienda en Abasan al-Kabira, al este de la ciudad.\nEn la calle Al-Nafaq del barrio de Al-Daraj, también en la ciudad de Gaza, cuatro palestinos murieron y varios más resultaron heridos, según informaron fuentes locales.\nLa agresión israelí persistente contra Gaza desde octubre de 2023 ha dejado hasta ahora al menos 46.006 palestinos muertos y más de 109.378 heridos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-de-aeronaves-israelies-dejan-19-muertos-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1430,
+    "message_id": 84282,
+    "date": "2025-01-12T10:55:12+00:00",
+    "text": "teleSUR\nAtaques de aeronaves israelíes dejan 19 muertos en Gaza\nhttps://www.telesurtv.net/ataques-de-aeronaves-israelies-dejan-19-muertos-en-gaza/",
+    "photo_path": null,
+    "views": 2725,
+    "reactions": {
+      "🤬": 59,
+      "💩": 3,
+      "👍": 1
+    },
+    "total_reactions": 63
+  },
+  "preprocessing": {
+    "cleaned": "varios bombardeos aéreos llevados a cabo por israel en diferentes localidades de la franja de gaza, incluyendo refugios y zonas residenciales como zaynab al-wazir, abasan al-kabira y la calle al-beltajj, han dejado un saldo de al menos 19 asesinados en las últimas horas, según informaron fuentes oficiales. de acuerdo con los reportes, uno de los ataques se produjo en una escuela que funciona como refugio en zaynab al-wazir, donde murieron ocho palestinos, entre ellos dos niños y dos mujeres, además de un número indeterminado de heridos. en otro incidente, un ataque en el barrio residencial de la calle al-beltajj resultó en la muerte de dos personas. hasta el momento, las autoridades han logrado evacuar y atender a los heridos de un ataque llevado a cabo por las fuerzas israelíes. sin embargo, los bombardeos no cesaron, puesto que en la ciudad de deir al-balah, en el centro de gaza, otros tres palestinos perdieron la vida y varios más resultaron heridos cuando aviones de combate israelíes atacaron una tienda que albergaba a familias desplazadas cerca de la estación de abu salim, en el sur de la ciudad. asimismo, en jan yunis, al sur de gaza, un palestino falleció y otros dos sufrieron heridas debido a un ataque aéreo israelí que se dirigió contra una vivienda en abasan al-kabira, al este de la ciudad. en la calle al-nafaq del barrio de al-daraj, también en la ciudad de gaza, cuatro palestinos murieron y varios más resultaron heridos, según informaron fuentes locales. la agresión israelí persistente contra gaza desde octubre de 2023 ha dejado hasta ahora al menos 46.006 palestinos muertos y más de 109.378 heridos.",
+    "tokens": [
+      "varios",
+      "bombardeos",
+      "aéreos",
+      "llevados",
+      "cabo",
+      "israel",
+      "diferentes",
+      "localidades",
+      "franja",
+      "gaza",
+      ",",
+      "incluyendo",
+      "refugios",
+      "zonas",
+      "residenciales",
+      "zaynab",
+      "al-wazir",
+      ",",
+      "abasan",
+      "al-kabira",
+      "calle",
+      "al-beltajj",
+      ",",
+      "dejado",
+      "saldo",
+      "menos",
+      "19",
+      "asesinados",
+      "últimas",
+      "horas",
+      ",",
+      "según",
+      "informaron",
+      "fuentes",
+      "oficiales",
+      ".",
+      "acuerdo",
+      "reportes",
+      ",",
+      "ataques",
+      "produjo",
+      "escuela",
+      "funciona",
+      "refugio",
+      "zaynab",
+      "al-wazir",
+      ",",
+      "murieron",
+      "ocho",
+      "palestinos",
+      ",",
+      "dos",
+      "niños",
+      "dos",
+      "mujeres",
+      ",",
+      "además",
+      "número",
+      "indeterminado",
+      "heridos",
+      ".",
+      "incidente",
+      ",",
+      "ataque",
+      "barrio",
+      "residencial",
+      "calle",
+      "al-beltajj",
+      "resultó",
+      "muerte",
+      "dos",
+      "personas",
+      ".",
+      "momento",
+      ",",
+      "autoridades",
+      "logrado",
+      "evacuar",
+      "atender",
+      "heridos",
+      "ataque",
+      "llevado",
+      "cabo",
+      "fuerzas",
+      "israelíes",
+      ".",
+      "embargo",
+      ",",
+      "bombardeos",
+      "cesaron",
+      ",",
+      "puesto",
+      "ciudad",
+      "deir",
+      "al-balah",
+      ",",
+      "centro",
+      "gaza",
+      ",",
+      "tres",
+      "palestinos",
+      "perdieron",
+      "vida",
+      "varios",
+      "resultaron",
+      "heridos",
+      "aviones",
+      "combate",
+      "israelíes",
+      "atacaron",
+      "tienda",
+      "albergaba",
+      "familias",
+      "desplazadas",
+      "cerca",
+      "estación",
+      "abu",
+      "salim",
+      ",",
+      "sur",
+      "ciudad",
+      ".",
+      "asimismo",
+      ",",
+      "jan",
+      "yunis",
+      ",",
+      "sur",
+      "gaza",
+      ",",
+      "palestino",
+      "falleció",
+      "dos",
+      "sufrieron",
+      "heridas",
+      "debido",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "dirigió",
+      "vivienda",
+      "abasan",
+      "al-kabira",
+      ",",
+      "ciudad",
+      ".",
+      "calle",
+      "al-nafaq",
+      "barrio",
+      "al-daraj",
+      ",",
+      "ciudad",
+      "gaza",
+      ",",
+      "cuatro",
+      "palestinos",
+      "murieron",
+      "varios",
+      "resultaron",
+      "heridos",
+      ",",
+      "según",
+      "informaron",
+      "fuentes",
+      "locales",
+      ".",
+      "agresión",
+      "israelí",
+      "persistente",
+      "gaza",
+      "octubre",
+      "2023",
+      "dejado",
+      "ahora",
+      "menos",
+      "46.006",
+      "palestinos",
+      "muertos",
+      "109.378",
+      "heridos",
+      "."
+    ],
+    "token_count": 181,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 14,
+      "VBP": 12,
+      "JJ": 32,
+      "NN": 93,
+      "NNP": 27,
+      "VBZ": 5,
+      "FW": 50,
+      "VBD": 3,
+      "IN": 15,
+      "CD": 4,
+      "DT": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNS-VBP": 9,
+      "VBP-JJ": 6,
+      "JJ-NN": 23,
+      "NN-NN": 49,
+      "NN-NNP": 1,
+      "NNP-NN": 9,
+      "NN-VBZ": 4,
+      "VBZ-FW": 1,
+      "FW-FW": 26,
+      "FW-NNP": 11,
+      "NNP-FW": 6,
+      "NN-NNS": 7,
+      "VBP-NNS": 1,
+      "VBP-NNP": 1,
+      "NNP-JJ": 6,
+      "JJ-NNP": 4,
+      "NN-VBD": 2,
+      "VBD-NNP": 1,
+      "NN-JJ": 10,
+      "NN-IN": 13,
+      "IN-FW": 7,
+      "FW-CD": 2,
+      "CD-NN": 3,
+      "NN-FW": 6,
+      "FW-NN": 5,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "VBZ-JJ": 1,
+      "JJ-IN": 1,
+      "FW-NNS": 3,
+      "JJ-FW": 2,
+      "FW-JJ": 2,
+      "IN-NNP": 4,
+      "VBP-IN": 1,
+      "IN-JJ": 3,
+      "JJ-JJ": 2,
+      "NNS-NNP": 2,
+      "NNP-VBP": 2,
+      "VBP-NN": 3,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NNS-FW": 1,
+      "FW-VBP": 1,
+      "NNP-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "VBZ-NNS": 1,
+      "IN-CD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 12,
+      "NN-NN-NN": 23,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 8,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 5,
+      "JJ-NN-VBD": 2,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 8,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 2,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-IN": 8,
+      "NN-IN-NNP": 4,
+      "IN-NNP-JJ": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-NNP": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-FW": 2,
+      "NN-NN-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 3,
+      "NN-NN-NNS": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-NNP-JJ": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-FW-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "NN-NNS-FW": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NN-JJ-JJ": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 93,
+        "FW": 50,
+        "JJ": 32,
+        "NNP": 27,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 49,
+        "FW-FW": 26,
+        "JJ-NN": 23,
+        "NN-IN": 13,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "FW-FW-FW": 13,
+        "JJ-NN-NN": 12,
+        "FW-FW-NNP": 8,
+        "NN-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 79,
+      "VP": 21,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0348
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0261
+      },
+      {
+        "rule": "NP -> ('Zaynab', 'NNP') ('al-Wazir', 'NN')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('Abasan', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "VP -> ('calle', 'VBD') NP",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('ataque', 'NN')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "VP -> ('más', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('ciudad', 'NN')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "S -> NP VP ('llevados', 'FW') NP VP ('localidades', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP VP VP (',', ',') NP NP VP (',', ',') NP NP ('de', 'IN') ('al', 'FW') ('menos', 'FW') ('19', 'CD') NP ('en', 'FW') ('las', 'FW') ('últimas', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0087
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Varios"
+      },
+      {
+        "label": "VP",
+        "text": "bombardeos aéreos"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo por Israel en"
+      },
+      {
+        "label": "VP",
+        "text": "diferentes"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "incluyendo refugios"
+      },
+      {
+        "label": "VP",
+        "text": "y zonas residenciales"
+      },
+      {
+        "label": "NP",
+        "text": "zonas residenciales"
+      },
+      {
+        "label": "VP",
+        "text": "como Zaynab al-Wazir"
+      },
+      {
+        "label": "NP",
+        "text": "Zaynab al-Wazir"
+      },
+      {
+        "label": "NP",
+        "text": "Abasan"
+      },
+      {
+        "label": "NP",
+        "text": "al-Kabira y la"
+      },
+      {
+        "label": "VP",
+        "text": "calle Al-Beltajj"
+      },
+      {
+        "label": "NP",
+        "text": "Al-Beltajj"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Varios/NNS)\n  (VP bombardeos/VBP aéreos/JJ)\n  llevados/FW\n  (NP a/DT cabo/NN por/NN Israel/NNP en/NN)\n  (VP diferentes/VBZ)\n  localidades/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP incluyendo/JJ refugios/NNS)\n  (VP y/VBP (NP zonas/JJ residenciales/NNS))\n  (VP como/VBP (NP Zaynab/NNP al-Wazir/NN))\n  ,/,\n  (NP Abasan/NNP)\n  (NP al-Kabira/JJ y/NN la/NN)\n  (VP calle/VBD (NP Al-Beltajj/NNP))\n  ,/,\n  (NP han/NN dejado/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  al/FW\n  menos/FW\n  19/CD\n  (NP asesinados/NN)\n  en/FW\n  las/FW\n  últimas/FW\n  (NP horas/NNS)\n  ,/,\n  (NP según/JJ informaron/NN fuentes/NNS oficiales/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN los/NN reportes/NNS)\n  ,/,\n  uno/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP se/VBP produjo/JJ)\n  en/FW\n  (NP una/JJ escuela/NN que/NN funciona/NN como/NN refugio/NN)\n  (PP en/IN (NP Zaynab/NNP al-Wazir/NN))\n  ,/,\n  (NP donde/NN murieron/NN)\n  (NP ocho/JJ palestinos/NN)\n  ,/,\n  entre/FW\n  ellos/FW\n  dos/FW\n  niños/FW\n  y/FW\n  (NP dos/NN mujeres/NNS)\n  ,/,\n  además/FW\n  de/FW\n  un/FW\n  número/FW\n  indeterminado/FW\n  de/FW\n  heridos/FW\n  ./.)",
+      "(S\n  (NP En/NNP)\n  otro/MD\n  (VP incidente/VB)\n  ,/,\n  (NP un/JJ ataque/NN)\n  en/FW\n  el/FW\n  (NP barrio/NN residencial/NN)\n  de/IN\n  la/FW\n  calle/FW\n  (NP Al-Beltajj/NNP resultó/NN en/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  dos/FW\n  (NP personas/NNS)\n  ./.)",
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  las/FW\n  (NP autoridades/NNS)\n  (VP han/VBP (NP logrado/JJ evacuar/NN y/NN))\n  (VP atender/VBP (NP a/DT los/JJ heridos/NN))\n  (PP de/IN (NP un/JJ ataque/NN))\n  (VP llevado/VBZ (NP a/DT cabo/NN por/NN las/NNS))\n  (VP fuerzas/VBP (NP israelíes/NN))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP los/JJ bombardeos/NN)\n  (NP no/DT cesaron/NN)\n  ,/,\n  (NP puesto/NN que/NN)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Deir/NNP al-Balah/NN)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP otros/JJ tres/NNS)\n  (VP palestinos/VBP (NP perdieron/NN la/NN))\n  vida/FW\n  (NP y/NN varios/NNS)\n  (VP más/VBP (NP resultaron/NN heridos/NN cuando/NN aviones/NNS))\n  de/FW\n  (VP\n    combate/VBP\n    (NP israelíes/JJ atacaron/NN)\n    (NP una/JJ tienda/NN que/NN))\n  (VP albergaba/VBZ (NP a/DT familias/JJ desplazadas/JJ cerca/NN))\n  de/IN\n  la/FW\n  estación/FW\n  de/FW\n  (NP Abu/NNP Salim/NNP)\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP ciudad/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque llevado a cabo por las fuerzas",
+        "position": [
+          742,
+          779
+        ],
+        "start": 742,
+        "end": 779
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque llevado a cabo por las fuerzas israelíes",
+        "position": [
+          742,
+          789
+        ],
+        "start": 742,
+        "end": 789
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con los reportes, uno de los ataques se produjo en una escuela que funciona como refugio en zaynab al-wazir, donde murieron ocho palestinos, entre ellos dos niños y dos",
+        "position": [
+          311,
+          487
+        ],
+        "start": 311,
+        "end": 487
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          488,
+          495
+        ],
+        "start": 488,
+        "end": 495
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela que funciona",
+        "position": [
+          374,
+          394
+        ],
+        "start": 374,
+        "end": 394
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "calle",
+        "position": [
+          186,
+          191
+        ],
+        "start": 186,
+        "end": 191
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          374,
+          381
+        ],
+        "start": 374,
+        "end": 381
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "estación",
+        "position": [
+          1072,
+          1080
+        ],
+        "start": 1072,
+        "end": 1080
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          1236,
+          1243
+        ],
+        "start": 1236,
+        "end": 1243
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "calle al",
+        "position": [
+          186,
+          194
+        ],
+        "start": 186,
+        "end": 194
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          879,
+          888
+        ],
+        "start": 879,
+        "end": 888
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela que",
+        "position": [
+          374,
+          385
+        ],
+        "start": 374,
+        "end": 385
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          795,
+          802
+        ],
+        "start": 795,
+        "end": 802
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 109.378",
+        "position": [
+          1616,
+          1630
+        ],
+        "start": 1616,
+        "end": 1630
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Abu Salim",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "calle Al-Beltajj",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zaynab al-Wazir",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Abasan al-Kabira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Deir al-Balah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Nafaq",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Daraj",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Deir al-Balah",
+        "relacion": "CESAR_PERDER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Deir al-Balah",
+        "relacion": "CESAR_PERDER",
+        "objeto": "Abu Salim"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "CESAR_PERDER",
+        "objeto": "Abu Salim"
+      },
+      {
+        "sujeto": "Jan Yunis",
+        "relacion": "FALLECER",
+        "objeto": "Abasan al-Kabira"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "FALLECER",
+        "objeto": "Abasan al-Kabira"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.009,
+    "neu": 0.969,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

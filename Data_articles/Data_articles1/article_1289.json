@@ -1,0 +1,908 @@
+{
+  "url": "https://www.telesurtv.net/ucrania-ataca-un-oleoducto-en-hungria/",
+  "title": "Hungría denuncia ataque de Ucrania a un oleoducto que le suministra petróleo ruso - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "energía",
+    "Hungría",
+    "Ucrania"
+  ],
+  "text": "Hungría ha denunciado este lunes 18 de agosto un nuevo ataque contra su seguridad energética, después de que un oleoducto vital para el suministro de petróleo fuera alcanzado por las fuerzas ucranianas. El ministro de Exteriores, Peter Szijjarto, calificó el ataque de “indignante e inaceptable”, subrayando que la interrupción del suministro de combustible afecta gravemente a la estabilidad energética del país.\n\nA través de un mensaje en su cuenta de X, el canciller húngaro afirmó que, según información del viceministro de Energía ruso, Pável Sorokin, expertos están trabajando para reparar los daños en una subestación eléctrica clave para el funcionamiento del oleoducto. Sin embargo, no hay un plazo definido para la restauración del servicio.\n“Este ataque forma parte de los intentos continuos de Bruselas y Kiev por arrastrar a Hungría al conflicto ucraniano”, dijo Szijjarto, quien reiteró que su nación se mantendrá al margen de la guerra. “Mientras estemos al mando, Hungría no participará en este conflicto”, insistió.\nAdemás, el ministro húngaro alertó a las autoridades ucranianas sobre la importancia de la electricidad que su país suministra a Ucrania, advirtiendo que cualquier acto que ponga en riesgo esta cooperación tendría graves repercusiones para los intereses ucranianos.\nPor su parte, Rusia no tardó en reaccionar, y la portavoz del Ministerio de Exteriores, María Zajárova, calificó al Gobierno de Kiev como un “monstruo inmoral y sanguinario”. En declaraciones recientes, Zajárova acusó a Ucrania de llevar a cabo atentados en diversas regiones del mundo, señalando sus operaciones en África, Oriente Medio y el tráfico de armas y órganos en Europa.\nEste nuevo episodio en la guerra energética entre Ucrania y Hungría refleja las tensiones crecientes en la región, mientras las naciones europeas continúan enfrentando las consecuencias indirectas del conflicto en Ucrania.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ucrania-ataca-un-oleoducto-en-hungria/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1034,
+    "message_id": 102080,
+    "date": "2025-08-18T13:55:18+00:00",
+    "text": "teleSUR\nHungría denuncia ataque de Ucrania a un oleoducto que le suministra petróleo ruso\nhttps://www.telesurtv.net/ucrania-ataca-un-oleoducto-en-hungria/",
+    "photo_path": null,
+    "views": 2129,
+    "reactions": {
+      "🤬": 45,
+      "❤": 5,
+      "😁": 1
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "hungría ha denunciado este lunes 18 de agosto un nuevo ataque contra su seguridad energética, después de que un oleoducto vital para el suministro de petróleo fuera alcanzado por las fuerzas ucranianas. el ministro de exteriores, peter szijjarto, calificó el ataque de “indignante e inaceptable”, subrayando que la interrupción del suministro de combustible afecta gravemente a la estabilidad energética del país. a través de un mensaje en su cuenta de x, el canciller húngaro afirmó que, según información del viceministro de energía ruso, pável sorokin, expertos están trabajando para reparar los daños en una subestación eléctrica clave para el funcionamiento del oleoducto. sin embargo, no hay un plazo definido para la restauración del servicio. “este ataque forma parte de los intentos continuos de bruselas y kiev por arrastrar a hungría al conflicto ucraniano”, dijo szijjarto, quien reiteró que su nación se mantendrá al margen de la guerra. “mientras estemos al mando, hungría no participará en este conflicto”, insistió. además, el ministro húngaro alertó a las autoridades ucranianas sobre la importancia de la electricidad que su país suministra a ucrania, advirtiendo que cualquier acto que ponga en riesgo esta cooperación tendría graves repercusiones para los intereses ucranianos. por su parte, rusia no tardó en reaccionar, y la portavoz del ministerio de exteriores, maría zajárova, calificó al gobierno de kiev como un “monstruo inmoral y sanguinario”. en declaraciones recientes, zajárova acusó a ucrania de llevar a cabo atentados en diversas regiones del mundo, señalando sus operaciones en áfrica, oriente medio y el tráfico de armas y órganos en europa. este nuevo episodio en la guerra energética entre ucrania y hungría refleja las tensiones crecientes en la región, mientras las naciones europeas continúan enfrentando las consecuencias indirectas del conflicto en ucrania.",
+    "tokens": [
+      "hungría",
+      "denunciado",
+      "lunes",
+      "18",
+      "agosto",
+      "nuevo",
+      "ataque",
+      "seguridad",
+      "energética",
+      ",",
+      "después",
+      "oleoducto",
+      "vital",
+      "suministro",
+      "petróleo",
+      "alcanzado",
+      "fuerzas",
+      "ucranianas",
+      ".",
+      "ministro",
+      "exteriores",
+      ",",
+      "peter",
+      "szijjarto",
+      ",",
+      "calificó",
+      "ataque",
+      "“",
+      "indignante",
+      "inaceptable",
+      "”",
+      ",",
+      "subrayando",
+      "interrupción",
+      "suministro",
+      "combustible",
+      "afecta",
+      "gravemente",
+      "estabilidad",
+      "energética",
+      "país",
+      ".",
+      "través",
+      "mensaje",
+      "cuenta",
+      "x",
+      ",",
+      "canciller",
+      "húngaro",
+      "afirmó",
+      ",",
+      "según",
+      "información",
+      "viceministro",
+      "energía",
+      "ruso",
+      ",",
+      "pável",
+      "sorokin",
+      ",",
+      "expertos",
+      "trabajando",
+      "reparar",
+      "daños",
+      "subestación",
+      "eléctrica",
+      "clave",
+      "funcionamiento",
+      "oleoducto",
+      ".",
+      "embargo",
+      ",",
+      "plazo",
+      "definido",
+      "restauración",
+      "servicio",
+      ".",
+      "“",
+      "ataque",
+      "forma",
+      "parte",
+      "intentos",
+      "continuos",
+      "bruselas",
+      "kiev",
+      "arrastrar",
+      "hungría",
+      "conflicto",
+      "ucraniano",
+      "”",
+      ",",
+      "dijo",
+      "szijjarto",
+      ",",
+      "reiteró",
+      "nación",
+      "mantendrá",
+      "margen",
+      "guerra",
+      ".",
+      "“",
+      "mientras",
+      "mando",
+      ",",
+      "hungría",
+      "participará",
+      "conflicto",
+      "”",
+      ",",
+      "insistió",
+      ".",
+      "además",
+      ",",
+      "ministro",
+      "húngaro",
+      "alertó",
+      "autoridades",
+      "ucranianas",
+      "importancia",
+      "electricidad",
+      "país",
+      "suministra",
+      "ucrania",
+      ",",
+      "advirtiendo",
+      "cualquier",
+      "acto",
+      "ponga",
+      "riesgo",
+      "cooperación",
+      "graves",
+      "repercusiones",
+      "intereses",
+      "ucranianos",
+      ".",
+      "parte",
+      ",",
+      "rusia",
+      "tardó",
+      "reaccionar",
+      ",",
+      "portavoz",
+      "ministerio",
+      "exteriores",
+      ",",
+      "maría",
+      "zajárova",
+      ",",
+      "calificó",
+      "gobierno",
+      "kiev",
+      "“",
+      "monstruo",
+      "inmoral",
+      "sanguinario",
+      "”",
+      ".",
+      "declaraciones",
+      "recientes",
+      ",",
+      "zajárova",
+      "acusó",
+      "ucrania",
+      "llevar",
+      "cabo",
+      "atentados",
+      "diversas",
+      "regiones",
+      "mundo",
+      ",",
+      "señalando",
+      "operaciones",
+      "áfrica",
+      ",",
+      "oriente",
+      "medio",
+      "tráfico",
+      "armas",
+      "órganos",
+      "europa",
+      ".",
+      "nuevo",
+      "episodio",
+      "guerra",
+      "energética",
+      "ucrania",
+      "hungría",
+      "refleja",
+      "tensiones",
+      "crecientes",
+      "región",
+      ",",
+      "mientras",
+      "naciones",
+      "europeas",
+      "continúan",
+      "enfrentando",
+      "consecuencias",
+      "indirectas",
+      "conflicto",
+      "ucrania",
+      "."
+    ],
+    "token_count": 202,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "NN": 95,
+      "VBZ": 6,
+      "CD": 1,
+      "IN": 14,
+      "FW": 73,
+      "JJ": 24,
+      "NNS": 10,
+      "VBP": 7,
+      "VBN": 1,
+      "DT": 3,
+      "RB": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-NN": 53,
+      "NN-VBZ": 2,
+      "VBZ-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 6,
+      "FW-JJ": 6,
+      "JJ-NN": 14,
+      "NN-JJ": 5,
+      "NN-FW": 10,
+      "FW-FW": 48,
+      "JJ-FW": 3,
+      "FW-NN": 10,
+      "NN-NNS": 6,
+      "NNS-VBP": 3,
+      "VBP-JJ": 4,
+      "JJ-NNP": 3,
+      "FW-NNP": 8,
+      "NNP-NNP": 10,
+      "NN-IN": 9,
+      "NNP-VBP": 2,
+      "VBP-NNP": 2,
+      "IN-JJ": 3,
+      "NN-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "NN-NNP": 8,
+      "NNP-VBZ": 3,
+      "VBZ-DT": 1,
+      "DT-NN": 3,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "IN-NNP": 4,
+      "NNP-FW": 4,
+      "NNP-DT": 2,
+      "VBZ-NN": 1,
+      "VBZ-FW": 1,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "NNS-JJ": 1,
+      "NNP-IN": 1,
+      "JJ-JJ": 2,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 1,
+      "JJ-NNS": 2,
+      "NNS-FW": 1,
+      "NNP-JJ": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "FW-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 26,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 5,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 2,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 34,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 6,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 6,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NN": 1,
+      "NN-NN-NNP": 6,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "FW-NNP-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NN-NNP-NN": 2,
+      "JJ-NN-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "NN-NNP-DT": 2,
+      "NNP-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "DT-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-FW": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 95,
+        "FW": 73,
+        "NNP": 37,
+        "JJ": 24,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 48,
+        "JJ-NN": 14,
+        "NNP-NN": 13,
+        "NN-FW": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 26,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 8,
+        "NN-FW-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 84,
+      "VP": 18,
+      "ADJP": 2,
+      "PP": 12
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0476
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0397
+      },
+      {
+        "rule": "NP -> ('Hungría', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Ucrania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Ucrania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP VP ('18', 'CD') ('de', 'IN') ('agosto', 'FW') NP NP (',', ',') ('después', 'FW') ('de', 'FW') ('que', 'FW') ADJP ('oleoducto', 'FW') NP ('el', 'FW') ('suministro', 'FW') ('de', 'FW') ('petróleo', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Hungría', 'NNP') ('ha', 'NN') ('denunciado', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "VP -> ('lunes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('nuevo', 'NN') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('su', 'NN') ('seguridad', 'NN') ('energética', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Hungría ha denunciado este"
+      },
+      {
+        "label": "VP",
+        "text": "lunes"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo ataque"
+      },
+      {
+        "label": "NP",
+        "text": "contra su seguridad energética"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "vital para"
+      },
+      {
+        "label": "NP",
+        "text": "fuera alcanzado por las"
+      },
+      {
+        "label": "VP",
+        "text": "fuerzas ucranianas"
+      },
+      {
+        "label": "NP",
+        "text": "El ministro de Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Peter Szijjarto"
+      },
+      {
+        "label": "NP",
+        "text": "calificó el ataque"
+      },
+      {
+        "label": "PP",
+        "text": "de “ indignante e"
+      },
+      {
+        "label": "NP",
+        "text": "“ indignante e"
+      },
+      {
+        "label": "NP",
+        "text": "inaceptable ”"
+      },
+      {
+        "label": "NP",
+        "text": "subrayando que la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Hungría/NNP ha/NN denunciado/NN este/NN)\n  (VP lunes/VBZ)\n  18/CD\n  de/IN\n  agosto/FW\n  (NP un/JJ nuevo/NN ataque/NN)\n  (NP contra/JJ su/NN seguridad/NN energética/NN)\n  ,/,\n  después/FW\n  de/FW\n  que/FW\n  (ADJP un/JJ)\n  oleoducto/FW\n  (NP vital/JJ para/NN)\n  el/FW\n  suministro/FW\n  de/FW\n  petróleo/FW\n  (NP fuera/NN alcanzado/NN por/NN las/NNS)\n  (VP fuerzas/VBP ucranianas/JJ)\n  ./.)",
+      "(S\n  (NP El/NNP ministro/NN de/NN Exteriores/NNP)\n  ,/,\n  (NP Peter/NNP Szijjarto/NNP)\n  ,/,\n  (NP calificó/NN el/NN ataque/NN)\n  (PP de/IN (NP “/NNP indignante/NN e/NN))\n  (NP inaceptable/JJ ”/NN)\n  ,/,\n  (NP subrayando/NN que/NN la/NN)\n  (ADJP interrupción/JJ)\n  del/FW\n  suministro/FW\n  de/FW\n  (NP combustible/JJ afecta/NN)\n  (VP\n    gravemente/VBD\n    (NP a/DT la/NN estabilidad/NN energética/NN del/NN país/NN))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ mensaje/NN))\n  (PP en/IN (NP su/JJ cuenta/NN))\n  (PP de/IN (NP X/NNP))\n  ,/,\n  (VP el/VBZ (NP canciller/NN húngaro/NN afirmó/NN que/NN))\n  ,/,\n  (NP según/JJ información/NN)\n  del/FW\n  viceministro/FW\n  de/FW\n  (NP Energía/NNP ruso/NN)\n  ,/,\n  (NP Pável/NNP Sorokin/NNP)\n  ,/,\n  (NP expertos/NN)\n  están/FW\n  (NP trabajando/NN para/NN reparar/NN los/NN daños/NN)\n  (PP en/IN (NP una/JJ subestación/NN eléctrica/NN))\n  (VP clave/VBP)\n  (VP para/VBN (NP el/JJ funcionamiento/NN del/NN oleoducto/NN))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP no/DT hay/NN)\n  un/RB\n  (NP plazo/JJ definido/NN para/NN la/NN)\n  restauración/FW\n  del/FW\n  (NP servicio/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Este/NNP ataque/NN forma/NN parte/NN)\n  de/IN\n  los/FW\n  (NP intentos/JJ continuos/NN)\n  (PP de/IN (NP Bruselas/NNP))\n  y/CC\n  (NP Kiev/NNP)\n  (VP por/VBP)\n  (VP\n    arrastrar/VBZ\n    (NP a/DT Hungría/NNP al/NN conflicto/NN)\n    (NP ucraniano/JJ ”/NNP))\n  ,/,\n  (NP dijo/NN Szijjarto/NNP)\n  ,/,\n  (NP quien/NN reiteró/NN que/NN su/NN)\n  nación/FW\n  se/FW\n  mantendrá/FW\n  al/FW\n  margen/FW\n  de/FW\n  la/FW\n  guerra/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "ACCIONES_LEGALES",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque contra su seguridad energética, después de que un oleoducto vital para el suministro de petróleo fuera alcanzado por las fuerzas",
+        "position": [
+          55,
+          190
+        ],
+        "start": 55,
+        "end": 190
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto ucraniano”, dijo szijjarto, quien reiteró que su nación se mantendrá al margen de la guerra. “mientras estemos al mando, hungría no participará en este",
+        "position": [
+          849,
+          1010
+        ],
+        "start": 849,
+        "end": 1010
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque forma parte de los intentos continuos de bruselas y kiev por arrastrar a hungría al conflicto ucraniano",
+        "position": [
+          758,
+          868
+        ],
+        "start": 758,
+        "end": 868
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "acusó a",
+        "position": [
+          1511,
+          1518
+        ],
+        "start": 1511,
+        "end": 1518
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          478,
+          484
+        ],
+        "start": 478,
+        "end": 484
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          1061,
+          1067
+        ],
+        "start": 1061,
+        "end": 1067
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "tráfico de armas",
+        "position": [
+          1642,
+          1658
+        ],
+        "start": 1642,
+        "end": 1658
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de kiev como",
+        "position": [
+          1415,
+          1436
+        ],
+        "start": 1415,
+        "end": 1436
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de exteriores",
+        "position": [
+          206,
+          228
+        ],
+        "start": 206,
+        "end": 228
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusó",
+        "position": [
+          1511,
+          1516
+        ],
+        "start": 1511,
+        "end": 1516
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          528,
+          535
+        ],
+        "start": 528,
+        "end": 535
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          1162,
+          1169
+        ],
+        "start": 1162,
+        "end": 1169
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          817,
+          821
+        ],
+        "start": 817,
+        "end": 821
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, mientras",
+        "position": [
+          1787,
+          1803
+        ],
+        "start": 1787,
+        "end": 1803
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 18 de agosto",
+        "position": [
+          27,
+          45
+        ],
+        "start": 27,
+        "end": 45
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          683,
+          690
+        ],
+        "start": 683,
+        "end": 690
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Energía ruso",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hungría",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Peter Szijjarto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Szijjarto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zajárova",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "María Zajárova",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Oriente Medio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bruselas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pável Sorokin",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Szijjarto",
+        "relacion": "FORMAR_DECIR",
+        "objeto": "Bruselas"
+      },
+      {
+        "sujeto": "Szijjarto",
+        "relacion": "FORMAR_DECIR",
+        "objeto": "Kiev"
+      },
+      {
+        "sujeto": "Szijjarto",
+        "relacion": "ARRASTRAR_FORMAR_DECIR",
+        "objeto": "Hungría"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "TARDAR",
+        "objeto": "Ministerio de Exteriores"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "TARDAR",
+        "objeto": "María Zajárova"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "TARDAR",
+        "objeto": "Gobierno de Kiev"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores",
+        "relacion": "CALIFICAR_TARDAR",
+        "objeto": "Gobierno de Kiev"
+      },
+      {
+        "sujeto": "María Zajárova",
+        "relacion": "CALIFICAR_TARDAR",
+        "objeto": "Gobierno de Kiev"
+      },
+      {
+        "sujeto": "Zajárova",
+        "relacion": "ACUSAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Zajárova",
+        "relacion": "ACUSAR",
+        "objeto": "África"
+      },
+      {
+        "sujeto": "Zajárova",
+        "relacion": "ACUSAR",
+        "objeto": "Oriente Medio"
+      },
+      {
+        "sujeto": "Zajárova",
+        "relacion": "ACUSAR",
+        "objeto": "Europa"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "ACUSAR",
+        "objeto": "África"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "ACUSAR",
+        "objeto": "Oriente Medio"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "ACUSAR",
+        "objeto": "Europa"
+      },
+      {
+        "sujeto": "Hungría",
+        "relacion": "REFLEJAR",
+        "objeto": "Ucrania"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7783,
+    "pos": 0.016,
+    "neu": 0.94,
+    "neg": 0.044,
+    "label": "negative"
+  }
+}

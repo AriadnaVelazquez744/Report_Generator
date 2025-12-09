@@ -1,0 +1,801 @@
+{
+  "url": "https://www.telesurtv.net/putin-pide-fortalecer-integracion-de-las-nuevas-regiones-en-el-marco-juridico-de-rusia/",
+  "title": "Putin pide fortalecer integración de las nuevas regiones en el marco jurídico de Rusia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Rusia",
+    "Vladímir Putin"
+  ],
+  "text": "El presidente de Rusia, Vladímir Putin, enfatizó la necesidad de mantener la incorporación de las repúblicas populares de Donetsk y Lugansk, junto con las zonas de Jersón y Zaporozhie, en el sistema legal unificado de la nación, además de respaldar su reconstrucción social y económica.\n“Es necesario continuar trabajando en la integración de las repúblicas populares de Donetsk y Lugansk, las regiones de Zaporozhie y Jersón en el espacio jurídico único de Rusia y, por supuesto, brindar toda la ayuda posible para su reactivación social y económica”, dijo Putin en un mensaje pronunciado con motivo del día del funcionario de la Fiscalía.\nAdemás, el jefe de Estado exhortó a la Fiscalía General de Rusia a enfocarse de manera especial en las dificultades de los habitantes en estas zonas, la región de Kursk y otras zonas próximas a la frontera con Ucrania.\nA finales de septiembre de 2022, las repúblicas de Donetsk y Lugansk, junto con las regiones de Jersón y Zaporozhie, que anteriormente eran parte de Ucrania, se unieron a Rusia después de realizar dos referendos de autodeterminación.\nDesde el 24 de febrero de 2022, Rusia mantiene una operación militar especial en Ucrania, con la finalidad de salvaguardar a la población de un genocidio realizado por Kiev y frenar los peligros para la seguridad nacional que supone el progreso de la OTAN hacia el este.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/putin-pide-fortalecer-integracion-de-las-nuevas-regiones-en-el-marco-juridico-de-rusia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1431,
+    "message_id": 84281,
+    "date": "2025-01-12T10:55:07+00:00",
+    "text": "teleSUR\nPutin pide fortalecer integración de las nuevas regiones en el marco jurídico de Rusia\nhttps://www.telesurtv.net/putin-pide-fortalecer-integracion-de-las-nuevas-regiones-en-el-marco-juridico-de-rusia/",
+    "photo_path": null,
+    "views": 2640,
+    "reactions": {
+      "👍": 62,
+      "👏": 12,
+      "❤": 4,
+      "🤮": 1
+    },
+    "total_reactions": 79
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de rusia, vladímir putin, enfatizó la necesidad de mantener la incorporación de las repúblicas populares de donetsk y lugansk, junto con las zonas de jersón y zaporozhie, en el sistema legal unificado de la nación, además de respaldar su reconstrucción social y económica. “es necesario continuar trabajando en la integración de las repúblicas populares de donetsk y lugansk, las regiones de zaporozhie y jersón en el espacio jurídico único de rusia y, por supuesto, brindar toda la ayuda posible para su reactivación social y económica”, dijo putin en un mensaje pronunciado con motivo del día del funcionario de la fiscalía. además, el jefe de estado exhortó a la fiscalía general de rusia a enfocarse de manera especial en las dificultades de los habitantes en estas zonas, la región de kursk y otras zonas próximas a la frontera con ucrania. a finales de septiembre de 2022, las repúblicas de donetsk y lugansk, junto con las regiones de jersón y zaporozhie, que anteriormente eran parte de ucrania, se unieron a rusia después de realizar dos referendos de autodeterminación. desde el 24 de febrero de 2022, rusia mantiene una operación militar especial en ucrania, con la finalidad de salvaguardar a la población de un genocidio realizado por kiev y frenar los peligros para la seguridad nacional que supone el progreso de la otan hacia el este.",
+    "tokens": [
+      "presidente",
+      "rusia",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "enfatizó",
+      "necesidad",
+      "mantener",
+      "incorporación",
+      "repúblicas",
+      "populares",
+      "donetsk",
+      "lugansk",
+      ",",
+      "junto",
+      "zonas",
+      "jersón",
+      "zaporozhie",
+      ",",
+      "sistema",
+      "legal",
+      "unificado",
+      "nación",
+      ",",
+      "además",
+      "respaldar",
+      "reconstrucción",
+      "social",
+      "económica",
+      ".",
+      "“",
+      "necesario",
+      "continuar",
+      "trabajando",
+      "integración",
+      "repúblicas",
+      "populares",
+      "donetsk",
+      "lugansk",
+      ",",
+      "regiones",
+      "zaporozhie",
+      "jersón",
+      "espacio",
+      "jurídico",
+      "único",
+      "rusia",
+      ",",
+      "supuesto",
+      ",",
+      "brindar",
+      "toda",
+      "ayuda",
+      "posible",
+      "reactivación",
+      "social",
+      "económica",
+      "”",
+      ",",
+      "dijo",
+      "putin",
+      "mensaje",
+      "pronunciado",
+      "motivo",
+      "día",
+      "funcionario",
+      "fiscalía",
+      ".",
+      "además",
+      ",",
+      "jefe",
+      "exhortó",
+      "fiscalía",
+      "general",
+      "rusia",
+      "enfocarse",
+      "manera",
+      "especial",
+      "dificultades",
+      "habitantes",
+      "zonas",
+      ",",
+      "región",
+      "kursk",
+      "zonas",
+      "próximas",
+      "frontera",
+      "ucrania",
+      ".",
+      "finales",
+      "septiembre",
+      "2022",
+      ",",
+      "repúblicas",
+      "donetsk",
+      "lugansk",
+      ",",
+      "junto",
+      "regiones",
+      "jersón",
+      "zaporozhie",
+      ",",
+      "anteriormente",
+      "parte",
+      "ucrania",
+      ",",
+      "unieron",
+      "rusia",
+      "después",
+      "realizar",
+      "dos",
+      "referendos",
+      "autodeterminación",
+      ".",
+      "24",
+      "febrero",
+      "2022",
+      ",",
+      "rusia",
+      "mantiene",
+      "operación",
+      "militar",
+      "especial",
+      "ucrania",
+      ",",
+      "finalidad",
+      "salvaguardar",
+      "población",
+      "genocidio",
+      "realizado",
+      "kiev",
+      "frenar",
+      "peligros",
+      "seguridad",
+      "nacional",
+      "supone",
+      "progreso",
+      "otan",
+      "hacia",
+      "."
+    ],
+    "token_count": 141,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "NN": 62,
+      "FW": 67,
+      "NNS": 5,
+      "IN": 14,
+      "JJ": 12,
+      "VBP": 2,
+      "VBZ": 2,
+      "CC": 1,
+      "CD": 3,
+      "VBD": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 8,
+      "FW-NNP": 9,
+      "NNP-NNP": 12,
+      "NN-NN": 33,
+      "FW-FW": 44,
+      "FW-NN": 7,
+      "NN-NNS": 2,
+      "NNS-IN": 5,
+      "IN-NNP": 7,
+      "NNP-FW": 7,
+      "FW-JJ": 3,
+      "JJ-NN": 9,
+      "NN-IN": 7,
+      "IN-FW": 5,
+      "FW-VBP": 1,
+      "VBP-JJ": 2,
+      "NN-NNP": 6,
+      "NNP-JJ": 2,
+      "JJ-NNS": 2,
+      "NN-VBP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "VBZ-FW": 1,
+      "FW-IN": 2,
+      "IN-CD": 2,
+      "CD-JJ": 1,
+      "NN-JJ": 2,
+      "NN-VBD": 2,
+      "VBD-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-FW": 1,
+      "CD-NNP": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 10,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 30,
+      "FW-FW-NN": 4,
+      "FW-NN-NNS": 2,
+      "NN-NNS-IN": 2,
+      "NNS-IN-NNP": 4,
+      "IN-NNP-NNP": 5,
+      "FW-FW-NNP": 4,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 3,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NN-NN-NN": 17,
+      "NN-NN-IN": 2,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "FW-NN-FW": 1,
+      "FW-NNP-NN": 3,
+      "NN-FW-JJ": 1,
+      "JJ-NN-NN": 5,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-NNP": 2,
+      "NNP-FW-NN": 2,
+      "NN-IN-NNP": 3,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-NNP": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-IN": 2,
+      "FW-IN-CD": 2,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "IN-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-JJ-NN": 1,
+      "NN-JJ-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 67,
+        "NN": 62,
+        "NNP": 37,
+        "IN": 14,
+        "JJ": 12
+      },
+      "top_bigrams": {
+        "FW-FW": 44,
+        "NN-NN": 33,
+        "NNP-NN": 12,
+        "NNP-NNP": 12,
+        "FW-NNP": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 30,
+        "NN-NN-NN": 17,
+        "NNP-NN-NN": 10,
+        "NN-NN-FW": 5,
+        "NN-FW-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 12,
+      "PP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0759
+      },
+      {
+        "rule": "NP -> ('repúblicas', 'NN') ('populares', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('Donetsk', 'NNP') ('y', 'NNP') ('Lugansk', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('junto', 'NN') ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('regiones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') VP ('necesidad', 'FW') ('de', 'FW') ('mantener', 'FW') ('la', 'FW') ('incorporación', 'FW') ('de', 'FW') ('las', 'FW') NP PP (',', ',') NP ('las', 'FW') ('zonas', 'FW') ('de', 'FW') NP ('y', 'CC') NP (',', ',') ('en', 'FW') ('el', 'FW') ('sistema', 'FW') NP ('de', 'IN') ('la', 'FW') ('nación', 'FW') (',', ',') ('además', 'FW') ('de', 'FW') ('respaldar', 'FW') ('su', 'FW') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Vladímir', 'NNP') ('Putin', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('enfatizó', 'VBZ') ('la', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Putin"
+      },
+      {
+        "label": "VP",
+        "text": "enfatizó la"
+      },
+      {
+        "label": "NP",
+        "text": "repúblicas populares"
+      },
+      {
+        "label": "PP",
+        "text": "de Donetsk y Lugansk"
+      },
+      {
+        "label": "NP",
+        "text": "Donetsk y Lugansk"
+      },
+      {
+        "label": "NP",
+        "text": "junto con"
+      },
+      {
+        "label": "NP",
+        "text": "Jersón"
+      },
+      {
+        "label": "NP",
+        "text": "Zaporozhie"
+      },
+      {
+        "label": "NP",
+        "text": "legal unificado"
+      },
+      {
+        "label": "VP",
+        "text": "reconstrucción social y económica"
+      },
+      {
+        "label": "NP",
+        "text": "social y económica"
+      },
+      {
+        "label": "NP",
+        "text": "“ Es necesario continuar trabajando"
+      },
+      {
+        "label": "NP",
+        "text": "repúblicas populares"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (VP enfatizó/VBZ la/JJ)\n  necesidad/FW\n  de/FW\n  mantener/FW\n  la/FW\n  incorporación/FW\n  de/FW\n  las/FW\n  (NP repúblicas/NN populares/NNS)\n  (PP de/IN (NP Donetsk/NNP y/NNP Lugansk/NNP))\n  ,/,\n  (NP junto/NN con/NN)\n  las/FW\n  zonas/FW\n  de/FW\n  (NP Jersón/NNP)\n  y/CC\n  (NP Zaporozhie/NNP)\n  ,/,\n  en/FW\n  el/FW\n  sistema/FW\n  (NP legal/JJ unificado/NN)\n  de/IN\n  la/FW\n  nación/FW\n  ,/,\n  además/FW\n  de/FW\n  respaldar/FW\n  su/FW\n  (VP reconstrucción/VBP (NP social/JJ y/NN económica/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Es/NNP necesario/NN continuar/NN trabajando/NN)\n  en/IN\n  la/FW\n  integración/FW\n  de/FW\n  las/FW\n  (NP repúblicas/NN populares/NNS)\n  (PP de/IN (NP Donetsk/NNP y/NNP Lugansk/NNP))\n  ,/,\n  (NP las/JJ regiones/NNS)\n  (PP de/IN (NP Zaporozhie/NNP y/NNP Jersón/NNP))\n  en/FW\n  el/FW\n  espacio/FW\n  (NP jurídico/NN)\n  único/FW\n  de/FW\n  (NP Rusia/NNP y/NN)\n  ,/,\n  (NP por/NN supuesto/NN)\n  ,/,\n  (NP brindar/NN toda/NN la/NN)\n  ayuda/FW\n  (NP posible/JJ para/NN su/NN)\n  (VP reactivación/VBP (NP social/JJ y/NN económica/NN ”/NNP))\n  ,/,\n  (NP dijo/NN Putin/NNP)\n  (VP\n    en/VBZ\n    (NP\n      un/JJ\n      mensaje/NN\n      pronunciado/NN\n      con/NN\n      motivo/NN\n      del/NN\n      día/NN))\n  del/FW\n  (NP funcionario/NN)\n  de/IN\n  la/FW\n  (NP Fiscalía/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP el/JJ jefe/NN)\n  (PP de/IN (NP Estado/NNP))\n  (VP\n    exhortó/VBD\n    (NP a/DT la/NN Fiscalía/NNP General/NNP de/NNP Rusia/NNP)\n    (NP a/DT enfocarse/NN))\n  de/IN\n  manera/FW\n  (ADJP especial/JJ)\n  en/FW\n  las/FW\n  dificultades/FW\n  de/FW\n  los/FW\n  (NP habitantes/NNS)\n  (PP en/IN (NP estas/JJ zonas/NN))\n  ,/,\n  la/FW\n  región/FW\n  de/FW\n  (NP Kursk/NNP)\n  y/CC\n  (NP otras/JJ zonas/NN)\n  (VP próximas/VBZ (NP a/DT la/NN frontera/NN con/NN Ucrania/NNP))\n  ./.)",
+      "(S\n  (NP A/DT finales/NNS)\n  de/FW\n  septiembre/FW\n  de/IN\n  2022/CD\n  ,/,\n  las/FW\n  repúblicas/FW\n  de/FW\n  (NP Donetsk/NNP)\n  y/CC\n  (NP Lugansk/NNP)\n  ,/,\n  (NP junto/NN con/NN)\n  (NP las/JJ regiones/NNS)\n  (PP de/IN (NP Jersón/NNP y/NNP Zaporozhie/NNP))\n  ,/,\n  (NP que/NN anteriormente/NN)\n  (VP eran/VBD (NP parte/NN))\n  (PP de/IN (NP Ucrania/NNP))\n  ,/,\n  (VP se/VBZ)\n  (VP unieron/VBP (NP a/DT Rusia/NNP después/NN))\n  de/FW\n  realizar/FW\n  dos/FW\n  referendos/FW\n  de/FW\n  autodeterminación/FW\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  (VP el/VBD)\n  24/CD\n  de/FW\n  febrero/FW\n  de/IN\n  2022/CD\n  ,/,\n  (NP Rusia/NNP mantiene/NNP)\n  (NP una/JJ operación/NN militar/NN)\n  (NP especial/JJ en/NN Ucrania/NNP)\n  ,/,\n  (NP con/NN)\n  la/FW\n  finalidad/FW\n  de/FW\n  salvaguardar/FW\n  a/DT\n  la/FW\n  población/FW\n  de/FW\n  un/FW\n  (NP genocidio/NN realizado/NN por/NN Kiev/NNP y/NNP)\n  (VP frenar/VBD (NP los/JJ peligros/NNS))\n  (VP\n    para/VBP\n    (NP\n      la/JJ\n      seguridad/JJ\n      nacional/JJ\n      que/NN\n      supone/NN\n      el/NN\n      progreso/NN))\n  de/IN\n  la/FW\n  (NP OTAN/NNP hacia/NN el/NN este/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "FECHAS_ESPECIFICAS",
+      "GOBIERNOS_OFICIALES",
+      "POLITICAS_PUBLICAS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de rusia",
+        "position": [
+          3,
+          22
+        ],
+        "start": 3,
+        "end": 22
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "otan",
+        "position": [
+          1345,
+          1349
+        ],
+        "start": 1345,
+        "end": 1349
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "ayuda posible para su reactivación social",
+        "position": [
+          497,
+          538
+        ],
+        "start": 497,
+        "end": 538
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          17,
+          22
+        ],
+        "start": 17,
+        "end": 22
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          1262,
+          1266
+        ],
+        "start": 1262,
+        "end": 1266
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado exhortó",
+        "position": [
+          660,
+          674
+        ],
+        "start": 660,
+        "end": 674
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "24 de febrero de 2022",
+        "position": [
+          1103,
+          1124
+        ],
+        "start": 1103,
+        "end": 1124
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "OTAN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kursk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Zaporozhie",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Donetsk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lugansk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía General de Rusia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jersón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rusia",
+        "relacion": "ENFATIZAR",
+        "objeto": "Donetsk"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "ENFATIZAR",
+        "objeto": "Lugansk"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "ENFATIZAR",
+        "objeto": "Jersón"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "ENFATIZAR",
+        "objeto": "Zaporozhie"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "ENFATIZAR",
+        "objeto": "Donetsk"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "ENFATIZAR",
+        "objeto": "Lugansk"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "ENFATIZAR",
+        "objeto": "Jersón"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "ENFATIZAR",
+        "objeto": "Zaporozhie"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Donetsk"
+      },
+      {
+        "sujeto": "Donetsk",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Fiscalía"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Lugansk"
+      },
+      {
+        "sujeto": "Lugansk",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Fiscalía"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Zaporozhie"
+      },
+      {
+        "sujeto": "Zaporozhie",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Fiscalía"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Jersón"
+      },
+      {
+        "sujeto": "Jersón",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Fiscalía"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "Fiscalía"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "DECIR",
+        "objeto": "Fiscalía"
+      },
+      {
+        "sujeto": "Fiscalía General de Rusia",
+        "relacion": "EXHORTAR",
+        "objeto": "Kursk"
+      },
+      {
+        "sujeto": "Fiscalía General de Rusia",
+        "relacion": "EXHORTAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Donetsk",
+        "relacion": "UNIR",
+        "objeto": "Jersón"
+      },
+      {
+        "sujeto": "Donetsk",
+        "relacion": "UNIR",
+        "objeto": "Zaporozhie"
+      },
+      {
+        "sujeto": "Donetsk",
+        "relacion": "UNIR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Donetsk",
+        "relacion": "UNIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Lugansk",
+        "relacion": "UNIR",
+        "objeto": "Jersón"
+      },
+      {
+        "sujeto": "Lugansk",
+        "relacion": "UNIR",
+        "objeto": "Zaporozhie"
+      },
+      {
+        "sujeto": "Lugansk",
+        "relacion": "UNIR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Lugansk",
+        "relacion": "UNIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Jersón",
+        "relacion": "UNIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Zaporozhie",
+        "relacion": "UNIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "UNIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "MANTENER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "MANTENER",
+        "objeto": "Kiev"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "MANTENER",
+        "objeto": "OTAN"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "MANTENER",
+        "objeto": "Kiev"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "MANTENER",
+        "objeto": "OTAN"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.128,
+    "pos": 0.007,
+    "neu": 0.993,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

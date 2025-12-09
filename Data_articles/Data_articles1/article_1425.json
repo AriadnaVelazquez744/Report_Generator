@@ -1,0 +1,807 @@
+{
+  "url": "https://www.telesurtv.net/argentina-aceleracion-inflacionaria-precios/",
+  "title": "Argentina experimenta segundo mes de aceleración inflacionaria - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "cepa",
+    "Economía",
+    "INDEC",
+    "inflación",
+    "ipc"
+  ],
+  "text": "Según los datos publicados por el Instituto Nacional de Estadística y Censos (INDEC), la inflación en Argentina registró una aceleración por segundo mes consecutivo en el mes de julio, alcanzando un 1.9 por ciento.\nA pesar de esta aceleración, el Gobierno celebró el dato, argumentando que lo más relevante es que la inflación subyacente se mantuvo en 1,5 por ciento. Milei, incluso, se atrevió a alabar al ministro de Economía, Luis Caputo, señalándolo como el encargado de que la inflación crezca en un entorno recesivo. Lo hicieron aún teniendo en cuenta que, en agosto, los costos volverán a incrementar y será en ese mes cuando se evidencie de forma clara el traslado a precios de la devaluación del dólar que ocurrió a finales de julio.\n\n\n\n\nEl análisis del Centro de Economía Política Argentina (CEPA), basado en los datos del INDEC, revela que los rubros que más contribuyeron al alza fueron recreación y cultura, con un incremento del 4.8 por ciento, y restaurantes y hoteles, que subió 2.8 por ciento. Ambos aumentos se atribuyen en parte a la estacionalidad de las vacaciones de invierno.\nOtros sectores que mostraron aumentos significativos incluyen transporte, con un 2.8 por cuento intermensual, influenciado por los ajustes en los precios de los combustibles. La comunicación aceleró su incremento mensual al 2.3 por ciento, y bienes y servicios varios se movió ligeramente por encima del promedio general, con un 2.1 por ciento, impulsado por artículos de higiene personal.\n\n\nEl rubro alimentos y bebidas, que tiene el mayor peso en la medición del IPC, mostró un incremento del 1.9 por ciento en julio, igualando la inflación general del mes. Dentro de este sector, el precio de la carne subió moderadamente (1.4 por ciento al minorista), mientras que las frutas y verduras registraron alzas importantes, con 10.4 por ciento y 4.5 por ciento respectivamente, invirtiendo la tendencia del mes anterior.\n\n\n\n\nEstos datos se presentan en un contexto donde el Gobierno de Javier Milei mantiene intervenido el dólar, salarios regulados por debajo de los precios y una notoria recesión en las ventas, lo que, según algunos analistas, desafía la teoría libertaria de que la falta de ventas contendría la inflación. Se anticipa que en agosto los precios podrían volver a aumentar, reflejando el impacto de la devaluación del dólar de fines de julio.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/argentina-aceleracion-inflacionaria-precios/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1269,
+    "message_id": 101806,
+    "date": "2025-08-14T19:55:18+00:00",
+    "text": "teleSUR\nArgentina experimenta segundo mes de aceleración inflacionaria\nhttps://www.telesurtv.net/argentina-aceleracion-inflacionaria-precios/",
+    "photo_path": null,
+    "views": 1545,
+    "reactions": {
+      "😁": 24,
+      "👍": 6,
+      "😢": 6,
+      "🤔": 2
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "según los datos publicados por el instituto nacional de estadística y censos (indec), la inflación en argentina registró una aceleración por segundo mes consecutivo en el mes de julio, alcanzando un 1.9 por ciento. a pesar de esta aceleración, el gobierno celebró el dato, argumentando que lo más relevante es que la inflación subyacente se mantuvo en 1,5 por ciento. milei, incluso, se atrevió a alabar al ministro de economía, luis caputo, señalándolo como el encargado de que la inflación crezca en un entorno recesivo. lo hicieron aún teniendo en cuenta que, en agosto, los costos volverán a incrementar y será en ese mes cuando se evidencie de forma clara el traslado a precios de la devaluación del dólar que ocurrió a finales de julio. el análisis del centro de economía política argentina (cepa), basado en los datos del indec, revela que los rubros que más contribuyeron al alza fueron recreación y cultura, con un incremento del 4.8 por ciento, y restaurantes y hoteles, que subió 2.8 por ciento. ambos aumentos se atribuyen en parte a la estacionalidad de las vacaciones de invierno. otros sectores que mostraron aumentos significativos incluyen transporte, con un 2.8 por cuento intermensual, influenciado por los ajustes en los precios de los combustibles. la comunicación aceleró su incremento mensual al 2.3 por ciento, y bienes y servicios varios se movió ligeramente por encima del promedio general, con un 2.1 por ciento, impulsado por artículos de higiene personal. el rubro alimentos y bebidas, que tiene el mayor peso en la medición del ipc, mostró un incremento del 1.9 por ciento en julio, igualando la inflación general del mes. dentro de este sector, el precio de la carne subió moderadamente (1.4 por ciento al minorista), mientras que las frutas y verduras registraron alzas importantes, con 10.4 por ciento y 4.5 por ciento respectivamente, invirtiendo la tendencia del mes anterior. estos datos se presentan en un contexto donde el gobierno de javier milei mantiene intervenido el dólar, salarios regulados por debajo de los precios y una notoria recesión en las ventas, lo que, según algunos analistas, desafía la teoría libertaria de que la falta de ventas contendría la inflación. se anticipa que en agosto los precios podrían volver a aumentar, reflejando el impacto de la devaluación del dólar de fines de julio.",
+    "tokens": [
+      "según",
+      "datos",
+      "publicados",
+      "instituto",
+      "nacional",
+      "estadística",
+      "censos",
+      "(",
+      "indec",
+      ")",
+      ",",
+      "inflación",
+      "argentina",
+      "registró",
+      "aceleración",
+      "segundo",
+      "mes",
+      "consecutivo",
+      "mes",
+      "julio",
+      ",",
+      "alcanzando",
+      "1.9",
+      "ciento",
+      ".",
+      "pesar",
+      "aceleración",
+      ",",
+      "gobierno",
+      "celebró",
+      "dato",
+      ",",
+      "argumentando",
+      "relevante",
+      "inflación",
+      "subyacente",
+      "mantuvo",
+      "1,5",
+      "ciento",
+      ".",
+      "milei",
+      ",",
+      "incluso",
+      ",",
+      "atrevió",
+      "alabar",
+      "ministro",
+      "economía",
+      ",",
+      "luis",
+      "caputo",
+      ",",
+      "señalándolo",
+      "encargado",
+      "inflación",
+      "crezca",
+      "entorno",
+      "recesivo",
+      ".",
+      "hicieron",
+      "aún",
+      "cuenta",
+      ",",
+      "agosto",
+      ",",
+      "costos",
+      "volverán",
+      "incrementar",
+      "mes",
+      "evidencie",
+      "forma",
+      "clara",
+      "traslado",
+      "precios",
+      "devaluación",
+      "dólar",
+      "ocurrió",
+      "finales",
+      "julio",
+      ".",
+      "análisis",
+      "centro",
+      "economía",
+      "política",
+      "argentina",
+      "(",
+      "cepa",
+      ")",
+      ",",
+      "basado",
+      "datos",
+      "indec",
+      ",",
+      "revela",
+      "rubros",
+      "contribuyeron",
+      "alza",
+      "recreación",
+      "cultura",
+      ",",
+      "incremento",
+      "4.8",
+      "ciento",
+      ",",
+      "restaurantes",
+      "hoteles",
+      ",",
+      "subió",
+      "2.8",
+      "ciento",
+      ".",
+      "ambos",
+      "aumentos",
+      "atribuyen",
+      "parte",
+      "estacionalidad",
+      "vacaciones",
+      "invierno",
+      ".",
+      "sectores",
+      "mostraron",
+      "aumentos",
+      "significativos",
+      "incluyen",
+      "transporte",
+      ",",
+      "2.8",
+      "cuento",
+      "intermensual",
+      ",",
+      "influenciado",
+      "ajustes",
+      "precios",
+      "combustibles",
+      ".",
+      "comunicación",
+      "aceleró",
+      "incremento",
+      "mensual",
+      "2.3",
+      "ciento",
+      ",",
+      "bienes",
+      "servicios",
+      "varios",
+      "movió",
+      "ligeramente",
+      "encima",
+      "promedio",
+      "general",
+      ",",
+      "2.1",
+      "ciento",
+      ",",
+      "impulsado",
+      "artículos",
+      "higiene",
+      "personal",
+      ".",
+      "rubro",
+      "alimentos",
+      "bebidas",
+      ",",
+      "mayor",
+      "peso",
+      "medición",
+      "ipc",
+      ",",
+      "mostró",
+      "incremento",
+      "1.9",
+      "ciento",
+      "julio",
+      ",",
+      "igualando",
+      "inflación",
+      "general",
+      "mes",
+      ".",
+      "dentro",
+      "sector",
+      ",",
+      "precio",
+      "carne",
+      "subió",
+      "moderadamente",
+      "(",
+      "1.4",
+      "ciento",
+      "minorista",
+      ")",
+      ",",
+      "mientras",
+      "frutas",
+      "verduras",
+      "registraron",
+      "alzas",
+      "importantes",
+      ",",
+      "10.4",
+      "ciento",
+      "4.5",
+      "ciento",
+      "respectivamente",
+      ",",
+      "invirtiendo",
+      "tendencia",
+      "mes",
+      "anterior",
+      ".",
+      "datos",
+      "presentan",
+      "contexto",
+      "gobierno",
+      "javier",
+      "milei",
+      "mantiene",
+      "intervenido",
+      "dólar",
+      ",",
+      "salarios",
+      "regulados",
+      "debajo",
+      "precios",
+      "notoria",
+      "recesión",
+      "ventas",
+      ",",
+      ",",
+      "según",
+      "analistas",
+      ",",
+      "desafía",
+      "teoría",
+      "libertaria",
+      "falta",
+      "ventas",
+      "contendría",
+      "inflación",
+      ".",
+      "anticipa",
+      "agosto",
+      "precios",
+      "podrían",
+      "volver",
+      "aumentar",
+      ",",
+      "reflejando",
+      "impacto",
+      "devaluación",
+      "dólar",
+      "fines",
+      "julio",
+      "."
+    ],
+    "token_count": 254,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "VBZ": 5,
+      "JJ": 46,
+      "NN": 145,
+      "FW": 75,
+      "NNS": 18,
+      "VBP": 11,
+      "IN": 16,
+      "CD": 11,
+      "VBD": 3,
+      "RB": 2
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NN": 27,
+      "NN-NN": 79,
+      "NN-JJ": 21,
+      "JJ-NNP": 3,
+      "NNP-NNP": 11,
+      "NNP-FW": 4,
+      "FW-NNP": 9,
+      "FW-FW": 43,
+      "NNP-NN": 13,
+      "NN-NNS": 6,
+      "NNS-VBP": 9,
+      "VBP-IN": 1,
+      "IN-FW": 10,
+      "FW-NN": 12,
+      "JJ-CD": 3,
+      "CD-NN": 11,
+      "NN-IN": 9,
+      "FW-JJ": 7,
+      "NN-NNP": 6,
+      "NN-FW": 14,
+      "FW-CD": 1,
+      "IN-NN": 3,
+      "IN-JJ": 2,
+      "JJ-NNS": 6,
+      "VBP-JJ": 8,
+      "JJ-FW": 3,
+      "NNS-IN": 3,
+      "NN-CD": 4,
+      "NN-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-VBD": 1,
+      "VBD-CD": 2,
+      "JJ-JJ": 3,
+      "VBZ-IN": 1,
+      "FW-NNS": 3,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "NNS-NNS": 2,
+      "NNP-IN": 2,
+      "NN-VBD": 2,
+      "VBD-FW": 1,
+      "VBZ-VBP": 1,
+      "VBP-CD": 1,
+      "IN-NNP": 1,
+      "VBP-RB": 1,
+      "RB-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 13,
+      "NN-NN-JJ": 14,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 11,
+      "NN-NN-NN": 38,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 29,
+      "FW-FW-NN": 5,
+      "FW-NN-JJ": 1,
+      "NN-JJ-CD": 3,
+      "JJ-CD-NN": 3,
+      "CD-NN-NN": 11,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 6,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 10,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 6,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "NN-NN-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "JJ-NN-IN": 4,
+      "NN-FW-JJ": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-JJ-NNS": 3,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 2,
+      "FW-FW-JJ": 2,
+      "JJ-NN-JJ": 5,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NN-NN-CD": 3,
+      "NN-CD-NN": 4,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-VBD": 1,
+      "JJ-VBD-CD": 1,
+      "VBD-CD-NN": 2,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NNP-VBZ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-JJ": 1,
+      "IN-FW-NNS": 3,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-CD": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "FW-NN-NNS": 1,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-RB": 1,
+      "RB-RB-JJ": 1,
+      "RB-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 145,
+        "FW": 75,
+        "JJ": 46,
+        "NNP": 33,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 79,
+        "FW-FW": 43,
+        "JJ-NN": 27,
+        "NN-JJ": 21,
+        "NN-FW": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 38,
+        "FW-FW-FW": 29,
+        "NN-NN-JJ": 14,
+        "JJ-NN-NN": 13,
+        "NN-JJ-NN": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 106,
+      "VP": 19,
+      "ADJP": 9,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 8,
+        "weight": 0.0519
+      },
+      {
+        "rule": "NP -> ('julio', 'NN')",
+        "frequency": 4,
+        "weight": 0.026
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.026
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 4,
+        "weight": 0.026
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 3,
+        "weight": 0.0195
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0195
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0195
+      },
+      {
+        "rule": "NP -> ('INDEC', 'NNP')",
+        "frequency": 2,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('incremento', 'NN') ('del', 'NN')",
+        "frequency": 2,
+        "weight": 0.013
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "VP",
+        "text": "los datos publicados por el Instituto Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "datos publicados por"
+      },
+      {
+        "label": "NP",
+        "text": "el Instituto Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Estadística"
+      },
+      {
+        "label": "NP",
+        "text": "Censos"
+      },
+      {
+        "label": "NP",
+        "text": "INDEC"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina registró"
+      },
+      {
+        "label": "NP",
+        "text": "una aceleración por segundo mes"
+      },
+      {
+        "label": "VP",
+        "text": "consecutivo"
+      },
+      {
+        "label": "NP",
+        "text": "julio"
+      },
+      {
+        "label": "ADJP",
+        "text": "alcanzando"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento"
+      },
+      {
+        "label": "NP",
+        "text": "A pesar"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Según/NNP)\n  (VP\n    los/VBZ\n    (NP datos/JJ publicados/NN por/NN)\n    (NP el/JJ Instituto/NNP Nacional/NNP))\n  de/FW\n  (NP Estadística/NNP)\n  y/CC\n  (NP Censos/NNP)\n  (/(\n  (NP INDEC/NNP)\n  )/)\n  ,/,\n  la/FW\n  inflación/FW\n  en/FW\n  (NP Argentina/NNP registró/NN)\n  (NP una/JJ aceleración/NN por/NN segundo/NN mes/NNS)\n  (VP consecutivo/VBP)\n  en/IN\n  el/FW\n  mes/FW\n  de/FW\n  (NP julio/NN)\n  ,/,\n  (ADJP alcanzando/JJ)\n  (ADJP un/JJ)\n  1.9/CD\n  (NP por/NN ciento/NN)\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  esta/FW\n  (NP aceleración/NN)\n  ,/,\n  el/FW\n  (NP Gobierno/NNP celebró/NN el/NN dato/NN)\n  ,/,\n  (NP argumentando/JJ que/NN lo/NN más/NN relevante/NN)\n  es/FW\n  (NP que/NN)\n  la/FW\n  inflación/FW\n  subyacente/FW\n  se/FW\n  mantuvo/FW\n  en/FW\n  1,5/CD\n  (NP por/NN ciento/NN)\n  ./.)",
+      "(S\n  (NP Milei/NNP)\n  ,/,\n  (NP incluso/NN)\n  ,/,\n  se/FW\n  (VP atrevió/VBZ (NP a/DT alabar/NN al/NN))\n  ministro/FW\n  de/FW\n  (NP Economía/NNP)\n  ,/,\n  (NP Luis/NNP Caputo/NNP)\n  ,/,\n  (NP señalándolo/NN como/NN)\n  (NP el/JJ encargado/NN)\n  de/IN\n  que/FW\n  la/FW\n  inflación/FW\n  (NP crezca/NN)\n  en/FW\n  (NP un/JJ entorno/NN recesivo/NN)\n  ./.)",
+      "(S\n  (NP Lo/NNP hicieron/NN aún/NN teniendo/NN)\n  (PP en/IN (NP cuenta/NN que/NN))\n  ,/,\n  en/FW\n  (NP agosto/NN)\n  ,/,\n  (NP los/JJ costos/NN volverán/NN)\n  (NP a/DT incrementar/NN y/NN será/NN)\n  (PP en/IN (NP ese/JJ mes/NNS))\n  (VP cuando/VBP se/JJ)\n  evidencie/FW\n  de/FW\n  forma/FW\n  (NP clara/NN el/NN)\n  (VP traslado/VBD)\n  a/DT\n  precios/FW\n  de/FW\n  la/FW\n  devaluación/FW\n  del/FW\n  (NP dólar/JJ que/NN)\n  (VP ocurrió/VBZ (NP a/DT finales/NNS))\n  (PP de/IN (NP julio/NN))\n  ./.)",
+      "(S\n  (NP El/NNP análisis/NN)\n  del/FW\n  (NP Centro/NNP)\n  de/FW\n  (NP Economía/NNP Política/NNP Argentina/NNP)\n  (/(\n  (NP CEPA/NNP)\n  )/)\n  ,/,\n  (ADJP basado/JJ)\n  en/FW\n  los/FW\n  datos/FW\n  del/FW\n  (NP INDEC/NNP)\n  ,/,\n  (NP\n    revela/NN\n    que/NN\n    los/NN\n    rubros/NN\n    que/NN\n    más/NN\n    contribuyeron/NN\n    al/NN\n    alza/NN\n    fueron/NN\n    recreación/NN\n    y/NN\n    cultura/NN)\n  ,/,\n  (NP con/NN)\n  (NP un/JJ incremento/NN del/NN)\n  4.8/CD\n  (NP por/NN ciento/NN)\n  ,/,\n  (NP y/NN restaurantes/NNS)\n  (VP y/VBP (NP hoteles/NNS))\n  ,/,\n  (NP que/NN)\n  (VP subió/VBD)\n  2.8/CD\n  (NP por/NN ciento/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "FECHAS_HORAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inflación subyacente se mantuvo en 1,5 por ciento. milei, incluso, se atrevió a alabar al ministro de economía, luis caputo, señalándolo como el encargado de que la inflación crezca en un entorno recesivo. lo hicieron aún teniendo en cuenta que, en agosto, los costos volverán a incrementar y será en ese mes cuando se evidencie de forma clara el traslado a precios",
+        "position": [
+          317,
+          682
+        ],
+        "start": 317,
+        "end": 682
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inflación en argentina registró una aceleración por segundo mes consecutivo en el mes de julio, alcanzando un 1",
+        "position": [
+          89,
+          200
+        ],
+        "start": 89,
+        "end": 200
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inflación",
+        "position": [
+          89,
+          98
+        ],
+        "start": 89,
+        "end": 98
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de javier milei",
+        "position": [
+          1971,
+          1995
+        ],
+        "start": 1971,
+        "end": 1995
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de economía",
+        "position": [
+          407,
+          427
+        ],
+        "start": 407,
+        "end": 427
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto nacional de",
+        "position": [
+          34,
+          55
+        ],
+        "start": 34,
+        "end": 55
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          102,
+          111
+        ],
+        "start": 102,
+        "end": 111
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          763,
+          772
+        ],
+        "start": 763,
+        "end": 772
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el mes",
+        "position": [
+          165,
+          174
+        ],
+        "start": 165,
+        "end": 174
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "mes anterior",
+        "position": [
+          1904,
+          1916
+        ],
+        "start": 1904,
+        "end": 1916
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "INDEC",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Milei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Luis Caputo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Javier Milei",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Instituto Nacional de Estadística y Censos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Centro de Economía Política Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CEPA",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Instituto Nacional de Estadística y Censos",
+        "relacion": "REGISTRAR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "INDEC",
+        "relacion": "REGISTRAR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Milei",
+        "relacion": "ATREVE_R",
+        "objeto": "Luis Caputo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

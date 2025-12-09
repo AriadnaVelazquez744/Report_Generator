@@ -1,0 +1,1254 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-y-ee-uu-acuerdan-reanudar-repatriacion-de-migrantes-venezolanos/",
+  "title": "Venezuela y EE. UU. acuerdan reanudar repatriación de migrantes venezolanos - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Gobierno Venezolano",
+    "Jorge Rodíguez",
+    "migrantes venezolanos",
+    "Plan Vuelta a la Patria"
+  ],
+  "text": "\nJorge Rodríguez Gómez, designado para los Diálogos de Paz por la República Bolivariana de Venezuela, anunció que su Gobierno acordó retomar con la administración de Estados Unidos el retorno de migrantes venezolanos con un vuelo inicial mañana domingo 23 de marzo.\n\nLEA TAMBIÉN\nVenezuela afirma que tiene todo dispuesto para reanudar vuelos del Plan Vuelta a la Patria\n\nA través de un comunicado, Rodríguez Gómez aclaró que la decisión se incluye en el marco del Plan Vuelta a la Patria (implementado desde el año 2018) con el objetivo de asegurar el retorno de los venezolanos a su nación con resguardo de sus derechos humanos.\n“Migrar no es un delito, y no descansaremos hasta lograr el regreso de todos quienes lo requieran y hasta rescatar a nuestros hermanos secuestrados en El Salvador”, reza el texto.\n\nLuego del encuentro entre el presidente Nicolás Maduro y Richard Grenell, enviado especial de Washington, el mandatario venezolano confirmó que había llegado a un acuerdo con EE. UU. para reanudar los vuelos de connacionales, luego de que la administración de la Casa Blanca revocara la licencia que permitía a la petrolera Chevron operar en el país caribeño.\nAunque la reanudación se programó para el pasado 14 de marzo, el ministro Sectorial de Política, Seguridad Ciudadana y Paz, Diosdado Cabello, anunció que el vuelo del Plan Vuelta a la Patria fue pospuesto debido a condiciones climáticas adversas en EE. UU.\nEn medio de las tensiones entre Washington y Caracas por el envío de más de 200 migrantes venezolanos a El Salvador y su detención en la megacárcel de Nayib Bukele, el también presidente del Parlamento de Venezuela, Jorge Rodríguez, declaró el pasado jueves que el país estaba listo para recibir a sus connacionales que se encuentran en EE. UU. Al mismo tiempo, catalogó el secuestro en el Centro de Confinamiento del Terrorismo (C.E.C.O.T.) como una violación  total de los derechos humanos, de los migrantes y de los niños.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-y-ee-uu-acuerdan-reanudar-repatriacion-de-migrantes-venezolanos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 709,
+    "message_id": 89888,
+    "date": "2025-03-22T13:55:07+00:00",
+    "text": "teleSUR\nVenezuela y EE. UU. acuerdan reanudar repatriación de migrantes venezolanos\nhttps://www.telesurtv.net/venezuela-y-ee-uu-acuerdan-reanudar-repatriacion-de-migrantes-venezolanos/",
+    "photo_path": null,
+    "views": 2014,
+    "reactions": {
+      "👍": 42,
+      "🤮": 2,
+      "👎": 1,
+      "🥰": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "jorge rodríguez gómez, designado para los diálogos de paz por la república bolivariana de venezuela, anunció que su gobierno acordó retomar con la administración de estados unidos el retorno de migrantes venezolanos con un vuelo inicial mañana domingo 23 de marzo. a través de un comunicado, rodríguez gómez aclaró que la decisión se incluye en el marco del plan vuelta a la patria (implementado desde el año 2018) con el objetivo de asegurar el retorno de los venezolanos a su nación con resguardo de sus derechos humanos. “migrar no es un delito, y no descansaremos hasta lograr el regreso de todos quienes lo requieran y hasta rescatar a nuestros hermanos secuestrados en el salvador”, reza el texto. luego del encuentro entre el presidente nicolás maduro y richard grenell, enviado especial de washington, el mandatario venezolano confirmó que había llegado a un acuerdo con ee. uu. para reanudar los vuelos de connacionales, luego de que la administración de la casa blanca revocara la licencia que permitía a la petrolera chevron operar en el país caribeño. aunque la reanudación se programó para el pasado 14 de marzo, el ministro sectorial de política, seguridad ciudadana y paz, diosdado cabello, anunció que el vuelo del plan vuelta a la patria fue pospuesto debido a condiciones climáticas adversas en ee. uu. en medio de las tensiones entre washington y caracas por el envío de más de 200 migrantes venezolanos a el salvador y su detención en la megacárcel de nayib bukele, el también presidente del parlamento de venezuela, jorge rodríguez, declaró el pasado jueves que el país estaba listo para recibir a sus connacionales que se encuentran en ee. uu. al mismo tiempo, catalogó el secuestro en el centro de confinamiento del terrorismo (c.e.c.o.t.) como una violación total de los derechos humanos, de los migrantes y de los niños.",
+    "tokens": [
+      "jorge",
+      "rodríguez",
+      "gómez",
+      ",",
+      "designado",
+      "diálogos",
+      "paz",
+      "república",
+      "bolivariana",
+      "venezuela",
+      ",",
+      "anunció",
+      "gobierno",
+      "acordó",
+      "retomar",
+      "administración",
+      "unidos",
+      "retorno",
+      "migrantes",
+      "venezolanos",
+      "vuelo",
+      "inicial",
+      "mañana",
+      "domingo",
+      "23",
+      "marzo",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "rodríguez",
+      "gómez",
+      "aclaró",
+      "decisión",
+      "incluye",
+      "marco",
+      "plan",
+      "vuelta",
+      "patria",
+      "(",
+      "implementado",
+      "año",
+      "2018",
+      ")",
+      "objetivo",
+      "asegurar",
+      "retorno",
+      "venezolanos",
+      "nación",
+      "resguardo",
+      "derechos",
+      "humanos",
+      ".",
+      "“",
+      "migrar",
+      "delito",
+      ",",
+      "descansaremos",
+      "lograr",
+      "regreso",
+      "requieran",
+      "rescatar",
+      "hermanos",
+      "secuestrados",
+      "salvador",
+      "”",
+      ",",
+      "reza",
+      "texto",
+      ".",
+      "luego",
+      "encuentro",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "richard",
+      "grenell",
+      ",",
+      "enviado",
+      "especial",
+      "washington",
+      ",",
+      "mandatario",
+      "venezolano",
+      "confirmó",
+      "llegado",
+      "acuerdo",
+      "ee",
+      ".",
+      "uu.",
+      "reanudar",
+      "vuelos",
+      "connacionales",
+      ",",
+      "luego",
+      "administración",
+      "casa",
+      "blanca",
+      "revocara",
+      "licencia",
+      "permitía",
+      "petrolera",
+      "chevron",
+      "operar",
+      "país",
+      "caribeño",
+      ".",
+      "aunque",
+      "reanudación",
+      "programó",
+      "pasado",
+      "14",
+      "marzo",
+      ",",
+      "ministro",
+      "sectorial",
+      "política",
+      ",",
+      "seguridad",
+      "ciudadana",
+      "paz",
+      ",",
+      "diosdado",
+      "cabello",
+      ",",
+      "anunció",
+      "vuelo",
+      "plan",
+      "vuelta",
+      "patria",
+      "pospuesto",
+      "debido",
+      "condiciones",
+      "climáticas",
+      "adversas",
+      "ee",
+      ".",
+      "uu.",
+      "medio",
+      "tensiones",
+      "washington",
+      "caracas",
+      "envío",
+      "200",
+      "migrantes",
+      "venezolanos",
+      "salvador",
+      "detención",
+      "megacárcel",
+      "nayib",
+      "bukele",
+      ",",
+      "presidente",
+      "parlamento",
+      "venezuela",
+      ",",
+      "jorge",
+      "rodríguez",
+      ",",
+      "declaró",
+      "pasado",
+      "jueves",
+      "país",
+      "listo",
+      "recibir",
+      "connacionales",
+      "encuentran",
+      "ee",
+      ".",
+      "uu.",
+      "mismo",
+      "tiempo",
+      ",",
+      "catalogó",
+      "secuestro",
+      "centro",
+      "confinamiento",
+      "terrorismo",
+      "(",
+      "c.e.c.o.t",
+      ".",
+      ")",
+      "violación",
+      "total",
+      "derechos",
+      "humanos",
+      ",",
+      "migrantes",
+      "niños",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 67,
+      "NN": 96,
+      "JJ": 20,
+      "FW": 77,
+      "VBD": 3,
+      "CD": 4,
+      "IN": 11,
+      "VBZ": 6,
+      "CC": 2,
+      "NNS": 9,
+      "DT": 2,
+      "RB": 1,
+      "VBP": 5
+    },
+    "bigram_freq": {
+      "NNP-NNP": 31,
+      "NNP-NN": 18,
+      "NN-NN": 54,
+      "NN-JJ": 6,
+      "JJ-NNP": 2,
+      "NNP-FW": 10,
+      "FW-NNP": 17,
+      "NN-NNP": 9,
+      "NN-FW": 13,
+      "FW-FW": 42,
+      "FW-NN": 10,
+      "JJ-JJ": 3,
+      "JJ-NN": 8,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 7,
+      "NNP-VBZ": 4,
+      "VBZ-NNP": 2,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NN-CC": 1,
+      "CC-NN": 2,
+      "NN-IN": 7,
+      "FW-JJ": 3,
+      "JJ-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "NN-RB": 1,
+      "RB-VBZ": 1,
+      "VBZ-DT": 1,
+      "FW-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-NN": 1,
+      "VBP-IN": 1,
+      "IN-NNP": 3,
+      "VBZ-JJ": 3,
+      "JJ-IN": 1,
+      "NNP-CC": 1,
+      "IN-NNS": 1,
+      "NNS-FW": 1,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "NN-NNS": 2,
+      "VBP-JJ": 2,
+      "JJ-FW": 3,
+      "VBP-NNP": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "NN-VBZ": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 12,
+      "NNP-NNP-NN": 11,
+      "NNP-NN-NN": 15,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 7,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 4,
+      "NN-NN-NN": 32,
+      "NN-NNP-NN": 2,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 9,
+      "FW-FW-FW": 28,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 10,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 4,
+      "FW-FW-NN": 4,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-NN": 2,
+      "NNP-NN-FW": 3,
+      "FW-NN-NNP": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 2,
+      "NN-NN-IN": 2,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-VBZ": 1,
+      "RB-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NN-NNP-FW": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-NNP-FW": 4,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-FW-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-FW": 2,
+      "JJ-FW-FW": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "NN-IN-NNP": 1,
+      "JJ-FW-NN": 1,
+      "FW-JJ-NN": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 77,
+        "NNP": 67,
+        "JJ": 20,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 54,
+        "FW-FW": 42,
+        "NNP-NNP": 31,
+        "NNP-NN": 18,
+        "FW-NNP": 17
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 28,
+        "NNP-NN-NN": 15,
+        "NNP-NNP-NNP": 12,
+        "NNP-NNP-NN": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 84,
+      "VP": 15,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('EE', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('migrantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP (',', ',') NP NP ('de', 'FW') NP ('de', 'FW') NP (',', ',') NP ('la', 'FW') ('administración', 'FW') ('de', 'FW') NP ('el', 'FW') NP ('de', 'FW') ('migrantes', 'FW') ('venezolanos', 'FW') NP NP VP ('23', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Jorge', 'NNP') ('Rodríguez', 'NNP') ('Gómez', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('designado', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('Diálogos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Jorge Rodríguez Gómez"
+      },
+      {
+        "label": "NP",
+        "text": "designado para"
+      },
+      {
+        "label": "NP",
+        "text": "los Diálogos"
+      },
+      {
+        "label": "NP",
+        "text": "Paz por la República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "anunció que su Gobierno acordó retomar con"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "retorno"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "un vuelo inicial mañana"
+      },
+      {
+        "label": "VP",
+        "text": "domingo"
+      },
+      {
+        "label": "PP",
+        "text": "de marzo"
+      },
+      {
+        "label": "NP",
+        "text": "marzo"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Venezuela afirma que tiene todo dispuesto para reanudar vuelos del Plan Vuelta"
+      },
+      {
+        "label": "NP",
+        "text": "a la Patria A través"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Jorge/NNP Rodríguez/NNP Gómez/NNP)\n  ,/,\n  (NP designado/NN para/NN)\n  (NP los/JJ Diálogos/NNP)\n  de/FW\n  (NP Paz/NNP por/NN la/NN República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP\n    anunció/NN\n    que/NN\n    su/NN\n    Gobierno/NNP\n    acordó/NN\n    retomar/NN\n    con/NN)\n  la/FW\n  administración/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  el/FW\n  (NP retorno/NN)\n  de/FW\n  migrantes/FW\n  venezolanos/FW\n  (NP con/NN)\n  (NP un/JJ vuelo/JJ inicial/JJ mañana/NN)\n  (VP domingo/VBD)\n  23/CD\n  (PP de/IN (NP marzo/NN))\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    Venezuela/NNP\n    afirma/NN\n    que/NN\n    tiene/NN\n    todo/NN\n    dispuesto/NN\n    para/NN\n    reanudar/NN\n    vuelos/NN\n    del/NN\n    Plan/NNP\n    Vuelta/NNP)\n  (NP a/DT la/NN Patria/NNP A/NNP través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  (NP Rodríguez/NNP Gómez/NNP aclaró/NN que/NN la/NN)\n  decisión/FW\n  se/FW\n  incluye/FW\n  en/FW\n  el/FW\n  marco/FW\n  del/FW\n  (NP Plan/NNP Vuelta/NNP)\n  (NP a/DT la/NN Patria/NNP)\n  (/(\n  (NP implementado/JJ desde/NN el/NN)\n  año/IN\n  2018/CD\n  )/)\n  (NP con/NN)\n  (NP el/JJ objetivo/NN)\n  de/IN\n  asegurar/FW\n  el/FW\n  retorno/FW\n  de/FW\n  los/FW\n  venezolanos/FW\n  (NP a/DT su/NN)\n  (NP nación/JJ con/NN resguardo/NN)\n  de/IN\n  sus/FW\n  (NP derechos/JJ humanos/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Migrar/NNP)\n  (NP no/DT es/NN)\n  (NP un/JJ delito/NN)\n  ,/,\n  (VP y/VBZ (NP no/DT descansaremos/NN hasta/NN lograr/NN))\n  el/FW\n  (NP regreso/NN)\n  de/IN\n  todos/FW\n  (NP quienes/NNS)\n  (VP lo/VBP (NP requieran/JJ y/NN hasta/NN))\n  (VP rescatar/VBZ (NP a/DT nuestros/JJ hermanos/NN secuestrados/NN))\n  (PP en/IN (NP El/NNP Salvador/NNP ”/NNP))\n  ,/,\n  (NP reza/NN el/NN texto/NN)\n  ./.)",
+      "(S\n  (NP Luego/NNP)\n  del/FW\n  (NP encuentro/NN)\n  entre/FW\n  el/FW\n  presidente/FW\n  (NP Nicolás/NNP Maduro/NNP y/NNP Richard/NNP Grenell/NNP)\n  ,/,\n  (NP enviado/JJ especial/NN)\n  (PP de/IN (NP Washington/NNP))\n  ,/,\n  el/RB\n  (NP mandatario/NN venezolano/NN confirmó/NN que/NN había/NN)\n  (VP llegado/VBZ (NP a/DT un/JJ acuerdo/NN con/NN EE/NNP))\n  ./.)",
+      "(S\n  (NP UU./NNP para/NN reanudar/NN)\n  (NP los/JJ vuelos/NN)\n  (PP de/IN (NP connacionales/NNS))\n  ,/,\n  luego/FW\n  de/FW\n  que/FW\n  la/FW\n  administración/FW\n  de/FW\n  la/FW\n  (NP Casa/NNP Blanca/NNP revocara/NN la/NN)\n  licencia/FW\n  (NP que/NN)\n  (VP\n    permitía/VBP\n    (NP a/DT la/NN petrolera/NN Chevron/NNP operar/NN))\n  en/FW\n  el/FW\n  (NP país/NN caribeño/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "FECHAS_HORAS",
+      "JUSTICIA_SOCIAL",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "NEGOCIACION_ACUERDOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "diálogos de paz",
+        "position": [
+          43,
+          58
+        ],
+        "start": 43,
+        "end": 58
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1661,
+          1668
+        ],
+        "start": 1661,
+        "end": 1668
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          102,
+          109
+        ],
+        "start": 102,
+        "end": 109
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "aclaró",
+        "position": [
+          414,
+          420
+        ],
+        "start": 414,
+        "end": 420
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          840,
+          865
+        ],
+        "start": 840,
+        "end": 865
+      },
+      {
+        "category": "NEGOCIACION_ACUERDOS",
+        "matched_text": "acordó",
+        "position": [
+          126,
+          132
+        ],
+        "start": 126,
+        "end": 132
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          166,
+          180
+        ],
+        "start": 166,
+        "end": 180
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          91,
+          100
+        ],
+        "start": 91,
+        "end": 100
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          1473,
+          1480
+        ],
+        "start": 1473,
+        "end": 1480
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          1818,
+          1827
+        ],
+        "start": 1818,
+        "end": 1827
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 23 de marzo",
+        "position": [
+          245,
+          264
+        ],
+        "start": 245,
+        "end": 264
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2018",
+        "position": [
+          511,
+          519
+        ],
+        "start": 511,
+        "end": 519
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          238,
+          244
+        ],
+        "start": 238,
+        "end": 244
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          612,
+          628
+        ],
+        "start": 612,
+        "end": 628
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 200",
+        "position": [
+          1497,
+          1507
+        ],
+        "start": 1497,
+        "end": 1507
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "el año 2018",
+        "position": [
+          508,
+          519
+        ],
+        "start": 508,
+        "end": 519
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Diosdado Cabello",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chevron",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rodríguez Gómez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plan Vuelta a la Patria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Paz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nayib Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "EE. UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro de Confinamiento del Terrorismo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jorge Rodríguez Gómez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jorge Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sectorial de Política,",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Plan Vuelta a la Patria\n\nA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Richard Grenell",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Parlamento de Venezuela",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Jorge Rodríguez Gómez",
+        "relacion": "ANUNCIAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Jorge Rodríguez Gómez",
+        "relacion": "ANUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "ANUNCIAR",
+        "objeto": "República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "ANUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "ACORDAR_ANUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AFIRMAR_ACLARAR",
+        "objeto": "Plan Vuelta a la Patria\n\nA"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AFIRMAR_ACLARAR",
+        "objeto": "Rodríguez Gómez"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AFIRMAR_ACLARAR",
+        "objeto": "Plan Vuelta a la Patria"
+      },
+      {
+        "sujeto": "Rodríguez Gómez",
+        "relacion": "REANUDAR_TENER_AFIRMAR_ACLARAR",
+        "objeto": "Plan Vuelta a la Patria\n\nA"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria\n\nA",
+        "relacion": "REANUDAR_TENER_AFIRMAR_ACLARAR",
+        "objeto": "Plan Vuelta a la Patria"
+      },
+      {
+        "sujeto": "Rodríguez Gómez",
+        "relacion": "ACLARAR",
+        "objeto": "Plan Vuelta a la Patria"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "Chevron"
+      },
+      {
+        "sujeto": "Richard Grenell",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Richard Grenell",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Richard Grenell",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "Chevron"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "LUEGO_CONFIRMAR",
+        "objeto": "Chevron"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "LLEGAR_CONFIRMAR",
+        "objeto": "Chevron"
+      },
+      {
+        "sujeto": "Casa Blanca",
+        "relacion": "REVOCAR_LUEGO_REANUDAR_LLEGAR_CONFIRMAR",
+        "objeto": "Chevron"
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "Plan Vuelta a la Patria"
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "Nayib Bukele"
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Sectorial de Política,",
+        "relacion": "ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "Plan Vuelta a la Patria"
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "Nayib Bukele"
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Paz",
+        "relacion": "ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "Plan Vuelta a la Patria"
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "Nayib Bukele"
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Diosdado Cabello",
+        "relacion": "ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Nayib Bukele"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "Nayib Bukele",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Parlamento de Venezuela"
+      },
+      {
+        "sujeto": "Nayib Bukele",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Nayib Bukele",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Nayib Bukele",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "Parlamento de Venezuela",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Parlamento de Venezuela",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "Jorge Rodríguez",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Jorge Rodríguez",
+        "relacion": "POSPONER_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "ENCONTRAR_RECIBIR_DECLARAR_ANUNCIAR",
+        "objeto": "Centro de Confinamiento del Terrorismo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.986,
+    "neg": 0.014,
+    "label": "negative"
+  }
+}

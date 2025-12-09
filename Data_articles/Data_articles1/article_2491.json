@@ -1,0 +1,736 @@
+{
+  "url": "https://www.telesurtv.net/gobierno-de-haiti-confirma-visita-de-gustavo-petro/",
+  "title": "Gobierno de Haití confirma visita de Gustavo Petro - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Haití",
+    "Visita"
+  ],
+  "text": "La visita del presidente de Colombia, Gustavo Petro, a Haití se concretará este miércoles 22 de enero, tras el anuncio realizado por el Gobierno de la nación caribeña, donde se enfatiza que la presencia del mandatario tiene como objetivo fortalecer las relaciones entre ambos países.\nPetro será recibido en la ciudad de Jacmel, ubicada en el sureste de Haití, donde se firmará un protocolo de cooperación que abarcará áreas clave como el comercio, la educación, la seguridad y la ayuda humanitaria.\nDurante su estancia, se llevará a cabo un Consejo de Ministros binacional en Jacmel, así como diversas actividades diseñadas “en beneficio” de la población, según han indicado las autoridades haitianas.\nCon motivo de la inminente llegada de Petro, se están llevando a cabo renovaciones en edificios y tramos de calles, así como la limpieza de las principales vías de la ciudad y la pavimentación de carreteras.\nTambién se están realizando anuncios audiovisuales en redes sociales para informar sobre la visita.\nAdemás, esta visita moviliza a todas las estructuras del Estado haitiano, incluyendo al Consejo Presidencial de Transición y a la Oficina del primer ministro.\nEntre los puntos destacados de la agenda se incluye un recorrido por Barranquilla, el mercado de hierro de Jacmel, la plaza Simón Bolívar y la casa histórica donde vivió Simón Bolívar durante su visita a la ciudad en el siglo XIX.\nCabe mencionar que esta visita se produce tras el Consejo Binacional de Ministros celebrado en diciembre de 2024 en Colombia, cuyo objetivo fue reforzar la cooperación bilateral en áreas como paz, seguridad, justicia, migración, economía, educación y cultura.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gobierno-de-haiti-confirma-visita-de-gustavo-petro/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 803,
+    "message_id": 85000,
+    "date": "2025-01-21T10:55:07+00:00",
+    "text": "teleSUR\nGobierno de Haití confirma visita de Gustavo Petro\nhttps://www.telesurtv.net/gobierno-de-haiti-confirma-visita-de-gustavo-petro/",
+    "photo_path": null,
+    "views": 2380,
+    "reactions": {
+      "👍": 30,
+      "🤔": 13,
+      "❤": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "la visita del presidente de colombia, gustavo petro, a haití se concretará este miércoles 22 de enero, tras el anuncio realizado por el gobierno de la nación caribeña, donde se enfatiza que la presencia del mandatario tiene como objetivo fortalecer las relaciones entre ambos países. petro será recibido en la ciudad de jacmel, ubicada en el sureste de haití, donde se firmará un protocolo de cooperación que abarcará áreas clave como el comercio, la educación, la seguridad y la ayuda humanitaria. durante su estancia, se llevará a cabo un consejo de ministros binacional en jacmel, así como diversas actividades diseñadas “en beneficio” de la población, según han indicado las autoridades haitianas. con motivo de la inminente llegada de petro, se están llevando a cabo renovaciones en edificios y tramos de calles, así como la limpieza de las principales vías de la ciudad y la pavimentación de carreteras. también se están realizando anuncios audiovisuales en redes sociales para informar sobre la visita. además, esta visita moviliza a todas las estructuras del estado haitiano, incluyendo al consejo presidencial de transición y a la oficina del primer ministro. entre los puntos destacados de la agenda se incluye un recorrido por barranquilla, el mercado de hierro de jacmel, la plaza simón bolívar y la casa histórica donde vivió simón bolívar durante su visita a la ciudad en el siglo xix. cabe mencionar que esta visita se produce tras el consejo binacional de ministros celebrado en diciembre de 2024 en colombia, cuyo objetivo fue reforzar la cooperación bilateral en áreas como paz, seguridad, justicia, migración, economía, educación y cultura.",
+    "tokens": [
+      "visita",
+      "presidente",
+      "colombia",
+      ",",
+      "gustavo",
+      "petro",
+      ",",
+      "haití",
+      "concretará",
+      "miércoles",
+      "22",
+      "enero",
+      ",",
+      "tras",
+      "anuncio",
+      "realizado",
+      "gobierno",
+      "nación",
+      "caribeña",
+      ",",
+      "enfatiza",
+      "presencia",
+      "mandatario",
+      "objetivo",
+      "fortalecer",
+      "relaciones",
+      "ambos",
+      "países",
+      ".",
+      "petro",
+      "recibido",
+      "ciudad",
+      "jacmel",
+      ",",
+      "ubicada",
+      "sureste",
+      "haití",
+      ",",
+      "firmará",
+      "protocolo",
+      "cooperación",
+      "abarcará",
+      "áreas",
+      "clave",
+      "comercio",
+      ",",
+      "educación",
+      ",",
+      "seguridad",
+      "ayuda",
+      "humanitaria",
+      ".",
+      "estancia",
+      ",",
+      "llevará",
+      "cabo",
+      "consejo",
+      "ministros",
+      "binacional",
+      "jacmel",
+      ",",
+      "así",
+      "diversas",
+      "actividades",
+      "diseñadas",
+      "“",
+      "beneficio",
+      "”",
+      "población",
+      ",",
+      "según",
+      "indicado",
+      "autoridades",
+      "haitianas",
+      ".",
+      "motivo",
+      "inminente",
+      "llegada",
+      "petro",
+      ",",
+      "llevando",
+      "cabo",
+      "renovaciones",
+      "edificios",
+      "tramos",
+      "calles",
+      ",",
+      "así",
+      "limpieza",
+      "principales",
+      "vías",
+      "ciudad",
+      "pavimentación",
+      "carreteras",
+      ".",
+      "realizando",
+      "anuncios",
+      "audiovisuales",
+      "redes",
+      "sociales",
+      "informar",
+      "visita",
+      ".",
+      "además",
+      ",",
+      "visita",
+      "moviliza",
+      "todas",
+      "estructuras",
+      "haitiano",
+      ",",
+      "incluyendo",
+      "consejo",
+      "presidencial",
+      "transición",
+      "oficina",
+      "primer",
+      "ministro",
+      ".",
+      "puntos",
+      "destacados",
+      "agenda",
+      "incluye",
+      "recorrido",
+      "barranquilla",
+      ",",
+      "mercado",
+      "hierro",
+      "jacmel",
+      ",",
+      "plaza",
+      "simón",
+      "bolívar",
+      "casa",
+      "histórica",
+      "vivió",
+      "simón",
+      "bolívar",
+      "visita",
+      "ciudad",
+      "siglo",
+      "xix",
+      ".",
+      "cabe",
+      "mencionar",
+      "visita",
+      "produce",
+      "tras",
+      "consejo",
+      "binacional",
+      "ministros",
+      "celebrado",
+      "diciembre",
+      "2024",
+      "colombia",
+      ",",
+      "cuyo",
+      "objetivo",
+      "reforzar",
+      "cooperación",
+      "bilateral",
+      "áreas",
+      "paz",
+      ",",
+      "seguridad",
+      ",",
+      "justicia",
+      ",",
+      "migración",
+      ",",
+      "economía",
+      ",",
+      "educación",
+      "cultura",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "FW": 67,
+      "NN": 75,
+      "IN": 14,
+      "VBD": 2,
+      "JJ": 22,
+      "NNS": 18,
+      "CD": 2,
+      "VBP": 11,
+      "VBN": 1,
+      "RB": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-FW": 13,
+      "FW-NN": 11,
+      "NN-IN": 10,
+      "IN-NNP": 3,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-NN": 14,
+      "NN-NNS": 7,
+      "NNS-CD": 1,
+      "CD-IN": 2,
+      "IN-FW": 7,
+      "FW-NNS": 4,
+      "NNS-VBP": 8,
+      "VBP-JJ": 7,
+      "NN-NN": 41,
+      "NN-FW": 6,
+      "FW-NNP": 13,
+      "FW-FW": 36,
+      "NN-JJ": 4,
+      "NNS-NNS": 3,
+      "JJ-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-NN": 9,
+      "FW-JJ": 3,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "JJ-NNP": 2,
+      "NNP-JJ": 1,
+      "NN-NNP": 5,
+      "JJ-FW": 4,
+      "NNS-IN": 2,
+      "IN-JJ": 2,
+      "IN-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNS-FW": 1,
+      "VBP-NNS": 2,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NNP": 1,
+      "IN-CD": 1,
+      "NNP-VBP": 1,
+      "JJ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 2,
+      "JJ-NN-NNS": 4,
+      "NN-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 5,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 7,
+      "NNP-FW-FW": 5,
+      "FW-FW-FW": 21,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 6,
+      "NN-NN-NN": 22,
+      "NN-FW-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 3,
+      "IN-NNP-FW": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NN": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-NNS": 2,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 3,
+      "NN-NNS-IN": 2,
+      "NNS-IN-JJ": 2,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "FW-NN-NNS": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNP-FW-JJ": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-JJ": 1,
+      "NNP-NNP-NN": 3,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-IN": 1,
+      "CD-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 75,
+        "FW": 67,
+        "NNP": 38,
+        "JJ": 22,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 36,
+        "JJ-NN": 14,
+        "NNP-FW": 13,
+        "FW-NNP": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 21,
+        "FW-NNP-FW": 7,
+        "NNP-NN-NN": 7,
+        "JJ-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 73,
+      "PP": 6,
+      "VP": 16,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('Jacmel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('cabo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP ('del', 'FW') NP PP (',', ',') NP (',', ',') NP VP ('22', 'CD') NP (',', ',') ('tras', 'EX') ('el', 'FW') NP ('el', 'FW') NP ('de', 'FW') ('la', 'FW') ('nación', 'FW') NP (',', ',') ('donde', 'FW') ('se', 'FW') ('enfatiza', 'FW') NP ('la', 'FW') ('presencia', 'FW') ('del', 'FW') NP NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('visita', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Gustavo', 'NNP') ('Petro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Haití', 'NNP') ('se', 'NN') ('concretará', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La visita"
+      },
+      {
+        "label": "NP",
+        "text": "presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Gustavo Petro"
+      },
+      {
+        "label": "NP",
+        "text": "a Haití se concretará este"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "de enero"
+      },
+      {
+        "label": "NP",
+        "text": "anuncio realizado por"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "caribeña"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "mandatario tiene como"
+      },
+      {
+        "label": "NP",
+        "text": "objetivo fortalecer las relaciones"
+      },
+      {
+        "label": "VP",
+        "text": "entre ambos países"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP visita/NNP)\n  del/FW\n  (NP presidente/NN)\n  (PP de/IN (NP Colombia/NNP))\n  ,/,\n  (NP Gustavo/NNP Petro/NNP)\n  ,/,\n  (NP a/DT Haití/NNP se/NN concretará/NN este/NN)\n  (VP miércoles/VBZ)\n  22/CD\n  (NP de/NN enero/NN)\n  ,/,\n  tras/EX\n  el/FW\n  (NP anuncio/NN realizado/NN por/NN)\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  la/FW\n  nación/FW\n  (NP caribeña/NN)\n  ,/,\n  donde/FW\n  se/FW\n  enfatiza/FW\n  (NP que/NN)\n  la/FW\n  presencia/FW\n  del/FW\n  (NP mandatario/NN tiene/NN como/NN)\n  (NP objetivo/JJ fortalecer/NN las/NNS relaciones/NNS)\n  (VP entre/VBP (NP ambos/JJ países/NNS))\n  ./.)",
+      "(S\n  (NP Petro/NNP será/NN recibido/NN)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Jacmel/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  (NP sureste/NN)\n  (PP de/IN (NP Haití/NNP))\n  ,/,\n  (NP donde/NN se/NN firmará/NN)\n  (NP un/JJ protocolo/NN)\n  de/IN\n  cooperación/FW\n  (NP que/JJ abarcará/NN áreas/NNS)\n  (VP clave/VBP)\n  (VP como/VBN (NP el/JJ comercio/NN))\n  ,/,\n  la/FW\n  educación/FW\n  ,/,\n  la/FW\n  seguridad/FW\n  y/FW\n  la/FW\n  ayuda/FW\n  (NP humanitaria/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP su/NN estancia/NN)\n  ,/,\n  se/FW\n  (VP llevará/VBZ (NP a/DT cabo/NN) (NP un/JJ Consejo/NNP))\n  de/FW\n  (NP Ministros/NNP)\n  (NP binacional/JJ en/NN Jacmel/NNP)\n  ,/,\n  (NP así/NN como/NN diversas/NN actividades/NNS)\n  (VP diseñadas/VBP “/JJ)\n  en/FW\n  beneficio/FW\n  ”/FW\n  de/FW\n  la/FW\n  población/FW\n  ,/,\n  según/FW\n  (NP han/NN indicado/NN las/NNS)\n  (PP autoridades/IN (NP haitianas/NNS))\n  ./.)",
+      "(S\n  (NP Con/NNP)\n  motivo/FW\n  de/FW\n  la/FW\n  inminente/FW\n  llegada/FW\n  de/FW\n  (NP Petro/NNP)\n  ,/,\n  (VP se/VBD (NP están/JJ llevando/NN) (NP a/DT cabo/NN))\n  (VP renovaciones/VBZ)\n  (PP en/IN (NP edificios/NNS))\n  (NP y/JJ tramos/NN)\n  (PP de/IN (NP calles/NNS))\n  ,/,\n  (VP así/VBP (NP como/NN la/NN))\n  limpieza/FW\n  de/FW\n  las/FW\n  (NP principales/NNS)\n  vías/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  y/FW\n  la/FW\n  pavimentación/FW\n  de/FW\n  carreteras/FW\n  ./.)",
+      "(S\n  (NP También/NNP)\n  (VP se/VBD (NP están/JJ realizando/NN anuncios/NNS))\n  (VP audiovisuales/VBZ)\n  en/FW\n  (NP redes/NNS sociales/NNS)\n  (VP para/VBP (NP informar/JJ sobre/NN la/NN visita/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación bilateral",
+        "position": [
+          1556,
+          1577
+        ],
+        "start": 1556,
+        "end": 1577
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "visita moviliza a todas las estructuras del estado haitiano, incluyendo al consejo presidencial",
+        "position": [
+          1023,
+          1118
+        ],
+        "start": 1023,
+        "end": 1118
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          480,
+          497
+        ],
+        "start": 480,
+        "end": 497
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la nación",
+        "position": [
+          136,
+          157
+        ],
+        "start": 136,
+        "end": 157
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de colombia",
+        "position": [
+          14,
+          36
+        ],
+        "start": 14,
+        "end": 36
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          28,
+          36
+        ],
+        "start": 28,
+        "end": 36
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado haitiano",
+        "position": [
+          1067,
+          1082
+        ],
+        "start": 1067,
+        "end": 1082
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza simón",
+        "position": [
+          1287,
+          1298
+        ],
+        "start": 1287,
+        "end": 1298
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "miércoles 22 de enero",
+        "position": [
+          80,
+          101
+        ],
+        "start": 80,
+        "end": 101
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo Presidencial de Transición",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado haitiano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Barranquilla",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de la nación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo de Ministros",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jacmel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Simón Bolívar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo Binacional de Ministros",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Oficina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "de Colombia",
+        "relacion": "CONCRETAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "CONCRETAR",
+        "objeto": "Gobierno de la nación"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "CONCRETAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "CONCRETAR",
+        "objeto": "Gobierno de la nación"
+      },
+      {
+        "sujeto": "Haití",
+        "relacion": "CONCRETAR",
+        "objeto": "Gobierno de la nación"
+      },
+      {
+        "sujeto": "Petro",
+        "relacion": "RECIBIR",
+        "objeto": "Jacmel"
+      },
+      {
+        "sujeto": "Petro",
+        "relacion": "RECIBIR",
+        "objeto": "Haití"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

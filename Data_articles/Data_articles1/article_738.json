@@ -1,0 +1,762 @@
+{
+  "url": "https://www.telesurtv.net/brasil-proceso-consulta-contra-aranceles-eeuu/",
+  "title": "Brasil inició proceso de consulta contra aranceles de EE.UU.",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Aranceles",
+    "Brasil",
+    "EE.UU."
+  ],
+  "text": "El Gobierno brasileño envió una comunicación oficial a Estados Unidos notificando el inicio de un proceso de consultas en respuesta al arancel del 50 % impuesto por Washington.\nEn dicha misiva, se otorgó un plazo de treinta días para que la Cámara de Comercio Exterior de Brasil se pronuncie sobre la viabilidad de aplicar la Ley de Reciprocidad, como mecanismo de defensa comercial ante arbitrariedad de EE.UU. de un día para el otro.\nDurante esta etapa, se conformará un comité técnico encargado de proponer acciones económicas compensatorias, que podrían incluir nuevos gravámenes y otras medidas de protección, especialmente en el ámbito de la propiedad intelectual. Estas disposiciones se activarían si la investigación concluye que el arancel estadounidense vulnera principios comerciales internacionales.\nEn este contexto, la respuesta brasileña busca aplicar una contramedida equivalente, aunque el presidente Luiz Inácio Lula da Silva ha manifestado que no tiene intención de recurrir a la reciprocidad de forma inmediata.\nSegún sus declaraciones, el proceso se desarrollará con la cautela propia de una gestión que prioriza el diálogo, en referencia a los intentos fallidos de establecer comunicación con la administración de Donald Trump.\nA pesar de los esfuerzos diplomáticos, Estados Unidos puso en marcha el arancel alegando razones políticas, entre ellas una presunta persecución judicial contra el expresidente Jair Bolsonaro, actualmente procesado por intento de golpe de Estado ante la Corte Suprema.\nDe lo que alguna vez fue una relación diplomática estable entre Brasil y Estados Unidos, hoy solo quedan imágenes.\nEn el contexto actual, marcado por fricciones políticas, el presidente Donald Trump ha promovido sanciones contra el magistrado Alexandre de Moraes, miembro de la Corte Suprema de Brasil y responsable del proceso judicial contra Jair Bolsonaro, alegando que ´´restringe la libertad de expresión´´\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/brasil-proceso-consulta-contra-aranceles-eeuu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 146,
+    "message_id": 103187,
+    "date": "2025-08-30T10:55:08+00:00",
+    "text": "teleSUR\nBrasil inició proceso de consulta para contrarrestar aranceles de EE.UU.\nhttps://www.telesurtv.net/brasil-proceso-consulta-contra-aranceles-eeuu/",
+    "photo_path": null,
+    "views": 2072,
+    "reactions": {
+      "❤": 28,
+      "👍": 15
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno brasileño envió una comunicación oficial a estados unidos notificando el inicio de un proceso de consultas en respuesta al arancel del 50 % impuesto por washington. en dicha misiva, se otorgó un plazo de treinta días para que la cámara de comercio exterior de brasil se pronuncie sobre la viabilidad de aplicar la ley de reciprocidad, como mecanismo de defensa comercial ante arbitrariedad de ee.uu. de un día para el otro. durante esta etapa, se conformará un comité técnico encargado de proponer acciones económicas compensatorias, que podrían incluir nuevos gravámenes y otras medidas de protección, especialmente en el ámbito de la propiedad intelectual. estas disposiciones se activarían si la investigación concluye que el arancel estadounidense vulnera principios comerciales internacionales. en este contexto, la respuesta brasileña busca aplicar una contramedida equivalente, aunque el presidente luiz inácio lula da silva ha manifestado que no tiene intención de recurrir a la reciprocidad de forma inmediata. según sus declaraciones, el proceso se desarrollará con la cautela propia de una gestión que prioriza el diálogo, en referencia a los intentos fallidos de establecer comunicación con la administración de donald trump. a pesar de los esfuerzos diplomáticos, estados unidos puso en marcha el arancel alegando razones políticas, entre ellas una presunta persecución judicial contra el expresidente jair bolsonaro, actualmente procesado por intento de golpe de estado ante la corte suprema. de lo que alguna vez fue una relación diplomática estable entre brasil y estados unidos, hoy solo quedan imágenes. en el contexto actual, marcado por fricciones políticas, el presidente donald trump ha promovido sanciones contra el magistrado alexandre de moraes, miembro de la corte suprema de brasil y responsable del proceso judicial contra jair bolsonaro, alegando que ´´restringe la libertad de expresión´´",
+    "tokens": [
+      "gobierno",
+      "brasileño",
+      "envió",
+      "comunicación",
+      "oficial",
+      "unidos",
+      "notificando",
+      "inicio",
+      "proceso",
+      "consultas",
+      "respuesta",
+      "arancel",
+      "50",
+      "%",
+      "impuesto",
+      "washington",
+      ".",
+      "dicha",
+      "misiva",
+      ",",
+      "otorgó",
+      "plazo",
+      "treinta",
+      "días",
+      "cámara",
+      "comercio",
+      "exterior",
+      "brasil",
+      "pronuncie",
+      "viabilidad",
+      "aplicar",
+      "ley",
+      "reciprocidad",
+      ",",
+      "mecanismo",
+      "defensa",
+      "comercial",
+      "arbitrariedad",
+      "ee.uu.",
+      "día",
+      ".",
+      "etapa",
+      ",",
+      "conformará",
+      "comité",
+      "técnico",
+      "encargado",
+      "proponer",
+      "acciones",
+      "económicas",
+      "compensatorias",
+      ",",
+      "podrían",
+      "incluir",
+      "nuevos",
+      "gravámenes",
+      "medidas",
+      "protección",
+      ",",
+      "especialmente",
+      "ámbito",
+      "propiedad",
+      "intelectual",
+      ".",
+      "disposiciones",
+      "activarían",
+      "si",
+      "investigación",
+      "concluye",
+      "arancel",
+      "estadounidense",
+      "vulnera",
+      "principios",
+      "comerciales",
+      "internacionales",
+      ".",
+      "contexto",
+      ",",
+      "respuesta",
+      "brasileña",
+      "busca",
+      "aplicar",
+      "contramedida",
+      "equivalente",
+      ",",
+      "aunque",
+      "presidente",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      "manifestado",
+      "intención",
+      "recurrir",
+      "reciprocidad",
+      "forma",
+      "inmediata",
+      ".",
+      "según",
+      "declaraciones",
+      ",",
+      "proceso",
+      "desarrollará",
+      "cautela",
+      "propia",
+      "gestión",
+      "prioriza",
+      "diálogo",
+      ",",
+      "referencia",
+      "intentos",
+      "fallidos",
+      "establecer",
+      "comunicación",
+      "administración",
+      "donald",
+      "trump",
+      ".",
+      "pesar",
+      "esfuerzos",
+      "diplomáticos",
+      ",",
+      "unidos",
+      "puso",
+      "marcha",
+      "arancel",
+      "alegando",
+      "razones",
+      "políticas",
+      ",",
+      "presunta",
+      "persecución",
+      "judicial",
+      "expresidente",
+      "jair",
+      "bolsonaro",
+      ",",
+      "actualmente",
+      "procesado",
+      "intento",
+      "golpe",
+      "corte",
+      "suprema",
+      ".",
+      "alguna",
+      "vez",
+      "relación",
+      "diplomática",
+      "estable",
+      "brasil",
+      "unidos",
+      ",",
+      "hoy",
+      "solo",
+      "quedan",
+      "imágenes",
+      ".",
+      "contexto",
+      "actual",
+      ",",
+      "marcado",
+      "fricciones",
+      "políticas",
+      ",",
+      "presidente",
+      "donald",
+      "trump",
+      "promovido",
+      "sanciones",
+      "magistrado",
+      "alexandre",
+      "moraes",
+      ",",
+      "miembro",
+      "corte",
+      "suprema",
+      "brasil",
+      "responsable",
+      "proceso",
+      "judicial",
+      "jair",
+      "bolsonaro",
+      ",",
+      "alegando",
+      "´´restringe",
+      "libertad",
+      "expresión´´"
+    ],
+    "token_count": 188,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "NN": 102,
+      "JJ": 31,
+      "MD": 2,
+      "VB": 2,
+      "IN": 13,
+      "NNS": 14,
+      "VBP": 7,
+      "CD": 1,
+      "FW": 59,
+      "VBD": 1,
+      "DT": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-NN": 14,
+      "NN-NN": 55,
+      "NN-JJ": 13,
+      "JJ-NN": 22,
+      "JJ-NNP": 4,
+      "NNP-MD": 1,
+      "MD-VB": 2,
+      "VB-NN": 1,
+      "NN-IN": 10,
+      "IN-JJ": 2,
+      "IN-NNS": 1,
+      "NNS-IN": 1,
+      "IN-NN": 2,
+      "NN-VBP": 2,
+      "VBP-NN": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NN-NNP": 9,
+      "IN-FW": 5,
+      "FW-NN": 5,
+      "NN-FW": 5,
+      "FW-NNP": 9,
+      "NNP-FW": 9,
+      "FW-FW": 38,
+      "FW-JJ": 4,
+      "IN-NNP": 3,
+      "FW-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 6,
+      "JJ-NNS": 2,
+      "NNS-MD": 1,
+      "VB-FW": 1,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-NNS": 6,
+      "NNS-NNS": 2,
+      "NNS-NNP": 3,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 3,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNP-IN": 2,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 10,
+      "NN-NN-JJ": 11,
+      "NN-JJ-NN": 8,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 7,
+      "NN-NN-NN": 23,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 2,
+      "NN-NN-IN": 5,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 15,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 2,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 5,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-MD": 1,
+      "NNS-MD-VB": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-NNS": 4,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NN-IN-NN": 1,
+      "NNP-NN-IN": 1,
+      "JJ-NN-NNP": 3,
+      "NNP-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "JJ-JJ-NNP": 2,
+      "NN-NNS-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 59,
+        "NNP": 46,
+        "JJ": 31,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 38,
+        "JJ-NN": 22,
+        "NNP-NNP": 17,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 23,
+        "JJ-NN-NN": 15,
+        "NN-NN-JJ": 11,
+        "NNP-NN-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 69,
+      "PP": 8,
+      "VP": 7,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0632
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP NP PP ('notificando', 'MD') VP PP PP PP VP ('50', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP') ('brasileño', 'NN') ('envió', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('comunicación', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "PP -> ('oficial', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('el', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('inicio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno brasileño envió"
+      },
+      {
+        "label": "NP",
+        "text": "una comunicación"
+      },
+      {
+        "label": "PP",
+        "text": "oficial a Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "a Estados Unidos"
+      },
+      {
+        "label": "VP",
+        "text": "el inicio"
+      },
+      {
+        "label": "NP",
+        "text": "inicio"
+      },
+      {
+        "label": "PP",
+        "text": "de un proceso"
+      },
+      {
+        "label": "NP",
+        "text": "un proceso"
+      },
+      {
+        "label": "PP",
+        "text": "de consultas"
+      },
+      {
+        "label": "NP",
+        "text": "consultas"
+      },
+      {
+        "label": "PP",
+        "text": "en respuesta al"
+      },
+      {
+        "label": "NP",
+        "text": "respuesta al"
+      },
+      {
+        "label": "VP",
+        "text": "arancel del"
+      },
+      {
+        "label": "NP",
+        "text": "% impuesto por Washington"
+      },
+      {
+        "label": "NP",
+        "text": "En dicha misiva"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP brasileño/NN envió/NN)\n  (NP una/JJ comunicación/NN)\n  (PP oficial/IN (NP a/DT Estados/NNP Unidos/NNP))\n  notificando/MD\n  (VP el/VB (NP inicio/NN))\n  (PP de/IN (NP un/JJ proceso/NN))\n  (PP de/IN (NP consultas/NNS))\n  (PP en/IN (NP respuesta/NN al/NN))\n  (VP arancel/VBP del/RB)\n  50/CD\n  (NP %/NN impuesto/NN por/NN Washington/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP dicha/NN misiva/NN)\n  ,/,\n  se/FW\n  otorgó/FW\n  (NP un/JJ plazo/NN)\n  de/IN\n  treinta/FW\n  (NP días/NN para/NN que/NN)\n  la/FW\n  (NP Cámara/NNP)\n  de/FW\n  (NP Comercio/NNP Exterior/NNP)\n  de/FW\n  (NP Brasil/NNP)\n  se/FW\n  (NP pronuncie/NN sobre/NN)\n  la/FW\n  viabilidad/FW\n  de/FW\n  aplicar/FW\n  la/FW\n  (NP Ley/NNP)\n  de/FW\n  (NP Reciprocidad/NNP)\n  ,/,\n  (NP como/NN mecanismo/NN)\n  de/IN\n  defensa/FW\n  (NP comercial/JJ ante/NN arbitrariedad/NN)\n  (PP de/IN (NP EE.UU./NNP))\n  de/FW\n  un/FW\n  día/FW\n  para/FW\n  el/FW\n  (NP otro/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP esta/NN etapa/NN)\n  ,/,\n  se/FW\n  (NP conformará/NN)\n  (NP un/JJ comité/NN técnico/NN)\n  encargado/FW\n  de/FW\n  proponer/FW\n  (NP acciones/NNS)\n  económicas/FW\n  (NP compensatorias/NNS)\n  ,/,\n  (NP que/NN podrían/NN incluir/NN)\n  (NP nuevos/JJ gravámenes/NNS)\n  y/RB\n  (VP otras/VBP (NP medidas/NNS))\n  de/FW\n  protección/FW\n  ,/,\n  especialmente/FW\n  en/FW\n  el/FW\n  ámbito/FW\n  de/FW\n  la/FW\n  propiedad/FW\n  (ADJP intelectual/JJ)\n  ./.)",
+      "(S\n  (NP Estas/NNP disposiciones/NNS)\n  (VP\n    se/VBD\n    (NP activarían/JJ si/NN la/NN)\n    (NP investigación/JJ concluye/NN que/NN))\n  (VP\n    el/VBP\n    (NP\n      arancel/JJ\n      estadounidense/NN\n      vulnera/NN\n      principios/NNS\n      comerciales/NNS\n      internacionales/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP este/NN contexto/NN)\n  ,/,\n  la/FW\n  respuesta/FW\n  brasileña/FW\n  (NP busca/NN aplicar/NN)\n  (NP una/JJ contramedida/NN equivalente/NN)\n  ,/,\n  (NP\n    aunque/JJ\n    el/NN\n    presidente/NN\n    Luiz/NNP\n    Inácio/NNP\n    Lula/NNP\n    da/NN\n    Silva/NNP\n    ha/NN\n    manifestado/NN\n    que/NN)\n  (NP no/DT tiene/NN intención/NN)\n  de/IN\n  recurrir/FW\n  a/DT\n  la/FW\n  reciprocidad/FW\n  de/FW\n  forma/FW\n  (NP inmediata/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          152,
+          160
+        ],
+        "start": 152,
+        "end": 160
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          365,
+          372
+        ],
+        "start": 365,
+        "end": 372
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "intelectual. estas disposiciones",
+        "position": [
+          658,
+          690
+        ],
+        "start": 658,
+        "end": 690
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente luiz inácio",
+        "position": [
+          907,
+          929
+        ],
+        "start": 907,
+        "end": 929
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          272,
+          278
+        ],
+        "start": 272,
+        "end": 278
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          55,
+          69
+        ],
+        "start": 55,
+        "end": 69
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado ante",
+        "position": [
+          1489,
+          1500
+        ],
+        "start": 1489,
+        "end": 1500
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          1608,
+          1611
+        ],
+        "start": 1608,
+        "end": 1611
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1443,
+          1454
+        ],
+        "start": 1443,
+        "end": 1454
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Corte Suprema",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jair Bolsonaro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cámara de Comercio Exterior de Brasil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alexandre de Moraes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno brasileño",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "golpe de Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno brasileño",
+        "relacion": "ENVIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno brasileño",
+        "relacion": "ENVIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ENVIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Cámara de Comercio Exterior de Brasil",
+        "relacion": "PRONUNCIAR_OTORGAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PONER",
+        "objeto": "Jair Bolsonaro"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PONER",
+        "objeto": "golpe de Estado"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PONER",
+        "objeto": "Corte Suprema"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "PROMOVER",
+        "objeto": "Alexandre de Moraes"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "PROMOVER",
+        "objeto": "Corte Suprema"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "PROMOVER",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "PROMOVER",
+        "objeto": "Jair Bolsonaro"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.3818,
+    "pos": 0.017,
+    "neu": 0.975,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

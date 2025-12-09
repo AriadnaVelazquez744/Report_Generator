@@ -1,0 +1,720 @@
+{
+  "url": "https://www.telesurtv.net/mexico-disposicion-recibir-ninos-huerfano-gaza/",
+  "title": "México muestra disposición en recibir a niños huérfanos de Gaza - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "apoyo palestina",
+    "Asedio",
+    "Gaza",
+    "huérfanos",
+    "México",
+    "Palestina"
+  ],
+  "text": "La mandataria mexicana, Claudia Sheinbaum, manifestó su apoyo a la propuesta del presidente del Senado, Gerardo Fernández Noroña, para que el país acoja a niños palestinos que quedaron huérfanos a causa del conflicto en la Franja de Gaza. “Está muy bien, si es necesario, por supuesto. México siempre va a estar abierto”, afirmó la mandataria durante su conferencia matutina.\n\nLa iniciativa, que busca organizar una operación humanitaria para el traslado y refugio de estos menores, será revisada por el canciller Juan Ramón de la Fuente para analizar la viabilidad de establecer un programa especial.\nPor su parte, el senador Noroña, quien presentará formalmente la propuesta ante el Senado, recordó la política exterior histórica del país, citando el asilo otorgado durante la Guerra Civil española por el presidente Lázaro Cárdenas.\n\n\n\nNoroña enfatizó que recibir a los niños de Gaza no solo sería un acto solidario, sino también coherente con los principios de México, nación que ofrecido refugio a personas afectadas por conflictos. La idea surgió después de que el senador recibiera un vídeo de una niña palestina pidiendo ayuda, lo que lo llevó a reflexionar sobre la urgente necesidad de protección para los menores en Gaza, que enfrentan condiciones extremas de vulnerabilidad, escasez de alimentos y constantes bombardeos.\n\n\n\n\nIsrael mantiene su guerra genocida contra Palestina, pese al profundo rechazo de la comunidad internacional por la situación de los niños en Gaza, que han denunciando que la infancia palestina es la principal víctima de los ataques y del asedio.\nLos menores enfrentan no solo la amenaza constante de la violencia, sino también detenciones, intimidaciones y la privación de sus derechos fundamentales.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-disposicion-recibir-ninos-huerfano-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1415,
+    "message_id": 101631,
+    "date": "2025-08-12T21:55:17+00:00",
+    "text": "teleSUR\nMéxico muestra disposición en recibir a niños huérfanos de Gaza\nhttps://www.telesurtv.net/mexico-disposicion-recibir-ninos-huerfano-gaza/",
+    "photo_path": null,
+    "views": 1820,
+    "reactions": {
+      "❤": 37,
+      "🤔": 5,
+      "👏": 2,
+      "👎": 1
+    },
+    "total_reactions": 45
+  },
+  "preprocessing": {
+    "cleaned": "la mandataria mexicana, claudia sheinbaum, manifestó su apoyo a la propuesta del presidente del senado, gerardo fernández noroña, para que el país acoja a niños palestinos que quedaron huérfanos a causa del conflicto en la franja de gaza. “está muy bien, si es necesario, por supuesto. méxico siempre va a estar abierto”, afirmó la mandataria durante su conferencia matutina. la iniciativa, que busca organizar una operación humanitaria para el traslado y refugio de estos menores, será revisada por el canciller juan ramón de la fuente para analizar la viabilidad de establecer un programa especial. por su parte, el senador noroña, quien presentará formalmente la propuesta ante el senado, recordó la política exterior histórica del país, citando el asilo otorgado durante la guerra civil española por el presidente lázaro cárdenas. noroña enfatizó que recibir a los niños de gaza no solo sería un acto solidario, sino también coherente con los principios de méxico, nación que ofrecido refugio a personas afectadas por conflictos. la idea surgió después de que el senador recibiera un vídeo de una niña palestina pidiendo ayuda, lo que lo llevó a reflexionar sobre la urgente necesidad de protección para los menores en gaza, que enfrentan condiciones extremas de vulnerabilidad, escasez de alimentos y constantes bombardeos. israel mantiene su guerra genocida contra palestina, pese al profundo rechazo de la comunidad internacional por la situación de los niños en gaza, que han denunciando que la infancia palestina es la principal víctima de los ataques y del asedio. los menores enfrentan no solo la amenaza constante de la violencia, sino también detenciones, intimidaciones y la privación de sus derechos fundamentales.",
+    "tokens": [
+      "mandataria",
+      "mexicana",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "manifestó",
+      "apoyo",
+      "propuesta",
+      "presidente",
+      "senado",
+      ",",
+      "gerardo",
+      "fernández",
+      "noroña",
+      ",",
+      "país",
+      "acoja",
+      "niños",
+      "palestinos",
+      "quedaron",
+      "huérfanos",
+      "causa",
+      "conflicto",
+      "franja",
+      "gaza",
+      ".",
+      "“",
+      "bien",
+      ",",
+      "si",
+      "necesario",
+      ",",
+      "supuesto",
+      ".",
+      "méxico",
+      "siempre",
+      "va",
+      "abierto",
+      "”",
+      ",",
+      "afirmó",
+      "mandataria",
+      "conferencia",
+      "matutina",
+      ".",
+      "iniciativa",
+      ",",
+      "busca",
+      "organizar",
+      "operación",
+      "humanitaria",
+      "traslado",
+      "refugio",
+      "menores",
+      ",",
+      "revisada",
+      "canciller",
+      "juan",
+      "ramón",
+      "fuente",
+      "analizar",
+      "viabilidad",
+      "establecer",
+      "programa",
+      "especial",
+      ".",
+      "parte",
+      ",",
+      "senador",
+      "noroña",
+      ",",
+      "presentará",
+      "formalmente",
+      "propuesta",
+      "senado",
+      ",",
+      "recordó",
+      "política",
+      "exterior",
+      "histórica",
+      "país",
+      ",",
+      "citando",
+      "asilo",
+      "otorgado",
+      "guerra",
+      "civil",
+      "española",
+      "presidente",
+      "lázaro",
+      "cárdenas",
+      ".",
+      "noroña",
+      "enfatizó",
+      "recibir",
+      "niños",
+      "gaza",
+      "solo",
+      "acto",
+      "solidario",
+      ",",
+      "sino",
+      "coherente",
+      "principios",
+      "méxico",
+      ",",
+      "nación",
+      "ofrecido",
+      "refugio",
+      "personas",
+      "afectadas",
+      "conflictos",
+      ".",
+      "idea",
+      "surgió",
+      "después",
+      "senador",
+      "recibiera",
+      "vídeo",
+      "niña",
+      "palestina",
+      "pidiendo",
+      "ayuda",
+      ",",
+      "llevó",
+      "reflexionar",
+      "urgente",
+      "necesidad",
+      "protección",
+      "menores",
+      "gaza",
+      ",",
+      "enfrentan",
+      "condiciones",
+      "extremas",
+      "vulnerabilidad",
+      ",",
+      "escasez",
+      "alimentos",
+      "constantes",
+      "bombardeos",
+      ".",
+      "israel",
+      "mantiene",
+      "guerra",
+      "genocida",
+      "palestina",
+      ",",
+      "pese",
+      "profundo",
+      "rechazo",
+      "comunidad",
+      "internacional",
+      "situación",
+      "niños",
+      "gaza",
+      ",",
+      "denunciando",
+      "infancia",
+      "palestina",
+      "principal",
+      "víctima",
+      "ataques",
+      "asedio",
+      ".",
+      "menores",
+      "enfrentan",
+      "solo",
+      "amenaza",
+      "constante",
+      "violencia",
+      ",",
+      "sino",
+      "detenciones",
+      ",",
+      "intimidaciones",
+      "privación",
+      "derechos",
+      "fundamentales",
+      "."
+    ],
+    "token_count": 181,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "FW": 52,
+      "NN": 118,
+      "JJ": 23,
+      "IN": 10,
+      "NNS": 11,
+      "VBP": 7,
+      "DT": 2,
+      "CC": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 4,
+      "FW-FW": 29,
+      "FW-NNP": 9,
+      "NNP-NNP": 11,
+      "NNP-NN": 12,
+      "NN-NN": 81,
+      "NN-FW": 8,
+      "NN-JJ": 12,
+      "JJ-NN": 15,
+      "FW-NN": 7,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "NN-NNP": 5,
+      "FW-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 2,
+      "NNP-IN": 1,
+      "FW-JJ": 4,
+      "JJ-NNP": 3,
+      "IN-NNP": 3,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "IN-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-FW": 2,
+      "NN-NNS": 4,
+      "VBP-NNP": 1,
+      "NNS-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-JJ": 1,
+      "VBP-FW": 2,
+      "NNP-NNS": 1,
+      "VBP-DT": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 12,
+      "NN-NN-NN": 54,
+      "NN-NN-FW": 7,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NN-NN-JJ": 10,
+      "NN-JJ-NN": 8,
+      "JJ-NN-NN": 9,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 18,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 2,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NN-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "FW-NNP-NN": 2,
+      "NN-FW-JJ": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 2,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 118,
+        "FW": 52,
+        "NNP": 33,
+        "JJ": 23,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 81,
+        "FW-FW": 29,
+        "JJ-NN": 15,
+        "NNP-NN": 12,
+        "NN-JJ": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 54,
+        "FW-FW-FW": 18,
+        "NNP-NN-NN": 12,
+        "NN-NN-JJ": 10,
+        "JJ-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 14,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0412
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0309
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP VP (',', ',') NP (',', ',') NP VP VP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('mandataria', 'NNP') ('mexicana', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('manifestó', 'NN') ('su', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "VP -> ('apoyo', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('propuesta', 'NN') ('del', 'NN') ('presidente', 'NN') ('del', 'NN') ('Senado', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('Gerardo', 'NNP') ('Fernández', 'NNP') ('Noroña', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('para', 'NN') ('que', 'NN') ('el', 'NN') ('país', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La mandataria mexicana"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "manifestó su"
+      },
+      {
+        "label": "VP",
+        "text": "apoyo a la propuesta del presidente del Senado"
+      },
+      {
+        "label": "NP",
+        "text": "a la propuesta del presidente del Senado"
+      },
+      {
+        "label": "NP",
+        "text": "Gerardo Fernández Noroña"
+      },
+      {
+        "label": "NP",
+        "text": "para que el país"
+      },
+      {
+        "label": "VP",
+        "text": "acoja a niños palestinos que quedaron"
+      },
+      {
+        "label": "NP",
+        "text": "a niños palestinos que quedaron"
+      },
+      {
+        "label": "VP",
+        "text": "huérfanos a causa del conflicto"
+      },
+      {
+        "label": "NP",
+        "text": "a causa del conflicto"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "“ Está muy bien"
+      },
+      {
+        "label": "NP",
+        "text": "si es necesario"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP mandataria/NNP mexicana/NN)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP manifestó/NN su/NN)\n  (VP\n    apoyo/VBZ\n    (NP\n      a/DT\n      la/NN\n      propuesta/NN\n      del/NN\n      presidente/NN\n      del/NN\n      Senado/NNP))\n  ,/,\n  (NP Gerardo/NNP Fernández/NNP Noroña/NNP)\n  ,/,\n  (NP para/NN que/NN el/NN país/NN)\n  (VP acoja/VBZ (NP a/DT niños/JJ palestinos/NN que/NN quedaron/NN))\n  (VP huérfanos/VBD (NP a/DT causa/NN del/NN conflicto/NN))\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Está/NNP muy/NN bien/NN)\n  ,/,\n  (NP si/JJ es/NN necesario/NN)\n  ,/,\n  (NP por/NN supuesto/NN)\n  ./.)",
+      "(S\n  (NP México/NNP siempre/NN va/NN)\n  (NP a/DT estar/NN abierto/NN ”/NNP)\n  ,/,\n  (NP afirmó/NN la/NN)\n  mandataria/FW\n  (NP durante/NN su/NN conferencia/NN matutina/NN)\n  ./.)",
+      "(S\n  (NP La/NNP iniciativa/NN)\n  ,/,\n  (NP que/JJ busca/NN organizar/NN)\n  (NP\n    una/JJ\n    operación/NN\n    humanitaria/NN\n    para/NN\n    el/NN\n    traslado/NN\n    y/NN\n    refugio/NN)\n  de/IN\n  estos/FW\n  (NP menores/NNS)\n  ,/,\n  (VP\n    será/VBP\n    (NP revisada/JJ por/NN el/NN canciller/NN Juan/NNP Ramón/NNP))\n  de/IN\n  la/FW\n  (NP Fuente/NNP)\n  para/FW\n  (NP analizar/NN)\n  la/FW\n  viabilidad/FW\n  de/FW\n  establecer/FW\n  (NP un/JJ programa/NN especial/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  (NP senador/NN Noroña/NNP)\n  ,/,\n  (NP quien/NN presentará/NN formalmente/NN)\n  la/FW\n  propuesta/FW\n  ante/FW\n  el/FW\n  (NP Senado/NNP)\n  ,/,\n  (NP recordó/NN la/NN)\n  política/FW\n  (NP exterior/JJ histórica/NN del/NN país/NN)\n  ,/,\n  (NP citando/NN el/NN asilo/NN otorgado/NN durante/NN)\n  la/FW\n  (NP\n    Guerra/NNP\n    Civil/NNP\n    española/NN\n    por/NN\n    el/NN\n    presidente/NN\n    Lázaro/NNP\n    Cárdenas/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          43,
+          52
+        ],
+        "start": 43,
+        "end": 52
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en la",
+        "position": [
+          207,
+          222
+        ],
+        "start": 207,
+        "end": 222
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo a la propuesta del presidente del senado, gerardo fernández noroña, para que el país",
+        "position": [
+          56,
+          146
+        ],
+        "start": 56,
+        "end": 146
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          322,
+          328
+        ],
+        "start": 322,
+        "end": 328
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de alimentos",
+        "position": [
+          1287,
+          1307
+        ],
+        "start": 1287,
+        "end": 1307
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del senado",
+        "position": [
+          81,
+          102
+        ],
+        "start": 81,
+        "end": 102
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          286,
+          292
+        ],
+        "start": 286,
+        "end": 292
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          1110,
+          1119
+        ],
+        "start": 1110,
+        "end": 1119
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lázaro Cárdenas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juan Ramón de la Fuente",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Noroña",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gerardo Fernández Noroña",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Senado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "MANIFESTAR",
+        "objeto": "Senado"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "MANIFESTAR",
+        "objeto": "Gerardo Fernández Noroña"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "MANIFESTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Senado",
+        "relacion": "MANIFESTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gerardo Fernández Noroña",
+        "relacion": "MANIFESTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Noroña",
+        "relacion": "RECORDAR",
+        "objeto": "Lázaro Cárdenas"
+      },
+      {
+        "sujeto": "Senado",
+        "relacion": "PRESENTAR_RECORDAR",
+        "objeto": "Lázaro Cárdenas"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Palestina",
+        "relacion": "MANTENER",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.983,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

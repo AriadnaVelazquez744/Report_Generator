@@ -1,0 +1,735 @@
+{
+  "url": "https://www.telesurtv.net/guterres-israel-revertir-plan-asentamientos/",
+  "title": "Guterres pidió a Israel revertir plan sobre asentamientos",
+  "section": "Mundo",
+  "tags": [
+    "António Guterres",
+    "asentamientos",
+    "Cisjordania",
+    "Israel",
+    "ONU"
+  ],
+  "text": "El secretario general de Naciones Unidas (ONU), António Guterres, pidió este jueves a Israel que revierta su decisión de autorizar la construcción de nuevos asentamientos ilegales en Cisjordania y renovó el llamado a un alto el fuego inmediato en la Franja de Gaza.\n“La decisión de las autoridades israelíes de expandir la construcción de asentamientos ilegales, que dividirán Cisjordania, debe ser revertida. Cualquier construcción de asentamientos es una violación de la ley internacional“, afirmó Guterres en medio de la Conferencia de Desarrollo Africano celebrada en la ciudad de Yokohama, Japón.\nAdemás reiteró que es “vital” alcanzar un alto el fuego inmediato en el territorio de la Franja de Gaza y la liberación incondicional de todos los cautivos, así como “evitar la muerte masiva y la destrucción que una operación militar contra Gaza causarían de forma inevitable”.\n\n\n“Necesitamos que la diplomacia silencie las pistolas y prevenga una escalada, acceso humanitario para llegar a la gente necesitada y un apoyo fuerte a los esfuerzos regionales para reconstruir la confianza y las instituciones”, dijo el máximo responsable de la ONU.\nTambién se refirió a la necesidad de impulsar una reforma del Consejo de Seguridad del organismo, debido a “las divisiones geopolíticas de las superpotencias”, “ha sido incapaz de encontrar el consenso necesario para poner fin a todos estos conflictos“, entre los que mencionó el palestino-israelí, la crisis en Oriente Medio y el conflicto en Ucrania.\nGuterres indicó que las instituciones y agencias del organismo deben reflejar el mundo actual, no el que había en 1945. “Esto implica un Consejo de Seguridad reformado para ser más representativo y efectivo” declaró el máximo titular de la ONU.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/guterres-israel-revertir-plan-asentamientos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 808,
+    "message_id": 102348,
+    "date": "2025-08-21T08:55:12+00:00",
+    "text": "teleSUR\nAntónio Guterres pidió a Israel revertir el plan sobre asentamientos ilegales en Cisjordania\nhttps://www.telesurtv.net/guterres-israel-revertir-plan-asentamientos/",
+    "photo_path": null,
+    "views": 2094,
+    "reactions": {
+      "🤡": 41,
+      "👍": 9,
+      "😈": 3,
+      "❤": 2,
+      "🤔": 1,
+      "🥱": 1
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "el secretario general de naciones unidas (onu), antónio guterres, pidió este jueves a israel que revierta su decisión de autorizar la construcción de nuevos asentamientos ilegales en cisjordania y renovó el llamado a un alto el fuego inmediato en la franja de gaza. “la decisión de las autoridades israelíes de expandir la construcción de asentamientos ilegales, que dividirán cisjordania, debe ser revertida. cualquier construcción de asentamientos es una violación de la ley internacional“, afirmó guterres en medio de la conferencia de desarrollo africano celebrada en la ciudad de yokohama, japón. además reiteró que es “vital” alcanzar un alto el fuego inmediato en el territorio de la franja de gaza y la liberación incondicional de todos los cautivos, así como “evitar la muerte masiva y la destrucción que una operación militar contra gaza causarían de forma inevitable”. “necesitamos que la diplomacia silencie las pistolas y prevenga una escalada, acceso humanitario para llegar a la gente necesitada y un apoyo fuerte a los esfuerzos regionales para reconstruir la confianza y las instituciones”, dijo el máximo responsable de la onu. también se refirió a la necesidad de impulsar una reforma del consejo de seguridad del organismo, debido a “las divisiones geopolíticas de las superpotencias”, “ha sido incapaz de encontrar el consenso necesario para poner fin a todos estos conflictos“, entre los que mencionó el palestino-israelí, la crisis en oriente medio y el conflicto en ucrania. guterres indicó que las instituciones y agencias del organismo deben reflejar el mundo actual, no el que había en 1945. “esto implica un consejo de seguridad reformado para ser más representativo y efectivo” declaró el máximo titular de la onu.",
+    "tokens": [
+      "secretario",
+      "general",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      ",",
+      "antónio",
+      "guterres",
+      ",",
+      "pidió",
+      "jueves",
+      "israel",
+      "revierta",
+      "decisión",
+      "autorizar",
+      "construcción",
+      "nuevos",
+      "asentamientos",
+      "ilegales",
+      "cisjordania",
+      "renovó",
+      "llamado",
+      "alto",
+      "fuego",
+      "inmediato",
+      "franja",
+      "gaza",
+      ".",
+      "“",
+      "decisión",
+      "autoridades",
+      "israelíes",
+      "expandir",
+      "construcción",
+      "asentamientos",
+      "ilegales",
+      ",",
+      "dividirán",
+      "cisjordania",
+      ",",
+      "debe",
+      "ser",
+      "revertida",
+      ".",
+      "cualquier",
+      "construcción",
+      "asentamientos",
+      "violación",
+      "ley",
+      "internacional",
+      "“",
+      ",",
+      "afirmó",
+      "guterres",
+      "medio",
+      "conferencia",
+      "desarrollo",
+      "africano",
+      "celebrada",
+      "ciudad",
+      "yokohama",
+      ",",
+      "japón",
+      ".",
+      "además",
+      "reiteró",
+      "“",
+      "vital",
+      "”",
+      "alcanzar",
+      "alto",
+      "fuego",
+      "inmediato",
+      "territorio",
+      "franja",
+      "gaza",
+      "liberación",
+      "incondicional",
+      "cautivos",
+      ",",
+      "así",
+      "“",
+      "evitar",
+      "muerte",
+      "masiva",
+      "destrucción",
+      "operación",
+      "militar",
+      "gaza",
+      "causarían",
+      "forma",
+      "inevitable",
+      "”",
+      ".",
+      "“",
+      "necesitamos",
+      "diplomacia",
+      "silencie",
+      "pistolas",
+      "prevenga",
+      "escalada",
+      ",",
+      "acceso",
+      "humanitario",
+      "llegar",
+      "gente",
+      "necesitada",
+      "apoyo",
+      "fuerte",
+      "esfuerzos",
+      "regionales",
+      "reconstruir",
+      "confianza",
+      "instituciones",
+      "”",
+      ",",
+      "dijo",
+      "máximo",
+      "responsable",
+      "onu",
+      ".",
+      "refirió",
+      "necesidad",
+      "impulsar",
+      "reforma",
+      "consejo",
+      "seguridad",
+      "organismo",
+      ",",
+      "debido",
+      "“",
+      "divisiones",
+      "geopolíticas",
+      "superpotencias",
+      "”",
+      ",",
+      "“",
+      "sido",
+      "incapaz",
+      "encontrar",
+      "consenso",
+      "necesario",
+      "poner",
+      "fin",
+      "conflictos",
+      "“",
+      ",",
+      "mencionó",
+      "palestino-israelí",
+      ",",
+      "crisis",
+      "oriente",
+      "medio",
+      "conflicto",
+      "ucrania",
+      ".",
+      "guterres",
+      "indicó",
+      "instituciones",
+      "agencias",
+      "organismo",
+      "deben",
+      "reflejar",
+      "mundo",
+      "actual",
+      ",",
+      "1945",
+      ".",
+      "“",
+      "implica",
+      "consejo",
+      "seguridad",
+      "reformado",
+      "ser",
+      "representativo",
+      "efectivo",
+      "”",
+      "declaró",
+      "máximo",
+      "titular",
+      "onu",
+      "."
+    ],
+    "token_count": 184,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 86,
+      "IN": 9,
+      "VBZ": 5,
+      "NNS": 11,
+      "JJ": 28,
+      "FW": 70,
+      "VBP": 7,
+      "VBD": 1,
+      "RB": 1,
+      "DT": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 51,
+      "NN-IN": 7,
+      "IN-NNP": 2,
+      "NNP-NNP": 11,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NN-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-JJ": 10,
+      "JJ-NN": 15,
+      "IN-FW": 6,
+      "FW-FW": 41,
+      "FW-NNS": 3,
+      "NNS-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-NNP": 1,
+      "FW-NNP": 12,
+      "NNP-FW": 9,
+      "VBP-IN": 1,
+      "VBP-JJ": 5,
+      "JJ-NNP": 4,
+      "NN-NNP": 3,
+      "NN-FW": 9,
+      "FW-JJ": 7,
+      "JJ-FW": 3,
+      "VBZ-FW": 1,
+      "NN-VBP": 1,
+      "FW-NN": 7,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NNS": 3,
+      "NNP-IN": 1,
+      "NNS-FW": 1,
+      "VBZ-JJ": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "JJ-DT": 1,
+      "DT-NN": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 25,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NN": 29,
+      "JJ-NN-NN": 10,
+      "IN-FW-NNP": 3,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 7,
+      "FW-FW-JJ": 7,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NN-NN-FW": 5,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-JJ": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNP": 2,
+      "FW-JJ-NNP": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NN-JJ-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-FW-NNP": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "FW-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 86,
+        "FW": 70,
+        "NNP": 36,
+        "JJ": 28,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "FW-FW": 41,
+        "JJ-NN": 15,
+        "FW-NNP": 12,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 25,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 8,
+        "NN-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 70,
+      "PP": 3,
+      "VP": 17,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP PP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP VP ('de', 'IN') ('autorizar', 'FW') ('la', 'FW') ('construcción', 'FW') ('de', 'FW') ('nuevos', 'FW') NP VP VP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('secretario', 'NN') ('general', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('António', 'NNP') ('Guterres', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('pidió', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('jueves', 'VBZ') NP NP",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El secretario general"
+      },
+      {
+        "label": "PP",
+        "text": "de Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "ONU"
+      },
+      {
+        "label": "NP",
+        "text": "António Guterres"
+      },
+      {
+        "label": "NP",
+        "text": "pidió este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves a Israel que revierta su decisión"
+      },
+      {
+        "label": "NP",
+        "text": "a Israel que revierta"
+      },
+      {
+        "label": "NP",
+        "text": "su decisión"
+      },
+      {
+        "label": "NP",
+        "text": "asentamientos ilegales"
+      },
+      {
+        "label": "VP",
+        "text": "en Cisjordania y renovó el"
+      },
+      {
+        "label": "NP",
+        "text": "Cisjordania y renovó el"
+      },
+      {
+        "label": "VP",
+        "text": "llamado a un alto el fuego inmediato"
+      },
+      {
+        "label": "NP",
+        "text": "a un alto el fuego inmediato"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP secretario/NN general/NN)\n  (PP de/IN (NP Naciones/NNP Unidas/NNP))\n  (/(\n  (NP ONU/NNP)\n  )/)\n  ,/,\n  (NP António/NNP Guterres/NNP)\n  ,/,\n  (NP pidió/NN este/NN)\n  (VP\n    jueves/VBZ\n    (NP a/DT Israel/NNP que/NN revierta/NN)\n    (NP su/JJ decisión/NN))\n  de/IN\n  autorizar/FW\n  la/FW\n  construcción/FW\n  de/FW\n  nuevos/FW\n  (NP asentamientos/NNS ilegales/NNS)\n  (VP en/VBP (NP Cisjordania/NNP y/NNP renovó/NN el/NN))\n  (VP\n    llamado/VBZ\n    (NP a/DT un/JJ alto/NN el/NN fuego/NN inmediato/NN))\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP)\n  decisión/FW\n  de/FW\n  las/FW\n  (NP autoridades/NNS)\n  (VP israelíes/VBP)\n  de/IN\n  expandir/FW\n  la/FW\n  construcción/FW\n  de/FW\n  asentamientos/FW\n  (NP ilegales/NNS)\n  ,/,\n  (NP que/NN dividirán/NN Cisjordania/NNP)\n  ,/,\n  (VP debe/VBZ (NP ser/JJR revertida/NN))\n  ./.)",
+      "(S\n  (NP Cualquier/NNP construcción/NN)\n  de/FW\n  asentamientos/FW\n  es/FW\n  (ADJP una/JJ)\n  violación/FW\n  de/FW\n  la/FW\n  ley/FW\n  (NP internacional/JJ “/NN)\n  ,/,\n  (NP afirmó/JJ Guterres/NNP)\n  en/FW\n  medio/FW\n  de/FW\n  la/FW\n  (NP Conferencia/NNP)\n  de/FW\n  (NP Desarrollo/NNP Africano/NNP celebrada/NN en/NN)\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Yokohama/NNP)\n  ,/,\n  (NP Japón/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP reiteró/NN que/NN es/NN “/NNP)\n  (NP vital/JJ ”/NNP alcanzar/NN)\n  (NP un/JJ alto/NN el/NN fuego/NN inmediato/NN)\n  en/IN\n  el/FW\n  (NP territorio/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  y/CC\n  la/FW\n  (ADJP liberación/JJ)\n  (ADJP incondicional/JJ)\n  de/FW\n  todos/FW\n  los/FW\n  (NP cautivos/NN)\n  ,/,\n  (NP así/JJ como/NN “/NNP evitar/NN la/NN)\n  muerte/FW\n  masiva/FW\n  y/FW\n  la/FW\n  destrucción/FW\n  (NP que/NN)\n  (NP una/JJ operación/NN militar/NN)\n  (NP contra/JJ Gaza/NNP causarían/NN)\n  de/FW\n  forma/FW\n  (NP inevitable/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Necesitamos/NNP que/NN la/NN diplomacia/NN silencie/NN)\n  (VP las/VBZ (NP pistolas/NNS))\n  y/CC\n  (NP prevenga/NN)\n  (NP una/JJ escalada/NN)\n  ,/,\n  (VP acceso/VBP (NP humanitario/NN para/NN))\n  (VP llegar/VBD (NP a/DT la/NN gente/NN))\n  necesitada/FW\n  (NP y/NN)\n  (NP un/JJ apoyo/NN)\n  (VP fuerte/VBD (NP a/DT los/JJ esfuerzos/NN regionales/NNS))\n  (VP\n    para/VBP\n    (NP\n      reconstruir/JJ\n      la/NN\n      confianza/NN\n      y/NN\n      las/NN\n      instituciones/NNS\n      ”/NNP))\n  ,/,\n  (NP dijo/NN el/NN máximo/NN)\n  (ADJP responsable/JJ)\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "PAISES",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en ucrania",
+        "position": [
+          1479,
+          1499
+        ],
+        "start": 1479,
+        "end": 1499
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          493,
+          499
+        ],
+        "start": 493,
+        "end": 499
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          25,
+          40
+        ],
+        "start": 25,
+        "end": 40
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          1438,
+          1445
+        ],
+        "start": 1438,
+        "end": 1445
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Japón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yokohama",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guterres",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "António Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "PEDIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "PEDIR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "PEDIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "PEDIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "PEDIR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "PEDIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "PEDIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "PEDIR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "PEDIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PEDIR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PEDIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "AUTORIZAR_REVERTIR_PEDIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Guterres",
+        "relacion": "AFIRMAR",
+        "objeto": "Yokohama"
+      },
+      {
+        "sujeto": "Guterres",
+        "relacion": "AFIRMAR",
+        "objeto": "Japón"
+      },
+      {
+        "sujeto": "Consejo de Seguridad",
+        "relacion": "IMPULSAR_REFERIR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Consejo de Seguridad",
+        "relacion": "IMPLICAR_DECLARAR",
+        "objeto": "ONU"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.743,
+    "pos": 0.0,
+    "neu": 0.976,
+    "neg": 0.024,
+    "label": "negative"
+  }
+}

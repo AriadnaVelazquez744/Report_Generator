@@ -1,0 +1,602 @@
+{
+  "url": "https://www.telesurtv.net/ministro-de-hacienda-de-colombia-renuncia-a-su-cargo/",
+  "title": "Ministro de Hacienda de Colombia renuncia a su cargo - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Ministerio de Hacienda",
+    "renuncia"
+  ],
+  "text": "\nEl Ministerio de Hacienda de Colombia enfrenta un nuevo cambio en su liderazgo, luego de que el ministro Diego Guevara anunciara su renuncia al cargo. Posteriormente, agradeció la oportunidad de haber desempeñado como viceministro y, más tarde, como titular de la cartera en el último tiempo.\nEl exministro afirmó, a través de su cuenta de X, que su renuncia se produjo tras haber sostenido un diálogo apacible con el presidente de la nación suramericana, Gustavo Petro.\nSin embargo, el Ministerio de Hacienda no se ha pronunciado al respecto sobre tales anuncios.\nLa renuncia de Guevara tiene lugar en un momento de constantes cambios en el gabinete presidencial, que ha sufrido varias modificaciones en los meses anteriores. Esto se debe a que Petro solicitó la renuncia protocolaria de todos sus ministros como un movimiento para optimizar la gestión de su mandato.\nA su vez, este acto ha despertado la preocupación de los ciudadanos debido a una sistemática rotación en la cartera de ministros de Hacienda, resaltando el hecho de que Guevara asumió el cargo el 29 de enero de este año, aunque su designación había sido anunciada en diciembre de 2022 tras la salida de Ricardo Bonilla, su predecesor.\nEste es el cuarto cambio en la dirección del Ministerio de Hacienda desde que Petro asumió la presidencia en agosto de 2022.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ministro-de-hacienda-de-colombia-renuncia-a-su-cargo/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 995,
+    "message_id": 89548,
+    "date": "2025-03-19T08:55:13+00:00",
+    "text": "teleSUR\nMinistro de Hacienda de Colombia renuncia a su cargo\nhttps://www.telesurtv.net/ministro-de-hacienda-de-colombia-renuncia-a-su-cargo/",
+    "photo_path": null,
+    "views": 1828,
+    "reactions": {
+      "🤔": 24,
+      "👍": 4,
+      "🥴": 2
+    },
+    "total_reactions": 30
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de hacienda de colombia enfrenta un nuevo cambio en su liderazgo, luego de que el ministro diego guevara anunciara su renuncia al cargo. posteriormente, agradeció la oportunidad de haber desempeñado como viceministro y, más tarde, como titular de la cartera en el último tiempo. el exministro afirmó, a través de su cuenta de x, que su renuncia se produjo tras haber sostenido un diálogo apacible con el presidente de la nación suramericana, gustavo petro. sin embargo, el ministerio de hacienda no se ha pronunciado al respecto sobre tales anuncios. la renuncia de guevara tiene lugar en un momento de constantes cambios en el gabinete presidencial, que ha sufrido varias modificaciones en los meses anteriores. esto se debe a que petro solicitó la renuncia protocolaria de todos sus ministros como un movimiento para optimizar la gestión de su mandato. a su vez, este acto ha despertado la preocupación de los ciudadanos debido a una sistemática rotación en la cartera de ministros de hacienda, resaltando el hecho de que guevara asumió el cargo el 29 de enero de este año, aunque su designación había sido anunciada en diciembre de 2022 tras la salida de ricardo bonilla, su predecesor. este es el cuarto cambio en la dirección del ministerio de hacienda desde que petro asumió la presidencia en agosto de 2022.",
+    "tokens": [
+      "ministerio",
+      "hacienda",
+      "colombia",
+      "enfrenta",
+      "nuevo",
+      "cambio",
+      "liderazgo",
+      ",",
+      "luego",
+      "ministro",
+      "diego",
+      "guevara",
+      "anunciara",
+      "renuncia",
+      "cargo",
+      ".",
+      "posteriormente",
+      ",",
+      "agradeció",
+      "oportunidad",
+      "haber",
+      "desempeñado",
+      "viceministro",
+      ",",
+      "tarde",
+      ",",
+      "titular",
+      "cartera",
+      "último",
+      "tiempo",
+      ".",
+      "exministro",
+      "afirmó",
+      ",",
+      "través",
+      "cuenta",
+      "x",
+      ",",
+      "renuncia",
+      "produjo",
+      "tras",
+      "haber",
+      "sostenido",
+      "diálogo",
+      "apacible",
+      "presidente",
+      "nación",
+      "suramericana",
+      ",",
+      "gustavo",
+      "petro",
+      ".",
+      "embargo",
+      ",",
+      "ministerio",
+      "hacienda",
+      "pronunciado",
+      "respecto",
+      "tales",
+      "anuncios",
+      ".",
+      "renuncia",
+      "guevara",
+      "lugar",
+      "momento",
+      "constantes",
+      "cambios",
+      "gabinete",
+      "presidencial",
+      ",",
+      "sufrido",
+      "varias",
+      "modificaciones",
+      "meses",
+      "anteriores",
+      ".",
+      "debe",
+      "petro",
+      "solicitó",
+      "renuncia",
+      "protocolaria",
+      "ministros",
+      "movimiento",
+      "optimizar",
+      "gestión",
+      "mandato",
+      ".",
+      "vez",
+      ",",
+      "acto",
+      "despertado",
+      "preocupación",
+      "ciudadanos",
+      "debido",
+      "sistemática",
+      "rotación",
+      "cartera",
+      "ministros",
+      "hacienda",
+      ",",
+      "resaltando",
+      "hecho",
+      "guevara",
+      "asumió",
+      "cargo",
+      "29",
+      "enero",
+      "año",
+      ",",
+      "aunque",
+      "designación",
+      "sido",
+      "anunciada",
+      "diciembre",
+      "2022",
+      "tras",
+      "salida",
+      "ricardo",
+      "bonilla",
+      ",",
+      "predecesor",
+      ".",
+      "cuarto",
+      "cambio",
+      "dirección",
+      "ministerio",
+      "hacienda",
+      "petro",
+      "asumió",
+      "presidencia",
+      "agosto",
+      "2022",
+      "."
+    ],
+    "token_count": 133,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "IN": 16,
+      "FW": 62,
+      "CC": 1,
+      "JJ": 13,
+      "NN": 75,
+      "NNS": 9,
+      "VBP": 5,
+      "DT": 1,
+      "VBZ": 3,
+      "VBD": 1,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 5,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NNP-FW": 3,
+      "FW-NNP": 9,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-JJ": 4,
+      "JJ-NN": 8,
+      "NN-IN": 12,
+      "IN-NN": 2,
+      "NN-NN": 44,
+      "IN-FW": 8,
+      "FW-FW": 40,
+      "NNP-NN": 11,
+      "NN-NNP": 5,
+      "NN-FW": 7,
+      "FW-NN": 9,
+      "FW-JJ": 1,
+      "FW-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "NN-JJ": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-NNS": 4,
+      "VBP-NNP": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 1,
+      "NNS-NNS": 1,
+      "NNS-IN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-FW": 1,
+      "IN-CD": 2,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NN": 23,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 11,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 3,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NNP-NNP-NNP": 1,
+      "NN-NNP-IN": 1,
+      "IN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "IN-FW-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NNP-IN": 1,
+      "IN-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 75,
+        "FW": 62,
+        "NNP": 25,
+        "IN": 16,
+        "JJ": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 44,
+        "FW-FW": 40,
+        "NN-IN": 12,
+        "NNP-NN": 11,
+        "FW-NNP": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 23,
+        "NNP-NN-NN": 11,
+        "NN-IN-FW": 8,
+        "NN-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 55,
+      "PP": 5,
+      "VP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.039
+      },
+      {
+        "rule": "NP -> ('Hacienda', 'NNP')",
+        "frequency": 3,
+        "weight": 0.039
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.026
+      },
+      {
+        "rule": "NP -> ('Ministerio', 'NNP')",
+        "frequency": 2,
+        "weight": 0.026
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP ('enfrenta', 'CC') NP PP (',', ',') ('luego', 'FW') ('de', 'FW') ('que', 'FW') ('el', 'FW') ('ministro', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('nuevo', 'JJ') ('cambio', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('su', 'NN') ('liderazgo', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('Diego', 'NNP') ('Guevara', 'NNP') ('anunciara', 'NN') ('su', 'NN') ('renuncia', 'NN') ('al', 'NN') ('cargo', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Hacienda"
+      },
+      {
+        "label": "NP",
+        "text": "Hacienda"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo cambio"
+      },
+      {
+        "label": "PP",
+        "text": "en su liderazgo"
+      },
+      {
+        "label": "NP",
+        "text": "su liderazgo"
+      },
+      {
+        "label": "NP",
+        "text": "Diego Guevara anunciara su renuncia al cargo"
+      },
+      {
+        "label": "NP",
+        "text": "Posteriormente"
+      },
+      {
+        "label": "NP",
+        "text": "agradeció"
+      },
+      {
+        "label": "NP",
+        "text": "como viceministro y"
+      },
+      {
+        "label": "NP",
+        "text": "más tarde"
+      },
+      {
+        "label": "NP",
+        "text": "como titular"
+      },
+      {
+        "label": "NP",
+        "text": "cartera"
+      },
+      {
+        "label": "NP",
+        "text": "tiempo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Hacienda/NNP))\n  de/FW\n  (NP Colombia/NNP)\n  enfrenta/CC\n  (NP un/JJ nuevo/JJ cambio/NN)\n  (PP en/IN (NP su/NN liderazgo/NN))\n  ,/,\n  luego/FW\n  de/FW\n  que/FW\n  el/FW\n  ministro/FW\n  (NP\n    Diego/NNP\n    Guevara/NNP\n    anunciara/NN\n    su/NN\n    renuncia/NN\n    al/NN\n    cargo/NN)\n  ./.)",
+      "(S\n  (NP Posteriormente/NNP)\n  ,/,\n  (NP agradeció/NN)\n  la/FW\n  oportunidad/FW\n  de/FW\n  haber/FW\n  desempeñado/FW\n  (NP como/NN viceministro/NN y/NN)\n  ,/,\n  (NP más/NN tarde/NN)\n  ,/,\n  (NP como/JJ titular/NN)\n  de/IN\n  la/FW\n  (NP cartera/NN)\n  en/FW\n  el/FW\n  último/FW\n  (NP tiempo/NN)\n  ./.)",
+      "(S\n  (NP El/NNP exministro/NN afirmó/NN)\n  ,/,\n  (NP a/DT través/NN)\n  de/IN\n  su/FW\n  cuenta/FW\n  de/FW\n  X/FW\n  ,/,\n  (NP que/JJ su/NN renuncia/NN se/NN produjo/NN tras/NNS)\n  (VP\n    haber/VBP\n    (NP sostenido/JJ un/JJ diálogo/NN)\n    (NP apacible/JJ con/NN el/NN presidente/NN))\n  de/IN\n  la/FW\n  nación/FW\n  (NP suramericana/NN)\n  ,/,\n  (NP Gustavo/NNP Petro/NNP)\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  (PP de/IN (NP Hacienda/NNP))\n  (NP no/DT se/NN)\n  (VP\n    ha/VBZ\n    (NP\n      pronunciado/JJ\n      al/NN\n      respecto/NN\n      sobre/NN\n      tales/NNS\n      anuncios/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  renuncia/FW\n  de/FW\n  (NP Guevara/NNP tiene/NN lugar/NN)\n  en/IN\n  (ADJP un/JJ)\n  momento/FW\n  de/FW\n  (NP constantes/NNS cambios/NNS)\n  (VP en/VBP (NP el/JJ gabinete/JJ presidencial/NN))\n  ,/,\n  (NP que/JJ ha/NN sufrido/NN varias/NN modificaciones/NNS)\n  (PP en/IN (NP los/NN meses/NNS anteriores/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "FECHAS_HORAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          308,
+          314
+        ],
+        "start": 308,
+        "end": 314
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          419,
+          435
+        ],
+        "start": 419,
+        "end": 435
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          30,
+          38
+        ],
+        "start": 30,
+        "end": 38
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "más tarde",
+        "position": [
+          235,
+          244
+        ],
+        "start": 235,
+        "end": 244
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          476,
+          483
+        ],
+        "start": 476,
+        "end": 483
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "29 de enero de",
+        "position": [
+          1066,
+          1081
+        ],
+        "start": 1066,
+        "end": 1081
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ministerio de Hacienda de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ricardo Bonilla",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Diego Guevara",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Hacienda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guevara",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hacienda",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Hacienda de Colombia",
+        "relacion": "ENFRENTAR",
+        "objeto": "Diego Guevara"
+      },
+      {
+        "sujeto": "Guevara",
+        "relacion": "DESPERTAR",
+        "objeto": "Hacienda"
+      },
+      {
+        "sujeto": "Hacienda",
+        "relacion": "DESPERTAR",
+        "objeto": "Ricardo Bonilla"
+      },
+      {
+        "sujeto": "Guevara",
+        "relacion": "ASUMIR_RESALTAR_DESPERTAR",
+        "objeto": "Ricardo Bonilla"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.032,
+    "neu": 0.942,
+    "neg": 0.026,
+    "label": "positive"
+  }
+}

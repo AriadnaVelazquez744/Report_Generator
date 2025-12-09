@@ -1,0 +1,736 @@
+{
+  "url": "https://www.telesurtv.net/parlamento-turkiye-resolucion-suspencion-israel/",
+  "title": "Parlamento turco aprueba resolución para suspender a Israel de organismos internacionales - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Israel",
+    "ONU",
+    "Parlamento de Turkiye",
+    "Resolución",
+    "Turkiye"
+  ],
+  "text": "En una sesión extraordinaria convocada para abordar la situación en el enclave, el Parlamento de Türkiye aprobó este viernes una resolución en la que solicita la suspensión de la membresía de Israel en la Organización de las Naciones Unidas (ONU) y otras organizaciones internacionales.\nEl texto de la resolución, que será publicado en el Boletín Oficial del Estado, hace un fuerte llamado a los parlamentos de todo el mundo para que tomen medidas concretas contra Israel.\n\n\nSe les insta a paralizar todas las relaciones militares y comerciales con el país y a actuar para romper el embargo impuesto a la población palestina. El documento afirma que estas medidas son necesarias para presionar a Israel a que cesen sus políticas en el territorio.\nLos legisladores turcos utilizaron un lenguaje contundente para fundamentar su posición, acusando a Israel de cometer “genocidio” contra la población de la Franja de Gaza y de utilizar la hambruna como “arma de destrucción masiva”. La resolución enfatiza: “Pedimos la suspensión de la membresía de Israel en la ONU y en las organizaciones internacionales hasta que el Gobierno israelí abandone sus políticas genocidas”. Asimismo, condena “enérgicamente las prácticas de ocupación, aniquilación y anexión de Israel contra el pueblo palestino”.\n\n\n\n\nEl documento también tiene implicaciones legales y diplomáticas a largo plazo. En él, se exige el procesamiento judicial de los responsables de los “crímenes en Gaza” y se reitera que la única vía posible para lograr una paz justa y duradera es el establecimiento de un Estado palestino independiente y soberano dentro de las fronteras de 1967.\nLa resolución representa una de las acciones más firmes tomadas por el parlamento de un aliado regional de Israel, añadiéndose a la creciente presión internacional sobre el país.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/parlamento-turkiye-resolucion-suspencion-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 88,
+    "message_id": 103286,
+    "date": "2025-08-30T19:55:12+00:00",
+    "text": "teleSUR\nParlamento turco aprueba resolución para suspender a Israel de organismos internacionales\nhttps://www.telesurtv.net/parlamento-turkiye-resolucion-suspencion-israel/",
+    "photo_path": null,
+    "views": 1294,
+    "reactions": {
+      "👍": 54,
+      "❤": 9,
+      "👏": 5
+    },
+    "total_reactions": 68
+  },
+  "preprocessing": {
+    "cleaned": "en una sesión extraordinaria convocada para abordar la situación en el enclave, el parlamento de türkiye aprobó este viernes una resolución en la que solicita la suspensión de la membresía de israel en la organización de las naciones unidas (onu) y otras organizaciones internacionales. el texto de la resolución, que será publicado en el boletín oficial del estado, hace un fuerte llamado a los parlamentos de todo el mundo para que tomen medidas concretas contra israel. se les insta a paralizar todas las relaciones militares y comerciales con el país y a actuar para romper el embargo impuesto a la población palestina. el documento afirma que estas medidas son necesarias para presionar a israel a que cesen sus políticas en el territorio. los legisladores turcos utilizaron un lenguaje contundente para fundamentar su posición, acusando a israel de cometer “genocidio” contra la población de la franja de gaza y de utilizar la hambruna como “arma de destrucción masiva”. la resolución enfatiza: “pedimos la suspensión de la membresía de israel en la onu y en las organizaciones internacionales hasta que el gobierno israelí abandone sus políticas genocidas”. asimismo, condena “enérgicamente las prácticas de ocupación, aniquilación y anexión de israel contra el pueblo palestino”. el documento también tiene implicaciones legales y diplomáticas a largo plazo. en él, se exige el procesamiento judicial de los responsables de los “crímenes en gaza” y se reitera que la única vía posible para lograr una paz justa y duradera es el establecimiento de un estado palestino independiente y soberano dentro de las fronteras de 1967. la resolución representa una de las acciones más firmes tomadas por el parlamento de un aliado regional de israel, añadiéndose a la creciente presión internacional sobre el país.",
+    "tokens": [
+      "sesión",
+      "extraordinaria",
+      "convocada",
+      "abordar",
+      "situación",
+      "enclave",
+      ",",
+      "parlamento",
+      "türkiye",
+      "aprobó",
+      "viernes",
+      "resolución",
+      "solicita",
+      "suspensión",
+      "membresía",
+      "israel",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "organizaciones",
+      "internacionales",
+      ".",
+      "texto",
+      "resolución",
+      ",",
+      "publicado",
+      "boletín",
+      "oficial",
+      ",",
+      "hace",
+      "fuerte",
+      "llamado",
+      "parlamentos",
+      "mundo",
+      "tomen",
+      "medidas",
+      "concretas",
+      "israel",
+      ".",
+      "insta",
+      "paralizar",
+      "todas",
+      "relaciones",
+      "militares",
+      "comerciales",
+      "país",
+      "actuar",
+      "romper",
+      "embargo",
+      "impuesto",
+      "población",
+      "palestina",
+      ".",
+      "documento",
+      "afirma",
+      "medidas",
+      "necesarias",
+      "presionar",
+      "israel",
+      "cesen",
+      "políticas",
+      "territorio",
+      ".",
+      "legisladores",
+      "turcos",
+      "utilizaron",
+      "lenguaje",
+      "contundente",
+      "fundamentar",
+      "posición",
+      ",",
+      "acusando",
+      "israel",
+      "cometer",
+      "“",
+      "genocidio",
+      "”",
+      "población",
+      "franja",
+      "gaza",
+      "utilizar",
+      "hambruna",
+      "“",
+      "arma",
+      "destrucción",
+      "masiva",
+      "”",
+      ".",
+      "resolución",
+      "enfatiza",
+      ":",
+      "“",
+      "pedimos",
+      "suspensión",
+      "membresía",
+      "israel",
+      "onu",
+      "organizaciones",
+      "internacionales",
+      "gobierno",
+      "israelí",
+      "abandone",
+      "políticas",
+      "genocidas",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "condena",
+      "“",
+      "enérgicamente",
+      "prácticas",
+      "ocupación",
+      ",",
+      "aniquilación",
+      "anexión",
+      "israel",
+      "pueblo",
+      "palestino",
+      "”",
+      ".",
+      "documento",
+      "implicaciones",
+      "legales",
+      "diplomáticas",
+      "largo",
+      "plazo",
+      ".",
+      ",",
+      "exige",
+      "procesamiento",
+      "judicial",
+      "responsables",
+      "“",
+      "crímenes",
+      "gaza",
+      "”",
+      "reitera",
+      "única",
+      "vía",
+      "posible",
+      "lograr",
+      "paz",
+      "justa",
+      "duradera",
+      "establecimiento",
+      "palestino",
+      "independiente",
+      "soberano",
+      "dentro",
+      "fronteras",
+      "1967.",
+      "resolución",
+      "representa",
+      "acciones",
+      "firmes",
+      "tomadas",
+      "parlamento",
+      "aliado",
+      "regional",
+      "israel",
+      ",",
+      "añadiéndose",
+      "creciente",
+      "presión",
+      "internacional",
+      "país",
+      "."
+    ],
+    "token_count": 171,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "JJ": 24,
+      "NN": 81,
+      "FW": 78,
+      "VBP": 9,
+      "CC": 1,
+      "NNS": 16,
+      "IN": 12,
+      "MD": 1,
+      "VB": 1,
+      "VBZ": 4,
+      "RB": 1,
+      "VBD": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 17,
+      "NN-NN": 44,
+      "NN-FW": 7,
+      "FW-FW": 47,
+      "FW-VBP": 1,
+      "VBP-FW": 1,
+      "FW-NNP": 14,
+      "NNP-FW": 13,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NNS": 6,
+      "NNS-JJ": 2,
+      "NN-IN": 10,
+      "IN-FW": 7,
+      "NNP-NNP": 7,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-NN": 9,
+      "FW-NN": 9,
+      "NN-JJ": 5,
+      "NNS-VBP": 6,
+      "VBP-NNS": 2,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "NNS-NNS": 3,
+      "VBP-JJ": 5,
+      "NN-NNP": 7,
+      "VBP-NN": 1,
+      "JJ-JJ": 3,
+      "IN-NNP": 4,
+      "FW-NNS": 4,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "FW-JJ": 2,
+      "NNS-VBZ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 2,
+      "NNS-IN": 1,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "NNS-FW": 1,
+      "JJ-IN": 1,
+      "NNP-VBP": 1,
+      "NN-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 24,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 30,
+      "FW-FW-VBP": 1,
+      "FW-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "FW-NNP-FW": 9,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 9,
+      "NNP-FW-FW": 7,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNS": 1,
+      "VB-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NNP-NN-IN": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 5,
+      "NN-NN-IN": 4,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-NN": 5,
+      "NN-NN-JJ": 2,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 6,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-NN-NNP": 4,
+      "IN-FW-NN": 1,
+      "NN-NNP-VBZ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NNS-NNP": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NNP-FW-NN": 3,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 78,
+        "NNP": 37,
+        "JJ": 24,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 47,
+        "NN-NN": 44,
+        "JJ-NN": 17,
+        "FW-NNP": 14,
+        "NNP-FW": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 30,
+        "NN-NN-NN": 24,
+        "JJ-NN-NN": 9,
+        "FW-NNP-FW": 9,
+        "FW-FW-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 24,
+      "PP": 1,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "VP -> ('resolución', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP NP ('situación', 'FW') ('en', 'FW') ('el', 'FW') VP (',', ',') ('el', 'FW') NP ('de', 'FW') NP ('aprobó', 'CC') NP NP ('en', 'IN') ('la', 'FW') ('que', 'FW') ('solicita', 'FW') ('la', 'FW') ('suspensión', 'FW') ('de', 'FW') ('la', 'FW') ('membresía', 'FW') ('de', 'FW') NP ('en', 'FW') ('la', 'FW') NP ('de', 'FW') ('las', 'FW') NP ('(', '(') NP (')', ')') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('sesión', 'NN') ('extraordinaria', 'NN') ('convocada', 'NN') ('para', 'NN') ('abordar', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('enclave', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Parlamento', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Türkiye', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "una sesión extraordinaria convocada para abordar la"
+      },
+      {
+        "label": "VP",
+        "text": "enclave"
+      },
+      {
+        "label": "NP",
+        "text": "Parlamento"
+      },
+      {
+        "label": "NP",
+        "text": "Türkiye"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "una resolución"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "ONU"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "otras organizaciones internacionales"
+      },
+      {
+        "label": "NP",
+        "text": "El texto"
+      },
+      {
+        "label": "NP",
+        "text": "Boletín Oficial"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP\n    una/JJ\n    sesión/NN\n    extraordinaria/NN\n    convocada/NN\n    para/NN\n    abordar/NN\n    la/NN)\n  situación/FW\n  en/FW\n  el/FW\n  (VP enclave/VBP)\n  ,/,\n  el/FW\n  (NP Parlamento/NNP)\n  de/FW\n  (NP Türkiye/NNP)\n  aprobó/CC\n  (NP este/NN viernes/NNS)\n  (NP una/JJ resolución/NN)\n  en/IN\n  la/FW\n  que/FW\n  solicita/FW\n  la/FW\n  suspensión/FW\n  de/FW\n  la/FW\n  membresía/FW\n  de/FW\n  (NP Israel/NNP)\n  en/FW\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  (NP y/NN)\n  (NP otras/JJ organizaciones/NNS internacionales/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP texto/NN)\n  de/IN\n  la/FW\n  resolución/FW\n  ,/,\n  que/FW\n  será/FW\n  publicado/FW\n  en/FW\n  el/FW\n  (NP Boletín/NNP Oficial/NNP)\n  del/FW\n  (NP Estado/NNP)\n  ,/,\n  (NP hace/NN)\n  (NP un/JJ fuerte/NN)\n  (VP llamado/VBD (NP a/DT los/JJ parlamentos/NN))\n  de/IN\n  todo/FW\n  el/FW\n  mundo/FW\n  (NP para/NN que/NN tomen/NNS)\n  (VP medidas/VBP (NP concretas/NNS) (NP contra/JJ Israel/NNP))\n  ./.)",
+      "(S\n  (NP Se/NNP)\n  (VP les/VBZ)\n  (VP\n    insta/VB\n    (NP\n      a/DT\n      paralizar/NN\n      todas/NN\n      las/NN\n      relaciones/NNS\n      militares/NNS))\n  (VP y/VBP (NP comerciales/NNS))\n  (VP con/VBP (NP el/JJ país/NN))\n  (VP y/VBZ (NP a/DT actuar/JJ para/NN romper/NN el/NN embargo/NN))\n  (VP impuesto/VBZ (NP a/DT la/NN población/NN palestina/NN))\n  ./.)",
+      "(S\n  (NP El/NNP documento/NN afirma/NN que/NN estas/NNS)\n  (VP\n    medidas/VBP\n    (NP son/NN)\n    (NP necesarias/JJ para/NN presionar/NN)\n    (NP a/DT Israel/NNP)\n    (NP a/DT que/NN cesen/NN sus/NN políticas/NN))\n  (PP en/IN (NP el/NN territorio/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP\n    legisladores/VBZ\n    (NP\n      turcos/JJ\n      utilizaron/JJ\n      un/JJ\n      lenguaje/NN\n      contundente/NN\n      para/NN\n      fundamentar/NN\n      su/NN\n      posición/NN))\n  ,/,\n  (VP acusando/VBZ (NP a/DT Israel/NNP))\n  de/FW\n  (NP cometer/NN “/NNP genocidio/NN ”/NNP contra/NN la/NN)\n  población/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  y/FW\n  de/FW\n  utilizar/FW\n  la/FW\n  hambruna/FW\n  (NP como/NN “/NNP arma/NN)\n  de/FW\n  destrucción/FW\n  masiva/FW\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          591,
+          599
+        ],
+        "start": 591,
+        "end": 599
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1217,
+          1226
+        ],
+        "start": 1217,
+        "end": 1226
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "parlamento de türkiye aprobó",
+        "position": [
+          83,
+          111
+        ],
+        "start": 83,
+        "end": 111
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "genocidio” contra la población de la franja de gaza y de utilizar la hambruna como “arma de destrucción masiva”. la resolución enfatiza: “pedimos la suspensión de la membresía de israel en la onu y en las organizaciones internacionales hasta que el gobierno israelí abandone sus políticas genocidas”. asimismo, condena “enérgicamente las prácticas de ocupación, aniquilación y anexión de israel contra el pueblo",
+        "position": [
+          866,
+          1277
+        ],
+        "start": 866,
+        "end": 1277
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio” contra la población de la franja de gaza",
+        "position": [
+          866,
+          917
+        ],
+        "start": 866,
+        "end": 917
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          205,
+          240
+        ],
+        "start": 205,
+        "end": 240
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          105,
+          111
+        ],
+        "start": 105,
+        "end": 111
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          615,
+          624
+        ],
+        "start": 615,
+        "end": 624
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, hace",
+        "position": [
+          359,
+          371
+        ],
+        "start": 359,
+        "end": 371
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          583,
+          590
+        ],
+        "start": 583,
+        "end": 590
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado palestino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno israelí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento de Türkiye",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Parlamento de Türkiye",
+        "relacion": "APROBAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Parlamento de Türkiye",
+        "relacion": "APROBAR",
+        "objeto": "Organización de las Naciones Unidas"
+      },
+      {
+        "sujeto": "Parlamento de Türkiye",
+        "relacion": "APROBAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ACUSAR_FUNDAMENTAR_UTILIZAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gobierno israelí",
+        "relacion": "PEDIR_ENFATIZAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Gobierno israelí",
+        "relacion": "PEDIR_ENFATIZAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "EXIGIR",
+        "objeto": "Estado palestino"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

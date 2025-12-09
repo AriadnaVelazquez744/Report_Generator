@@ -1,0 +1,695 @@
+{
+  "url": "https://www.telesurtv.net/primera-ministra-de-barbados-defiende-colaboracion-medica-cubana/",
+  "title": "Primera ministra de Barbados defiende colaboración médica cubana - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Barbados",
+    "Cuba",
+    "Médicos"
+  ],
+  "text": "En una declaración contundente, la primera ministra de Barbados, Mia Amor Mottley, destacó la importancia de la colaboración médica cubana durante la pandemia de la Covid-19, subrayando que el país no habría podido superar la crisis sanitaria sin la ayuda de médicos y enfermeras provenientes de Cuba.\nLa primera ministra enfatizó que Barbados no cuenta actualmente con personal médico cubano, pero defendió con firmeza la igualdad salarial entre los profesionales cubanos y barbadenses durante su colaboración. Además, rechazó categóricamente las acusaciones de trata de personas realizadas por el gobierno de los Estados Unidos (EE.UU.), tanto en su administración actual como en la anterior, calificándolas de infundadas.\nEn un gesto de solidaridad con los países de la Comunidad del Caribe (Caricom), la líder barbadense expresó su disposición a enfrentar posibles repercusiones, como la pérdida de su visa estadounidense, en defensa de los principios que considera fundamentales. “Los principios solo significan algo cuando es inconveniente seguirlos”, afirmó, destacando la necesidad de mantener una postura decidida y unida en la región.\nFinalmente, Mottley elogió el impacto positivo de los médicos y enfermeras cubanos, quienes, lejos de cualquier acusación de explotación, han salvado innumerables vidas y mejorado la calidad de vida de muchas personas en el Caribe.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/primera-ministra-de-barbados-defiende-colaboracion-medica-cubana/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1463,
+    "message_id": 89019,
+    "date": "2025-03-13T09:55:12+00:00",
+    "text": "teleSUR\nPrimera ministra de Barbados defiende colaboración médica cubana\nhttps://www.telesurtv.net/primera-ministra-de-barbados-defiende-colaboracion-medica-cubana/",
+    "photo_path": null,
+    "views": 1630,
+    "reactions": {
+      "❤": 36,
+      "👍": 10
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "en una declaración contundente, la primera ministra de barbados, mia amor mottley, destacó la importancia de la colaboración médica cubana durante la pandemia de la covid-19, subrayando que el país no habría podido superar la crisis sanitaria sin la ayuda de médicos y enfermeras provenientes de cuba. la primera ministra enfatizó que barbados no cuenta actualmente con personal médico cubano, pero defendió con firmeza la igualdad salarial entre los profesionales cubanos y barbadenses durante su colaboración. además, rechazó categóricamente las acusaciones de trata de personas realizadas por el gobierno de los estados unidos (ee.uu.), tanto en su administración actual como en la anterior, calificándolas de infundadas. en un gesto de solidaridad con los países de la comunidad del caribe (caricom), la líder barbadense expresó su disposición a enfrentar posibles repercusiones, como la pérdida de su visa estadounidense, en defensa de los principios que considera fundamentales. “los principios solo significan algo cuando es inconveniente seguirlos”, afirmó, destacando la necesidad de mantener una postura decidida y unida en la región. finalmente, mottley elogió el impacto positivo de los médicos y enfermeras cubanos, quienes, lejos de cualquier acusación de explotación, han salvado innumerables vidas y mejorado la calidad de vida de muchas personas en el caribe.",
+    "tokens": [
+      "declaración",
+      "contundente",
+      ",",
+      "primera",
+      "ministra",
+      "barbados",
+      ",",
+      "mia",
+      "amor",
+      "mottley",
+      ",",
+      "destacó",
+      "importancia",
+      "colaboración",
+      "médica",
+      "cubana",
+      "pandemia",
+      "covid-19",
+      ",",
+      "subrayando",
+      "país",
+      "podido",
+      "superar",
+      "crisis",
+      "sanitaria",
+      "ayuda",
+      "médicos",
+      "enfermeras",
+      "provenientes",
+      "cuba",
+      ".",
+      "primera",
+      "ministra",
+      "enfatizó",
+      "barbados",
+      "cuenta",
+      "actualmente",
+      "personal",
+      "médico",
+      "cubano",
+      ",",
+      "defendió",
+      "firmeza",
+      "igualdad",
+      "salarial",
+      "profesionales",
+      "cubanos",
+      "barbadenses",
+      "colaboración",
+      ".",
+      "además",
+      ",",
+      "rechazó",
+      "categóricamente",
+      "acusaciones",
+      "trata",
+      "personas",
+      "realizadas",
+      "gobierno",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      ",",
+      "administración",
+      "actual",
+      "anterior",
+      ",",
+      "calificándolas",
+      "infundadas",
+      ".",
+      "gesto",
+      "solidaridad",
+      "países",
+      "comunidad",
+      "caribe",
+      "(",
+      "caricom",
+      ")",
+      ",",
+      "líder",
+      "barbadense",
+      "expresó",
+      "disposición",
+      "enfrentar",
+      "posibles",
+      "repercusiones",
+      ",",
+      "pérdida",
+      "visa",
+      "estadounidense",
+      ",",
+      "defensa",
+      "principios",
+      "considera",
+      "fundamentales",
+      ".",
+      "“",
+      "principios",
+      "solo",
+      "significan",
+      "inconveniente",
+      "seguirlos",
+      "”",
+      ",",
+      "afirmó",
+      ",",
+      "destacando",
+      "necesidad",
+      "mantener",
+      "postura",
+      "decidida",
+      "unida",
+      "región",
+      ".",
+      "finalmente",
+      ",",
+      "mottley",
+      "elogió",
+      "impacto",
+      "positivo",
+      "médicos",
+      "enfermeras",
+      "cubanos",
+      ",",
+      ",",
+      "lejos",
+      "cualquier",
+      "acusación",
+      "explotación",
+      ",",
+      "salvado",
+      "innumerables",
+      "vidas",
+      "mejorado",
+      "calidad",
+      "vida",
+      "muchas",
+      "personas",
+      "caribe",
+      "."
+    ],
+    "token_count": 141,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "JJ": 16,
+      "NN": 62,
+      "FW": 63,
+      "VBP": 10,
+      "DT": 2,
+      "NNS": 13,
+      "IN": 8,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-NN": 11,
+      "NN-NN": 37,
+      "NN-FW": 6,
+      "FW-FW": 43,
+      "FW-NNP": 7,
+      "NNP-NNP": 9,
+      "NNP-NN": 5,
+      "FW-NN": 4,
+      "NN-VBP": 3,
+      "VBP-NN": 2,
+      "NN-DT": 1,
+      "DT-NN": 2,
+      "NN-NNP": 4,
+      "NNP-DT": 1,
+      "VBP-JJ": 7,
+      "NN-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-NNS": 1,
+      "FW-NNS": 4,
+      "NNS-FW": 2,
+      "NN-IN": 4,
+      "IN-FW": 7,
+      "NNP-IN": 1,
+      "FW-JJ": 5,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNP-FW": 2,
+      "NNS-NNS": 1,
+      "JJ-FW": 3,
+      "NNS-NNP": 1,
+      "NNP-NNS": 1,
+      "NN-JJ": 2,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 33,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-VBP": 3,
+      "NN-VBP-NN": 1,
+      "VBP-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "NN-NN-NN": 21,
+      "NN-NN-NNP": 2,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 5,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NNP-JJ": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-NNP-NNP": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NNS-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 63,
+        "NN": 62,
+        "NNP": 22,
+        "JJ": 16,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 37,
+        "JJ-NN": 11,
+        "NNP-NNP": 9,
+        "FW-NNP": 7
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 21,
+        "JJ-NN-NN": 6,
+        "NN-NN-FW": 5,
+        "NN-FW-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 15,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "S -> NP NP (',', ',') ('la', 'FW') ('primera', 'FW') ('ministra', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP ('la', 'FW') ('importancia', 'FW') ('de', 'FW') ('la', 'FW') ('colaboración', 'FW') ('médica', 'FW') ('cubana', 'FW') NP ('la', 'FW') ('pandemia', 'FW') ('de', 'FW') ('la', 'FW') NP (',', ',') NP VP ('la', 'FW') ('ayuda', 'FW') ('de', 'FW') ('médicos', 'FW') ('y', 'FW') ('enfermeras', 'FW') ('provenientes', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('declaración', 'NN') ('contundente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Barbados', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Mia', 'NNP') ('Amor', 'NNP') ('Mottley', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('destacó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('durante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Covid-19', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('subrayando', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0132
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "una declaración contundente"
+      },
+      {
+        "label": "NP",
+        "text": "Barbados"
+      },
+      {
+        "label": "NP",
+        "text": "Mia Amor Mottley"
+      },
+      {
+        "label": "NP",
+        "text": "destacó"
+      },
+      {
+        "label": "NP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "Covid-19"
+      },
+      {
+        "label": "NP",
+        "text": "subrayando que"
+      },
+      {
+        "label": "VP",
+        "text": "el país no habría podido superar la crisis sanitaria sin"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "no habría podido superar la crisis sanitaria sin"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "La primera ministra enfatizó que Barbados"
+      },
+      {
+        "label": "NP",
+        "text": "no cuenta actualmente"
+      },
+      {
+        "label": "VP",
+        "text": "con personal médico cubano"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP una/JJ declaración/NN contundente/NN)\n  ,/,\n  la/FW\n  primera/FW\n  ministra/FW\n  de/FW\n  (NP Barbados/NNP)\n  ,/,\n  (NP Mia/NNP Amor/NNP Mottley/NNP)\n  ,/,\n  (NP destacó/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  la/FW\n  colaboración/FW\n  médica/FW\n  cubana/FW\n  (NP durante/NN)\n  la/FW\n  pandemia/FW\n  de/FW\n  la/FW\n  (NP Covid-19/NNP)\n  ,/,\n  (NP subrayando/NN que/NN)\n  (VP\n    el/VBP\n    (NP país/NN)\n    (NP\n      no/DT\n      habría/NN\n      podido/NN\n      superar/NN\n      la/NN\n      crisis/NN\n      sanitaria/NN\n      sin/NN))\n  la/FW\n  ayuda/FW\n  de/FW\n  médicos/FW\n  y/FW\n  enfermeras/FW\n  provenientes/FW\n  de/FW\n  (NP Cuba/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP primera/NN ministra/NN enfatizó/NN que/NN Barbados/NNP)\n  (NP no/DT cuenta/NN actualmente/NN)\n  (VP con/VBP (NP personal/JJ médico/NN cubano/NN))\n  ,/,\n  (NP pero/NN defendió/NN con/NN firmeza/NN la/NN)\n  (VP\n    igualdad/VBP\n    (NP salarial/JJ entre/NN los/NN profesionales/NNS))\n  (VP cubanos/VBP (NP y/JJ barbadenses/NNS))\n  (VP durante/VBP (NP su/JJ colaboración/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP rechazó/NN categóricamente/NN)\n  las/FW\n  (NP acusaciones/NNS)\n  de/FW\n  trata/FW\n  de/FW\n  personas/FW\n  (NP realizadas/NNS)\n  (VP por/VBP (NP el/JJ gobierno/NN))\n  de/IN\n  los/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  ,/,\n  tanto/EX\n  en/FW\n  (NP su/NN)\n  (VP administración/VBP (NP actual/JJ como/NN))\n  en/IN\n  la/FW\n  anterior/FW\n  ,/,\n  calificándolas/FW\n  de/FW\n  infundadas/FW\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ gesto/NN)\n  de/IN\n  solidaridad/FW\n  (NP con/NN los/NN)\n  (VP países/VBZ)\n  de/IN\n  la/FW\n  (NP Comunidad/NNP)\n  del/FW\n  (NP Caribe/NNP)\n  (/(\n  (NP Caricom/NNP)\n  )/)\n  ,/,\n  la/FW\n  (NP líder/JJR barbadense/NN expresó/NN su/NN)\n  (VP disposición/VBZ (NP a/DT enfrentar/NN))\n  (VP posibles/VBZ (NP repercusiones/NNS))\n  ,/,\n  (NP como/NN)\n  la/FW\n  pérdida/FW\n  de/FW\n  su/FW\n  visa/FW\n  (NP estadounidense/NN)\n  ,/,\n  en/FW\n  defensa/FW\n  de/FW\n  los/FW\n  (NP principios/NNS)\n  (VP que/VBP (NP considera/NN fundamentales/NNS))\n  ./.)",
+      "(S\n  (NP “/JJ Los/NNP principios/NNS)\n  (VP\n    solo/VBP\n    (NP\n      significan/JJ\n      algo/NN\n      cuando/NN\n      es/NN\n      inconveniente/NN\n      seguirlos/NN\n      ”/NNP))\n  ,/,\n  (NP afirmó/NN)\n  ,/,\n  (NP destacando/NN)\n  la/FW\n  necesidad/FW\n  de/FW\n  mantener/FW\n  (NP una/JJ postura/NN decidida/NN y/NN)\n  (NP unida/JJ en/NN la/NN región/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          399,
+          407
+        ],
+        "start": 399,
+        "end": 407
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "rechazó categóricamente las acusaciones de trata de personas realizadas por el gobierno de",
+        "position": [
+          520,
+          610
+        ],
+        "start": 520,
+        "end": 610
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          825,
+          832
+        ],
+        "start": 825,
+        "end": 832
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          930,
+          937
+        ],
+        "start": 930,
+        "end": 937
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "trata de personas",
+        "position": [
+          563,
+          580
+        ],
+        "start": 563,
+        "end": 580
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "igualdad",
+        "position": [
+          423,
+          431
+        ],
+        "start": 423,
+        "end": 431
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de los estados",
+        "position": [
+          599,
+          622
+        ],
+        "start": 599,
+        "end": 622
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de barbados",
+        "position": [
+          43,
+          63
+        ],
+        "start": 43,
+        "end": 63
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          520,
+          527
+        ],
+        "start": 520,
+        "end": 527
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          83,
+          90
+        ],
+        "start": 83,
+        "end": 90
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          296,
+          300
+        ],
+        "start": 296,
+        "end": 300
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          615,
+          629
+        ],
+        "start": 615,
+        "end": 629
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          787,
+          793
+        ],
+        "start": 787,
+        "end": 793
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          354,
+          365
+        ],
+        "start": 354,
+        "end": 365
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Caricom",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comunidad del Caribe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mottley",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Covid-19",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mia Amor Mottley",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Barbados",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Barbados",
+        "relacion": "DESTACAR",
+        "objeto": "Covid-19"
+      },
+      {
+        "sujeto": "Barbados",
+        "relacion": "DESTACAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Mia Amor Mottley",
+        "relacion": "DESTACAR",
+        "objeto": "Covid-19"
+      },
+      {
+        "sujeto": "Mia Amor Mottley",
+        "relacion": "DESTACAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Covid-19",
+        "relacion": "DESTACAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Mottley",
+        "relacion": "ELOGIAR",
+        "objeto": "el Caribe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8519,
+    "pos": 0.019,
+    "neu": 0.913,
+    "neg": 0.068,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "url": "https://www.telesurtv.net/presidente-mulino-el-canal-de-panama-no-esta-en-proceso-de-recuperacion/",
+  "title": "Presidente Mulino: \"El Canal de Panamá no está en proceso de recuperación\" - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Canal de Panamá",
+    "Estados Unidos",
+    "Mulino",
+    "Panamá",
+    "Respuesta"
+  ],
+  "text": "\nEste miércoles el presidente de Panamá, José Raul Mulino rechazó en nombre de su nación las afrentas y las “mentiras” dichas por el presidente norteamericano, Donald Trump, quien aseveró que el Canal está en proceso de “recuperación”.\nLEA TAMBIÉN\nVenden conglomerado portuario a los lados del Canal de Panamá a BlackRock\nEn un comunicado publicado en Twitter, el presidente aseguró que Donald Trump “miente”, negando que el objetivo de las conversaciones con el Secretario Marco Rubio haya sido la propiedad del Canal.\n“Rechazo a nombre de Panamá y de todos los panameños esta nueva afrenta a la verdad y a nuestra dignidad como Nación”, aseguró el presidente Mulino.\nEl jefe de Estado panameño reafirmó que la cooperación entre Estados Unidos y su nación se mantiene, “con entendimientos claros, en torno a temas de mutuo interés”.\n“Nada tiene que ver ni con la “recuperación del Canal” ni con mancillar nuestra soberanía nacional. El Canal es panameño y seguirá siendo panameño!”, concluyó.\nLas declaraciones del presidente Mulino suceden a las hechas por el presidente norteamericano Donald Trump ante el Congreso de Estados Unidos este martes, cuando se refirió a la compra de los conglomerados portuarios adyacentes a los lados del Canal de Panamá por BlackRock, multinacional con sede en Washington.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-mulino-el-canal-de-panama-no-esta-en-proceso-de-recuperacion/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 2027,
+    "message_id": 88402,
+    "date": "2025-03-05T18:30:09+00:00",
+    "text": "Debes conocer estas tres noticias en nuestra web🌐 \n \n↕️ Presidente Mulino: «El Canal de Panamá no está en proceso de recuperación»\nhttps://www.telesurtv.net/presidente-mulino-el-canal-de-panama-no-esta-en-proceso-de-recuperacion/ \n\n↕️ Lukashenko propone diálogo de paz en Belarús para poner fin al conflicto en Ucrania\nhttps://www.telesurtv.net/lukashenko-propone-dialogo-de-paz-en-belarus-para-poner-fin-al-conflicto-en-ucrania/ \n\n↕️ ONU: La guerra en Gaza ha dejado un nivel de destrucción sin precedentes\nhttps://www.telesurtv.net/onu-la-guerra-en-gaza-ha-dejado-un-nivel-de-destruccion-sin-precedentes/",
+    "photo_path": null,
+    "views": 1775,
+    "reactions": {
+      "👍": 24,
+      "🤡": 4,
+      "🤔": 3
+    },
+    "total_reactions": 31
+  },
+  "preprocessing": {
+    "cleaned": "este miércoles el presidente de panamá, josé raul mulino rechazó en nombre de su nación las afrentas y las “mentiras” dichas por el presidente norteamericano, donald trump, quien aseveró que el canal está en proceso de “recuperación”. en un comunicado publicado en twitter, el presidente aseguró que donald trump “miente”, negando que el objetivo de las conversaciones con el secretario marco rubio haya sido la propiedad del canal. “rechazo a nombre de panamá y de todos los panameños esta nueva afrenta a la verdad y a nuestra dignidad como nación”, aseguró el presidente mulino. el jefe de estado panameño reafirmó que la cooperación entre estados unidos y su nación se mantiene, “con entendimientos claros, en torno a temas de mutuo interés”. “nada tiene que ver ni con la “recuperación del canal” ni con mancillar nuestra soberanía nacional. el canal es panameño y seguirá siendo panameño!”, concluyó. las declaraciones del presidente mulino suceden a las hechas por el presidente norteamericano donald trump ante el congreso de estados unidos este martes, cuando se refirió a la compra de los conglomerados portuarios adyacentes a los lados del canal de panamá por blackrock, multinacional con sede en washington.",
+    "tokens": [
+      "miércoles",
+      "presidente",
+      "panamá",
+      ",",
+      "josé",
+      "raul",
+      "mulino",
+      "rechazó",
+      "nombre",
+      "nación",
+      "afrentas",
+      "“",
+      "mentiras",
+      "”",
+      "dichas",
+      "presidente",
+      "norteamericano",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "aseveró",
+      "canal",
+      "proceso",
+      "“",
+      "recuperación",
+      "”",
+      ".",
+      "comunicado",
+      "publicado",
+      "twitter",
+      ",",
+      "presidente",
+      "aseguró",
+      "donald",
+      "trump",
+      "“",
+      "miente",
+      "”",
+      ",",
+      "negando",
+      "objetivo",
+      "conversaciones",
+      "secretario",
+      "marco",
+      "rubio",
+      "sido",
+      "propiedad",
+      "canal",
+      ".",
+      "“",
+      "rechazo",
+      "nombre",
+      "panamá",
+      "panameños",
+      "nueva",
+      "afrenta",
+      "verdad",
+      "dignidad",
+      "nación",
+      "”",
+      ",",
+      "aseguró",
+      "presidente",
+      "mulino",
+      ".",
+      "jefe",
+      "panameño",
+      "reafirmó",
+      "cooperación",
+      "unidos",
+      "nación",
+      "mantiene",
+      ",",
+      "“",
+      "entendimientos",
+      "claros",
+      ",",
+      "torno",
+      "temas",
+      "mutuo",
+      "interés",
+      "”",
+      ".",
+      "“",
+      "ver",
+      "“",
+      "recuperación",
+      "canal",
+      "”",
+      "mancillar",
+      "soberanía",
+      "nacional",
+      ".",
+      "canal",
+      "panameño",
+      "seguirá",
+      "siendo",
+      "panameño",
+      "!",
+      "”",
+      ",",
+      "concluyó",
+      ".",
+      "declaraciones",
+      "presidente",
+      "mulino",
+      "suceden",
+      "hechas",
+      "presidente",
+      "norteamericano",
+      "donald",
+      "trump",
+      "congreso",
+      "unidos",
+      "martes",
+      ",",
+      "refirió",
+      "compra",
+      "conglomerados",
+      "portuarios",
+      "adyacentes",
+      "lados",
+      "canal",
+      "panamá",
+      "blackrock",
+      ",",
+      "multinacional",
+      "sede",
+      "washington",
+      "."
+    ],
+    "token_count": 131,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 61,
+      "NNS": 6,
+      "VBP": 6,
+      "FW": 44,
+      "NNP": 45,
+      "VBN": 1,
+      "JJ": 20,
+      "VBZ": 5,
+      "IN": 5,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NN-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-NN": 2,
+      "NN-FW": 10,
+      "FW-NNP": 12,
+      "NNP-NNP": 18,
+      "NNP-NN": 13,
+      "FW-FW": 23,
+      "FW-NNS": 2,
+      "VBP-NNS": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "JJ-NN": 8,
+      "NN-NN": 32,
+      "NN-NNP": 9,
+      "NN-VBP": 1,
+      "VBP-NNP": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-FW": 3,
+      "NNP-FW": 6,
+      "NNP-JJ": 2,
+      "NN-IN": 4,
+      "IN-NNP": 3,
+      "NNP-VBP": 1,
+      "FW-NN": 5,
+      "VBP-JJ": 1,
+      "JJ-NNP": 2,
+      "FW-JJ": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-JJ": 6,
+      "IN-JJ": 1,
+      "IN-FW": 1,
+      "NN-JJ": 2,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-IN": 1,
+      "JJ-NNS": 1,
+      "NNS-VBZ": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-FW": 3,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 14,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 15,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "FW-FW-NNP": 5,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NN-NN-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NNP-NN": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "JJ-FW-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 61,
+        "NNP": 45,
+        "FW": 44,
+        "JJ": 20,
+        "NNS": 6
+      },
+      "top_bigrams": {
+        "NN-NN": 32,
+        "FW-FW": 23,
+        "NNP-NNP": 18,
+        "NNP-NN": 13,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 15,
+        "FW-FW-FW": 14,
+        "NNP-NNP-NN": 8,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 10,
+      "ADJP": 4,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Canal', 'NNP')",
+        "frequency": 3,
+        "weight": 0.038
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('Panamá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "ADJP -> ('los', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "ADJP -> ('lados', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') NP (',', ',') NP ('en', 'FW') ('nombre', 'FW') ('de', 'FW') ('su', 'FW') ('nación', 'FW') ('las', 'FW') NP VP ('mentiras', 'FW') NP (',', ',') NP (',', ',') NP VP ('en', 'FW') ('proceso', 'FW') ('de', 'FW') ('“', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "el presidente"
+      },
+      {
+        "label": "NP",
+        "text": "presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Panamá"
+      },
+      {
+        "label": "NP",
+        "text": "José Raul Mulino rechazó"
+      },
+      {
+        "label": "NP",
+        "text": "afrentas"
+      },
+      {
+        "label": "VP",
+        "text": "y las “"
+      },
+      {
+        "label": "NP",
+        "text": "las “"
+      },
+      {
+        "label": "NP",
+        "text": "” dichas por el presidente norteamericano"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "quien aseveró que"
+      },
+      {
+        "label": "VP",
+        "text": "el Canal está"
+      },
+      {
+        "label": "NP",
+        "text": "Canal está"
+      },
+      {
+        "label": "NP",
+        "text": "recuperación ”"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Venden conglomerado portuario"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN miércoles/NNS)\n  (VP el/VBP (NP presidente/NN))\n  de/FW\n  (NP Panamá/NNP)\n  ,/,\n  (NP José/NNP Raul/NNP Mulino/NNP rechazó/NN)\n  en/FW\n  nombre/FW\n  de/FW\n  su/FW\n  nación/FW\n  las/FW\n  (NP afrentas/NNS)\n  (VP y/VBP (NP las/JJ “/NNP))\n  mentiras/FW\n  (NP ”/NNP dichas/NN por/NN el/NN presidente/NN norteamericano/NN)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  (NP quien/NN aseveró/NN que/NN)\n  (VP el/VBP (NP Canal/NNP está/NN))\n  en/FW\n  proceso/FW\n  de/FW\n  “/FW\n  (NP recuperación/NN ”/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Venden/NNP conglomerado/NN portuario/NN)\n  a/DT\n  (ADJP los/JJ)\n  (ADJP lados/JJ)\n  del/FW\n  (NP Canal/NNP)\n  de/FW\n  (NP Panamá/NNP)\n  (NP a/DT BlackRock/NNP En/NNP)\n  (NP un/JJ comunicado/NN publicado/NN)\n  (PP en/IN (NP Twitter/NNP))\n  ,/,\n  (VP\n    el/VBZ\n    (NP\n      presidente/JJ\n      aseguró/NN\n      que/NN\n      Donald/NNP\n      Trump/NNP\n      “/NNP\n      miente/NNP\n      ”/NNP))\n  ,/,\n  (NP negando/JJ que/NN el/NN)\n  objetivo/FW\n  de/FW\n  las/FW\n  (NP conversaciones/NNS)\n  (VP\n    con/VBP\n    (NP\n      el/JJ\n      Secretario/NNP\n      Marco/NNP\n      Rubio/NNP\n      haya/NN\n      sido/NN\n      la/NN))\n  propiedad/FW\n  del/FW\n  (NP Canal/NNP)\n  ./.)",
+      "(S\n  (NP “/NN Rechazo/NNP)\n  (NP a/DT nombre/NN)\n  (PP de/IN (NP Panamá/NNP y/NNP))\n  de/IN\n  todos/FW\n  los/FW\n  panameños/FW\n  esta/FW\n  nueva/FW\n  afrenta/FW\n  (NP a/DT la/NN verdad/NN)\n  (VP\n    y/VBZ\n    (NP a/DT nuestra/JJ dignidad/NN como/NN Nación/NNP ”/NNP))\n  ,/,\n  (NP aseguró/NN el/NN presidente/NN Mulino/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP jefe/NN)\n  de/FW\n  (NP Estado/NNP panameño/NN reafirmó/NN que/NN la/NN cooperación/NN)\n  entre/FW\n  (NP Estados/NNP Unidos/NNP y/NNP)\n  (VP su/VBD (NP nación/JJ se/JJ mantiene/NN))\n  ,/,\n  (NP “/JJ con/NN entendimientos/NN claros/NN)\n  ,/,\n  en/FW\n  torno/FW\n  (NP a/DT temas/NN)\n  de/IN\n  mutuo/FW\n  (NP interés/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP “/NN Nada/NNP tiene/NN que/NN ver/NN)\n  (NP ni/JJ con/NN la/NN “/NNP recuperación/NN)\n  del/FW\n  (NP Canal/NNP ”/NNP)\n  (NP ni/JJ con/NN)\n  (NP mancillar/JJ nuestra/JJ soberanía/JJ nacional/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "rechazó en nombre de su nación las afrentas y las “mentiras” dichas por el presidente norteamericano",
+        "position": [
+          58,
+          158
+        ],
+        "start": 58,
+        "end": 158
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación entre estados unidos y su",
+        "position": [
+          712,
+          749
+        ],
+        "start": 712,
+        "end": 749
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de panamá",
+        "position": [
+          19,
+          39
+        ],
+        "start": 19,
+        "end": 39
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal está en",
+        "position": [
+          195,
+          208
+        ],
+        "start": 195,
+        "end": 208
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          58,
+          65
+        ],
+        "start": 58,
+        "end": 65
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          696,
+          704
+        ],
+        "start": 696,
+        "end": 704
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          730,
+          744
+        ],
+        "start": 730,
+        "end": 744
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "panamá",
+        "position": [
+          33,
+          39
+        ],
+        "start": 33,
+        "end": 39
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado panameño",
+        "position": [
+          680,
+          695
+        ],
+        "start": 680,
+        "end": 695
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          914,
+          932
+        ],
+        "start": 914,
+        "end": 932
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Marco Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Secretario",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "BlackRock",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Canal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "José Raul Mulino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso de Estados Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mulino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Canal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Canal de Panamá",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Panamá",
+        "relacion": "RECHAZAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Canal",
+        "relacion": "RECHAZAR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "José Raul Mulino",
+        "relacion": "RECHAZAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Canal",
+        "relacion": "RECHAZAR",
+        "objeto": "José Raul Mulino"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "VENDER_ASEGURAR",
+        "objeto": "Canal de Panamá"
+      },
+      {
+        "sujeto": "Canal de Panamá",
+        "relacion": "VENDER_ASEGURAR",
+        "objeto": "Secretario"
+      },
+      {
+        "sujeto": "Canal de Panamá",
+        "relacion": "VENDER_ASEGURAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "Canal de Panamá",
+        "relacion": "VENDER_ASEGURAR",
+        "objeto": "Canal"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "VENDER_ASEGURAR",
+        "objeto": "BlackRock"
+      },
+      {
+        "sujeto": "BlackRock",
+        "relacion": "VENDER_ASEGURAR",
+        "objeto": "Secretario"
+      },
+      {
+        "sujeto": "BlackRock",
+        "relacion": "VENDER_ASEGURAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "BlackRock",
+        "relacion": "VENDER_ASEGURAR",
+        "objeto": "Canal"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ASEGURAR",
+        "objeto": "Secretario"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ASEGURAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ASEGURAR",
+        "objeto": "Canal"
+      },
+      {
+        "sujeto": "Panamá",
+        "relacion": "ASEGURAR",
+        "objeto": "Mulino"
+      },
+      {
+        "sujeto": "Nación",
+        "relacion": "ASEGURAR",
+        "objeto": "Mulino"
+      },
+      {
+        "sujeto": "Mulino",
+        "relacion": "SUCEDER",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Mulino",
+        "relacion": "SUCEDER",
+        "objeto": "Congreso de Estados Unidos"
+      },
+      {
+        "sujeto": "Mulino",
+        "relacion": "SUCEDER",
+        "objeto": "Canal de Panamá"
+      },
+      {
+        "sujeto": "Mulino",
+        "relacion": "SUCEDER",
+        "objeto": "BlackRock"
+      },
+      {
+        "sujeto": "Mulino",
+        "relacion": "SUCEDER",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "SUCEDER",
+        "objeto": "Congreso de Estados Unidos"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "SUCEDER",
+        "objeto": "Canal de Panamá"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "SUCEDER",
+        "objeto": "BlackRock"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "SUCEDER",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Congreso de Estados Unidos",
+        "relacion": "SUCEDER",
+        "objeto": "Canal de Panamá"
+      },
+      {
+        "sujeto": "Congreso de Estados Unidos",
+        "relacion": "SUCEDER",
+        "objeto": "BlackRock"
+      },
+      {
+        "sujeto": "Congreso de Estados Unidos",
+        "relacion": "SUCEDER",
+        "objeto": "Washington"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

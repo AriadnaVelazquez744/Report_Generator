@@ -1,0 +1,791 @@
+{
+  "url": "https://www.telesurtv.net/oms-infraestructura-medica-ataque-israel/",
+  "title": "OMS pide proteger infraestructura médica tras reciente ataque israelí a un hospital en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Hospital Nasser",
+    "Israel",
+    "OMS",
+    "ONU",
+    "Palestina",
+    "Suiza",
+    "Tedros Adhanom Ghebreyesus"
+  ],
+  "text": "El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, hizo un llamado para que cesen los ataques contra la infraestructura médica en la Franja de Gaza, tras el reciente bombardeo israelí al hospital Nasser en el sur del enclave. “Hay que decirlo con suficiente fuerza: ¡Basta con ataques contra la infraestructura médica!”, escribió Adhanom en la red social X.\nSegún datos del Ministerio de Salud de Gaza, el ataque al hospital Nasser dejó un saldo de 20 víctimas mortales, que incluyen tanto a pacientes como a personal médico. La agresión también causó daños en el edificio principal del hospital, que alberga servicios esenciales como urgencias, salas de hospitalización y la unidad quirúrgica.\n\n\nEntre los fallecidos en el ataque se encuentran cinco periodistas que cubrían el conflicto. De acuerdo con la Oficina de Medios del Gobierno de Gaza, el número total de periodistas asesinados en la Franja de Gaza desde el inicio de la espiral de violencia ascendió a 245.\n\n\n\n\nLos datos del Ministerio de Salud de Gaza señalan que los continuos ataques de Israel han dejado más de 62.700 palestinos asesinados y más de 158.200 heridos desde octubre de 2023. Desde la Organización de las Naciones Unidas (ONU), el genocidio israelí es considerado como un “castigo colectivo” contra el pueblo palestino.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/oms-infraestructura-medica-ataque-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 463,
+    "message_id": 102821,
+    "date": "2025-08-25T20:55:08+00:00",
+    "text": "teleSUR\nOMS pide proteger infraestructura médica tras reciente ataque israelí a un hospital en Gaza\nhttps://www.telesurtv.net/oms-infraestructura-medica-ataque-israel/",
+    "photo_path": null,
+    "views": 1861,
+    "reactions": {
+      "👍": 30,
+      "❤": 3
+    },
+    "total_reactions": 33
+  },
+  "preprocessing": {
+    "cleaned": "el director general de la organización mundial de la salud (oms), tedros adhanom ghebreyesus, hizo un llamado para que cesen los ataques contra la infraestructura médica en la franja de gaza, tras el reciente bombardeo israelí al hospital nasser en el sur del enclave. “hay que decirlo con suficiente fuerza: ¡basta con ataques contra la infraestructura médica!”, escribió adhanom en la red social x. según datos del ministerio de salud de gaza, el ataque al hospital nasser dejó un saldo de 20 víctimas mortales, que incluyen tanto a pacientes como a personal médico. la agresión también causó daños en el edificio principal del hospital, que alberga servicios esenciales como urgencias, salas de hospitalización y la unidad quirúrgica. entre los fallecidos en el ataque se encuentran cinco periodistas que cubrían el conflicto. de acuerdo con la oficina de medios del gobierno de gaza, el número total de periodistas asesinados en la franja de gaza desde el inicio de la espiral de violencia ascendió a 245. los datos del ministerio de salud de gaza señalan que los continuos ataques de israel han dejado más de 62.700 palestinos asesinados y más de 158.200 heridos desde octubre de 2023. desde la organización de las naciones unidas (onu), el genocidio israelí es considerado como un “castigo colectivo” contra el pueblo palestino.",
+    "tokens": [
+      "director",
+      "general",
+      "organización",
+      "mundial",
+      "salud",
+      "(",
+      "oms",
+      ")",
+      ",",
+      "tedros",
+      "adhanom",
+      "ghebreyesus",
+      ",",
+      "hizo",
+      "llamado",
+      "cesen",
+      "ataques",
+      "infraestructura",
+      "médica",
+      "franja",
+      "gaza",
+      ",",
+      "tras",
+      "reciente",
+      "bombardeo",
+      "israelí",
+      "hospital",
+      "nasser",
+      "sur",
+      "enclave",
+      ".",
+      "“",
+      "decirlo",
+      "suficiente",
+      "fuerza",
+      ":",
+      "¡basta",
+      "ataques",
+      "infraestructura",
+      "médica",
+      "!",
+      "”",
+      ",",
+      "escribió",
+      "adhanom",
+      "red",
+      "social",
+      "x.",
+      "según",
+      "datos",
+      "ministerio",
+      "salud",
+      "gaza",
+      ",",
+      "ataque",
+      "hospital",
+      "nasser",
+      "dejó",
+      "saldo",
+      "20",
+      "víctimas",
+      "mortales",
+      ",",
+      "incluyen",
+      "pacientes",
+      "personal",
+      "médico",
+      ".",
+      "agresión",
+      "causó",
+      "daños",
+      "edificio",
+      "principal",
+      "hospital",
+      ",",
+      "alberga",
+      "servicios",
+      "esenciales",
+      "urgencias",
+      ",",
+      "salas",
+      "hospitalización",
+      "unidad",
+      "quirúrgica",
+      ".",
+      "fallecidos",
+      "ataque",
+      "encuentran",
+      "cinco",
+      "periodistas",
+      "cubrían",
+      "conflicto",
+      ".",
+      "acuerdo",
+      "oficina",
+      "medios",
+      "gobierno",
+      "gaza",
+      ",",
+      "número",
+      "total",
+      "periodistas",
+      "asesinados",
+      "franja",
+      "gaza",
+      "inicio",
+      "espiral",
+      "violencia",
+      "ascendió",
+      "245.",
+      "datos",
+      "ministerio",
+      "salud",
+      "gaza",
+      "señalan",
+      "continuos",
+      "ataques",
+      "israel",
+      "dejado",
+      "62.700",
+      "palestinos",
+      "asesinados",
+      "158.200",
+      "heridos",
+      "octubre",
+      "2023.",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      ",",
+      "genocidio",
+      "israelí",
+      "considerado",
+      "“",
+      "castigo",
+      "colectivo",
+      "”",
+      "pueblo",
+      "palestino",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 8
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 12,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0341
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0341
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0341
+      },
+      {
+        "rule": "VP -> ('contra', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('la', 'JJ') ('infraestructura', 'NN') ('médica', 'NN')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "S -> NP NP ('la', 'FW') NP ('la', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP NP VP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP (',', ',') VP PP VP ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('director', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('general', 'JJ') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('Organización', 'NNP') ('Mundial', 'NNP') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0114
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El director"
+      },
+      {
+        "label": "NP",
+        "text": "general de"
+      },
+      {
+        "label": "NP",
+        "text": "Organización Mundial de"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "OMS"
+      },
+      {
+        "label": "NP",
+        "text": "Tedros Adhanom Ghebreyesus"
+      },
+      {
+        "label": "NP",
+        "text": "hizo"
+      },
+      {
+        "label": "NP",
+        "text": "un llamado para que cesen los ataques"
+      },
+      {
+        "label": "VP",
+        "text": "contra la infraestructura médica"
+      },
+      {
+        "label": "NP",
+        "text": "la infraestructura médica"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "VP",
+        "text": "tras el reciente bombardeo israelí"
+      },
+      {
+        "label": "NP",
+        "text": "el reciente bombardeo israelí"
+      },
+      {
+        "label": "PP",
+        "text": "al hospital Nasser"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP director/NN)\n  (NP general/JJ de/NNP)\n  la/FW\n  (NP Organización/NNP Mundial/NNP de/NNP)\n  la/FW\n  (NP Salud/NNP)\n  (/(\n  (NP OMS/NNP)\n  )/)\n  ,/,\n  (NP Tedros/NNP Adhanom/NNP Ghebreyesus/NNP)\n  ,/,\n  (NP hizo/NN)\n  (NP un/JJ llamado/NN para/NN que/NN cesen/NN los/NN ataques/NNS)\n  (VP contra/VBP (NP la/JJ infraestructura/NN médica/NN))\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP tras/VBZ (NP el/JJ reciente/NN bombardeo/NN israelí/NN))\n  (PP al/IN (NP hospital/NN Nasser/NNP))\n  (VP en/VBZ)\n  el/FW\n  (NP sur/JJ del/NN enclave/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Hay/NNP que/NN decirlo/NN con/NN suficiente/NN fuerza/NN)\n  :/:\n  (NP ¡Basta/JJ con/NN ataques/NNS)\n  (VP contra/VBP (NP la/JJ infraestructura/NN médica/NN))\n  !/.\n  (NP ”/NN)\n  ,/,\n  (NP escribió/JJ Adhanom/NNP en/NN la/NN)\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP datos/NN del/NN Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP\n    el/VBP\n    (NP ataque/JJ al/JJ hospital/NN Nasser/NNP dejó/NN)\n    (NP un/JJ saldo/NN))\n  de/IN\n  20/CD\n  (NP víctimas/NN mortales/NNS)\n  ,/,\n  (NP que/JJ incluyen/NN)\n  (PP tanto/IN (NP a/DT pacientes/NNS))\n  (VP como/VBP (NP a/DT personal/JJ médico/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP agresión/VBZ (NP también/JJ causó/NN daños/NN))\n  en/IN\n  el/FW\n  edificio/FW\n  (ADJP principal/JJ)\n  del/FW\n  (NP hospital/NN)\n  ,/,\n  (NP que/JJ alberga/NN servicios/NNS)\n  (VP esenciales/VBZ (NP como/NN) urgencias/JJ)\n  ,/,\n  salas/FW\n  de/FW\n  hospitalización/FW\n  y/CC\n  la/FW\n  (NP unidad/JJ quirúrgica/NN)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP los/VBZ fallecidos/JJ)\n  en/FW\n  el/FW\n  ataque/FW\n  se/FW\n  encuentran/FW\n  (NP cinco/NN periodistas/NNS)\n  (VP que/VBP (NP cubrían/JJ el/NN conflicto/NN))\n  ./.)"
+    ]
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "NN": 57,
+      "JJ": 25,
+      "FW": 44,
+      "NNS": 12,
+      "VBP": 9,
+      "IN": 11,
+      "VBZ": 3,
+      "CC": 2,
+      "CD": 5,
+      "RB": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-JJ": 7,
+      "JJ-NNP": 2,
+      "NNP-FW": 14,
+      "FW-NNP": 15,
+      "NNP-NNP": 8,
+      "JJ-NN": 14,
+      "NN-NN": 27,
+      "NN-NNS": 5,
+      "NNS-VBP": 7,
+      "VBP-JJ": 7,
+      "NN-IN": 7,
+      "IN-FW": 4,
+      "NNP-NNS": 1,
+      "IN-NN": 1,
+      "NN-NNP": 7,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "FW-JJ": 3,
+      "NN-VBP": 2,
+      "VBP-NNP": 2,
+      "FW-NN": 5,
+      "JJ-JJ": 2,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-CC": 2,
+      "CC-JJ": 2,
+      "IN-CD": 3,
+      "CD-NNS": 3,
+      "NNS-NNS": 2,
+      "VBZ-JJ": 1,
+      "FW-FW": 18,
+      "JJ-FW": 6,
+      "JJ-NNS": 1,
+      "NN-FW": 1,
+      "FW-RB": 1,
+      "RB-CD": 1,
+      "CD-NNP": 2,
+      "NNS-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-JJ": 2,
+      "FW-CD": 1,
+      "FW-IN": 1,
+      "VBZ-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-JJ": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 10,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-NN": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 13,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 5,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 7,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NN-VBP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 2,
+      "FW-NNP-CC": 2,
+      "NNP-CC-JJ": 2,
+      "CC-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "JJ-NN-NNS": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 11,
+      "FW-FW-NNP": 3,
+      "NNP-FW-JJ": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "CC-JJ-NN": 1,
+      "FW-NNP-NN": 2,
+      "FW-FW-RB": 1,
+      "FW-RB-CD": 1,
+      "RB-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "JJ-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 57,
+        "FW": 44,
+        "NNP": 40,
+        "JJ": 25,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 27,
+        "FW-FW": 18,
+        "FW-NNP": 15,
+        "NNP-FW": 14,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 13,
+        "FW-FW-FW": 11,
+        "NNP-FW-NNP": 10,
+        "JJ-NN-NN": 7,
+        "NNS-VBP-JJ": 7
+      }
+    }
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "LEYES_NORMATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "conflicto. de acuerdo con la oficina de medios del gobierno",
+        "position": [
+          821,
+          880
+        ],
+        "start": 821,
+        "end": 880
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto. de acuerdo con la oficina de medios del gobierno de gaza, el número total de periodistas asesinados en la",
+        "position": [
+          821,
+          937
+        ],
+        "start": 821,
+        "end": 937
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "periodistas que cubrían el conflicto. de acuerdo con la oficina de medios del gobierno de gaza, el número total de periodistas asesinados",
+        "position": [
+          794,
+          931
+        ],
+        "start": 794,
+        "end": 931
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "genocidio israelí es considerado como un “castigo colectivo” contra el pueblo",
+        "position": [
+          1252,
+          1329
+        ],
+        "start": 1252,
+        "end": 1329
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "organización mundial de la salud (oms), tedros adhanom ghebreyesus, hizo un llamado para que cesen los ataques contra la infraestructura médica en la franja de gaza, tras el reciente bombardeo israelí al hospital nasser en el sur del enclave. “hay que decirlo con suficiente fuerza: ¡basta con ataques contra la infraestructura médica!”, escribió adhanom en la red social",
+        "position": [
+          26,
+          397
+        ],
+        "start": 26,
+        "end": 397
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de gaza",
+        "position": [
+          872,
+          888
+        ],
+        "start": 872,
+        "end": 888
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          1206,
+          1241
+        ],
+        "start": 1206,
+        "end": 1241
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oms",
+        "position": [
+          60,
+          63
+        ],
+        "start": 60,
+        "end": 63
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la oficina de medios del gobierno de gaza, el número total de periodistas asesinados en la franja de gaza desde el inicio de la espiral de violencia ascendió a 245",
+        "position": [
+          835,
+          1010
+        ],
+        "start": 835,
+        "end": 1010
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          230,
+          238
+        ],
+        "start": 230,
+        "end": 238
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          219,
+          226
+        ],
+        "start": 219,
+        "end": 226
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio principal",
+        "position": [
+          607,
+          625
+        ],
+        "start": 607,
+        "end": 625
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital nasser",
+        "position": [
+          230,
+          245
+        ],
+        "start": 230,
+        "end": 245
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 62.700",
+        "position": [
+          1113,
+          1126
+        ],
+        "start": 1113,
+        "end": 1126
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 158.200",
+        "position": [
+          1151,
+          1165
+        ],
+        "start": 1151,
+        "end": 1165
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Adhanom",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tedros Adhanom Ghebreyesus",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "hospital Nasser",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OMS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Oficina de Medios del",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Organización Mundial de la Salud",
+        "relacion": "HACER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Organización Mundial de la Salud",
+        "relacion": "HACER",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "OMS",
+        "relacion": "HACER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "OMS",
+        "relacion": "HACER",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Tedros Adhanom Ghebreyesus",
+        "relacion": "HACER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Tedros Adhanom Ghebreyesus",
+        "relacion": "HACER",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CESAR_HACER",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Adhanom",
+        "relacion": "ESCRIBIR",
+        "objeto": "Ministerio de Salud de Gaza"
+      },
+      {
+        "sujeto": "Adhanom",
+        "relacion": "ESCRIBIR",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Ministerio de Salud de Gaza",
+        "relacion": "ESCRIBIR",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Oficina de Medios del",
+        "relacion": "ASCENDER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gobierno de Gaza",
+        "relacion": "ASCENDER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Ministerio de Salud de Gaza",
+        "relacion": "SE_ALAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

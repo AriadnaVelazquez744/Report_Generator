@@ -1,0 +1,709 @@
+{
+  "url": "https://www.telesurtv.net/israel-silencia-genocidio-240-periodistas/",
+  "title": "Israel intenta silenciar el genocidio: ya son 240 los periodistas asesinados en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Asesinato",
+    "Conflicto",
+    "conflicto destacado",
+    "Crímenes de guerra",
+    "Gaza",
+    "genocidio",
+    "Khaled Al-Madhoun",
+    "Periodistas"
+  ],
+  "text": "Israel continúa quitándole la vida a los reporteros que exponen sus crímenes de guerra y el genocidio que comete contra los civiles de los territorios ocupados palestinos. Este sábado los palestinos lamentaron el asesinato del camarógrafo y periodista Khaled Al-Madhoun de Palestine TV.\n\nMedios locales palestinos han lamentado el asesinato de Khaled Al-Madhoun por las tropas de ocupación israelíes, y a través de un comunicado refirieron que dio su vida portando su cámara, dando testimonio de la verdad y documentando el sufrimiento de su pueblo.\nWAFA, en cita a los medios, agregó “que la voz de la prensa palestina no será silenciada y que tanto la palabra como la imagen permanecerán en primera línea en la lucha por la justicia y la libertad”.\n\n\nLa declaración expuso “el compromiso de los medios oficiales de continuar su misión de exponer los crímenes israelíes, transmitir la realidad sobre el terreno y cumplir con su deber nacional y profesional hasta que el pueblo palestino logre su libertad e independencia”.\nPor su parte, el Sindicato de Periodistas Palestinos también lamentó el fallecimiento de Al-Madhoun y condenó su asesinato como parte de una campaña israelí en curso contra los periodistas destinada a silenciar la narrativa palestina.\nEl sindicato enfatizó que atacar a periodistas es un delito que las tropas israelíes cometen de forma casi cotidiana en su intento de ocultar la verdad.\nAl tiempo insistió que estos actos no quebrantarán la determinación de los profesionales de los medios palestinos, quienes continúan cumpliendo con su misión a pesar de las condiciones de vida precarias. De acuerdo con las últimas cifras publicadas, Israel ha asesinado a 240 reporteros.\nPor otra parte, el Ministerio de Salud de Gaza informó que el número de víctimas mortales por desnutrición ascendió a 281, incluyendo a 114 menores.\nEn las últimas 24 horas, se registraron ocho muertes adicionales por la hambruna provocada por Israel, de las cuales dos eran niños.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-silencia-genocidio-240-periodistas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 583,
+    "message_id": 102633,
+    "date": "2025-08-24T01:55:07+00:00",
+    "text": "teleSUR\nIsrael intenta silenciar el genocidio: ya son 240 los periodistas asesinados en Gaza\nhttps://www.telesurtv.net/israel-silencia-genocidio-240-periodistas/",
+    "photo_path": null,
+    "views": 2607,
+    "reactions": {
+      "🤬": 59,
+      "❤": 6,
+      "🙏": 5,
+      "👍": 2
+    },
+    "total_reactions": 72
+  },
+  "preprocessing": {
+    "cleaned": "israel continúa quitándole la vida a los reporteros que exponen sus crímenes de guerra y el genocidio que comete contra los civiles de los territorios ocupados palestinos. este sábado los palestinos lamentaron el asesinato del camarógrafo y periodista khaled al-madhoun de palestine tv. medios locales palestinos han lamentado el asesinato de khaled al-madhoun por las tropas de ocupación israelíes, y a través de un comunicado refirieron que dio su vida portando su cámara, dando testimonio de la verdad y documentando el sufrimiento de su pueblo. wafa, en cita a los medios, agregó “que la voz de la prensa palestina no será silenciada y que tanto la palabra como la imagen permanecerán en primera línea en la lucha por la justicia y la libertad”. la declaración expuso “el compromiso de los medios oficiales de continuar su misión de exponer los crímenes israelíes, transmitir la realidad sobre el terreno y cumplir con su deber nacional y profesional hasta que el pueblo palestino logre su libertad e independencia”. por su parte, el sindicato de periodistas palestinos también lamentó el fallecimiento de al-madhoun y condenó su asesinato como parte de una campaña israelí en curso contra los periodistas destinada a silenciar la narrativa palestina. el sindicato enfatizó que atacar a periodistas es un delito que las tropas israelíes cometen de forma casi cotidiana en su intento de ocultar la verdad. al tiempo insistió que estos actos no quebrantarán la determinación de los profesionales de los medios palestinos, quienes continúan cumpliendo con su misión a pesar de las condiciones de vida precarias. de acuerdo con las últimas cifras publicadas, israel ha asesinado a 240 reporteros. por otra parte, el ministerio de salud de gaza informó que el número de víctimas mortales por desnutrición ascendió a 281, incluyendo a 114 menores. en las últimas 24 horas, se registraron ocho muertes adicionales por la hambruna provocada por israel, de las cuales dos eran niños.",
+    "tokens": [
+      "israel",
+      "continúa",
+      "quitándole",
+      "vida",
+      "reporteros",
+      "exponen",
+      "crímenes",
+      "guerra",
+      "genocidio",
+      "comete",
+      "civiles",
+      "territorios",
+      "ocupados",
+      "palestinos",
+      ".",
+      "sábado",
+      "palestinos",
+      "lamentaron",
+      "asesinato",
+      "camarógrafo",
+      "periodista",
+      "khaled",
+      "al-madhoun",
+      "palestine",
+      "tv",
+      ".",
+      "medios",
+      "locales",
+      "palestinos",
+      "lamentado",
+      "asesinato",
+      "khaled",
+      "al-madhoun",
+      "tropas",
+      "ocupación",
+      "israelíes",
+      ",",
+      "través",
+      "comunicado",
+      "refirieron",
+      "dio",
+      "vida",
+      "portando",
+      "cámara",
+      ",",
+      "dando",
+      "testimonio",
+      "verdad",
+      "documentando",
+      "sufrimiento",
+      "pueblo",
+      ".",
+      "wafa",
+      ",",
+      "cita",
+      "medios",
+      ",",
+      "agregó",
+      "“",
+      "voz",
+      "prensa",
+      "palestina",
+      "silenciada",
+      "palabra",
+      "imagen",
+      "permanecerán",
+      "primera",
+      "línea",
+      "lucha",
+      "justicia",
+      "libertad",
+      "”",
+      ".",
+      "declaración",
+      "expuso",
+      "“",
+      "compromiso",
+      "medios",
+      "oficiales",
+      "continuar",
+      "misión",
+      "exponer",
+      "crímenes",
+      "israelíes",
+      ",",
+      "transmitir",
+      "realidad",
+      "terreno",
+      "cumplir",
+      "deber",
+      "nacional",
+      "profesional",
+      "pueblo",
+      "palestino",
+      "logre",
+      "libertad",
+      "independencia",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "sindicato",
+      "periodistas",
+      "palestinos",
+      "lamentó",
+      "fallecimiento",
+      "al-madhoun",
+      "condenó",
+      "asesinato",
+      "parte",
+      "campaña",
+      "israelí",
+      "curso",
+      "periodistas",
+      "destinada",
+      "silenciar",
+      "narrativa",
+      "palestina",
+      ".",
+      "sindicato",
+      "enfatizó",
+      "atacar",
+      "periodistas",
+      "delito",
+      "tropas",
+      "israelíes",
+      "cometen",
+      "forma",
+      "casi",
+      "cotidiana",
+      "intento",
+      "ocultar",
+      "verdad",
+      ".",
+      "tiempo",
+      "insistió",
+      "actos",
+      "quebrantarán",
+      "determinación",
+      "profesionales",
+      "medios",
+      "palestinos",
+      ",",
+      "continúan",
+      "cumpliendo",
+      "misión",
+      "pesar",
+      "condiciones",
+      "vida",
+      "precarias",
+      ".",
+      "acuerdo",
+      "últimas",
+      "cifras",
+      "publicadas",
+      ",",
+      "israel",
+      "asesinado",
+      "240",
+      "reporteros",
+      ".",
+      "parte",
+      ",",
+      "ministerio",
+      "salud",
+      "gaza",
+      "informó",
+      "número",
+      "víctimas",
+      "mortales",
+      "desnutrición",
+      "ascendió",
+      "281",
+      ",",
+      "incluyendo",
+      "114",
+      "menores",
+      ".",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "registraron",
+      "ocho",
+      "muertes",
+      "adicionales",
+      "hambruna",
+      "provocada",
+      "israel",
+      ",",
+      "cuales",
+      "dos",
+      "niños",
+      "."
+    ],
+    "token_count": 194,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "NN": 114,
+      "FW": 60,
+      "VBP": 17,
+      "NNS": 23,
+      "IN": 18,
+      "JJ": 24,
+      "VBD": 3,
+      "VBZ": 5,
+      "DT": 2,
+      "CD": 4,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 66,
+      "NN-FW": 11,
+      "FW-NN": 13,
+      "NN-VBP": 1,
+      "VBP-NN": 3,
+      "NN-NNS": 8,
+      "NNS-IN": 3,
+      "IN-FW": 10,
+      "FW-FW": 28,
+      "NN-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-NN": 15,
+      "FW-NNS": 6,
+      "NNS-VBP": 15,
+      "VBP-JJ": 10,
+      "JJ-NNP": 2,
+      "NN-VBD": 2,
+      "VBD-NNP": 1,
+      "NNP-FW": 7,
+      "FW-NNP": 9,
+      "NNP-NNP": 5,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 2,
+      "JJ-FW": 3,
+      "VBP-IN": 1,
+      "FW-JJ": 3,
+      "NN-IN": 12,
+      "IN-JJ": 2,
+      "FW-VBZ": 1,
+      "VBZ-DT": 2,
+      "DT-NN": 2,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 1,
+      "JJ-IN": 1,
+      "IN-NN": 4,
+      "NNS-FW": 1,
+      "JJ-NNS": 1,
+      "NNP-JJ": 1,
+      "NN-NNP": 4,
+      "IN-NNP": 2,
+      "VBP-NNS": 2,
+      "NNS-NNS": 1,
+      "VBP-NNP": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 3,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "NNP-IN": 1,
+      "NN-CD": 2,
+      "CD-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 40,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 6,
+      "FW-NN-NN": 5,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-IN": 2,
+      "NNS-IN-FW": 3,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "IN-FW-NNS": 4,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 10,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-NN-IN": 8,
+      "NN-IN-FW": 6,
+      "FW-FW-FW": 18,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 3,
+      "NN-NN-NNS": 3,
+      "JJ-FW-FW": 2,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-NN": 1,
+      "IN-NN-NN": 3,
+      "NN-IN-NN": 3,
+      "NN-FW-FW": 3,
+      "FW-NN-IN": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 7,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "IN-NN-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "IN-FW-NN": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 1,
+      "DT-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "FW-NNS-IN": 1,
+      "FW-NN-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NNP": 2,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-VBZ-NNS": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 114,
+        "FW": 60,
+        "NNP": 27,
+        "JJ": 24,
+        "NNS": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "FW-FW": 28,
+        "JJ-NN": 15,
+        "NNS-VBP": 15,
+        "FW-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 40,
+        "FW-FW-FW": 18,
+        "NNS-VBP-JJ": 10,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 82,
+      "VP": 28,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "S -> NP ('vida', 'FW') NP VP ('de', 'IN') ('guerra', 'FW') ('y', 'FW') ('el', 'FW') NP NP ('de', 'IN') ('los', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('continúa', 'NN') ('quitándole', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'NN') ('reporteros', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "VP -> ('exponen', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('sus', 'NN') ('crímenes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('genocidio', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('comete', 'JJ') ('contra', 'JJ') ('los', 'NN') ('civiles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Israel continúa quitándole la"
+      },
+      {
+        "label": "NP",
+        "text": "a los reporteros que"
+      },
+      {
+        "label": "VP",
+        "text": "exponen sus crímenes"
+      },
+      {
+        "label": "NP",
+        "text": "sus crímenes"
+      },
+      {
+        "label": "NP",
+        "text": "genocidio que"
+      },
+      {
+        "label": "NP",
+        "text": "comete contra los civiles"
+      },
+      {
+        "label": "NP",
+        "text": "territorios"
+      },
+      {
+        "label": "VP",
+        "text": "ocupados palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "Este"
+      },
+      {
+        "label": "VP",
+        "text": "sábado los palestinos lamentaron el asesinato del camarógrafo y periodista"
+      },
+      {
+        "label": "NP",
+        "text": "los palestinos lamentaron el asesinato del camarógrafo y periodista"
+      },
+      {
+        "label": "VP",
+        "text": "Khaled Al-Madhoun"
+      },
+      {
+        "label": "NP",
+        "text": "Al-Madhoun"
+      },
+      {
+        "label": "NP",
+        "text": "Palestine TV"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Israel/NNP continúa/NN quitándole/NN la/NN)\n  vida/FW\n  (NP a/DT los/NN reporteros/NN que/NN)\n  (VP exponen/VBP (NP sus/NN crímenes/NNS))\n  de/IN\n  guerra/FW\n  y/FW\n  el/FW\n  (NP genocidio/NN que/NN)\n  (NP comete/JJ contra/JJ los/NN civiles/NNS)\n  de/IN\n  los/FW\n  (NP territorios/NNS)\n  (VP ocupados/VBP (NP palestinos/NNS))\n  ./.)",
+      "(S\n  (NP Este/NNP)\n  (VP\n    sábado/VBD\n    (NP\n      los/JJ\n      palestinos/JJ\n      lamentaron/NN\n      el/NN\n      asesinato/NN\n      del/NN\n      camarógrafo/NN\n      y/NN\n      periodista/NN))\n  (VP Khaled/VBD (NP Al-Madhoun/NNP))\n  de/FW\n  (NP Palestine/NNP TV/NN)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP locales/VBZ (NP palestinos/NNS))\n  (VP han/VBP lamentado/JJ)\n  el/FW\n  (NP asesinato/NN)\n  de/FW\n  (NP Khaled/NNP Al-Madhoun/NNP por/NN las/NNS)\n  (VP tropas/VBP)\n  de/IN\n  ocupación/FW\n  (NP israelíes/NN)\n  ,/,\n  (VP y/VB (NP a/DT través/NN))\n  (PP\n    de/IN\n    (NP un/JJ comunicado/NN refirieron/NN que/NN dio/NN su/NN))\n  vida/FW\n  (NP portando/NN su/NN cámara/NN)\n  ,/,\n  (NP dando/JJ testimonio/NN)\n  de/IN\n  la/FW\n  verdad/FW\n  y/FW\n  documentando/FW\n  el/FW\n  sufrimiento/FW\n  de/FW\n  su/FW\n  (NP pueblo/NN)\n  ./.)",
+      "(S\n  (NP WAFA/NNP)\n  ,/,\n  en/FW\n  cita/FW\n  (NP a/DT los/NN medios/NN)\n  ,/,\n  (NP agregó/JJ “/NNP que/NN la/NN)\n  voz/FW\n  de/FW\n  la/FW\n  prensa/FW\n  (VP palestina/VBZ (NP no/DT será/NN))\n  (VP silenciada/VBZ)\n  y/CC\n  (NP que/NN tanto/NN la/NN)\n  palabra/FW\n  (NP como/NN)\n  la/FW\n  (NP imagen/NN permanecerán/NN)\n  (PP en/IN (NP primera/NN línea/NN))\n  en/IN\n  la/FW\n  lucha/FW\n  (NP por/NN)\n  la/FW\n  (NP justicia/NN y/NN la/NN)\n  libertad/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP declaración/VBZ (NP expuso/JJ “/NNP el/NN compromiso/NN))\n  de/IN\n  los/FW\n  (NP medios/NNS)\n  oficiales/FW\n  de/FW\n  continuar/FW\n  (ADJP su/JJ)\n  misión/FW\n  de/FW\n  exponer/FW\n  (NP los/JJ crímenes/NNS israelíes/NN)\n  ,/,\n  (NP\n    transmitir/JJ\n    la/NN\n    realidad/NN\n    sobre/NN\n    el/NN\n    terreno/NN\n    y/NN\n    cumplir/NN\n    con/NN)\n  (NP su/JJ deber/NNP)\n  (NP\n    nacional/JJ\n    y/NNP\n    profesional/NN\n    hasta/NN\n    que/NN\n    el/NN\n    pueblo/NN\n    palestino/NN\n    logre/NN\n    su/NN\n    libertad/NN)\n  e/FW\n  (NP independencia/JJ ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "LEYES_NORMATIVAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra y el genocidio que comete contra los",
+        "position": [
+          80,
+          123
+        ],
+        "start": 80,
+        "end": 123
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          380,
+          389
+        ],
+        "start": 380,
+        "end": 389
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1747,
+          1754
+        ],
+        "start": 1747,
+        "end": 1754
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periodista khaled al",
+        "position": [
+          241,
+          261
+        ],
+        "start": 241,
+        "end": 261
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          1126,
+          1133
+        ],
+        "start": 1126,
+        "end": 1133
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con las últimas cifras publicadas, israel ha asesinado a 240",
+        "position": [
+          1619,
+          1687
+        ],
+        "start": 1619,
+        "end": 1687
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          610,
+          619
+        ],
+        "start": 610,
+        "end": 619
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sindicato de Periodistas Palestinos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Khaled Al-Madhoun",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Khaled Al-Madhoun de Palestine TV",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al-Madhoun",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Sindicato de Periodistas Palestinos",
+        "relacion": "LAMENTAR",
+        "objeto": "Al-Madhoun"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.008,
+    "neu": 0.977,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

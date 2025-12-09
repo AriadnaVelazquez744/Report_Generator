@@ -1,0 +1,860 @@
+{
+  "url": "https://www.telesurtv.net/nueva-directiva-de-asamblea-nacional-venezolana-jura-cargo-con-promesas-de-paz-y-soberania/",
+  "title": "Nueva directiva de Asamblea Nacional venezolana jura cargo con promesas de paz y soberanía - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "América Pérez",
+    "Asamblea Nacional Venezuela",
+    "Jorge Rodríguez",
+    "Pedro Infante"
+  ],
+  "text": "La Asamblea Nacional de Venezuela celebró la ceremonia de juramentación de su nueva directiva para el período 2025-2026, donde el diputado Jorge Rodríguez fue ratificado como presidente del órgano legislativo, acompañado por Pedro Infante y América Pérez en la directiva.\nLEA TAMBIÉN\nAsamblea Nacional de Venezuela celebra primera sesión del periodo legislativo 2025-2026\nDurante la solemne ceremonia realizada en el hemiciclo protocolar, Rodríguez prestó juramento comprometiéndose a defender la verdad, la vida y la paz en Venezuela. “Juro por el futuro, juro porque la palabra siempre se imponga frente a la violencia, juro porque derrotaremos con el esfuerzo cotidiano al extremismo”, declaró el presidente reelecto de la Asamblea.\nEn su emotivo juramento, Rodríguez hizo referencia personal a sus hijos Lucía, Juan Pedro, Matías y Lucas, vinculando su compromiso institucional con el legado familiar y el futuro de las nuevas generaciones venezolanas. Enfatizó su determinación de mantener la soberanía nacional y trabajar por la prosperidad del país.\nLa nueva directiva se completó con la juramentación de Pedro Infante, quien en su discurso evocó figuras históricas como Simón Bolívar y Hugo Chávez, reafirmando su compromiso con la defensa de la Constitución y los intereses nacionales. “Defenderemos siempre los intereses de nuestro pueblo, de nuestra nación”, aseveró Infante en su intervención.\nAmérica Pérez, designada como segunda vicepresidenta, prestó juramento destacando su compromiso con la protección de la soberanía venezolana y anticipando la próxima juramentación del presidente Nicolás Maduro, programada para el 10 de enero. En su intervención, Pérez también expresó solidaridad con causas internacionales, mencionando específicamente su apoyo a “una Palestina libre”.\nLa ceremonia de instalación marca el inicio de un nuevo período legislativo en Venezuela, donde la directiva entrante ha establecido como prioridades la defensa de la paz, la soberanía nacional y el desarrollo económico del país.\nLa nueva directiva asume sus funciones en un momento crucial para la política venezolana, con el compromiso declarado de fortalecer las instituciones democráticas y promover el bienestar de la población.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nueva-directiva-de-asamblea-nacional-venezolana-jura-cargo-con-promesas-de-paz-y-soberania/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1975,
+    "message_id": 83645,
+    "date": "2025-01-05T17:55:13+00:00",
+    "text": "teleSUR\nNueva directiva de Asamblea Nacional venezolana jura cargo con promesas de paz y soberanía\nhttps://www.telesurtv.net/nueva-directiva-de-asamblea-nacional-venezolana-jura-cargo-con-promesas-de-paz-y-soberania/",
+    "photo_path": null,
+    "views": 3027,
+    "reactions": {
+      "👍": 65,
+      "👏": 16,
+      "❤": 6,
+      "🥱": 1
+    },
+    "total_reactions": 88
+  },
+  "preprocessing": {
+    "cleaned": "la asamblea nacional de venezuela celebró la ceremonia de juramentación de su nueva directiva para el período 2025-2026, donde el diputado jorge rodríguez fue ratificado como presidente del órgano legislativo, acompañado por pedro infante y américa pérez en la directiva. durante la solemne ceremonia realizada en el hemiciclo protocolar, rodríguez prestó juramento comprometiéndose a defender la verdad, la vida y la paz en venezuela. “juro por el futuro, juro porque la palabra siempre se imponga frente a la violencia, juro porque derrotaremos con el esfuerzo cotidiano al extremismo”, declaró el presidente reelecto de la asamblea. en su emotivo juramento, rodríguez hizo referencia personal a sus hijos lucía, juan pedro, matías y lucas, vinculando su compromiso institucional con el legado familiar y el futuro de las nuevas generaciones venezolanas. enfatizó su determinación de mantener la soberanía nacional y trabajar por la prosperidad del país. la nueva directiva se completó con la juramentación de pedro infante, quien en su discurso evocó figuras históricas como simón bolívar y hugo chávez, reafirmando su compromiso con la defensa de la constitución y los intereses nacionales. “defenderemos siempre los intereses de nuestro pueblo, de nuestra nación”, aseveró infante en su intervención. américa pérez, designada como segunda vicepresidenta, prestó juramento destacando su compromiso con la protección de la soberanía venezolana y anticipando la próxima juramentación del presidente nicolás maduro, programada para el 10 de enero. en su intervención, pérez también expresó solidaridad con causas internacionales, mencionando específicamente su apoyo a “una palestina libre”. la ceremonia de instalación marca el inicio de un nuevo período legislativo en venezuela, donde la directiva entrante ha establecido como prioridades la defensa de la paz, la soberanía nacional y el desarrollo económico del país. la nueva directiva asume sus funciones en un momento crucial para la política venezolana, con el compromiso declarado de fortalecer las instituciones democráticas y promover el bienestar de la población.",
+    "tokens": [
+      "asamblea",
+      "nacional",
+      "venezuela",
+      "celebró",
+      "ceremonia",
+      "juramentación",
+      "nueva",
+      "directiva",
+      "período",
+      "2025-2026",
+      ",",
+      "diputado",
+      "jorge",
+      "rodríguez",
+      "ratificado",
+      "presidente",
+      "órgano",
+      "legislativo",
+      ",",
+      "acompañado",
+      "pedro",
+      "infante",
+      "américa",
+      "pérez",
+      "directiva",
+      ".",
+      "solemne",
+      "ceremonia",
+      "realizada",
+      "hemiciclo",
+      "protocolar",
+      ",",
+      "rodríguez",
+      "prestó",
+      "juramento",
+      "comprometiéndose",
+      "defender",
+      "verdad",
+      ",",
+      "vida",
+      "paz",
+      "venezuela",
+      ".",
+      "“",
+      "juro",
+      "futuro",
+      ",",
+      "juro",
+      "palabra",
+      "siempre",
+      "imponga",
+      "frente",
+      "violencia",
+      ",",
+      "juro",
+      "derrotaremos",
+      "esfuerzo",
+      "cotidiano",
+      "extremismo",
+      "”",
+      ",",
+      "declaró",
+      "presidente",
+      "reelecto",
+      "asamblea",
+      ".",
+      "emotivo",
+      "juramento",
+      ",",
+      "rodríguez",
+      "hizo",
+      "referencia",
+      "personal",
+      "hijos",
+      "lucía",
+      ",",
+      "juan",
+      "pedro",
+      ",",
+      "matías",
+      "lucas",
+      ",",
+      "vinculando",
+      "compromiso",
+      "institucional",
+      "legado",
+      "familiar",
+      "futuro",
+      "nuevas",
+      "generaciones",
+      "venezolanas",
+      ".",
+      "enfatizó",
+      "determinación",
+      "mantener",
+      "soberanía",
+      "nacional",
+      "trabajar",
+      "prosperidad",
+      "país",
+      ".",
+      "nueva",
+      "directiva",
+      "completó",
+      "juramentación",
+      "pedro",
+      "infante",
+      ",",
+      "discurso",
+      "evocó",
+      "figuras",
+      "históricas",
+      "simón",
+      "bolívar",
+      "hugo",
+      "chávez",
+      ",",
+      "reafirmando",
+      "compromiso",
+      "defensa",
+      "constitución",
+      "intereses",
+      "nacionales",
+      ".",
+      "“",
+      "defenderemos",
+      "siempre",
+      "intereses",
+      "pueblo",
+      ",",
+      "nación",
+      "”",
+      ",",
+      "aseveró",
+      "infante",
+      "intervención",
+      ".",
+      "américa",
+      "pérez",
+      ",",
+      "designada",
+      "segunda",
+      "vicepresidenta",
+      ",",
+      "prestó",
+      "juramento",
+      "destacando",
+      "compromiso",
+      "protección",
+      "soberanía",
+      "venezolana",
+      "anticipando",
+      "próxima",
+      "juramentación",
+      "presidente",
+      "nicolás",
+      "maduro",
+      ",",
+      "programada",
+      "10",
+      "enero",
+      ".",
+      "intervención",
+      ",",
+      "pérez",
+      "expresó",
+      "solidaridad",
+      "causas",
+      "internacionales",
+      ",",
+      "mencionando",
+      "específicamente",
+      "apoyo",
+      "“",
+      "palestina",
+      "libre",
+      "”",
+      ".",
+      "ceremonia",
+      "instalación",
+      "marca",
+      "inicio",
+      "nuevo",
+      "período",
+      "legislativo",
+      "venezuela",
+      ",",
+      "directiva",
+      "entrante",
+      "establecido",
+      "prioridades",
+      "defensa",
+      "paz",
+      ",",
+      "soberanía",
+      "nacional",
+      "desarrollo",
+      "económico",
+      "país",
+      ".",
+      "nueva",
+      "directiva",
+      "asume",
+      "funciones",
+      "momento",
+      "crucial",
+      "política",
+      "venezolana",
+      ",",
+      "compromiso",
+      "declarado",
+      "fortalecer",
+      "instituciones",
+      "democráticas",
+      "promover",
+      "bienestar",
+      "población",
+      "."
+    ],
+    "token_count": 218,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "FW": 91,
+      "NN": 120,
+      "IN": 8,
+      "JJ": 19,
+      "VBD": 6,
+      "VBP": 6,
+      "NNS": 10,
+      "CD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 22,
+      "NNP-FW": 5,
+      "FW-NNP": 10,
+      "NNP-NN": 18,
+      "NN-NN": 71,
+      "NN-IN": 5,
+      "IN-FW": 7,
+      "FW-FW": 61,
+      "FW-JJ": 4,
+      "JJ-NN": 13,
+      "NN-NNP": 11,
+      "NN-FW": 15,
+      "FW-NN": 15,
+      "NNP-IN": 1,
+      "NN-VBD": 3,
+      "VBD-JJ": 3,
+      "JJ-NNP": 3,
+      "NNP-VBD": 3,
+      "VBD-NN": 1,
+      "NN-JJ": 7,
+      "NN-VBP": 2,
+      "VBP-JJ": 2,
+      "JJ-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-NNS": 2,
+      "NNS-NNP": 2,
+      "VBD-FW": 1,
+      "NN-NNS": 5,
+      "NNS-VBP": 4,
+      "VBP-NN": 2,
+      "NNS-FW": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "VBP-FW": 1,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "FW-NNS": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 13,
+      "NN-NN-NN": 40,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 43,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-NN": 8,
+      "NN-NN-FW": 10,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 7,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 4,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 2,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NN": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "NN-FW-FW": 11,
+      "FW-NN-FW": 3,
+      "FW-FW-NN": 7,
+      "NN-NNP-NN": 3,
+      "NNP-NN-VBD": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNP": 2,
+      "NNS-NNP-VBD": 2,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NNP-NN-FW": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNS-VBP-JJ": 1,
+      "NNP-NN-NNP": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 120,
+        "FW": 91,
+        "NNP": 49,
+        "JJ": 19,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 71,
+        "FW-FW": 61,
+        "NNP-NNP": 22,
+        "NNP-NN": 18,
+        "NN-FW": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 43,
+        "NN-NN-NN": 40,
+        "NNP-NN-NN": 13,
+        "NN-FW-FW": 11,
+        "NNP-NNP-NNP": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 15,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('de', 'IN') ('juramentación', 'FW') ('de', 'FW') ('su', 'FW') ('nueva', 'FW') ('directiva', 'FW') ('para', 'FW') ('el', 'FW') ('período', 'FW') ('2025-2026', 'CD') (',', ',') VP ('del', 'FW') NP (',', ',') NP ('en', 'IN') ('la', 'FW') ('directiva', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Asamblea', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP') ('celebró', 'NN') ('la', 'NN') ('ceremonia', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "VP -> ('donde', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('diputado', 'NN') ('Jorge', 'NNP') ('Rodríguez', 'NNP') ('fue', 'NN') ('ratificado', 'NN') ('como', 'NN') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('órgano', 'NN') ('legislativo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('acompañado', 'JJ') ('por', 'NN') ('Pedro', 'NNP') ('Infante', 'NNP') ('y', 'NNP') ('América', 'NNP') ('Pérez', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP VP VP ('en', 'IN') ('el', 'FW') NP (',', ',') NP VP (',', ',') ('la', 'FW') ('vida', 'FW') ('y', 'FW') ('la', 'FW') ('paz', 'FW') ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0099
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Asamblea Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela celebró la ceremonia"
+      },
+      {
+        "label": "VP",
+        "text": "donde el diputado Jorge Rodríguez fue ratificado como presidente"
+      },
+      {
+        "label": "NP",
+        "text": "el diputado Jorge Rodríguez fue ratificado como presidente"
+      },
+      {
+        "label": "NP",
+        "text": "órgano legislativo"
+      },
+      {
+        "label": "NP",
+        "text": "acompañado por Pedro Infante y América Pérez"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Asamblea Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela celebra primera sesión del periodo"
+      },
+      {
+        "label": "VP",
+        "text": "legislativo 2025-2026 Durante la"
+      },
+      {
+        "label": "NP",
+        "text": "2025-2026 Durante la"
+      },
+      {
+        "label": "VP",
+        "text": "solemne ceremonia realizada"
+      },
+      {
+        "label": "NP",
+        "text": "ceremonia realizada"
+      },
+      {
+        "label": "NP",
+        "text": "hemiciclo protocolar"
+      },
+      {
+        "label": "NP",
+        "text": "Rodríguez prestó juramento"
+      },
+      {
+        "label": "VP",
+        "text": "comprometiéndose a defender la verdad"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Asamblea/NNP Nacional/NNP)\n  de/FW\n  (NP Venezuela/NNP celebró/NN la/NN ceremonia/NN)\n  de/IN\n  juramentación/FW\n  de/FW\n  su/FW\n  nueva/FW\n  directiva/FW\n  para/FW\n  el/FW\n  período/FW\n  2025-2026/CD\n  ,/,\n  (VP\n    donde/VBZ\n    (NP\n      el/JJ\n      diputado/NN\n      Jorge/NNP\n      Rodríguez/NNP\n      fue/NN\n      ratificado/NN\n      como/NN\n      presidente/NN))\n  del/FW\n  (NP órgano/NN legislativo/NN)\n  ,/,\n  (NP\n    acompañado/JJ\n    por/NN\n    Pedro/NNP\n    Infante/NNP\n    y/NNP\n    América/NNP\n    Pérez/NNP)\n  en/IN\n  la/FW\n  directiva/FW\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Asamblea/NNP Nacional/NNP)\n  de/FW\n  (NP\n    Venezuela/NNP\n    celebra/NN\n    primera/NN\n    sesión/NN\n    del/NN\n    periodo/NN)\n  (VP legislativo/VBD (NP 2025-2026/JJ Durante/NNP la/NNP))\n  (VP solemne/VBD (NP ceremonia/NN realizada/NN))\n  en/IN\n  el/FW\n  (NP hemiciclo/NN protocolar/NN)\n  ,/,\n  (NP Rodríguez/NNP prestó/NN juramento/NN)\n  (VP comprometiéndose/VBD (NP a/DT defender/NN la/NN verdad/NN))\n  ,/,\n  la/FW\n  vida/FW\n  y/FW\n  la/FW\n  paz/FW\n  en/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Juro/NNP por/NN el/NN futuro/NN)\n  ,/,\n  (NP juro/NN porque/NN la/NN)\n  palabra/FW\n  (NP siempre/NN)\n  se/FW\n  (NP imponga/NN)\n  (VP frente/VBP (NP a/DT la/NN violencia/NN))\n  ,/,\n  (NP juro/NN porque/NN)\n  (NP derrotaremos/JJ con/NN el/NN)\n  (NP esfuerzo/JJ cotidiano/NN al/NN extremismo/NN ”/NNP)\n  ,/,\n  (NP declaró/NN el/NN presidente/NN)\n  reelecto/FW\n  de/FW\n  la/FW\n  (NP Asamblea/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP su/NN emotivo/NN juramento/NN)\n  ,/,\n  (NP Rodríguez/NNP hizo/NN)\n  (VP referencia/VBD personal/JJ (NP a/DT sus/NN hijos/NN Lucía/NNP))\n  ,/,\n  (NP Juan/NNP Pedro/NNP)\n  ,/,\n  (NP Matías/NNP y/NNP Lucas/NNP)\n  ,/,\n  (NP vinculando/NN su/NN)\n  (VP\n    compromiso/VBP\n    (NP institucional/JJ con/NN el/NN legado/NN)\n    (NP familiar/JJ y/NN el/NN futuro/NN))\n  de/IN\n  las/FW\n  (NP nuevas/JJ generaciones/NNS venezolanas/NNS)\n  ./.)",
+      "(S\n  (NP Enfatizó/NNP)\n  (VP su/VBD)\n  determinación/FW\n  de/FW\n  mantener/FW\n  la/FW\n  soberanía/FW\n  (NP nacional/JJ y/NN trabajar/NN por/NN la/NN)\n  prosperidad/FW\n  (NP del/NN país/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desarrollo económico del país",
+        "position": [
+          1992,
+          2021
+        ],
+        "start": 1992,
+        "end": 2021
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desarrollo económico",
+        "position": [
+          1992,
+          2012
+        ],
+        "start": 1992,
+        "end": 2012
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con causas internacionales, mencionando específicamente su apoyo a “una palestina",
+        "position": [
+          1691,
+          1784
+        ],
+        "start": 1691,
+        "end": 1784
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "presidente nicolás maduro, programada para el 10 de enero. en su intervención, pérez también expresó solidaridad con causas internacionales, mencionando específicamente su apoyo",
+        "position": [
+          1590,
+          1767
+        ],
+        "start": 1590,
+        "end": 1767
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          689,
+          696
+        ],
+        "start": 689,
+        "end": 696
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1240,
+          1247
+        ],
+        "start": 1240,
+        "end": 1247
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del órgano",
+        "position": [
+          175,
+          196
+        ],
+        "start": 175,
+        "end": 196
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          3,
+          20
+        ],
+        "start": 3,
+        "end": 20
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "constitución",
+        "position": [
+          1254,
+          1266
+        ],
+        "start": 1254,
+        "end": 1266
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          24,
+          33
+        ],
+        "start": 24,
+        "end": 33
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          515,
+          521
+        ],
+        "start": 515,
+        "end": 521
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          998,
+          1016
+        ],
+        "start": 998,
+        "end": 1016
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Juan Pedro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Constitución",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Pérez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asamblea Nacional de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Infante",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lucas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Simón Bolívar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Pedro Infante",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "América Pérez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jorge Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lucía",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asamblea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Matías",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Asamblea Nacional de Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Asamblea Nacional de Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "Pedro Infante"
+      },
+      {
+        "sujeto": "Asamblea Nacional de Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "América Pérez"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "CELEBRAR_PRESTAR",
+        "objeto": "Rodríguez"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "CELEBRAR_PRESTAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Asamblea Nacional de Venezuela",
+        "relacion": "CELEBRAR_PRESTAR",
+        "objeto": "Rodríguez"
+      },
+      {
+        "sujeto": "Asamblea Nacional de Venezuela",
+        "relacion": "CELEBRAR_PRESTAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Rodríguez",
+        "relacion": "PRESTAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Rodríguez",
+        "relacion": "HACER",
+        "objeto": "Lucía"
+      },
+      {
+        "sujeto": "Rodríguez",
+        "relacion": "HACER",
+        "objeto": "Juan Pedro"
+      },
+      {
+        "sujeto": "Rodríguez",
+        "relacion": "HACER",
+        "objeto": "Matías"
+      },
+      {
+        "sujeto": "Rodríguez",
+        "relacion": "HACER",
+        "objeto": "Lucas"
+      },
+      {
+        "sujeto": "Simón Bolívar",
+        "relacion": "EVOCAR_COMPLETAR",
+        "objeto": "Constitución"
+      },
+      {
+        "sujeto": "Hugo Chávez",
+        "relacion": "EVOCAR_COMPLETAR",
+        "objeto": "Constitución"
+      },
+      {
+        "sujeto": "América Pérez",
+        "relacion": "PRESTAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Pérez",
+        "relacion": "EXPRESAR",
+        "objeto": "Palestina"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4215,
+    "pos": 0.012,
+    "neu": 0.988,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

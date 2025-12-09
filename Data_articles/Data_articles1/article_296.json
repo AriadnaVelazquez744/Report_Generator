@@ -1,0 +1,846 @@
+{
+  "url": "https://www.telesurtv.net/nepal-primer-ministro-presenta-dimision/",
+  "title": "Primer ministro de Nepal dimite en medio de los disturbios",
+  "section": "Mundo",
+  "tags": [
+    "Dimisión",
+    "Primer Ministro Nepal",
+    "protestas"
+  ],
+  "text": "A raíz de las masivas protestas en Nepal, el primer ministro del país, Khadga Prasad Sharma Oli, presentó este martes su dimisión al cargo, informaron medios locales.\nLa renuncia de Sharma Oli se produjo tras el segundo día de manifestaciones lideradas por un grupo de jóvenes, que estallaron tras el bloqueo de varias redes sociales.\n\n\nDurante el primer día de las protestas, al menos 19 personas murieron y alrededor de 500 resultaron heridas debido a la represión policial en los alrededores del Parlamento Federal y otros lugares de Katmandú.\nMedios locales indican que Sharma Oli, que cumplía su cuarto mandato como primer ministro desde julio de 2024 con el respaldo del Congreso Nepalí, se había visto sometido a una presión por parte de sus aliados políticos, después de que las protestas se tornaron violentas.\nAdemás reseñaron que los manifestantes, así como grupos defensores de los derechos humanos, habían culpado al hasta este martes primer ministro de autorizar el uso de la fuerza letal contra ciudadanos desarmados.\nEn las primeras horas de este martes, aparecieron imágenes en las redes que muestran cómo la residencia de Sharma Oli es incendiada a manos de manifestantes.\n\n\nTambién se conoció que varios de los ministros de Nepal fueron evacuados desde su residencia en la localidad de Bhainsepati, ciudad de Lalitpur “a un lugar seguro”.\nAltos funcionarios de seguridad citados por el medio The Kathmandu Post declararon que el Ejército también se ha desplegado para proteger el edificio del Parlamento.\nLa semana pasada, el Gobierno de Nepal bloqueó en su territorio varias redes sociales que no se registraron ante el Ministerio de Comunicación y Tecnología de la Información conforme a la ley.\nEntre las redes sociales afectadas figuraban Facebook, Instagram, X, YouTube, Reddit, LinkedIn, así como Snapchat, Pinterest y Rumble.\nLa decisión provocó protestas masivas, que fueron denominadas ‘manifestaciones de la Generación Z’, y que se extendieron desde Katmandú a otras ciudades del país del Himalaya.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nepal-primer-ministro-presenta-dimision/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 488,
+    "message_id": 104159,
+    "date": "2025-09-09T10:55:13+00:00",
+    "text": "teleSUR\nEl primer ministro de Nepal dimite en medio de los disturbios\nhttps://www.telesurtv.net/nepal-primer-ministro-presenta-dimision/",
+    "photo_path": null,
+    "views": 2010,
+    "reactions": {
+      "🤔": 29,
+      "👍": 1
+    },
+    "total_reactions": 30
+  },
+  "preprocessing": {
+    "cleaned": "a raíz de las masivas protestas en nepal, el primer ministro del país, khadga prasad sharma oli, presentó este martes su dimisión al cargo, informaron medios locales. la renuncia de sharma oli se produjo tras el segundo día de manifestaciones lideradas por un grupo de jóvenes, que estallaron tras el bloqueo de varias redes sociales. durante el primer día de las protestas, al menos 19 personas murieron y alrededor de 500 resultaron heridas debido a la represión policial en los alrededores del parlamento federal y otros lugares de katmandú. medios locales indican que sharma oli, que cumplía su cuarto mandato como primer ministro desde julio de 2024 con el respaldo del congreso nepalí, se había visto sometido a una presión por parte de sus aliados políticos, después de que las protestas se tornaron violentas. además reseñaron que los manifestantes, así como grupos defensores de los derechos humanos, habían culpado al hasta este martes primer ministro de autorizar el uso de la fuerza letal contra ciudadanos desarmados. en las primeras horas de este martes, aparecieron imágenes en las redes que muestran cómo la residencia de sharma oli es incendiada a manos de manifestantes. también se conoció que varios de los ministros de nepal fueron evacuados desde su residencia en la localidad de bhainsepati, ciudad de lalitpur “a un lugar seguro”. altos funcionarios de seguridad citados por el medio the kathmandu post declararon que el ejército también se ha desplegado para proteger el edificio del parlamento. la semana pasada, el gobierno de nepal bloqueó en su territorio varias redes sociales que no se registraron ante el ministerio de comunicación y tecnología de la información conforme a la ley. entre las redes sociales afectadas figuraban facebook, instagram, x, youtube, reddit, linkedin, así como snapchat, pinterest y rumble. la decisión provocó protestas masivas, que fueron denominadas ‘manifestaciones de la generación z’, y que se extendieron desde katmandú a otras ciudades del país del himalaya.",
+    "tokens": [
+      "raíz",
+      "masivas",
+      "protestas",
+      "nepal",
+      ",",
+      "primer",
+      "ministro",
+      "país",
+      ",",
+      "khadga",
+      "prasad",
+      "sharma",
+      "oli",
+      ",",
+      "presentó",
+      "martes",
+      "dimisión",
+      "cargo",
+      ",",
+      "informaron",
+      "medios",
+      "locales",
+      ".",
+      "renuncia",
+      "sharma",
+      "oli",
+      "produjo",
+      "tras",
+      "segundo",
+      "día",
+      "manifestaciones",
+      "lideradas",
+      "grupo",
+      "jóvenes",
+      ",",
+      "estallaron",
+      "tras",
+      "bloqueo",
+      "varias",
+      "redes",
+      "sociales",
+      ".",
+      "primer",
+      "día",
+      "protestas",
+      ",",
+      "menos",
+      "19",
+      "personas",
+      "murieron",
+      "alrededor",
+      "500",
+      "resultaron",
+      "heridas",
+      "debido",
+      "represión",
+      "policial",
+      "alrededores",
+      "parlamento",
+      "federal",
+      "lugares",
+      "katmandú",
+      ".",
+      "medios",
+      "locales",
+      "indican",
+      "sharma",
+      "oli",
+      ",",
+      "cumplía",
+      "cuarto",
+      "mandato",
+      "primer",
+      "ministro",
+      "julio",
+      "2024",
+      "respaldo",
+      "congreso",
+      "nepalí",
+      ",",
+      "visto",
+      "sometido",
+      "presión",
+      "parte",
+      "aliados",
+      "políticos",
+      ",",
+      "después",
+      "protestas",
+      "tornaron",
+      "violentas",
+      ".",
+      "además",
+      "reseñaron",
+      "manifestantes",
+      ",",
+      "así",
+      "grupos",
+      "defensores",
+      "derechos",
+      "humanos",
+      ",",
+      "culpado",
+      "martes",
+      "primer",
+      "ministro",
+      "autorizar",
+      "uso",
+      "fuerza",
+      "letal",
+      "ciudadanos",
+      "desarmados",
+      ".",
+      "primeras",
+      "horas",
+      "martes",
+      ",",
+      "aparecieron",
+      "imágenes",
+      "redes",
+      "muestran",
+      "cómo",
+      "residencia",
+      "sharma",
+      "oli",
+      "incendiada",
+      "manos",
+      "manifestantes",
+      ".",
+      "conoció",
+      "varios",
+      "ministros",
+      "nepal",
+      "evacuados",
+      "residencia",
+      "localidad",
+      "bhainsepati",
+      ",",
+      "ciudad",
+      "lalitpur",
+      "“",
+      "lugar",
+      "seguro",
+      "”",
+      ".",
+      "altos",
+      "funcionarios",
+      "seguridad",
+      "citados",
+      "medio",
+      "the",
+      "kathmandu",
+      "post",
+      "declararon",
+      "ejército",
+      "desplegado",
+      "proteger",
+      "edificio",
+      "parlamento",
+      ".",
+      "semana",
+      "pasada",
+      ",",
+      "gobierno",
+      "nepal",
+      "bloqueó",
+      "territorio",
+      "varias",
+      "redes",
+      "sociales",
+      "registraron",
+      "ministerio",
+      "comunicación",
+      "tecnología",
+      "información",
+      "conforme",
+      "ley",
+      ".",
+      "redes",
+      "sociales",
+      "afectadas",
+      "figuraban",
+      "facebook",
+      ",",
+      "instagram",
+      ",",
+      "x",
+      ",",
+      "youtube",
+      ",",
+      "reddit",
+      ",",
+      "linkedin",
+      ",",
+      "así",
+      "snapchat",
+      ",",
+      "pinterest",
+      "rumble",
+      ".",
+      "decisión",
+      "provocó",
+      "protestas",
+      "masivas",
+      ",",
+      "denominadas",
+      "‘",
+      "manifestaciones",
+      "generación",
+      "z",
+      "’",
+      ",",
+      "extendieron",
+      "katmandú",
+      "ciudades",
+      "país",
+      "himalaya",
+      "."
+    ],
+    "token_count": 218,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 98,
+      "IN": 16,
+      "FW": 50,
+      "NNS": 25,
+      "NNP": 51,
+      "VBZ": 12,
+      "JJ": 27,
+      "VBD": 2,
+      "VBP": 18,
+      "$": 1,
+      "CD": 3,
+      "CC": 1,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NN-IN": 10,
+      "IN-FW": 8,
+      "FW-FW": 25,
+      "FW-NNS": 7,
+      "NNS-IN": 2,
+      "IN-NNP": 4,
+      "NNP-FW": 6,
+      "FW-NN": 6,
+      "NN-NN": 56,
+      "NN-NNP": 11,
+      "NNP-NNP": 20,
+      "NNP-NN": 12,
+      "NN-VBZ": 5,
+      "VBZ-JJ": 5,
+      "JJ-NN": 17,
+      "NN-NNS": 6,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-NNP": 9,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-NNS": 3,
+      "NNS-VBP": 14,
+      "VBP-JJ": 12,
+      "IN-NNS": 2,
+      "NNS-NNS": 3,
+      "NNS-JJ": 1,
+      "JJ-VBP": 1,
+      "VBP-NNS": 2,
+      "VBP-NN": 1,
+      "NN-FW": 5,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-NN": 3,
+      "IN-CD": 2,
+      "NN-VBP": 2,
+      "JJ-FW": 3,
+      "VBP-NNP": 2,
+      "VBZ-IN": 2,
+      "NNP-VBZ": 6,
+      "NN-CC": 1,
+      "CC-NN": 1,
+      "NN-JJ": 1,
+      "FW-JJ": 3,
+      "JJ-JJ": 1,
+      "NNS-FW": 2,
+      "NNP-JJ": 1,
+      "VBZ-FW": 1,
+      "NN-DT": 1,
+      "DT-NNP": 1,
+      "NNP-IN": 2,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "VBZ-NNS": 2,
+      "JJ-NNP": 1,
+      "VBZ-NN": 1
+    },
+    "trigram_freq": {
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-NNS": 5,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 30,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NN": 9,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 2,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 5,
+      "NNS-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-IN": 5,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "JJ-NN-NNP": 2,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-JJ-NNS": 1,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 14,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "VBP-NNP-FW": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NN-FW": 3,
+      "FW-NNP-FW": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-NNP": 1,
+      "DT-NNP-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "NNP-VBZ-NNS": 2,
+      "VBZ-NNS-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "NNP": 51,
+        "FW": 50,
+        "JJ": 27,
+        "NNS": 25
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 25,
+        "NNP-NNP": 20,
+        "JJ-NN": 17,
+        "NNS-VBP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 14,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 9,
+        "NNS-VBP-JJ": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 89,
+      "VP": 28,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('se', 'VBD') NP",
+        "frequency": 3,
+        "weight": 0.0227
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0227
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('protestas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('Sharma', 'NNP') ('Oli', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('redes', 'NNS') ('sociales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('las', 'FW') ('masivas', 'FW') NP ('en', 'FW') NP (',', ',') VP (',', ',') NP (',', ',') NP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('A', 'DT') ('raíz', 'NN')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('Nepal', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "A raíz"
+      },
+      {
+        "label": "NP",
+        "text": "protestas"
+      },
+      {
+        "label": "NP",
+        "text": "Nepal"
+      },
+      {
+        "label": "VP",
+        "text": "el primer ministro del país"
+      },
+      {
+        "label": "NP",
+        "text": "primer ministro del país"
+      },
+      {
+        "label": "NP",
+        "text": "Khadga Prasad Sharma Oli"
+      },
+      {
+        "label": "NP",
+        "text": "presentó este"
+      },
+      {
+        "label": "VP",
+        "text": "martes su dimisión al cargo"
+      },
+      {
+        "label": "NP",
+        "text": "su dimisión al cargo"
+      },
+      {
+        "label": "NP",
+        "text": "informaron medios locales"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "Sharma Oli"
+      },
+      {
+        "label": "VP",
+        "text": "se produjo tras"
+      },
+      {
+        "label": "NP",
+        "text": "produjo tras"
+      },
+      {
+        "label": "VP",
+        "text": "el segundo día"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP A/DT raíz/NN)\n  de/IN\n  las/FW\n  masivas/FW\n  (NP protestas/NNS)\n  en/FW\n  (NP Nepal/NNP)\n  ,/,\n  (VP el/VBZ (NP primer/JJ ministro/NN del/NN país/NN))\n  ,/,\n  (NP Khadga/NNP Prasad/NNP Sharma/NNP Oli/NNP)\n  ,/,\n  (NP presentó/NN este/NN)\n  (VP martes/VBZ (NP su/JJ dimisión/NN al/NN cargo/NN))\n  ,/,\n  (NP informaron/NN medios/NNS locales/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  renuncia/FW\n  de/FW\n  (NP Sharma/NNP Oli/NNP)\n  (VP se/VBD (NP produjo/JJ tras/NNS))\n  (VP el/VBP (NP segundo/JJ día/NN))\n  (PP de/IN (NP manifestaciones/NNS lideradas/NNS))\n  (VP por/VBP (NP un/JJ grupo/NN))\n  (PP de/IN (NP jóvenes/NNS))\n  ,/,\n  (NP que/NN estallaron/NN tras/NNS)\n  (VP el/VBP (NP bloqueo/NN))\n  de/FW\n  varias/FW\n  (NP redes/NNS sociales/NNS)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  el/CC\n  (NP primer/JJ día/NN)\n  de/IN\n  las/FW\n  (NP protestas/NNS)\n  ,/,\n  (VP al/VBP (NP menos/NNS))\n  19/CD\n  (NP personas/NNS murieron/NN y/NN alrededor/NN)\n  de/IN\n  500/CD\n  (NP resultaron/NN heridas/NN)\n  (VP\n    debido/VBZ\n    (NP a/DT la/NN represión/NN)\n    (NP policial/JJ en/NN los/NN))\n  (VP alrededores/VBZ)\n  del/FW\n  (NP Parlamento/NNP Federal/NNP y/NNP)\n  otros/MD\n  (VP lugares/VBZ)\n  (VP de/VB (NP Katmandú/NNP))\n  ./.)",
+      "(S\n  (NP Medios/NNS locales/NNS)\n  (NP indican/JJ que/NN Sharma/NNP Oli/NNP)\n  ,/,\n  (NP\n    que/NN\n    cumplía/NN\n    su/NN\n    cuarto/NN\n    mandato/NN\n    como/NN\n    primer/NN\n    ministro/NN\n    desde/NN\n    julio/NN)\n  de/IN\n  2024/CD\n  (NP con/NN)\n  el/CC\n  (NP respaldo/NN del/NN Congreso/NNP Nepalí/NNP)\n  ,/,\n  (VP se/VBD (NP había/JJ visto/NN))\n  (VP sometido/VBD (NP a/DT una/JJ presión/NN por/NN parte/NN))\n  de/IN\n  sus/FW\n  (NP aliados/JJ políticos/NN)\n  ,/,\n  después/FW\n  de/FW\n  que/FW\n  las/FW\n  protestas/FW\n  se/FW\n  (NP tornaron/NN violentas/NNS)\n  ./.)",
+      "(S\n  (NP Además/NNP reseñaron/NN que/NN los/NN manifestantes/NNS)\n  ,/,\n  (NP así/JJ como/NN grupos/NN)\n  (VP defensores/VBZ)\n  de/IN\n  los/FW\n  (NP derechos/JJ humanos/NN)\n  ,/,\n  (NP habían/NN culpado/NN al/NN hasta/NN este/NN)\n  (VP martes/VBZ primer/JJ)\n  ministro/FW\n  de/FW\n  autorizar/FW\n  el/FW\n  uso/FW\n  de/FW\n  la/FW\n  fuerza/FW\n  (NP letal/JJ contra/JJ ciudadanos/NNS desarmados/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "FECHAS_HORAS",
+      "JUSTICIA_SOCIAL",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "represión policial",
+        "position": [
+          457,
+          475
+        ],
+        "start": 457,
+        "end": 475
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "bloqueó",
+        "position": [
+          1563,
+          1570
+        ],
+        "start": 1563,
+        "end": 1570
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de nepal bloqueó",
+        "position": [
+          1545,
+          1570
+        ],
+        "start": 1545,
+        "end": 1570
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del país",
+        "position": [
+          52,
+          69
+        ],
+        "start": 52,
+        "end": 69
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "parlamento federal",
+        "position": [
+          499,
+          517
+        ],
+        "start": 499,
+        "end": 517
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          269,
+          276
+        ],
+        "start": 269,
+        "end": 276
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio del",
+        "position": [
+          1499,
+          1511
+        ],
+        "start": 1499,
+        "end": 1511
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          301,
+          308
+        ],
+        "start": 301,
+        "end": 308
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          894,
+          910
+        ],
+        "start": 894,
+        "end": 910
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "19 personas",
+        "position": [
+          386,
+          397
+        ],
+        "start": 386,
+        "end": 397
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 500",
+        "position": [
+          409,
+          425
+        ],
+        "start": 409,
+        "end": 425
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "semana pasada",
+        "position": [
+          1527,
+          1540
+        ],
+        "start": 1527,
+        "end": 1540
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "LinkedIn",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Khadga Prasad Sharma Oli",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lalitpur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nepal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento Federal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bhainsepati",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Katmandú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Comunicación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Nepal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pinterest",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Himalaya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Snapchat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso Nepalí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sharma Oli",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Parlamento",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nepal",
+        "relacion": "PRESENTAR_INFORMAR",
+        "objeto": "Khadga Prasad Sharma Oli"
+      },
+      {
+        "sujeto": "Nepal",
+        "relacion": "EVACUAR_CONOCER",
+        "objeto": "Bhainsepati"
+      },
+      {
+        "sujeto": "Nepal",
+        "relacion": "EVACUAR_CONOCER",
+        "objeto": "Lalitpur"
+      },
+      {
+        "sujeto": "Gobierno de Nepal",
+        "relacion": "BLOQUE",
+        "objeto": "Ministerio de Comunicación"
+      },
+      {
+        "sujeto": "Katmandú",
+        "relacion": "EXTENDER_DENOMINAR_PROVOCAR",
+        "objeto": "Himalaya"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.985,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

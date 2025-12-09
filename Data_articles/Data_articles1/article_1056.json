@@ -1,0 +1,703 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-recibe-a-184-connacionales-mediante-plan-vuelta-a-la-patria/",
+  "title": "Venezuela recibe a 184 connacionales mediante Plan Vuelta a la Patria - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Migración",
+    "Plan Vuelta a la Patria",
+    "Venezuela"
+  ],
+  "text": "\nUn total de 184 ciudadanos venezolanos regresaron este viernes al país como parte del programa social Plan Vuelta a la Patria, siendo recibidos por autoridades nacionales en el Aeropuerto Internacional Simón Bolívar de Maiquetía.\nEl grupo, compuesto por 144 hombres, 18 mujeres y 22 menores de edad, arribó en el vuelo número 61 el viernes 22 de agosto.\nEsta operación forma parte de la estrategia impulsada por el presidente Nicolás Maduro, que se intensificó tras la llegada al poder del mandatario estadounidense de extrema derecha Donald Trump.\nComo en jornadas anteriores, los repatriados fueron recibidos por funcionarios del Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC), el Servicio Bolivariano de Inteligencia Nacional (SEBIN), la Guardia Nacional Bolivariana (GNB) y el Cuerpo de Policía Nacional Bolivariana, quienes tienen la responsabilidad de verificar la identidad, estado de salud y situación legal de cada migrante.\nTras realizar las entrevistas correspondientes y confirmar el estado físico de los retornados, las autoridades proceden a trasladarlos a sus hogares.\nEn los casos donde existan procesos judiciales pendientes, se activa el mecanismo legal correspondiente, sin que ello implique la pérdida de garantías y protección estatal.\nHasta la fecha, más de 10.000 venezolanos han regresado al país mediante este plan, con el cual el Gobierno protege a quienes han sido víctimas de persecución política y violaciones de derechos humanos en el extranjero, especialmente en Estados Unidos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-recibe-a-184-connacionales-mediante-plan-vuelta-a-la-patria/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 651,
+    "message_id": 102549,
+    "date": "2025-08-23T08:55:13+00:00",
+    "text": "teleSUR\nVenezuela recibe a 184 connacionales mediante Plan Vuelta a la Patria\nhttps://www.telesurtv.net/venezuela-recibe-a-184-connacionales-mediante-plan-vuelta-a-la-patria/",
+    "photo_path": null,
+    "views": 1994,
+    "reactions": {
+      "❤": 27,
+      "👍": 15
+    },
+    "total_reactions": 42
+  },
+  "preprocessing": {
+    "cleaned": "un total de 184 ciudadanos venezolanos regresaron este viernes al país como parte del programa social plan vuelta a la patria, siendo recibidos por autoridades nacionales en el aeropuerto internacional simón bolívar de maiquetía. el grupo, compuesto por 144 hombres, 18 mujeres y 22 menores de edad, arribó en el vuelo número 61 el viernes 22 de agosto. esta operación forma parte de la estrategia impulsada por el presidente nicolás maduro, que se intensificó tras la llegada al poder del mandatario estadounidense de extrema derecha donald trump. como en jornadas anteriores, los repatriados fueron recibidos por funcionarios del cuerpo de investigaciones científicas, penales y criminalísticas (cicpc), el servicio bolivariano de inteligencia nacional (sebin), la guardia nacional bolivariana (gnb) y el cuerpo de policía nacional bolivariana, quienes tienen la responsabilidad de verificar la identidad, estado de salud y situación legal de cada migrante. tras realizar las entrevistas correspondientes y confirmar el estado físico de los retornados, las autoridades proceden a trasladarlos a sus hogares. en los casos donde existan procesos judiciales pendientes, se activa el mecanismo legal correspondiente, sin que ello implique la pérdida de garantías y protección estatal. hasta la fecha, más de 10.000 venezolanos han regresado al país mediante este plan, con el cual el gobierno protege a quienes han sido víctimas de persecución política y violaciones de derechos humanos en el extranjero, especialmente en estados unidos.",
+    "tokens": [
+      "total",
+      "184",
+      "ciudadanos",
+      "venezolanos",
+      "regresaron",
+      "viernes",
+      "país",
+      "parte",
+      "programa",
+      "social",
+      "plan",
+      "vuelta",
+      "patria",
+      ",",
+      "siendo",
+      "recibidos",
+      "autoridades",
+      "nacionales",
+      "aeropuerto",
+      "internacional",
+      "simón",
+      "bolívar",
+      "maiquetía",
+      ".",
+      "grupo",
+      ",",
+      "compuesto",
+      "144",
+      "hombres",
+      ",",
+      "18",
+      "mujeres",
+      "22",
+      "menores",
+      "edad",
+      ",",
+      "arribó",
+      "vuelo",
+      "número",
+      "61",
+      "viernes",
+      "22",
+      "agosto",
+      ".",
+      "operación",
+      "forma",
+      "parte",
+      "estrategia",
+      "impulsada",
+      "presidente",
+      "nicolás",
+      "maduro",
+      ",",
+      "intensificó",
+      "tras",
+      "llegada",
+      "poder",
+      "mandatario",
+      "estadounidense",
+      "extrema",
+      "derecha",
+      "donald",
+      "trump",
+      ".",
+      "jornadas",
+      "anteriores",
+      ",",
+      "repatriados",
+      "recibidos",
+      "funcionarios",
+      "cuerpo",
+      "investigaciones",
+      "científicas",
+      ",",
+      "penales",
+      "criminalísticas",
+      "(",
+      "cicpc",
+      ")",
+      ",",
+      "servicio",
+      "bolivariano",
+      "inteligencia",
+      "nacional",
+      "(",
+      "sebin",
+      ")",
+      ",",
+      "guardia",
+      "nacional",
+      "bolivariana",
+      "(",
+      "gnb",
+      ")",
+      "cuerpo",
+      "policía",
+      "nacional",
+      "bolivariana",
+      ",",
+      "responsabilidad",
+      "verificar",
+      "identidad",
+      ",",
+      "salud",
+      "situación",
+      "legal",
+      "cada",
+      "migrante",
+      ".",
+      "tras",
+      "realizar",
+      "entrevistas",
+      "correspondientes",
+      "confirmar",
+      "físico",
+      "retornados",
+      ",",
+      "autoridades",
+      "proceden",
+      "trasladarlos",
+      "hogares",
+      ".",
+      "casos",
+      "existan",
+      "procesos",
+      "judiciales",
+      "pendientes",
+      ",",
+      "activa",
+      "mecanismo",
+      "legal",
+      "correspondiente",
+      ",",
+      "ello",
+      "implique",
+      "pérdida",
+      "garantías",
+      "protección",
+      "estatal",
+      ".",
+      "fecha",
+      ",",
+      "10.000",
+      "venezolanos",
+      "regresado",
+      "país",
+      "mediante",
+      "plan",
+      ",",
+      "gobierno",
+      "protege",
+      "sido",
+      "víctimas",
+      "persecución",
+      "política",
+      "violaciones",
+      "derechos",
+      "humanos",
+      "extranjero",
+      ",",
+      "especialmente",
+      "unidos",
+      "."
+    ],
+    "token_count": 163,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "NN": 48,
+      "IN": 8,
+      "CD": 7,
+      "NNS": 21,
+      "JJ": 25,
+      "VBP": 15,
+      "FW": 46,
+      "RB": 1,
+      "MD": 1,
+      "VB": 1,
+      "VBD": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-IN": 4,
+      "IN-CD": 2,
+      "CD-NNS": 5,
+      "NNS-JJ": 2,
+      "JJ-VBP": 2,
+      "VBP-NN": 1,
+      "NN-NNS": 8,
+      "NNS-VBP": 10,
+      "VBP-JJ": 11,
+      "JJ-NN": 10,
+      "NN-NN": 26,
+      "NN-VBP": 2,
+      "JJ-NNP": 3,
+      "NNP-NNP": 23,
+      "NNP-FW": 6,
+      "FW-NNP": 9,
+      "NNS-NNS": 2,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NN-CD": 1,
+      "NNS-CD": 3,
+      "NNS-FW": 1,
+      "FW-FW": 29,
+      "FW-NN": 4,
+      "NN-RB": 1,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "JJ-NNS": 2,
+      "CD-IN": 1,
+      "IN-FW": 4,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-FW": 1,
+      "NN-NNP": 2,
+      "VBP-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 2,
+      "FW-JJ": 3,
+      "JJ-JJ": 5,
+      "JJ-IN": 1,
+      "NNP-VBP": 1,
+      "VBP-NNS": 2,
+      "NNS-NNP": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-JJ": 1,
+      "NN-FW": 3,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-VBP": 2,
+      "JJ-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 15,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-NNS": 4,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNP-NNP-NNP": 13,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-CD": 2,
+      "NNS-CD-NNS": 2,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 23,
+      "FW-FW-NN": 1,
+      "FW-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 5,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "JJ-VBP-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 48,
+        "FW": 46,
+        "NNP": 42,
+        "JJ": 25,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 29,
+        "NN-NN": 26,
+        "NNP-NNP": 23,
+        "VBP-JJ": 11,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 15,
+        "NNP-NNP-NNP": 13,
+        "NNS-VBP-JJ": 8,
+        "VBP-JJ-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 61,
+      "ADJP": 5,
+      "VP": 17,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0426
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('184', 'CD') NP ADJP VP VP VP (',', ',') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('total', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('ciudadanos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "ADJP -> ('venezolanos', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('regresaron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('país', 'JJ') ('como', 'NN') ('parte', 'NN') ('del', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un total"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos"
+      },
+      {
+        "label": "ADJP",
+        "text": "venezolanos"
+      },
+      {
+        "label": "VP",
+        "text": "regresaron este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "al país como parte del"
+      },
+      {
+        "label": "NP",
+        "text": "país como parte del"
+      },
+      {
+        "label": "VP",
+        "text": "programa social Plan Vuelta a la Patria"
+      },
+      {
+        "label": "NP",
+        "text": "social Plan Vuelta"
+      },
+      {
+        "label": "NP",
+        "text": "a la Patria"
+      },
+      {
+        "label": "NP",
+        "text": "siendo recibidos por autoridades nacionales"
+      },
+      {
+        "label": "VP",
+        "text": "en el Aeropuerto Internacional Simón Bolívar"
+      },
+      {
+        "label": "NP",
+        "text": "el Aeropuerto Internacional Simón Bolívar"
+      },
+      {
+        "label": "PP",
+        "text": "de Maiquetía"
+      },
+      {
+        "label": "NP",
+        "text": "Maiquetía"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP total/NN)\n  de/IN\n  184/CD\n  (NP ciudadanos/NNS)\n  (ADJP venezolanos/JJ)\n  (VP regresaron/VBP (NP este/NN viernes/NNS))\n  (VP al/VBP (NP país/JJ como/NN parte/NN del/NN))\n  (VP\n    programa/VBP\n    (NP social/JJ Plan/NNP Vuelta/NNP)\n    (NP a/DT la/NN Patria/NNP))\n  ,/,\n  (NP siendo/NN recibidos/NN por/NN autoridades/NNS nacionales/NNS)\n  (VP\n    en/VBP\n    (NP el/JJ Aeropuerto/NNP Internacional/NNP Simón/NNP Bolívar/NNP))\n  (PP de/IN (NP Maiquetía/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP grupo/NN)\n  ,/,\n  (NP compuesto/NN por/NN)\n  144/CD\n  (NP hombres/NNS)\n  ,/,\n  18/CD\n  (NP mujeres/NNS)\n  y/RB\n  22/CD\n  (NP menores/NNS)\n  de/FW\n  edad/FW\n  ,/,\n  arribó/FW\n  en/FW\n  el/FW\n  (NP vuelo/NN)\n  número/RB\n  61/CD\n  (NP el/JJ viernes/NNS)\n  22/CD\n  (PP de/IN (NP agosto/NN))\n  ./.)",
+      "(S\n  (NP Esta/NNP)\n  operación/MD\n  (VP forma/VB)\n  parte/FW\n  de/FW\n  la/FW\n  estrategia/FW\n  impulsada/FW\n  por/FW\n  el/FW\n  presidente/FW\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP que/NN se/NN intensificó/NN tras/NNS)\n  (VP\n    la/VBP\n    (NP\n      llegada/JJ\n      al/NN\n      poder/NN\n      del/NN\n      mandatario/NN\n      estadounidense/NN))\n  de/IN\n  extrema/FW\n  (NP derecha/NN Donald/NNP Trump/NNP)\n  ./.)",
+      "(S\n  (NP Como/NNP)\n  en/CC\n  (NP jornadas/NN anteriores/NNS)\n  ,/,\n  (NP\n    los/JJ\n    repatriados/NN\n    fueron/NN\n    recibidos/NN\n    por/NN\n    funcionarios/NNS)\n  (VP del/VBP (NP Cuerpo/NNP))\n  de/FW\n  (NP Investigaciones/NNP Científicas/NNP)\n  ,/,\n  (NP Penales/NNP)\n  y/CC\n  (NP Criminalísticas/NNP)\n  (/(\n  (NP CICPC/NNP)\n  )/)\n  ,/,\n  el/FW\n  (NP Servicio/NNP Bolivariano/NNP)\n  (PP de/IN (NP Inteligencia/NNP Nacional/NNP))\n  (/(\n  (NP SEBIN/NNP)\n  )/)\n  ,/,\n  la/FW\n  (NP Guardia/NNP Nacional/NNP Bolivariana/NNP)\n  (/(\n  (NP GNB/NNP)\n  )/)\n  (NP y/NN)\n  (NP el/JJ Cuerpo/NNP)\n  de/FW\n  (NP Policía/NNP Nacional/NNP Bolivariana/NNP)\n  ,/,\n  (VP quienes/VBZ tienen/JJ)\n  la/FW\n  responsabilidad/FW\n  de/FW\n  verificar/FW\n  la/FW\n  identidad/FW\n  ,/,\n  estado/FW\n  de/FW\n  salud/FW\n  y/FW\n  (ADJP situación/JJ)\n  (ADJP legal/JJ)\n  (PP de/IN (NP cada/NN migrante/NN))\n  ./.)",
+      "(S\n  (NP Tras/NNP)\n  (VP\n    realizar/VBZ\n    (NP las/NNS)\n    (NP entrevistas/JJ correspondientes/NNS))\n  (VP y/VBP (NP confirmar/NN el/NN))\n  estado/FW\n  (NP físico/NN)\n  de/IN\n  los/FW\n  (NP retornados/NN)\n  ,/,\n  las/FW\n  (NP autoridades/NNS)\n  (VP proceden/VBP (NP a/DT trasladarlos/NN) (NP a/DT sus/NN))\n  (VP hogares/VBZ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "JUSTICIA_SOCIAL",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          416,
+          441
+        ],
+        "start": 416,
+        "end": 441
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          271,
+          278
+        ],
+        "start": 271,
+        "end": 278
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          520,
+          535
+        ],
+        "start": 520,
+        "end": 535
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          178,
+          188
+        ],
+        "start": 178,
+        "end": 188
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1521,
+          1535
+        ],
+        "start": 1521,
+        "end": 1535
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          909,
+          918
+        ],
+        "start": 909,
+        "end": 918
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "viernes 22 de agosto",
+        "position": [
+          333,
+          353
+        ],
+        "start": 333,
+        "end": 353
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1469,
+          1485
+        ],
+        "start": 1469,
+        "end": 1485
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10.000",
+        "position": [
+          1300,
+          1313
+        ],
+        "start": 1300,
+        "end": 1313
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Servicio Bolivariano de Inteligencia Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Policía Nacional Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "en Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cuerpo de Investigaciones Científicas, Penales y Criminalísticas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Aeropuerto Internacional Simón Bolívar de Maiquetía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuerpo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guardia Nacional Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SEBIN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Plan Vuelta a la Patria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "GNB",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Plan Vuelta a la Patria",
+        "relacion": "REGRESAR",
+        "objeto": "Aeropuerto Internacional Simón Bolívar de Maiquetía"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PROTEGER_REGRESAR",
+        "objeto": "en Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3818,
+    "pos": 0.014,
+    "neu": 0.97,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

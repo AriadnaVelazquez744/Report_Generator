@@ -1,0 +1,843 @@
+{
+  "url": "https://www.telesurtv.net/peru-decretara-estado-de-emergencia-y-despliegue-de-las-ff-aa-por-ola-de-inseguridad/",
+  "title": "Perú decretará estado de emergencia y despliegue de las FF.AA. por ola de inseguridad - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Estado Emergencia",
+    "Fuerzas Armadas de Perú",
+    "Ola Inseguridad",
+    "Primer Ministro Peruano"
+  ],
+  "text": "El Gobierno de Perú anunció el domingo que declarará el estado de emergencia en las provincias de Lima y Callao con el despliegue de las Fuerzas Armadas en apoyo de la Policía Nacional para hacer frente a la ola de violencia criminal en ambas regiones del país.\n“Tras reunión sostenida en Palacio de Gobierno, se ha dispuesto que en las próximas horas se decrete el estado de emergencia en toda la provincia de Lima y la provincia Constitucional del Callao, con el despliegue de tropas de nuestras Fuerzas Armadas en apoyo a la Policía Nacional”, sostuvo el primer ministro peruano, Gustavo Adrianzén.\nEl alto funcionario del Gobierno peruano indicó que se convocará para el próximo martes una reunión del Consejo Nacional de Seguridad Ciudadana (Conasec) con el objeto de decretar una reforma del sistema penitenciario del país.\n“Se ha previsto decretar una reforma integral del sistema penitenciario. En la lucha contra el crimen organizado, todos los peruanos debemos de mantenernos unidos, superando todas nuestras diferencias sean de cualquier índole”, acotó Gustavo Adrianzén.\nPedido de censura contra el ministro del Interior\nEl primer ministro peruano realizó esta serie de anuncios horas después de que partidos de diferentes tendencias políticas exigieran la renuncia o destitución del ministro del Interior, Juan José Santiváñez.\nLa congresista opositora Susel Paredes anunció el domingo que contaba con las firmas necesarias para presentar una moción de censura contra el ministro Santiváñez.\nEl pedido de destitución recibió el apoyo de partidos de extrema derecha y ultraconservadores de Perú además de legisladores centristas y de izquierda.\nEl pronunciamiento de las organizaciones políticas a favor de la salida del ministro José Santiváñez implica un cambio radical en el apoyo que daban hasta el momento al funcionario, quien a pesar de las críticas en su contra ha sido defendido férreamente por la presidenta Dina Boluarte.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/peru-decretara-estado-de-emergencia-y-despliegue-de-las-ff-aa-por-ola-de-inseguridad/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1184,
+    "message_id": 89321,
+    "date": "2025-03-17T07:55:07+00:00",
+    "text": "teleSUR\nPerú decretará estado de emergencia y despliegue de las FF.AA. por ola de inseguridad\nhttps://www.telesurtv.net/peru-decretara-estado-de-emergencia-y-despliegue-de-las-ff-aa-por-ola-de-inseguridad/",
+    "photo_path": null,
+    "views": 2358,
+    "reactions": {
+      "🤔": 34,
+      "😢": 4,
+      "🤮": 3,
+      "👎": 2,
+      "👍": 1,
+      "😁": 1
+    },
+    "total_reactions": 45
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de perú anunció el domingo que declarará el estado de emergencia en las provincias de lima y callao con el despliegue de las fuerzas armadas en apoyo de la policía nacional para hacer frente a la ola de violencia criminal en ambas regiones del país. “tras reunión sostenida en palacio de gobierno, se ha dispuesto que en las próximas horas se decrete el estado de emergencia en toda la provincia de lima y la provincia constitucional del callao, con el despliegue de tropas de nuestras fuerzas armadas en apoyo a la policía nacional”, sostuvo el primer ministro peruano, gustavo adrianzén. el alto funcionario del gobierno peruano indicó que se convocará para el próximo martes una reunión del consejo nacional de seguridad ciudadana (conasec) con el objeto de decretar una reforma del sistema penitenciario del país. “se ha previsto decretar una reforma integral del sistema penitenciario. en la lucha contra el crimen organizado, todos los peruanos debemos de mantenernos unidos, superando todas nuestras diferencias sean de cualquier índole”, acotó gustavo adrianzén. pedido de censura contra el ministro del interior el primer ministro peruano realizó esta serie de anuncios horas después de que partidos de diferentes tendencias políticas exigieran la renuncia o destitución del ministro del interior, juan josé santiváñez. la congresista opositora susel paredes anunció el domingo que contaba con las firmas necesarias para presentar una moción de censura contra el ministro santiváñez. el pedido de destitución recibió el apoyo de partidos de extrema derecha y ultraconservadores de perú además de legisladores centristas y de izquierda. el pronunciamiento de las organizaciones políticas a favor de la salida del ministro josé santiváñez implica un cambio radical en el apoyo que daban hasta el momento al funcionario, quien a pesar de las críticas en su contra ha sido defendido férreamente por la presidenta dina boluarte.",
+    "tokens": [
+      "gobierno",
+      "perú",
+      "anunció",
+      "domingo",
+      "declarará",
+      "emergencia",
+      "provincias",
+      "lima",
+      "callao",
+      "despliegue",
+      "fuerzas",
+      "armadas",
+      "apoyo",
+      "policía",
+      "nacional",
+      "hacer",
+      "frente",
+      "ola",
+      "violencia",
+      "criminal",
+      "ambas",
+      "regiones",
+      "país",
+      ".",
+      "“",
+      "tras",
+      "reunión",
+      "sostenida",
+      "palacio",
+      "gobierno",
+      ",",
+      "dispuesto",
+      "próximas",
+      "horas",
+      "decrete",
+      "emergencia",
+      "toda",
+      "provincia",
+      "lima",
+      "provincia",
+      "constitucional",
+      "callao",
+      ",",
+      "despliegue",
+      "tropas",
+      "fuerzas",
+      "armadas",
+      "apoyo",
+      "policía",
+      "nacional",
+      "”",
+      ",",
+      "sostuvo",
+      "primer",
+      "ministro",
+      "peruano",
+      ",",
+      "gustavo",
+      "adrianzén",
+      ".",
+      "alto",
+      "funcionario",
+      "gobierno",
+      "peruano",
+      "indicó",
+      "convocará",
+      "próximo",
+      "martes",
+      "reunión",
+      "consejo",
+      "nacional",
+      "seguridad",
+      "ciudadana",
+      "(",
+      "conasec",
+      ")",
+      "objeto",
+      "decretar",
+      "reforma",
+      "sistema",
+      "penitenciario",
+      "país",
+      ".",
+      "“",
+      "previsto",
+      "decretar",
+      "reforma",
+      "integral",
+      "sistema",
+      "penitenciario",
+      ".",
+      "lucha",
+      "crimen",
+      "organizado",
+      ",",
+      "peruanos",
+      "debemos",
+      "mantenernos",
+      "unidos",
+      ",",
+      "superando",
+      "todas",
+      "diferencias",
+      "cualquier",
+      "índole",
+      "”",
+      ",",
+      "acotó",
+      "gustavo",
+      "adrianzén",
+      ".",
+      "pedido",
+      "censura",
+      "ministro",
+      "interior",
+      "primer",
+      "ministro",
+      "peruano",
+      "realizó",
+      "serie",
+      "anuncios",
+      "horas",
+      "después",
+      "partidos",
+      "diferentes",
+      "tendencias",
+      "políticas",
+      "exigieran",
+      "renuncia",
+      "destitución",
+      "ministro",
+      "interior",
+      ",",
+      "juan",
+      "josé",
+      "santiváñez",
+      ".",
+      "congresista",
+      "opositora",
+      "susel",
+      "paredes",
+      "anunció",
+      "domingo",
+      "contaba",
+      "firmas",
+      "necesarias",
+      "presentar",
+      "moción",
+      "censura",
+      "ministro",
+      "santiváñez",
+      ".",
+      "pedido",
+      "destitución",
+      "recibió",
+      "apoyo",
+      "partidos",
+      "extrema",
+      "derecha",
+      "ultraconservadores",
+      "perú",
+      "además",
+      "legisladores",
+      "centristas",
+      "izquierda",
+      ".",
+      "pronunciamiento",
+      "organizaciones",
+      "políticas",
+      "favor",
+      "salida",
+      "ministro",
+      "josé",
+      "santiváñez",
+      "implica",
+      "cambio",
+      "radical",
+      "apoyo",
+      "daban",
+      "momento",
+      "funcionario",
+      ",",
+      "pesar",
+      "críticas",
+      "sido",
+      "defendido",
+      "férreamente",
+      "presidenta",
+      "dina",
+      "boluarte",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 50,
+      "IN": 11,
+      "VBP": 5,
+      "JJ": 31,
+      "NN": 98,
+      "FW": 92,
+      "NNS": 5,
+      "VBZ": 2,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 22,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NNP-VBP": 2,
+      "VBP-JJ": 4,
+      "JJ-NN": 16,
+      "NN-NN": 61,
+      "NN-FW": 11,
+      "FW-FW": 57,
+      "FW-NNP": 17,
+      "NNP-NN": 14,
+      "NN-IN": 8,
+      "IN-FW": 9,
+      "NNP-FW": 9,
+      "FW-JJ": 9,
+      "JJ-FW": 5,
+      "JJ-NNS": 3,
+      "NNS-FW": 1,
+      "FW-NN": 6,
+      "NN-NNP": 7,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NN-JJ": 9,
+      "JJ-JJ": 6,
+      "NNS-VBP": 3,
+      "FW-JJR": 1,
+      "JJR-JJ": 1,
+      "FW-NNS": 2,
+      "JJ-NNP": 1,
+      "NNS-IN": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 38,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 40,
+      "FW-FW-NNP": 10,
+      "FW-NNP-NNP": 11,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-NN": 11,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 8,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 4,
+      "FW-FW-JJ": 3,
+      "FW-JJ-FW": 5,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NN-FW-NNP": 3,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "JJ-FW-FW": 4,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "FW-NNP-NN": 1,
+      "IN-FW-FW": 3,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NN": 2,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-FW-JJ": 1,
+      "FW-FW-JJR": 1,
+      "FW-JJR-JJ": 1,
+      "JJR-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-IN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "VBZ-JJ-JJ": 1,
+      "NNP-NN-FW": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "NN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "FW": 92,
+        "NNP": 50,
+        "JJ": 31,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 57,
+        "NNP-NNP": 22,
+        "FW-NNP": 17,
+        "JJ-NN": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 40,
+        "NN-NN-NN": 38,
+        "FW-NNP-NNP": 11,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 67,
+      "PP": 1,
+      "VP": 11,
+      "ADJP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Perú', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "VP -> ('anunció', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Lima', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "VP -> ('políticas', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP PP VP ('el', 'FW') ('estado', 'FW') ('de', 'FW') ('emergencia', 'FW') ('en', 'FW') ('las', 'FW') ('provincias', 'FW') ('de', 'FW') NP ('y', 'CC') NP VP ('de', 'IN') ('las', 'FW') NP ('en', 'FW') ('apoyo', 'FW') ('de', 'FW') ('la', 'FW') NP VP ('ola', 'FW') ('de', 'FW') ('violencia', 'FW') ADJP ('en', 'FW') NP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Perú"
+      },
+      {
+        "label": "NP",
+        "text": "Perú"
+      },
+      {
+        "label": "VP",
+        "text": "anunció el domingo que declarará"
+      },
+      {
+        "label": "NP",
+        "text": "el domingo que declarará"
+      },
+      {
+        "label": "NP",
+        "text": "Lima"
+      },
+      {
+        "label": "NP",
+        "text": "Callao"
+      },
+      {
+        "label": "VP",
+        "text": "con el despliegue"
+      },
+      {
+        "label": "NP",
+        "text": "el despliegue"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas Armadas"
+      },
+      {
+        "label": "NP",
+        "text": "Policía Nacional para hacer"
+      },
+      {
+        "label": "VP",
+        "text": "frente a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "ADJP",
+        "text": "criminal"
+      },
+      {
+        "label": "NP",
+        "text": "ambas regiones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Perú/NNP))\n  (VP anunció/VBP (NP el/JJ domingo/NN que/NN declarará/NN))\n  el/FW\n  estado/FW\n  de/FW\n  emergencia/FW\n  en/FW\n  las/FW\n  provincias/FW\n  de/FW\n  (NP Lima/NNP)\n  y/CC\n  (NP Callao/NNP)\n  (VP con/VBP (NP el/JJ despliegue/NN))\n  de/IN\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  en/FW\n  apoyo/FW\n  de/FW\n  la/FW\n  (NP Policía/NNP Nacional/NNP para/NN hacer/NN)\n  (VP frente/VBZ (NP a/DT la/NN))\n  ola/FW\n  de/FW\n  violencia/FW\n  (ADJP criminal/JJ)\n  en/FW\n  (NP ambas/JJ regiones/NNS)\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP “/NN Tras/NNP reunión/NN sostenida/NN)\n  en/FW\n  (NP Palacio/NNP)\n  de/FW\n  (NP Gobierno/NNP)\n  ,/,\n  (VP se/VBD (NP ha/JJ dispuesto/NN que/NN))\n  en/FW\n  las/FW\n  próximas/FW\n  horas/FW\n  se/FW\n  (ADJP decrete/JJ)\n  el/FW\n  estado/FW\n  de/FW\n  emergencia/FW\n  en/FW\n  (NP toda/NN)\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Lima/NNP)\n  y/CC\n  la/FW\n  (NP provincia/JJ Constitucional/NNP del/NN Callao/NNP)\n  ,/,\n  (NP con/NN)\n  el/FW\n  (NP despliegue/NN)\n  de/IN\n  tropas/FW\n  de/FW\n  nuestras/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  en/FW\n  apoyo/FW\n  (NP a/DT la/NN Policía/NNP Nacional/NNP ”/NNP)\n  ,/,\n  (NP sostuvo/NN el/NN primer/NN ministro/NN peruano/NN)\n  ,/,\n  (NP Gustavo/NNP Adrianzén/NNP)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    alto/NN\n    funcionario/NN\n    del/NN\n    Gobierno/NNP\n    peruano/NN\n    indicó/NN\n    que/NN\n    se/NN\n    convocará/NN\n    para/NN\n    el/NN\n    próximo/NN)\n  (VP\n    martes/VBZ\n    (NP una/JJ reunión/NN del/NN Consejo/NNP Nacional/NNP))\n  de/FW\n  (NP Seguridad/NNP Ciudadana/NNP)\n  (/(\n  (NP Conasec/NNP)\n  )/)\n  (NP con/NN)\n  (NP el/JJ objeto/NN)\n  de/IN\n  decretar/FW\n  (NP\n    una/JJ\n    reforma/NN\n    del/NN\n    sistema/NN\n    penitenciario/NN\n    del/NN\n    país/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Se/NNP ha/NN previsto/NN decretar/NN)\n  (NP\n    una/JJ\n    reforma/JJ\n    integral/JJ\n    del/NN\n    sistema/NN\n    penitenciario/NN)\n  ./.)",
+      "(S\n  (NP En/NNP la/NN lucha/NN)\n  (NP contra/JJ el/JJ crimen/NNS)\n  (VP organizado/VBP)\n  ,/,\n  (NP todos/JJ los/NN)\n  (NP peruanos/JJ debemos/NN)\n  de/IN\n  mantenernos/FW\n  (ADJP unidos/JJ)\n  ,/,\n  (NP superando/JJ todas/NN nuestras/NNS)\n  (ADJP diferencias/JJ)\n  (ADJP sean/JJ)\n  de/FW\n  (NP cualquier/JJR índole/JJ ”/NN)\n  ,/,\n  (NP acotó/JJ Gustavo/NNP Adrianzén/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo de la policía nacional para hacer frente a la ola de violencia criminal en ambas regiones del país",
+        "position": [
+          156,
+          260
+        ],
+        "start": 156,
+        "end": 260
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          547,
+          554
+        ],
+        "start": 547,
+        "end": 554
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          20,
+          27
+        ],
+        "start": 20,
+        "end": 27
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de perú anunció",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta dina boluarte",
+        "position": [
+          1919,
+          1943
+        ],
+        "start": 1919,
+        "end": 1943
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del interior\nel",
+        "position": [
+          1111,
+          1135
+        ],
+        "start": 1111,
+        "end": 1135
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          1562,
+          1577
+        ],
+        "start": 1562,
+        "end": 1577
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          15,
+          19
+        ],
+        "start": 15,
+        "end": 19
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "lima",
+        "position": [
+          98,
+          102
+        ],
+        "start": 98,
+        "end": 102
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          56,
+          65
+        ],
+        "start": 56,
+        "end": 65
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gustavo Adrianzén",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Dina Boluarte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno peruano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Susel Paredes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Conasec",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ministro del Interior",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Interior",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Juan José Santiváñez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "provincia de Lima",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo Nacional de Seguridad Ciudadana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Santiváñez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palacio de Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "José Santiváñez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Callao",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia Constitucional del Callao",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lima",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Perú",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "Lima"
+      },
+      {
+        "sujeto": "Gobierno de Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "Callao"
+      },
+      {
+        "sujeto": "Gobierno de Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Gobierno de Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "Lima",
+        "relacion": "DECLARAR_ANUNCIAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Lima",
+        "relacion": "DECLARAR_ANUNCIAR",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "Callao",
+        "relacion": "DECLARAR_ANUNCIAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Callao",
+        "relacion": "DECLARAR_ANUNCIAR",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "Palacio de Gobierno",
+        "relacion": "DISPONER_SOSTENER",
+        "objeto": "provincia de Lima"
+      },
+      {
+        "sujeto": "Palacio de Gobierno",
+        "relacion": "DISPONER_SOSTENER",
+        "objeto": "provincia Constitucional del Callao"
+      },
+      {
+        "sujeto": "Palacio de Gobierno",
+        "relacion": "DISPONER_SOSTENER",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Palacio de Gobierno",
+        "relacion": "DISPONER_SOSTENER",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "Palacio de Gobierno",
+        "relacion": "DISPONER_SOSTENER",
+        "objeto": "Gustavo Adrianzén"
+      },
+      {
+        "sujeto": "provincia de Lima",
+        "relacion": "DECRETAR_DISPONER_SOSTENER",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "provincia de Lima",
+        "relacion": "DECRETAR_DISPONER_SOSTENER",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "provincia de Lima",
+        "relacion": "DECRETAR_DISPONER_SOSTENER",
+        "objeto": "Gustavo Adrianzén"
+      },
+      {
+        "sujeto": "provincia Constitucional del Callao",
+        "relacion": "DECRETAR_DISPONER_SOSTENER",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "provincia Constitucional del Callao",
+        "relacion": "DECRETAR_DISPONER_SOSTENER",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "provincia Constitucional del Callao",
+        "relacion": "DECRETAR_DISPONER_SOSTENER",
+        "objeto": "Gustavo Adrianzén"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "DISPONER_SOSTENER",
+        "objeto": "Gustavo Adrianzén"
+      },
+      {
+        "sujeto": "Policía Nacional",
+        "relacion": "DISPONER_SOSTENER",
+        "objeto": "Gustavo Adrianzén"
+      },
+      {
+        "sujeto": "Gobierno peruano",
+        "relacion": "INDICAR",
+        "objeto": "Consejo Nacional de Seguridad Ciudadana"
+      },
+      {
+        "sujeto": "Gobierno peruano",
+        "relacion": "INDICAR",
+        "objeto": "Conasec"
+      },
+      {
+        "sujeto": "ministro del Interior",
+        "relacion": "ES",
+        "objeto": "Juan José Santiváñez"
+      },
+      {
+        "sujeto": "Susel Paredes",
+        "relacion": "ANUNCIAR",
+        "objeto": "Santiváñez"
+      },
+      {
+        "sujeto": "José Santiváñez",
+        "relacion": "IMPLICAR",
+        "objeto": "Dina Boluarte"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6705,
+    "pos": 0.033,
+    "neu": 0.956,
+    "neg": 0.011,
+    "label": "positive"
+  }
+}

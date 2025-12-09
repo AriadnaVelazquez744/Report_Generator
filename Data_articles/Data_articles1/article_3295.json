@@ -1,0 +1,932 @@
+{
+  "url": "https://www.telesurtv.net/sheinbaum-destaca-acuerdos-con-ee-uu-y-reafirma-soberania-de-mexico/",
+  "title": "Sheinbaum destaca acuerdos con EE.UU. y reafirma soberanía de México - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Aranceles",
+    "drogas",
+    "EE.UU.",
+    "México",
+    "Migración",
+    "relaciones"
+  ],
+  "text": "La presidenta de México, Claudia Sheinbaum, subrayó la postura de su Gobierno frente a Estados Unidos (EE.UU.) y afirmó este lunes que “nunca hay subordinación“, al evaluar como positivo el encuentro con la secretaria de Seguridad Nacional estadounidense, Kristi Noem.\nLEA TAMBIÉN\nArranca campaña electoral para elecciones judiciales en México\nEl diálogo, realizado el viernes anterior, abordó temas migratorios y de seguridad bilateral, con énfasis en la coordinación entre ambas naciones.\nDurante su conferencia matutina en el Palacio Nacional, Sheinbaum detalló que las conversaciones se desarrollaron bajo los principios de colaboración y respeto mutuo.\n“Como siempre decimos, nosotros nos coordinamos, colaboramos con Estados Unidos para la seguridad de ambos países, nunca nos subordinamos y siempre con respeto a nuestra soberanía”, afirmó.\nComo resultado de las conversaciones, se renovó un memorándum de entendimiento entre las agencias aduaneras de ambos países, originalmente firmado en 2022, para mejorar el intercambio de información.\nEn ese sentido, Sheinbaum expresó que “ese fue uno de los resultados de la reunión. Ella (Noem) lo solicitó”.\n“Quedaron algunos trabajos, que fue parte de los acuerdos que se tomaron en febrero en Washington en la reunión a donde fueron secretarios de Estado de México y secretarios de Estado de los Estados Unidos”, afirmó.\nPor su parte, la administración estadounidense reconoció avances en la cooperación, particularmente el despliegue de 10.000 elementos de la Guardia Nacional mexicana en la frontera norte y la aceptación de vuelos con deportados. No obstante, Noem advirtió que persisten desafíos en el combate al narcotráfico y la migración irregular.\nEn el marco de la ‘Operación Frontera Norte’, implementada por México desde el 5 de febrero para evitar aranceles comerciales, la Secretaría de Seguridad y Protección Ciudadana (SSPC) reportó la incautación de más de 24 toneladas de drogas, incluidos 129 kilogramos de fentanilo.\nSheinbaum enfatizó que los acuerdos alcanzados reflejan el equilibrio entre la cooperación necesaria y la defensa de los intereses nacionales, sin ceder en materia de autonomía decisoria.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/sheinbaum-destaca-acuerdos-con-ee-uu-y-reafirma-soberania-de-mexico/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 20,
+    "message_id": 90710,
+    "date": "2025-03-31T19:55:07+00:00",
+    "text": "teleSUR\nSheinbaum destaca acuerdos con EE.UU. y reafirma soberanía de México\nhttps://www.telesurtv.net/sheinbaum-destaca-acuerdos-con-ee-uu-y-reafirma-soberania-de-mexico/",
+    "photo_path": null,
+    "views": 1752,
+    "reactions": {
+      "❤": 44,
+      "👍": 7,
+      "🤔": 5,
+      "🥰": 1
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de méxico, claudia sheinbaum, subrayó la postura de su gobierno frente a estados unidos (ee.uu.) y afirmó este lunes que “nunca hay subordinación“, al evaluar como positivo el encuentro con la secretaria de seguridad nacional estadounidense, kristi noem. el diálogo, realizado el viernes anterior, abordó temas migratorios y de seguridad bilateral, con énfasis en la coordinación entre ambas naciones. durante su conferencia matutina en el palacio nacional, sheinbaum detalló que las conversaciones se desarrollaron bajo los principios de colaboración y respeto mutuo. “como siempre decimos, nosotros nos coordinamos, colaboramos con estados unidos para la seguridad de ambos países, nunca nos subordinamos y siempre con respeto a nuestra soberanía”, afirmó. como resultado de las conversaciones, se renovó un memorándum de entendimiento entre las agencias aduaneras de ambos países, originalmente firmado en 2022, para mejorar el intercambio de información. en ese sentido, sheinbaum expresó que “ese fue uno de los resultados de la reunión. ella (noem) lo solicitó”. “quedaron algunos trabajos, que fue parte de los acuerdos que se tomaron en febrero en washington en la reunión a donde fueron secretarios de estado de méxico y secretarios de estado de los estados unidos”, afirmó. por su parte, la administración estadounidense reconoció avances en la cooperación, particularmente el despliegue de 10.000 elementos de la guardia nacional mexicana en la frontera norte y la aceptación de vuelos con deportados. no obstante, noem advirtió que persisten desafíos en el combate al narcotráfico y la migración irregular. en el marco de la ‘operación frontera norte’, implementada por méxico desde el 5 de febrero para evitar aranceles comerciales, la secretaría de seguridad y protección ciudadana (sspc) reportó la incautación de más de 24 toneladas de drogas, incluidos 129 kilogramos de fentanilo. sheinbaum enfatizó que los acuerdos alcanzados reflejan el equilibrio entre la cooperación necesaria y la defensa de los intereses nacionales, sin ceder en materia de autonomía decisoria.",
+    "tokens": [
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "subrayó",
+      "postura",
+      "gobierno",
+      "frente",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "afirmó",
+      "lunes",
+      "“",
+      "nunca",
+      "subordinación",
+      "“",
+      ",",
+      "evaluar",
+      "positivo",
+      "encuentro",
+      "secretaria",
+      "seguridad",
+      "nacional",
+      "estadounidense",
+      ",",
+      "kristi",
+      "noem",
+      ".",
+      "diálogo",
+      ",",
+      "realizado",
+      "viernes",
+      "anterior",
+      ",",
+      "abordó",
+      "temas",
+      "migratorios",
+      "seguridad",
+      "bilateral",
+      ",",
+      "énfasis",
+      "coordinación",
+      "ambas",
+      "naciones",
+      ".",
+      "conferencia",
+      "matutina",
+      "palacio",
+      "nacional",
+      ",",
+      "sheinbaum",
+      "detalló",
+      "conversaciones",
+      "desarrollaron",
+      "bajo",
+      "principios",
+      "colaboración",
+      "respeto",
+      "mutuo",
+      ".",
+      "“",
+      "siempre",
+      "decimos",
+      ",",
+      "coordinamos",
+      ",",
+      "colaboramos",
+      "unidos",
+      "seguridad",
+      "ambos",
+      "países",
+      ",",
+      "nunca",
+      "subordinamos",
+      "siempre",
+      "respeto",
+      "soberanía",
+      "”",
+      ",",
+      "afirmó",
+      ".",
+      "resultado",
+      "conversaciones",
+      ",",
+      "renovó",
+      "memorándum",
+      "entendimiento",
+      "agencias",
+      "aduaneras",
+      "ambos",
+      "países",
+      ",",
+      "originalmente",
+      "firmado",
+      "2022",
+      ",",
+      "mejorar",
+      "intercambio",
+      "información",
+      ".",
+      ",",
+      "sheinbaum",
+      "expresó",
+      "“",
+      "resultados",
+      "reunión",
+      ".",
+      "(",
+      "noem",
+      ")",
+      "solicitó",
+      "”",
+      ".",
+      "“",
+      "quedaron",
+      "trabajos",
+      ",",
+      "parte",
+      "acuerdos",
+      "tomaron",
+      "febrero",
+      "washington",
+      "reunión",
+      "secretarios",
+      "méxico",
+      "secretarios",
+      "unidos",
+      "”",
+      ",",
+      "afirmó",
+      ".",
+      "parte",
+      ",",
+      "administración",
+      "estadounidense",
+      "reconoció",
+      "avances",
+      "cooperación",
+      ",",
+      "particularmente",
+      "despliegue",
+      "10.000",
+      "elementos",
+      "guardia",
+      "nacional",
+      "mexicana",
+      "frontera",
+      "norte",
+      "aceptación",
+      "vuelos",
+      "deportados",
+      ".",
+      "obstante",
+      ",",
+      "noem",
+      "advirtió",
+      "persisten",
+      "desafíos",
+      "combate",
+      "narcotráfico",
+      "migración",
+      "irregular",
+      ".",
+      "marco",
+      "‘",
+      "operación",
+      "frontera",
+      "norte",
+      "’",
+      ",",
+      "implementada",
+      "méxico",
+      "5",
+      "febrero",
+      "evitar",
+      "aranceles",
+      "comerciales",
+      ",",
+      "secretaría",
+      "seguridad",
+      "protección",
+      "ciudadana",
+      "(",
+      "sspc",
+      ")",
+      "reportó",
+      "incautación",
+      "24",
+      "toneladas",
+      "drogas",
+      ",",
+      "incluidos",
+      "129",
+      "kilogramos",
+      "fentanilo",
+      ".",
+      "sheinbaum",
+      "enfatizó",
+      "acuerdos",
+      "alcanzados",
+      "reflejan",
+      "equilibrio",
+      "cooperación",
+      "necesaria",
+      "defensa",
+      "intereses",
+      "nacionales",
+      ",",
+      "ceder",
+      "materia",
+      "autonomía",
+      "decisoria",
+      "."
+    ],
+    "token_count": 217,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 51,
+      "FW": 77,
+      "VBD": 2,
+      "JJ": 29,
+      "NN": 92,
+      "VBZ": 6,
+      "NNS": 20,
+      "VBP": 10,
+      "IN": 15,
+      "RB": 3,
+      "CD": 4,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 5,
+      "FW-FW": 43,
+      "FW-NNP": 13,
+      "NNP-NNP": 21,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-FW": 4,
+      "NNP-NN": 17,
+      "NN-NNP": 7,
+      "NNP-VBZ": 4,
+      "VBZ-NN": 1,
+      "NN-NNS": 6,
+      "NNS-VBP": 6,
+      "VBP-JJ": 6,
+      "JJ-NN": 15,
+      "NN-NN": 44,
+      "NN-FW": 12,
+      "FW-NN": 11,
+      "VBZ-JJ": 3,
+      "NNS-NNS": 3,
+      "NNS-IN": 4,
+      "IN-NNP": 3,
+      "NNS-RB": 2,
+      "RB-VBP": 2,
+      "JJ-NNS": 3,
+      "IN-JJ": 1,
+      "JJ-JJ": 3,
+      "NN-IN": 10,
+      "IN-FW": 8,
+      "NNS-NNP": 1,
+      "NN-JJ": 9,
+      "NNS-FW": 3,
+      "IN-NN": 2,
+      "FW-NNS": 6,
+      "FW-VBP": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NN": 2,
+      "NNP-JJ": 1,
+      "JJ-NNP": 3,
+      "FW-JJ": 2,
+      "NNP-IN": 1,
+      "VBZ-NNP": 1,
+      "VBP-FW": 2,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NNP": 1,
+      "FW-CD": 1,
+      "NN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 22,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 4,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 15,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 8,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 2,
+      "NNP-NNP-NN": 7,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-NN": 14,
+      "NN-NN-NNS": 3,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 2,
+      "RB-VBP-JJ": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "IN-FW-NNP": 3,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 4,
+      "NN-JJ-JJ": 2,
+      "FW-FW-NNS": 5,
+      "FW-NNS-VBP": 3,
+      "NN-JJ-NN": 5,
+      "NNP-NN-FW": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "IN-FW-NN": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-RB": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 77,
+        "NNP": 51,
+        "JJ": 29,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 44,
+        "FW-FW": 43,
+        "NNP-NNP": 21,
+        "NNP-NN": 17,
+        "JJ-NN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 15,
+        "NNP-NN-NN": 14,
+        "FW-FW-NNP": 9,
+        "NNP-NNP-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 92,
+      "VP": 15,
+      "PP": 7,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0312
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('países', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('afirmó', 'NN')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('Noem', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP ('postura', 'FW') ('de', 'FW') ('su', 'FW') NP VP ('(', '(') NP (')', ')') NP NP VP (',', ',') VP ('el', 'FW') ('encuentro', 'FW') NP ('la', 'FW') ('secretaria', 'FW') ('de', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "subrayó la"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "VP",
+        "text": "frente a Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "a Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "afirmó este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "que “ nunca hay subordinación “"
+      },
+      {
+        "label": "NP",
+        "text": "“ nunca hay subordinación “"
+      },
+      {
+        "label": "VP",
+        "text": "al evaluar como positivo"
+      },
+      {
+        "label": "NP",
+        "text": "evaluar como positivo"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP subrayó/NN la/NN)\n  postura/FW\n  de/FW\n  su/FW\n  (NP Gobierno/NNP)\n  (VP frente/VBD (NP a/DT Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (NP y/NN)\n  (NP afirmó/JJ este/NN lunes/NNS)\n  (VP que/VBP (NP “/JJ nunca/JJ hay/NN subordinación/NN “/NNP))\n  ,/,\n  (VP al/VBZ (NP evaluar/JJ como/NN positivo/NN))\n  el/FW\n  encuentro/FW\n  (NP con/NN)\n  la/FW\n  secretaria/FW\n  de/FW\n  (NP Seguridad/NNP Nacional/NNP estadounidense/NN)\n  ,/,\n  (NP Kristi/NNP Noem/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Arranca/NNP)\n  (VP\n    campaña/VBZ\n    (NP electoral/JJ para/NN elecciones/NNS judiciales/NNS))\n  (PP en/IN (NP México/NNP El/NNP diálogo/NN))\n  ,/,\n  (VP realizado/VB (NP el/JJ viernes/NNS) anterior/RB)\n  ,/,\n  (NP abordó/JJ temas/NN migratorios/NNS)\n  (VP y/VBP)\n  de/IN\n  seguridad/FW\n  (ADJP bilateral/JJ)\n  ,/,\n  (NP con/JJ énfasis/NN)\n  en/IN\n  la/FW\n  coordinación/FW\n  entre/FW\n  (NP ambas/NN naciones/NNS)\n  ./.)",
+      "(S\n  (NP Durante/NNP su/NN conferencia/NN matutina/NN)\n  en/IN\n  el/FW\n  (NP Palacio/NNP Nacional/NNP)\n  ,/,\n  (NP Sheinbaum/NNP detalló/NN que/NN)\n  (NP las/JJ conversaciones/NNS)\n  se/FW\n  (NP desarrollaron/NN bajo/NN)\n  (NP los/JJ principios/NNS)\n  (PP de/IN (NP colaboración/NN y/NN respeto/NN mutuo/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Como/NNP siempre/NN decimos/NN)\n  ,/,\n  (NP nosotros/JJ nos/JJ coordinamos/NN)\n  ,/,\n  (NP colaboramos/JJ con/NN Estados/NNP Unidos/NNP para/NN la/NN)\n  seguridad/FW\n  de/FW\n  ambos/FW\n  (NP países/NNS)\n  ,/,\n  (NP nunca/JJ nos/JJ subordinamos/NN y/NN siempre/NN con/NN)\n  (VP respeto/VBZ (NP a/DT nuestra/JJ soberanía/NN ”/NN))\n  ,/,\n  (NP afirmó/NN)\n  ./.)",
+      "(S\n  (NP Como/NNP resultado/NN)\n  de/FW\n  las/FW\n  (NP conversaciones/NNS)\n  ,/,\n  se/FW\n  renovó/FW\n  (NP un/JJ memorándum/NN)\n  de/IN\n  entendimiento/FW\n  entre/FW\n  las/FW\n  agencias/FW\n  aduaneras/FW\n  de/FW\n  ambos/FW\n  (NP países/NNS)\n  ,/,\n  (NP originalmente/JJ firmado/NN)\n  en/IN\n  2022/CD\n  ,/,\n  para/FW\n  mejorar/FW\n  el/FW\n  intercambio/FW\n  de/FW\n  información/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "incautación de más de 24 toneladas de drogas",
+        "position": [
+          1903,
+          1947
+        ],
+        "start": 1903,
+        "end": 1947
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación, particularmente el despliegue de 10.000 elementos de la guardia nacional mexicana en la frontera norte y la aceptación de vuelos con deportados. no obstante, noem advirtió que persisten desafíos en el combate al narcotráfico y la",
+        "position": [
+          1444,
+          1686
+        ],
+        "start": 1444,
+        "end": 1686
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "campaña electoral",
+        "position": [
+          289,
+          306
+        ],
+        "start": 289,
+        "end": 306
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          113,
+          119
+        ],
+        "start": 113,
+        "end": 119
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1620,
+          1628
+        ],
+        "start": 1620,
+        "end": 1628
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          2094,
+          2101
+        ],
+        "start": 2094,
+        "end": 2101
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          44,
+          51
+        ],
+        "start": 44,
+        "end": 51
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          87,
+          101
+        ],
+        "start": 87,
+        "end": 101
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1300,
+          1309
+        ],
+        "start": 1300,
+        "end": 1309
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10.000 elementos",
+        "position": [
+          1490,
+          1506
+        ],
+        "start": 1490,
+        "end": 1506
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 24",
+        "position": [
+          1918,
+          1927
+        ],
+        "start": 1918,
+        "end": 1927
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 elementos",
+        "position": [
+          1493,
+          1506
+        ],
+        "start": 1493,
+        "end": 1506
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palacio Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guardia Nacional mexicana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "SSPC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Noem",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kristi Noem",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Seguridad Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretaría de Seguridad y Protección Ciudadana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado de los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "México",
+        "relacion": "SUBRAYAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "SUBRAYAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "SUBRAYAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "México",
+        "relacion": "SUBRAYAR",
+        "objeto": "Seguridad Nacional"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "SUBRAYAR",
+        "objeto": "Kristi Noem"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "SUBRAYAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "SUBRAYAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "SUBRAYAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "SUBRAYAR",
+        "objeto": "Seguridad Nacional"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "SUBRAYAR",
+        "objeto": "Kristi Noem"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "SUBRAYAR",
+        "objeto": "Seguridad Nacional"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "SUBRAYAR",
+        "objeto": "Kristi Noem"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "SUBRAYAR",
+        "objeto": "Seguridad Nacional"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "SUBRAYAR",
+        "objeto": "Kristi Noem"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "SUBRAYAR",
+        "objeto": "Seguridad Nacional"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "SUBRAYAR",
+        "objeto": "Kristi Noem"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "DETALLAR",
+        "objeto": "Palacio Nacional"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "TOMAR_QUEDAR_AFIRMAR",
+        "objeto": "Estado de México"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "TOMAR_QUEDAR_AFIRMAR",
+        "objeto": "Estado de los Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7003,
+    "pos": 0.0,
+    "neu": 0.982,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

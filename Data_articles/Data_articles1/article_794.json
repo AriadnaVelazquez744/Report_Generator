@@ -1,0 +1,927 @@
+{
+  "url": "https://www.telesurtv.net/gaza-70-martires-masacres-israel/",
+  "title": "Gaza: Más de 70 mártires por masacres israelíes y cuatro fallecidos por hambruna en un día",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Israelíes",
+    "Ayuda Humanitaria",
+    "bloqueo",
+    "Gaza",
+    "Hambruna",
+    "mártires"
+  ],
+  "text": "El Ministerio de Salud de Gaza reportó 71 fallecidos y 339 heridos en las últimas 24 horas debido a ataques israelíes, según su informe diario. Entre las víctimas, 22 personas murieron y 203 resultaron heridas mientras intentaban acceder a ayuda humanitaria, elevando el total por esta causa a 2.180 fallecidos y 16.046 lesionados.\n\nLEA TAMBIÉN\nGaza: EE.UU. e Israel aislados en Consejo de Seguridad mientras crece presión global contra la hambruna\n\nDesde el 18 de marzo de 2025, el genocidio israelí ha causado 11.121 muertos y 47.225 heridos. El bloqueo total impuesto por Israel impide la entrada de alimentos, combustible y suministros médicos, exacerbando la hambruna y la crisis humanitaria.\n“La hambruna en Gaza es el resultado de decisiones deliberadas que desafían la humanidad básica”, declaró el secretario general de la ONU, António Guterres. Muchas víctimas permanecen bajo escombros, inaccesibles debido a la ofensiva y las restricciones.\n\n\nFuentes hospitalarias indicaron que 71 palestinos, incluidos 19 solicitantes de ayuda, murieron desde la madrugada de este jueves. Defensa Civil reportó la destrucción de al menos 1.500 viviendas en la Ciudad de Gaza, en un intento por desplazar a los residentes.\n\n\nDe acuerdo con un corresponsal de WAFA, cinco civiles murieron en un bombardeo israelí dirigido contra las inmediaciones de la escuela Halima Al-Saadia en Jabalia An-Nazla, en la parte norte de la Franja. Asimismo, otras dos personas perdieron la vida y varias más resultaron heridas, la mayoría de gravedad, en un ataque que alcanzó un apartamento residencial cerca de la intersección de Al-Azhar en el oeste de la ciudad de Gaza.\nAl respecto, António Guterres reconoció que Gaza está repleta de escombros, de cadáveres y de ejemplos de lo que podrían ser graves violaciones del derecho internacional. Añadió que “los niveles de muerte y destrucción en Gaza no tienen paralelo en los últimos tiempos” y calificó la hambruna como “una catástrofe actual”.\nEl genocidio, iniciado en octubre de 2023, ha causado 62.966 fallecidos y 159.266 heridos en Gaza.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gaza-70-martires-masacres-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 234,
+    "message_id": 103071,
+    "date": "2025-08-28T23:55:13+00:00",
+    "text": "teleSUR\nGaza: Más de 70 mártires por masacres israelíes y cuatro fallecidos por hambruna en un día\nhttps://www.telesurtv.net/gaza-70-martires-masacres-israel/",
+    "photo_path": null,
+    "views": 1684,
+    "reactions": {
+      "🤬": 39,
+      "😭": 5
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de salud de gaza reportó 71 fallecidos y 339 heridos en las últimas 24 horas debido a ataques israelíes, según su informe diario. entre las víctimas, 22 personas murieron y 203 resultaron heridas mientras intentaban acceder a ayuda humanitaria, elevando el total por esta causa a 2.180 fallecidos y 16.046 lesionados. desde el 18 de marzo de 2025, el genocidio israelí ha causado 11.121 muertos y 47.225 heridos. el bloqueo total impuesto por israel impide la entrada de alimentos, combustible y suministros médicos, exacerbando la hambruna y la crisis humanitaria. “la hambruna en gaza es el resultado de decisiones deliberadas que desafían la humanidad básica”, declaró el secretario general de la onu, antónio guterres. muchas víctimas permanecen bajo escombros, inaccesibles debido a la ofensiva y las restricciones. fuentes hospitalarias indicaron que 71 palestinos, incluidos 19 solicitantes de ayuda, murieron desde la madrugada de este jueves. defensa civil reportó la destrucción de al menos 1.500 viviendas en la ciudad de gaza, en un intento por desplazar a los residentes. de acuerdo con un corresponsal de wafa, cinco civiles murieron en un bombardeo israelí dirigido contra las inmediaciones de la escuela halima al-saadia en jabalia an-nazla, en la parte norte de la franja. asimismo, otras dos personas perdieron la vida y varias más resultaron heridas, la mayoría de gravedad, en un ataque que alcanzó un apartamento residencial cerca de la intersección de al-azhar en el oeste de la ciudad de gaza. al respecto, antónio guterres reconoció que gaza está repleta de escombros, de cadáveres y de ejemplos de lo que podrían ser graves violaciones del derecho internacional. añadió que “los niveles de muerte y destrucción en gaza no tienen paralelo en los últimos tiempos” y calificó la hambruna como “una catástrofe actual”. el genocidio, iniciado en octubre de 2023, ha causado 62.966 fallecidos y 159.266 heridos en gaza.",
+    "tokens": [
+      "ministerio",
+      "salud",
+      "gaza",
+      "reportó",
+      "71",
+      "fallecidos",
+      "339",
+      "heridos",
+      "últimas",
+      "24",
+      "horas",
+      "debido",
+      "ataques",
+      "israelíes",
+      ",",
+      "según",
+      "informe",
+      "diario",
+      ".",
+      "víctimas",
+      ",",
+      "22",
+      "personas",
+      "murieron",
+      "203",
+      "resultaron",
+      "heridas",
+      "mientras",
+      "intentaban",
+      "acceder",
+      "ayuda",
+      "humanitaria",
+      ",",
+      "elevando",
+      "total",
+      "causa",
+      "2.180",
+      "fallecidos",
+      "16.046",
+      "lesionados",
+      ".",
+      "18",
+      "marzo",
+      "2025",
+      ",",
+      "genocidio",
+      "israelí",
+      "causado",
+      "11.121",
+      "muertos",
+      "47.225",
+      "heridos",
+      ".",
+      "bloqueo",
+      "total",
+      "impuesto",
+      "israel",
+      "impide",
+      "entrada",
+      "alimentos",
+      ",",
+      "combustible",
+      "suministros",
+      "médicos",
+      ",",
+      "exacerbando",
+      "hambruna",
+      "crisis",
+      "humanitaria",
+      ".",
+      "“",
+      "hambruna",
+      "gaza",
+      "resultado",
+      "decisiones",
+      "deliberadas",
+      "desafían",
+      "humanidad",
+      "básica",
+      "”",
+      ",",
+      "declaró",
+      "secretario",
+      "general",
+      "onu",
+      ",",
+      "antónio",
+      "guterres",
+      ".",
+      "muchas",
+      "víctimas",
+      "permanecen",
+      "bajo",
+      "escombros",
+      ",",
+      "inaccesibles",
+      "debido",
+      "ofensiva",
+      "restricciones",
+      ".",
+      "fuentes",
+      "hospitalarias",
+      "indicaron",
+      "71",
+      "palestinos",
+      ",",
+      "incluidos",
+      "19",
+      "solicitantes",
+      "ayuda",
+      ",",
+      "murieron",
+      "madrugada",
+      "jueves",
+      ".",
+      "defensa",
+      "civil",
+      "reportó",
+      "destrucción",
+      "menos",
+      "1.500",
+      "viviendas",
+      "ciudad",
+      "gaza",
+      ",",
+      "intento",
+      "desplazar",
+      "residentes",
+      ".",
+      "acuerdo",
+      "corresponsal",
+      "wafa",
+      ",",
+      "cinco",
+      "civiles",
+      "murieron",
+      "bombardeo",
+      "israelí",
+      "dirigido",
+      "inmediaciones",
+      "escuela",
+      "halima",
+      "al-saadia",
+      "jabalia",
+      "an-nazla",
+      ",",
+      "parte",
+      "norte",
+      "franja",
+      ".",
+      "asimismo",
+      ",",
+      "dos",
+      "personas",
+      "perdieron",
+      "vida",
+      "varias",
+      "resultaron",
+      "heridas",
+      ",",
+      "mayoría",
+      "gravedad",
+      ",",
+      "ataque",
+      "alcanzó",
+      "apartamento",
+      "residencial",
+      "cerca",
+      "intersección",
+      "al-azhar",
+      "oeste",
+      "ciudad",
+      "gaza",
+      ".",
+      "respecto",
+      ",",
+      "antónio",
+      "guterres",
+      "reconoció",
+      "gaza",
+      "repleta",
+      "escombros",
+      ",",
+      "cadáveres",
+      "ejemplos",
+      "podrían",
+      "ser",
+      "graves",
+      "violaciones",
+      "derecho",
+      "internacional",
+      ".",
+      "añadió",
+      "“",
+      "niveles",
+      "muerte",
+      "destrucción",
+      "gaza",
+      "paralelo",
+      "últimos",
+      "tiempos",
+      "”",
+      "calificó",
+      "hambruna",
+      "“",
+      "catástrofe",
+      "actual",
+      "”",
+      ".",
+      "genocidio",
+      ",",
+      "iniciado",
+      "octubre",
+      "2023",
+      ",",
+      "causado",
+      "62.966",
+      "fallecidos",
+      "159.266",
+      "heridos",
+      "gaza",
+      "."
+    ],
+    "token_count": 222,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "IN": 11,
+      "FW": 68,
+      "VBD": 3,
+      "CD": 17,
+      "NNS": 22,
+      "NN": 90,
+      "JJ": 35,
+      "VBP": 9,
+      "VBZ": 5,
+      "RB": 1,
+      "MD": 1,
+      "VB": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 14,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-FW": 7,
+      "FW-NNP": 10,
+      "NNP-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 8,
+      "NNS-CD": 2,
+      "CD-NN": 7,
+      "NN-FW": 12,
+      "FW-FW": 39,
+      "FW-CD": 4,
+      "NNS-JJ": 4,
+      "JJ-NNS": 4,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "JJ-JJ": 5,
+      "JJ-NN": 14,
+      "NN-NN": 46,
+      "NN-NNP": 7,
+      "NNP-VBZ": 4,
+      "VBZ-FW": 1,
+      "NNS-RB": 1,
+      "RB-CD": 1,
+      "NN-NNS": 5,
+      "NN-CD": 5,
+      "CD-JJ": 1,
+      "JJ-NNP": 7,
+      "VBD-JJ": 1,
+      "FW-NN": 9,
+      "NN-JJ": 8,
+      "VBZ-CD": 1,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "NNP-NN": 12,
+      "FW-JJ": 4,
+      "JJ-FW": 4,
+      "VBZ-JJ": 2,
+      "NN-IN": 5,
+      "IN-NNS": 1,
+      "NNS-NNS": 3,
+      "VBP-NN": 1,
+      "VBP-CD": 1,
+      "NNS-IN": 2,
+      "IN-FW": 4,
+      "FW-NNS": 1,
+      "NNS-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "JJ-IN": 1,
+      "IN-JJ": 2,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-CD": 2,
+      "NNS-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 24,
+      "FW-FW-CD": 3,
+      "FW-CD-NNS": 3,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-JJ": 4,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNP": 5,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-CD": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NNS-VBP": 3,
+      "NN-NN-NN": 20,
+      "NN-NN-CD": 3,
+      "NN-CD-NN": 3,
+      "CD-NN-CD": 2,
+      "NN-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-FW": 7,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "VBP-JJ-NN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 4,
+      "JJ-FW-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 4,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-FW-NN": 3,
+      "NN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-FW": 2,
+      "NNP-FW-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 4,
+      "NN-NN-IN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "JJ-JJ-NNP": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "NNS-CD-NNS": 1,
+      "NNS-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 68,
+        "NNP": 44,
+        "JJ": 35,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "FW-FW": 39,
+        "NNP-NNP": 14,
+        "JJ-NN": 14,
+        "NN-FW": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "NN-NN-NN": 20,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 9,
+        "NN-FW-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 88,
+      "PP": 7,
+      "VP": 18,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "VP -> ('debido', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('António', 'NNP') ('Guterres', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP VP ('71', 'CD') NP ('y', 'RB') ('339', 'CD') NP ('en', 'FW') ('las', 'FW') ('últimas', 'FW') ('24', 'CD') NP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "VP -> ('reportó', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0076
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "VP",
+        "text": "reportó"
+      },
+      {
+        "label": "NP",
+        "text": "fallecidos"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "VP",
+        "text": "debido a ataques israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "a ataques israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "según su informe diario"
+      },
+      {
+        "label": "NP",
+        "text": "Entre"
+      },
+      {
+        "label": "VP",
+        "text": "las víctimas"
+      },
+      {
+        "label": "NP",
+        "text": "víctimas"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  (NP Gaza/NNP)\n  (VP reportó/VBD)\n  71/CD\n  (NP fallecidos/NNS)\n  y/RB\n  339/CD\n  (NP heridos/NN)\n  en/FW\n  las/FW\n  últimas/FW\n  24/CD\n  (NP horas/NNS)\n  (VP debido/VBP (NP a/DT ataques/NNS israelíes/NN))\n  ,/,\n  (NP según/JJ su/NN informe/NN diario/NN)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP las/VBZ (NP víctimas/NN))\n  ,/,\n  22/CD\n  (NP personas/NNS)\n  (VP murieron/VBD y/RB)\n  203/CD\n  (NP resultaron/NN heridas/NN mientras/NNS)\n  (ADJP intentaban/JJ)\n  (VP acceder/VBP (NP a/DT ayuda/NN humanitaria/NN))\n  ,/,\n  elevando/FW\n  el/FW\n  (NP total/JJ por/NN esta/NN)\n  (VP causa/VBD)\n  a/DT\n  2.180/CD\n  (NP fallecidos/NN y/NN)\n  16.046/CD\n  (NP lesionados/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Gaza/NNP)\n  :/:\n  (NP EE.UU./NNP)\n  (VP e/VBZ (NP Israel/NNP aislados/NN))\n  en/FW\n  (NP Consejo/NNP)\n  de/FW\n  (NP Seguridad/NNP)\n  mientras/FW\n  (NP crece/NN presión/NN)\n  (NP global/JJ contra/NN la/NN hambruna/NN Desde/NNP)\n  (VP el/VBZ)\n  18/CD\n  de/FW\n  marzo/FW\n  de/IN\n  2025/CD\n  ,/,\n  el/FW\n  (NP genocidio/NN israelí/NN ha/NN causado/NN)\n  11.121/CD\n  (NP muertos/NN)\n  y/RB\n  47.225/CD\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP El/NNP bloqueo/NN)\n  (NP total/JJ impuesto/NN por/NN Israel/NNP impide/NN la/NN)\n  entrada/FW\n  de/FW\n  alimentos/FW\n  ,/,\n  (NP combustible/JJ y/NN suministros/NN médicos/NN)\n  ,/,\n  (NP\n    exacerbando/JJ\n    la/NN\n    hambruna/NN\n    y/NN\n    la/NN\n    crisis/NN\n    humanitaria/NN)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP hambruna/NN en/NN Gaza/NNP)\n  (VP es/VBZ (NP el/JJ resultado/NN))\n  (PP de/IN (NP decisiones/NNS deliberadas/NNS))\n  (VP que/VBP (NP desafían/JJ la/NN humanidad/NN básica/NN ”/NNP))\n  ,/,\n  (NP declaró/NN el/NN secretario/NN)\n  (ADJP general/JJ)\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  ,/,\n  (NP António/NNP Guterres/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          100,
+          117
+        ],
+        "start": 100,
+        "end": 117
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          562,
+          570
+        ],
+        "start": 562,
+        "end": 570
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con un corresponsal de wafa, cinco civiles murieron en un bombardeo israelí dirigido contra las inmediaciones de la escuela halima al-saadia en jabalia an-nazla, en la parte norte de la franja. asimismo, otras dos personas perdieron la vida y varias",
+        "position": [
+          1224,
+          1481
+        ],
+        "start": 1224,
+        "end": 1481
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          796,
+          803
+        ],
+        "start": 796,
+        "end": 803
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1086,
+          1093
+        ],
+        "start": 1086,
+        "end": 1093
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambruna en gaza",
+        "position": [
+          702,
+          718
+        ],
+        "start": 702,
+        "end": 718
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          240,
+          257
+        ],
+        "start": 240,
+        "end": 257
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          832,
+          835
+        ],
+        "start": 832,
+        "end": 835
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela halima al",
+        "position": [
+          1348,
+          1365
+        ],
+        "start": 1348,
+        "end": 1365
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario. entre las",
+        "position": [
+          136,
+          153
+        ],
+        "start": 136,
+        "end": 153
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "corresponsal de wafa",
+        "position": [
+          1239,
+          1259
+        ],
+        "start": 1239,
+        "end": 1259
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          1348,
+          1355
+        ],
+        "start": 1348,
+        "end": 1355
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          493,
+          500
+        ],
+        "start": 493,
+        "end": 500
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela halima",
+        "position": [
+          1348,
+          1362
+        ],
+        "start": 1348,
+        "end": 1362
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "18 de marzo de 2025",
+        "position": [
+          459,
+          478
+        ],
+        "start": 459,
+        "end": 478
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          548,
+          555
+        ],
+        "start": 548,
+        "end": 555
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "22 personas",
+        "position": [
+          164,
+          175
+        ],
+        "start": 164,
+        "end": 175
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "71 fallecidos y 339 heridos",
+        "position": [
+          39,
+          66
+        ],
+        "start": 39,
+        "end": 66
+      }
+    ],
+    "match_count": 18
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "An-Nazla",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Defensa Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al-Azhar",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuentes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "António Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Halima Al-Saadia",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ciudad de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jabalia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gaza",
+        "relacion": "DECLARAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "DECLARAR",
+        "objeto": "António Guterres"
+      },
+      {
+        "sujeto": "Defensa Civil",
+        "relacion": "REPORTAR",
+        "objeto": "Ciudad de Gaza"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "RECONOCER",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5719,
+    "pos": 0.015,
+    "neu": 0.958,
+    "neg": 0.027,
+    "label": "negative"
+  }
+}

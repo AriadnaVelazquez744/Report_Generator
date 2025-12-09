@@ -1,0 +1,816 @@
+{
+  "url": "https://www.telesurtv.net/fuerzas-armadas-de-yemen-toman-represalia-con-objetivo-militar-israeli-dentro-de-palestina/",
+  "title": "Fuerzas Armadas de Yemen toman represalia con objetivo militar israelí dentro de Palestina - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Agresión israelí",
+    "Estados Unidos",
+    "Fuerzas Armadas de Yemen",
+    "Israel"
+  ],
+  "text": "El general de brigada Yahya Saree, portavoz de las Fuerzas Armadas de Yemen, hizo público a medianoche del viernes, el ataque a un objetivo militar israelí en el sur de la región ocupada de Jaffa, empleando un misil balístico hipersónico “Palestina 2”.\nAsimismo, confirmó que la operación, la segunda de esta clase en las últimas 24 horas, alcanzó exitosamente su meta.\nPor otra parte, declaró que las acciones militares realizadas por las fuerzas armadas en respaldo a la Franja de Gaza, sumadas a la restricción de navegación israelí, no se detendrán independientemente de cuánto tiempo persista la agresión de Estados Unidos y persistirán hasta que se detenga la ofensiva al territorio palestino y  se levante el genocidio.\nPreviamente, las fuerzas armadas de Yemen lanzaron un misil hipersónico similar al aeropuerto Ben Gurion de Israel, forzando a cerca de dos millones de israelíes a buscar refugio, entre ellos el primer ministro, Benjamin Netanyahu, quien canceló una reunión en la Knesset.\nEl portavoz de las Fuerzas Armadas de Yemen también indicó que el ejército yemení llevó a cabo una operación militar contra un portaaviones de Estados Unidos y diversos barcos de guerra en el Mar Rojo, y subrayó “el enemigo fracasará en su intento de evitar que Yemen ataque a Israel en respuesta a las masacres que cometió contra nuestro pueblo en Gaza”.\nSaree destacó que las fuerzas militares han intensificado sus ataques contra embarcaciones bélicas adversarias en el Mar Rojo, entre ellas los portaaviones USS Harry Truman, como una respuesta eficaz y responsable ante la “agresión estadounidense contra el Yemen de fe y sabiduría”, por quinto día consecutivo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/fuerzas-armadas-de-yemen-toman-represalia-con-objetivo-militar-israeli-dentro-de-palestina/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 814,
+    "message_id": 89743,
+    "date": "2025-03-21T08:55:07+00:00",
+    "text": "teleSUR\nFuerzas Armadas de Yemen toman represalia con objetivo militar israelí dentro de Palestina\nhttps://www.telesurtv.net/fuerzas-armadas-de-yemen-toman-represalia-con-objetivo-militar-israeli-dentro-de-palestina/",
+    "photo_path": null,
+    "views": 1859,
+    "reactions": {
+      "👏": 39,
+      "❤": 4,
+      "👍": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "el general de brigada yahya saree, portavoz de las fuerzas armadas de yemen, hizo público a medianoche del viernes, el ataque a un objetivo militar israelí en el sur de la región ocupada de jaffa, empleando un misil balístico hipersónico “palestina 2”. asimismo, confirmó que la operación, la segunda de esta clase en las últimas 24 horas, alcanzó exitosamente su meta. por otra parte, declaró que las acciones militares realizadas por las fuerzas armadas en respaldo a la franja de gaza, sumadas a la restricción de navegación israelí, no se detendrán independientemente de cuánto tiempo persista la agresión de estados unidos y persistirán hasta que se detenga la ofensiva al territorio palestino y se levante el genocidio. previamente, las fuerzas armadas de yemen lanzaron un misil hipersónico similar al aeropuerto ben gurion de israel, forzando a cerca de dos millones de israelíes a buscar refugio, entre ellos el primer ministro, benjamin netanyahu, quien canceló una reunión en la knesset. el portavoz de las fuerzas armadas de yemen también indicó que el ejército yemení llevó a cabo una operación militar contra un portaaviones de estados unidos y diversos barcos de guerra en el mar rojo, y subrayó “el enemigo fracasará en su intento de evitar que yemen ataque a israel en respuesta a las masacres que cometió contra nuestro pueblo en gaza”. saree destacó que las fuerzas militares han intensificado sus ataques contra embarcaciones bélicas adversarias en el mar rojo, entre ellas los portaaviones uss harry truman, como una respuesta eficaz y responsable ante la “agresión estadounidense contra el yemen de fe y sabiduría”, por quinto día consecutivo.",
+    "tokens": [
+      "general",
+      "brigada",
+      "yahya",
+      "saree",
+      ",",
+      "portavoz",
+      "fuerzas",
+      "armadas",
+      "yemen",
+      ",",
+      "hizo",
+      "público",
+      "medianoche",
+      "viernes",
+      ",",
+      "ataque",
+      "objetivo",
+      "militar",
+      "israelí",
+      "sur",
+      "región",
+      "ocupada",
+      "jaffa",
+      ",",
+      "empleando",
+      "misil",
+      "balístico",
+      "hipersónico",
+      "“",
+      "palestina",
+      "2",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "confirmó",
+      "operación",
+      ",",
+      "segunda",
+      "clase",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "alcanzó",
+      "exitosamente",
+      "meta",
+      ".",
+      "parte",
+      ",",
+      "declaró",
+      "acciones",
+      "militares",
+      "realizadas",
+      "fuerzas",
+      "armadas",
+      "respaldo",
+      "franja",
+      "gaza",
+      ",",
+      "sumadas",
+      "restricción",
+      "navegación",
+      "israelí",
+      ",",
+      "detendrán",
+      "independientemente",
+      "cuánto",
+      "tiempo",
+      "persista",
+      "agresión",
+      "unidos",
+      "persistirán",
+      "detenga",
+      "ofensiva",
+      "territorio",
+      "palestino",
+      "levante",
+      "genocidio",
+      ".",
+      "previamente",
+      ",",
+      "fuerzas",
+      "armadas",
+      "yemen",
+      "lanzaron",
+      "misil",
+      "hipersónico",
+      "similar",
+      "aeropuerto",
+      "ben",
+      "gurion",
+      "israel",
+      ",",
+      "forzando",
+      "cerca",
+      "dos",
+      "millones",
+      "israelíes",
+      "buscar",
+      "refugio",
+      ",",
+      "primer",
+      "ministro",
+      ",",
+      "benjamin",
+      "netanyahu",
+      ",",
+      "canceló",
+      "reunión",
+      "knesset",
+      ".",
+      "portavoz",
+      "fuerzas",
+      "armadas",
+      "yemen",
+      "indicó",
+      "ejército",
+      "yemení",
+      "llevó",
+      "cabo",
+      "operación",
+      "militar",
+      "portaaviones",
+      "unidos",
+      "diversos",
+      "barcos",
+      "guerra",
+      "mar",
+      "rojo",
+      ",",
+      "subrayó",
+      "“",
+      "enemigo",
+      "fracasará",
+      "intento",
+      "evitar",
+      "yemen",
+      "ataque",
+      "israel",
+      "respuesta",
+      "masacres",
+      "cometió",
+      "pueblo",
+      "gaza",
+      "”",
+      ".",
+      "saree",
+      "destacó",
+      "fuerzas",
+      "militares",
+      "intensificado",
+      "ataques",
+      "embarcaciones",
+      "bélicas",
+      "adversarias",
+      "mar",
+      "rojo",
+      ",",
+      "portaaviones",
+      "uss",
+      "harry",
+      "truman",
+      ",",
+      "respuesta",
+      "eficaz",
+      "responsable",
+      "“",
+      "agresión",
+      "estadounidense",
+      "yemen",
+      "fe",
+      "sabiduría",
+      "”",
+      ",",
+      "quinto",
+      "día",
+      "consecutivo",
+      "."
+    ],
+    "token_count": 179,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "JJ": 36,
+      "FW": 59,
+      "NN": 69,
+      "IN": 13,
+      "VBD": 5,
+      "NNS": 13,
+      "VBP": 7,
+      "CC": 2,
+      "CD": 1,
+      "VBZ": 5,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-FW": 5,
+      "FW-FW": 36,
+      "FW-NNP": 12,
+      "NNP-NNP": 15,
+      "NNP-NN": 8,
+      "NN-FW": 10,
+      "NNP-IN": 3,
+      "IN-NNP": 6,
+      "NNP-VBD": 5,
+      "VBD-JJ": 4,
+      "JJ-NN": 19,
+      "NN-NN": 32,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 6,
+      "JJ-JJ": 5,
+      "NN-IN": 7,
+      "IN-FW": 5,
+      "NNP-CC": 2,
+      "CC-JJ": 2,
+      "NN-NNP": 4,
+      "FW-NN": 7,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 2,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 4,
+      "NN-JJ": 10,
+      "JJ-NNS": 6,
+      "NNS-NNS": 1,
+      "NNP-FW": 3,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBP": 1,
+      "VBD-NN": 1,
+      "FW-NNS": 1,
+      "NNS-IN": 3,
+      "IN-NN": 2,
+      "FW-JJ": 1,
+      "NN-VBZ": 1,
+      "VBP-NNS": 1,
+      "NNS-NNP": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 8,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-VBD": 3,
+      "NNP-VBD-JJ": 4,
+      "VBD-JJ-NN": 3,
+      "JJ-NN-NN": 14,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-NN-NN": 8,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 21,
+      "FW-NNP-CC": 2,
+      "NNP-CC-JJ": 2,
+      "CC-JJ-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 4,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-VBD": 1,
+      "VBD-JJ-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "VBZ-JJ-FW": 1,
+      "NN-JJ-NN": 5,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-NNP": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NN-IN-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-IN-NNP": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 69,
+        "FW": 59,
+        "NNP": 40,
+        "JJ": 36,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 36,
+        "NN-NN": 32,
+        "JJ-NN": 19,
+        "NNP-NNP": 15,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 21,
+        "JJ-NN-NN": 14,
+        "FW-FW-NNP": 9,
+        "FW-NNP-NNP": 8,
+        "NNP-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 73,
+      "ADJP": 1,
+      "PP": 6,
+      "VP": 19
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0381
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Mar', 'NNP') ('Rojo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP ADJP ('de', 'FW') ('brigada', 'FW') NP (',', ',') NP ('de', 'FW') ('las', 'FW') NP PP (',', ',') NP VP (',', ',') VP ('ataque', 'PDT') NP ('en', 'IN') ('el', 'FW') ('sur', 'FW') ('de', 'FW') ('la', 'FW') ('región', 'FW') ('ocupada', 'FW') ('de', 'FW') NP (',', ',') NP NP ('2', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "ADJP -> ('general', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Yahya', 'NNP') ('Saree', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('portavoz', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "ADJP",
+        "text": "general"
+      },
+      {
+        "label": "NP",
+        "text": "Yahya Saree"
+      },
+      {
+        "label": "NP",
+        "text": "portavoz"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas Armadas"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "hizo"
+      },
+      {
+        "label": "VP",
+        "text": "público a medianoche del viernes"
+      },
+      {
+        "label": "NP",
+        "text": "a medianoche del viernes"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "a un objetivo militar israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Jaffa"
+      },
+      {
+        "label": "NP",
+        "text": "empleando"
+      },
+      {
+        "label": "NP",
+        "text": "un misil balístico hipersónico “ Palestina"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  (ADJP general/JJ)\n  de/FW\n  brigada/FW\n  (NP Yahya/NNP Saree/NNP)\n  ,/,\n  (NP portavoz/NN)\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Yemen/NNP))\n  ,/,\n  (NP hizo/NN)\n  (VP público/VBD (NP a/DT medianoche/NN del/NN viernes/NNS))\n  ,/,\n  (VP el/VBP)\n  ataque/PDT\n  (NP a/DT un/JJ objetivo/NN militar/NN israelí/NN)\n  en/IN\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  región/FW\n  ocupada/FW\n  de/FW\n  (NP Jaffa/NNP)\n  ,/,\n  (NP empleando/NN)\n  (NP un/JJ misil/NN balístico/NN hipersónico/NN “/NNP Palestina/NNP)\n  2/CD\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP confirmó/NN que/NN la/NN)\n  operación/FW\n  ,/,\n  la/FW\n  segunda/FW\n  de/FW\n  esta/FW\n  (NP clase/NN)\n  en/FW\n  las/FW\n  últimas/FW\n  24/CD\n  (NP horas/NNS)\n  ,/,\n  (NP alcanzó/JJ exitosamente/NN su/NN meta/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  (VP declaró/VB (NP que/JJ las/NNS acciones/NNS militares/NNS))\n  (VP realizadas/VBP (NP por/JJ las/NNS))\n  (VP fuerzas/VBP armadas/JJ)\n  en/FW\n  respaldo/FW\n  a/DT\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP sumadas/VBD (NP a/DT la/NN restricción/NN))\n  de/IN\n  navegación/FW\n  (NP israelí/NN)\n  ,/,\n  (NP no/DT se/NN)\n  (VP detendrán/VBZ)\n  independientemente/FW\n  de/FW\n  cuánto/FW\n  tiempo/FW\n  (NP persista/NN)\n  la/FW\n  agresión/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP y/NNP persistirán/NN hasta/NN que/NN)\n  se/FW\n  (NP detenga/NN)\n  la/FW\n  ofensiva/FW\n  al/FW\n  (NP\n    territorio/NN\n    palestino/NN\n    y/NN\n    se/NN\n    levante/NN\n    el/NN\n    genocidio/NN)\n  ./.)",
+      "(S\n  (NP Previamente/NNP)\n  ,/,\n  (VP las/VBZ fuerzas/JJ)\n  armadas/FW\n  de/FW\n  (NP Yemen/NNP)\n  lanzaron/CC\n  (NP un/JJ misil/NN hipersónico/NN)\n  (NP similar/JJ al/NN aeropuerto/NN Ben/NNP Gurion/NNP)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (VP forzando/VBZ (NP a/DT cerca/NN))\n  de/IN\n  dos/FW\n  (NP millones/NNS)\n  de/FW\n  israelíes/FW\n  (NP a/DT buscar/NN refugio/NN)\n  ,/,\n  entre/FW\n  ellos/FW\n  el/FW\n  primer/FW\n  (NP ministro/NN)\n  ,/,\n  (NP Benjamin/NNP Netanyahu/NNP)\n  ,/,\n  (NP quien/NN canceló/NN)\n  (NP una/JJ reunión/NN)\n  (PP en/IN (NP la/NN Knesset/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP portavoz/NN)\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Yemen/NNP))\n  (VP también/VBD (NP indicó/JJ que/NN el/NN ejército/NN yemení/NN))\n  (VP\n    llevó/VBZ\n    (NP a/DT cabo/NN)\n    (NP una/JJ operación/NN militar/NN)\n    (NP contra/JJ un/JJ portaaviones/NNS))\n  (PP de/IN (NP Estados/NNP Unidos/NNP y/NNP diversos/NN barcos/NN))\n  de/IN\n  guerra/FW\n  en/FW\n  el/FW\n  (NP Mar/NNP Rojo/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP subrayó/VBD (NP “/NNP))\n  el/FW\n  enemigo/FW\n  (NP fracasará/NN)\n  en/FW\n  su/FW\n  intento/FW\n  de/FW\n  evitar/FW\n  (NP que/JJ Yemen/NNP)\n  (VP ataque/VBD (NP a/DT Israel/NNP))\n  en/FW\n  (NP respuesta/NN)\n  (NP a/DT las/JJ masacres/NNS)\n  (VP que/VBP (NP cometió/JJ contra/JJ nuestro/JJ pueblo/NN))\n  (PP en/IN (NP Gaza/NNP ”/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque a un objetivo militar",
+        "position": [
+          119,
+          147
+        ],
+        "start": 119,
+        "end": 147
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra en el",
+        "position": [
+          1179,
+          1191
+        ],
+        "start": 1179,
+        "end": 1191
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "respuesta eficaz y responsable ante la “agresión",
+        "position": [
+          1539,
+          1587
+        ],
+        "start": 1539,
+        "end": 1587
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          386,
+          393
+        ],
+        "start": 386,
+        "end": 393
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1204,
+          1211
+        ],
+        "start": 1204,
+        "end": 1211
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          1362,
+          1369
+        ],
+        "start": 1362,
+        "end": 1369
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          1192,
+          1195
+        ],
+        "start": 1192,
+        "end": 1195
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          810,
+          820
+        ],
+        "start": 810,
+        "end": 820
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          613,
+          627
+        ],
+        "start": 613,
+        "end": 627
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          148,
+          155
+        ],
+        "start": 148,
+        "end": 155
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región ocupada",
+        "position": [
+          172,
+          186
+        ],
+        "start": 172,
+        "end": 186
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Knesset",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jaffa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Yemen",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "aeropuerto Ben Gurion",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saree",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yahya Saree",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Benjamin Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mar Rojo",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Yahya Saree",
+        "relacion": "HACER",
+        "objeto": "Jaffa"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "HACER",
+        "objeto": "Jaffa"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "DETENER_DECLARAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "LANZAR",
+        "objeto": "aeropuerto Ben Gurion"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "LANZAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "LANZAR",
+        "objeto": "Benjamin Netanyahu"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "LANZAR",
+        "objeto": "Knesset"
+      },
+      {
+        "sujeto": "aeropuerto Ben Gurion",
+        "relacion": "LANZAR",
+        "objeto": "Benjamin Netanyahu"
+      },
+      {
+        "sujeto": "aeropuerto Ben Gurion",
+        "relacion": "LANZAR",
+        "objeto": "Knesset"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR",
+        "objeto": "Benjamin Netanyahu"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR",
+        "objeto": "Knesset"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "INDICAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "INDICAR",
+        "objeto": "Mar Rojo"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "INDICAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "LLEVAR_INDICAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Mar Rojo",
+        "relacion": "LLEVAR_INDICAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Saree",
+        "relacion": "DESTACAR",
+        "objeto": "Mar Rojo"
+      },
+      {
+        "sujeto": "Saree",
+        "relacion": "DESTACAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Mar Rojo",
+        "relacion": "INTENSIFICAR_DESTACAR",
+        "objeto": "Yemen"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

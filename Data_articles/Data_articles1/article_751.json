@@ -1,0 +1,928 @@
+{
+  "url": "https://www.telesurtv.net/mexico-marco-rubio-acuerdo-seguridad/",
+  "title": "México confirma encuentro con Marco Rubio para formalizar acuerdo de seguridad",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Claudia Sheinbaum",
+    "EE.UU.",
+    "Marco Rubio",
+    "México",
+    "Migración",
+    "seguridad"
+  ],
+  "text": "La presidenta de México, Claudia Sheinbaum, confirmó durante su conferencia la visita del secretario de Estado de Estados Unidos, Marco Rubio, el próximo 3 de septiembre, con el objetivo de formalizar un entendimiento bilateral en materia de seguridad.\n\nLEA TAMBIÉN\nMéxico y Brasil firman acuerdos estratégicos en comercio, salud, agricultura y energía\n\nLa mandataria subrayó que el acuerdo se suscribirá dentro del marco del respeto a la soberanía nacional, la confianza mutua y la responsabilidad compartida. En este sentido, destacó que México rechazó propuestas iniciales de Estados Unidos que planteaban una mayor intervención de fuerzas estadounidenses en territorio mexicano.\n“Estados Unidos había planteado mayor intervención en territorio mexicano pero dijimos que no”, afirmó.\n\n\nLa jefa de Estado precisó que jamás vamos a firmar algo que desde nuestra perspectiva viole la soberanía o nuestro territorio, jamás. “Ellos pueden tener intención de hacerlo pero en ese marco, no”.\nDe igual manera, remarcó “son varios meses de trabajo, ellos solicitaban temas que para nosotros no eran aceptables y también nosotros planteábamos que hubiera varios temas en este entendimiento que ellos consideraban no debería estar en este documento. El acuerdo al que se llegó es muy bueno”.\nAunque el tema central de la reunión con el secretario Rubio será la seguridad, la presidenta Sheinbaum enfatizó que planteará la postura de México respecto al trato a los migrantes mexicanos en Estados Unidos.\nAsimismo, se acordó realizar una investigación conjunta sobre el origen de los precursores químicos utilizados para fabricar fentanilo, mientras que el Gobierno mexicano remarcó que habrá un mayor énfasis en campañas preventivas sobre los efectos destructivos de las drogas.\nDe igual manera, ha declarado la presidenta mexicana se reforzarán las medidas por parte de Estados Unidos para reducir el tráfico ilegal de armas hacia México.\nEn otro tema bilateral, respecto al cierre de la frontera por el caso del gusano barrenador, la presidenta comentó que, derivado de reuniones técnicas entre ambos países, se prevé que la apertura total podría ocurrir en noviembre.\nComo medida anticipada, se anunciaron acuerdos con ganaderos de Sonora, Coahuila y Durango para fortalecer la producción de carne para el mercado interno, acuerdos que posteriormente se ampliarán a productores de Chihuahua y Tamaulipas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-marco-rubio-acuerdo-seguridad/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 164,
+    "message_id": 103168,
+    "date": "2025-08-29T23:55:07+00:00",
+    "text": "teleSUR\nMéxico confirma encuentro con Marco Rubio para formalizar acuerdo de seguridad\nhttps://www.telesurtv.net/mexico-marco-rubio-acuerdo-seguridad/",
+    "photo_path": null,
+    "views": 1950,
+    "reactions": {
+      "😁": 19,
+      "👎": 10,
+      "🤔": 9
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de méxico, claudia sheinbaum, confirmó durante su conferencia la visita del secretario de estado de estados unidos, marco rubio, el próximo 3 de septiembre, con el objetivo de formalizar un entendimiento bilateral en materia de seguridad. la mandataria subrayó que el acuerdo se suscribirá dentro del marco del respeto a la soberanía nacional, la confianza mutua y la responsabilidad compartida. en este sentido, destacó que méxico rechazó propuestas iniciales de estados unidos que planteaban una mayor intervención de fuerzas estadounidenses en territorio mexicano. “estados unidos había planteado mayor intervención en territorio mexicano pero dijimos que no”, afirmó. la jefa de estado precisó que jamás vamos a firmar algo que desde nuestra perspectiva viole la soberanía o nuestro territorio, jamás. “ellos pueden tener intención de hacerlo pero en ese marco, no”. de igual manera, remarcó “son varios meses de trabajo, ellos solicitaban temas que para nosotros no eran aceptables y también nosotros planteábamos que hubiera varios temas en este entendimiento que ellos consideraban no debería estar en este documento. el acuerdo al que se llegó es muy bueno”. aunque el tema central de la reunión con el secretario rubio será la seguridad, la presidenta sheinbaum enfatizó que planteará la postura de méxico respecto al trato a los migrantes mexicanos en estados unidos. asimismo, se acordó realizar una investigación conjunta sobre el origen de los precursores químicos utilizados para fabricar fentanilo, mientras que el gobierno mexicano remarcó que habrá un mayor énfasis en campañas preventivas sobre los efectos destructivos de las drogas. de igual manera, ha declarado la presidenta mexicana se reforzarán las medidas por parte de estados unidos para reducir el tráfico ilegal de armas hacia méxico. en otro tema bilateral, respecto al cierre de la frontera por el caso del gusano barrenador, la presidenta comentó que, derivado de reuniones técnicas entre ambos países, se prevé que la apertura total podría ocurrir en noviembre. como medida anticipada, se anunciaron acuerdos con ganaderos de sonora, coahuila y durango para fortalecer la producción de carne para el mercado interno, acuerdos que posteriormente se ampliarán a productores de chihuahua y tamaulipas.",
+    "tokens": [
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "confirmó",
+      "conferencia",
+      "visita",
+      "secretario",
+      "unidos",
+      ",",
+      "marco",
+      "rubio",
+      ",",
+      "próximo",
+      "3",
+      "septiembre",
+      ",",
+      "objetivo",
+      "formalizar",
+      "entendimiento",
+      "bilateral",
+      "materia",
+      "seguridad",
+      ".",
+      "mandataria",
+      "subrayó",
+      "acuerdo",
+      "suscribirá",
+      "dentro",
+      "marco",
+      "respeto",
+      "soberanía",
+      "nacional",
+      ",",
+      "confianza",
+      "mutua",
+      "responsabilidad",
+      "compartida",
+      ".",
+      ",",
+      "destacó",
+      "méxico",
+      "rechazó",
+      "propuestas",
+      "iniciales",
+      "unidos",
+      "planteaban",
+      "mayor",
+      "intervención",
+      "fuerzas",
+      "estadounidenses",
+      "territorio",
+      "mexicano",
+      ".",
+      "“",
+      "unidos",
+      "planteado",
+      "mayor",
+      "intervención",
+      "territorio",
+      "mexicano",
+      "dijimos",
+      "”",
+      ",",
+      "afirmó",
+      ".",
+      "jefa",
+      "precisó",
+      "jamás",
+      "vamos",
+      "firmar",
+      "perspectiva",
+      "viole",
+      "soberanía",
+      "territorio",
+      ",",
+      "jamás",
+      ".",
+      "“",
+      "pueden",
+      "tener",
+      "intención",
+      "hacerlo",
+      "marco",
+      ",",
+      "”",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "remarcó",
+      "“",
+      "varios",
+      "meses",
+      "trabajo",
+      ",",
+      "solicitaban",
+      "temas",
+      "aceptables",
+      "planteábamos",
+      "varios",
+      "temas",
+      "entendimiento",
+      "consideraban",
+      "debería",
+      "documento",
+      ".",
+      "acuerdo",
+      "llegó",
+      "bueno",
+      "”",
+      ".",
+      "aunque",
+      "tema",
+      "central",
+      "reunión",
+      "secretario",
+      "rubio",
+      "seguridad",
+      ",",
+      "presidenta",
+      "sheinbaum",
+      "enfatizó",
+      "planteará",
+      "postura",
+      "méxico",
+      "respecto",
+      "trato",
+      "migrantes",
+      "mexicanos",
+      "unidos",
+      ".",
+      "asimismo",
+      ",",
+      "acordó",
+      "realizar",
+      "investigación",
+      "conjunta",
+      "origen",
+      "precursores",
+      "químicos",
+      "utilizados",
+      "fabricar",
+      "fentanilo",
+      ",",
+      "mientras",
+      "gobierno",
+      "mexicano",
+      "remarcó",
+      "mayor",
+      "énfasis",
+      "campañas",
+      "preventivas",
+      "efectos",
+      "destructivos",
+      "drogas",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "declarado",
+      "presidenta",
+      "mexicana",
+      "reforzarán",
+      "medidas",
+      "parte",
+      "unidos",
+      "reducir",
+      "tráfico",
+      "ilegal",
+      "armas",
+      "hacia",
+      "méxico",
+      ".",
+      "tema",
+      "bilateral",
+      ",",
+      "respecto",
+      "cierre",
+      "frontera",
+      "caso",
+      "gusano",
+      "barrenador",
+      ",",
+      "presidenta",
+      "comentó",
+      ",",
+      "derivado",
+      "reuniones",
+      "técnicas",
+      "ambos",
+      "países",
+      ",",
+      "prevé",
+      "apertura",
+      "total",
+      "podría",
+      "ocurrir",
+      "noviembre",
+      ".",
+      "medida",
+      "anticipada",
+      ",",
+      "anunciaron",
+      "acuerdos",
+      "ganaderos",
+      "sonora",
+      ",",
+      "coahuila",
+      "durango",
+      "fortalecer",
+      "producción",
+      "carne",
+      "mercado",
+      "interno",
+      ",",
+      "acuerdos",
+      "posteriormente",
+      "ampliarán",
+      "productores",
+      "chihuahua",
+      "tamaulipas",
+      "."
+    ],
+    "token_count": 225,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "FW": 60,
+      "NN": 163,
+      "IN": 21,
+      "JJ": 33,
+      "NNS": 12,
+      "VBZ": 4,
+      "VBP": 8,
+      "DT": 4,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 5,
+      "FW-FW": 32,
+      "FW-NNP": 7,
+      "NNP-NNP": 18,
+      "NNP-NN": 17,
+      "NN-NN": 106,
+      "NN-FW": 14,
+      "FW-NN": 15,
+      "NN-IN": 16,
+      "IN-NNP": 5,
+      "IN-FW": 7,
+      "FW-JJ": 5,
+      "JJ-IN": 1,
+      "IN-JJ": 4,
+      "JJ-FW": 2,
+      "NN-NNP": 11,
+      "JJ-NN": 18,
+      "NN-NNS": 4,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNP-JJ": 2,
+      "NN-JJ": 8,
+      "IN-NN": 3,
+      "NNS-VBP": 7,
+      "VBP-NN": 1,
+      "NN-DT": 1,
+      "DT-NN": 3,
+      "JJ-JJ": 4,
+      "JJ-DT": 2,
+      "DT-NNP": 1,
+      "JJ-NNS": 4,
+      "NNS-IN": 3,
+      "IN-DT": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "VBP-JJ": 7,
+      "NN-VBP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "FW-NNS": 1,
+      "JJ-NNP": 2,
+      "IN-NNS": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 15,
+      "NN-NN-NN": 66,
+      "NN-NN-FW": 11,
+      "NN-FW-FW": 7,
+      "FW-FW-NN": 5,
+      "FW-NN-IN": 4,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "FW-FW-FW": 20,
+      "FW-FW-JJ": 2,
+      "FW-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 8,
+      "NN-NN-NNP": 9,
+      "NN-NNP-NNP": 3,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 13,
+      "NN-NNP-NN": 7,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 6,
+      "NN-NN-IN": 10,
+      "NN-IN-NN": 3,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-IN-JJ": 3,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-DT": 1,
+      "JJ-DT-NNP": 1,
+      "DT-NNP-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "NN-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-FW": 2,
+      "FW-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "IN-JJ-NN": 1,
+      "IN-JJ-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 163,
+        "FW": 60,
+        "NNP": 45,
+        "JJ": 33,
+        "IN": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 106,
+        "FW-FW": 32,
+        "NNP-NNP": 18,
+        "JJ-NN": 18,
+        "NNP-NN": 17
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 66,
+        "FW-FW-FW": 20,
+        "NNP-NN-NN": 15,
+        "JJ-NN-NN": 13,
+        "NN-NN-FW": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 91,
+      "PP": 12,
+      "VP": 15,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0365
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0365
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0219
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "NP -> ('igual', 'JJ') ('manera', 'NN')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP ('visita', 'FW') ('del', 'FW') NP PP ('de', 'FW') NP (',', ',') NP (',', ',') VP ('3', 'CD') ('de', 'FW') ('septiembre', 'FW') (',', ',') NP ('objetivo', 'FW') ('de', 'FW') ('formalizar', 'FW') ADJP ('entendimiento', 'IN') ADJP ('en', 'FW') ('materia', 'FW') ('de', 'FW') ('seguridad', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0073
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0073
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0073
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "confirmó durante su conferencia la"
+      },
+      {
+        "label": "NP",
+        "text": "secretario"
+      },
+      {
+        "label": "PP",
+        "text": "de Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Marco Rubio"
+      },
+      {
+        "label": "VP",
+        "text": "el próximo"
+      },
+      {
+        "label": "NP",
+        "text": "con el"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "ADJP",
+        "text": "bilateral"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN México y Brasil firman acuerdos estratégicos"
+      },
+      {
+        "label": "NP",
+        "text": "comercio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP confirmó/NN durante/NN su/NN conferencia/NN la/NN)\n  visita/FW\n  del/FW\n  (NP secretario/NN)\n  (PP de/IN (NP Estado/NNP))\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Marco/NNP Rubio/NNP)\n  ,/,\n  (VP el/VBD próximo/JJ)\n  3/CD\n  de/FW\n  septiembre/FW\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  formalizar/FW\n  (ADJP un/JJ)\n  entendimiento/IN\n  (ADJP bilateral/JJ)\n  en/FW\n  materia/FW\n  de/FW\n  seguridad/FW\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    México/NNP\n    y/NNP\n    Brasil/NNP\n    firman/NN\n    acuerdos/NN\n    estratégicos/NN)\n  en/FW\n  (NP comercio/NN)\n  ,/,\n  (NP salud/NN)\n  ,/,\n  (NP\n    agricultura/NN\n    y/NN\n    energía/NN\n    La/NNP\n    mandataria/NNP\n    subrayó/NN\n    que/NN\n    el/NN\n    acuerdo/NN\n    se/NN\n    suscribirá/NN\n    dentro/NN\n    del/NN\n    marco/NN\n    del/NN\n    respeto/NN)\n  (NP a/DT la/NN)\n  (ADJP soberanía/JJ)\n  (ADJP nacional/JJ)\n  ,/,\n  (NP\n    la/JJ\n    confianza/NN\n    mutua/NN\n    y/NN\n    la/NN\n    responsabilidad/NN\n    compartida/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (NP destacó/NN que/NN México/NNP rechazó/NN propuestas/NNS)\n  (VP iniciales/VBZ)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (NP que/JJ planteaban/NN)\n  (NP una/JJ mayor/NN intervención/NN)\n  (PP de/IN (NP fuerzas/NN estadounidenses/NNS))\n  (VP en/VBP (NP territorio/NN mexicano/NN))\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Estados/NNP\n    Unidos/NNP\n    había/NN\n    planteado/NN\n    mayor/NN\n    intervención/NN)\n  (PP en/IN (NP territorio/NN mexicano/NN pero/NN dijimos/NN que/NN))\n  (NP no/DT ”/NN)\n  ,/,\n  (NP afirmó/NN)\n  ./.)",
+      "(S\n  (NP La/NNP jefa/NN)\n  de/FW\n  (NP Estado/NNP precisó/NN que/NN jamás/NN)\n  (PP vamos/IN (NP a/DT firmar/NN algo/NN que/NN desde/NN))\n  (NP nuestra/JJ perspectiva/JJ viole/NN la/NN)\n  soberanía/FW\n  o/FW\n  nuestro/FW\n  (NP territorio/NN)\n  ,/,\n  (NP jamás/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "NEGOCIACION_ACUERDOS",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1034,
+          1041
+        ],
+        "start": 1034,
+        "end": 1041
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "entendimiento bilateral",
+        "position": [
+          204,
+          227
+        ],
+        "start": 204,
+        "end": 227
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          779,
+          785
+        ],
+        "start": 779,
+        "end": 785
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          807,
+          814
+        ],
+        "start": 807,
+        "end": 814
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "tráfico ilegal de armas",
+        "position": [
+          1893,
+          1916
+        ],
+        "start": 1893,
+        "end": 1916
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          547,
+          554
+        ],
+        "start": 547,
+        "end": 554
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          368,
+          375
+        ],
+        "start": 368,
+        "end": 375
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          528,
+          535
+        ],
+        "start": 528,
+        "end": 535
+      },
+      {
+        "category": "NEGOCIACION_ACUERDOS",
+        "matched_text": "acordó",
+        "position": [
+          1508,
+          1514
+        ],
+        "start": 1508,
+        "end": 1514
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          345,
+          352
+        ],
+        "start": 345,
+        "end": 352
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          275,
+          281
+        ],
+        "start": 275,
+        "end": 281
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          114,
+          128
+        ],
+        "start": 114,
+        "end": 128
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          104,
+          113
+        ],
+        "start": 104,
+        "end": 113
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          439,
+          457
+        ],
+        "start": 439,
+        "end": 457
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sonora",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marco Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "en Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno mexicano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tamaulipas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado de Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chihuahua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Coahuila",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Durango",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "México",
+        "relacion": "CONFIRMAR",
+        "objeto": "Estado de Estados Unidos"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "CONFIRMAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "CONFIRMAR",
+        "objeto": "Estado de Estados Unidos"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "CONFIRMAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "RECHAZAR_DESTACAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Rubio",
+        "relacion": "ENFATIZAR",
+        "objeto": "Sheinbaum"
+      },
+      {
+        "sujeto": "Rubio",
+        "relacion": "ENFATIZAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Rubio",
+        "relacion": "ENFATIZAR",
+        "objeto": "en Estados Unidos"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "ENFATIZAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "ENFATIZAR",
+        "objeto": "en Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "REFORZAR_DECLARAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Sonora",
+        "relacion": "ANUNCIAR",
+        "objeto": "Chihuahua"
+      },
+      {
+        "sujeto": "Sonora",
+        "relacion": "ANUNCIAR",
+        "objeto": "Tamaulipas"
+      },
+      {
+        "sujeto": "Coahuila",
+        "relacion": "ANUNCIAR",
+        "objeto": "Chihuahua"
+      },
+      {
+        "sujeto": "Coahuila",
+        "relacion": "ANUNCIAR",
+        "objeto": "Tamaulipas"
+      },
+      {
+        "sujeto": "Durango",
+        "relacion": "ANUNCIAR",
+        "objeto": "Chihuahua"
+      },
+      {
+        "sujeto": "Durango",
+        "relacion": "ANUNCIAR",
+        "objeto": "Tamaulipas"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.007,
+    "neu": 0.981,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,677 @@
+{
+  "url": "https://www.telesurtv.net/nuevo-ministro-del-interior-de-peru-admite-que-es-investigado-por-presunta-corrupcion/",
+  "title": "Nuevo ministro del Interior de Perú admite que es investigado por presunta corrupción - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "corrupción",
+    "ministro del Interior",
+    "Perú"
+  ],
+  "text": "El ministro del Interior de Perú, Julio Díaz Zulueta, confirmó este miércoles que está siendo investigado desde la Fiscalía del país suramericano por un caso de presunta corrupción.\nMediante una declaración jurada que presentara a la Presidencia del Consejo de Ministros al momento de asumir como nuevo ministro del Interior, Díaz Zulueta admitió que tiene y ha “tenido investigaciones fiscales y/o procesos judiciales notificados en calidad de imputado o cómplice. Tipo penal: negociación incompatible. Estado (del proceso o investigación): en curso”.\nEl funcionario peruano asumió el cargo este lunes, sustituyendo a Juan José Santivañez, quien habría sido separado del cargo por su mala dirección del sector ante la crisis de seguridad ciudadana que vive el país.\n\nVale recalcar que Díaz Zulueta es un general que se encuentra en situación de retiro de las filas de la Policía Nacional, lo que aviva el escándalo en torno a los procesos de corrupción por los que está siendo investigado.\nDurante sus labores dentro esas filas militares en el 2020, el ahora ministro se presume que haya cometido irregularidades cuando se encontraba al frente de la Macro Región Policial del departamento de Lambayeque, al sur del país.\nEn esa misma temporada, la Fiscalía Anticorrupción del país dio inicio a una investigación tras detectarse un presunto delito por negociación incompatible, esto, acusando a Díaz Zulueta de ser responsable de una  compra de alcohol en gel y mascarillas de baja calidad a precios sobrevalorados, artículos que servirían para proteger a los miembros de la policía durante la pandemia de Covid-19.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nuevo-ministro-del-interior-de-peru-admite-que-es-investigado-por-presunta-corrupcion/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 339,
+    "message_id": 90343,
+    "date": "2025-03-27T01:55:13+00:00",
+    "text": "teleSUR\nNuevo ministro del Interior de Perú admite que es investigado por presunta corrupción\nhttps://www.telesurtv.net/nuevo-ministro-del-interior-de-peru-admite-que-es-investigado-por-presunta-corrupcion/",
+    "photo_path": null,
+    "views": 1598,
+    "reactions": {
+      "😁": 23,
+      "🤮": 7,
+      "👏": 3,
+      "👍": 1,
+      "🤣": 1
+    },
+    "total_reactions": 35
+  },
+  "preprocessing": {
+    "cleaned": "el ministro del interior de perú, julio díaz zulueta, confirmó este miércoles que está siendo investigado desde la fiscalía del país suramericano por un caso de presunta corrupción. mediante una declaración jurada que presentara a la presidencia del consejo de ministros al momento de asumir como nuevo ministro del interior, díaz zulueta admitió que tiene y ha “tenido investigaciones fiscales y/o procesos judiciales notificados en calidad de imputado o cómplice. tipo penal: negociación incompatible. estado (del proceso o investigación): en curso”. el funcionario peruano asumió el cargo este lunes, sustituyendo a juan josé santivañez, quien habría sido separado del cargo por su mala dirección del sector ante la crisis de seguridad ciudadana que vive el país. vale recalcar que díaz zulueta es un general que se encuentra en situación de retiro de las filas de la policía nacional, lo que aviva el escándalo en torno a los procesos de corrupción por los que está siendo investigado. durante sus labores dentro esas filas militares en el 2020, el ahora ministro se presume que haya cometido irregularidades cuando se encontraba al frente de la macro región policial del departamento de lambayeque, al sur del país. en esa misma temporada, la fiscalía anticorrupción del país dio inicio a una investigación tras detectarse un presunto delito por negociación incompatible, esto, acusando a díaz zulueta de ser responsable de una compra de alcohol en gel y mascarillas de baja calidad a precios sobrevalorados, artículos que servirían para proteger a los miembros de la policía durante la pandemia de covid-19.",
+    "tokens": [
+      "ministro",
+      "interior",
+      "perú",
+      ",",
+      "julio",
+      "díaz",
+      "zulueta",
+      ",",
+      "confirmó",
+      "miércoles",
+      "siendo",
+      "investigado",
+      "fiscalía",
+      "país",
+      "suramericano",
+      "caso",
+      "presunta",
+      "corrupción",
+      ".",
+      "mediante",
+      "declaración",
+      "jurada",
+      "presentara",
+      "presidencia",
+      "consejo",
+      "ministros",
+      "momento",
+      "asumir",
+      "nuevo",
+      "ministro",
+      "interior",
+      ",",
+      "díaz",
+      "zulueta",
+      "admitió",
+      "“",
+      "investigaciones",
+      "fiscales",
+      "y/o",
+      "procesos",
+      "judiciales",
+      "notificados",
+      "calidad",
+      "imputado",
+      "cómplice",
+      ".",
+      "tipo",
+      "penal",
+      ":",
+      "negociación",
+      "incompatible",
+      ".",
+      "(",
+      "proceso",
+      "investigación",
+      ")",
+      ":",
+      "curso",
+      "”",
+      ".",
+      "funcionario",
+      "peruano",
+      "asumió",
+      "cargo",
+      "lunes",
+      ",",
+      "sustituyendo",
+      "juan",
+      "josé",
+      "santivañez",
+      ",",
+      "sido",
+      "separado",
+      "cargo",
+      "mala",
+      "dirección",
+      "sector",
+      "crisis",
+      "seguridad",
+      "ciudadana",
+      "vive",
+      "país",
+      ".",
+      "vale",
+      "recalcar",
+      "díaz",
+      "zulueta",
+      "general",
+      "encuentra",
+      "situación",
+      "retiro",
+      "filas",
+      "policía",
+      "nacional",
+      ",",
+      "aviva",
+      "escándalo",
+      "torno",
+      "procesos",
+      "corrupción",
+      "siendo",
+      "investigado",
+      ".",
+      "labores",
+      "dentro",
+      "filas",
+      "militares",
+      "2020",
+      ",",
+      "ahora",
+      "ministro",
+      "presume",
+      "cometido",
+      "irregularidades",
+      "encontraba",
+      "frente",
+      "macro",
+      "región",
+      "policial",
+      "departamento",
+      "lambayeque",
+      ",",
+      "sur",
+      "país",
+      ".",
+      "misma",
+      "temporada",
+      ",",
+      "fiscalía",
+      "anticorrupción",
+      "país",
+      "dio",
+      "inicio",
+      "investigación",
+      "tras",
+      "detectarse",
+      "presunto",
+      "delito",
+      "negociación",
+      "incompatible",
+      ",",
+      ",",
+      "acusando",
+      "díaz",
+      "zulueta",
+      "ser",
+      "responsable",
+      "compra",
+      "alcohol",
+      "gel",
+      "mascarillas",
+      "baja",
+      "calidad",
+      "precios",
+      "sobrevalorados",
+      ",",
+      "artículos",
+      "servirían",
+      "proteger",
+      "miembros",
+      "policía",
+      "pandemia",
+      "covid-19",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "PRP": 1,
+      "FW": 50,
+      "NN": 102,
+      "NNS": 9,
+      "VBP": 8,
+      "JJ": 22,
+      "IN": 9,
+      "RB": 2,
+      "VBD": 1,
+      "VBZ": 1,
+      "CD": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-PRP": 1,
+      "PRP-FW": 1,
+      "FW-NNP": 9,
+      "NNP-FW": 7,
+      "NNP-NNP": 13,
+      "NNP-NN": 9,
+      "NN-NN": 60,
+      "NN-NNS": 7,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "JJ-NN": 15,
+      "NN-NNP": 11,
+      "FW-NN": 12,
+      "NN-JJ": 8,
+      "NN-IN": 7,
+      "IN-FW": 5,
+      "NNP-JJ": 2,
+      "NNP-VBP": 1,
+      "VBP-FW": 1,
+      "FW-FW": 26,
+      "NN-FW": 6,
+      "NNS-NNS": 1,
+      "NNS-RB": 2,
+      "RB-VBP": 2,
+      "VBP-NNS": 1,
+      "VBP-NN": 1,
+      "JJ-NNP": 1,
+      "IN-NN": 4,
+      "VBP-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-FW": 4,
+      "FW-JJ": 3,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNS-IN": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-PRP-FW": 1,
+      "PRP-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 37,
+      "NN-NN-NNP": 8,
+      "NN-NNP-FW": 2,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 6,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 17,
+      "FW-FW-NN": 5,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "FW-FW-NNP": 3,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 2,
+      "RB-VBP-NNS": 1,
+      "VBP-NNS-RB": 1,
+      "RB-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-NN": 3,
+      "IN-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "IN-NN-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 50,
+        "NNP": 36,
+        "JJ": 22,
+        "NNS": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 60,
+        "FW-FW": 26,
+        "JJ-NN": 15,
+        "NNP-NNP": 13,
+        "FW-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 37,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 9,
+        "NN-NN-NNP": 8,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 62,
+      "VP": 13,
+      "PP": 4,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Interior', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "S -> NP ('ministro', 'PRP') ('del', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('del', 'FW') NP NP ('de', 'IN') ('presunta', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Perú', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Julio', 'NNP') ('Díaz', 'NNP') ('Zulueta', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('confirmó', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('está', 'JJ') ('siendo', 'NN') ('investigado', 'NN') ('desde', 'NN') ('la', 'NN') ('Fiscalía', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('país', 'NN') ('suramericano', 'NN') ('por', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "Interior"
+      },
+      {
+        "label": "NP",
+        "text": "Perú"
+      },
+      {
+        "label": "NP",
+        "text": "Julio Díaz Zulueta"
+      },
+      {
+        "label": "NP",
+        "text": "confirmó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que está siendo investigado desde la Fiscalía"
+      },
+      {
+        "label": "NP",
+        "text": "está siendo investigado desde la Fiscalía"
+      },
+      {
+        "label": "NP",
+        "text": "país suramericano por"
+      },
+      {
+        "label": "NP",
+        "text": "un caso"
+      },
+      {
+        "label": "NP",
+        "text": "corrupción"
+      },
+      {
+        "label": "NP",
+        "text": "Mediante"
+      },
+      {
+        "label": "NP",
+        "text": "una declaración jurada que"
+      },
+      {
+        "label": "VP",
+        "text": "presentara a la Presidencia"
+      },
+      {
+        "label": "NP",
+        "text": "a la Presidencia"
+      },
+      {
+        "label": "NP",
+        "text": "Consejo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  ministro/PRP\n  del/FW\n  (NP Interior/NNP)\n  de/FW\n  (NP Perú/NNP)\n  ,/,\n  (NP Julio/NNP Díaz/NNP Zulueta/NNP)\n  ,/,\n  (NP confirmó/NN este/NN miércoles/NNS)\n  (VP\n    que/VBP\n    (NP está/JJ siendo/NN investigado/NN desde/NN la/NN Fiscalía/NNP))\n  del/FW\n  (NP país/NN suramericano/NN por/NN)\n  (NP un/JJ caso/NN)\n  de/IN\n  presunta/FW\n  (NP corrupción/NN)\n  ./.)",
+      "(S\n  (NP Mediante/NNP)\n  (NP una/JJ declaración/NN jurada/NN que/NN)\n  (VP presentara/VBZ (NP a/DT la/NN Presidencia/NNP))\n  del/FW\n  (NP Consejo/NNP)\n  de/FW\n  (NP Ministros/NNP)\n  (VP al/VBP)\n  momento/FW\n  de/FW\n  asumir/FW\n  (NP como/NN)\n  nuevo/FW\n  ministro/FW\n  del/FW\n  (NP Interior/NNP)\n  ,/,\n  (NP\n    Díaz/NNP\n    Zulueta/NNP\n    admitió/NN\n    que/NN\n    tiene/NN\n    y/NN\n    ha/NN\n    “/NNP\n    tenido/NN\n    investigaciones/NNS\n    fiscales/NNS)\n  y/o/RB\n  (VP procesos/VBP (NP judiciales/NNS) notificados/RB)\n  (VP en/VBP (NP calidad/NN))\n  de/FW\n  imputado/FW\n  (NP o/JJ cómplice/NN)\n  ./.)",
+      "(S\n  (NP Tipo/NNP penal/NN)\n  :/:\n  (NP negociación/NN incompatible/NN)\n  ./.)",
+      "(S\n  (NP Estado/NNP)\n  (/(\n  del/FW\n  (NP proceso/NN)\n  (PP o/IN (NP investigación/NN))\n  )/)\n  :/:\n  (NP en/JJ curso/NN ”/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    funcionario/NN\n    peruano/NN\n    asumió/NN\n    el/NN\n    cargo/NN\n    este/NN\n    lunes/NNS)\n  ,/,\n  (VP sustituyendo/VBD (NP a/DT Juan/NNP José/NNP Santivañez/NNP))\n  ,/,\n  (NP\n    quien/NN\n    habría/NN\n    sido/NN\n    separado/NN\n    del/NN\n    cargo/NN\n    por/NN\n    su/NN\n    mala/NN\n    dirección/NN\n    del/NN\n    sector/NN)\n  (VP ante/VBD (NP la/JJ crisis/NN))\n  de/IN\n  seguridad/FW\n  (NP ciudadana/NN que/NN)\n  (NP vive/JJ el/NN país/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "precios",
+        "position": [
+          1492,
+          1499
+        ],
+        "start": 1492,
+        "end": 1499
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "corrupción",
+        "position": [
+          170,
+          180
+        ],
+        "start": 170,
+        "end": 180
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "investigado desde la fiscalía del país suramericano por un caso de presunta corrupción",
+        "position": [
+          94,
+          180
+        ],
+        "start": 94,
+        "end": 180
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "escándalo en torno a los procesos de corrupción",
+        "position": [
+          906,
+          953
+        ],
+        "start": 906,
+        "end": 953
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del interior de",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de lambayeque",
+        "position": [
+          1177,
+          1203
+        ],
+        "start": 1177,
+        "end": 1203
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          28,
+          32
+        ],
+        "start": 28,
+        "end": 32
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado (del",
+        "position": [
+          504,
+          515
+        ],
+        "start": 504,
+        "end": 515
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Díaz Zulueta",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Presidencia del Consejo de Ministros",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía Anticorrupción",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Julio Díaz Zulueta",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Macro Región Policial",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Covid-19",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía del país suramericano",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Lambayeque",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juan José Santivañez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía Nacional",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Julio Díaz Zulueta",
+        "relacion": "CONFIRMAR",
+        "objeto": "Fiscalía del país suramericano"
+      },
+      {
+        "sujeto": "Díaz Zulueta",
+        "relacion": "PRESENTAR_ADMITIR",
+        "objeto": "Presidencia del Consejo de Ministros"
+      },
+      {
+        "sujeto": "Fiscalía Anticorrupción",
+        "relacion": "DAR",
+        "objeto": "Díaz Zulueta"
+      },
+      {
+        "sujeto": "Fiscalía Anticorrupción",
+        "relacion": "DAR",
+        "objeto": "Covid-19"
+      },
+      {
+        "sujeto": "Díaz Zulueta",
+        "relacion": "ACUSAR_DAR",
+        "objeto": "Covid-19"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4019,
+    "pos": 0.01,
+    "neu": 0.974,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,940 @@
+{
+  "url": "https://www.telesurtv.net/nicaragua-pacifico-caribe-historico-puente/",
+  "title": "Nicaragua unirá Pacífico y Caribe con histórico puente - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Asamblea Nacional",
+    "Fondo de Kuwait",
+    "Gobierno de Nicaragua",
+    "Nicaragua",
+    "Prinzapolka",
+    "proyecto clave"
+  ],
+  "text": "El Gobierno de Nicaragua impulsa la ampliación de la conexión entre el Pacífico y el Caribe con la construcción del puente Prinzapolka, un proyecto clave que forma parte del Plan Nacional de Lucha contra la Pobreza 2020-2026.\nLa Asamblea Nacional aprobó recientemente un convenio de crédito por 13 millones de dólares con el Fondo de Kuwait para el Desarrollo Económico Árabe, asegurando así los recursos para esta infraestructura vital. Wálmaro Gutiérrez, presidente de la Comisión de Economía y Presupuesto del Parlamento, destacó la relevancia del proyecto, afirmando que es la primera vez en más de 150 años de historia republicana que se materializa el sueño de unir ambas regiones con una vía terrestre de primer nivel.\n\nEl nuevo puente Prinzapolka, que tendrá 115 metros de longitud, será construido con concreto reforzado y una superestructura de acero, diseñada para garantizar un transporte terrestre confiable durante todo el año, incluso ante los efectos del cambio climático en una zona tropical. Su robusta construcción busca asegurar la conectividad y el flujo comercial sin interrupciones, fortaleciendo la resiliencia de la infraestructura nacional.\nUbicada a ocho kilómetros del municipio de Siuna, en el Triángulo Minero, la obra se sitúa sobre un corredor estratégico que conecta esta región productiva directamente con la capital, Managua. El proyecto busca dinamizar el comercio, el turismo y la actividad económica en una zona históricamente aislada, mejorando las condiciones de vida de la población y potenciando las capacidades productivas de la región.\n\n\nEl Gobierno Sandinista refuerza con este proyecto su política de interconexión nacional, con un énfasis especial en las zonas productivas. La reducción de los costos logísticos y el impulso a la actividad agropecuaria, industrial, minera y turística son objetivos centrales de este tipo de obras, demostrando el compromiso de la administración con el desarrollo integral y equitativo de todo el territorio nicaragüense.\nLa financiación del proyecto es la tercera cooperación crediticia de Nicaragua con el Fondo de Kuwait, una institución que apoya el desarrollo en países en crecimiento. Esta colaboración previa incluyó dos préstamos para la construcción y equipamiento de un hospital en Chinandega, lo que subraya la solidez de una relación basada en la asistencia técnica y el financiamiento de proyectos que mejoran directamente la vida de las comunidades.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nicaragua-pacifico-caribe-historico-puente/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 102,
+    "message_id": 104596,
+    "date": "2025-09-14T19:55:14+00:00",
+    "text": "teleSUR\nNicaragua unirá Pacífico y Caribe con histórico puente\nhttps://www.telesurtv.net/nicaragua-pacifico-caribe-historico-puente/",
+    "photo_path": null,
+    "views": 1937,
+    "reactions": {
+      "👍": 50,
+      "👏": 9
+    },
+    "total_reactions": 59
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de nicaragua impulsa la ampliación de la conexión entre el pacífico y el caribe con la construcción del puente prinzapolka, un proyecto clave que forma parte del plan nacional de lucha contra la pobreza 2020-2026. la asamblea nacional aprobó recientemente un convenio de crédito por 13 millones de dólares con el fondo de kuwait para el desarrollo económico árabe, asegurando así los recursos para esta infraestructura vital. wálmaro gutiérrez, presidente de la comisión de economía y presupuesto del parlamento, destacó la relevancia del proyecto, afirmando que es la primera vez en más de 150 años de historia republicana que se materializa el sueño de unir ambas regiones con una vía terrestre de primer nivel. el nuevo puente prinzapolka, que tendrá 115 metros de longitud, será construido con concreto reforzado y una superestructura de acero, diseñada para garantizar un transporte terrestre confiable durante todo el año, incluso ante los efectos del cambio climático en una zona tropical. su robusta construcción busca asegurar la conectividad y el flujo comercial sin interrupciones, fortaleciendo la resiliencia de la infraestructura nacional. ubicada a ocho kilómetros del municipio de siuna, en el triángulo minero, la obra se sitúa sobre un corredor estratégico que conecta esta región productiva directamente con la capital, managua. el proyecto busca dinamizar el comercio, el turismo y la actividad económica en una zona históricamente aislada, mejorando las condiciones de vida de la población y potenciando las capacidades productivas de la región. el gobierno sandinista refuerza con este proyecto su política de interconexión nacional, con un énfasis especial en las zonas productivas. la reducción de los costos logísticos y el impulso a la actividad agropecuaria, industrial, minera y turística son objetivos centrales de este tipo de obras, demostrando el compromiso de la administración con el desarrollo integral y equitativo de todo el territorio nicaragüense. la financiación del proyecto es la tercera cooperación crediticia de nicaragua con el fondo de kuwait, una institución que apoya el desarrollo en países en crecimiento. esta colaboración previa incluyó dos préstamos para la construcción y equipamiento de un hospital en chinandega, lo que subraya la solidez de una relación basada en la asistencia técnica y el financiamiento de proyectos que mejoran directamente la vida de las comunidades.",
+    "tokens": [
+      "gobierno",
+      "nicaragua",
+      "impulsa",
+      "ampliación",
+      "conexión",
+      "pacífico",
+      "caribe",
+      "construcción",
+      "puente",
+      "prinzapolka",
+      ",",
+      "proyecto",
+      "clave",
+      "forma",
+      "parte",
+      "plan",
+      "nacional",
+      "lucha",
+      "pobreza",
+      "2020-2026.",
+      "asamblea",
+      "nacional",
+      "aprobó",
+      "recientemente",
+      "convenio",
+      "crédito",
+      "13",
+      "millones",
+      "dólares",
+      "fondo",
+      "kuwait",
+      "desarrollo",
+      "económico",
+      "árabe",
+      ",",
+      "asegurando",
+      "así",
+      "recursos",
+      "infraestructura",
+      "vital",
+      ".",
+      "wálmaro",
+      "gutiérrez",
+      ",",
+      "presidente",
+      "comisión",
+      "economía",
+      "presupuesto",
+      "parlamento",
+      ",",
+      "destacó",
+      "relevancia",
+      "proyecto",
+      ",",
+      "afirmando",
+      "primera",
+      "vez",
+      "150",
+      "años",
+      "historia",
+      "republicana",
+      "materializa",
+      "sueño",
+      "unir",
+      "ambas",
+      "regiones",
+      "vía",
+      "terrestre",
+      "primer",
+      "nivel",
+      ".",
+      "nuevo",
+      "puente",
+      "prinzapolka",
+      ",",
+      "115",
+      "metros",
+      "longitud",
+      ",",
+      "construido",
+      "concreto",
+      "reforzado",
+      "superestructura",
+      "acero",
+      ",",
+      "diseñada",
+      "garantizar",
+      "transporte",
+      "terrestre",
+      "confiable",
+      "año",
+      ",",
+      "incluso",
+      "efectos",
+      "cambio",
+      "climático",
+      "zona",
+      "tropical",
+      ".",
+      "robusta",
+      "construcción",
+      "busca",
+      "asegurar",
+      "conectividad",
+      "flujo",
+      "comercial",
+      "interrupciones",
+      ",",
+      "fortaleciendo",
+      "resiliencia",
+      "infraestructura",
+      "nacional",
+      ".",
+      "ubicada",
+      "ocho",
+      "kilómetros",
+      "municipio",
+      "siuna",
+      ",",
+      "triángulo",
+      "minero",
+      ",",
+      "obra",
+      "sitúa",
+      "corredor",
+      "estratégico",
+      "conecta",
+      "región",
+      "productiva",
+      "directamente",
+      "capital",
+      ",",
+      "managua",
+      ".",
+      "proyecto",
+      "busca",
+      "dinamizar",
+      "comercio",
+      ",",
+      "turismo",
+      "actividad",
+      "económica",
+      "zona",
+      "históricamente",
+      "aislada",
+      ",",
+      "mejorando",
+      "condiciones",
+      "vida",
+      "población",
+      "potenciando",
+      "capacidades",
+      "productivas",
+      "región",
+      ".",
+      "gobierno",
+      "sandinista",
+      "refuerza",
+      "proyecto",
+      "política",
+      "interconexión",
+      "nacional",
+      ",",
+      "énfasis",
+      "especial",
+      "zonas",
+      "productivas",
+      ".",
+      "reducción",
+      "costos",
+      "logísticos",
+      "impulso",
+      "actividad",
+      "agropecuaria",
+      ",",
+      "industrial",
+      ",",
+      "minera",
+      "turística",
+      "objetivos",
+      "centrales",
+      "tipo",
+      "obras",
+      ",",
+      "demostrando",
+      "compromiso",
+      "administración",
+      "desarrollo",
+      "integral",
+      "equitativo",
+      "territorio",
+      "nicaragüense",
+      ".",
+      "financiación",
+      "proyecto",
+      "tercera",
+      "cooperación",
+      "crediticia",
+      "nicaragua",
+      "fondo",
+      "kuwait",
+      ",",
+      "institución",
+      "apoya",
+      "desarrollo",
+      "países",
+      "crecimiento",
+      ".",
+      "colaboración",
+      "previa",
+      "incluyó",
+      "dos",
+      "préstamos",
+      "construcción",
+      "equipamiento",
+      "hospital",
+      "chinandega",
+      ",",
+      "subraya",
+      "solidez",
+      "relación",
+      "basada",
+      "asistencia",
+      "técnica",
+      "financiamiento",
+      "proyectos",
+      "mejoran",
+      "directamente",
+      "vida",
+      "comunidades",
+      "."
+    ],
+    "token_count": 231,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "IN": 11,
+      "NN": 134,
+      "FW": 109,
+      "JJ": 31,
+      "VBP": 7,
+      "CD": 4,
+      "NNS": 10,
+      "VBD": 1,
+      "MD": 1,
+      "VB": 1,
+      "VBZ": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 13,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-NN": 14,
+      "NN-NN": 83,
+      "NN-FW": 16,
+      "FW-FW": 70,
+      "FW-NNP": 13,
+      "NNP-FW": 10,
+      "NN-NNP": 9,
+      "NNP-JJ": 4,
+      "JJ-NN": 19,
+      "NN-VBP": 3,
+      "VBP-NN": 1,
+      "NN-JJ": 10,
+      "JJ-NNP": 7,
+      "NN-IN": 9,
+      "IN-NN": 1,
+      "NN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-FW": 4,
+      "FW-NNS": 5,
+      "NNS-VBP": 4,
+      "VBP-JJ": 5,
+      "FW-NN": 14,
+      "FW-CD": 1,
+      "CD-NN": 2,
+      "FW-JJ": 5,
+      "JJ-NNS": 2,
+      "IN-FW": 5,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "IN-JJ": 3,
+      "JJ-JJ": 2,
+      "NN-NNS": 1,
+      "JJ-FW": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-FW": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "NNS-IN": 1,
+      "VBZ-FW": 2,
+      "FW-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NN": 12,
+      "NN-NN-FW": 10,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 50,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NN": 5,
+      "NN-NN-NN": 50,
+      "NN-NN-NNP": 6,
+      "NN-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 12,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 4,
+      "NNP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 7,
+      "JJ-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-CD": 2,
+      "NN-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-JJ-NNP": 1,
+      "NNP-FW-FW": 4,
+      "FW-NNP-NNP": 3,
+      "FW-FW-NN": 8,
+      "FW-NN-NN": 8,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 3,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NNS-FW-FW": 3,
+      "IN-FW-NN": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "JJ-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "FW-JJ-NN": 2,
+      "NN-FW-NN": 4,
+      "FW-NN-NNP": 2,
+      "IN-JJ-NN": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-NNS": 1,
+      "FW-NNS-FW": 2,
+      "FW-FW-NNS": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "NN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "NN-JJ-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-IN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-JJ": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 134,
+        "FW": 109,
+        "NNP": 45,
+        "JJ": 31,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 83,
+        "FW-FW": 70,
+        "JJ-NN": 19,
+        "NN-FW": 16,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 50,
+        "NN-NN-NN": 50,
+        "NNP-NN-NN": 12,
+        "JJ-NN-NN": 12,
+        "NN-NN-FW": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 7,
+      "VP": 10,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0439
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('con', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "ADJP -> ('nacional', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP PP ('ampliación', 'FW') ('de', 'FW') ('la', 'FW') ('conexión', 'FW') ('entre', 'FW') ('el', 'FW') NP ('y', 'CC') NP (',', ',') NP VP ('de', 'FW') NP ('2020-2026', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Nicaragua', 'NNP') ('impulsa', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Pacífico', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('Caribe', 'NNP') ('con', 'NN') ('la', 'NN') ('construcción', 'NN') ('del', 'NN') ('puente', 'NN') ('Prinzapolka', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Nicaragua impulsa la"
+      },
+      {
+        "label": "NP",
+        "text": "Nicaragua impulsa la"
+      },
+      {
+        "label": "NP",
+        "text": "Pacífico"
+      },
+      {
+        "label": "NP",
+        "text": "el Caribe con la construcción del puente Prinzapolka"
+      },
+      {
+        "label": "NP",
+        "text": "un proyecto"
+      },
+      {
+        "label": "VP",
+        "text": "clave que forma parte del Plan Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "forma parte del Plan Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Lucha contra la Pobreza"
+      },
+      {
+        "label": "NP",
+        "text": "La Asamblea Nacional aprobó recientemente"
+      },
+      {
+        "label": "NP",
+        "text": "un convenio"
+      },
+      {
+        "label": "PP",
+        "text": "de crédito por"
+      },
+      {
+        "label": "NP",
+        "text": "crédito por"
+      },
+      {
+        "label": "NP",
+        "text": "millones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Nicaragua/NNP impulsa/NN la/NN))\n  ampliación/FW\n  de/FW\n  la/FW\n  conexión/FW\n  entre/FW\n  el/FW\n  (NP Pacífico/NNP)\n  y/CC\n  (NP\n    el/JJ\n    Caribe/NNP\n    con/NN\n    la/NN\n    construcción/NN\n    del/NN\n    puente/NN\n    Prinzapolka/NNP)\n  ,/,\n  (NP un/JJ proyecto/NN)\n  (VP\n    clave/VBP\n    (NP que/NN)\n    (NP forma/JJ parte/NN del/NN Plan/NNP Nacional/NNP))\n  de/FW\n  (NP Lucha/NNP contra/NN la/NN Pobreza/NNP)\n  2020-2026/CD\n  ./.)",
+      "(S\n  (NP La/NNP Asamblea/NNP Nacional/NNP aprobó/NN recientemente/NN)\n  (NP un/JJ convenio/NN)\n  (PP de/IN (NP crédito/NN por/NN))\n  13/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  (VP con/VBP (NP el/JJ Fondo/NNP))\n  de/FW\n  (NP\n    Kuwait/NNP\n    para/NN\n    el/NN\n    Desarrollo/NNP\n    Económico/NNP\n    Árabe/NNP)\n  ,/,\n  (NP\n    asegurando/NN\n    así/NN\n    los/NN\n    recursos/NN\n    para/NN\n    esta/NN\n    infraestructura/NN\n    vital/NN)\n  ./.)",
+      "(S\n  (NP Wálmaro/NNP Gutiérrez/NNP)\n  ,/,\n  presidente/FW\n  de/FW\n  la/FW\n  (NP Comisión/NNP)\n  de/FW\n  (NP Economía/NNP)\n  y/CC\n  (NP Presupuesto/NNP)\n  del/FW\n  (NP Parlamento/NNP)\n  ,/,\n  (NP destacó/NN la/NN)\n  relevancia/FW\n  del/FW\n  (NP proyecto/NN)\n  ,/,\n  (NP afirmando/JJ que/NN es/NN la/NN primera/NN vez/NN)\n  en/FW\n  más/FW\n  de/FW\n  150/CD\n  (NP años/NN)\n  de/FW\n  historia/FW\n  republicana/FW\n  que/FW\n  se/FW\n  materializa/FW\n  el/FW\n  sueño/FW\n  de/FW\n  unir/FW\n  (NP ambas/JJ regiones/NNS)\n  (VP con/VBP (NP una/JJ vía/NN terrestre/NN))\n  de/IN\n  primer/FW\n  (NP nivel/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  nuevo/CC\n  (NP puente/JJ Prinzapolka/NNP)\n  ,/,\n  (NP que/NN)\n  (VP tendrá/VBD)\n  115/CD\n  (NP metros/NNS)\n  de/FW\n  longitud/FW\n  ,/,\n  será/FW\n  (NP construido/NN con/NN concreto/NN reforzado/NN y/NN)\n  (NP una/JJ superestructura/NN)\n  (PP de/IN (NP acero/NN))\n  ,/,\n  (NP diseñada/NN para/NN garantizar/NN)\n  (NP un/JJ transporte/NN terrestre/NN)\n  (NP confiable/JJ durante/NN todo/NN el/NN año/NN)\n  ,/,\n  (NP incluso/JJ ante/NN los/NN)\n  (NP efectos/JJ del/NN cambio/NN climático/NN)\n  (PP en/IN (NP una/JJ zona/NNP tropical/NN))\n  ./.)",
+      "(S\n  (NP\n    Su/NNP\n    robusta/NN\n    construcción/NN\n    busca/NN\n    asegurar/NN\n    la/NN\n    conectividad/NN\n    y/NN\n    el/NN)\n  (VP flujo/VBP (NP comercial/JJ sin/NN interrupciones/NNS))\n  ,/,\n  (ADJP fortaleciendo/JJ)\n  la/FW\n  resiliencia/FW\n  de/FW\n  la/FW\n  infraestructura/FW\n  (ADJP nacional/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "crédito",
+        "position": [
+          283,
+          290
+        ],
+        "start": 283,
+        "end": 290
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desarrollo económico",
+        "position": [
+          349,
+          369
+        ],
+        "start": 349,
+        "end": 369
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación crediticia de nicaragua con el fondo de kuwait, una institución que apoya el desarrollo en países en crecimiento. esta colaboración previa incluyó dos préstamos para la construcción y equipamiento",
+        "position": [
+          2045,
+          2253
+        ],
+        "start": 2045,
+        "end": 2253
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación crediticia de nicaragua con el fondo de kuwait, una institución que apoya el desarrollo en países",
+        "position": [
+          2045,
+          2154
+        ],
+        "start": 2045,
+        "end": 2154
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "aprobó recientemente un convenio de crédito por 13 millones de dólares con el fondo de kuwait para el desarrollo económico árabe, asegurando así los recursos para esta infraestructura vital. wálmaro gutiérrez, presidente de la comisión de economía y presupuesto del parlamento, destacó la relevancia del proyecto",
+        "position": [
+          247,
+          559
+        ],
+        "start": 247,
+        "end": 559
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "asamblea nacional aprobó",
+        "position": [
+          229,
+          253
+        ],
+        "start": 229,
+        "end": 253
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "construcción del puente",
+        "position": [
+          99,
+          122
+        ],
+        "start": 99,
+        "end": 122
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "cambio climático",
+        "position": [
+          971,
+          987
+        ],
+        "start": 971,
+        "end": 987
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de nicaragua impulsa",
+        "position": [
+          3,
+          32
+        ],
+        "start": 3,
+        "end": 32
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          457,
+          473
+        ],
+        "start": 457,
+        "end": 473
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          229,
+          246
+        ],
+        "start": 229,
+        "end": 246
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          247,
+          253
+        ],
+        "start": 247,
+        "end": 253
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          525,
+          532
+        ],
+        "start": 525,
+        "end": 532
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          2260,
+          2268
+        ],
+        "start": 2260,
+        "end": 2268
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          15,
+          24
+        ],
+        "start": 15,
+        "end": 24
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "managua",
+        "position": [
+          1352,
+          1359
+        ],
+        "start": 1352,
+        "end": 1359
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "pacífico",
+        "position": [
+          71,
+          79
+        ],
+        "start": 71,
+        "end": 79
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona tropical",
+        "position": [
+          995,
+          1008
+        ],
+        "start": 995,
+        "end": 1008
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital en",
+        "position": [
+          2260,
+          2271
+        ],
+        "start": 2260,
+        "end": 2271
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          254,
+          267
+        ],
+        "start": 254,
+        "end": 267
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "13 millones",
+        "position": [
+          295,
+          306
+        ],
+        "start": 295,
+        "end": 306
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 150",
+        "position": [
+          596,
+          606
+        ],
+        "start": 596,
+        "end": 606
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "13 millones de dólares",
+        "position": [
+          295,
+          317
+        ],
+        "start": 295,
+        "end": 317
+      }
+    ],
+    "match_count": 23
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobierno Sandinista",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo de Kuwait para el Desarrollo Económico Árabe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comisión de Economía y Presupuesto del Parlamento",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Managua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "puente Prinzapolka",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Triángulo Minero",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo de Kuwait",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pacífico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wálmaro Gutiérrez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Siuna",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chinandega",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Nicaragua",
+        "relacion": "IMPULSAR",
+        "objeto": "Pacífico"
+      },
+      {
+        "sujeto": "Gobierno de Nicaragua",
+        "relacion": "IMPULSAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Gobierno de Nicaragua",
+        "relacion": "IMPULSAR",
+        "objeto": "puente Prinzapolka"
+      },
+      {
+        "sujeto": "Asamblea Nacional",
+        "relacion": "APROBAR",
+        "objeto": "Fondo de Kuwait para el Desarrollo Económico Árabe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.34,
+    "pos": 0.006,
+    "neu": 0.984,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

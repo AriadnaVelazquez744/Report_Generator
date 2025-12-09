@@ -1,0 +1,800 @@
+{
+  "url": "https://www.telesurtv.net/los-incendios-en-asuncion-paraguay-fueron-provocados-de-manera-delictiva-y-criminal/",
+  "title": "Los incendios en Asunción, Paraguay, fueron provocados de \"manera delictiva y criminal\" - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Asunción",
+    "bomberos",
+    "incendios",
+    "incendios en Paraguay"
+  ],
+  "text": "El director de Prevención de Incendios de la Municipalidad de Asunción, Paraguay, declaró que los incendios que se observan desde el sábado en las proximidades de la Costanera Norte de la capital fueron causados con anticipación y sostuvo que ya existen sospechosos.\nLos bomberos han estado trabajando casi 24 horas en la región y han evacuado aproximadamente 30 personas.\nEn una entrevista a medios el domingo, Alejandro Buzó, responsable de Prevención de Incendios de la Municipalidad de Asunción, abordó los esfuerzos actuales para tratar de controlar los nuevos incidentes que se presentan en la región de la Costanera Norte de la capital.\nTras el suceso de un incendio de gran envergadura el sábado, en el área del banco San Miguel y la bahía de Asunción, que fue controlado tras varias horas de lucha contra las llamas por bomberos, el domingo volvió a aparecer fuego en dichas zonas, impactando principalmente a los vertederos de la región.\n“Ahora es basura lo que se está quemando”, expresó Buzó, quien señaló que unas 30 personas que residen cerca de la zona impactada fueron evacuadas de manera “preventiva” al próximo terreno del Club Mbiguá.\nAsimismo, destacó que hasta ahora no se han registrado individuos afectados en su salud por el fuego o la humareda provocada por el incendio; sin embargo, este ha provocado un cierre temporal del tráfico vehicular en la avenida Costanera, debido a la disminución de la visibilidad.\nPor otra parte, el funcionario municipal afirmó que el sábado se observaron “personas con los rostros cubiertos” saliendo de un área de fuego e indicó que “no podemos hablar de accidentalidad”, sino de “premeditación”, al referirse a la causa de los incendios del sábado y domingo.\n“Hay gente que de manera delictiva y criminal está prendiendo estos fuegos”, enfatizó Alejandro Buzó.\nDe igual manera, afirmó que ya se pidió al Ministerio Público que inicie una investigación, y agregó que los incendios provocados constituyen “un problema de seguridad pública”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/los-incendios-en-asuncion-paraguay-fueron-provocados-de-manera-delictiva-y-criminal/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 914,
+    "message_id": 84873,
+    "date": "2025-01-20T06:55:12+00:00",
+    "text": "teleSUR\nLos incendios en Asunción, Paraguay, fueron provocados de «manera delictiva y criminal»\nhttps://www.telesurtv.net/los-incendios-en-asuncion-paraguay-fueron-provocados-de-manera-delictiva-y-criminal/",
+    "photo_path": null,
+    "views": 2321,
+    "reactions": {
+      "🤬": 40,
+      "🔥": 3,
+      "😢": 2,
+      "🤯": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "el director de prevención de incendios de la municipalidad de asunción, paraguay, declaró que los incendios que se observan desde el sábado en las proximidades de la costanera norte de la capital fueron causados con anticipación y sostuvo que ya existen sospechosos. los bomberos han estado trabajando casi 24 horas en la región y han evacuado aproximadamente 30 personas. en una entrevista a medios el domingo, alejandro buzó, responsable de prevención de incendios de la municipalidad de asunción, abordó los esfuerzos actuales para tratar de controlar los nuevos incidentes que se presentan en la región de la costanera norte de la capital. tras el suceso de un incendio de gran envergadura el sábado, en el área del banco san miguel y la bahía de asunción, que fue controlado tras varias horas de lucha contra las llamas por bomberos, el domingo volvió a aparecer fuego en dichas zonas, impactando principalmente a los vertederos de la región. “ahora es basura lo que se está quemando”, expresó buzó, quien señaló que unas 30 personas que residen cerca de la zona impactada fueron evacuadas de manera “preventiva” al próximo terreno del club mbiguá. asimismo, destacó que hasta ahora no se han registrado individuos afectados en su salud por el fuego o la humareda provocada por el incendio; sin embargo, este ha provocado un cierre temporal del tráfico vehicular en la avenida costanera, debido a la disminución de la visibilidad. por otra parte, el funcionario municipal afirmó que el sábado se observaron “personas con los rostros cubiertos” saliendo de un área de fuego e indicó que “no podemos hablar de accidentalidad”, sino de “premeditación”, al referirse a la causa de los incendios del sábado y domingo. “hay gente que de manera delictiva y criminal está prendiendo estos fuegos”, enfatizó alejandro buzó. de igual manera, afirmó que ya se pidió al ministerio público que inicie una investigación, y agregó que los incendios provocados constituyen “un problema de seguridad pública”.",
+    "tokens": [
+      "director",
+      "prevención",
+      "incendios",
+      "municipalidad",
+      "asunción",
+      ",",
+      "paraguay",
+      ",",
+      "declaró",
+      "incendios",
+      "observan",
+      "sábado",
+      "proximidades",
+      "costanera",
+      "norte",
+      "capital",
+      "causados",
+      "anticipación",
+      "sostuvo",
+      "existen",
+      "sospechosos",
+      ".",
+      "bomberos",
+      "trabajando",
+      "casi",
+      "24",
+      "horas",
+      "región",
+      "evacuado",
+      "aproximadamente",
+      "30",
+      "personas",
+      ".",
+      "entrevista",
+      "medios",
+      "domingo",
+      ",",
+      "alejandro",
+      "buzó",
+      ",",
+      "responsable",
+      "prevención",
+      "incendios",
+      "municipalidad",
+      "asunción",
+      ",",
+      "abordó",
+      "esfuerzos",
+      "actuales",
+      "tratar",
+      "controlar",
+      "nuevos",
+      "incidentes",
+      "presentan",
+      "región",
+      "costanera",
+      "norte",
+      "capital",
+      ".",
+      "tras",
+      "suceso",
+      "incendio",
+      "gran",
+      "envergadura",
+      "sábado",
+      ",",
+      "área",
+      "banco",
+      "san",
+      "miguel",
+      "bahía",
+      "asunción",
+      ",",
+      "controlado",
+      "tras",
+      "varias",
+      "horas",
+      "lucha",
+      "llamas",
+      "bomberos",
+      ",",
+      "domingo",
+      "volvió",
+      "aparecer",
+      "fuego",
+      "dichas",
+      "zonas",
+      ",",
+      "impactando",
+      "principalmente",
+      "vertederos",
+      "región",
+      ".",
+      "“",
+      "ahora",
+      "basura",
+      "quemando",
+      "”",
+      ",",
+      "expresó",
+      "buzó",
+      ",",
+      "señaló",
+      "unas",
+      "30",
+      "personas",
+      "residen",
+      "cerca",
+      "zona",
+      "impactada",
+      "evacuadas",
+      "manera",
+      "“",
+      "preventiva",
+      "”",
+      "próximo",
+      "terreno",
+      "club",
+      "mbiguá",
+      ".",
+      "asimismo",
+      ",",
+      "destacó",
+      "ahora",
+      "registrado",
+      "individuos",
+      "afectados",
+      "salud",
+      "fuego",
+      "humareda",
+      "provocada",
+      "incendio",
+      ";",
+      "embargo",
+      ",",
+      "provocado",
+      "cierre",
+      "temporal",
+      "tráfico",
+      "vehicular",
+      "avenida",
+      "costanera",
+      ",",
+      "debido",
+      "disminución",
+      "visibilidad",
+      ".",
+      "parte",
+      ",",
+      "funcionario",
+      "municipal",
+      "afirmó",
+      "sábado",
+      "observaron",
+      "“",
+      "personas",
+      "rostros",
+      "cubiertos",
+      "”",
+      "saliendo",
+      "área",
+      "fuego",
+      "indicó",
+      "“",
+      "podemos",
+      "hablar",
+      "accidentalidad",
+      "”",
+      ",",
+      "sino",
+      "“",
+      "premeditación",
+      "”",
+      ",",
+      "referirse",
+      "causa",
+      "incendios",
+      "sábado",
+      "domingo",
+      ".",
+      "“",
+      "gente",
+      "manera",
+      "delictiva",
+      "criminal",
+      "prendiendo",
+      "fuegos",
+      "”",
+      ",",
+      "enfatizó",
+      "alejandro",
+      "buzó",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "afirmó",
+      "pidió",
+      "ministerio",
+      "público",
+      "inicie",
+      "investigación",
+      ",",
+      "agregó",
+      "incendios",
+      "provocados",
+      "constituyen",
+      "“",
+      "problema",
+      "seguridad",
+      "pública",
+      "”",
+      "."
+    ],
+    "token_count": 213,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "NN": 119,
+      "FW": 75,
+      "JJ": 36,
+      "IN": 14,
+      "RB": 2,
+      "CD": 3,
+      "VBP": 7,
+      "NNS": 8,
+      "CC": 1,
+      "VBZ": 4,
+      "DT": 2,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-FW": 11,
+      "FW-NNP": 14,
+      "NNP-FW": 9,
+      "FW-FW": 41,
+      "NNP-NNP": 11,
+      "NN-NN": 72,
+      "NN-JJ": 9,
+      "JJ-JJ": 9,
+      "JJ-NN": 16,
+      "NN-IN": 12,
+      "IN-FW": 10,
+      "NNP-IN": 2,
+      "FW-NN": 16,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNP": 3,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NN-VBP": 1,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-JJ": 4,
+      "NNP-JJ": 2,
+      "JJ-FW": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NNS": 4,
+      "VBP-NN": 1,
+      "IN-JJ": 2,
+      "JJ-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-NNP": 6,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "VBP-FW": 1,
+      "FW-JJ": 4,
+      "JJ-CD": 1,
+      "NNS-JJ": 1,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "IN-NN": 1,
+      "IN-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 4,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 9,
+      "NN-NN-JJ": 8,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 6,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 40,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 27,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 2,
+      "IN-FW-NN": 4,
+      "FW-NN-NN": 10,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 6,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 4,
+      "FW-NN-VBP": 1,
+      "NN-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-IN": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-NN": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "FW-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 2,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-IN": 4,
+      "NN-NNP-NNP": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-JJ-NN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-NN": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NNP-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "VBP-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 119,
+        "FW": 75,
+        "NNP": 37,
+        "JJ": 36,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 72,
+        "FW-FW": 41,
+        "JJ-NN": 16,
+        "FW-NN": 16,
+        "FW-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 40,
+        "FW-FW-FW": 27,
+        "JJ-NN-NN": 11,
+        "FW-NN-NN": 10,
+        "NNP-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 85,
+      "VP": 13,
+      "ADJP": 5,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Asunción', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0261
+      },
+      {
+        "rule": "NP -> ('Prevención', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('Incendios', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('Municipalidad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('Costanera', 'NNP') ('Norte', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('Alejandro', 'NNP') ('Buzó', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('de', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP ('en', 'IN') ('las', 'FW') ('proximidades', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('ya', 'RB') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('director', 'NN')",
+        "frequency": 1,
+        "weight": 0.0087
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El director"
+      },
+      {
+        "label": "NP",
+        "text": "Prevención"
+      },
+      {
+        "label": "NP",
+        "text": "Incendios"
+      },
+      {
+        "label": "NP",
+        "text": "Municipalidad"
+      },
+      {
+        "label": "NP",
+        "text": "Asunción"
+      },
+      {
+        "label": "NP",
+        "text": "Paraguay"
+      },
+      {
+        "label": "NP",
+        "text": "declaró que"
+      },
+      {
+        "label": "NP",
+        "text": "los incendios que se observan desde el sábado"
+      },
+      {
+        "label": "NP",
+        "text": "Costanera Norte"
+      },
+      {
+        "label": "NP",
+        "text": "capital fueron causados con anticipación y sostuvo que"
+      },
+      {
+        "label": "NP",
+        "text": "existen sospechosos"
+      },
+      {
+        "label": "NP",
+        "text": "Los bomberos"
+      },
+      {
+        "label": "VP",
+        "text": "han estado trabajando casi"
+      },
+      {
+        "label": "NP",
+        "text": "trabajando casi"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP director/NN)\n  de/FW\n  (NP Prevención/NNP)\n  de/FW\n  (NP Incendios/NNP)\n  de/FW\n  la/FW\n  (NP Municipalidad/NNP)\n  de/FW\n  (NP Asunción/NNP)\n  ,/,\n  (NP Paraguay/NNP)\n  ,/,\n  (NP declaró/NN que/NN)\n  (NP\n    los/JJ\n    incendios/JJ\n    que/NN\n    se/NN\n    observan/NN\n    desde/NN\n    el/NN\n    sábado/NN)\n  en/IN\n  las/FW\n  proximidades/FW\n  de/FW\n  la/FW\n  (NP Costanera/NNP Norte/NNP)\n  de/IN\n  la/FW\n  (NP\n    capital/NN\n    fueron/NN\n    causados/NN\n    con/NN\n    anticipación/NN\n    y/NN\n    sostuvo/NN\n    que/NN)\n  ya/RB\n  (NP existen/JJ sospechosos/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP bomberos/NNS)\n  (VP han/VBP estado/RB (NP trabajando/JJ casi/NN))\n  24/CD\n  (NP horas/NN)\n  en/FW\n  la/FW\n  región/FW\n  (NP y/JJR han/NN evacuado/NN)\n  (VP aproximadamente/VBD)\n  30/CD\n  (NP personas/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP una/JJ entrevista/NN)\n  (NP a/DT medios/NNS el/NN domingo/NN)\n  ,/,\n  (NP Alejandro/NNP Buzó/NNP)\n  ,/,\n  (ADJP responsable/JJ)\n  de/FW\n  (NP Prevención/NNP)\n  de/FW\n  (NP Incendios/NNP)\n  de/FW\n  la/FW\n  (NP Municipalidad/NNP)\n  de/FW\n  (NP Asunción/NNP)\n  ,/,\n  (NP abordó/JJ los/NN esfuerzos/NN actuales/NNS)\n  (VP para/VBP (NP tratar/NN))\n  (PP de/IN (NP controlar/JJ los/NN))\n  (ADJP nuevos/JJ)\n  (VP incidentes/VBZ (NP que/JJ se/JJ presentan/NN en/NN))\n  la/FW\n  región/FW\n  de/FW\n  la/FW\n  (NP Costanera/NNP Norte/NNP)\n  de/IN\n  la/FW\n  (NP capital/NN)\n  ./.)",
+      "(S\n  (NP Tras/NNP)\n  el/CC\n  (NP suceso/NN)\n  (PP de/IN (NP un/JJ incendio/NN))\n  de/IN\n  gran/FW\n  envergadura/FW\n  el/FW\n  (NP sábado/NN)\n  ,/,\n  en/FW\n  el/FW\n  área/FW\n  del/FW\n  banco/FW\n  (NP San/NNP Miguel/NNP y/NNP la/NNP)\n  bahía/FW\n  de/FW\n  (NP Asunción/NNP)\n  ,/,\n  (NP que/NN fue/NN controlado/NN tras/NNS)\n  (VP varias/VBP)\n  horas/FW\n  de/FW\n  lucha/FW\n  (NP contra/JJ las/NNS)\n  (VP llamas/VBP (NP por/JJ bomberos/NNS))\n  ,/,\n  (VP el/VBP domingo/JJ)\n  volvió/FW\n  (NP a/DT aparecer/NN fuego/NN)\n  en/FW\n  (NP dichas/NN zonas/NN)\n  ,/,\n  (NP impactando/JJ principalmente/NN)\n  (NP a/DT los/JJ vertederos/NN)\n  de/IN\n  la/FW\n  (NP región/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Ahora/NNP es/NN basura/NN lo/NN que/NN se/NN)\n  está/FW\n  (NP quemando/NN ”/NN)\n  ,/,\n  (NP expresó/JJ Buzó/NNP)\n  ,/,\n  (NP quien/NN señaló/NN que/NN)\n  (ADJP unas/JJ)\n  30/CD\n  (NP personas/NNS)\n  (NP que/JJ residen/JJ cerca/NN)\n  de/IN\n  la/FW\n  zona/FW\n  impactada/FW\n  fueron/FW\n  evacuadas/FW\n  de/FW\n  manera/FW\n  “/FW\n  preventiva/FW\n  ”/FW\n  al/FW\n  próximo/FW\n  (NP terreno/NN del/NN Club/NNP Mbiguá/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "incendios de la municipalidad de asunción, paraguay, declaró",
+        "position": [
+          29,
+          89
+        ],
+        "start": 29,
+        "end": 89
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          188,
+          195
+        ],
+        "start": 188,
+        "end": 195
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          82,
+          89
+        ],
+        "start": 82,
+        "end": 89
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          1164,
+          1171
+        ],
+        "start": 1164,
+        "end": 1171
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "avenida",
+        "position": [
+          1374,
+          1381
+        ],
+        "start": 1374,
+        "end": 1381
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "paraguay",
+        "position": [
+          72,
+          80
+        ],
+        "start": 72,
+        "end": 80
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "asunción",
+        "position": [
+          62,
+          70
+        ],
+        "start": 62,
+        "end": 70
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado trabajando",
+        "position": [
+          284,
+          301
+        ],
+        "start": 284,
+        "end": 301
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "avenida costanera",
+        "position": [
+          1374,
+          1391
+        ],
+        "start": 1374,
+        "end": 1391
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1300,
+          1307
+        ],
+        "start": 1300,
+        "end": 1307
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "30 personas",
+        "position": [
+          360,
+          371
+        ],
+        "start": 360,
+        "end": 371
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 30",
+        "position": [
+          344,
+          362
+        ],
+        "start": 344,
+        "end": 362
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Paraguay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Club Mbiguá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "banco San Miguel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Prevención de Incendios de la Municipalidad de Asunción",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio Público",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asunción",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alejandro Buzó",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "avenida Costanera",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Costanera Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Buzó",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Prevención de Incendios de la Municipalidad de Asunción",
+        "relacion": "DECLARAR",
+        "objeto": "Costanera Norte"
+      },
+      {
+        "sujeto": "Paraguay",
+        "relacion": "DECLARAR",
+        "objeto": "Costanera Norte"
+      },
+      {
+        "sujeto": "Alejandro Buzó",
+        "relacion": "ABORDAR",
+        "objeto": "Costanera Norte"
+      },
+      {
+        "sujeto": "Prevención de Incendios de la Municipalidad de Asunción",
+        "relacion": "ABORDAR",
+        "objeto": "Costanera Norte"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7783,
+    "pos": 0.008,
+    "neu": 0.963,
+    "neg": 0.029,
+    "label": "negative"
+  }
+}

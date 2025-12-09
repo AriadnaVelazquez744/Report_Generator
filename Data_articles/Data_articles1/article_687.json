@@ -1,0 +1,746 @@
+{
+  "url": "https://www.telesurtv.net/china-india-socios-cooperacion-xi-modi/",
+  "title": "Cumbre OCS: China e India deben ser socios de cooperación, dice Xi Jinping a Modi - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "China",
+    "cooperación",
+    "diplomacia",
+    "interés común",
+    "Narendra Modi",
+    "Organización de Cooperación de Shanghái",
+    "Xi Jinping"
+  ],
+  "text": "El presidente de China, Xi Jinping, se reunió este domingo con el primer ministro indio, Narendra Modi, en un encuentro que tuvo lugar en la ciudad portuaria de Tianjin, previo a la Cumbre de la Organización de Cooperación de Shanghái (OCS). El encuentro se llevó a cabo en el marco de la conmemoración del 75º aniversario del establecimiento de relaciones diplomáticas entre ambos países.\n\nXi enfatizó que, si ambas naciones se adhieren a esta dirección general, sus relaciones podrán mantener un crecimiento constante y a largo plazo. Utilizando una metáfora, el mandatario chino señaló que “una danza cooperativa del dragón y el elefante” sería la opción correcta para ambos países, que deben ser “vecinos cordiales y socios que se ayuden mutuamente a prosperar”.\nEn su discurso, el Presidente chino instó a las dos naciones a fortalecer la comunicación estratégica para profundizar la confianza mutua, y a ampliar los intercambios y la cooperación para su beneficio. De igual manera, subrayó la importancia de prestar atención a las preocupaciones de cada cual, buscando siempre una coexistencia armoniosa que garantice un futuro próspero para ambos.\n\n\nEl líder chino también se refirió al tema limítrofe, un punto de fricción histórica entre ambas potencias. Xi aseguró que los dos vecinos asiáticos deben trabajar juntos para garantizar la paz y la tranquilidad en sus fronteras comunes.\nEnfatizó que no se debe permitir que la disputa territorial defina el marco general de las relaciones entre China e India, un mensaje que busca desescalar las tensiones y centrar el diálogo en otros temas de interés común.\n\n\nEl encuentro concluyó con un llamado a mejorar la colaboración multilateral para salvaguardar los intereses comunes. La reunión, que se desarrolló en un ambiente de cordialidad, refleja el deseo de ambos Gobiernos de manejar sus diferencias a través del diálogo y la cooperación, con la vista puesta en un futuro de crecimiento compartido y una mayor estabilidad regional.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/china-india-socios-cooperacion-xi-modi/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 21,
+    "message_id": 103396,
+    "date": "2025-08-31T16:55:23+00:00",
+    "text": "teleSUR\nCumbre OCS: China e India deben ser socios de cooperación, dice Xi Jinping a Modi\nhttps://www.telesurtv.net/china-india-socios-cooperacion-xi-modi/",
+    "photo_path": null,
+    "views": 2012,
+    "reactions": {
+      "👍": 36,
+      "👏": 5
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de china, xi jinping, se reunió este domingo con el primer ministro indio, narendra modi, en un encuentro que tuvo lugar en la ciudad portuaria de tianjin, previo a la cumbre de la organización de cooperación de shanghái (ocs). el encuentro se llevó a cabo en el marco de la conmemoración del 75º aniversario del establecimiento de relaciones diplomáticas entre ambos países. xi enfatizó que, si ambas naciones se adhieren a esta dirección general, sus relaciones podrán mantener un crecimiento constante y a largo plazo. utilizando una metáfora, el mandatario chino señaló que “una danza cooperativa del dragón y el elefante” sería la opción correcta para ambos países, que deben ser “vecinos cordiales y socios que se ayuden mutuamente a prosperar”. en su discurso, el presidente chino instó a las dos naciones a fortalecer la comunicación estratégica para profundizar la confianza mutua, y a ampliar los intercambios y la cooperación para su beneficio. de igual manera, subrayó la importancia de prestar atención a las preocupaciones de cada cual, buscando siempre una coexistencia armoniosa que garantice un futuro próspero para ambos. el líder chino también se refirió al tema limítrofe, un punto de fricción histórica entre ambas potencias. xi aseguró que los dos vecinos asiáticos deben trabajar juntos para garantizar la paz y la tranquilidad en sus fronteras comunes. enfatizó que no se debe permitir que la disputa territorial defina el marco general de las relaciones entre china e india, un mensaje que busca desescalar las tensiones y centrar el diálogo en otros temas de interés común. el encuentro concluyó con un llamado a mejorar la colaboración multilateral para salvaguardar los intereses comunes. la reunión, que se desarrolló en un ambiente de cordialidad, refleja el deseo de ambos gobiernos de manejar sus diferencias a través del diálogo y la cooperación, con la vista puesta en un futuro de crecimiento compartido y una mayor estabilidad regional.",
+    "tokens": [
+      "presidente",
+      "china",
+      ",",
+      "xi",
+      "jinping",
+      ",",
+      "reunió",
+      "domingo",
+      "primer",
+      "ministro",
+      "indio",
+      ",",
+      "narendra",
+      "modi",
+      ",",
+      "encuentro",
+      "lugar",
+      "ciudad",
+      "portuaria",
+      "tianjin",
+      ",",
+      "previo",
+      "cumbre",
+      "organización",
+      "cooperación",
+      "shanghái",
+      "(",
+      "ocs",
+      ")",
+      ".",
+      "encuentro",
+      "llevó",
+      "cabo",
+      "marco",
+      "conmemoración",
+      "75º",
+      "aniversario",
+      "establecimiento",
+      "relaciones",
+      "diplomáticas",
+      "ambos",
+      "países",
+      ".",
+      "xi",
+      "enfatizó",
+      ",",
+      "si",
+      "ambas",
+      "naciones",
+      "adhieren",
+      "dirección",
+      "general",
+      ",",
+      "relaciones",
+      "podrán",
+      "mantener",
+      "crecimiento",
+      "constante",
+      "largo",
+      "plazo",
+      ".",
+      "utilizando",
+      "metáfora",
+      ",",
+      "mandatario",
+      "chino",
+      "señaló",
+      "“",
+      "danza",
+      "cooperativa",
+      "dragón",
+      "elefante",
+      "”",
+      "opción",
+      "correcta",
+      "ambos",
+      "países",
+      ",",
+      "deben",
+      "ser",
+      "“",
+      "vecinos",
+      "cordiales",
+      "socios",
+      "ayuden",
+      "mutuamente",
+      "prosperar",
+      "”",
+      ".",
+      "discurso",
+      ",",
+      "presidente",
+      "chino",
+      "instó",
+      "dos",
+      "naciones",
+      "fortalecer",
+      "comunicación",
+      "estratégica",
+      "profundizar",
+      "confianza",
+      "mutua",
+      ",",
+      "ampliar",
+      "intercambios",
+      "cooperación",
+      "beneficio",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "subrayó",
+      "importancia",
+      "prestar",
+      "atención",
+      "preocupaciones",
+      "cada",
+      ",",
+      "buscando",
+      "siempre",
+      "coexistencia",
+      "armoniosa",
+      "garantice",
+      "futuro",
+      "próspero",
+      "ambos",
+      ".",
+      "líder",
+      "chino",
+      "refirió",
+      "tema",
+      "limítrofe",
+      ",",
+      "punto",
+      "fricción",
+      "histórica",
+      "ambas",
+      "potencias",
+      ".",
+      "xi",
+      "aseguró",
+      "dos",
+      "vecinos",
+      "asiáticos",
+      "deben",
+      "trabajar",
+      "juntos",
+      "garantizar",
+      "paz",
+      "tranquilidad",
+      "fronteras",
+      "comunes",
+      ".",
+      "enfatizó",
+      "debe",
+      "permitir",
+      "disputa",
+      "territorial",
+      "defina",
+      "marco",
+      "general",
+      "relaciones",
+      "china",
+      "india",
+      ",",
+      "mensaje",
+      "busca",
+      "desescalar",
+      "tensiones",
+      "centrar",
+      "diálogo",
+      "temas",
+      "interés",
+      "común",
+      ".",
+      "encuentro",
+      "concluyó",
+      "llamado",
+      "mejorar",
+      "colaboración",
+      "multilateral",
+      "salvaguardar",
+      "intereses",
+      "comunes",
+      ".",
+      "reunión",
+      ",",
+      "desarrolló",
+      "ambiente",
+      "cordialidad",
+      ",",
+      "refleja",
+      "deseo",
+      "ambos",
+      "gobiernos",
+      "manejar",
+      "diferencias",
+      "través",
+      "diálogo",
+      "cooperación",
+      ",",
+      "vista",
+      "puesta",
+      "futuro",
+      "crecimiento",
+      "compartido",
+      "mayor",
+      "estabilidad",
+      "regional",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "NN": 137,
+      "IN": 11,
+      "JJ": 38,
+      "FW": 51,
+      "CD": 1,
+      "NNS": 14,
+      "VBP": 12,
+      "VBZ": 4,
+      "DT": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-IN": 10,
+      "IN-NNP": 1,
+      "NNP-NNP": 6,
+      "NN-NN": 84,
+      "NN-JJ": 13,
+      "JJ-NN": 30,
+      "NN-NNP": 9,
+      "NNP-FW": 5,
+      "FW-JJ": 3,
+      "IN-FW": 7,
+      "FW-FW": 29,
+      "FW-NNP": 5,
+      "NNP-IN": 1,
+      "FW-NN": 12,
+      "NN-FW": 9,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-NNS": 6,
+      "NNS-VBP": 10,
+      "VBP-JJ": 9,
+      "VBP-NN": 1,
+      "NNP-JJ": 3,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-NNS": 2,
+      "JJ-JJ": 3,
+      "VBP-NNS": 1,
+      "IN-JJ": 3,
+      "NNS-NNP": 2,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBP": 1,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNP-VBP": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 53,
+      "NN-NN-JJ": 10,
+      "NN-JJ-NN": 11,
+      "JJ-NN-NN": 21,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-FW": 5,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 7,
+      "NN-NN-NNS": 2,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-NNP-JJ": 2,
+      "NNP-JJ-NN": 3,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NNP-NN": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NNS": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-IN": 5,
+      "IN-FW-NN": 4,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "IN-JJ-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "FW-NN-IN": 1,
+      "NN-FW-JJ": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 137,
+        "FW": 51,
+        "JJ": 38,
+        "NNP": 25,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 84,
+        "JJ-NN": 30,
+        "FW-FW": 29,
+        "NN-JJ": 13,
+        "FW-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 53,
+        "JJ-NN-NN": 21,
+        "FW-FW-FW": 21,
+        "NN-JJ-NN": 11,
+        "NN-NN-JJ": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 83,
+      "PP": 4,
+      "VP": 17,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP PP (',', ',') NP (',', ',') VP ('el', 'FW') NP (',', ',') NP (',', ',') ('en', 'FW') NP ('en', 'IN') ('la', 'FW') ('ciudad', 'FW') ('portuaria', 'FW') ('de', 'FW') NP (',', ',') VP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('China', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Xi', 'NNP') ('Jinping', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('reunió', 'JJ') ('este', 'NN') ('domingo', 'NN') ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('primer', 'NN') ('ministro', 'NN') ('indio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Narendra', 'NNP') ('Modi', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de China"
+      },
+      {
+        "label": "NP",
+        "text": "China"
+      },
+      {
+        "label": "NP",
+        "text": "Xi Jinping"
+      },
+      {
+        "label": "VP",
+        "text": "se reunió este domingo con"
+      },
+      {
+        "label": "NP",
+        "text": "reunió este domingo con"
+      },
+      {
+        "label": "NP",
+        "text": "primer ministro indio"
+      },
+      {
+        "label": "NP",
+        "text": "Narendra Modi"
+      },
+      {
+        "label": "NP",
+        "text": "un encuentro que tuvo lugar"
+      },
+      {
+        "label": "NP",
+        "text": "Tianjin"
+      },
+      {
+        "label": "VP",
+        "text": "previo a la Cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "a la Cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Cooperación"
+      },
+      {
+        "label": "NP",
+        "text": "Shanghái"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  (PP de/IN (NP China/NNP))\n  ,/,\n  (NP Xi/NNP Jinping/NNP)\n  ,/,\n  (VP se/VBD (NP reunió/JJ este/NN domingo/NN con/NN))\n  el/FW\n  (NP primer/NN ministro/NN indio/NN)\n  ,/,\n  (NP Narendra/NNP Modi/NNP)\n  ,/,\n  en/FW\n  (NP un/JJ encuentro/NN que/NN tuvo/NN lugar/NN)\n  en/IN\n  la/FW\n  ciudad/FW\n  portuaria/FW\n  de/FW\n  (NP Tianjin/NNP)\n  ,/,\n  (VP previo/VBZ (NP a/DT la/NN Cumbre/NNP))\n  de/IN\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  (NP Cooperación/NNP)\n  de/FW\n  (NP Shanghái/NNP)\n  (/(\n  (NP OCS/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  encuentro/CC\n  (NP se/JJ llevó/NN)\n  (NP a/DT cabo/NN)\n  en/IN\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  conmemoración/FW\n  del/FW\n  75º/CD\n  (NP aniversario/NN del/NN)\n  establecimiento/FW\n  de/FW\n  relaciones/FW\n  diplomáticas/FW\n  entre/FW\n  (NP ambos/NN países/NNS)\n  ./.)",
+      "(S\n  (NP Xi/NN enfatizó/NN que/NN)\n  ,/,\n  (NP si/JJ ambas/NN naciones/NNS)\n  (VP se/VBP)\n  (PP adhieren/IN (NP a/DT esta/NN dirección/NN))\n  (ADJP general/JJ)\n  ,/,\n  (NP sus/JJ relaciones/NNS)\n  (VP\n    podrán/VBP\n    (NP mantener/NN)\n    (NP un/JJ crecimiento/NN constante/NN))\n  (VP y/VBZ (NP a/DT largo/NN plazo/NN))\n  ./.)",
+      "(S\n  (NP Utilizando/NNP)\n  (NP una/JJ metáfora/NN)\n  ,/,\n  el/FW\n  (NP mandatario/NN chino/NN señaló/NN que/NN “/NNP)\n  (NP\n    una/JJ\n    danza/NN\n    cooperativa/NN\n    del/NN\n    dragón/NN\n    y/NN\n    el/NN\n    elefante/NN\n    ”/NNP\n    sería/NN\n    la/NN)\n  opción/FW\n  (NP correcta/NN para/NN ambos/NN países/NNS)\n  ,/,\n  (NP que/NN deben/NN ser/NN “/NNP vecinos/NN cordiales/NNS)\n  (VP\n    y/VBP\n    (NP socios/NNS)\n    (NP que/JJ se/JJ ayuden/NN mutuamente/NN)\n    (NP a/DT prosperar/NN ”/NN))\n  ./.)",
+      "(S\n  (NP En/NNP su/NN discurso/NN)\n  ,/,\n  el/FW\n  (NP Presidente/NNP chino/NN instó/NN)\n  (NP a/DT las/JJ dos/NN)\n  (VP\n    naciones/VBZ\n    (NP\n      a/DT\n      fortalecer/NN\n      la/NN\n      comunicación/NN\n      estratégica/NN\n      para/NN\n      profundizar/NN\n      la/NN\n      confianza/NN\n      mutua/NN))\n  ,/,\n  (VP y/VB (NP a/DT ampliar/JJ los/NN intercambios/NNS))\n  (VP y/VBP (NP la/JJ cooperación/NN para/NN su/NN beneficio/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "INTEGRACION_LATINOAMERICANA",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "disputa territorial defina el marco general de las relaciones entre china e india, un mensaje que busca desescalar las tensiones y",
+        "position": [
+          1434,
+          1564
+        ],
+        "start": 1434,
+        "end": 1564
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación, con la vista puesta en un futuro de crecimiento compartido y una",
+        "position": [
+          1886,
+          1963
+        ],
+        "start": 1886,
+        "end": 1963
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación de shanghái (ocs). el encuentro se llevó a cabo en el marco de la conmemoración del 75º aniversario del establecimiento de relaciones diplomáticas entre ambos países",
+        "position": [
+          211,
+          388
+        ],
+        "start": 211,
+        "end": 388
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          582,
+          588
+        ],
+        "start": 582,
+        "end": 588
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de china",
+        "position": [
+          3,
+          22
+        ],
+        "start": 3,
+        "end": 22
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          988,
+          995
+        ],
+        "start": 988,
+        "end": 995
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          17,
+          22
+        ],
+        "start": 17,
+        "end": 22
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1343,
+          1349
+        ],
+        "start": 1343,
+        "end": 1349
+      },
+      {
+        "category": "INTEGRACION_LATINOAMERICANA",
+        "matched_text": "cooperación, con la vista puesta en un futuro de crecimiento compartido y una mayor estabilidad regional",
+        "position": [
+          1886,
+          1990
+        ],
+        "start": 1886,
+        "end": 1990
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "OCS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Narendra Modi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Xi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xi Jinping",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Presidente",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tianjin",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "China",
+        "relacion": "REUNIR",
+        "objeto": "Narendra Modi"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "REUNIR",
+        "objeto": "Tianjin"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "REUNIR",
+        "objeto": "OCS"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "REUNIR",
+        "objeto": "Narendra Modi"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "REUNIR",
+        "objeto": "Tianjin"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "REUNIR",
+        "objeto": "OCS"
+      },
+      {
+        "sujeto": "Narendra Modi",
+        "relacion": "REUNIR",
+        "objeto": "Tianjin"
+      },
+      {
+        "sujeto": "Narendra Modi",
+        "relacion": "REUNIR",
+        "objeto": "OCS"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.993,
+    "neg": 0.007,
+    "label": "negative"
+  }
+}

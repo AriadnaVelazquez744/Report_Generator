@@ -1,0 +1,997 @@
+{
+  "url": "https://www.telesurtv.net/concluye-en-mexico-reunion-regional-sobre-migracion-segura/",
+  "title": "Realizan en México reunión regional sobre migración segura - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "América Latina",
+    "México",
+    "Migracion"
+  ],
+  "text": "Autoridades de 10 países de América Latina participaron este jueves en la Reunión sobre Movilidad Humana en la Ruta Norte del Continente, celebrada en la capital mexicana para hacer frente de manera conjunta a los desafíos del fenómeno de la migración, informó una fuente oficial.\nLa Secretaría de Relaciones Exteriores (SRE) de México indicó en un comunicado que en la cita asistieron ministros, viceministros y jefes de delegación de Belice, Brasil, Colombia, Cuba, El Salvador, Guatemala, Haití, Honduras, México y Venezuela.\n“Nos reunimos en la Ciudad de México para dialogar y coordinar acciones encaminadas a: proteger los derechos humanos de las personas migrantes”, se mencionó en la nota de prensa.\nLa reunión también tuvo el objetivo de “prevenir abusos y malos tratos, gestionar desde un enfoque humanitario una migración regular, segura y ordenada, así como integrar a las poblaciones migrantes”.\nDe igual manera, “reforzar la cooperación internacional para atender el fenómeno migratorio, desde sus causas estructurales y coyunturales, y en su ciclo completo: origen, tránsito, destino y retorno”, finalizó el comunicado.\nEl viceministro de Relaciones Exteriores para América Latina de Venezuela, Rander Peña, quien participó en la Reunión de Migraciones realizada en la Ciudad de México, se refirió al tema en un mensaje publicado en su canal de Telegram.\n“En nombre del presidente Nicolás Maduro hemos traído la verdad del pueblo venezolano y expuesto las causas estructurales que han motivado la migración venezolana, principalmente económica”, manifestó el diplomático.\nPeña aseguró que la causa principal de la migración respondió a las criminales medidas coercitivas unilaterales impuestas por Estados Unidos y la Unión Europea contra el país, las cuales generaron pérdidas del 99 por ciento de los recursos nacionales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/concluye-en-mexico-reunion-regional-sobre-migracion-segura/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1081,
+    "message_id": 84681,
+    "date": "2025-01-17T10:55:29+00:00",
+    "text": "teleSUR\nRealizan en México reunión regional sobre migración segura\nhttps://www.telesurtv.net/concluye-en-mexico-reunion-regional-sobre-migracion-segura/",
+    "photo_path": null,
+    "views": 2325,
+    "reactions": {
+      "👍": 22,
+      "❤": 7,
+      "🥱": 1
+    },
+    "total_reactions": 30
+  },
+  "preprocessing": {
+    "cleaned": "autoridades de 10 países de américa latina participaron este jueves en la reunión sobre movilidad humana en la ruta norte del continente, celebrada en la capital mexicana para hacer frente de manera conjunta a los desafíos del fenómeno de la migración, informó una fuente oficial. la secretaría de relaciones exteriores (sre) de méxico indicó en un comunicado que en la cita asistieron ministros, viceministros y jefes de delegación de belice, brasil, colombia, cuba, el salvador, guatemala, haití, honduras, méxico y venezuela. “nos reunimos en la ciudad de méxico para dialogar y coordinar acciones encaminadas a: proteger los derechos humanos de las personas migrantes”, se mencionó en la nota de prensa. la reunión también tuvo el objetivo de “prevenir abusos y malos tratos, gestionar desde un enfoque humanitario una migración regular, segura y ordenada, así como integrar a las poblaciones migrantes”. de igual manera, “reforzar la cooperación internacional para atender el fenómeno migratorio, desde sus causas estructurales y coyunturales, y en su ciclo completo: origen, tránsito, destino y retorno”, finalizó el comunicado. el viceministro de relaciones exteriores para américa latina de venezuela, rander peña, quien participó en la reunión de migraciones realizada en la ciudad de méxico, se refirió al tema en un mensaje publicado en su canal de telegram. “en nombre del presidente nicolás maduro hemos traído la verdad del pueblo venezolano y expuesto las causas estructurales que han motivado la migración venezolana, principalmente económica”, manifestó el diplomático. peña aseguró que la causa principal de la migración respondió a las criminales medidas coercitivas unilaterales impuestas por estados unidos y la unión europea contra el país, las cuales generaron pérdidas del 99 por ciento de los recursos nacionales.",
+    "tokens": [
+      "autoridades",
+      "10",
+      "países",
+      "américa",
+      "latina",
+      "participaron",
+      "jueves",
+      "reunión",
+      "movilidad",
+      "humana",
+      "ruta",
+      "norte",
+      "continente",
+      ",",
+      "celebrada",
+      "capital",
+      "mexicana",
+      "hacer",
+      "frente",
+      "manera",
+      "conjunta",
+      "desafíos",
+      "fenómeno",
+      "migración",
+      ",",
+      "informó",
+      "fuente",
+      "oficial",
+      ".",
+      "secretaría",
+      "relaciones",
+      "exteriores",
+      "(",
+      "sre",
+      ")",
+      "méxico",
+      "indicó",
+      "comunicado",
+      "cita",
+      "asistieron",
+      "ministros",
+      ",",
+      "viceministros",
+      "jefes",
+      "delegación",
+      "belice",
+      ",",
+      "brasil",
+      ",",
+      "colombia",
+      ",",
+      "cuba",
+      ",",
+      "salvador",
+      ",",
+      "guatemala",
+      ",",
+      "haití",
+      ",",
+      "honduras",
+      ",",
+      "méxico",
+      "venezuela",
+      ".",
+      "“",
+      "reunimos",
+      "ciudad",
+      "méxico",
+      "dialogar",
+      "coordinar",
+      "acciones",
+      "encaminadas",
+      ":",
+      "proteger",
+      "derechos",
+      "humanos",
+      "personas",
+      "migrantes",
+      "”",
+      ",",
+      "mencionó",
+      "nota",
+      "prensa",
+      ".",
+      "reunión",
+      "objetivo",
+      "“",
+      "prevenir",
+      "abusos",
+      "malos",
+      "tratos",
+      ",",
+      "gestionar",
+      "enfoque",
+      "humanitario",
+      "migración",
+      "regular",
+      ",",
+      "segura",
+      "ordenada",
+      ",",
+      "así",
+      "integrar",
+      "poblaciones",
+      "migrantes",
+      "”",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "“",
+      "reforzar",
+      "cooperación",
+      "internacional",
+      "atender",
+      "fenómeno",
+      "migratorio",
+      ",",
+      "causas",
+      "estructurales",
+      "coyunturales",
+      ",",
+      "ciclo",
+      "completo",
+      ":",
+      "origen",
+      ",",
+      "tránsito",
+      ",",
+      "destino",
+      "retorno",
+      "”",
+      ",",
+      "finalizó",
+      "comunicado",
+      ".",
+      "viceministro",
+      "relaciones",
+      "exteriores",
+      "américa",
+      "latina",
+      "venezuela",
+      ",",
+      "rander",
+      "peña",
+      ",",
+      "participó",
+      "reunión",
+      "migraciones",
+      "realizada",
+      "ciudad",
+      "méxico",
+      ",",
+      "refirió",
+      "tema",
+      "mensaje",
+      "publicado",
+      "canal",
+      "telegram",
+      ".",
+      "“",
+      "nombre",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "traído",
+      "verdad",
+      "pueblo",
+      "venezolano",
+      "expuesto",
+      "causas",
+      "estructurales",
+      "motivado",
+      "migración",
+      "venezolana",
+      ",",
+      "principalmente",
+      "económica",
+      "”",
+      ",",
+      "manifestó",
+      "diplomático",
+      ".",
+      "peña",
+      "aseguró",
+      "causa",
+      "principal",
+      "migración",
+      "respondió",
+      "criminales",
+      "medidas",
+      "coercitivas",
+      "unilaterales",
+      "impuestas",
+      "unidos",
+      "unión",
+      "europea",
+      "país",
+      ",",
+      "cuales",
+      "generaron",
+      "pérdidas",
+      "99",
+      "ciento",
+      "recursos",
+      "nacionales",
+      "."
+    ],
+    "token_count": 207,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 53,
+      "FW": 52,
+      "CD": 2,
+      "NNS": 16,
+      "NN": 90,
+      "VBP": 12,
+      "IN": 13,
+      "JJ": 21,
+      "RB": 2,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-FW": 10,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "FW-NNP": 14,
+      "NNP-NNP": 27,
+      "NNP-NN": 12,
+      "NN-NN": 53,
+      "NN-NNS": 6,
+      "NNS-VBP": 9,
+      "VBP-FW": 1,
+      "NN-NNP": 4,
+      "FW-FW": 23,
+      "NN-FW": 10,
+      "FW-NN": 8,
+      "NN-IN": 10,
+      "IN-FW": 6,
+      "NN-JJ": 4,
+      "JJ-NN": 14,
+      "FW-JJ": 3,
+      "JJ-NNP": 2,
+      "NNP-IN": 2,
+      "IN-NNP": 4,
+      "VBP-NN": 1,
+      "NNS-RB": 2,
+      "RB-VBP": 2,
+      "VBP-JJ": 8,
+      "JJ-JJ": 2,
+      "FW-NNS": 3,
+      "NNS-NNS": 1,
+      "JJ-FW": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 2,
+      "NN-VBP": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-IN": 1,
+      "IN-NN": 1,
+      "IN-JJ": 2,
+      "VBP-NNS": 2,
+      "JJ-NNS": 2,
+      "NN-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "NNP-FW-NNP": 5,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 6,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 14,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 15,
+      "IN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 5,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 2,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-FW-NNP": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-RB": 1,
+      "RB-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "FW-NN-FW": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "NNP": 53,
+        "FW": 52,
+        "JJ": 21,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "NNP-NNP": 27,
+        "FW-FW": 23,
+        "FW-NNP": 14,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "NNP-NNP-NNP": 15,
+        "FW-FW-FW": 14,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 87,
+      "VP": 17,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "NP -> ('Ciudad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "VP -> ('”', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('10', 'CD') NP ('de', 'FW') NP VP ('la', 'FW') NP ('en', 'FW') ('la', 'FW') NP ('del', 'FW') NP (',', ',') NP ('en', 'FW') ('la', 'FW') NP ('de', 'IN') ('manera', 'FW') NP NP ('de', 'IN') ('la', 'FW') ('migración', 'FW') (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('países', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('América', 'NNP') ('Latina', 'NNP') ('participaron', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('en', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Reunión', 'NNP') ('sobre', 'NN') ('Movilidad', 'NNP') ('Humana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "países"
+      },
+      {
+        "label": "NP",
+        "text": "América Latina participaron este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Reunión sobre Movilidad Humana"
+      },
+      {
+        "label": "NP",
+        "text": "Ruta Norte"
+      },
+      {
+        "label": "NP",
+        "text": "Continente"
+      },
+      {
+        "label": "NP",
+        "text": "celebrada"
+      },
+      {
+        "label": "NP",
+        "text": "capital mexicana para hacer frente"
+      },
+      {
+        "label": "NP",
+        "text": "conjunta"
+      },
+      {
+        "label": "NP",
+        "text": "a los desafíos del fenómeno"
+      },
+      {
+        "label": "NP",
+        "text": "informó una fuente oficial"
+      },
+      {
+        "label": "NP",
+        "text": "La Secretaría"
+      },
+      {
+        "label": "PP",
+        "text": "de Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  de/FW\n  10/CD\n  (NP países/NNS)\n  de/FW\n  (NP América/NNP Latina/NNP participaron/NN este/NN jueves/NNS)\n  (VP en/VBP)\n  la/FW\n  (NP Reunión/NNP sobre/NN Movilidad/NNP Humana/NNP)\n  en/FW\n  la/FW\n  (NP Ruta/NNP Norte/NNP)\n  del/FW\n  (NP Continente/NNP)\n  ,/,\n  (NP celebrada/NN)\n  en/FW\n  la/FW\n  (NP capital/NN mexicana/NN para/NN hacer/NN frente/NN)\n  de/IN\n  manera/FW\n  (NP conjunta/NN)\n  (NP a/DT los/JJ desafíos/NN del/NN fenómeno/NN)\n  de/IN\n  la/FW\n  migración/FW\n  ,/,\n  (NP informó/JJ una/JJ fuente/NN oficial/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Secretaría/NNP)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  (/(\n  (NP SRE/NNP)\n  )/)\n  de/FW\n  (NP México/NNP indicó/NN)\n  en/FW\n  (NP un/JJ comunicado/NN que/NN)\n  en/IN\n  la/FW\n  cita/FW\n  (NP asistieron/NN ministros/NNS)\n  ,/,\n  (NP viceministros/NNS)\n  (VP y/VBP (NP jefes/NN))\n  de/FW\n  delegación/FW\n  de/FW\n  (NP Belice/NNP)\n  ,/,\n  (NP Brasil/NNP)\n  ,/,\n  (NP Colombia/NNP)\n  ,/,\n  (NP Cuba/NNP)\n  ,/,\n  (NP El/NNP Salvador/NNP)\n  ,/,\n  (NP Guatemala/NNP)\n  ,/,\n  (NP Haití/NNP)\n  ,/,\n  (NP Honduras/NNP)\n  ,/,\n  (NP México/NNP y/NN Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Nos/NNP reunimos/NN en/NN)\n  la/FW\n  (NP Ciudad/NNP)\n  de/FW\n  (NP México/NNP para/NN dialogar/NN y/NN coordinar/NN acciones/NNS)\n  (VP encaminadas/VBD)\n  a/DT\n  :/:\n  (NP proteger/NN)\n  (VP los/VBZ (NP derechos/JJ humanos/NN))\n  de/IN\n  las/FW\n  (NP personas/NNS migrantes/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP se/JJ mencionó/NN)\n  en/IN\n  la/FW\n  nota/FW\n  de/FW\n  prensa/FW\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP reunión/VBZ (NP también/JJ tuvo/NN el/NN))\n  objetivo/FW\n  de/FW\n  “/FW\n  prevenir/FW\n  abusos/FW\n  y/FW\n  malos/FW\n  (NP tratos/NN)\n  ,/,\n  (NP gestionar/NN desde/NN)\n  (NP un/JJ enfoque/NN humanitario/NN)\n  (NP una/JJ migración/NN regular/NN)\n  ,/,\n  (NP segura/NN y/NN ordenada/NN)\n  ,/,\n  (NP así/JJ como/NN integrar/NN)\n  (NP a/DT las/JJ poblaciones/NNS migrantes/NNS)\n  (VP ”/VBP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  (NP “/NNP)\n  (VP reforzar/VBZ)\n  la/FW\n  (NP\n    cooperación/JJ\n    internacional/JJ\n    para/NN\n    atender/NN\n    el/NN\n    fenómeno/NN\n    migratorio/NN)\n  ,/,\n  (NP desde/JJ sus/NN causas/NN)\n  (VP estructurales/VBZ (NP y/JJ coyunturales/NNS))\n  ,/,\n  (NP y/NN)\n  en/FW\n  (NP su/NN ciclo/NN completo/NN)\n  :/:\n  (NP origen/NN)\n  ,/,\n  (NP tránsito/NN)\n  ,/,\n  (NP destino/NN y/NN retorno/NN ”/NNP)\n  ,/,\n  (NP finalizó/NN el/NN comunicado/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "JUSTICIA_SOCIAL",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          1561,
+          1570
+        ],
+        "start": 1561,
+        "end": 1570
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          154,
+          161
+        ],
+        "start": 154,
+        "end": 161
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación internacional",
+        "position": [
+          939,
+          964
+        ],
+        "start": 939,
+        "end": 964
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "reunión sobre movilidad humana en la ruta norte del continente, celebrada en la capital mexicana para hacer frente de manera conjunta a los desafíos del fenómeno de la migración, informó una fuente oficial",
+        "position": [
+          74,
+          279
+        ],
+        "start": 74,
+        "end": 279
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          253,
+          260
+        ],
+        "start": 253,
+        "end": 260
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          1385,
+          1410
+        ],
+        "start": 1385,
+        "end": 1410
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "viceministro de relaciones exteriores",
+        "position": [
+          1138,
+          1175
+        ],
+        "start": 1138,
+        "end": 1175
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unión europea",
+        "position": [
+          1733,
+          1746
+        ],
+        "start": 1733,
+        "end": 1746
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de telegram",
+        "position": [
+          1351,
+          1368
+        ],
+        "start": 1351,
+        "end": 1368
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "ruta",
+        "position": [
+          111,
+          115
+        ],
+        "start": 111,
+        "end": 115
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          444,
+          450
+        ],
+        "start": 444,
+        "end": 450
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          468,
+          479
+        ],
+        "start": 468,
+        "end": 479
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          329,
+          335
+        ],
+        "start": 329,
+        "end": 335
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          518,
+          527
+        ],
+        "start": 518,
+        "end": 527
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1713,
+          1727
+        ],
+        "start": 1713,
+        "end": 1727
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guatemala",
+        "position": [
+          481,
+          490
+        ],
+        "start": 481,
+        "end": 490
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          629,
+          645
+        ],
+        "start": 629,
+        "end": 645
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Belice",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "América",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unión Europea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Peña",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ciudad de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reunión de Migraciones",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rander Peña",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guatemala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ruta Norte del Continente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SRE",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretaría de Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "América",
+        "relacion": "PARTICIPAR_INFORMAR",
+        "objeto": "Ruta Norte del Continente"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Belice"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Guatemala"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "Belice"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "Guatemala"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "SRE",
+        "relacion": "INDICAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "Belice"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "Guatemala"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INDICAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "ASEGURAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Peña",
+        "relacion": "ASEGURAR",
+        "objeto": "Unión Europea"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

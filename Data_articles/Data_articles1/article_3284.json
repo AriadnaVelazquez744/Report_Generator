@@ -1,0 +1,684 @@
+{
+  "url": "https://www.telesurtv.net/gaza-50357-muertos-en-genocidio-israeli/",
+  "title": "Gaza: 50.357 muertos en genocidio israelí tras nuevos bombardeos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Derecho internacional",
+    "derechos humanos",
+    "exterminio",
+    "Gaza",
+    "genocidio",
+    "Palestina"
+  ],
+  "text": "La aviación israelí, masacró a 80 palestinos y dejó 305 heridos en Gaza en solo dos días, según datos de hospitales locales. El saldo total de la ofensiva supera ya las 50.000 víctimas fatales, con un 70% de mujeres y niños entre los fallecidos. Los equipos de rescate denuncian obstrucciones militares para recuperar cadáveres bajo los escombros.\n\n\nEn este contexto, las fuerzas de ocupación israelíes, atacan sistemáticamente a voluntarios de defensa civil y convoyes médicos que intentan auxiliar a los heridos. La Corte Internacional de Justicia documentó 328 agresiones directas contra personal sanitario, en lo que organizaciones humanitarias califican como “terrorismo de Estado contra la asistencia médica”.\n\n\nMientras tanto, la ONU exige en vano un alto al fuego y en su lugar, el Tel Aviv intensifica su campaña de exterminio con bombardeos sobre zonas densamente pobladas. Las resoluciones del Consejo de Seguridad chocan contra el veto sistemático de Estados Unidos, cómplice principal de la limpieza étnica en Palestina.\n\n\nLos últimos ataques afectaron viviendas, campos de refugiados y hospitales ya colapsados, donde los heridos agonizan sin medicamentos, sin agua, ni electricidad, bajo condiciones infrahumanas.\n\n\nAsimismo, los organismos no gubernamentales, alertan sobre el uso de armas de fragmentación contra civiles, mientras la ONU confirma que el 90% de la población gazatí sufre inseguridad alimentaria severa.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gaza-50357-muertos-en-genocidio-israeli/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 5,
+    "message_id": 90726,
+    "date": "2025-03-31T22:55:12+00:00",
+    "text": "teleSUR\nGaza: 50.357 muertos en genocidio israelí tras nuevos bombardeos\nhttps://www.telesurtv.net/gaza-50357-muertos-en-genocidio-israeli/",
+    "photo_path": null,
+    "views": 2027,
+    "reactions": {
+      "🤬": 47,
+      "😢": 10,
+      "😈": 1
+    },
+    "total_reactions": 58
+  },
+  "preprocessing": {
+    "cleaned": "la aviación israelí, masacró a 80 palestinos y dejó 305 heridos en gaza en solo dos días, según datos de hospitales locales. el saldo total de la ofensiva supera ya las 50.000 víctimas fatales, con un 70% de mujeres y niños entre los fallecidos. los equipos de rescate denuncian obstrucciones militares para recuperar cadáveres bajo los escombros. en este contexto, las fuerzas de ocupación israelíes, atacan sistemáticamente a voluntarios de defensa civil y convoyes médicos que intentan auxiliar a los heridos. la corte internacional de justicia documentó 328 agresiones directas contra personal sanitario, en lo que organizaciones humanitarias califican como “terrorismo de estado contra la asistencia médica”. mientras tanto, la onu exige en vano un alto al fuego y en su lugar, el tel aviv intensifica su campaña de exterminio con bombardeos sobre zonas densamente pobladas. las resoluciones del consejo de seguridad chocan contra el veto sistemático de estados unidos, cómplice principal de la limpieza étnica en palestina. los últimos ataques afectaron viviendas, campos de refugiados y hospitales ya colapsados, donde los heridos agonizan sin medicamentos, sin agua, ni electricidad, bajo condiciones infrahumanas. asimismo, los organismos no gubernamentales, alertan sobre el uso de armas de fragmentación contra civiles, mientras la onu confirma que el 90% de la población gazatí sufre inseguridad alimentaria severa.",
+    "tokens": [
+      "aviación",
+      "israelí",
+      ",",
+      "masacró",
+      "80",
+      "palestinos",
+      "dejó",
+      "305",
+      "heridos",
+      "gaza",
+      "solo",
+      "dos",
+      "días",
+      ",",
+      "según",
+      "datos",
+      "hospitales",
+      "locales",
+      ".",
+      "saldo",
+      "total",
+      "ofensiva",
+      "supera",
+      "50.000",
+      "víctimas",
+      "fatales",
+      ",",
+      "70",
+      "%",
+      "mujeres",
+      "niños",
+      "fallecidos",
+      ".",
+      "equipos",
+      "rescate",
+      "denuncian",
+      "obstrucciones",
+      "militares",
+      "recuperar",
+      "cadáveres",
+      "bajo",
+      "escombros",
+      ".",
+      "contexto",
+      ",",
+      "fuerzas",
+      "ocupación",
+      "israelíes",
+      ",",
+      "atacan",
+      "sistemáticamente",
+      "voluntarios",
+      "defensa",
+      "civil",
+      "convoyes",
+      "médicos",
+      "intentan",
+      "auxiliar",
+      "heridos",
+      ".",
+      "corte",
+      "internacional",
+      "justicia",
+      "documentó",
+      "328",
+      "agresiones",
+      "directas",
+      "personal",
+      "sanitario",
+      ",",
+      "organizaciones",
+      "humanitarias",
+      "califican",
+      "“",
+      "terrorismo",
+      "asistencia",
+      "médica",
+      "”",
+      ".",
+      "mientras",
+      ",",
+      "onu",
+      "exige",
+      "vano",
+      "alto",
+      "fuego",
+      "lugar",
+      ",",
+      "tel",
+      "aviv",
+      "intensifica",
+      "campaña",
+      "exterminio",
+      "bombardeos",
+      "zonas",
+      "densamente",
+      "pobladas",
+      ".",
+      "resoluciones",
+      "consejo",
+      "seguridad",
+      "chocan",
+      "veto",
+      "sistemático",
+      "unidos",
+      ",",
+      "cómplice",
+      "principal",
+      "limpieza",
+      "étnica",
+      "palestina",
+      ".",
+      "últimos",
+      "ataques",
+      "afectaron",
+      "viviendas",
+      ",",
+      "campos",
+      "refugiados",
+      "hospitales",
+      "colapsados",
+      ",",
+      "heridos",
+      "agonizan",
+      "medicamentos",
+      ",",
+      "agua",
+      ",",
+      "electricidad",
+      ",",
+      "bajo",
+      "condiciones",
+      "infrahumanas",
+      ".",
+      "asimismo",
+      ",",
+      "organismos",
+      "gubernamentales",
+      ",",
+      "alertan",
+      "uso",
+      "armas",
+      "fragmentación",
+      "civiles",
+      ",",
+      "mientras",
+      "onu",
+      "confirma",
+      "90",
+      "%",
+      "población",
+      "gazatí",
+      "sufre",
+      "inseguridad",
+      "alimentaria",
+      "severa",
+      "."
+    ],
+    "token_count": 157,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "VBZ": 4,
+      "JJ": 28,
+      "NN": 67,
+      "CD": 6,
+      "FW": 28,
+      "IN": 11,
+      "NNS": 19,
+      "VBD": 3,
+      "VBP": 11,
+      "VB": 1,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 1,
+      "JJ-NN": 15,
+      "NN-CD": 2,
+      "CD-NN": 3,
+      "NN-NN": 34,
+      "NN-FW": 3,
+      "FW-NNP": 7,
+      "NNP-FW": 4,
+      "FW-NN": 4,
+      "NN-JJ": 9,
+      "NN-IN": 9,
+      "IN-NNS": 1,
+      "NNS-NNS": 4,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 2,
+      "FW-FW": 11,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "NN-NNS": 4,
+      "NNS-VBP": 10,
+      "VBP-JJ": 9,
+      "JJ-CD": 1,
+      "CD-FW": 1,
+      "FW-NNS": 3,
+      "JJ-NNP": 4,
+      "NNP-NN": 8,
+      "JJ-NNS": 4,
+      "JJ-JJ": 2,
+      "IN-FW": 6,
+      "FW-JJ": 3,
+      "NNS-IN": 1,
+      "NNP-NNP": 6,
+      "VBZ-CD": 1,
+      "CD-NNS": 1,
+      "IN-NN": 2,
+      "IN-NNP": 2,
+      "NNP-JJ": 2,
+      "NN-NNP": 2,
+      "NNP-NNS": 1,
+      "NNS-FW": 1,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "VBP-NNP": 2,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "CD-IN": 1,
+      "NNS-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-NN": 1,
+      "NN-NN-CD": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 14,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 7,
+      "FW-FW-NN": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-FW": 1,
+      "CD-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 3,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-VBP": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NNP-NN-NN": 6,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NN-NN": 8,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NNP-NN": 2,
+      "IN-FW-NN": 1,
+      "NN-NN-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "IN-NNP-NNP": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NNS": 1,
+      "DT-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "FW-FW-JJ": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 67,
+        "JJ": 28,
+        "FW": 28,
+        "NNP": 25,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "JJ-NN": 15,
+        "FW-FW": 11,
+        "NNS-VBP": 10,
+        "NN-JJ": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 14,
+        "NNS-VBP-JJ": 8,
+        "JJ-NN-NN": 8,
+        "NN-NN-JJ": 7,
+        "FW-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 14,
+      "PP": 3,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('%', 'NN')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP ('aviación', 'MD') VP (',', ',') VP ('a', 'DT') ('80', 'CD') NP VP ('305', 'CD') NP ('en', 'FW') NP ('en', 'FW') NP (',', ',') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('israelí', 'VB')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('masacró', 'VB')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NN') ('y', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('dejó', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "israelí"
+      },
+      {
+        "label": "VP",
+        "text": "masacró"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos y"
+      },
+      {
+        "label": "VP",
+        "text": "dejó"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "solo dos días"
+      },
+      {
+        "label": "NP",
+        "text": "según datos"
+      },
+      {
+        "label": "PP",
+        "text": "de hospitales locales"
+      },
+      {
+        "label": "NP",
+        "text": "hospitales locales"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "saldo total"
+      },
+      {
+        "label": "NP",
+        "text": "supera ya"
+      },
+      {
+        "label": "VP",
+        "text": "las"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  aviación/MD\n  (VP israelí/VB)\n  ,/,\n  (VP masacró/VB)\n  a/DT\n  80/CD\n  (NP palestinos/NN y/NN)\n  (VP dejó/VBZ)\n  305/CD\n  (NP heridos/NN)\n  en/FW\n  (NP Gaza/NNP)\n  en/FW\n  (NP solo/NN dos/NN días/NN)\n  ,/,\n  (NP según/JJ datos/NN)\n  (PP de/IN (NP hospitales/NNS locales/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (NP saldo/JJ total/NN)\n  de/IN\n  la/FW\n  ofensiva/FW\n  (NP supera/NN ya/NN)\n  (VP las/VBD)\n  50.000/CD\n  (NP víctimas/NN fatales/NNS)\n  ,/,\n  (NP con/NN)\n  (ADJP un/JJ)\n  70/CD\n  (NP %/NN)\n  de/FW\n  mujeres/FW\n  y/FW\n  niños/FW\n  entre/FW\n  los/FW\n  (NP fallecidos/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  equipos/FW\n  de/FW\n  rescate/FW\n  (NP denuncian/JJ obstrucciones/NNS militares/NNS)\n  (VP para/VBP (NP recuperar/JJ cadáveres/NNS))\n  (VP bajo/VBP (NP los/JJ escombros/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP este/NN contexto/NN)\n  ,/,\n  (NP las/JJ fuerzas/NN)\n  de/IN\n  ocupación/FW\n  (NP israelíes/NN)\n  ,/,\n  (NP atacan/JJ sistemáticamente/NN)\n  a/DT\n  voluntarios/FW\n  de/FW\n  defensa/FW\n  (NP civil/JJ y/NN convoyes/NNS)\n  (VP médicos/VBP (NP que/JJ intentan/NN))\n  (VP auxiliar/VBD (NP a/DT los/JJ heridos/NN))\n  ./.)",
+      "(S\n  (NP La/NNP Corte/NNP Internacional/NNP)\n  de/FW\n  (NP Justicia/NNP)\n  (VP documentó/VBZ)\n  328/CD\n  (NP agresiones/NNS directas/NNS)\n  (VP contra/VBP (NP personal/JJ sanitario/NN))\n  ,/,\n  en/FW\n  lo/FW\n  (NP que/NN organizaciones/NNS)\n  (VP humanitarias/VBP (NP califican/JJ como/NN “/NNP terrorismo/NN))\n  de/FW\n  (NP Estado/NNP contra/NN la/NN asistencia/NN médica/NN ”/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "víctimas fatales, con un 70% de mujeres y niños entre los fallecidos. los equipos de rescate denuncian obstrucciones militares",
+        "position": [
+          176,
+          302
+        ],
+        "start": 176,
+        "end": 302
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          383,
+          392
+        ],
+        "start": 383,
+        "end": 392
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          445,
+          452
+        ],
+        "start": 445,
+        "end": 452
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          737,
+          740
+        ],
+        "start": 737,
+        "end": 740
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          208,
+          215
+        ],
+        "start": 208,
+        "end": 215
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1175,
+          1179
+        ],
+        "start": 1175,
+        "end": 1179
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          1184,
+          1196
+        ],
+        "start": 1184,
+        "end": 1196
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          963,
+          977
+        ],
+        "start": 963,
+        "end": 977
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          12,
+          19
+        ],
+        "start": 12,
+        "end": 19
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado contra",
+        "position": [
+          679,
+          692
+        ],
+        "start": 679,
+        "end": 692
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "ONU",
+        "relacion": "EXIGIR",
+        "objeto": "Tel Aviv"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8555,
+    "pos": 0.0,
+    "neu": 0.956,
+    "neg": 0.044,
+    "label": "negative"
+  }
+}

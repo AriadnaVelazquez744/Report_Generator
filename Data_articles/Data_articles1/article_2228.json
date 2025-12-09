@@ -1,0 +1,683 @@
+{
+  "url": "https://www.telesurtv.net/en-imagenes-palestinos-desplazados-retornan-al-norte-de-gaza-y-aseguran-que-reconstruiran-sus-ciudades/",
+  "title": "En imágenes: Palestinos desplazados retornan al norte de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Desplazados",
+    "destrucción",
+    "Franja de Gaza",
+    "genocidio",
+    "Limpieza étnica",
+    "norte",
+    "retorno"
+  ],
+  "text": "“La alegría de los gazatíes es indescriptible”, reportó la corrresponsal de teleSUR en Gaza, Huda Heazi desde el cruce por el que los gazatíes emprendieron el regreso a pie y se mostraban felices, pese a los kilómetros que deberán recorrer.\nLos desplazados reconocen que tienen muchos retos por delante, como la reconstrucción de sus ciudades y la reparación psicológica, y están muy agotados, pero van a recuperar las tierras que les pertenecen.\nPor su parte, el Ministerio de Sanidad de Gaza ha informado que colocó puntos médicos de ambulancias a lo largo del camino de retorno, a fin de garantizar la atención médica urgente para todos los ciudadanos que lo necesiten.\nMás del 85 por ciento de los gazatíes se convirtieron en desplazados de sus regiones, a fin de evadir los intensos bombardeos, la ausencia de agua, alimentación, atención médica segura y obligados a vivir en tiendas de campaña.\nDe acuerdo con Jorge Kreyness, periodista y analista internacional entrevistado por teleSUR, este regreso constituye una gran victoria del pueblo palestino, pues el Ejército sionista no logró ninguno de sus objetivos con el genocidio lanzado el 7 de octubre de 2023, entre los que estaban ocupar toda la Franja, expulsar a los civiles palestinos y derrotar a la resistencia palestina.\nEl experto recordó que la victoria no es solo sobre la estrategia de limpieza étnica israelí contra los palestinos, sino que el genocidio israelí se combina con el plan de los Estados Unidos para controlar recursos naturales en la región del Medio Oriente bajo la bandera de la lucha antiterrorista.\nPese a regresar a ciudades convertidas en escombros, los palestinos ven la esperanza en volver a sus lugares de nacimiento.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/en-imagenes-palestinos-desplazados-retornan-al-norte-de-gaza-y-aseguran-que-reconstruiran-sus-ciudades/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 333,
+    "message_id": 85537,
+    "date": "2025-01-27T18:56:28+00:00",
+    "text": "🌐 Noticias de la web que debes conocer\n\n▪ En imágenes: Palestinos desplazados retornan al norte de Gaza\nhttps://www.telesurtv.net/en-imagenes-palestinos-desplazados-retornan-al-norte-de-gaza-y-aseguran-que-reconstruiran-sus-ciudades/\n\n▪ La confrontación que no fue: claves de la crisis entre Colombia y Estados Unidos\nhttps://www.telesurtv.net/la-confrontacion-que-no-fue/\n\n▪ CNE anuncia elecciones integrales en Venezuela para el 27 de abril de 2025\nhttps://www.telesurtv.net/cne-anuncia-elecciones-integrales-en-venezuela-para-el-27-de-abril-de-2025/\n\nSíguenos en 📲",
+    "photo_path": null,
+    "views": 2538,
+    "reactions": {
+      "🙏": 23,
+      "👍": 5,
+      "🥰": 2,
+      "🕊": 1
+    },
+    "total_reactions": 31
+  },
+  "preprocessing": {
+    "cleaned": "“la alegría de los gazatíes es indescriptible”, reportó la corrresponsal de telesur en gaza, huda heazi desde el cruce por el que los gazatíes emprendieron el regreso a pie y se mostraban felices, pese a los kilómetros que deberán recorrer. los desplazados reconocen que tienen muchos retos por delante, como la reconstrucción de sus ciudades y la reparación psicológica, y están muy agotados, pero van a recuperar las tierras que les pertenecen. por su parte, el ministerio de sanidad de gaza ha informado que colocó puntos médicos de ambulancias a lo largo del camino de retorno, a fin de garantizar la atención médica urgente para todos los ciudadanos que lo necesiten. más del 85 por ciento de los gazatíes se convirtieron en desplazados de sus regiones, a fin de evadir los intensos bombardeos, la ausencia de agua, alimentación, atención médica segura y obligados a vivir en tiendas de campaña. de acuerdo con jorge kreyness, periodista y analista internacional entrevistado por telesur, este regreso constituye una gran victoria del pueblo palestino, pues el ejército sionista no logró ninguno de sus objetivos con el genocidio lanzado el 7 de octubre de 2023, entre los que estaban ocupar toda la franja, expulsar a los civiles palestinos y derrotar a la resistencia palestina. el experto recordó que la victoria no es solo sobre la estrategia de limpieza étnica israelí contra los palestinos, sino que el genocidio israelí se combina con el plan de los estados unidos para controlar recursos naturales en la región del medio oriente bajo la bandera de la lucha antiterrorista. pese a regresar a ciudades convertidas en escombros, los palestinos ven la esperanza en volver a sus lugares de nacimiento.",
+    "tokens": [
+      "“",
+      "alegría",
+      "gazatíes",
+      "indescriptible",
+      "”",
+      ",",
+      "reportó",
+      "corrresponsal",
+      "telesur",
+      "gaza",
+      ",",
+      "huda",
+      "heazi",
+      "cruce",
+      "gazatíes",
+      "emprendieron",
+      "regreso",
+      "pie",
+      "mostraban",
+      "felices",
+      ",",
+      "pese",
+      "kilómetros",
+      "deberán",
+      "recorrer",
+      ".",
+      "desplazados",
+      "reconocen",
+      "retos",
+      "delante",
+      ",",
+      "reconstrucción",
+      "ciudades",
+      "reparación",
+      "psicológica",
+      ",",
+      "agotados",
+      ",",
+      "van",
+      "recuperar",
+      "tierras",
+      "pertenecen",
+      ".",
+      "parte",
+      ",",
+      "ministerio",
+      "sanidad",
+      "gaza",
+      "informado",
+      "colocó",
+      "puntos",
+      "médicos",
+      "ambulancias",
+      "largo",
+      "camino",
+      "retorno",
+      ",",
+      "fin",
+      "garantizar",
+      "atención",
+      "médica",
+      "urgente",
+      "ciudadanos",
+      "necesiten",
+      ".",
+      "85",
+      "ciento",
+      "gazatíes",
+      "convirtieron",
+      "desplazados",
+      "regiones",
+      ",",
+      "fin",
+      "evadir",
+      "intensos",
+      "bombardeos",
+      ",",
+      "ausencia",
+      "agua",
+      ",",
+      "alimentación",
+      ",",
+      "atención",
+      "médica",
+      "segura",
+      "obligados",
+      "vivir",
+      "tiendas",
+      "campaña",
+      ".",
+      "acuerdo",
+      "jorge",
+      "kreyness",
+      ",",
+      "periodista",
+      "analista",
+      "internacional",
+      "entrevistado",
+      "telesur",
+      ",",
+      "regreso",
+      "constituye",
+      "gran",
+      "victoria",
+      "pueblo",
+      "palestino",
+      ",",
+      "pues",
+      "ejército",
+      "sionista",
+      "logró",
+      "ninguno",
+      "objetivos",
+      "genocidio",
+      "lanzado",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "ocupar",
+      "toda",
+      "franja",
+      ",",
+      "expulsar",
+      "civiles",
+      "palestinos",
+      "derrotar",
+      "resistencia",
+      "palestina",
+      ".",
+      "experto",
+      "recordó",
+      "victoria",
+      "solo",
+      "estrategia",
+      "limpieza",
+      "étnica",
+      "israelí",
+      "palestinos",
+      ",",
+      "sino",
+      "genocidio",
+      "israelí",
+      "combina",
+      "plan",
+      "unidos",
+      "controlar",
+      "recursos",
+      "naturales",
+      "región",
+      "medio",
+      "oriente",
+      "bajo",
+      "bandera",
+      "lucha",
+      "antiterrorista",
+      ".",
+      "pese",
+      "regresar",
+      "ciudades",
+      "convertidas",
+      "escombros",
+      ",",
+      "palestinos",
+      "ven",
+      "esperanza",
+      "volver",
+      "lugares",
+      "nacimiento",
+      "."
+    ],
+    "token_count": 170,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "FW": 72,
+      "JJ": 25,
+      "NN": 103,
+      "IN": 11,
+      "NNS": 11,
+      "VBP": 9,
+      "CD": 2,
+      "DT": 2,
+      "VBZ": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 5,
+      "FW-FW": 47,
+      "FW-JJ": 4,
+      "JJ-NN": 16,
+      "NN-JJ": 10,
+      "NN-NN": 64,
+      "NN-IN": 7,
+      "IN-FW": 8,
+      "FW-NNP": 8,
+      "NNP-NNP": 5,
+      "NNP-NN": 9,
+      "NN-NNS": 6,
+      "NNS-JJ": 2,
+      "JJ-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-JJ": 1,
+      "NN-NNP": 4,
+      "NN-FW": 8,
+      "FW-NNS": 2,
+      "VBP-NN": 4,
+      "NN-VBP": 1,
+      "VBP-NNP": 2,
+      "FW-NN": 6,
+      "JJ-NNP": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NNS-FW": 1,
+      "IN-NN": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "JJ-FW": 2,
+      "FW-IN": 2,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "VBZ-NN": 1,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "VBP-FW": 1,
+      "IN-JJ": 1,
+      "VBP-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 31,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 4,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 40,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 7,
+      "NN-NN-JJ": 7,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-JJ": 2,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 6,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-NN": 4,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "NN-NN-NNS": 3,
+      "NNS-JJ-NNS": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-NNS-VBP": 4,
+      "NNP-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-IN": 2,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NN-FW-NN": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 103,
+        "FW": 72,
+        "JJ": 25,
+        "NNP": 21,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 64,
+        "FW-FW": 47,
+        "JJ-NN": 16,
+        "NN-JJ": 10,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 40,
+        "FW-FW-FW": 31,
+        "JJ-NN-NN": 9,
+        "NN-JJ-NN": 7,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 15,
+      "PP": 2,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('a', 'DT') ('fin', 'NN')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP ('alegría', 'FW') ('de', 'FW') ('los', 'FW') NP NP (',', ',') VP ('la', 'FW') ('corrresponsal', 'FW') ('de', 'FW') ('teleSUR', 'FW') ('en', 'FW') NP (',', ',') NP NP VP (',', ',') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('“', 'JJ') ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('gazatíes', 'JJ') ('es', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('indescriptible', 'JJ') ('”', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('reportó', 'VB')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Huda', 'NNP') ('Heazi', 'NNP') ('desde', 'NN') ('el', 'NN') ('cruce', 'NN') ('por', 'NN') ('el', 'NN') ('que', 'NN') ('los', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('gazatíes', 'JJ') ('emprendieron', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('regreso', 'VBZ') NP NP",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "“ La"
+      },
+      {
+        "label": "NP",
+        "text": "gazatíes es"
+      },
+      {
+        "label": "NP",
+        "text": "indescriptible ”"
+      },
+      {
+        "label": "VP",
+        "text": "reportó"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Huda Heazi desde el cruce por el que los"
+      },
+      {
+        "label": "NP",
+        "text": "gazatíes emprendieron el"
+      },
+      {
+        "label": "VP",
+        "text": "regreso a pie y se mostraban felices"
+      },
+      {
+        "label": "NP",
+        "text": "a pie y"
+      },
+      {
+        "label": "NP",
+        "text": "se mostraban felices"
+      },
+      {
+        "label": "VP",
+        "text": "pese a los kilómetros que deberán recorrer"
+      },
+      {
+        "label": "NP",
+        "text": "a los kilómetros que deberán recorrer"
+      },
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "NP",
+        "text": "desplazados reconocen que tienen muchos retos por delante"
+      },
+      {
+        "label": "NP",
+        "text": "como"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP “/JJ La/NNP)\n  alegría/FW\n  de/FW\n  los/FW\n  (NP gazatíes/JJ es/NN)\n  (NP indescriptible/JJ ”/NN)\n  ,/,\n  (VP reportó/VB)\n  la/FW\n  corrresponsal/FW\n  de/FW\n  teleSUR/FW\n  en/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP\n    Huda/NNP\n    Heazi/NNP\n    desde/NN\n    el/NN\n    cruce/NN\n    por/NN\n    el/NN\n    que/NN\n    los/NN)\n  (NP gazatíes/JJ emprendieron/NN el/NN)\n  (VP\n    regreso/VBZ\n    (NP a/DT pie/NN y/NN)\n    (NP se/JJ mostraban/NN felices/NNS))\n  ,/,\n  (VP\n    pese/VBP\n    (NP a/DT los/NN kilómetros/NN que/NN deberán/NN recorrer/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (NP\n    desplazados/JJ\n    reconocen/NN\n    que/NN\n    tienen/NN\n    muchos/NN\n    retos/NN\n    por/NN\n    delante/NN)\n  ,/,\n  (NP como/NN)\n  la/FW\n  reconstrucción/FW\n  de/FW\n  sus/FW\n  (NP ciudades/NNS)\n  (VP y/VBP (NP la/JJ reparación/NN psicológica/NN))\n  ,/,\n  y/CC\n  (NP están/JJ muy/NN agotados/NN)\n  ,/,\n  (NP pero/NN van/NN)\n  (NP a/DT recuperar/NN las/NN tierras/NNS)\n  (NP que/JJ les/NNS pertenecen/NNS)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Sanidad/NNP)\n  de/FW\n  (NP\n    Gaza/NNP\n    ha/NN\n    informado/NN\n    que/NN\n    colocó/NN\n    puntos/NN\n    médicos/NN)\n  de/IN\n  ambulancias/FW\n  (NP a/DT lo/NN largo/NN del/NN camino/NN)\n  (PP de/IN (NP retorno/NN))\n  ,/,\n  (NP a/DT fin/NN)\n  de/FW\n  garantizar/FW\n  la/FW\n  atención/FW\n  médica/FW\n  (NP urgente/JJ para/NN todos/NN los/NN)\n  (NP ciudadanos/JJ que/NN lo/NN necesiten/NN)\n  ./.)",
+      "(S\n  (NP Más/NNP)\n  (VP del/VBZ)\n  85/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  los/FW\n  (NP gazatíes/JJ se/NN convirtieron/NN)\n  en/FW\n  desplazados/FW\n  de/FW\n  sus/FW\n  (NP regiones/NNS)\n  ,/,\n  (NP a/DT fin/NN)\n  de/IN\n  evadir/FW\n  los/FW\n  (NP intensos/JJ bombardeos/NN)\n  ,/,\n  la/FW\n  ausencia/FW\n  de/FW\n  agua/FW\n  ,/,\n  (NP alimentación/NN)\n  ,/,\n  (NP atención/NN médica/NN segura/NN y/NN)\n  (PP obligados/IN (NP a/DT vivir/NN))\n  en/FW\n  tiendas/FW\n  de/FW\n  (NP campaña/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN Jorge/NNP Kreyness/NNP)\n  ,/,\n  (NP periodista/NN y/NN)\n  (NP analista/JJ internacional/JJ entrevistado/NN por/NN teleSUR/NN)\n  ,/,\n  (NP este/NN regreso/NN constituye/NN)\n  (NP una/JJ gran/NN victoria/NNS)\n  (VP del/VBP (NP pueblo/NN palestino/NN))\n  ,/,\n  (NP pues/NNS)\n  (VP el/VBP (NP Ejército/NNP sionista/NN))\n  no/DT\n  (ADJP logró/JJ)\n  ninguno/FW\n  de/FW\n  sus/FW\n  objetivos/FW\n  (NP con/NN el/NN genocidio/NN lanzado/NN)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ,/,\n  entre/FW\n  los/FW\n  (NP que/JJ estaban/NN ocupar/NN toda/NN la/NN Franja/NNP)\n  ,/,\n  (VP expulsar/VBZ (NP a/DT los/JJ civiles/NNS))\n  (VP palestinos/VBP y/RB)\n  (VP derrotar/VB (NP a/DT la/NN resistencia/NN palestina/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con jorge kreyness, periodista y analista internacional",
+        "position": [
+          904,
+          967
+        ],
+        "start": 904,
+        "end": 967
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con jorge kreyness, periodista y analista",
+        "position": [
+          904,
+          953
+        ],
+        "start": 904,
+        "end": 953
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio lanzado el 7 de octubre de 2023, entre los que estaban ocupar toda la franja, expulsar a los civiles palestinos y derrotar a la resistencia palestina",
+        "position": [
+          1125,
+          1284
+        ],
+        "start": 1125,
+        "end": 1284
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periodista y analista internacional",
+        "position": [
+          932,
+          967
+        ],
+        "start": 932,
+        "end": 967
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con jorge kreyness, periodista y analista internacional entrevistado por telesur, este regreso constituye una gran victoria del pueblo palestino, pues el ejército sionista no logró ninguno de sus objetivos con el genocidio lanzado el 7",
+        "position": [
+          904,
+          1147
+        ],
+        "start": 904,
+        "end": 1147
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          815,
+          819
+        ],
+        "start": 815,
+        "end": 819
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1462,
+          1476
+        ],
+        "start": 1462,
+        "end": 1476
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          1275,
+          1284
+        ],
+        "start": 1275,
+        "end": 1284
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región del",
+        "position": [
+          1517,
+          1527
+        ],
+        "start": 1517,
+        "end": 1527
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1146,
+          1166
+        ],
+        "start": 1146,
+        "end": 1166
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jorge Kreyness",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Huda Heazi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Sanidad de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Huda Heazi",
+        "relacion": "REPORTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Jorge Kreyness",
+        "relacion": "CONSTITUIR",
+        "objeto": "Franja"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.009,
+    "neu": 0.974,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "url": "https://www.telesurtv.net/arreaza-asegura-que-pedido-de-intervencion-a-venezuela-pone-en-peligro-la-paz-de-colombia/",
+  "title": "Arreaza asegura que pedido de intervención a Venezuela pone en peligro la paz de Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "ALBA-TCP",
+    "Colombia",
+    "Venezuela"
+  ],
+  "text": "El secretario general de la Alianza Bolivariana para los Pueblos de Nuestra América – Tratado de Comercio de los Pueblos (ALBA – TCP), Jorge Arreaza, rechazó este domingo la solicitud del expresidente colombiano Álvaro Uribe, quien recientemente pidió en un mitin público una intervención militar en Venezuela.\nA través de su canal de Telegram, Arreaza afirmó: “Si en Venezuela un dirigente nacional pidiera una intervención militar contra algún país en el mundo, las instituciones actuarían de inmediato. Es un grave delito que, además, tratándose de un país vecino, pone en peligro la paz y estabilidad de la propia Colombia”.\nCabe destacar que las declaraciones de Uribe se produjeron tras la reciente juramentación del presidente reelecto de la República Bolivariana de Venezuela, Nicolás Maduro, el pasado 10 de enero. “Lo que nosotros propugnamos es una intervención militar internacional con el ejército de Venezuela que desaloje a la dictadura”, dijo el expresidente Uribe desde el lado colombiano de la frontera, en Cúcuta.\nNo es la primera vez que el expresidente realiza actos de injerencia sobre la nación y viola el derecho internacional de la soberanía del pueblo, pero la respuesta venezolana no se hizo esperar.\nDurante la clausura del Festival Internacional Antifascistas, el jefe de Estado venezolano le respondió: “Triste personaje paramilitar y narcotraficante. Asesino y criminal. Cobarde, ven tú al frente de las tropas. Te espero en el campo de batalla, cara a cara, no mandes a otros”.\n“Abajo Uribe, abajo el fascismo y arriba los pueblos”, concluyó Maduro.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/arreaza-asegura-que-pedido-de-intervencion-a-venezuela-pone-en-peligro-la-paz-de-colombia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1381,
+    "message_id": 84342,
+    "date": "2025-01-13T11:55:07+00:00",
+    "text": "teleSUR\nArreaza asegura que pedido de intervención a Venezuela pone en peligro la paz de Colombia\nhttps://www.telesurtv.net/arreaza-asegura-que-pedido-de-intervencion-a-venezuela-pone-en-peligro-la-paz-de-colombia/",
+    "photo_path": null,
+    "views": 3071,
+    "reactions": {
+      "👍": 64,
+      "👏": 7
+    },
+    "total_reactions": 71
+  },
+  "preprocessing": {
+    "cleaned": "el secretario general de la alianza bolivariana para los pueblos de nuestra américa – tratado de comercio de los pueblos (alba – tcp), jorge arreaza, rechazó este domingo la solicitud del expresidente colombiano álvaro uribe, quien recientemente pidió en un mitin público una intervención militar en venezuela. a través de su canal de telegram, arreaza afirmó: “si en venezuela un dirigente nacional pidiera una intervención militar contra algún país en el mundo, las instituciones actuarían de inmediato. es un grave delito que, además, tratándose de un país vecino, pone en peligro la paz y estabilidad de la propia colombia”. cabe destacar que las declaraciones de uribe se produjeron tras la reciente juramentación del presidente reelecto de la república bolivariana de venezuela, nicolás maduro, el pasado 10 de enero. “lo que nosotros propugnamos es una intervención militar internacional con el ejército de venezuela que desaloje a la dictadura”, dijo el expresidente uribe desde el lado colombiano de la frontera, en cúcuta. no es la primera vez que el expresidente realiza actos de injerencia sobre la nación y viola el derecho internacional de la soberanía del pueblo, pero la respuesta venezolana no se hizo esperar. durante la clausura del festival internacional antifascistas, el jefe de estado venezolano le respondió: “triste personaje paramilitar y narcotraficante. asesino y criminal. cobarde, ven tú al frente de las tropas. te espero en el campo de batalla, cara a cara, no mandes a otros”. “abajo uribe, abajo el fascismo y arriba los pueblos”, concluyó maduro.",
+    "tokens": [
+      "secretario",
+      "general",
+      "alianza",
+      "bolivariana",
+      "pueblos",
+      "américa",
+      "–",
+      "tratado",
+      "comercio",
+      "pueblos",
+      "(",
+      "alba",
+      "–",
+      "tcp",
+      ")",
+      ",",
+      "jorge",
+      "arreaza",
+      ",",
+      "rechazó",
+      "domingo",
+      "solicitud",
+      "expresidente",
+      "colombiano",
+      "álvaro",
+      "uribe",
+      ",",
+      "recientemente",
+      "pidió",
+      "mitin",
+      "público",
+      "intervención",
+      "militar",
+      "venezuela",
+      ".",
+      "través",
+      "canal",
+      "telegram",
+      ",",
+      "arreaza",
+      "afirmó",
+      ":",
+      "“",
+      "si",
+      "venezuela",
+      "dirigente",
+      "nacional",
+      "pidiera",
+      "intervención",
+      "militar",
+      "algún",
+      "país",
+      "mundo",
+      ",",
+      "instituciones",
+      "actuarían",
+      "inmediato",
+      ".",
+      "grave",
+      "delito",
+      ",",
+      "además",
+      ",",
+      "tratándose",
+      "país",
+      "vecino",
+      ",",
+      "pone",
+      "peligro",
+      "paz",
+      "estabilidad",
+      "propia",
+      "colombia",
+      "”",
+      ".",
+      "cabe",
+      "destacar",
+      "declaraciones",
+      "uribe",
+      "produjeron",
+      "tras",
+      "reciente",
+      "juramentación",
+      "presidente",
+      "reelecto",
+      "república",
+      "bolivariana",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "pasado",
+      "10",
+      "enero",
+      ".",
+      "“",
+      "propugnamos",
+      "intervención",
+      "militar",
+      "internacional",
+      "ejército",
+      "venezuela",
+      "desaloje",
+      "dictadura",
+      "”",
+      ",",
+      "dijo",
+      "expresidente",
+      "uribe",
+      "lado",
+      "colombiano",
+      "frontera",
+      ",",
+      "cúcuta",
+      ".",
+      "primera",
+      "vez",
+      "expresidente",
+      "realiza",
+      "actos",
+      "injerencia",
+      "nación",
+      "viola",
+      "derecho",
+      "internacional",
+      "soberanía",
+      "pueblo",
+      ",",
+      "respuesta",
+      "venezolana",
+      "hizo",
+      "esperar",
+      ".",
+      "clausura",
+      "festival",
+      "internacional",
+      "antifascistas",
+      ",",
+      "jefe",
+      "venezolano",
+      "respondió",
+      ":",
+      "“",
+      "triste",
+      "personaje",
+      "paramilitar",
+      "narcotraficante",
+      ".",
+      "asesino",
+      "criminal",
+      ".",
+      "cobarde",
+      ",",
+      "ven",
+      "frente",
+      "tropas",
+      ".",
+      "espero",
+      "campo",
+      "batalla",
+      ",",
+      "cara",
+      "cara",
+      ",",
+      "mandes",
+      "”",
+      ".",
+      "“",
+      "abajo",
+      "uribe",
+      ",",
+      "abajo",
+      "fascismo",
+      "arriba",
+      "pueblos",
+      "”",
+      ",",
+      "concluyó",
+      "maduro",
+      "."
+    ],
+    "token_count": 181,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "NN": 94,
+      "IN": 14,
+      "FW": 43,
+      "JJ": 24,
+      "VBZ": 2,
+      "NNS": 5,
+      "VBP": 4,
+      "VBD": 1,
+      "CD": 1,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 16,
+      "NN-NN": 51,
+      "NN-IN": 11,
+      "IN-FW": 6,
+      "FW-NNP": 12,
+      "NNP-NNP": 18,
+      "NN-NNP": 8,
+      "NNP-IN": 1,
+      "IN-NNP": 4,
+      "NNP-FW": 6,
+      "FW-FW": 19,
+      "NN-FW": 10,
+      "FW-NN": 9,
+      "IN-JJ": 3,
+      "JJ-NN": 16,
+      "NN-JJ": 9,
+      "NNP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 3,
+      "FW-NNS": 1,
+      "NNS-FW": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "JJ-JJ": 3,
+      "FW-JJ": 2,
+      "JJ-FW": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-NNP": 2,
+      "IN-NN": 1,
+      "NN-DT": 1,
+      "DT-NNS": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 14,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NN": 7,
+      "NN-NN-NNP": 6,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "NN-NN-NN": 24,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 10,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NN": 10,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 7,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "FW-NN-FW": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "FW-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-FW-NN": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NNP-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "IN-NNP-NN": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "FW-JJ-NNP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NNS": 1,
+      "DT-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "NNP": 47,
+        "FW": 43,
+        "JJ": 24,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "FW-FW": 19,
+        "NNP-NNP": 18,
+        "NNP-NN": 16,
+        "JJ-NN": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "NNP-NN-NN": 14,
+        "FW-FW-FW": 10,
+        "JJ-NN-NN": 10,
+        "NNP-NNP-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 74,
+      "PP": 7,
+      "ADJP": 4,
+      "VP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0481
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('intervención', 'NN') ('militar', 'NN')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP PP ('de', 'FW') NP ('de', 'FW') ('los', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP ('solicitud', 'FW') ('del', 'FW') ('expresidente', 'FW') NP (',', ',') NP PP NP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('secretario', 'NN') ('general', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Alianza', 'NNP') ('Bolivariana', 'NNP') ('para', 'NN') ('los', 'NN') ('Pueblos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Nuestra', 'NNP') ('América', 'NNP') ('–', 'NNP') ('Tratado', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Comercio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Pueblos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('ALBA', 'NNP') ('–', 'NNP') ('TCP', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El secretario general"
+      },
+      {
+        "label": "NP",
+        "text": "Alianza Bolivariana para los Pueblos"
+      },
+      {
+        "label": "PP",
+        "text": "de Nuestra América – Tratado"
+      },
+      {
+        "label": "NP",
+        "text": "Nuestra América – Tratado"
+      },
+      {
+        "label": "NP",
+        "text": "Comercio"
+      },
+      {
+        "label": "NP",
+        "text": "Pueblos"
+      },
+      {
+        "label": "NP",
+        "text": "ALBA – TCP"
+      },
+      {
+        "label": "NP",
+        "text": "Jorge Arreaza"
+      },
+      {
+        "label": "NP",
+        "text": "rechazó este domingo la"
+      },
+      {
+        "label": "NP",
+        "text": "colombiano Álvaro Uribe"
+      },
+      {
+        "label": "NP",
+        "text": "quien recientemente pidió"
+      },
+      {
+        "label": "PP",
+        "text": "en un mitin público"
+      },
+      {
+        "label": "NP",
+        "text": "un mitin público"
+      },
+      {
+        "label": "NP",
+        "text": "una intervención militar"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP secretario/NN general/NN)\n  de/IN\n  la/FW\n  (NP Alianza/NNP Bolivariana/NNP para/NN los/NN Pueblos/NNP)\n  (PP de/IN (NP Nuestra/NNP América/NNP –/NNP Tratado/NNP))\n  de/FW\n  (NP Comercio/NNP)\n  de/FW\n  los/FW\n  (NP Pueblos/NNP)\n  (/(\n  (NP ALBA/NNP –/NNP TCP/NNP)\n  )/)\n  ,/,\n  (NP Jorge/NNP Arreaza/NNP)\n  ,/,\n  (NP rechazó/NN este/NN domingo/NN la/NN)\n  solicitud/FW\n  del/FW\n  expresidente/FW\n  (NP colombiano/NN Álvaro/NNP Uribe/NNP)\n  ,/,\n  (NP quien/NN recientemente/NN pidió/NN)\n  (PP en/IN (NP un/JJ mitin/NN público/NN))\n  (NP una/JJ intervención/NN militar/NN)\n  en/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  su/FW\n  (ADJP canal/JJ)\n  de/FW\n  (NP Telegram/NNP)\n  ,/,\n  (NP Arreaza/NNP afirmó/NN)\n  :/:\n  (NP “/JJ Si/NNP)\n  en/FW\n  (NP Venezuela/NNP)\n  (NP un/JJ dirigente/NN)\n  (NP nacional/JJ pidiera/NN)\n  (NP una/JJ intervención/NN militar/NN)\n  (NP contra/JJ algún/NN país/NN)\n  en/IN\n  el/FW\n  (NP mundo/NN)\n  ,/,\n  (NP las/JJ instituciones/NNS)\n  actuarían/FW\n  de/FW\n  inmediato/FW\n  ./.)",
+      "(S\n  (NP Es/NNP)\n  (NP un/JJ grave/NN delito/NN que/NN)\n  ,/,\n  (NP además/NN)\n  ,/,\n  (VP tratándose/VB)\n  de/FW\n  un/FW\n  (NP país/NN vecino/NN)\n  ,/,\n  (NP pone/NN)\n  en/FW\n  (NP peligro/NN)\n  la/FW\n  paz/FW\n  y/FW\n  estabilidad/FW\n  de/FW\n  la/FW\n  propia/FW\n  (NP Colombia/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Cabe/NNP destacar/NN que/NN)\n  (NP las/JJ declaraciones/NNS)\n  (PP de/IN (NP Uribe/NNP))\n  se/FW\n  (NP produjeron/NN tras/NNS)\n  (VP la/VBP (NP reciente/JJ juramentación/NN del/NN presidente/NN))\n  reelecto/FW\n  de/FW\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (VP el/VBD pasado/JJ)\n  10/CD\n  (PP de/IN (NP enero/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Lo/NNP que/NN nosotros/NNS)\n  (VP\n    propugnamos/VBP\n    (NP es/JJ una/JJ intervención/NN militar/NN)\n    (NP internacional/JJ con/NN el/NN))\n  ejército/FW\n  de/FW\n  (NP Venezuela/NNP que/NN)\n  (VP desaloje/VBZ (NP a/DT la/NN dictadura/NN ”/NNP))\n  ,/,\n  (NP dijo/NN el/NN expresidente/NN Uribe/NNP desde/NN el/NN)\n  (NP lado/JJ colombiano/NN)\n  de/IN\n  la/FW\n  (NP frontera/NN)\n  ,/,\n  en/FW\n  (NP Cúcuta/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "intervención militar internacional",
+        "position": [
+          860,
+          894
+        ],
+        "start": 860,
+        "end": 894
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          353,
+          359
+        ],
+        "start": 353,
+        "end": 359
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente reelecto de",
+        "position": [
+          723,
+          745
+        ],
+        "start": 723,
+        "end": 745
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "alba",
+        "position": [
+          122,
+          126
+        ],
+        "start": 122,
+        "end": 126
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de telegram",
+        "position": [
+          326,
+          343
+        ],
+        "start": 326,
+        "end": 343
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          150,
+          157
+        ],
+        "start": 150,
+        "end": 157
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          618,
+          626
+        ],
+        "start": 618,
+        "end": 626
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          300,
+          309
+        ],
+        "start": 300,
+        "end": 309
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          584,
+          590
+        ],
+        "start": 584,
+        "end": 590
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado venezolano",
+        "position": [
+          1301,
+          1318
+        ],
+        "start": 1301,
+        "end": 1318
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          232,
+          245
+        ],
+        "start": 232,
+        "end": 245
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Arreaza",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cúcuta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado venezolano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Uribe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cobarde",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Abajo Uribe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alianza Bolivariana para los Pueblos de Nuestra América",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jorge Arreaza",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ALBA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Álvaro Uribe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Festival Internacional Antifascistas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Alianza Bolivariana para los Pueblos de Nuestra América",
+        "relacion": "RECHAZAR",
+        "objeto": "Álvaro Uribe"
+      },
+      {
+        "sujeto": "Alianza Bolivariana para los Pueblos de Nuestra América",
+        "relacion": "RECHAZAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "ALBA",
+        "relacion": "RECHAZAR",
+        "objeto": "Álvaro Uribe"
+      },
+      {
+        "sujeto": "ALBA",
+        "relacion": "RECHAZAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Jorge Arreaza",
+        "relacion": "RECHAZAR",
+        "objeto": "Álvaro Uribe"
+      },
+      {
+        "sujeto": "Jorge Arreaza",
+        "relacion": "RECHAZAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Arreaza",
+        "relacion": "AFIRMAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Uribe",
+        "relacion": "PRODUCIR_DESTACAR_CABER",
+        "objeto": "República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "Uribe",
+        "relacion": "PRODUCIR_DESTACAR_CABER",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DECIR",
+        "objeto": "Uribe"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DECIR",
+        "objeto": "Cúcuta"
+      },
+      {
+        "sujeto": "Uribe",
+        "relacion": "DECIR",
+        "objeto": "Cúcuta"
+      },
+      {
+        "sujeto": "Festival Internacional Antifascistas",
+        "relacion": "RESPONDER",
+        "objeto": "Estado venezolano"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "CONCLUIR",
+        "objeto": "Abajo Uribe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8126,
+    "pos": 0.013,
+    "neu": 0.936,
+    "neg": 0.051,
+    "label": "negative"
+  }
+}

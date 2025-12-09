@@ -1,0 +1,781 @@
+{
+  "url": "https://www.telesurtv.net/genocidio-israeli-al-meno-seis-palestinos-son-asesinados-este-sabado-en-gaza/",
+  "title": "Genocidio israelí: Al menos seis palestinos son asesinados este sábado en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "conflicto destacado",
+    "Franja de Gaza",
+    "Genocidio israelí",
+    "Palestina"
+  ],
+  "text": "Gaza y Khan Younis volvieron a convertirse en el epicentro de una tragedia persistente. En la madrugada del sábado, fuerzas israelíes abrieron fuego con ametralladoras, provocando la muerte de al menos seis personas.\nEntre las víctimas se encuentra un anciano asesinado en Al-Mawasi, al suroeste de Khan Younis, y tres civiles que buscaban ayuda humanitaria en un centro de distribución. Según fuentes médicas locales, en el barrio de Sheikh Radwan, en la ciudad de Gaza, un niño perdió la vida tras recibir disparos del ejército israelí.\nEn otro ataque, ocurrido en el sur de Wadi Gaza, dos personas murieron y otras 17 resultaron heridas cuando se bombardeó una zona donde se reunían civiles para recibir asistencia humanitaria.\nDesde el inicio de la ofensiva militar en octubre de 2023, la situación humanitaria se ha deteriorado gravemente. De acuerdo con un informe reciente de la Organización de las Naciones Unidas (ONU), al menos 21.000 niños han quedado con discapacidades permanentes como consecuencia de los bombardeos y operaciones terrestres.\nA esta cifra se suman más de 64.300 palestinos asesinados, en su mayoría mujeres y menores de edad, y cerca de 162.000 personas heridas. Las autoridades locales advierten que centenares de cuerpos permanecen bajo los escombros, imposibles de recuperar debido a los ataques constantes que impiden las labores de rescate.\nPocas semanas antes de estos ataques en Gaza y Khan Younis, el hambre fue declara como uno de los factores que inciden en la mortalidad durante el asedio. Según la ONU, es un fracaso de la humanidad y un crimen de guerra.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/genocidio-israeli-al-meno-seis-palestinos-son-asesinados-este-sabado-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 705,
+    "message_id": 103905,
+    "date": "2025-09-06T11:55:08+00:00",
+    "text": "teleSUR\nGenocidio israelí: Al menos seis palestinos son asesinados este sábado en Gaza\nhttps://www.telesurtv.net/genocidio-israeli-al-meno-seis-palestinos-son-asesinados-este-sabado-en-gaza/",
+    "photo_path": null,
+    "views": 2088,
+    "reactions": {
+      "🤬": 42,
+      "👎": 2,
+      "😭": 2
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "gaza y khan younis volvieron a convertirse en el epicentro de una tragedia persistente. en la madrugada del sábado, fuerzas israelíes abrieron fuego con ametralladoras, provocando la muerte de al menos seis personas. entre las víctimas se encuentra un anciano asesinado en al-mawasi, al suroeste de khan younis, y tres civiles que buscaban ayuda humanitaria en un centro de distribución. según fuentes médicas locales, en el barrio de sheikh radwan, en la ciudad de gaza, un niño perdió la vida tras recibir disparos del ejército israelí. en otro ataque, ocurrido en el sur de wadi gaza, dos personas murieron y otras 17 resultaron heridas cuando se bombardeó una zona donde se reunían civiles para recibir asistencia humanitaria. desde el inicio de la ofensiva militar en octubre de 2023, la situación humanitaria se ha deteriorado gravemente. de acuerdo con un informe reciente de la organización de las naciones unidas (onu), al menos 21.000 niños han quedado con discapacidades permanentes como consecuencia de los bombardeos y operaciones terrestres. a esta cifra se suman más de 64.300 palestinos asesinados, en su mayoría mujeres y menores de edad, y cerca de 162.000 personas heridas. las autoridades locales advierten que centenares de cuerpos permanecen bajo los escombros, imposibles de recuperar debido a los ataques constantes que impiden las labores de rescate. pocas semanas antes de estos ataques en gaza y khan younis, el hambre fue declara como uno de los factores que inciden en la mortalidad durante el asedio. según la onu, es un fracaso de la humanidad y un crimen de guerra.",
+    "tokens": [
+      "gaza",
+      "khan",
+      "younis",
+      "volvieron",
+      "convertirse",
+      "epicentro",
+      "tragedia",
+      "persistente",
+      ".",
+      "madrugada",
+      "sábado",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "abrieron",
+      "fuego",
+      "ametralladoras",
+      ",",
+      "provocando",
+      "muerte",
+      "menos",
+      "seis",
+      "personas",
+      ".",
+      "víctimas",
+      "encuentra",
+      "anciano",
+      "asesinado",
+      "al-mawasi",
+      ",",
+      "suroeste",
+      "khan",
+      "younis",
+      ",",
+      "tres",
+      "civiles",
+      "buscaban",
+      "ayuda",
+      "humanitaria",
+      "centro",
+      "distribución",
+      ".",
+      "según",
+      "fuentes",
+      "médicas",
+      "locales",
+      ",",
+      "barrio",
+      "sheikh",
+      "radwan",
+      ",",
+      "ciudad",
+      "gaza",
+      ",",
+      "niño",
+      "perdió",
+      "vida",
+      "tras",
+      "recibir",
+      "disparos",
+      "ejército",
+      "israelí",
+      ".",
+      "ataque",
+      ",",
+      "ocurrido",
+      "sur",
+      "wadi",
+      "gaza",
+      ",",
+      "dos",
+      "personas",
+      "murieron",
+      "17",
+      "resultaron",
+      "heridas",
+      "bombardeó",
+      "zona",
+      "reunían",
+      "civiles",
+      "recibir",
+      "asistencia",
+      "humanitaria",
+      ".",
+      "inicio",
+      "ofensiva",
+      "militar",
+      "octubre",
+      "2023",
+      ",",
+      "situación",
+      "humanitaria",
+      "deteriorado",
+      "gravemente",
+      ".",
+      "acuerdo",
+      "informe",
+      "reciente",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      ",",
+      "menos",
+      "21.000",
+      "niños",
+      "quedado",
+      "discapacidades",
+      "permanentes",
+      "consecuencia",
+      "bombardeos",
+      "operaciones",
+      "terrestres",
+      ".",
+      "cifra",
+      "suman",
+      "64.300",
+      "palestinos",
+      "asesinados",
+      ",",
+      "mayoría",
+      "mujeres",
+      "menores",
+      "edad",
+      ",",
+      "cerca",
+      "162.000",
+      "personas",
+      "heridas",
+      ".",
+      "autoridades",
+      "locales",
+      "advierten",
+      "centenares",
+      "cuerpos",
+      "permanecen",
+      "bajo",
+      "escombros",
+      ",",
+      "imposibles",
+      "recuperar",
+      "debido",
+      "ataques",
+      "constantes",
+      "impiden",
+      "labores",
+      "rescate",
+      ".",
+      "pocas",
+      "semanas",
+      "ataques",
+      "gaza",
+      "khan",
+      "younis",
+      ",",
+      "hambre",
+      "declara",
+      "factores",
+      "inciden",
+      "mortalidad",
+      "asedio",
+      ".",
+      "según",
+      "onu",
+      ",",
+      "fracaso",
+      "humanidad",
+      "crimen",
+      "guerra",
+      "."
+    ],
+    "token_count": 172,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "NN": 66,
+      "FW": 59,
+      "JJ": 30,
+      "IN": 17,
+      "VBZ": 11,
+      "NNS": 18,
+      "RB": 1,
+      "VBP": 7,
+      "VBD": 2,
+      "CD": 5,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 12,
+      "NNP-NN": 2,
+      "NN-NN": 30,
+      "NN-FW": 8,
+      "FW-FW": 32,
+      "FW-NN": 12,
+      "NN-NNP": 5,
+      "NNP-FW": 7,
+      "FW-NNP": 7,
+      "FW-JJ": 3,
+      "JJ-NN": 18,
+      "NN-IN": 12,
+      "IN-NNP": 3,
+      "NNP-JJ": 2,
+      "NNP-VBZ": 5,
+      "VBZ-NNS": 2,
+      "NNS-JJ": 4,
+      "JJ-JJ": 4,
+      "IN-JJ": 1,
+      "IN-FW": 9,
+      "VBZ-JJ": 5,
+      "JJ-NNS": 5,
+      "NNS-IN": 4,
+      "JJ-RB": 1,
+      "RB-JJ": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 7,
+      "VBP-JJ": 6,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "NN-JJ": 3,
+      "FW-CD": 1,
+      "NNP-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "NN-VBZ": 3,
+      "NNS-NNS": 2,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "JJ-FW": 1,
+      "VBZ-VBZ": 1,
+      "VBZ-FW": 2,
+      "JJ-NNP": 1,
+      "NNP-NNS": 1,
+      "IN-NN": 2,
+      "FW-NNS": 3,
+      "NNS-VBZ": 1,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 19,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 3,
+      "NNP-FW-FW": 5,
+      "NN-NN-NN": 13,
+      "NN-FW-NN": 5,
+      "FW-NN-FW": 4,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 3,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 10,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 3,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 4,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 2,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 4,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 4,
+      "NNS-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-RB": 1,
+      "JJ-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 4,
+      "NN-NNP-NN": 1,
+      "IN-FW-FW": 3,
+      "FW-NNP-NNP": 2,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-FW": 1,
+      "VBZ-FW-FW": 2,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 66,
+        "FW": 59,
+        "NNP": 30,
+        "JJ": 30,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "FW-FW": 32,
+        "NN-NN": 30,
+        "JJ-NN": 18,
+        "NNP-NNP": 12,
+        "FW-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 19,
+        "NN-NN-NN": 13,
+        "JJ-NN-NN": 10,
+        "NN-IN-FW": 6,
+        "NNS-VBP-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 20,
+      "PP": 7,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0446
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Khan', 'NNP') ('Younis', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP ('y', 'PRP') NP VP ('el', 'FW') ('epicentro', 'FW') ('de', 'FW') ('una', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "VP -> ('volvieron', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('convertirse', 'NN') ('en', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('tragedia', 'NN') ('persistente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') ('madrugada', 'FW') ('del', 'FW') NP (',', ',') NP (',', ',') NP ('la', 'FW') ('muerte', 'FW') ('de', 'FW') ('al', 'FW') ('menos', 'FW') ('seis', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Khan Younis"
+      },
+      {
+        "label": "VP",
+        "text": "volvieron a convertirse en"
+      },
+      {
+        "label": "NP",
+        "text": "a convertirse en"
+      },
+      {
+        "label": "NP",
+        "text": "tragedia persistente"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "sábado"
+      },
+      {
+        "label": "NP",
+        "text": "fuerzas israelíes abrieron fuego con ametralladoras"
+      },
+      {
+        "label": "NP",
+        "text": "provocando"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "Entre"
+      },
+      {
+        "label": "VP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "se encuentra un anciano asesinado"
+      },
+      {
+        "label": "PP",
+        "text": "en Al-Mawasi"
+      },
+      {
+        "label": "NP",
+        "text": "Al-Mawasi"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Gaza/NNP)\n  y/PRP\n  (NP Khan/NNP Younis/NNP)\n  (VP volvieron/VBZ (NP a/DT convertirse/NN en/NN))\n  el/FW\n  epicentro/FW\n  de/FW\n  una/FW\n  (NP tragedia/NN persistente/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  la/FW\n  madrugada/FW\n  del/FW\n  (NP sábado/NN)\n  ,/,\n  (NP\n    fuerzas/JJ\n    israelíes/NN\n    abrieron/NN\n    fuego/NN\n    con/NN\n    ametralladoras/NNS)\n  ,/,\n  (NP provocando/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  seis/FW\n  (NP personas/NNS)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP las/VBZ)\n  víctimas/FW\n  (NP se/JJ encuentra/JJ un/JJ anciano/NN asesinado/NN)\n  (PP en/IN (NP Al-Mawasi/NNP))\n  ,/,\n  (NP al/JJ suroeste/NN)\n  (PP de/IN (NP Khan/NNP Younis/NNP))\n  ,/,\n  (NP y/NN tres/NNS)\n  (VP civiles/VBZ (NP que/JJ buscaban/NN ayuda/NN humanitaria/NN))\n  (PP en/IN (NP un/JJ centro/NN))\n  (PP de/IN (NP distribución/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP fuentes/VBZ (NP médicas/JJ locales/NNS))\n  ,/,\n  en/FW\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Sheikh/NNP Radwan/NNP))\n  ,/,\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (ADJP un/JJ)\n  niño/FW\n  (NP perdió/NN)\n  la/FW\n  vida/FW\n  tras/FW\n  recibir/FW\n  disparos/FW\n  del/FW\n  ejército/FW\n  (NP israelí/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  otro/MD\n  (VP ataque/VB)\n  ,/,\n  ocurrido/FW\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  (NP Wadi/NNP Gaza/NNP)\n  ,/,\n  (VP dos/VBZ (NP personas/JJ murieron/NN y/NN))\n  (VP otras/VBD)\n  17/CD\n  (NP resultaron/NN heridas/NNS)\n  (VP\n    cuando/VBP\n    (NP se/JJ bombardeó/NN)\n    (NP una/JJ zona/NN donde/NN se/NN reunían/NN civiles/NNS))\n  (VP para/VBP (NP recibir/JJ asistencia/NN humanitaria/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "PERIODOS_TEMPORALES",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LEYES_NORMATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva militar",
+        "position": [
+          753,
+          769
+        ],
+        "start": 753,
+        "end": 769
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "víctimas se encuentra un anciano asesinado en al-mawasi, al suroeste de khan younis, y tres civiles",
+        "position": [
+          227,
+          326
+        ],
+        "start": 227,
+        "end": 326
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva militar en octubre de 2023, la situación humanitaria se ha deteriorado gravemente. de acuerdo con un informe reciente de la organización de las naciones unidas (onu), al menos 21.000 niños han quedado con discapacidades permanentes como consecuencia",
+        "position": [
+          753,
+          1011
+        ],
+        "start": 753,
+        "end": 1011
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          650,
+          659
+        ],
+        "start": 650,
+        "end": 659
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con un informe reciente de la organización de las naciones unidas (onu), al menos 21.000 niños han quedado con discapacidades permanentes como consecuencia de los bombardeos y operaciones",
+        "position": [
+          848,
+          1043
+        ],
+        "start": 848,
+        "end": 1043
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          340,
+          357
+        ],
+        "start": 340,
+        "end": 357
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          886,
+          921
+        ],
+        "start": 886,
+        "end": 921
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1129,
+          1136
+        ],
+        "start": 1129,
+        "end": 1136
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con un informe reciente de la organización de las naciones unidas (onu), al menos 21",
+        "position": [
+          848,
+          940
+        ],
+        "start": 848,
+        "end": 940
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          530,
+          537
+        ],
+        "start": 530,
+        "end": 537
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona donde",
+        "position": [
+          664,
+          674
+        ],
+        "start": 664,
+        "end": 674
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          425,
+          434
+        ],
+        "start": 425,
+        "end": 434
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          364,
+          373
+        ],
+        "start": 364,
+        "end": 373
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la madrugada",
+        "position": [
+          88,
+          103
+        ],
+        "start": 88,
+        "end": 103
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          1171,
+          1183
+        ],
+        "start": 1171,
+        "end": 1183
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "162.000 personas",
+        "position": [
+          1167,
+          1183
+        ],
+        "start": 1167,
+        "end": 1183
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 64.300",
+        "position": [
+          1078,
+          1091
+        ],
+        "start": 1078,
+        "end": 1091
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 162.000",
+        "position": [
+          1158,
+          1174
+        ],
+        "start": 1158,
+        "end": 1174
+      }
+    ],
+    "match_count": 18
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Sheikh Radwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wadi Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Mawasi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.01,
+    "neu": 0.99,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

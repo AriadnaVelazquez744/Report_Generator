@@ -1,0 +1,852 @@
+{
+  "url": "https://www.telesurtv.net/policia-ecuatoriana-libera-a-asambleista-secuestrada-en-guayaquil/",
+  "title": "Policía ecuatoriana libera a asambleísta secuestrada en Guayaquil - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Asambleísta Ecuatoriana",
+    "Liberación",
+    "Policía de Ecuador",
+    "secuestro",
+    "Yadira Bayas"
+  ],
+  "text": "En medio de la ola de inseguridad y violencia asociada a bandas criminales que atraviesa Ecuador, la policía del país suramericano informó el lunes de la liberación de la parlamentaria oficialista Yadira Bayas, tras ser secuestrada horas antes en la ciudad de Guayaquil.\nA través de sus redes sociales, el organismo de seguridad indicó que la liberación de la asambleísta del partido Acción Democrática Nacional (ADN) se debió al rápido accionar del ente policial y añadió que detuvieron a tres presuntos implicados en el secuestro de la parlamentaria.\nSegún un reporte policial, Yadira Bayas fue secuestrada alrededor de las 19H00 en un centro comercial ubicado del norte de Guayaquil un par de horas antes de ser liberada.\nAl conocer del rapto de la legisladora, la bancada de ADN repudió el secuestro de Yadira Bayas, que pertenece a su movimiento político. “La violencia y la intimidación no tienen cabida en una democracia y en un Estado de Derecho”, describieron.\nLa representación oficialista en la Asamblea Nacional de Ecuador agradeció el trabajo de la fuerza policial tras rescatar a la parlamentaria y exigieron todo el peso de la ley en contra de los responsables del crimen.\nYadira Bayas fue electa como legisladora de la provincia de Santo Domingo de los Tsáchila por el movimiento AMIGO en los comicios de 2023 y actualmente busca mantener su cargo por ADN en las elecciones del próximo 9 de febrero de 2025.\nMás de 30 políticos han sido asesinados desde 2023, entre ellos el candidato a la presidencia de Ecuador, Fernando Villavicencio, que fue asesinado al salir de un mitin en Quito en vísperas de la primera vuelta de los comicios anticipados de ese año, en que ganó el actual presidente Daniel Noboa.\nDebido a la violencia vinculada a los grupos delictivos ligados al narcotráfico, la tasa de homicidios trepó de 6 por cada 100.000 habitantes en 2018 al récord de 47 en 2023.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/policia-ecuatoriana-libera-a-asambleista-secuestrada-en-guayaquil/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1315,
+    "message_id": 84413,
+    "date": "2025-01-14T04:55:07+00:00",
+    "text": "teleSUR\nPolicía ecuatoriana libera a asambleísta secuestrada en Guayaquil\nhttps://www.telesurtv.net/policia-ecuatoriana-libera-a-asambleista-secuestrada-en-guayaquil/",
+    "photo_path": null,
+    "views": 2492,
+    "reactions": {
+      "👍": 38,
+      "👏": 7,
+      "🤡": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "en medio de la ola de inseguridad y violencia asociada a bandas criminales que atraviesa ecuador, la policía del país suramericano informó el lunes de la liberación de la parlamentaria oficialista yadira bayas, tras ser secuestrada horas antes en la ciudad de guayaquil. a través de sus redes sociales, el organismo de seguridad indicó que la liberación de la asambleísta del partido acción democrática nacional (adn) se debió al rápido accionar del ente policial y añadió que detuvieron a tres presuntos implicados en el secuestro de la parlamentaria. según un reporte policial, yadira bayas fue secuestrada alrededor de las 19h00 en un centro comercial ubicado del norte de guayaquil un par de horas antes de ser liberada. al conocer del rapto de la legisladora, la bancada de adn repudió el secuestro de yadira bayas, que pertenece a su movimiento político. “la violencia y la intimidación no tienen cabida en una democracia y en un estado de derecho”, describieron. la representación oficialista en la asamblea nacional de ecuador agradeció el trabajo de la fuerza policial tras rescatar a la parlamentaria y exigieron todo el peso de la ley en contra de los responsables del crimen. yadira bayas fue electa como legisladora de la provincia de santo domingo de los tsáchila por el movimiento amigo en los comicios de 2023 y actualmente busca mantener su cargo por adn en las elecciones del próximo 9 de febrero de 2025. más de 30 políticos han sido asesinados desde 2023, entre ellos el candidato a la presidencia de ecuador, fernando villavicencio, que fue asesinado al salir de un mitin en quito en vísperas de la primera vuelta de los comicios anticipados de ese año, en que ganó el actual presidente daniel noboa. debido a la violencia vinculada a los grupos delictivos ligados al narcotráfico, la tasa de homicidios trepó de 6 por cada 100.000 habitantes en 2018 al récord de 47 en 2023.",
+    "tokens": [
+      "medio",
+      "ola",
+      "inseguridad",
+      "violencia",
+      "asociada",
+      "bandas",
+      "criminales",
+      "atraviesa",
+      "ecuador",
+      ",",
+      "policía",
+      "país",
+      "suramericano",
+      "informó",
+      "lunes",
+      "liberación",
+      "parlamentaria",
+      "oficialista",
+      "yadira",
+      "bayas",
+      ",",
+      "tras",
+      "ser",
+      "secuestrada",
+      "horas",
+      "ciudad",
+      "guayaquil",
+      ".",
+      "través",
+      "redes",
+      "sociales",
+      ",",
+      "organismo",
+      "seguridad",
+      "indicó",
+      "liberación",
+      "asambleísta",
+      "partido",
+      "acción",
+      "democrática",
+      "nacional",
+      "(",
+      "adn",
+      ")",
+      "debió",
+      "rápido",
+      "accionar",
+      "ente",
+      "policial",
+      "añadió",
+      "detuvieron",
+      "tres",
+      "presuntos",
+      "implicados",
+      "secuestro",
+      "parlamentaria",
+      ".",
+      "según",
+      "reporte",
+      "policial",
+      ",",
+      "yadira",
+      "bayas",
+      "secuestrada",
+      "alrededor",
+      "19h00",
+      "centro",
+      "comercial",
+      "ubicado",
+      "norte",
+      "guayaquil",
+      "par",
+      "horas",
+      "ser",
+      "liberada",
+      ".",
+      "conocer",
+      "rapto",
+      "legisladora",
+      ",",
+      "bancada",
+      "adn",
+      "repudió",
+      "secuestro",
+      "yadira",
+      "bayas",
+      ",",
+      "pertenece",
+      "movimiento",
+      "político",
+      ".",
+      "“",
+      "violencia",
+      "intimidación",
+      "cabida",
+      "democracia",
+      "derecho",
+      "”",
+      ",",
+      "describieron",
+      ".",
+      "representación",
+      "oficialista",
+      "asamblea",
+      "nacional",
+      "ecuador",
+      "agradeció",
+      "trabajo",
+      "fuerza",
+      "policial",
+      "tras",
+      "rescatar",
+      "parlamentaria",
+      "exigieron",
+      "peso",
+      "ley",
+      "responsables",
+      "crimen",
+      ".",
+      "yadira",
+      "bayas",
+      "electa",
+      "legisladora",
+      "provincia",
+      "santo",
+      "domingo",
+      "tsáchila",
+      "movimiento",
+      "amigo",
+      "comicios",
+      "2023",
+      "actualmente",
+      "busca",
+      "mantener",
+      "cargo",
+      "adn",
+      "elecciones",
+      "próximo",
+      "9",
+      "febrero",
+      "2025.",
+      "30",
+      "políticos",
+      "sido",
+      "asesinados",
+      "2023",
+      ",",
+      "candidato",
+      "presidencia",
+      "ecuador",
+      ",",
+      "fernando",
+      "villavicencio",
+      ",",
+      "asesinado",
+      "salir",
+      "mitin",
+      "quito",
+      "vísperas",
+      "primera",
+      "vuelta",
+      "comicios",
+      "anticipados",
+      "año",
+      ",",
+      "ganó",
+      "actual",
+      "presidente",
+      "daniel",
+      "noboa",
+      ".",
+      "debido",
+      "violencia",
+      "vinculada",
+      "grupos",
+      "delictivos",
+      "ligados",
+      "narcotráfico",
+      ",",
+      "tasa",
+      "homicidios",
+      "trepó",
+      "6",
+      "cada",
+      "100.000",
+      "habitantes",
+      "2018",
+      "récord",
+      "47",
+      "2023",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "NN": 79,
+      "FW": 83,
+      "NNS": 15,
+      "VBP": 7,
+      "JJ": 31,
+      "IN": 23,
+      "VBZ": 5,
+      "VBD": 3,
+      "CD": 9,
+      "DT": 1,
+      "CC": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 6,
+      "FW-FW": 56,
+      "FW-NN": 4,
+      "NN-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-JJ": 5,
+      "JJ-NNP": 3,
+      "NN-NN": 39,
+      "NN-JJ": 6,
+      "JJ-NNS": 6,
+      "NNS-IN": 5,
+      "IN-FW": 12,
+      "FW-NNP": 12,
+      "NNP-NNP": 18,
+      "NNP-FW": 5,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "FW-NNS": 5,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "NN-NNP": 6,
+      "NNP-VBD": 3,
+      "VBD-JJ": 3,
+      "JJ-NN": 18,
+      "NN-VBP": 2,
+      "VBZ-JJ": 3,
+      "NN-IN": 14,
+      "NNP-JJ": 2,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "FW-JJ": 2,
+      "JJ-JJ": 4,
+      "IN-NNP": 2,
+      "NNP-VBZ": 3,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "IN-JJ": 4,
+      "NNS-FW": 2,
+      "NNS-NNP": 1,
+      "NNP-IN": 1,
+      "IN-CD": 4,
+      "CD-NN": 4,
+      "FW-IN": 1,
+      "CD-NNP": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "NN-CD": 2,
+      "NN-CC": 1,
+      "CC-JJ": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "FW-$": 1,
+      "$-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 3,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 40,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 18,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 7,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-NN": 6,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBD": 3,
+      "NNP-VBD-JJ": 3,
+      "VBD-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 8,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "IN-FW-NNP": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-FW": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 2,
+      "NNS-IN-CD": 2,
+      "IN-CD-NN": 3,
+      "CD-NN-NN": 2,
+      "NN-JJ-NN": 3,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "JJ-NN-NNP": 1,
+      "FW-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NN-IN-CD": 1,
+      "CD-NN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 83,
+        "NN": 79,
+        "NNP": 44,
+        "JJ": 31,
+        "IN": 23
+      },
+      "top_bigrams": {
+        "FW-FW": 56,
+        "NN-NN": 39,
+        "NNP-NNP": 18,
+        "JJ-NN": 18,
+        "NN-IN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 40,
+        "NN-NN-NN": 18,
+        "NNP-NN-NN": 8,
+        "FW-FW-NNP": 8,
+        "NNP-NNP-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 16,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Yadira', 'NNP') ('Bayas', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('Guayaquil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "VP -> ('en', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('la', 'FW') ('ola', 'FW') ('de', 'FW') ('inseguridad', 'FW') ('y', 'FW') ('violencia', 'FW') ('asociada', 'FW') NP VP (',', ',') NP ('policía', 'FW') ('del', 'FW') NP NP ('de', 'IN') ('la', 'FW') ('liberación', 'FW') ('de', 'FW') ('la', 'FW') ('parlamentaria', 'FW') ('oficialista', 'FW') NP (',', ',') VP VP ('en', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('medio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('bandas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En medio"
+      },
+      {
+        "label": "NP",
+        "text": "a bandas"
+      },
+      {
+        "label": "VP",
+        "text": "criminales que atraviesa Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "que atraviesa Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "país suramericano informó"
+      },
+      {
+        "label": "NP",
+        "text": "el lunes"
+      },
+      {
+        "label": "NP",
+        "text": "Yadira Bayas"
+      },
+      {
+        "label": "VP",
+        "text": "tras ser secuestrada horas"
+      },
+      {
+        "label": "NP",
+        "text": "ser secuestrada horas"
+      },
+      {
+        "label": "VP",
+        "text": "antes"
+      },
+      {
+        "label": "NP",
+        "text": "Guayaquil"
+      },
+      {
+        "label": "NP",
+        "text": "A través"
+      },
+      {
+        "label": "NP",
+        "text": "redes sociales"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP medio/NN)\n  de/FW\n  la/FW\n  ola/FW\n  de/FW\n  inseguridad/FW\n  y/FW\n  violencia/FW\n  asociada/FW\n  (NP a/DT bandas/NN)\n  (VP criminales/VBZ (NP que/JJ atraviesa/JJ Ecuador/NNP))\n  ,/,\n  (NP la/NN)\n  policía/FW\n  del/FW\n  (NP país/NN suramericano/NN informó/NN)\n  (NP el/JJ lunes/NNS)\n  de/IN\n  la/FW\n  liberación/FW\n  de/FW\n  la/FW\n  parlamentaria/FW\n  oficialista/FW\n  (NP Yadira/NNP Bayas/NNP)\n  ,/,\n  (VP tras/VBZ (NP ser/JJR secuestrada/NN horas/NN))\n  (VP antes/VBZ)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Guayaquil/NNP)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  sus/FW\n  (NP redes/NNS sociales/NNS)\n  ,/,\n  el/FW\n  organismo/FW\n  de/FW\n  seguridad/FW\n  indicó/FW\n  (NP que/NN)\n  la/FW\n  liberación/FW\n  de/FW\n  la/FW\n  asambleísta/FW\n  del/FW\n  (NP partido/NN Acción/NNP Democrática/NNP Nacional/NNP)\n  (/(\n  (NP ADN/NNP)\n  )/)\n  (VP se/VBD (NP debió/JJ al/NN rápido/NN accionar/NN del/NN))\n  (VP ente/VBP (NP policial/JJ y/NN añadió/NN que/NN))\n  (VP detuvieron/VBZ (NP a/DT tres/NNS))\n  (VP presuntos/VBP implicados/JJ)\n  en/FW\n  el/FW\n  secuestro/FW\n  de/FW\n  la/FW\n  (NP parlamentaria/NNS)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (NP un/JJ reporte/NN policial/NN)\n  ,/,\n  (NP Yadira/NNP Bayas/NNP)\n  (VP fue/VBD (NP secuestrada/JJ alrededor/NN))\n  de/IN\n  las/FW\n  19H00/CD\n  en/FW\n  (NP un/JJ centro/NN)\n  (NP comercial/JJ ubicado/JJ del/NN norte/NN)\n  (PP de/IN (NP Guayaquil/NNP))\n  (NP un/JJ par/NN)\n  de/IN\n  horas/FW\n  (NP antes/NNS)\n  de/IN\n  ser/FW\n  (NP liberada/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP conocer/NN del/NN rapto/NN)\n  de/IN\n  la/FW\n  legisladora/FW\n  ,/,\n  la/FW\n  bancada/FW\n  de/FW\n  (NP ADN/NNP repudió/NN)\n  el/FW\n  secuestro/FW\n  de/FW\n  (NP Yadira/NNP Bayas/NNP)\n  ,/,\n  (NP que/NN)\n  (VP pertenece/VBD (NP a/DT su/NN movimiento/NN político/NN))\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP)\n  violencia/FW\n  (NP y/NN)\n  la/FW\n  (VP intimidación/VBZ (NP no/DT tienen/NN cabida/NN))\n  (PP en/IN (NP una/JJ democracia/NN y/NN))\n  (PP en/IN (NP un/JJ Estado/NNP))\n  de/FW\n  (NP Derecho/NNP ”/NNP)\n  ,/,\n  (NP describieron/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "liberación de la parlamentaria",
+        "position": [
+          154,
+          184
+        ],
+        "start": 154,
+        "end": 184
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "tasa",
+        "position": [
+          1806,
+          1810
+        ],
+        "start": 1806,
+        "end": 1810
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1048,
+          1055
+        ],
+        "start": 1048,
+        "end": 1055
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comicios anticipados de ese año, en que ganó",
+        "position": [
+          1642,
+          1686
+        ],
+        "start": 1642,
+        "end": 1686
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          131,
+          138
+        ],
+        "start": 131,
+        "end": 138
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "liberación de la asambleísta del partido acción democrática nacional (adn) se debió al rápido accionar del ente policial y añadió que detuvieron a tres presuntos implicados en el secuestro de la parlamentaria",
+        "position": [
+          343,
+          551
+        ],
+        "start": 343,
+        "end": 551
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente daniel noboa",
+        "position": [
+          1697,
+          1720
+        ],
+        "start": 1697,
+        "end": 1720
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          1006,
+          1023
+        ],
+        "start": 1006,
+        "end": 1023
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          89,
+          96
+        ],
+        "start": 89,
+        "end": 96
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guayaquil",
+        "position": [
+          260,
+          269
+        ],
+        "start": 260,
+        "end": 269
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "quito",
+        "position": [
+          1596,
+          1601
+        ],
+        "start": 1596,
+        "end": 1601
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santo domingo",
+        "position": [
+          1248,
+          1261
+        ],
+        "start": 1248,
+        "end": 1261
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          936,
+          945
+        ],
+        "start": 936,
+        "end": 945
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro comercial",
+        "position": [
+          638,
+          654
+        ],
+        "start": 638,
+        "end": 654
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "9 de febrero de 2025",
+        "position": [
+          1402,
+          1422
+        ],
+        "start": 1402,
+        "end": 1422
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1328,
+          1339
+        ],
+        "start": 1328,
+        "end": 1339
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 30",
+        "position": [
+          1424,
+          1433
+        ],
+        "start": 1424,
+        "end": 1433
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea Nacional de Ecuador",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guayaquil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "provincia de Santo Domingo de los Tsáchila",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Quito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Acción Democrática Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado de Derecho",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yadira Bayas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fernando Villavicencio",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ecuador",
+        "relacion": "ATRAVESAR_INFORMAR",
+        "objeto": "Yadira Bayas"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "ATRAVESAR_INFORMAR",
+        "objeto": "Guayaquil"
+      },
+      {
+        "sujeto": "Yadira Bayas",
+        "relacion": "INFORMAR",
+        "objeto": "Guayaquil"
+      },
+      {
+        "sujeto": "Yadira Bayas",
+        "relacion": "SECUESTRAR",
+        "objeto": "Guayaquil"
+      },
+      {
+        "sujeto": "Yadira Bayas",
+        "relacion": "ELECTA",
+        "objeto": "provincia de Santo Domingo de los Tsáchila"
+      },
+      {
+        "sujeto": "Quito",
+        "relacion": "SALIR_ASESINAR_ASESINAR",
+        "objeto": "Daniel Noboa"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.993,
+    "neg": 0.007,
+    "label": "negative"
+  }
+}

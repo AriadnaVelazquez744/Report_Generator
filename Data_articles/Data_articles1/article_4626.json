@@ -1,0 +1,978 @@
+{
+  "url": "https://www.telesurtv.net/honduras-encarcela-a-militares-por-asesinato-en-golpe-de-estado-de-2009/",
+  "title": "Honduras encarcela a militares por asesinato en golpe de Estado de 2009 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "CSJ",
+    "encarcela",
+    "Golpe de Estado",
+    "Honduras",
+    "Militares"
+  ],
+  "text": "La Corte Suprema de Justicia (CSJ) de Honduras revocó este lunes la medida de arresto domiciliario, y en su lugar dictó prisión preventiva, para el golpista Romeo Vásquez y los ex altos mandos Venancio Cervantes y Carlos Puerto, por su responsabilidad en el asesinato de Isy Obed Murillo, primera víctima del golpe de Estado de 2009.\nDe acuerdo con la Justicia hondureña, la decisión se tomó tras una revisión del caso, que fue reabierto gracias a los esfuerzos del Gobierno de la presidenta Xiomara Castro por combatir la impunidad en el país centroamericano.\nEn el pasado mes de enero, un magistrado de Letras Penal de la Sección Judicial de Tegucigalpa (capital) había determinado que los implicados en el caso llevarían el proceso en libertad; sin embargo, el caso pasó al Ministerio Público, que encausó la nueva medida adoptada.\nDe acuerdo con el vocero del ente, Yuri Mora, la Fiscalía está en posesión de pruebas suficientes para demostrar que Isy Obed Murillo fue asesinado, por lo que el arresto domiciliario es una medida menor contra ese crimen, y se ratificaron los delitos de homicidio, lesiones graves a asesinato y tentativa de asesinato.\nEn 2009, Romeo Vásquez se desempeñaba como jefe del Estado Mayor Conjunto (EMC) de las Fuerzas Armadas, y lideró los sucesos del golpe de Estado contra el entonces presidente constitucional Manuel Zelaya.\nPor otra parte, en ese momento Venancio Cervantes y Carlos Puerto eran el subjefe del EMC y el excomandante del Comando Conjunto de Operaciones, respectivamente.\nEl joven Isy Obed Murillo participaba el 5 de julio de 2009 en una manifestación pacífica mientras los participantes rechazaban la usurpación violenta del poder esperaban por el regreso del presidente Zelaya, quien se encontraba en Nicaragua, tras ser sacado de su casa a punta de pistola.\nObed recibió un balazo en la cabeza, mientras el joven Alex Zavala también fue víctima de las balas del Ejército golpista.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/honduras-encarcela-a-militares-por-asesinato-en-golpe-de-estado-de-2009/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 2171,
+    "message_id": 88251,
+    "date": "2025-03-04T00:55:12+00:00",
+    "text": "teleSUR\nHonduras encarcela a militares por asesinato en golpe de Estado de 2009\nhttps://www.telesurtv.net/honduras-encarcela-a-militares-por-asesinato-en-golpe-de-estado-de-2009/",
+    "photo_path": null,
+    "views": 2166,
+    "reactions": {
+      "👍": 43,
+      "❤": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "la corte suprema de justicia (csj) de honduras revocó este lunes la medida de arresto domiciliario, y en su lugar dictó prisión preventiva, para el golpista romeo vásquez y los ex altos mandos venancio cervantes y carlos puerto, por su responsabilidad en el asesinato de isy obed murillo, primera víctima del golpe de estado de 2009. de acuerdo con la justicia hondureña, la decisión se tomó tras una revisión del caso, que fue reabierto gracias a los esfuerzos del gobierno de la presidenta xiomara castro por combatir la impunidad en el país centroamericano. en el pasado mes de enero, un magistrado de letras penal de la sección judicial de tegucigalpa (capital) había determinado que los implicados en el caso llevarían el proceso en libertad; sin embargo, el caso pasó al ministerio público, que encausó la nueva medida adoptada. de acuerdo con el vocero del ente, yuri mora, la fiscalía está en posesión de pruebas suficientes para demostrar que isy obed murillo fue asesinado, por lo que el arresto domiciliario es una medida menor contra ese crimen, y se ratificaron los delitos de homicidio, lesiones graves a asesinato y tentativa de asesinato. en 2009, romeo vásquez se desempeñaba como jefe del estado mayor conjunto (emc) de las fuerzas armadas, y lideró los sucesos del golpe de estado contra el entonces presidente constitucional manuel zelaya. por otra parte, en ese momento venancio cervantes y carlos puerto eran el subjefe del emc y el excomandante del comando conjunto de operaciones, respectivamente. el joven isy obed murillo participaba el 5 de julio de 2009 en una manifestación pacífica mientras los participantes rechazaban la usurpación violenta del poder esperaban por el regreso del presidente zelaya, quien se encontraba en nicaragua, tras ser sacado de su casa a punta de pistola. obed recibió un balazo en la cabeza, mientras el joven alex zavala también fue víctima de las balas del ejército golpista.",
+    "tokens": [
+      "corte",
+      "suprema",
+      "justicia",
+      "(",
+      "csj",
+      ")",
+      "honduras",
+      "revocó",
+      "lunes",
+      "medida",
+      "arresto",
+      "domiciliario",
+      ",",
+      "lugar",
+      "dictó",
+      "prisión",
+      "preventiva",
+      ",",
+      "golpista",
+      "romeo",
+      "vásquez",
+      "ex",
+      "altos",
+      "mandos",
+      "venancio",
+      "cervantes",
+      "carlos",
+      "puerto",
+      ",",
+      "responsabilidad",
+      "asesinato",
+      "isy",
+      "obed",
+      "murillo",
+      ",",
+      "primera",
+      "víctima",
+      "golpe",
+      "2009.",
+      "acuerdo",
+      "justicia",
+      "hondureña",
+      ",",
+      "decisión",
+      "tomó",
+      "tras",
+      "revisión",
+      "caso",
+      ",",
+      "reabierto",
+      "gracias",
+      "esfuerzos",
+      "gobierno",
+      "presidenta",
+      "xiomara",
+      "castro",
+      "combatir",
+      "impunidad",
+      "país",
+      "centroamericano",
+      ".",
+      "pasado",
+      "mes",
+      "enero",
+      ",",
+      "magistrado",
+      "letras",
+      "penal",
+      "sección",
+      "judicial",
+      "tegucigalpa",
+      "(",
+      "capital",
+      ")",
+      "determinado",
+      "implicados",
+      "caso",
+      "llevarían",
+      "proceso",
+      "libertad",
+      ";",
+      "embargo",
+      ",",
+      "caso",
+      "pasó",
+      "ministerio",
+      "público",
+      ",",
+      "encausó",
+      "nueva",
+      "medida",
+      "adoptada",
+      ".",
+      "acuerdo",
+      "vocero",
+      "ente",
+      ",",
+      "yuri",
+      "mora",
+      ",",
+      "fiscalía",
+      "posesión",
+      "pruebas",
+      "suficientes",
+      "demostrar",
+      "isy",
+      "obed",
+      "murillo",
+      "asesinado",
+      ",",
+      "arresto",
+      "domiciliario",
+      "medida",
+      "menor",
+      "crimen",
+      ",",
+      "ratificaron",
+      "delitos",
+      "homicidio",
+      ",",
+      "lesiones",
+      "graves",
+      "asesinato",
+      "tentativa",
+      "asesinato",
+      ".",
+      "2009",
+      ",",
+      "romeo",
+      "vásquez",
+      "desempeñaba",
+      "jefe",
+      "mayor",
+      "conjunto",
+      "(",
+      "emc",
+      ")",
+      "fuerzas",
+      "armadas",
+      ",",
+      "lideró",
+      "sucesos",
+      "golpe",
+      "entonces",
+      "presidente",
+      "constitucional",
+      "manuel",
+      "zelaya",
+      ".",
+      "parte",
+      ",",
+      "momento",
+      "venancio",
+      "cervantes",
+      "carlos",
+      "puerto",
+      "subjefe",
+      "emc",
+      "excomandante",
+      "comando",
+      "conjunto",
+      "operaciones",
+      ",",
+      "respectivamente",
+      ".",
+      "joven",
+      "isy",
+      "obed",
+      "murillo",
+      "participaba",
+      "5",
+      "julio",
+      "2009",
+      "manifestación",
+      "pacífica",
+      "mientras",
+      "participantes",
+      "rechazaban",
+      "usurpación",
+      "violenta",
+      "poder",
+      "esperaban",
+      "regreso",
+      "presidente",
+      "zelaya",
+      ",",
+      "encontraba",
+      "nicaragua",
+      ",",
+      "tras",
+      "ser",
+      "sacado",
+      "casa",
+      "punta",
+      "pistola",
+      ".",
+      "obed",
+      "recibió",
+      "balazo",
+      "cabeza",
+      ",",
+      "mientras",
+      "joven",
+      "alex",
+      "zavala",
+      "víctima",
+      "balas",
+      "ejército",
+      "golpista",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 67,
+      "IN": 18,
+      "VBP": 7,
+      "NN": 107,
+      "NNS": 11,
+      "FW": 57,
+      "VBZ": 3,
+      "JJ": 26,
+      "CD": 3,
+      "VB": 2,
+      "VBD": 2,
+      "MD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 31,
+      "NNP-IN": 5,
+      "IN-NNP": 4,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NNS": 5,
+      "NNS-FW": 2,
+      "FW-FW": 28,
+      "FW-NN": 9,
+      "NN-IN": 11,
+      "IN-NN": 2,
+      "NN-NN": 64,
+      "NN-NNP": 12,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-NNP": 1,
+      "NNP-NN": 16,
+      "IN-FW": 9,
+      "FW-NNP": 14,
+      "NN-FW": 9,
+      "IN-CD": 1,
+      "CD-NNP": 2,
+      "NNP-FW": 6,
+      "NNS-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NN": 15,
+      "NN-JJ": 5,
+      "FW-JJ": 3,
+      "JJ-FW": 2,
+      "FW-NNS": 2,
+      "VBP-JJ": 3,
+      "VBP-VB": 1,
+      "VB-JJ": 1,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "NNP-CD": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "NNP-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-IN": 1,
+      "IN-JJ": 2,
+      "NNS-NNP": 1,
+      "FW-CD": 1,
+      "CD-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 13,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 14,
+      "FW-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 1,
+      "NN-NN-NN": 41,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NN": 11,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 5,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NNP-NN": 6,
+      "NN-FW-FW": 5,
+      "FW-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 2,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-NNP-NN": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NN-JJ-NN": 3,
+      "FW-NN-NN": 3,
+      "FW-NNP-FW": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBP-VB": 1,
+      "VBP-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 2,
+      "IN-FW-NNP": 2,
+      "VBZ-JJ-JJ": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-IN": 1,
+      "VB-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NN-NNP": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-IN": 1,
+      "CD-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NN-JJ": 1,
+      "FW-NN-NNP": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 107,
+        "NNP": 67,
+        "FW": 57,
+        "JJ": 26,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 64,
+        "NNP-NNP": 31,
+        "FW-FW": 28,
+        "NNP-NN": 16,
+        "JJ-NN": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 41,
+        "FW-FW-FW": 14,
+        "NNP-NNP-NNP": 13,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 79,
+      "VP": 17,
+      "ADJP": 2,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.027
+      },
+      {
+        "rule": "NP -> ('Venancio', 'NNP') ('Cervantes', 'NNP') ('y', 'NNP') ('Carlos', 'NNP') ('Puerto', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('(', '(') NP (')', ')') ('de', 'FW') NP VP ('la', 'FW') ('medida', 'FW') ('de', 'FW') ('arresto', 'FW') NP (',', ',') ('y', 'CC') ('en', 'FW') NP (',', ',') NP VP VP (',', ',') NP ('en', 'IN') ('el', 'FW') ('asesinato', 'FW') ('de', 'FW') NP (',', ',') NP ('del', 'FW') NP ('de', 'FW') NP ('de', 'IN') ('2009', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Corte', 'NNP') ('Suprema', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Justicia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('CSJ', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Honduras', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Corte Suprema"
+      },
+      {
+        "label": "NP",
+        "text": "Justicia"
+      },
+      {
+        "label": "NP",
+        "text": "CSJ"
+      },
+      {
+        "label": "NP",
+        "text": "Honduras"
+      },
+      {
+        "label": "VP",
+        "text": "revocó este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "domiciliario"
+      },
+      {
+        "label": "NP",
+        "text": "su lugar dictó prisión preventiva"
+      },
+      {
+        "label": "NP",
+        "text": "para el golpista Romeo Vásquez y"
+      },
+      {
+        "label": "VP",
+        "text": "los ex altos"
+      },
+      {
+        "label": "NP",
+        "text": "ex altos"
+      },
+      {
+        "label": "VP",
+        "text": "mandos Venancio Cervantes y Carlos Puerto"
+      },
+      {
+        "label": "NP",
+        "text": "Venancio Cervantes y Carlos Puerto"
+      },
+      {
+        "label": "NP",
+        "text": "por su responsabilidad"
+      },
+      {
+        "label": "NP",
+        "text": "Isy Obed Murillo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Corte/NNP Suprema/NNP)\n  de/FW\n  (NP Justicia/NNP)\n  (/(\n  (NP CSJ/NNP)\n  )/)\n  de/FW\n  (NP Honduras/NNP)\n  (VP revocó/VBP (NP este/NN lunes/NNS))\n  la/FW\n  medida/FW\n  de/FW\n  arresto/FW\n  (NP domiciliario/NN)\n  ,/,\n  y/CC\n  en/FW\n  (NP su/NN lugar/NN dictó/NN prisión/NN preventiva/NN)\n  ,/,\n  (NP para/NN el/NN golpista/NN Romeo/NNP Vásquez/NNP y/NNP)\n  (VP los/VBZ (NP ex/JJ altos/NNS))\n  (VP\n    mandos/VBP\n    (NP Venancio/NNP Cervantes/NNP y/NNP Carlos/NNP Puerto/NNP))\n  ,/,\n  (NP por/NN su/NN responsabilidad/NN)\n  en/IN\n  el/FW\n  asesinato/FW\n  de/FW\n  (NP Isy/NNP Obed/NNP Murillo/NNP)\n  ,/,\n  (NP primera/NN víctima/NN)\n  del/FW\n  (NP golpe/NN)\n  de/FW\n  (NP Estado/NNP)\n  de/IN\n  2009/CD\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  (NP Justicia/NNP hondureña/NN)\n  ,/,\n  la/FW\n  decisión/FW\n  se/FW\n  (NP tomó/NN tras/NNS)\n  (NP una/JJ revisión/JJ del/NN caso/NN)\n  ,/,\n  (NP que/JJ fue/NN reabierto/NN)\n  (VP gracias/VBD (NP a/DT los/JJ esfuerzos/JJ del/NN Gobierno/NNP))\n  de/IN\n  la/FW\n  presidenta/FW\n  Xiomara/FW\n  (NP Castro/NNP por/NN combatir/NN la/NN impunidad/NN)\n  en/IN\n  el/FW\n  (NP país/JJ centroamericano/NN)\n  ./.)",
+      "(S\n  (NP En/NNP el/NN pasado/NN)\n  mes/FW\n  de/FW\n  enero/FW\n  ,/,\n  (ADJP un/JJ)\n  magistrado/FW\n  de/FW\n  (NP Letras/NNP Penal/NNP)\n  de/FW\n  la/FW\n  (NP Sección/NNP Judicial/NNP)\n  de/FW\n  (NP Tegucigalpa/NNP)\n  (/(\n  (NP capital/NN)\n  )/)\n  (NP había/NN determinado/NN que/NN los/NN)\n  (NP\n    implicados/JJ\n    en/NN\n    el/NN\n    caso/NN\n    llevarían/NN\n    el/NN\n    proceso/NN)\n  (PP en/IN (NP libertad/NN))\n  ;/:\n  sin/CC\n  (VP embargo/VB)\n  ,/,\n  el/FW\n  (NP caso/NN pasó/NN al/NN Ministerio/NNP Público/NNP)\n  ,/,\n  (NP que/NN encausó/NN la/NN)\n  nueva/FW\n  (NP medida/NN adoptada/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN vocero/NN del/NN ente/NN)\n  ,/,\n  (NP Yuri/NNP Mora/NNP)\n  ,/,\n  (NP la/NN Fiscalía/NNP está/NN)\n  en/FW\n  posesión/FW\n  de/FW\n  pruebas/FW\n  (NP suficientes/NNS)\n  (VP\n    para/VBP\n    (NP\n      demostrar/JJ\n      que/NN\n      Isy/NNP\n      Obed/NNP\n      Murillo/NNP\n      fue/NN\n      asesinado/NN))\n  ,/,\n  (NP por/NN lo/NN que/NN el/NN arresto/NN domiciliario/NN es/NN)\n  (NP una/JJ medida/NN menor/NN)\n  (NP contra/JJ ese/JJ crimen/NNS)\n  ,/,\n  y/FW\n  se/FW\n  ratificaron/FW\n  los/FW\n  delitos/FW\n  de/FW\n  (NP homicidio/NN)\n  ,/,\n  (VP\n    lesiones/VBZ\n    (NP graves/NNS)\n    (NP a/DT asesinato/NN y/NN tentativa/NN))\n  (PP de/IN (NP asesinato/NN))\n  ./.)",
+      "(S\n  (NP En/NN)\n  2009/CD\n  ,/,\n  (NP Romeo/NNP Vásquez/NNP)\n  (VP\n    se/VBD\n    (NP\n      desempeñaba/JJ\n      como/NN\n      jefe/NN\n      del/NN\n      Estado/NNP\n      Mayor/NNP\n      Conjunto/NNP))\n  (/(\n  (NP EMC/NNP)\n  )/)\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP lideró/VBZ (NP los/JJ sucesos/JJ del/NN golpe/NN))\n  (PP de/IN (NP Estado/NNP))\n  (NP contra/JJ el/NN entonces/NNS)\n  (VP presidente/VBP (NP constitucional/JJ Manuel/NNP Zelaya/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "PERIODOS_TEMPORALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ACCIONES_LEGALES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestación pacífica mientras los participantes rechazaban la usurpación violenta del poder esperaban por el regreso del presidente",
+        "position": [
+          1589,
+          1722
+        ],
+        "start": 1589,
+        "end": 1722
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          657,
+          664
+        ],
+        "start": 657,
+        "end": 664
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el vocero del ente, yuri mora, la fiscalía está en posesión de pruebas suficientes para demostrar que isy obed murillo fue asesinado, por lo que el arresto domiciliario es una medida menor contra ese crimen, y se",
+        "position": [
+          838,
+          1062
+        ],
+        "start": 838,
+        "end": 1062
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "prisión preventiva",
+        "position": [
+          120,
+          138
+        ],
+        "start": 120,
+        "end": 138
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la presidenta",
+        "position": [
+          466,
+          491
+        ],
+        "start": 466,
+        "end": 491
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta xiomara castro",
+        "position": [
+          481,
+          506
+        ],
+        "start": 481,
+        "end": 506
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "suprema de justicia",
+        "position": [
+          9,
+          28
+        ],
+        "start": 9,
+        "end": 28
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "encausó",
+        "position": [
+          801,
+          808
+        ],
+        "start": 801,
+        "end": 808
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          221,
+          227
+        ],
+        "start": 221,
+        "end": 227
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "honduras",
+        "position": [
+          38,
+          46
+        ],
+        "start": 38,
+        "end": 46
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          1754,
+          1763
+        ],
+        "start": 1754,
+        "end": 1763
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "tegucigalpa",
+        "position": [
+          644,
+          655
+        ],
+        "start": 644,
+        "end": 655
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          318,
+          327
+        ],
+        "start": 318,
+        "end": 327
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "5 de julio de 2009",
+        "position": [
+          1563,
+          1581
+        ],
+        "start": 1563,
+        "end": 1581
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "pasado mes",
+        "position": [
+          567,
+          577
+        ],
+        "start": 567,
+        "end": 577
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          752,
+          759
+        ],
+        "start": 752,
+        "end": 759
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Obed",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CSJ",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yuri Mora",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Justicia hondureña",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Manuel Zelaya",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio Público",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zelaya",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Carlos Puerto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venancio Cervantes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EMC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Isy Obed Murillo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Xiomara Castro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "en Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte Suprema de Justicia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de la presidenta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado Mayor Conjunto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Romeo Vásquez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alex Zavala",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Corte Suprema de Justicia",
+        "relacion": "REVOCAR",
+        "objeto": "Romeo Vásquez"
+      },
+      {
+        "sujeto": "Corte Suprema de Justicia",
+        "relacion": "REVOCAR",
+        "objeto": "Venancio Cervantes"
+      },
+      {
+        "sujeto": "Corte Suprema de Justicia",
+        "relacion": "REVOCAR",
+        "objeto": "Carlos Puerto"
+      },
+      {
+        "sujeto": "Corte Suprema de Justicia",
+        "relacion": "REVOCAR",
+        "objeto": "Isy Obed Murillo"
+      },
+      {
+        "sujeto": "CSJ",
+        "relacion": "REVOCAR",
+        "objeto": "Romeo Vásquez"
+      },
+      {
+        "sujeto": "CSJ",
+        "relacion": "REVOCAR",
+        "objeto": "Venancio Cervantes"
+      },
+      {
+        "sujeto": "CSJ",
+        "relacion": "REVOCAR",
+        "objeto": "Carlos Puerto"
+      },
+      {
+        "sujeto": "CSJ",
+        "relacion": "REVOCAR",
+        "objeto": "Isy Obed Murillo"
+      },
+      {
+        "sujeto": "Honduras",
+        "relacion": "REVOCAR",
+        "objeto": "Romeo Vásquez"
+      },
+      {
+        "sujeto": "Honduras",
+        "relacion": "REVOCAR",
+        "objeto": "Venancio Cervantes"
+      },
+      {
+        "sujeto": "Honduras",
+        "relacion": "REVOCAR",
+        "objeto": "Carlos Puerto"
+      },
+      {
+        "sujeto": "Honduras",
+        "relacion": "REVOCAR",
+        "objeto": "Isy Obed Murillo"
+      },
+      {
+        "sujeto": "Justicia hondureña",
+        "relacion": "TOMAR",
+        "objeto": "Gobierno de la presidenta"
+      },
+      {
+        "sujeto": "Justicia hondureña",
+        "relacion": "TOMAR",
+        "objeto": "Xiomara Castro"
+      },
+      {
+        "sujeto": "Romeo Vásquez",
+        "relacion": "DESEMPE_AR",
+        "objeto": "Estado Mayor Conjunto"
+      },
+      {
+        "sujeto": "Romeo Vásquez",
+        "relacion": "DESEMPE_AR",
+        "objeto": "EMC"
+      },
+      {
+        "sujeto": "Romeo Vásquez",
+        "relacion": "DESEMPE_AR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Romeo Vásquez",
+        "relacion": "DESEMPE_AR",
+        "objeto": "Manuel Zelaya"
+      },
+      {
+        "sujeto": "Estado Mayor Conjunto",
+        "relacion": "DESEMPE_AR",
+        "objeto": "Manuel Zelaya"
+      },
+      {
+        "sujeto": "EMC",
+        "relacion": "DESEMPE_AR",
+        "objeto": "Manuel Zelaya"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "DESEMPE_AR",
+        "objeto": "Manuel Zelaya"
+      },
+      {
+        "sujeto": "Isy Obed Murillo",
+        "relacion": "PARTICIPAR",
+        "objeto": "Zelaya"
+      },
+      {
+        "sujeto": "Isy Obed Murillo",
+        "relacion": "PARTICIPAR",
+        "objeto": "en Nicaragua"
+      },
+      {
+        "sujeto": "Obed",
+        "relacion": "RECIBIR",
+        "objeto": "Alex Zavala"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7003,
+    "pos": 0.0,
+    "neu": 0.981,
+    "neg": 0.019,
+    "label": "negative"
+  }
+}

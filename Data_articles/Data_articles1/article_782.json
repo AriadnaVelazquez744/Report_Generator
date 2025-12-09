@@ -1,0 +1,912 @@
+{
+  "url": "https://www.telesurtv.net/zona-binacional-maduro-agradece-a-petro-refuerzo-militar-contra-bandas-narcoterroristas/",
+  "title": "Zona binacional: Maduro agradece a Petro refuerzo militar contra bandas narcoterroristas - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "bandas narcoterroristas",
+    "Colombia",
+    "Venezuela",
+    "Zona binacional"
+  ],
+  "text": "El presidente constitucional de Venezuela, Nicolás Maduro, agradeció este jueves a su homólogo colombiano, Gustavo Petro, por reforzar la seguridad en la región del Catatumbo tras desplegar 25.000 efectivos militares para combatir a las bandas narcoterroristas en la frontera colombo-venezolana.\n“Quiero ante este majestuoso acto de graduación agradecer al presidente de Colombia, nuestra hermana Colombia, con la que compartimos una sola bandera, amarillo, azul y roja. El presidente Gustavo Petro ha dado una orden hoy de reforzar con 25.000 hombres, un nuevo pie de fuerza toda la zona del Catatumbo colombiano”, enfatizó el mandatario.\n“Venezuela y Colombia unidas por la paz, porque nuestras tierras la cuidamos, vigilamos y preservamos nosotros mismos”, remarcó el dignatario durante la clausura del II Curso de Operaciones Especiales Revolucionarias (COER), en la parroquia Macarao de Caracas.\nEntre tanto, el mandatario nacional orientó al ministro para la Defensa, Vladimir Padrino López, para que se dialogue con su par colombiano, Pedro Sánchez Suárez, con el objetivo de continuar con las coordinaciones para que la Zona Binacional de Paz N°1.\nPor otra parte, el presidente Maduro instruyó a los graduados del II Curso de Operaciones Especiales Revolucionarias (COER), que “se dirijan al estado Táchira y recorran con los métodos que han aprendido del Táchira hasta la Guajira limpiando el territorio de Venezuela y consolidando la soberanía y la paz de la Zona Binacional N° 1”.\nEl presidente de Colombia, Gustavo Petro, solicitó “la militarización de la frontera del Catatumbo para lograr reducir al máximo las fuerzas de la mafia”.\n“He ordenado al ejército colombiano ampliar el número de efectivos en el Catatumbo colombiano. Tenemos 25.000 soldados en la zona. No es la tierra la que le gana a la mafia, es la coordinación entre los dos Estados quien lo logra”, agregó.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/zona-binacional-maduro-agradece-a-petro-refuerzo-militar-contra-bandas-narcoterroristas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 219,
+    "message_id": 103086,
+    "date": "2025-08-29T06:55:23+00:00",
+    "text": "teleSUR\nZona binacional: Maduro agradece a Petro refuerzo militar contra bandas narcoterroristas\nhttps://www.telesurtv.net/zona-binacional-maduro-agradece-a-petro-refuerzo-militar-contra-bandas-narcoterroristas/",
+    "photo_path": null,
+    "views": 1592,
+    "reactions": {
+      "👏": 41,
+      "👍": 4,
+      "❤": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "el presidente constitucional de venezuela, nicolás maduro, agradeció este jueves a su homólogo colombiano, gustavo petro, por reforzar la seguridad en la región del catatumbo tras desplegar 25.000 efectivos militares para combatir a las bandas narcoterroristas en la frontera colombo-venezolana. “quiero ante este majestuoso acto de graduación agradecer al presidente de colombia, nuestra hermana colombia, con la que compartimos una sola bandera, amarillo, azul y roja. el presidente gustavo petro ha dado una orden hoy de reforzar con 25.000 hombres, un nuevo pie de fuerza toda la zona del catatumbo colombiano”, enfatizó el mandatario. “venezuela y colombia unidas por la paz, porque nuestras tierras la cuidamos, vigilamos y preservamos nosotros mismos”, remarcó el dignatario durante la clausura del ii curso de operaciones especiales revolucionarias (coer), en la parroquia macarao de caracas. entre tanto, el mandatario nacional orientó al ministro para la defensa, vladimir padrino lópez, para que se dialogue con su par colombiano, pedro sánchez suárez, con el objetivo de continuar con las coordinaciones para que la zona binacional de paz n°1. por otra parte, el presidente maduro instruyó a los graduados del ii curso de operaciones especiales revolucionarias (coer), que “se dirijan al estado táchira y recorran con los métodos que han aprendido del táchira hasta la guajira limpiando el territorio de venezuela y consolidando la soberanía y la paz de la zona binacional n° 1”. el presidente de colombia, gustavo petro, solicitó “la militarización de la frontera del catatumbo para lograr reducir al máximo las fuerzas de la mafia”. “he ordenado al ejército colombiano ampliar el número de efectivos en el catatumbo colombiano. tenemos 25.000 soldados en la zona. no es la tierra la que le gana a la mafia, es la coordinación entre los dos estados quien lo logra”, agregó.",
+    "tokens": [
+      "presidente",
+      "constitucional",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "agradeció",
+      "jueves",
+      "homólogo",
+      "colombiano",
+      ",",
+      "gustavo",
+      "petro",
+      ",",
+      "reforzar",
+      "seguridad",
+      "región",
+      "catatumbo",
+      "tras",
+      "desplegar",
+      "25.000",
+      "efectivos",
+      "militares",
+      "combatir",
+      "bandas",
+      "narcoterroristas",
+      "frontera",
+      "colombo-venezolana",
+      ".",
+      "“",
+      "quiero",
+      "majestuoso",
+      "acto",
+      "graduación",
+      "agradecer",
+      "presidente",
+      "colombia",
+      ",",
+      "hermana",
+      "colombia",
+      ",",
+      "compartimos",
+      "sola",
+      "bandera",
+      ",",
+      "amarillo",
+      ",",
+      "azul",
+      "roja",
+      ".",
+      "presidente",
+      "gustavo",
+      "petro",
+      "dado",
+      "orden",
+      "hoy",
+      "reforzar",
+      "25.000",
+      "hombres",
+      ",",
+      "nuevo",
+      "pie",
+      "fuerza",
+      "toda",
+      "zona",
+      "catatumbo",
+      "colombiano",
+      "”",
+      ",",
+      "enfatizó",
+      "mandatario",
+      ".",
+      "“",
+      "venezuela",
+      "colombia",
+      "unidas",
+      "paz",
+      ",",
+      "tierras",
+      "cuidamos",
+      ",",
+      "vigilamos",
+      "preservamos",
+      "mismos",
+      "”",
+      ",",
+      "remarcó",
+      "dignatario",
+      "clausura",
+      "ii",
+      "curso",
+      "operaciones",
+      "especiales",
+      "revolucionarias",
+      "(",
+      "coer",
+      ")",
+      ",",
+      "parroquia",
+      "macarao",
+      "caracas",
+      ".",
+      ",",
+      "mandatario",
+      "nacional",
+      "orientó",
+      "ministro",
+      "defensa",
+      ",",
+      "vladimir",
+      "padrino",
+      "lópez",
+      ",",
+      "dialogue",
+      "par",
+      "colombiano",
+      ",",
+      "pedro",
+      "sánchez",
+      "suárez",
+      ",",
+      "objetivo",
+      "continuar",
+      "coordinaciones",
+      "zona",
+      "binacional",
+      "paz",
+      "n°1",
+      ".",
+      "parte",
+      ",",
+      "presidente",
+      "maduro",
+      "instruyó",
+      "graduados",
+      "ii",
+      "curso",
+      "operaciones",
+      "especiales",
+      "revolucionarias",
+      "(",
+      "coer",
+      ")",
+      ",",
+      "“",
+      "dirijan",
+      "táchira",
+      "recorran",
+      "métodos",
+      "aprendido",
+      "táchira",
+      "guajira",
+      "limpiando",
+      "territorio",
+      "venezuela",
+      "consolidando",
+      "soberanía",
+      "paz",
+      "zona",
+      "binacional",
+      "n°",
+      "1",
+      "”",
+      ".",
+      "presidente",
+      "colombia",
+      ",",
+      "gustavo",
+      "petro",
+      ",",
+      "solicitó",
+      "“",
+      "militarización",
+      "frontera",
+      "catatumbo",
+      "lograr",
+      "reducir",
+      "máximo",
+      "fuerzas",
+      "mafia",
+      "”",
+      ".",
+      "“",
+      "ordenado",
+      "ejército",
+      "colombiano",
+      "ampliar",
+      "número",
+      "efectivos",
+      "catatumbo",
+      "colombiano",
+      ".",
+      "25.000",
+      "soldados",
+      "zona",
+      ".",
+      "tierra",
+      "gana",
+      "mafia",
+      ",",
+      "coordinación",
+      "dos",
+      "logra",
+      "”",
+      ",",
+      "agregó",
+      "."
+    ],
+    "token_count": 208,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 60,
+      "JJ": 21,
+      "NN": 117,
+      "FW": 48,
+      "VBZ": 2,
+      "NNS": 10,
+      "VBP": 7,
+      "VBD": 2,
+      "CD": 3,
+      "IN": 9,
+      "MD": 1,
+      "VB": 1,
+      "PRP": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 3,
+      "JJ-NN": 12,
+      "NN-FW": 13,
+      "FW-NNP": 12,
+      "NNP-NNP": 27,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 7,
+      "VBP-JJ": 7,
+      "NN-NNP": 15,
+      "NNP-NN": 19,
+      "NN-NN": 73,
+      "FW-FW": 26,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "JJ-NNS": 4,
+      "JJ-FW": 2,
+      "FW-NN": 9,
+      "NN-IN": 6,
+      "IN-NNP": 4,
+      "NNS-NNP": 1,
+      "NN-JJ": 4,
+      "JJ-JJ": 3,
+      "IN-FW": 4,
+      "NN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "FW-NNS": 1,
+      "NNP-IN": 3,
+      "NNP-FW": 3,
+      "IN-NN": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-PRP": 1,
+      "PRP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 12,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NNP": 7,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 16,
+      "NN-NN-NN": 47,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 16,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "VBP-JJ-NNS": 3,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 7,
+      "FW-NN-NN": 4,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 5,
+      "NN-NN-NNP": 9,
+      "NNP-NN-NNP": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 3,
+      "FW-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-NN-FW": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NNP-JJ": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-FW-NN": 3,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "FW-NN-PRP": 1,
+      "NN-PRP-VBZ": 1,
+      "PRP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "IN-FW-FW": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 117,
+        "NNP": 60,
+        "FW": 48,
+        "JJ": 21,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 73,
+        "NNP-NNP": 27,
+        "FW-FW": 26,
+        "NNP-NN": 19,
+        "NN-NNP": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 47,
+        "NNP-NN-NN": 16,
+        "FW-FW-FW": 16,
+        "NNP-NNP-NNP": 12,
+        "NN-NN-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 77,
+      "VP": 13,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0381
+      },
+      {
+        "rule": "NP -> ('Gustavo', 'NNP') ('Petro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Operaciones', 'NNP') ('Especiales', 'NNP') ('Revolucionarias', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('COER', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP (',', ',') NP (',', ',') NP ('seguridad', 'FW') ('en', 'FW') ('la', 'FW') ('región', 'FW') ('del', 'FW') NP VP ('25.000', 'CD') NP VP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('presidente', 'JJ') ('constitucional', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "presidente constitucional"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "agradeció este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves a su homólogo colombiano"
+      },
+      {
+        "label": "NP",
+        "text": "a su homólogo colombiano"
+      },
+      {
+        "label": "NP",
+        "text": "Gustavo Petro"
+      },
+      {
+        "label": "NP",
+        "text": "por reforzar la"
+      },
+      {
+        "label": "NP",
+        "text": "Catatumbo tras"
+      },
+      {
+        "label": "VP",
+        "text": "desplegar"
+      },
+      {
+        "label": "NP",
+        "text": "efectivos militares"
+      },
+      {
+        "label": "VP",
+        "text": "para"
+      },
+      {
+        "label": "VP",
+        "text": "combatir a las bandas narcoterroristas"
+      },
+      {
+        "label": "NP",
+        "text": "a las bandas narcoterroristas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  (NP presidente/JJ constitucional/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP agradeció/JJ este/NN)\n  (VP jueves/VBZ (NP a/DT su/NN homólogo/NN colombiano/NN))\n  ,/,\n  (NP Gustavo/NNP Petro/NNP)\n  ,/,\n  (NP por/NN reforzar/NN la/NN)\n  seguridad/FW\n  en/FW\n  la/FW\n  región/FW\n  del/FW\n  (NP Catatumbo/NNP tras/NNS)\n  (VP desplegar/VBD)\n  25.000/CD\n  (NP efectivos/NN militares/NNS)\n  (VP para/VBP)\n  (VP combatir/VB (NP a/DT las/JJ bandas/NN narcoterroristas/NNS))\n  (VP en/VBP (NP la/JJ frontera/NN colombo-venezolana/NN))\n  ./.)",
+      "(S\n  (NP “/NN Quiero/NNP ante/NN este/NN)\n  majestuoso/FW\n  acto/FW\n  de/FW\n  graduación/FW\n  (NP agradecer/NN al/NN presidente/NN)\n  (PP de/IN (NP Colombia/NNP))\n  ,/,\n  (NP nuestra/JJ hermana/NN Colombia/NNP)\n  ,/,\n  (NP con/NN la/NN que/NN compartimos/NN)\n  (NP una/JJ sola/NN bandera/NN)\n  ,/,\n  (NP amarillo/NN)\n  ,/,\n  (NP azul/JJ y/NN roja/NN)\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN Gustavo/NNP Petro/NNP ha/NN dado/NN)\n  (NP una/JJ orden/JJ hoy/NN)\n  de/IN\n  reforzar/FW\n  (NP con/NN)\n  25.000/CD\n  (NP hombres/NNS)\n  ,/,\n  (NP un/JJ nuevo/JJ pie/NN)\n  de/IN\n  fuerza/FW\n  (NP toda/NN)\n  la/FW\n  zona/FW\n  del/FW\n  (NP Catatumbo/NNP colombiano/NN ”/NNP)\n  ,/,\n  (VP enfatizó/VBZ (NP el/JJ mandatario/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Venezuela/NNP y/NNP Colombia/NNP)\n  (NP unidas/JJ por/NN la/NN paz/NN)\n  ,/,\n  (NP porque/NN nuestras/NNS)\n  (VP tierras/VBP (NP la/JJ cuidamos/NN))\n  ,/,\n  vigilamos/FW\n  y/FW\n  preservamos/FW\n  nosotros/FW\n  mismos/FW\n  ”/FW\n  ,/,\n  remarcó/FW\n  el/FW\n  (NP dignatario/NN durante/NN)\n  la/FW\n  (NP clausura/NN)\n  del/FW\n  (NP II/NNP Curso/NNP)\n  (PP de/IN (NP Operaciones/NNP Especiales/NNP Revolucionarias/NNP))\n  (/(\n  (NP COER/NNP)\n  )/)\n  ,/,\n  en/FW\n  la/FW\n  parroquia/FW\n  (NP Macarao/NNP)\n  de/FW\n  (NP Caracas/NNP)\n  ./.)",
+      "(S\n  (NP Entre/NNP tanto/NN)\n  ,/,\n  el/FW\n  mandatario/FW\n  (NP\n    nacional/JJ\n    orientó/NN\n    al/NN\n    ministro/NN\n    para/NN\n    la/NN\n    Defensa/NNP)\n  ,/,\n  (NP Vladimir/NNP Padrino/NNP López/NNP)\n  ,/,\n  (NP para/NN que/NN)\n  se/FW\n  (NP dialogue/NN con/NN su/NN par/NN colombiano/NN)\n  ,/,\n  (NP Pedro/NNP Sánchez/NNP Suárez/NNP)\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  continuar/FW\n  (NP con/NN las/NN coordinaciones/NNS)\n  (VP para/VBP (NP que/JJ la/NN Zona/NNP Binacional/NNP))\n  de/FW\n  (NP Paz/NNP N°1/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          965,
+          972
+        ],
+        "start": 965,
+        "end": 972
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente constitucional de",
+        "position": [
+          3,
+          31
+        ],
+        "start": 3,
+        "end": 31
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          371,
+          379
+        ],
+        "start": 371,
+        "end": 379
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          32,
+          41
+        ],
+        "start": 32,
+        "end": 41
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          673,
+          679
+        ],
+        "start": 673,
+        "end": 679
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          892,
+          899
+        ],
+        "start": 892,
+        "end": 899
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región del",
+        "position": [
+          154,
+          164
+        ],
+        "start": 154,
+        "end": 164
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          517,
+          520
+        ],
+        "start": 517,
+        "end": 520
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "25.000 efectivos",
+        "position": [
+          190,
+          206
+        ],
+        "start": 190,
+        "end": 206
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Macarao",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "COER",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guajira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Catatumbo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estado Táchira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Defensa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zona Binacional N° 1",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia unidas por la paz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "No",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vladimir Padrino López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Zona Binacional de Paz N°1",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pedro Sánchez Suárez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Táchira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Catatumbo"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "AGRADECER",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "AGRADECER",
+        "objeto": "Catatumbo"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "AGRADECER",
+        "objeto": "Catatumbo"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "VIGILAR_REMARCAR",
+        "objeto": "COER"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "VIGILAR_REMARCAR",
+        "objeto": "Macarao"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "VIGILAR_REMARCAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Colombia unidas por la paz",
+        "relacion": "VIGILAR_REMARCAR",
+        "objeto": "COER"
+      },
+      {
+        "sujeto": "Colombia unidas por la paz",
+        "relacion": "VIGILAR_REMARCAR",
+        "objeto": "Macarao"
+      },
+      {
+        "sujeto": "Colombia unidas por la paz",
+        "relacion": "VIGILAR_REMARCAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Pedro Sánchez Suárez",
+        "relacion": "ORIENTAR",
+        "objeto": "Defensa"
+      },
+      {
+        "sujeto": "Defensa",
+        "relacion": "ORIENTAR",
+        "objeto": "Zona Binacional de Paz N°1"
+      },
+      {
+        "sujeto": "Pedro Sánchez Suárez",
+        "relacion": "ORIENTAR",
+        "objeto": "Vladimir Padrino López"
+      },
+      {
+        "sujeto": "Vladimir Padrino López",
+        "relacion": "ORIENTAR",
+        "objeto": "Zona Binacional de Paz N°1"
+      },
+      {
+        "sujeto": "Pedro Sánchez Suárez",
+        "relacion": "DIALOGAR_ORIENTAR",
+        "objeto": "Zona Binacional de Paz N°1"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "INSTRUIR",
+        "objeto": "COER"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "INSTRUIR",
+        "objeto": "estado Táchira"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "INSTRUIR",
+        "objeto": "Táchira"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "INSTRUIR",
+        "objeto": "Guajira"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "INSTRUIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "INSTRUIR",
+        "objeto": "Zona Binacional N° 1"
+      },
+      {
+        "sujeto": "estado Táchira",
+        "relacion": "DIRIGIR_INSTRUIR",
+        "objeto": "Táchira"
+      },
+      {
+        "sujeto": "estado Táchira",
+        "relacion": "DIRIGIR_INSTRUIR",
+        "objeto": "Guajira"
+      },
+      {
+        "sujeto": "estado Táchira",
+        "relacion": "DIRIGIR_INSTRUIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "estado Táchira",
+        "relacion": "DIRIGIR_INSTRUIR",
+        "objeto": "Zona Binacional N° 1"
+      },
+      {
+        "sujeto": "Táchira",
+        "relacion": "APRENDER_RECORRAN_DIRIGIR_INSTRUIR",
+        "objeto": "Guajira"
+      },
+      {
+        "sujeto": "Táchira",
+        "relacion": "APRENDER_RECORRAN_DIRIGIR_INSTRUIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Táchira",
+        "relacion": "APRENDER_RECORRAN_DIRIGIR_INSTRUIR",
+        "objeto": "Zona Binacional N° 1"
+      },
+      {
+        "sujeto": "Guajira",
+        "relacion": "APRENDER_RECORRAN_DIRIGIR_INSTRUIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Guajira",
+        "relacion": "APRENDER_RECORRAN_DIRIGIR_INSTRUIR",
+        "objeto": "Zona Binacional N° 1"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "LIMPIAR_APRENDER_RECORRAN_DIRIGIR_INSTRUIR",
+        "objeto": "Zona Binacional N° 1"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "SOLICITAR",
+        "objeto": "Catatumbo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.984,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

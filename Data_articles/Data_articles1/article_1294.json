@@ -1,0 +1,837 @@
+{
+  "url": "https://www.telesurtv.net/colombia-celebra-cumbre-paises-amazonicos/",
+  "title": "Colombia se alista para celebrar Cumbre de Países Amazónicos",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Amazonía",
+    "cambio climático",
+    "países amazónicos"
+  ],
+  "text": "La Cumbre de Países Amazónicos iniciará este lunes en la capital colombiana con la finalidad de alcanzar pactos que servirán como una postura compartida en la Conferencia Mundial sobre Cambio Climático, que tendrá lugar en noviembre próximo en Brasil.\nDesde este 18 y hasta el viernes 22 del presente mes, se reunirán representantes de los gobiernos de Bolivia, Brasil, Ecuador, Guyana, Perú, Surinam y Venezuela, así como autoridades de las comunidades indígenas.\nEl objetivo principal de la cita es convertirse en una declaración conjunta que fortalezca acuerdos regionales, represente las prioridades comunes y guíe medidas específicas para abordar los retos climáticos, ambientales, económicos, de seguridad y sociales de la Amazonía, informó la Cancillería de Colombia.\n\n\nPor su parte, la canciller colombiana, Rosa Villavicencio, resaltó que la región necesita actuar unida, pues el porvenir de la región y del planeta se basa en las acciones realizadas en el presente.\nDentro de las autoridades confirmadas se incluyen el mandatario de Brasil, Luiz Inácio Lula da Silva; el de Colombia, Gustavo Petro, así como los ministros o cancilleres de Bolivia, Ecuador, Guyana, Perú, Surinam y Venezuela.\nEl evento inicial de la cumbre se llevará a cabo en la Hemeroteca Nacional Universitaria, lugar donde se llevará a cabo la inauguración del Encuentro Regional Diálogos Amazónicos.\n\n\nEste lugar contará con la presencia de la canciller Villavicencio y representantes de la Organización Nacional de los Pueblos Indígenas de la Amazonía de Colombia.\nEl encuentro remite a un proceso que se inició con la Declaración de Belém de 2023, en la que se fijaron 113 objetivos para proteger la Amazonía y disminuir las desigualdades, y que ha sido fortalecido por las Declaraciones de Paramaribo y Brasilia.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/colombia-celebra-cumbre-paises-amazonicos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1043,
+    "message_id": 102070,
+    "date": "2025-08-18T08:55:07+00:00",
+    "text": "teleSUR\nColombia se alista para celebrar Cumbre de Países Amazónicos\nhttps://www.telesurtv.net/colombia-celebra-cumbre-paises-amazonicos/",
+    "photo_path": null,
+    "views": 2173,
+    "reactions": {
+      "💯": 23,
+      "👏": 7,
+      "👍": 3,
+      "❤": 2
+    },
+    "total_reactions": 35
+  },
+  "preprocessing": {
+    "cleaned": "la cumbre de países amazónicos iniciará este lunes en la capital colombiana con la finalidad de alcanzar pactos que servirán como una postura compartida en la conferencia mundial sobre cambio climático, que tendrá lugar en noviembre próximo en brasil. desde este 18 y hasta el viernes 22 del presente mes, se reunirán representantes de los gobiernos de bolivia, brasil, ecuador, guyana, perú, surinam y venezuela, así como autoridades de las comunidades indígenas. el objetivo principal de la cita es convertirse en una declaración conjunta que fortalezca acuerdos regionales, represente las prioridades comunes y guíe medidas específicas para abordar los retos climáticos, ambientales, económicos, de seguridad y sociales de la amazonía, informó la cancillería de colombia. por su parte, la canciller colombiana, rosa villavicencio, resaltó que la región necesita actuar unida, pues el porvenir de la región y del planeta se basa en las acciones realizadas en el presente. dentro de las autoridades confirmadas se incluyen el mandatario de brasil, luiz inácio lula da silva; el de colombia, gustavo petro, así como los ministros o cancilleres de bolivia, ecuador, guyana, perú, surinam y venezuela. el evento inicial de la cumbre se llevará a cabo en la hemeroteca nacional universitaria, lugar donde se llevará a cabo la inauguración del encuentro regional diálogos amazónicos. este lugar contará con la presencia de la canciller villavicencio y representantes de la organización nacional de los pueblos indígenas de la amazonía de colombia. el encuentro remite a un proceso que se inició con la declaración de belém de 2023, en la que se fijaron 113 objetivos para proteger la amazonía y disminuir las desigualdades, y que ha sido fortalecido por las declaraciones de paramaribo y brasilia.",
+    "tokens": [
+      "cumbre",
+      "países",
+      "amazónicos",
+      "iniciará",
+      "lunes",
+      "capital",
+      "colombiana",
+      "finalidad",
+      "alcanzar",
+      "pactos",
+      "servirán",
+      "postura",
+      "compartida",
+      "conferencia",
+      "mundial",
+      "cambio",
+      "climático",
+      ",",
+      "lugar",
+      "noviembre",
+      "próximo",
+      "brasil",
+      ".",
+      "18",
+      "viernes",
+      "22",
+      "presente",
+      "mes",
+      ",",
+      "reunirán",
+      "representantes",
+      "gobiernos",
+      "bolivia",
+      ",",
+      "brasil",
+      ",",
+      "ecuador",
+      ",",
+      "guyana",
+      ",",
+      "perú",
+      ",",
+      "surinam",
+      "venezuela",
+      ",",
+      "así",
+      "autoridades",
+      "comunidades",
+      "indígenas",
+      ".",
+      "objetivo",
+      "principal",
+      "cita",
+      "convertirse",
+      "declaración",
+      "conjunta",
+      "fortalezca",
+      "acuerdos",
+      "regionales",
+      ",",
+      "represente",
+      "prioridades",
+      "comunes",
+      "guíe",
+      "medidas",
+      "específicas",
+      "abordar",
+      "retos",
+      "climáticos",
+      ",",
+      "ambientales",
+      ",",
+      "económicos",
+      ",",
+      "seguridad",
+      "sociales",
+      "amazonía",
+      ",",
+      "informó",
+      "cancillería",
+      "colombia",
+      ".",
+      "parte",
+      ",",
+      "canciller",
+      "colombiana",
+      ",",
+      "rosa",
+      "villavicencio",
+      ",",
+      "resaltó",
+      "región",
+      "necesita",
+      "actuar",
+      "unida",
+      ",",
+      "pues",
+      "porvenir",
+      "región",
+      "planeta",
+      "basa",
+      "acciones",
+      "realizadas",
+      "presente",
+      ".",
+      "dentro",
+      "autoridades",
+      "confirmadas",
+      "incluyen",
+      "mandatario",
+      "brasil",
+      ",",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      ";",
+      "colombia",
+      ",",
+      "gustavo",
+      "petro",
+      ",",
+      "así",
+      "ministros",
+      "cancilleres",
+      "bolivia",
+      ",",
+      "ecuador",
+      ",",
+      "guyana",
+      ",",
+      "perú",
+      ",",
+      "surinam",
+      "venezuela",
+      ".",
+      "evento",
+      "inicial",
+      "cumbre",
+      "llevará",
+      "cabo",
+      "hemeroteca",
+      "nacional",
+      "universitaria",
+      ",",
+      "lugar",
+      "llevará",
+      "cabo",
+      "inauguración",
+      "encuentro",
+      "regional",
+      "diálogos",
+      "amazónicos",
+      ".",
+      "lugar",
+      "contará",
+      "presencia",
+      "canciller",
+      "villavicencio",
+      "representantes",
+      "organización",
+      "nacional",
+      "pueblos",
+      "indígenas",
+      "amazonía",
+      "colombia",
+      ".",
+      "encuentro",
+      "remite",
+      "proceso",
+      "inició",
+      "declaración",
+      "belém",
+      "2023",
+      ",",
+      "fijaron",
+      "113",
+      "objetivos",
+      "proteger",
+      "amazonía",
+      "disminuir",
+      "desigualdades",
+      ",",
+      "sido",
+      "fortalecido",
+      "declaraciones",
+      "paramaribo",
+      "brasilia",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 63,
+      "FW": 55,
+      "NN": 78,
+      "NNS": 13,
+      "IN": 16,
+      "JJ": 21,
+      "CD": 4,
+      "VBP": 7,
+      "VBZ": 6,
+      "VBD": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 35,
+      "NNP-FW": 7,
+      "FW-NNP": 14,
+      "NNP-NN": 13,
+      "NN-NN": 47,
+      "NN-NNS": 3,
+      "NNS-IN": 4,
+      "IN-JJ": 3,
+      "JJ-NN": 11,
+      "NN-FW": 5,
+      "FW-FW": 31,
+      "FW-NN": 4,
+      "NN-JJ": 7,
+      "NN-IN": 6,
+      "IN-FW": 7,
+      "NN-NNP": 6,
+      "IN-NNP": 5,
+      "NN-CD": 1,
+      "CD-NN": 3,
+      "NNS-CD": 1,
+      "NNS-VBP": 6,
+      "VBP-JJ": 3,
+      "JJ-NNS": 4,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "FW-NNS": 3,
+      "VBP-NNP": 1,
+      "FW-JJ": 2,
+      "NN-VBZ": 3,
+      "VBZ-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-NNS": 2,
+      "VBZ-FW": 1,
+      "NNP-IN": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 3,
+      "VBP-FW": 1,
+      "VBP-IN": 1,
+      "JJ-JJ": 2,
+      "VBZ-IN": 1,
+      "IN-CD": 1,
+      "CD-IN": 1,
+      "FW-$": 1,
+      "$-CD": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 9,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 24,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 19,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 3,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 2,
+      "IN-FW-NNP": 2,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NN-IN-JJ": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 5,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 6,
+      "NNP-NNP-NNP": 18,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-FW-JJ": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "VBZ-JJ-JJ": 1,
+      "NN-NNP-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 78,
+        "NNP": 63,
+        "FW": 55,
+        "JJ": 21,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "NNP-NNP": 35,
+        "FW-FW": 31,
+        "FW-NNP": 14,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "FW-FW-FW": 19,
+        "NNP-NNP-NNP": 18,
+        "FW-NNP-NNP": 9,
+        "NNP-NNP-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 78,
+      "PP": 8,
+      "VP": 18
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0357
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0357
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "VP -> ('representantes', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Guyana', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Perú', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "Países Amazónicos iniciará este lunes"
+      },
+      {
+        "label": "PP",
+        "text": "en la capital colombiana con"
+      },
+      {
+        "label": "NP",
+        "text": "la capital colombiana con"
+      },
+      {
+        "label": "NP",
+        "text": "pactos que servirán como"
+      },
+      {
+        "label": "NP",
+        "text": "una postura compartida"
+      },
+      {
+        "label": "NP",
+        "text": "Conferencia Mundial sobre Cambio Climático"
+      },
+      {
+        "label": "NP",
+        "text": "que tendrá lugar"
+      },
+      {
+        "label": "PP",
+        "text": "en noviembre próximo"
+      },
+      {
+        "label": "NP",
+        "text": "noviembre próximo"
+      },
+      {
+        "label": "PP",
+        "text": "en Brasil"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil"
+      },
+      {
+        "label": "NP",
+        "text": "Desde este"
+      },
+      {
+        "label": "NP",
+        "text": "y hasta el viernes"
+      },
+      {
+        "label": "NP",
+        "text": "del presente mes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Cumbre/NNP)\n  de/FW\n  (NP Países/NNP Amazónicos/NNP iniciará/NN este/NN lunes/NNS)\n  (PP en/IN (NP la/JJ capital/NN colombiana/NN con/NN))\n  la/FW\n  finalidad/FW\n  de/FW\n  alcanzar/FW\n  (NP pactos/NN que/NN servirán/NN como/NN)\n  (NP una/JJ postura/NN compartida/NN)\n  en/IN\n  la/FW\n  (NP Conferencia/NNP Mundial/NNP sobre/NN Cambio/NNP Climático/NNP)\n  ,/,\n  (NP que/NN tendrá/NN lugar/NN)\n  (PP en/IN (NP noviembre/JJ próximo/NN))\n  (PP en/IN (NP Brasil/NNP))\n  ./.)",
+      "(S\n  (NP Desde/NNP este/NN)\n  18/CD\n  (NP y/NN hasta/NN el/NN viernes/NNS)\n  22/CD\n  (NP del/NN presente/NN mes/NNS)\n  ,/,\n  se/FW\n  reunirán/FW\n  (VP representantes/VBZ)\n  de/IN\n  los/FW\n  gobiernos/FW\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP Brasil/NNP)\n  ,/,\n  (NP Ecuador/NNP)\n  ,/,\n  (NP Guyana/NNP)\n  ,/,\n  (NP Perú/NNP)\n  ,/,\n  (NP Surinam/NNP)\n  (VP y/VBZ (NP Venezuela/NNP))\n  ,/,\n  (NP así/NN como/NN)\n  (VP autoridades/VBZ)\n  de/IN\n  las/FW\n  (NP comunidades/NNS)\n  (VP indígenas/VBP)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  objetivo/MD\n  (VP principal/VB)\n  de/FW\n  la/FW\n  cita/FW\n  es/FW\n  (NP convertirse/NN)\n  en/FW\n  (NP\n    una/JJ\n    declaración/NN\n    conjunta/NN\n    que/NN\n    fortalezca/NN\n    acuerdos/NN\n    regionales/NNS)\n  ,/,\n  (VP represente/VBP (NP las/NNS prioridades/NNS comunes/NNS) y/RB)\n  (VP guíe/VBP (NP medidas/NNS))\n  (VP\n    específicas/VBP\n    (NP para/NN abordar/NN los/NN retos/NN climáticos/NN))\n  ,/,\n  (NP ambientales/NNS)\n  ,/,\n  (NP económicos/NN)\n  ,/,\n  de/FW\n  seguridad/FW\n  y/FW\n  sociales/FW\n  de/FW\n  la/FW\n  (NP Amazonía/NNP)\n  ,/,\n  (NP informó/NN)\n  la/FW\n  (NP Cancillería/NNP)\n  (PP de/IN (NP Colombia/NNP))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  la/FW\n  (NP canciller/NN colombiana/NN)\n  ,/,\n  (NP Rosa/NNP Villavicencio/NNP)\n  ,/,\n  (NP resaltó/NN que/NN la/NN región/NN)\n  (NP necesita/JJ actuar/NN unida/NN)\n  ,/,\n  (NP pues/NNS)\n  (VP el/VBP)\n  porvenir/FW\n  de/FW\n  la/FW\n  región/FW\n  y/FW\n  del/FW\n  planeta/FW\n  se/FW\n  (NP basa/NN)\n  en/FW\n  las/FW\n  (NP acciones/NNS)\n  (VP realizadas/VBP)\n  (PP en/IN (NP el/NN presente/NN))\n  ./.)",
+      "(S\n  (NP Dentro/NNP)\n  de/FW\n  las/FW\n  (NP autoridades/NNS)\n  (VP confirmadas/VBP (NP se/JJ incluyen/JJ el/NN mandatario/NN))\n  (PP de/IN (NP Brasil/NNP))\n  ,/,\n  (NP Luiz/NNP Inácio/NNP Lula/NNP da/NN Silva/NN)\n  ;/:\n  el/CC\n  (PP de/IN (NP Colombia/NNP))\n  ,/,\n  (NP Gustavo/NNP Petro/NNP)\n  ,/,\n  (NP así/NN como/NN los/NN ministros/NNS)\n  (VP o/VBP (NP cancilleres/NNS))\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP Ecuador/NNP)\n  ,/,\n  (NP Guyana/NNP)\n  ,/,\n  (NP Perú/NNP)\n  ,/,\n  (NP Surinam/NNP)\n  (VP y/VBZ (NP Venezuela/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CIUDADES_CAPITALES",
+      "ELECCIONES_PROCESOS_POLITICOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          57,
+          64
+        ],
+        "start": 57,
+        "end": 64
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          739,
+          746
+        ],
+        "start": 739,
+        "end": 746
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "cambio climático",
+        "position": [
+          185,
+          201
+        ],
+        "start": 185,
+        "end": 201
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "indígenas",
+        "position": [
+          454,
+          463
+        ],
+        "start": 454,
+        "end": 463
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          244,
+          250
+        ],
+        "start": 244,
+        "end": 250
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          370,
+          377
+        ],
+        "start": 370,
+        "end": 377
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          387,
+          391
+        ],
+        "start": 387,
+        "end": 391
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          403,
+          412
+        ],
+        "start": 403,
+        "end": 412
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "brasilia",
+        "position": [
+          1788,
+          1796
+        ],
+        "start": 1788,
+        "end": 1796
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región necesita",
+        "position": [
+          851,
+          866
+        ],
+        "start": 851,
+        "end": 866
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización Nacional de los Pueblos Indígenas de la Amazonía de Colombia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Amazonía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rosa Villavicencio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Villavicencio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Surinam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cancillería de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasilia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hemeroteca Nacional Universitaria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guyana",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cancillería de Colombia",
+        "relacion": "ABORDAR_GUIAR_REPRESENTE_SER_INFORMAR",
+        "objeto": "Amazonía"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "INCLUIR",
+        "objeto": "de Colombia"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "INCLUIR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "INCLUIR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "INCLUIR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "INCLUIR",
+        "objeto": "Guyana"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "INCLUIR",
+        "objeto": "Perú"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "INCLUIR",
+        "objeto": "Surinam"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "INCLUIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "de Colombia"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "Guyana"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "Perú"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "Surinam"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "INCLUIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Amazonía",
+        "relacion": "PROTEGER_FIJAR_REMITIR",
+        "objeto": "Brasilia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.009,
+    "neu": 0.991,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

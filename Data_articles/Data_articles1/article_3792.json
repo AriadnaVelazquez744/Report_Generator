@@ -1,0 +1,706 @@
+{
+  "url": "https://www.telesurtv.net/ejercito-sudanes-retoma-el-palacio-presidencial-y-expulsa-a-paramilitares-del-centro-de-jartum/",
+  "title": "Ejército sudanés retoma el Palacio Presidencial y expulsa a paramilitares de Jartum - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ejército sudanés",
+    "Grupo Paramilitar FAR",
+    "Jartum",
+    "Palacio Presidencial"
+  ],
+  "text": "El Ejército sudanés anunció este viernes que retomó el control del Palacio Presidencial y de los edificios gubernamentales en la ciudad sudanesa de Jartum al expulsar a los combatientes del grupo armado conocido como Fuerzas de Apoyo Rápido (FAR).\nA través de un comunicado, el Ejército aseguró que sus fuerzas “lograron aplastar a las milicias terroristas en el centro de Jartum (…), en los edificios del Palacio de la República, símbolo de la soberanía, el orgullo y la dignidad del pueblo sudanés, y en los edificios de los ministerios”.\nTambién indicaron que en medio de la operación militar asesinaron supuestamente a la mayoría de los combatientes del grupo paramilitar y lograron apoderarse de grandes cantidades de armas y equipos.\nLa fuerza de seguridad no ofreció detalles sobre el número de supuestos combatientes abatidos en la operación militar.\nTras tomar el control del Palacio Presidencial en el centro de la capital sudanesa, el portavoz del Ejército sudanés, el coronel Nabil Abdala afirmó que seguirán adelante en todos los campos de batalla hasta lograr la victoria.\nLas FAR no han reaccionado al comunicado del Ejército sudanés ni informado de la situación de sus combatientes que se retiran de la capital ante el avance de los militares.\nEl Palacio Presidencial y los edificios gubernamentales en el centro de Jartum, incluido el aeropuerto internacional, además de varios distritos de la capital fueron controlados por las FAR tras el inicio de la guerra en Sudán en abril de 2023.\nEn las últimas semanas, el Ejército del país africano ha emprendido una operación para recuperar los distritos que las FAR controlan en la capital sudanesa, después de expulsar a los paramilitares de importantes ciudades y localidades del centro-este y centro-sur de Sudán.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ejercito-sudanes-retoma-el-palacio-presidencial-y-expulsa-a-paramilitares-del-centro-de-jartum/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 811,
+    "message_id": 89746,
+    "date": "2025-03-21T10:55:07+00:00",
+    "text": "teleSUR\nEjército sudanés retoma el Palacio Presidencial y expulsa a paramilitares de Jartum\nhttps://www.telesurtv.net/ejercito-sudanes-retoma-el-palacio-presidencial-y-expulsa-a-paramilitares-del-centro-de-jartum/",
+    "photo_path": null,
+    "views": 1994,
+    "reactions": {
+      "👍": 35,
+      "🤔": 3
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "el ejército sudanés anunció este viernes que retomó el control del palacio presidencial y de los edificios gubernamentales en la ciudad sudanesa de jartum al expulsar a los combatientes del grupo armado conocido como fuerzas de apoyo rápido (far). a través de un comunicado, el ejército aseguró que sus fuerzas “lograron aplastar a las milicias terroristas en el centro de jartum (…), en los edificios del palacio de la república, símbolo de la soberanía, el orgullo y la dignidad del pueblo sudanés, y en los edificios de los ministerios”. también indicaron que en medio de la operación militar asesinaron supuestamente a la mayoría de los combatientes del grupo paramilitar y lograron apoderarse de grandes cantidades de armas y equipos. la fuerza de seguridad no ofreció detalles sobre el número de supuestos combatientes abatidos en la operación militar. tras tomar el control del palacio presidencial en el centro de la capital sudanesa, el portavoz del ejército sudanés, el coronel nabil abdala afirmó que seguirán adelante en todos los campos de batalla hasta lograr la victoria. las far no han reaccionado al comunicado del ejército sudanés ni informado de la situación de sus combatientes que se retiran de la capital ante el avance de los militares. el palacio presidencial y los edificios gubernamentales en el centro de jartum, incluido el aeropuerto internacional, además de varios distritos de la capital fueron controlados por las far tras el inicio de la guerra en sudán en abril de 2023. en las últimas semanas, el ejército del país africano ha emprendido una operación para recuperar los distritos que las far controlan en la capital sudanesa, después de expulsar a los paramilitares de importantes ciudades y localidades del centro-este y centro-sur de sudán.",
+    "tokens": [
+      "ejército",
+      "sudanés",
+      "anunció",
+      "viernes",
+      "retomó",
+      "control",
+      "palacio",
+      "presidencial",
+      "edificios",
+      "gubernamentales",
+      "ciudad",
+      "sudanesa",
+      "jartum",
+      "expulsar",
+      "combatientes",
+      "grupo",
+      "armado",
+      "conocido",
+      "fuerzas",
+      "apoyo",
+      "rápido",
+      "(",
+      "far",
+      ")",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "ejército",
+      "aseguró",
+      "fuerzas",
+      "“",
+      "lograron",
+      "aplastar",
+      "milicias",
+      "terroristas",
+      "centro",
+      "jartum",
+      "(",
+      "…",
+      ")",
+      ",",
+      "edificios",
+      "palacio",
+      "república",
+      ",",
+      "símbolo",
+      "soberanía",
+      ",",
+      "orgullo",
+      "dignidad",
+      "pueblo",
+      "sudanés",
+      ",",
+      "edificios",
+      "ministerios",
+      "”",
+      ".",
+      "indicaron",
+      "medio",
+      "operación",
+      "militar",
+      "asesinaron",
+      "supuestamente",
+      "mayoría",
+      "combatientes",
+      "grupo",
+      "paramilitar",
+      "lograron",
+      "apoderarse",
+      "grandes",
+      "cantidades",
+      "armas",
+      "equipos",
+      ".",
+      "fuerza",
+      "seguridad",
+      "ofreció",
+      "detalles",
+      "número",
+      "supuestos",
+      "combatientes",
+      "abatidos",
+      "operación",
+      "militar",
+      ".",
+      "tras",
+      "tomar",
+      "control",
+      "palacio",
+      "presidencial",
+      "centro",
+      "capital",
+      "sudanesa",
+      ",",
+      "portavoz",
+      "ejército",
+      "sudanés",
+      ",",
+      "coronel",
+      "nabil",
+      "abdala",
+      "afirmó",
+      "seguirán",
+      "adelante",
+      "campos",
+      "batalla",
+      "lograr",
+      "victoria",
+      ".",
+      "far",
+      "reaccionado",
+      "comunicado",
+      "ejército",
+      "sudanés",
+      "informado",
+      "situación",
+      "combatientes",
+      "retiran",
+      "capital",
+      "avance",
+      "militares",
+      ".",
+      "palacio",
+      "presidencial",
+      "edificios",
+      "gubernamentales",
+      "centro",
+      "jartum",
+      ",",
+      "incluido",
+      "aeropuerto",
+      "internacional",
+      ",",
+      "además",
+      "varios",
+      "distritos",
+      "capital",
+      "controlados",
+      "far",
+      "tras",
+      "inicio",
+      "guerra",
+      "sudán",
+      "abril",
+      "2023.",
+      "últimas",
+      "semanas",
+      ",",
+      "ejército",
+      "país",
+      "africano",
+      "emprendido",
+      "operación",
+      "recuperar",
+      "distritos",
+      "far",
+      "controlan",
+      "capital",
+      "sudanesa",
+      ",",
+      "después",
+      "expulsar",
+      "paramilitares",
+      "importantes",
+      "ciudades",
+      "localidades",
+      "centro-este",
+      "centro-sur",
+      "sudán",
+      "."
+    ],
+    "token_count": 171,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "VBD": 1,
+      "JJ": 18,
+      "NN": 94,
+      "NNS": 14,
+      "VBP": 6,
+      "FW": 78,
+      "IN": 19,
+      "VBZ": 4,
+      "DT": 2,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NN": 12,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "NN-NN": 53,
+      "NN-FW": 11,
+      "FW-NNP": 8,
+      "NNP-IN": 2,
+      "IN-FW": 9,
+      "FW-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "IN-NN": 2,
+      "NN-JJ": 2,
+      "NN-IN": 14,
+      "IN-NNP": 5,
+      "NNP-NN": 11,
+      "NN-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-NN": 15,
+      "NN-NNP": 9,
+      "FW-FW": 45,
+      "NNP-FW": 9,
+      "IN-JJ": 2,
+      "JJ-FW": 2,
+      "FW-NNS": 6,
+      "NNS-NNP": 2,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "VBZ-JJ": 3,
+      "JJ-JJ": 2,
+      "VBP-IN": 1,
+      "NNP-DT": 1,
+      "DT-JJ": 1,
+      "FW-VBZ": 1,
+      "NNS-NNS": 3,
+      "NNP-VBZ": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NN": 4,
+      "NN-NN-FW": 7,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 7,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 33,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 7,
+      "NN-NN-NNP": 7,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 7,
+      "NN-NNP-NN": 5,
+      "NN-NN-NNS": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 5,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 5,
+      "FW-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-NNS-VBP": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NN-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NN-NNP-NNP": 1,
+      "NN-FW-NN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-IN": 3,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "IN-FW-NN": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "IN-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "NNP-FW-NN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NN-NN-JJ": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "FW": 78,
+        "NNP": 35,
+        "IN": 19,
+        "JJ": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 45,
+        "FW-NN": 15,
+        "NN-IN": 14,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 29,
+        "NNP-NN-NN": 8,
+        "NN-NN-FW": 7,
+        "JJ-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 18,
+      "PP": 7,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0583
+      },
+      {
+        "rule": "NP -> ('Jartum', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "NP -> ('edificios', 'JJ') ('gubernamentales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('combatientes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('capital', 'NN') ('sudanesa', 'NN')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Sudán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP VP VP ('del', 'FW') NP ('de', 'IN') ('los', 'FW') NP PP NP PP VP VP VP ('del', 'FW') NP PP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ejército', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('sudanés', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('anunció', 'JJ') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ejército"
+      },
+      {
+        "label": "VP",
+        "text": "sudanés anunció este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "anunció este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "que retomó el control"
+      },
+      {
+        "label": "NP",
+        "text": "retomó el control"
+      },
+      {
+        "label": "NP",
+        "text": "Palacio Presidencial y"
+      },
+      {
+        "label": "NP",
+        "text": "edificios gubernamentales"
+      },
+      {
+        "label": "PP",
+        "text": "en la"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "ciudad sudanesa"
+      },
+      {
+        "label": "PP",
+        "text": "de Jartum"
+      },
+      {
+        "label": "NP",
+        "text": "Jartum"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "VP",
+        "text": "expulsar a los"
+      },
+      {
+        "label": "NP",
+        "text": "a los"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ejército/NNP)\n  (VP sudanés/VBD (NP anunció/JJ este/NN viernes/NNS))\n  (VP que/VBP (NP retomó/JJ el/NN control/NN))\n  del/FW\n  (NP Palacio/NNP Presidencial/NNP y/NNP)\n  de/IN\n  los/FW\n  (NP edificios/JJ gubernamentales/NNS)\n  (PP en/IN (NP la/NN))\n  (NP ciudad/JJ sudanesa/NN)\n  (PP de/IN (NP Jartum/NNP))\n  (VP al/VBP)\n  (VP expulsar/VB (NP a/DT los/NN))\n  (VP combatientes/VBZ)\n  del/FW\n  (NP grupo/NN armado/NN conocido/NN como/NN Fuerzas/NNP)\n  (PP de/IN (NP Apoyo/NNP Rápido/NNP))\n  (/(\n  (NP FAR/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  el/FW\n  (NP Ejército/NNP aseguró/NN que/NN sus/NN fuerzas/NN “/NNP)\n  (VP lograron/VBZ)\n  (VP aplastar/VB (NP a/DT las/NN milicias/NN terroristas/NNS))\n  (VP en/VBP (NP el/JJ centro/NN))\n  (PP de/IN (NP Jartum/NNP))\n  (/(\n  (NP …/NNP)\n  )/)\n  ,/,\n  en/FW\n  los/FW\n  edificios/FW\n  del/FW\n  (NP Palacio/NNP)\n  de/FW\n  la/FW\n  (NP República/NNP)\n  ,/,\n  (NP símbolo/NN)\n  de/FW\n  la/FW\n  soberanía/FW\n  ,/,\n  el/FW\n  orgullo/FW\n  y/FW\n  la/FW\n  dignidad/FW\n  del/FW\n  (NP pueblo/NN sudanés/NN)\n  ,/,\n  y/CC\n  en/IN\n  (ADJP los/JJ)\n  edificios/FW\n  de/FW\n  los/FW\n  (NP ministerios/NNS)\n  (VP ”/VBP)\n  ./.)",
+      "(S\n  (NP También/NNP indicaron/NN que/NN)\n  en/FW\n  medio/FW\n  de/FW\n  la/FW\n  operación/FW\n  militar/FW\n  asesinaron/FW\n  supuestamente/FW\n  a/DT\n  la/FW\n  mayoría/FW\n  de/FW\n  los/FW\n  (NP combatientes/NNS)\n  (VP\n    del/VBP\n    (NP grupo/JJ paramilitar/NN y/NN lograron/NN apoderarse/NN))\n  de/FW\n  grandes/FW\n  (NP cantidades/NNS)\n  de/IN\n  armas/FW\n  (NP y/NN equipos/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  fuerza/FW\n  de/FW\n  seguridad/FW\n  (NP no/DT ofreció/NN)\n  (VP detalles/VBZ (NP sobre/JJ el/JJ número/NN))\n  de/IN\n  supuestos/FW\n  (NP combatientes/NNS)\n  (VP abatidos/VBP)\n  en/IN\n  la/FW\n  operación/FW\n  (NP militar/NN)\n  ./.)",
+      "(S\n  (NP Tras/NNP tomar/NN el/NN control/NN)\n  del/FW\n  (NP Palacio/NNP Presidencial/NNP)\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  la/FW\n  (NP capital/NN sudanesa/NN)\n  ,/,\n  (NP el/JJ portavoz/NN del/NN Ejército/NNP sudanés/NN)\n  ,/,\n  (NP\n    el/JJ\n    coronel/NN\n    Nabil/NNP\n    Abdala/NNP\n    afirmó/NN\n    que/NN\n    seguirán/NN\n    adelante/NN)\n  en/FW\n  (NP todos/NN)\n  los/FW\n  (NP campos/NN)\n  (PP de/IN (NP batalla/NN hasta/NN lograr/NN la/NN victoria/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "control del palacio presidencial y de los edificios gubernamentales en la ciudad",
+        "position": [
+          55,
+          135
+        ],
+        "start": 55,
+        "end": 135
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra en sudán en",
+        "position": [
+          1471,
+          1489
+        ],
+        "start": 1471,
+        "end": 1489
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          925,
+          932
+        ],
+        "start": 925,
+        "end": 932
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1001,
+          1007
+        ],
+        "start": 1001,
+        "end": 1007
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          20,
+          27
+        ],
+        "start": 20,
+        "end": 27
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          1352,
+          1362
+        ],
+        "start": 1352,
+        "end": 1362
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          363,
+          372
+        ],
+        "start": 363,
+        "end": 372
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nabil Abdala",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jartum",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palacio de la República",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FAR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Palacio Presidencial",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Apoyo Rápido",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Palacio Presidencial",
+        "relacion": "RETOMAR_ANUNCIAR",
+        "objeto": "Jartum"
+      },
+      {
+        "sujeto": "Palacio Presidencial",
+        "relacion": "RETOMAR_ANUNCIAR",
+        "objeto": "Fuerzas de Apoyo Rápido"
+      },
+      {
+        "sujeto": "Palacio Presidencial",
+        "relacion": "RETOMAR_ANUNCIAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Jartum",
+        "relacion": "RETOMAR_ANUNCIAR",
+        "objeto": "Fuerzas de Apoyo Rápido"
+      },
+      {
+        "sujeto": "Jartum",
+        "relacion": "RETOMAR_ANUNCIAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Jartum",
+        "relacion": "APLASTAR_LOGRAR_ASEGURAR",
+        "objeto": "Palacio de la República"
+      },
+      {
+        "sujeto": "Palacio Presidencial",
+        "relacion": "TOMAR_AFIRMAR",
+        "objeto": "Nabil Abdala"
+      },
+      {
+        "sujeto": "Palacio Presidencial",
+        "relacion": "CONTROLAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Palacio Presidencial",
+        "relacion": "CONTROLAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Jartum",
+        "relacion": "CONTROLAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Jartum",
+        "relacion": "CONTROLAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "CONTROLAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "CONTROLAR_RECUPERAR_EMPRENDER",
+        "objeto": "Sudán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.009,
+    "neu": 0.975,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

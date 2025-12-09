@@ -1,0 +1,827 @@
+{
+  "url": "https://www.telesurtv.net/jueza-de-ecuador-es-herida-en-ataque-armado/",
+  "title": "Jueza de Ecuador es herida en ataque armado - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "bandas criminales",
+    "heridas",
+    "jueza ecuatoriana",
+    "Sicarios"
+  ],
+  "text": "Una jueza ecuatoriana sufrió heridas al ser objeto de un ataque realizado en la ciudad de La Libertad por presuntos sicarios que dispararon contra ella mientras se encontraba en su coche, en una nueva acción de delito organizado contra una autoridad local en Ecuador.\nAsimismo, se ha reconocido a la víctima como María Belén Chérres, jueza de la Unidad Judicial de La Libertad, en la provincia costera de Santa Elena, una de las siete provincias totalmente bajo el estado de excepción establecido por el Gobierno contra el crimen organizado.\nEl ataque tuvo lugar en la tarde del viernes cuando Chérres, quien viajaba en su coche personal, fue abordada por dos individuos en una motocicleta que lanzaron disparos contra ella, según informaron medios locales.\nPor otra parte, la jueza fue llevada a un centro de salud para recibir atención médica, donde se encuentra bajo custodia policial para prevenir que sea nuevamente agredida por los mismos sicarios con el objetivo de realizar el homicidio por encargo.\nLa Fiscalía inició un procedimiento preliminar, mientras que la Policía recogió testimonios de los testigos y analizó las grabaciones de las cámaras de vigilancia del área donde tuvo lugar el ataque.\nEl sábado pasado, Eber Ponce, alcalde de Arenillas, municipio fronterizo con Perú, murió en circunstancias parecidas mientras transportaba a una mujer y a su hijo después de haber intervenido en una actividad pública.\nEn 2023, Ecuador se posicionó como la nación con el índice más elevado de homicidios en Suramérica, registrando 47.2 por cada 100.000 habitantes, ocho veces superior al de 2016.\nTras esa onda de delincuencia se encuentran grupos organizados enfocados principalmente en el tráfico de drogas, los secuestros y la extorsión, que constantemente ponen en peligro a autoridades locales como políticos, fiscales y jueces que se oponen o examinan sus acciones.\nEl presidente de Ecuador, Daniel Noboa, declaró al país en un “conflicto armado interno” contra el crimen organizado, y estableció una serie de estados de excepción para movilizar a las Fuerzas Armadas en operaciones contra las bandas delictivas y en las prisiones, con el objetivo de quitarles el control que poseían en las prisiones más grandes de Ecuador.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/jueza-de-ecuador-es-herida-en-ataque-armado/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1011,
+    "message_id": 84762,
+    "date": "2025-01-18T06:55:18+00:00",
+    "text": "teleSUR\nJueza de Ecuador es herida en ataque armado\nhttps://www.telesurtv.net/jueza-de-ecuador-es-herida-en-ataque-armado/",
+    "photo_path": null,
+    "views": 1998,
+    "reactions": {
+      "😱": 21,
+      "🤔": 17,
+      "👍": 1,
+      "👏": 1
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "una jueza ecuatoriana sufrió heridas al ser objeto de un ataque realizado en la ciudad de la libertad por presuntos sicarios que dispararon contra ella mientras se encontraba en su coche, en una nueva acción de delito organizado contra una autoridad local en ecuador. asimismo, se ha reconocido a la víctima como maría belén chérres, jueza de la unidad judicial de la libertad, en la provincia costera de santa elena, una de las siete provincias totalmente bajo el estado de excepción establecido por el gobierno contra el crimen organizado. el ataque tuvo lugar en la tarde del viernes cuando chérres, quien viajaba en su coche personal, fue abordada por dos individuos en una motocicleta que lanzaron disparos contra ella, según informaron medios locales. por otra parte, la jueza fue llevada a un centro de salud para recibir atención médica, donde se encuentra bajo custodia policial para prevenir que sea nuevamente agredida por los mismos sicarios con el objetivo de realizar el homicidio por encargo. la fiscalía inició un procedimiento preliminar, mientras que la policía recogió testimonios de los testigos y analizó las grabaciones de las cámaras de vigilancia del área donde tuvo lugar el ataque. el sábado pasado, eber ponce, alcalde de arenillas, municipio fronterizo con perú, murió en circunstancias parecidas mientras transportaba a una mujer y a su hijo después de haber intervenido en una actividad pública. en 2023, ecuador se posicionó como la nación con el índice más elevado de homicidios en suramérica, registrando 47.2 por cada 100.000 habitantes, ocho veces superior al de 2016. tras esa onda de delincuencia se encuentran grupos organizados enfocados principalmente en el tráfico de drogas, los secuestros y la extorsión, que constantemente ponen en peligro a autoridades locales como políticos, fiscales y jueces que se oponen o examinan sus acciones. el presidente de ecuador, daniel noboa, declaró al país en un “conflicto armado interno” contra el crimen organizado, y estableció una serie de estados de excepción para movilizar a las fuerzas armadas en operaciones contra las bandas delictivas y en las prisiones, con el objetivo de quitarles el control que poseían en las prisiones más grandes de ecuador.",
+    "tokens": [
+      "jueza",
+      "ecuatoriana",
+      "sufrió",
+      "heridas",
+      "ser",
+      "objeto",
+      "ataque",
+      "realizado",
+      "ciudad",
+      "libertad",
+      "presuntos",
+      "sicarios",
+      "dispararon",
+      "mientras",
+      "encontraba",
+      "coche",
+      ",",
+      "nueva",
+      "acción",
+      "delito",
+      "organizado",
+      "autoridad",
+      "local",
+      "ecuador",
+      ".",
+      "asimismo",
+      ",",
+      "reconocido",
+      "víctima",
+      "maría",
+      "belén",
+      "chérres",
+      ",",
+      "jueza",
+      "unidad",
+      "judicial",
+      "libertad",
+      ",",
+      "provincia",
+      "costera",
+      "santa",
+      "elena",
+      ",",
+      "siete",
+      "provincias",
+      "totalmente",
+      "bajo",
+      "excepción",
+      "establecido",
+      "gobierno",
+      "crimen",
+      "organizado",
+      ".",
+      "ataque",
+      "lugar",
+      "tarde",
+      "viernes",
+      "chérres",
+      ",",
+      "viajaba",
+      "coche",
+      "personal",
+      ",",
+      "abordada",
+      "dos",
+      "individuos",
+      "motocicleta",
+      "lanzaron",
+      "disparos",
+      ",",
+      "según",
+      "informaron",
+      "medios",
+      "locales",
+      ".",
+      "parte",
+      ",",
+      "jueza",
+      "llevada",
+      "centro",
+      "salud",
+      "recibir",
+      "atención",
+      "médica",
+      ",",
+      "encuentra",
+      "bajo",
+      "custodia",
+      "policial",
+      "prevenir",
+      "nuevamente",
+      "agredida",
+      "mismos",
+      "sicarios",
+      "objetivo",
+      "realizar",
+      "homicidio",
+      "encargo",
+      ".",
+      "fiscalía",
+      "inició",
+      "procedimiento",
+      "preliminar",
+      ",",
+      "mientras",
+      "policía",
+      "recogió",
+      "testimonios",
+      "testigos",
+      "analizó",
+      "grabaciones",
+      "cámaras",
+      "vigilancia",
+      "área",
+      "lugar",
+      "ataque",
+      ".",
+      "sábado",
+      "pasado",
+      ",",
+      "eber",
+      "ponce",
+      ",",
+      "alcalde",
+      "arenillas",
+      ",",
+      "municipio",
+      "fronterizo",
+      "perú",
+      ",",
+      "murió",
+      "circunstancias",
+      "parecidas",
+      "mientras",
+      "transportaba",
+      "mujer",
+      "hijo",
+      "después",
+      "haber",
+      "intervenido",
+      "actividad",
+      "pública",
+      ".",
+      "2023",
+      ",",
+      "ecuador",
+      "posicionó",
+      "nación",
+      "índice",
+      "elevado",
+      "homicidios",
+      "suramérica",
+      ",",
+      "registrando",
+      "47.2",
+      "cada",
+      "100.000",
+      "habitantes",
+      ",",
+      "ocho",
+      "veces",
+      "superior",
+      "2016.",
+      "tras",
+      "onda",
+      "delincuencia",
+      "encuentran",
+      "grupos",
+      "organizados",
+      "enfocados",
+      "principalmente",
+      "tráfico",
+      "drogas",
+      ",",
+      "secuestros",
+      "extorsión",
+      ",",
+      "constantemente",
+      "ponen",
+      "peligro",
+      "autoridades",
+      "locales",
+      "políticos",
+      ",",
+      "fiscales",
+      "jueces",
+      "oponen",
+      "examinan",
+      "acciones",
+      ".",
+      "presidente",
+      "ecuador",
+      ",",
+      "daniel",
+      "noboa",
+      ",",
+      "declaró",
+      "país",
+      "“",
+      "conflicto",
+      "armado",
+      "interno",
+      "”",
+      "crimen",
+      "organizado",
+      ",",
+      "estableció",
+      "serie",
+      "excepción",
+      "movilizar",
+      "fuerzas",
+      "armadas",
+      "operaciones",
+      "bandas",
+      "delictivas",
+      "prisiones",
+      ",",
+      "objetivo",
+      "quitarles",
+      "control",
+      "poseían",
+      "prisiones",
+      "grandes",
+      "ecuador",
+      "."
+    ],
+    "token_count": 225,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "NN": 114,
+      "IN": 21,
+      "JJR": 1,
+      "JJ": 42,
+      "FW": 83,
+      "NNS": 21,
+      "VBP": 12,
+      "VBD": 1,
+      "VBZ": 4,
+      "CD": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 63,
+      "NN-IN": 17,
+      "IN-JJR": 1,
+      "JJR-NN": 1,
+      "IN-JJ": 6,
+      "JJ-NN": 23,
+      "IN-FW": 10,
+      "FW-FW": 53,
+      "FW-NNP": 8,
+      "NNP-NNP": 15,
+      "NNP-FW": 7,
+      "FW-NN": 11,
+      "NN-NNS": 8,
+      "NNS-VBP": 10,
+      "VBP-JJ": 9,
+      "JJ-JJ": 6,
+      "JJ-FW": 6,
+      "FW-JJ": 7,
+      "NN-JJ": 9,
+      "NN-NNP": 9,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-FW": 5,
+      "IN-NNP": 1,
+      "NNP-IN": 1,
+      "VBP-NNP": 1,
+      "FW-NNS": 3,
+      "NNS-NN": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "NN-VBP": 2,
+      "VBP-NN": 1,
+      "NNS-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 1,
+      "JJ-NNS": 6,
+      "IN-NN": 2,
+      "JJ-NNP": 1,
+      "NNS-IN": 2,
+      "VBP-NNS": 1,
+      "NNP-CD": 1,
+      "CD-NNP": 2,
+      "VBZ-CD": 1,
+      "CD-NN": 1,
+      "NN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 3,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 31,
+      "NN-NN-IN": 12,
+      "NN-IN-JJR": 1,
+      "IN-JJR-NN": 1,
+      "JJR-NN-IN": 1,
+      "NN-IN-JJ": 6,
+      "IN-JJ-NN": 4,
+      "JJ-NN-NN": 14,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 38,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-FW": 4,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 8,
+      "IN-JJ-JJ": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-JJ": 4,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-NNP": 6,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 5,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-JJ-NN": 5,
+      "NN-FW-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NN": 1,
+      "NNS-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-NN-JJ": 7,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-NN": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "JJ-FW-FW": 3,
+      "NN-NN-NNP": 5,
+      "NNP-NNP-NN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "JJ-NNS-IN": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-FW": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 114,
+        "FW": 83,
+        "JJ": 42,
+        "NNP": 40,
+        "IN": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 63,
+        "FW-FW": 53,
+        "JJ-NN": 23,
+        "NN-IN": 17,
+        "NNP-NNP": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 38,
+        "NN-NN-NN": 31,
+        "JJ-NN-NN": 14,
+        "NN-NN-IN": 12,
+        "NNS-VBP-JJ": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 83,
+      "PP": 9,
+      "VP": 15,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0417
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('su', 'NN') ('coche', 'NN')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "VP -> ('organizado', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('prisiones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP PP PP ('en', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP ('por', 'FW') NP VP VP ('en', 'FW') NP (',', ',') ('en', 'FW') NP ('de', 'IN') ('delito', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('jueza', 'NN') ('ecuatoriana', 'NN') ('sufrió', 'NN') ('heridas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "PP -> ('al', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una jueza ecuatoriana sufrió heridas"
+      },
+      {
+        "label": "PP",
+        "text": "al ser objeto"
+      },
+      {
+        "label": "NP",
+        "text": "ser objeto"
+      },
+      {
+        "label": "PP",
+        "text": "de un ataque realizado"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque realizado"
+      },
+      {
+        "label": "NP",
+        "text": "La Libertad"
+      },
+      {
+        "label": "NP",
+        "text": "presuntos sicarios"
+      },
+      {
+        "label": "VP",
+        "text": "que dispararon contra ella mientras"
+      },
+      {
+        "label": "NP",
+        "text": "dispararon contra ella mientras"
+      },
+      {
+        "label": "VP",
+        "text": "se encontraba"
+      },
+      {
+        "label": "NP",
+        "text": "su coche"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva acción"
+      },
+      {
+        "label": "NP",
+        "text": "organizado contra una autoridad"
+      },
+      {
+        "label": "NP",
+        "text": "local en Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Asimismo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP jueza/NN ecuatoriana/NN sufrió/NN heridas/NN)\n  (PP al/IN (NP ser/JJR objeto/NN))\n  (PP de/IN (NP un/JJ ataque/NN realizado/NN))\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP La/NNP Libertad/NNP)\n  por/FW\n  (NP presuntos/NN sicarios/NNS)\n  (VP que/VBP (NP dispararon/JJ contra/JJ ella/NN mientras/NNS))\n  (VP se/VBP encontraba/JJ)\n  en/FW\n  (NP su/NN coche/NN)\n  ,/,\n  en/FW\n  (NP una/JJ nueva/JJ acción/NN)\n  de/IN\n  delito/FW\n  (NP organizado/JJ contra/JJ una/JJ autoridad/NN)\n  (NP local/JJ en/NN Ecuador/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP se/VBD (NP ha/JJ reconocido/NN) (NP a/DT la/NN))\n  víctima/FW\n  (NP como/NN María/NNP Belén/NNP Chérres/NNP)\n  ,/,\n  (NP jueza/NN)\n  de/FW\n  la/FW\n  (NP Unidad/NNP Judicial/NNP de/NNP La/NNP Libertad/NNP)\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  (NP costera/NN)\n  (PP de/IN (NP Santa/NNP Elena/NNP))\n  ,/,\n  (ADJP una/JJ)\n  de/FW\n  las/FW\n  (NP siete/JJ provincias/NN totalmente/NN bajo/NN)\n  el/FW\n  estado/FW\n  de/FW\n  excepción/FW\n  establecido/FW\n  por/FW\n  el/FW\n  (NP Gobierno/NNP contra/NN el/NN crimen/NNS)\n  (VP organizado/VBP)\n  ./.)",
+      "(S\n  (NP El/NNP ataque/NN tuvo/NN lugar/NN)\n  en/IN\n  la/FW\n  tarde/FW\n  del/FW\n  (NP viernes/NNS cuando/NN Chérres/NNP)\n  ,/,\n  (NP quien/NN viajaba/NN)\n  (PP en/IN (NP su/NN coche/NN))\n  (ADJP personal/JJ)\n  ,/,\n  (NP fue/JJ abordada/NN por/NN dos/NN individuos/NN)\n  (PP\n    en/IN\n    (NP una/JJ motocicleta/NN que/NN lanzaron/NN disparos/NN))\n  (NP contra/JJ ella/NN)\n  ,/,\n  (NP según/JJ informaron/NN medios/NNS locales/NNS)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  la/FW\n  jueza/FW\n  fue/FW\n  llevada/FW\n  (NP a/DT un/JJ centro/NN)\n  de/IN\n  salud/FW\n  (NP para/NN recibir/NN atención/NN médica/NN)\n  ,/,\n  donde/FW\n  se/FW\n  encuentra/FW\n  bajo/FW\n  (VP\n    custodia/VBP\n    (NP policial/JJ para/NN prevenir/NN que/NN sea/NN))\n  (PP nuevamente/IN (NP agredida/JJ por/NN los/NN))\n  (NP mismos/JJ sicarios/NNS)\n  (VP con/VBP el/JJ)\n  objetivo/FW\n  de/FW\n  realizar/FW\n  el/FW\n  (NP homicidio/NN por/NN encargo/NN)\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    Fiscalía/NNP\n    inició/NN\n    un/NN\n    procedimiento/NN\n    preliminar/NN)\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  la/FW\n  (NP Policía/NNP)\n  recogió/FW\n  testimonios/FW\n  de/FW\n  los/FW\n  (NP testigos/JJ y/NN analizó/NN)\n  (NP las/JJ grabaciones/NNS)\n  de/IN\n  las/FW\n  cámaras/FW\n  de/FW\n  vigilancia/FW\n  del/FW\n  área/FW\n  donde/FW\n  (NP tuvo/NN lugar/NN el/NN ataque/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto armado interno” contra el",
+        "position": [
+          1942,
+          1977
+        ],
+        "start": 1942,
+        "end": 1977
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "policía recogió testimonios de los testigos y analizó las grabaciones de las cámaras de vigilancia del área donde tuvo lugar el ataque",
+        "position": [
+          1072,
+          1206
+        ],
+        "start": 1072,
+        "end": 1206
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1919,
+          1926
+        ],
+        "start": 1919,
+        "end": 1926
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de ecuador",
+        "position": [
+          1882,
+          1903
+        ],
+        "start": 1882,
+        "end": 1903
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "centro de salud",
+        "position": [
+          800,
+          815
+        ],
+        "start": 800,
+        "end": 815
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          259,
+          266
+        ],
+        "start": 259,
+        "end": 266
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          1285,
+          1289
+        ],
+        "start": 1285,
+        "end": 1289
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia costera",
+        "position": [
+          384,
+          401
+        ],
+        "start": 384,
+        "end": 401
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          800,
+          809
+        ],
+        "start": 800,
+        "end": 809
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la tarde",
+        "position": [
+          563,
+          574
+        ],
+        "start": 563,
+        "end": 574
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Daniel Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Suramérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Arenillas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chérres",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Libertad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santa Elena",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "María Belén Chérres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unidad Judicial de La Libertad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Eber Ponce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Fiscalía",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "La Libertad",
+        "relacion": "SUFRIR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "POSICIONAR",
+        "objeto": "Suramérica"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DECLARAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Daniel Noboa",
+        "relacion": "DECLARAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Daniel Noboa",
+        "relacion": "DECLARAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "MOVILIZAR_ESTABLECER_DECLARAR",
+        "objeto": "Ecuador"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7096,
+    "pos": 0.017,
+    "neu": 0.983,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

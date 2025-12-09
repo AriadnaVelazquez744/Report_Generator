@@ -1,0 +1,728 @@
+{
+  "url": "https://www.telesurtv.net/hamas-rechaza-presencia-de-fuerzas-extranjeras-en-la-franja-de-gaza/",
+  "title": "Hamás rechaza presencia de fuerzas extranjeras en la Franja de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Franja de Gaza",
+    "Fuerzas Extranjeras",
+    "Hamás",
+    "Resistencia palestina"
+  ],
+  "text": "El Movimiento de Resistencia Palestino (Hamás) expresó su rechazo a la presencia de fuerzas extranjeras en un futuro Gobierno en la Franja de Gaza.\nEn un mensaje dirigido a los líderes de la cumbre de los países árabes prevista celebrar el 4 de marzo, Hamás dejó en claro que el futuro de la Franja de Gaza debe ser “totalmente palestino”, basado en “un gobierno de unidad nacional” y con el apoyo de los países árabes.\nTras destacar que el previsto gobierno gazatí debería estar formado por tecnócratas expertos y personalidades palestinas, la resistencia palestina mostró su disposición con el fin de crear un comité para respaldar la propuesta ofrecida por Egipto sobre la Franja de Gaza.\nAdemás Hamás también condenó la imposición de cualquier plan o gestión de Gaza por parte de las fuerzas extranjeras, así como la presencia de fuerzas foráneas en la Franja.\nAl repudiar las propuestas de expulsar a los palestinos de su tierra, la resistencia palestina anunció que está dispuesto a cualquier iniciativa para que no violen los derechos de palestinos.\nEn la misma jornada, el primer ministro de Egipto, Mustafa Madbuli, afirmó que su Gobierno ha preparado un plan para la pronta recuperación y reconstrucción de la Franja de Gaza, manteniendo al mismo tiempo a los palestinos en el territorio palestino durante el proceso de reconstrucción.\nEl próximo miércoles, los líderes de los 22 países de la Liga Árabe celebrarán una reunión de emergencia para discutir el futuro de los palestinos en la Franja de Gaza.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hamas-rechaza-presencia-de-fuerzas-extranjeras-en-la-franja-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 2317,
+    "message_id": 88079,
+    "date": "2025-03-02T06:55:12+00:00",
+    "text": "teleSUR\nHamás rechaza presencia de fuerzas extranjeras en la Franja de Gaza\nhttps://www.telesurtv.net/hamas-rechaza-presencia-de-fuerzas-extranjeras-en-la-franja-de-gaza/",
+    "photo_path": null,
+    "views": 2171,
+    "reactions": {
+      "👍": 50,
+      "❤": 3,
+      "🤬": 3
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "el movimiento de resistencia palestino (hamás) expresó su rechazo a la presencia de fuerzas extranjeras en un futuro gobierno en la franja de gaza. en un mensaje dirigido a los líderes de la cumbre de los países árabes prevista celebrar el 4 de marzo, hamás dejó en claro que el futuro de la franja de gaza debe ser “totalmente palestino”, basado en “un gobierno de unidad nacional” y con el apoyo de los países árabes. tras destacar que el previsto gobierno gazatí debería estar formado por tecnócratas expertos y personalidades palestinas, la resistencia palestina mostró su disposición con el fin de crear un comité para respaldar la propuesta ofrecida por egipto sobre la franja de gaza. además hamás también condenó la imposición de cualquier plan o gestión de gaza por parte de las fuerzas extranjeras, así como la presencia de fuerzas foráneas en la franja. al repudiar las propuestas de expulsar a los palestinos de su tierra, la resistencia palestina anunció que está dispuesto a cualquier iniciativa para que no violen los derechos de palestinos. en la misma jornada, el primer ministro de egipto, mustafa madbuli, afirmó que su gobierno ha preparado un plan para la pronta recuperación y reconstrucción de la franja de gaza, manteniendo al mismo tiempo a los palestinos en el territorio palestino durante el proceso de reconstrucción. el próximo miércoles, los líderes de los 22 países de la liga árabe celebrarán una reunión de emergencia para discutir el futuro de los palestinos en la franja de gaza.",
+    "tokens": [
+      "movimiento",
+      "resistencia",
+      "palestino",
+      "(",
+      "hamás",
+      ")",
+      "expresó",
+      "rechazo",
+      "presencia",
+      "fuerzas",
+      "extranjeras",
+      "futuro",
+      "gobierno",
+      "franja",
+      "gaza",
+      ".",
+      "mensaje",
+      "dirigido",
+      "líderes",
+      "cumbre",
+      "países",
+      "árabes",
+      "prevista",
+      "celebrar",
+      "4",
+      "marzo",
+      ",",
+      "hamás",
+      "dejó",
+      "claro",
+      "futuro",
+      "franja",
+      "gaza",
+      "debe",
+      "ser",
+      "“",
+      "totalmente",
+      "palestino",
+      "”",
+      ",",
+      "basado",
+      "“",
+      "gobierno",
+      "unidad",
+      "nacional",
+      "”",
+      "apoyo",
+      "países",
+      "árabes",
+      ".",
+      "tras",
+      "destacar",
+      "previsto",
+      "gobierno",
+      "gazatí",
+      "debería",
+      "formado",
+      "tecnócratas",
+      "expertos",
+      "personalidades",
+      "palestinas",
+      ",",
+      "resistencia",
+      "palestina",
+      "mostró",
+      "disposición",
+      "fin",
+      "crear",
+      "comité",
+      "respaldar",
+      "propuesta",
+      "ofrecida",
+      "egipto",
+      "franja",
+      "gaza",
+      ".",
+      "además",
+      "hamás",
+      "condenó",
+      "imposición",
+      "cualquier",
+      "plan",
+      "gestión",
+      "gaza",
+      "parte",
+      "fuerzas",
+      "extranjeras",
+      ",",
+      "así",
+      "presencia",
+      "fuerzas",
+      "foráneas",
+      "franja",
+      ".",
+      "repudiar",
+      "propuestas",
+      "expulsar",
+      "palestinos",
+      "tierra",
+      ",",
+      "resistencia",
+      "palestina",
+      "anunció",
+      "dispuesto",
+      "cualquier",
+      "iniciativa",
+      "violen",
+      "derechos",
+      "palestinos",
+      ".",
+      "misma",
+      "jornada",
+      ",",
+      "primer",
+      "ministro",
+      "egipto",
+      ",",
+      "mustafa",
+      "madbuli",
+      ",",
+      "afirmó",
+      "gobierno",
+      "preparado",
+      "plan",
+      "pronta",
+      "recuperación",
+      "reconstrucción",
+      "franja",
+      "gaza",
+      ",",
+      "manteniendo",
+      "mismo",
+      "tiempo",
+      "palestinos",
+      "territorio",
+      "palestino",
+      "proceso",
+      "reconstrucción",
+      ".",
+      "próximo",
+      "miércoles",
+      ",",
+      "líderes",
+      "22",
+      "países",
+      "liga",
+      "árabe",
+      "celebrarán",
+      "reunión",
+      "emergencia",
+      "discutir",
+      "futuro",
+      "palestinos",
+      "franja",
+      "gaza",
+      "."
+    ],
+    "token_count": 156,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "FW": 69,
+      "VBZ": 5,
+      "JJ": 22,
+      "NN": 79,
+      "NNS": 10,
+      "VBP": 6,
+      "IN": 14,
+      "JJR": 1,
+      "DT": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 10,
+      "NNP-FW": 8,
+      "FW-NNP": 16,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NN": 10,
+      "NN-NN": 43,
+      "NN-FW": 13,
+      "FW-FW": 31,
+      "FW-JJ": 4,
+      "NN-NNP": 4,
+      "VBZ-FW": 2,
+      "NNP-JJ": 1,
+      "NN-JJ": 5,
+      "JJ-VBZ": 1,
+      "FW-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-JJ": 2,
+      "NN-IN": 9,
+      "IN-FW": 9,
+      "NNP-NN": 9,
+      "FW-NN": 13,
+      "IN-JJ": 3,
+      "JJ-JJ": 3,
+      "VBP-NNP": 1,
+      "NN-NNS": 2,
+      "VBP-NNS": 1,
+      "VBP-NN": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "JJ-FW": 4,
+      "VBP-FW": 1,
+      "JJ-NNS": 3,
+      "NNS-IN": 3,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "JJ-IN": 1,
+      "NN-VBP": 1,
+      "IN-NN": 1,
+      "NNS-JJ": 1,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 17,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-FW": 7,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 4,
+      "FW-FW-NNP": 6,
+      "NNP-FW-NN": 2,
+      "NN-NN-NN": 26,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-NN-IN": 4,
+      "NN-JJ-NN": 3,
+      "NN-NNP-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-FW": 3,
+      "JJ-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 5,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "NNP-FW-FW": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NN-JJ": 1,
+      "IN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 69,
+        "NNP": 33,
+        "JJ": 22,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 43,
+        "FW-FW": 31,
+        "FW-NNP": 16,
+        "NN-FW": 13,
+        "FW-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 17,
+        "NN-FW-FW": 8,
+        "FW-NNP-FW": 7,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 15,
+      "ADJP": 2,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 6,
+        "weight": 0.0632
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0526
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0421
+      },
+      {
+        "rule": "NP -> ('países', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0316
+      },
+      {
+        "rule": "NP -> ('Hamás', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('(', '(') NP (')', ')') VP ('presencia', 'FW') ('de', 'FW') ('fuerzas', 'FW') ('extranjeras', 'FW') ('en', 'FW') NP VP ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Movimiento', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('Resistencia', 'NNP') ('Palestino', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('expresó', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('su', 'JJ') ('rechazo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Movimiento"
+      },
+      {
+        "label": "NP",
+        "text": "Resistencia Palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Hamás"
+      },
+      {
+        "label": "VP",
+        "text": "expresó su rechazo a la"
+      },
+      {
+        "label": "NP",
+        "text": "su rechazo"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "un futuro Gobierno"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un mensaje dirigido"
+      },
+      {
+        "label": "ADJP",
+        "text": "los"
+      },
+      {
+        "label": "NP",
+        "text": "países"
+      },
+      {
+        "label": "VP",
+        "text": "árabes prevista celebrar"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Movimiento/NNP)\n  de/FW\n  (NP Resistencia/NNP Palestino/NNP)\n  (/(\n  (NP Hamás/NNP)\n  )/)\n  (VP expresó/VBP (NP su/JJ rechazo/NN) (NP a/DT la/NN))\n  presencia/FW\n  de/FW\n  fuerzas/FW\n  extranjeras/FW\n  en/FW\n  (NP un/JJ futuro/NN Gobierno/NNP)\n  (VP en/VBZ)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ mensaje/NN dirigido/NN)\n  a/DT\n  (ADJP los/JJ)\n  líderes/FW\n  de/FW\n  la/FW\n  cumbre/FW\n  de/FW\n  los/FW\n  (NP países/NNS)\n  (VP árabes/VBP (NP prevista/JJ celebrar/NN))\n  (VP el/VBD)\n  4/CD\n  de/FW\n  marzo/FW\n  ,/,\n  (NP Hamás/NNP)\n  (VP dejó/VBZ)\n  en/FW\n  (NP claro/NN que/NN)\n  el/FW\n  futuro/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  debe/FW\n  (NP ser/NN “/NNP totalmente/NN palestino/NN ”/NNP)\n  ,/,\n  (NP basado/NN)\n  en/FW\n  “/FW\n  (NP un/JJ gobierno/NN)\n  (PP de/IN (NP unidad/JJ nacional/JJ ”/NN y/NN con/NN))\n  el/FW\n  (NP apoyo/NN)\n  de/IN\n  los/FW\n  (NP países/NNS)\n  (VP árabes/VBP)\n  ./.)",
+      "(S\n  (NP\n    Tras/NNP\n    destacar/NN\n    que/NN\n    el/NN\n    previsto/NN\n    gobierno/NN\n    gazatí/NN\n    debería/NN\n    estar/NN\n    formado/NN\n    por/NN\n    tecnócratas/NNS)\n  (VP expertos/VBP y/RB (NP personalidades/NNS palestinas/NNS))\n  ,/,\n  la/FW\n  resistencia/FW\n  palestina/FW\n  mostró/FW\n  su/FW\n  disposición/FW\n  (NP con/NN)\n  el/FW\n  (NP fin/NN)\n  (PP\n    de/IN\n    (NP\n      crear/JJ\n      un/JJ\n      comité/NN\n      para/NN\n      respaldar/NN\n      la/NN\n      propuesta/NN))\n  (NP ofrecida/JJ por/NN Egipto/NNP sobre/NN la/NN Franja/NNP)\n  (PP de/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP Además/NNP Hamás/NNP también/NN condenó/NN)\n  la/FW\n  imposición/FW\n  de/FW\n  (NP cualquier/JJR plan/NN)\n  o/IN\n  gestión/FW\n  de/FW\n  (NP Gaza/NNP)\n  por/FW\n  (NP parte/NN)\n  de/IN\n  las/FW\n  (NP fuerzas/JJ extranjeras/NNS)\n  ,/,\n  (VP así/VBP (NP como/NN la/NN))\n  presencia/FW\n  de/FW\n  fuerzas/FW\n  (NP foráneas/NNS)\n  (VP en/VBP (NP la/NN Franja/NNP))\n  ./.)",
+      "(S\n  (NP Al/NNP)\n  (VP repudiar/VBZ (NP las/JJ propuestas/NNS))\n  de/FW\n  expulsar/FW\n  (NP a/DT los/JJ palestinos/NN)\n  de/IN\n  su/FW\n  (NP tierra/NN)\n  ,/,\n  la/FW\n  resistencia/FW\n  palestina/FW\n  anunció/FW\n  (NP que/NN)\n  está/FW\n  (VP\n    dispuesto/VBZ\n    (NP a/DT cualquier/NN iniciativa/NN para/NN que/NN)\n    (NP no/DT violen/NN))\n  (VP los/VBZ derechos/JJ)\n  de/IN\n  palestinos/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "mensaje dirigido a los líderes de la cumbre de los países",
+        "position": [
+          154,
+          211
+        ],
+        "start": 154,
+        "end": 211
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "mensaje dirigido a los líderes de la cumbre de los países árabes prevista celebrar el 4 de marzo, hamás dejó en claro que el futuro de la franja de gaza debe ser “totalmente palestino”, basado en “un gobierno de unidad nacional",
+        "position": [
+          154,
+          381
+        ],
+        "start": 154,
+        "end": 381
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          47,
+          54
+        ],
+        "start": 47,
+        "end": 54
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          960,
+          967
+        ],
+        "start": 960,
+        "end": 967
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de unidad nacional",
+        "position": [
+          354,
+          381
+        ],
+        "start": 354,
+        "end": 381
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de egipto",
+        "position": [
+          1088,
+          1106
+        ],
+        "start": 1088,
+        "end": 1106
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de unidad",
+        "position": [
+          354,
+          372
+        ],
+        "start": 354,
+        "end": 372
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          713,
+          720
+        ],
+        "start": 713,
+        "end": 720
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          557,
+          566
+        ],
+        "start": 557,
+        "end": 566
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Movimiento de Resistencia Palestino",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mustafa Madbuli",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Liga Árabe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Movimiento de Resistencia Palestino",
+        "relacion": "EXPRESAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Movimiento de Resistencia Palestino",
+        "relacion": "EXPRESAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "EXPRESAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "EXPRESAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "DEJAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "CONDENAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "CONDENAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "CONDENAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "AFIRMAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "AFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "AFIRMAR",
+        "objeto": "Mustafa Madbuli"
+      },
+      {
+        "sujeto": "Mustafa Madbuli",
+        "relacion": "AFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PREPARAR_AFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Liga Árabe",
+        "relacion": "CELEBRAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.01,
+    "neu": 0.981,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

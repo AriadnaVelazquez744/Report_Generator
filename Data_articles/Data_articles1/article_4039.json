@@ -1,0 +1,706 @@
+{
+  "url": "https://www.telesurtv.net/panama-registra-un-apagon-que-deja-a-oscuras-a-gran-parte-del-pais/",
+  "title": "Panamá registra un apagón que deja a oscuras a gran parte del país - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Apagón Nacional",
+    "Presidente Panameño",
+    "Sistema Eléctrico"
+  ],
+  "text": "Panamá se encuentra a oscuras tras registrarse un apagón nacional en la noche del sábado, hecho que dejó sin luz a miles de panameños.\nLa situación fue confirmada por el presidente panameño, José Raúl Mulino, a través de sus redes sociales.\n“Estoy en Boquete sin luz. Imperdonable. El daño es muy grande por lo que se reporta. Pediré a la ASEP y la Secretaría de Energía un reporte para el lunes; se actuará en concordancia. Suficiente pésimo servicio”, posteó el presidente Mulino en X.\nPosteriormente, el mandatario panameño confirmó que la Autoridad Nacional de los Servicios Públicos (ASEP) le informó que se trataba de un apagón nacional.\nLa directora de la ASEP, Zelmar Rodríguez Crespo, informó que la causa de la caída del sistema eléctrico en la mayoría del país fue la explosión de un transformador en la planta termoeléctrica de Pan-Am.\nSegún el jefe de Estado, el secretario de Energía, Juan Urriola, manifestó que se estaba reactivando el sistema y poco a poco se normalizará.\nA pocos minutos de las 02H00, varios sectores del país reportaron que contaban con energía eléctrica.\nDe acuerdo con la Secretaría Nacional de Energía, la recuperación del sistema interconectado requiere de reenergización pausada por fases y en función de la estabilidad del sistema para evitar una sobrecarga.\nNo es la primera vez que un evento similar ocurre en Panamá. En 2023, un apagón nacional dejó a miles de usuarios sin energía eléctrica.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/panama-registra-un-apagon-que-deja-a-oscuras-a-gran-parte-del-pais/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1237,
+    "message_id": 89257,
+    "date": "2025-03-16T08:55:13+00:00",
+    "text": "teleSUR\nPanamá registra un apagón que deja a oscuras a gran parte del país\nhttps://www.telesurtv.net/panama-registra-un-apagon-que-deja-a-oscuras-a-gran-parte-del-pais/",
+    "photo_path": null,
+    "views": 2174,
+    "reactions": {
+      "😱": 39,
+      "👀": 7,
+      "😁": 4,
+      "🤔": 4,
+      "👍": 1
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "panamá se encuentra a oscuras tras registrarse un apagón nacional en la noche del sábado, hecho que dejó sin luz a miles de panameños. la situación fue confirmada por el presidente panameño, josé raúl mulino, a través de sus redes sociales. “estoy en boquete sin luz. imperdonable. el daño es muy grande por lo que se reporta. pediré a la asep y la secretaría de energía un reporte para el lunes; se actuará en concordancia. suficiente pésimo servicio”, posteó el presidente mulino en x. posteriormente, el mandatario panameño confirmó que la autoridad nacional de los servicios públicos (asep) le informó que se trataba de un apagón nacional. la directora de la asep, zelmar rodríguez crespo, informó que la causa de la caída del sistema eléctrico en la mayoría del país fue la explosión de un transformador en la planta termoeléctrica de pan-am. según el jefe de estado, el secretario de energía, juan urriola, manifestó que se estaba reactivando el sistema y poco a poco se normalizará. a pocos minutos de las 02h00, varios sectores del país reportaron que contaban con energía eléctrica. de acuerdo con la secretaría nacional de energía, la recuperación del sistema interconectado requiere de reenergización pausada por fases y en función de la estabilidad del sistema para evitar una sobrecarga. no es la primera vez que un evento similar ocurre en panamá. en 2023, un apagón nacional dejó a miles de usuarios sin energía eléctrica.",
+    "tokens": [
+      "panamá",
+      "encuentra",
+      "oscuras",
+      "tras",
+      "registrarse",
+      "apagón",
+      "nacional",
+      "noche",
+      "sábado",
+      ",",
+      "hecho",
+      "dejó",
+      "luz",
+      "miles",
+      "panameños",
+      ".",
+      "situación",
+      "confirmada",
+      "presidente",
+      "panameño",
+      ",",
+      "josé",
+      "raúl",
+      "mulino",
+      ",",
+      "través",
+      "redes",
+      "sociales",
+      ".",
+      "“",
+      "boquete",
+      "luz",
+      ".",
+      "imperdonable",
+      ".",
+      "daño",
+      "grande",
+      "reporta",
+      ".",
+      "pediré",
+      "asep",
+      "secretaría",
+      "energía",
+      "reporte",
+      "lunes",
+      ";",
+      "actuará",
+      "concordancia",
+      ".",
+      "suficiente",
+      "pésimo",
+      "servicio",
+      "”",
+      ",",
+      "posteó",
+      "presidente",
+      "mulino",
+      "x.",
+      "posteriormente",
+      ",",
+      "mandatario",
+      "panameño",
+      "confirmó",
+      "autoridad",
+      "nacional",
+      "servicios",
+      "públicos",
+      "(",
+      "asep",
+      ")",
+      "informó",
+      "trataba",
+      "apagón",
+      "nacional",
+      ".",
+      "directora",
+      "asep",
+      ",",
+      "zelmar",
+      "rodríguez",
+      "crespo",
+      ",",
+      "informó",
+      "causa",
+      "caída",
+      "sistema",
+      "eléctrico",
+      "mayoría",
+      "país",
+      "explosión",
+      "transformador",
+      "planta",
+      "termoeléctrica",
+      "pan-am",
+      ".",
+      "según",
+      "jefe",
+      ",",
+      "secretario",
+      "energía",
+      ",",
+      "juan",
+      "urriola",
+      ",",
+      "manifestó",
+      "reactivando",
+      "sistema",
+      "normalizará",
+      ".",
+      "pocos",
+      "minutos",
+      "02h00",
+      ",",
+      "varios",
+      "sectores",
+      "país",
+      "reportaron",
+      "contaban",
+      "energía",
+      "eléctrica",
+      ".",
+      "acuerdo",
+      "secretaría",
+      "nacional",
+      "energía",
+      ",",
+      "recuperación",
+      "sistema",
+      "interconectado",
+      "requiere",
+      "reenergización",
+      "pausada",
+      "fases",
+      "función",
+      "estabilidad",
+      "sistema",
+      "evitar",
+      "sobrecarga",
+      ".",
+      "primera",
+      "vez",
+      "evento",
+      "similar",
+      "ocurre",
+      "panamá",
+      ".",
+      "2023",
+      ",",
+      "apagón",
+      "nacional",
+      "dejó",
+      "miles",
+      "usuarios",
+      "energía",
+      "eléctrica",
+      "."
+    ],
+    "token_count": 156,
+    "sentence_count": 14
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "VBD": 2,
+      "JJ": 22,
+      "NNS": 9,
+      "VBP": 5,
+      "NN": 82,
+      "FW": 51,
+      "RB": 2,
+      "IN": 8,
+      "VBZ": 2,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-JJ": 7,
+      "JJ-NN": 11,
+      "NN-NN": 50,
+      "NN-FW": 9,
+      "FW-FW": 30,
+      "FW-NN": 13,
+      "NN-NNS": 4,
+      "NNS-RB": 2,
+      "RB-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-FW": 8,
+      "NN-NNP": 7,
+      "NNP-NNP": 19,
+      "NNP-NN": 8,
+      "FW-NNS": 1,
+      "NNS-NNS": 2,
+      "NNS-NNP": 1,
+      "VBD-NNP": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 4,
+      "NNP-JJ": 1,
+      "JJ-FW": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "FW-NNP": 6,
+      "VBZ-JJ": 1,
+      "NN-JJ": 5,
+      "NN-IN": 6,
+      "IN-JJ": 2,
+      "JJ-NNP": 1,
+      "IN-FW": 2,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "VBP-FW": 1,
+      "JJ-IN": 1,
+      "NNP-CD": 1,
+      "CD-JJ": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 4,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 19,
+      "FW-FW-NN": 7,
+      "FW-NN-NN": 6,
+      "NN-NN-NN": 31,
+      "NN-NN-NNS": 2,
+      "NN-NNS-RB": 2,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 4,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-NN-FW": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 3,
+      "IN-NNP-FW": 1,
+      "IN-NNP-NNP": 2,
+      "NN-FW-NN": 1,
+      "NN-NN-JJ": 4,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "JJ-NN-NNP": 1,
+      "NN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-RB-JJ": 1,
+      "RB-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 82,
+        "FW": 51,
+        "NNP": 42,
+        "JJ": 22,
+        "NNS": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 30,
+        "NNP-NNP": 19,
+        "FW-NN": 13,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 31,
+        "FW-FW-FW": 19,
+        "NNP-NNP-NNP": 8,
+        "FW-FW-NN": 7,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 14,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 14,
+      "ADJP": 3,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0577
+      },
+      {
+        "rule": "NP -> ('Energía', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('miles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('ASEP', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP VP VP ('noche', 'FW') NP (',', ',') NP VP ('panameños', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Panamá', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('se', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('encuentra', 'VB') NP NP",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Panamá"
+      },
+      {
+        "label": "VP",
+        "text": "se"
+      },
+      {
+        "label": "VP",
+        "text": "encuentra a oscuras tras registrarse un apagón nacional en la"
+      },
+      {
+        "label": "NP",
+        "text": "a oscuras tras registrarse"
+      },
+      {
+        "label": "NP",
+        "text": "un apagón nacional en la"
+      },
+      {
+        "label": "NP",
+        "text": "del sábado"
+      },
+      {
+        "label": "NP",
+        "text": "hecho que dejó sin"
+      },
+      {
+        "label": "VP",
+        "text": "luz a miles de"
+      },
+      {
+        "label": "NP",
+        "text": "a miles"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "situación fue confirmada por el presidente panameño"
+      },
+      {
+        "label": "NP",
+        "text": "fue confirmada por el presidente panameño"
+      },
+      {
+        "label": "NP",
+        "text": "José Raúl Mulino"
+      },
+      {
+        "label": "NP",
+        "text": "a través"
+      },
+      {
+        "label": "NP",
+        "text": "redes sociales"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Panamá/NNP)\n  (VP se/VBZ)\n  (VP\n    encuentra/VB\n    (NP a/DT oscuras/JJ tras/JJ registrarse/NN)\n    (NP un/JJ apagón/JJ nacional/JJ en/NN la/NN))\n  noche/FW\n  (NP del/NN sábado/NN)\n  ,/,\n  (NP hecho/JJ que/NN dejó/NN sin/NN)\n  (VP luz/VBD (NP a/DT miles/NNS) de/RB)\n  panameños/FW\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    situación/VBD\n    (NP fue/JJ confirmada/NN por/NN el/NN presidente/NN panameño/NN))\n  ,/,\n  (NP José/NNP Raúl/NNP Mulino/NNP)\n  ,/,\n  (NP a/DT través/NN)\n  de/IN\n  sus/FW\n  (NP redes/NNS sociales/NNS)\n  ./.)",
+      "(S (NP “/JJ Estoy/NNP) en/FW (NP Boquete/NNP sin/NN luz/NN) ./.)",
+      "(S (ADJP Imperdonable/JJ) ./.)",
+      "(S\n  (NP\n    El/NNP\n    daño/NN\n    es/NN\n    muy/NN\n    grande/NN\n    por/NN\n    lo/NN\n    que/NN\n    se/NN\n    reporta/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "PERIODOS_TEMPORALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          913,
+          922
+        ],
+        "start": 913,
+        "end": 922
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "explosión de un transformador en la planta",
+        "position": [
+          779,
+          821
+        ],
+        "start": 779,
+        "end": 821
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la secretaría nacional de energía, la recuperación del sistema interconectado requiere de reenergización pausada por fases y en",
+        "position": [
+          1095,
+          1234
+        ],
+        "start": 1095,
+        "end": 1234
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          598,
+          605
+        ],
+        "start": 598,
+        "end": 605
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente panameño",
+        "position": [
+          170,
+          189
+        ],
+        "start": 170,
+        "end": 189
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "luz",
+        "position": [
+          109,
+          112
+        ],
+        "start": 109,
+        "end": 112
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "panamá",
+        "position": [
+          0,
+          6
+        ],
+        "start": 0,
+        "end": 6
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, el",
+        "position": [
+          865,
+          875
+        ],
+        "start": 865,
+        "end": 875
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la noche",
+        "position": [
+          66,
+          77
+        ],
+        "start": 66,
+        "end": 77
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Secretaría de Energía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pediré",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Boquete",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "reenergización",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Energía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Juan Urriola",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ASEP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretaría Nacional de Energía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pan-Am",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mulino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Autoridad Nacional de los Servicios Públicos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zelmar Rodríguez Crespo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "José Raúl Mulino",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Pediré",
+        "relacion": "PEDIRAR",
+        "objeto": "ASEP"
+      },
+      {
+        "sujeto": "Pediré",
+        "relacion": "PEDIRAR",
+        "objeto": "Secretaría de Energía"
+      },
+      {
+        "sujeto": "Autoridad Nacional de los Servicios Públicos",
+        "relacion": "POSTEAR",
+        "objeto": "Mulino"
+      },
+      {
+        "sujeto": "Mulino",
+        "relacion": "POSTEAR",
+        "objeto": "ASEP"
+      },
+      {
+        "sujeto": "ASEP",
+        "relacion": "INFORMAR",
+        "objeto": "Pan-Am"
+      },
+      {
+        "sujeto": "Zelmar Rodríguez Crespo",
+        "relacion": "INFORMAR",
+        "objeto": "Pan-Am"
+      },
+      {
+        "sujeto": "Secretaría Nacional de Energía",
+        "relacion": "REQUERIR",
+        "objeto": "reenergización"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9186,
+    "pos": 0.0,
+    "neu": 0.945,
+    "neg": 0.055,
+    "label": "negative"
+  }
+}

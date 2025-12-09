@@ -1,0 +1,845 @@
+{
+  "url": "https://www.telesurtv.net/presidenta-sheinbaum-destaca-apertura-de-31-hospitales-en-su-sexenio/",
+  "title": "Presidenta Sheinbaum destaca apertura de 31 hospitales en su sexenio - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Claudia Sheinbaum",
+    "Mexico"
+  ],
+  "text": "La presidenta de México, Claudia Sheinbaum, presidió este viernes el evento inaugural de la primera fase del hospital regional de alta especialidad perteneciente al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste) en el centro turístico de Acapulco, en el estado de Guerrero. La mandataria destacó la apertura de 31 nosocomios en lo que va de su sexenio.\nSheinbaum anunció que la consulta externa comenzará el próximo lunes 25 de agosto y las especialidades después. Subrayó que, además de las especialidades, tiene ocho quirófanos completamente equipados.\nLa mandataria enfatizó que “llegamos para continuar y avanzar con la transformación”, y señaló que desde el 1 de octubre hasta la actualidad, se han abierto 31 hospitales y 12 centros de salud, en continuidad con las labores del expresidente Andrés Manuel López Obrador.\nPuntualizó que Acapulco ha tenido años difíciles después de los huracanes John y Otis, y subrayó el programa Acapulco se transforma contigo, mediante el cual se destinarán más de 7 mil millones de pesos (unos 350 millones de dólares) para este año a tareas de saneamiento, plantas para purificar agua, drenaje y separación de residuos, así como a trabajos de alumbrado y limpieza.\nEl director del Issste, Martí Batres Guadarrama, afirmó que este nuevo nosocomio, que ha requerido una inversión superior a los 3 mil millones de pesos (alrededor de 150 millones de dólares), será el más avanzado tecnológicamente y superará en calidad a todos los demás hospitales públicos y privados de Guerrero.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidenta-sheinbaum-destaca-apertura-de-31-hospitales-en-su-sexenio/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 644,
+    "message_id": 102556,
+    "date": "2025-08-23T11:55:07+00:00",
+    "text": "teleSUR\nPresidenta Sheinbaum destaca apertura de 31 hospitales en su sexenio\nhttps://www.telesurtv.net/presidenta-sheinbaum-destaca-apertura-de-31-hospitales-en-su-sexenio/",
+    "photo_path": null,
+    "views": 1791,
+    "reactions": {
+      "👍": 37,
+      "❤": 3
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de méxico, claudia sheinbaum, presidió este viernes el evento inaugural de la primera fase del hospital regional de alta especialidad perteneciente al instituto de seguridad y servicios sociales de los trabajadores del estado (issste) en el centro turístico de acapulco, en el estado de guerrero. la mandataria destacó la apertura de 31 nosocomios en lo que va de su sexenio. sheinbaum anunció que la consulta externa comenzará el próximo lunes 25 de agosto y las especialidades después. subrayó que, además de las especialidades, tiene ocho quirófanos completamente equipados. la mandataria enfatizó que “llegamos para continuar y avanzar con la transformación”, y señaló que desde el 1 de octubre hasta la actualidad, se han abierto 31 hospitales y 12 centros de salud, en continuidad con las labores del expresidente andrés manuel lópez obrador. puntualizó que acapulco ha tenido años difíciles después de los huracanes john y otis, y subrayó el programa acapulco se transforma contigo, mediante el cual se destinarán más de 7 mil millones de pesos (unos 350 millones de dólares) para este año a tareas de saneamiento, plantas para purificar agua, drenaje y separación de residuos, así como a trabajos de alumbrado y limpieza. el director del issste, martí batres guadarrama, afirmó que este nuevo nosocomio, que ha requerido una inversión superior a los 3 mil millones de pesos (alrededor de 150 millones de dólares), será el más avanzado tecnológicamente y superará en calidad a todos los demás hospitales públicos y privados de guerrero.",
+    "tokens": [
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "presidió",
+      "viernes",
+      "evento",
+      "inaugural",
+      "primera",
+      "fase",
+      "hospital",
+      "regional",
+      "alta",
+      "especialidad",
+      "perteneciente",
+      "instituto",
+      "seguridad",
+      "servicios",
+      "sociales",
+      "trabajadores",
+      "(",
+      "issste",
+      ")",
+      "centro",
+      "turístico",
+      "acapulco",
+      ",",
+      "guerrero",
+      ".",
+      "mandataria",
+      "destacó",
+      "apertura",
+      "31",
+      "nosocomios",
+      "va",
+      "sexenio",
+      ".",
+      "sheinbaum",
+      "anunció",
+      "consulta",
+      "externa",
+      "comenzará",
+      "próximo",
+      "lunes",
+      "25",
+      "agosto",
+      "especialidades",
+      "después",
+      ".",
+      "subrayó",
+      ",",
+      "además",
+      "especialidades",
+      ",",
+      "ocho",
+      "quirófanos",
+      "completamente",
+      "equipados",
+      ".",
+      "mandataria",
+      "enfatizó",
+      "“",
+      "llegamos",
+      "continuar",
+      "avanzar",
+      "transformación",
+      "”",
+      ",",
+      "señaló",
+      "1",
+      "octubre",
+      "actualidad",
+      ",",
+      "abierto",
+      "31",
+      "hospitales",
+      "12",
+      "centros",
+      "salud",
+      ",",
+      "continuidad",
+      "labores",
+      "expresidente",
+      "andrés",
+      "manuel",
+      "lópez",
+      "obrador",
+      ".",
+      "puntualizó",
+      "acapulco",
+      "años",
+      "difíciles",
+      "después",
+      "huracanes",
+      "john",
+      "otis",
+      ",",
+      "subrayó",
+      "programa",
+      "acapulco",
+      "transforma",
+      "contigo",
+      ",",
+      "mediante",
+      "destinarán",
+      "7",
+      "mil",
+      "millones",
+      "pesos",
+      "(",
+      "350",
+      "millones",
+      "dólares",
+      ")",
+      "año",
+      "tareas",
+      "saneamiento",
+      ",",
+      "plantas",
+      "purificar",
+      "agua",
+      ",",
+      "drenaje",
+      "separación",
+      "residuos",
+      ",",
+      "así",
+      "trabajos",
+      "alumbrado",
+      "limpieza",
+      ".",
+      "director",
+      "issste",
+      ",",
+      "martí",
+      "batres",
+      "guadarrama",
+      ",",
+      "afirmó",
+      "nuevo",
+      "nosocomio",
+      ",",
+      "requerido",
+      "inversión",
+      "superior",
+      "3",
+      "mil",
+      "millones",
+      "pesos",
+      "(",
+      "alrededor",
+      "150",
+      "millones",
+      "dólares",
+      ")",
+      ",",
+      "avanzado",
+      "tecnológicamente",
+      "superará",
+      "calidad",
+      "demás",
+      "hospitales",
+      "públicos",
+      "privados",
+      "guerrero",
+      "."
+    ],
+    "token_count": 168,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "FW": 57,
+      "NN": 71,
+      "NNS": 19,
+      "VBP": 11,
+      "JJ": 19,
+      "IN": 11,
+      "CD": 6,
+      "VBZ": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 7,
+      "FW-FW": 29,
+      "FW-NNP": 8,
+      "NNP-NNP": 14,
+      "NNP-NN": 9,
+      "NN-NN": 42,
+      "NN-NNS": 3,
+      "NNS-VBP": 9,
+      "VBP-JJ": 5,
+      "JJ-JJ": 3,
+      "JJ-FW": 2,
+      "FW-NN": 8,
+      "NN-FW": 4,
+      "FW-JJ": 4,
+      "NNP-IN": 1,
+      "IN-FW": 9,
+      "FW-CD": 1,
+      "CD-NNS": 5,
+      "NNS-FW": 5,
+      "NN-NNP": 5,
+      "NN-VBP": 2,
+      "VBP-NN": 3,
+      "NN-VBZ": 2,
+      "VBZ-CD": 1,
+      "CD-IN": 1,
+      "FW-NNS": 7,
+      "NNS-NNS": 1,
+      "VBP-NNP": 1,
+      "NN-IN": 6,
+      "JJ-NNS": 3,
+      "JJ-NNP": 2,
+      "NN-JJ": 6,
+      "JJ-NN": 8,
+      "NN-RB": 1,
+      "RB-CD": 1,
+      "NNS-CD": 1,
+      "VBZ-JJ": 1,
+      "VBP-IN": 1,
+      "NNS-NNP": 1,
+      "NNS-IN": 2,
+      "JJ-CD": 1,
+      "IN-CD": 1,
+      "IN-NN": 1,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 17,
+      "FW-FW-NN": 5,
+      "FW-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 4,
+      "NNS-FW-FW": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-NN": 24,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNS": 4,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "FW-NNS-VBP": 4,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 5,
+      "NN-NN-FW": 1,
+      "FW-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-NNP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-NNP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-JJ": 3,
+      "FW-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "NNS-FW-NNS": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-JJ-NN": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "JJ-NNS-IN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 71,
+        "FW": 57,
+        "NNP": 32,
+        "NNS": 19,
+        "JJ": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 29,
+        "NNP-NNP": 14,
+        "NNP-NN": 9,
+        "NNS-VBP": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "FW-FW-FW": 17,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NNP": 7,
+        "FW-FW-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 16,
+      "ADJP": 4,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0408
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('Guerrero', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('especialidades', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "VP -> ('después', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('pesos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('dólares', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') ('la', 'FW') ('primera', 'FW') NP ('del', 'FW') ADJP ADJP ('de', 'FW') ('alta', 'FW') ('especialidad', 'FW') ('perteneciente', 'FW') ('al', 'FW') NP ('de', 'FW') NP ('y', 'CC') NP ('de', 'IN') ('los', 'FW') NP ('del', 'FW') NP ('(', '(') NP (')', ')') ('en', 'FW') ('el', 'FW') ('centro', 'FW') ('turístico', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('estado', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "presidió este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "el evento inaugural"
+      },
+      {
+        "label": "NP",
+        "text": "fase"
+      },
+      {
+        "label": "ADJP",
+        "text": "hospital"
+      },
+      {
+        "label": "ADJP",
+        "text": "regional"
+      },
+      {
+        "label": "NP",
+        "text": "Instituto"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad"
+      },
+      {
+        "label": "NP",
+        "text": "Servicios Sociales"
+      },
+      {
+        "label": "NP",
+        "text": "Trabajadores"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Issste"
+      },
+      {
+        "label": "NP",
+        "text": "Acapulco"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP presidió/NN este/NN viernes/NNS)\n  (VP el/VBP evento/JJ inaugural/JJ)\n  de/FW\n  la/FW\n  primera/FW\n  (NP fase/NN)\n  del/FW\n  (ADJP hospital/JJ)\n  (ADJP regional/JJ)\n  de/FW\n  alta/FW\n  especialidad/FW\n  perteneciente/FW\n  al/FW\n  (NP Instituto/NNP)\n  de/FW\n  (NP Seguridad/NNP)\n  y/CC\n  (NP Servicios/NNP Sociales/NNP)\n  de/IN\n  los/FW\n  (NP Trabajadores/NNP)\n  del/FW\n  (NP Estado/NNP)\n  (/(\n  (NP Issste/NNP)\n  )/)\n  en/FW\n  el/FW\n  centro/FW\n  turístico/FW\n  de/FW\n  (NP Acapulco/NNP)\n  ,/,\n  en/FW\n  el/FW\n  estado/FW\n  de/FW\n  (NP Guerrero/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  mandataria/FW\n  (NP destacó/NN)\n  la/FW\n  apertura/FW\n  de/FW\n  31/CD\n  (NP nosocomios/NNS)\n  en/FW\n  lo/FW\n  que/FW\n  va/FW\n  de/FW\n  su/FW\n  (NP sexenio/NN)\n  ./.)",
+      "(S\n  (NP Sheinbaum/NNP anunció/NN que/NN la/NN consulta/NN)\n  (VP externa/VBP (NP comenzará/NN el/NN próximo/NN))\n  (VP lunes/VBZ)\n  25/CD\n  de/IN\n  agosto/FW\n  y/FW\n  las/FW\n  (NP especialidades/NNS)\n  (VP después/VBP)\n  ./.)",
+      "(S\n  (NP Subrayó/NNP que/NN)\n  ,/,\n  además/FW\n  de/FW\n  las/FW\n  (NP especialidades/NNS)\n  ,/,\n  (NP tiene/NN)\n  (NP ocho/JJ quirófanos/NNS)\n  (VP completamente/VBP (NP equipados/NNS))\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    mandataria/NNP\n    enfatizó/NN\n    que/NN\n    “/NNP\n    llegamos/NN\n    para/NN\n    continuar/NN\n    y/NN)\n  (NP avanzar/JJ con/NN la/NN transformación/NN ”/NNP)\n  ,/,\n  (NP y/NNP señaló/NN que/NN desde/NN)\n  (VP el/VBD)\n  1/CD\n  de/IN\n  octubre/FW\n  (NP hasta/NN la/NN actualidad/NN)\n  ,/,\n  se/FW\n  (NP han/NN)\n  abierto/RB\n  31/CD\n  (NP hospitales/NNS)\n  y/RB\n  12/CD\n  (NP centros/NNS)\n  de/FW\n  salud/FW\n  ,/,\n  en/FW\n  (NP continuidad/NN con/NN las/NN)\n  (VP\n    labores/VBZ\n    (NP\n      del/JJ\n      expresidente/NN\n      Andrés/NNP\n      Manuel/NNP\n      López/NNP\n      Obrador/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inversión",
+        "position": [
+          1347,
+          1356
+        ],
+        "start": 1347,
+        "end": 1356
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          680,
+          686
+        ],
+        "start": 680,
+        "end": 686
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          400,
+          407
+        ],
+        "start": 400,
+        "end": 407
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto de seguridad",
+        "position": [
+          165,
+          187
+        ],
+        "start": 165,
+        "end": 187
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          325,
+          332
+        ],
+        "start": 325,
+        "end": 332
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          502,
+          509
+        ],
+        "start": 502,
+        "end": 509
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1159,
+          1163
+        ],
+        "start": 1159,
+        "end": 1163
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          109,
+          117
+        ],
+        "start": 109,
+        "end": 117
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "saneamiento",
+        "position": [
+          1123,
+          1134
+        ],
+        "start": 1123,
+        "end": 1134
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado (issste",
+        "position": [
+          233,
+          247
+        ],
+        "start": 233,
+        "end": 247
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro turístico",
+        "position": [
+          255,
+          271
+        ],
+        "start": 255,
+        "end": 271
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital regional",
+        "position": [
+          109,
+          126
+        ],
+        "start": 109,
+        "end": 126
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 25 de agosto",
+        "position": [
+          453,
+          471
+        ],
+        "start": 453,
+        "end": 471
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "7 mil",
+        "position": [
+          1042,
+          1047
+        ],
+        "start": 1042,
+        "end": 1047
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 7",
+        "position": [
+          1035,
+          1043
+        ],
+        "start": 1035,
+        "end": 1043
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 150",
+        "position": [
+          1397,
+          1413
+        ],
+        "start": 1397,
+        "end": 1413
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "350 millones de dólares",
+        "position": [
+          1072,
+          1095
+        ],
+        "start": 1072,
+        "end": 1095
+      }
+    ],
+    "match_count": 19
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Andrés Manuel López Obrador",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "John",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Acapulco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Otis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Martí Batres Guadarrama",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Issste",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Issste",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guerrero",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "México",
+        "relacion": "PRESIDIR",
+        "objeto": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "PRESIDIR",
+        "objeto": "Issste"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "PRESIDIR",
+        "objeto": "Acapulco"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "PRESIDIR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "PRESIDIR",
+        "objeto": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "PRESIDIR",
+        "objeto": "Issste"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "PRESIDIR",
+        "objeto": "Acapulco"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "PRESIDIR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "Acapulco",
+        "relacion": "TENER_PUNTUALIZAR",
+        "objeto": "John"
+      },
+      {
+        "sujeto": "Acapulco",
+        "relacion": "TENER_PUNTUALIZAR",
+        "objeto": "Otis"
+      },
+      {
+        "sujeto": "Issste",
+        "relacion": "AFIRMAR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "Martí Batres Guadarrama",
+        "relacion": "AFIRMAR",
+        "objeto": "Guerrero"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8074,
+    "pos": 0.035,
+    "neu": 0.965,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,780 @@
+{
+  "url": "https://www.telesurtv.net/gobierno-boliviano-denuncia-guerra-sucia/",
+  "title": "Gobierno boliviano denuncia guerra sucia de la derecha",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bolivia",
+    "elecciones",
+    "Gobierno",
+    "guerra sucia"
+  ],
+  "text": "Este sábado 16 de agosto, el Gobierno de Bolivia emitió un comunicado en rechazo a las acusaciones del partido Alianza Unidad sobre un supuesto “plan digitado” del Ejecutivo para vincular a su partido con un fraude en el proceso electoral.\nDesde la coalición opositora, liderada por el empresario y candidato presidencial Samuel Doria Medina, declararon que el Gobierno de Luis Arce estaría intentando acusarlos de fraude electoral después de llevarse a cabo los comicios. El comunicado nacional asegura que se trata de un nuevo capítulo de “guerra sucia” de la derecha, con el fin de empañar el proceso.\n\nEn este sentido, el Gobierno calificó de “irresponsables” las afirmaciones y llamó a todas las formaciones políticas que participarán de los comicios a actuar con responsabilidad en sus declaraciones.\nEl comunicado oficial señaló: “lo que explica esa posición de Alianza Unidad es la guerra sucia entre los partidos de la derecha“.\n\n\nEn el pronunciamiento oficial, el Gobierno reafirma su apoyo al órgano electoral nacional y su labor: “No es sano para la democracia ni para el país poner en tela de juicio un proceso cuyo órgano rector, el Tribunal Supremo Electoral (TSE), ha demostrado total transparencia y compromiso al cumplir el cronograma tal como ha sido originalmente dispuesto”.\nAnte la posibilidad de darse campañas de desinformación, el Ejecutivo de Luis Arce pidió a la población informarse por vías oficiales y no guiarse por versiones que buscan “minar” el proceso electoral.\n\n\nMás de 7,9 millones de ciudadanos están habilitados para votar este domingo 17 de agosto para elegir presidente, vicepresidente, 130 diputados, 36 senadores y 9 representantes supraestatales.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gobierno-boliviano-denuncia-guerra-sucia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1132,
+    "message_id": 101974,
+    "date": "2025-08-16T23:55:07+00:00",
+    "text": "teleSUR\nGobierno boliviano denuncia “guerra sucia” de la derecha previa a los comicios generales\nhttps://www.telesurtv.net/gobierno-boliviano-denuncia-guerra-sucia/",
+    "photo_path": null,
+    "views": 2411,
+    "reactions": {
+      "👍": 30,
+      "🤬": 9,
+      "❤": 2
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "este sábado 16 de agosto, el gobierno de bolivia emitió un comunicado en rechazo a las acusaciones del partido alianza unidad sobre un supuesto “plan digitado” del ejecutivo para vincular a su partido con un fraude en el proceso electoral. desde la coalición opositora, liderada por el empresario y candidato presidencial samuel doria medina, declararon que el gobierno de luis arce estaría intentando acusarlos de fraude electoral después de llevarse a cabo los comicios. el comunicado nacional asegura que se trata de un nuevo capítulo de “guerra sucia” de la derecha, con el fin de empañar el proceso. en este sentido, el gobierno calificó de “irresponsables” las afirmaciones y llamó a todas las formaciones políticas que participarán de los comicios a actuar con responsabilidad en sus declaraciones. el comunicado oficial señaló: “lo que explica esa posición de alianza unidad es la guerra sucia entre los partidos de la derecha“. en el pronunciamiento oficial, el gobierno reafirma su apoyo al órgano electoral nacional y su labor: “no es sano para la democracia ni para el país poner en tela de juicio un proceso cuyo órgano rector, el tribunal supremo electoral (tse), ha demostrado total transparencia y compromiso al cumplir el cronograma tal como ha sido originalmente dispuesto”. ante la posibilidad de darse campañas de desinformación, el ejecutivo de luis arce pidió a la población informarse por vías oficiales y no guiarse por versiones que buscan “minar” el proceso electoral. más de 7,9 millones de ciudadanos están habilitados para votar este domingo 17 de agosto para elegir presidente, vicepresidente, 130 diputados, 36 senadores y 9 representantes supraestatales.",
+    "tokens": [
+      "sábado",
+      "16",
+      "agosto",
+      ",",
+      "gobierno",
+      "bolivia",
+      "emitió",
+      "comunicado",
+      "rechazo",
+      "acusaciones",
+      "partido",
+      "alianza",
+      "unidad",
+      "supuesto",
+      "“",
+      "plan",
+      "digitado",
+      "”",
+      "ejecutivo",
+      "vincular",
+      "partido",
+      "fraude",
+      "proceso",
+      "electoral",
+      ".",
+      "coalición",
+      "opositora",
+      ",",
+      "liderada",
+      "empresario",
+      "candidato",
+      "presidencial",
+      "samuel",
+      "doria",
+      "medina",
+      ",",
+      "declararon",
+      "gobierno",
+      "luis",
+      "arce",
+      "intentando",
+      "acusarlos",
+      "fraude",
+      "electoral",
+      "después",
+      "llevarse",
+      "cabo",
+      "comicios",
+      ".",
+      "comunicado",
+      "nacional",
+      "asegura",
+      "trata",
+      "nuevo",
+      "capítulo",
+      "“",
+      "guerra",
+      "sucia",
+      "”",
+      "derecha",
+      ",",
+      "fin",
+      "empañar",
+      "proceso",
+      ".",
+      ",",
+      "gobierno",
+      "calificó",
+      "“",
+      "irresponsables",
+      "”",
+      "afirmaciones",
+      "llamó",
+      "todas",
+      "formaciones",
+      "políticas",
+      "participarán",
+      "comicios",
+      "actuar",
+      "responsabilidad",
+      "declaraciones",
+      ".",
+      "comunicado",
+      "oficial",
+      "señaló",
+      ":",
+      "“",
+      "explica",
+      "posición",
+      "alianza",
+      "unidad",
+      "guerra",
+      "sucia",
+      "partidos",
+      "derecha",
+      "“",
+      ".",
+      "pronunciamiento",
+      "oficial",
+      ",",
+      "gobierno",
+      "reafirma",
+      "apoyo",
+      "órgano",
+      "electoral",
+      "nacional",
+      "labor",
+      ":",
+      "“",
+      "sano",
+      "democracia",
+      "país",
+      "poner",
+      "tela",
+      "juicio",
+      "proceso",
+      "cuyo",
+      "órgano",
+      "rector",
+      ",",
+      "tribunal",
+      "supremo",
+      "electoral",
+      "(",
+      "tse",
+      ")",
+      ",",
+      "demostrado",
+      "total",
+      "transparencia",
+      "compromiso",
+      "cumplir",
+      "cronograma",
+      "tal",
+      "sido",
+      "originalmente",
+      "dispuesto",
+      "”",
+      ".",
+      "posibilidad",
+      "darse",
+      "campañas",
+      "desinformación",
+      ",",
+      "ejecutivo",
+      "luis",
+      "arce",
+      "pidió",
+      "población",
+      "informarse",
+      "vías",
+      "oficiales",
+      "guiarse",
+      "versiones",
+      "buscan",
+      "“",
+      "minar",
+      "”",
+      "proceso",
+      "electoral",
+      ".",
+      "7,9",
+      "millones",
+      "ciudadanos",
+      "habilitados",
+      "votar",
+      "domingo",
+      "17",
+      "agosto",
+      "elegir",
+      "presidente",
+      ",",
+      "vicepresidente",
+      ",",
+      "130",
+      "diputados",
+      ",",
+      "36",
+      "senadores",
+      "9",
+      "representantes",
+      "supraestatales",
+      "."
+    ],
+    "token_count": 183,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "VBD": 5,
+      "CD": 5,
+      "IN": 16,
+      "FW": 44,
+      "CC": 1,
+      "JJ": 31,
+      "NN": 87,
+      "NNS": 13,
+      "VBP": 10,
+      "RBR": 1,
+      "RB": 1,
+      "VBZ": 3,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-VBD": 3,
+      "VBD-CD": 2,
+      "CD-IN": 2,
+      "IN-FW": 7,
+      "FW-FW": 20,
+      "FW-NNP": 8,
+      "NNP-FW": 7,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 19,
+      "NN-IN": 12,
+      "IN-NN": 3,
+      "NN-NNS": 4,
+      "NNS-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-JJ": 8,
+      "JJ-NNP": 4,
+      "NNP-NNP": 10,
+      "VBD-JJ": 2,
+      "NN-NN": 45,
+      "NN-VBP": 3,
+      "VBP-NN": 1,
+      "NN-NNP": 7,
+      "NNP-NN": 9,
+      "NN-JJ": 4,
+      "FW-JJ": 4,
+      "JJ-JJ": 6,
+      "IN-JJ": 3,
+      "NN-FW": 8,
+      "FW-NN": 8,
+      "NNS-NNP": 2,
+      "NNP-VBP": 2,
+      "IN-NNS": 2,
+      "VBP-NNS": 1,
+      "NNS-RBR": 1,
+      "RBR-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNS": 1,
+      "FW-NNS": 1,
+      "IN-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "JJ-FW": 1,
+      "FW-IN": 1,
+      "NNP-JJ": 1,
+      "NN-VBD": 2,
+      "VBD-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NNS-JJ": 1,
+      "FW-CD": 2,
+      "CD-NNS": 2,
+      "NNS-IN": 1,
+      "CD-NN": 1,
+      "NN-CD": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-CD": 1,
+      "VBD-CD-IN": 2,
+      "CD-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-IN": 7,
+      "NN-IN-NN": 3,
+      "IN-NN-NNS": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-VBP": 3,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 23,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-VBP-JJ": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-NN": 6,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 12,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNP": 5,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-RBR": 1,
+      "NNS-RBR-RB": 1,
+      "RBR-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-FW-IN": 1,
+      "FW-IN-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "IN-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "VBD-JJ-JJ": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "NN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 87,
+        "FW": 44,
+        "NNP": 34,
+        "JJ": 31,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 20,
+        "JJ-NN": 19,
+        "NN-IN": 12,
+        "NNP-NNP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "FW-FW-FW": 12,
+        "JJ-NN-NN": 11,
+        "JJ-NN-IN": 7,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 17,
+      "ADJP": 4,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Luis', 'NNP') ('Arce', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP VP ('16', 'CD') ('de', 'FW') ('agosto', 'FW') (',', ',') ('el', 'FW') NP ('de', 'FW') NP ('emitió', 'CC') NP ('en', 'FW') VP ('del', 'FW') NP VP VP ('en', 'IN') ('el', 'FW') ADJP ADJP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Este', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('sábado', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este"
+      },
+      {
+        "label": "VP",
+        "text": "sábado"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado"
+      },
+      {
+        "label": "VP",
+        "text": "rechazo a las acusaciones"
+      },
+      {
+        "label": "NP",
+        "text": "a las acusaciones"
+      },
+      {
+        "label": "NP",
+        "text": "partido Alianza Unidad"
+      },
+      {
+        "label": "VP",
+        "text": "sobre un supuesto “ plan"
+      },
+      {
+        "label": "NP",
+        "text": "un supuesto “ plan"
+      },
+      {
+        "label": "VP",
+        "text": "digitado ” del Ejecutivo para vincular a su partido con un fraude"
+      },
+      {
+        "label": "NP",
+        "text": "” del Ejecutivo para vincular"
+      },
+      {
+        "label": "NP",
+        "text": "a su partido con"
+      },
+      {
+        "label": "NP",
+        "text": "un fraude"
+      },
+      {
+        "label": "ADJP",
+        "text": "proceso"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NNP)\n  (VP sábado/VBD)\n  16/CD\n  de/FW\n  agosto/FW\n  ,/,\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Bolivia/NNP)\n  emitió/CC\n  (NP un/JJ comunicado/NN)\n  en/FW\n  (VP rechazo/VBZ (NP a/DT las/JJ acusaciones/NNS))\n  del/FW\n  (NP partido/NN Alianza/NNP Unidad/NNP)\n  (VP sobre/VBD (NP un/JJ supuesto/NN “/NN plan/NN))\n  (VP\n    digitado/VBP\n    (NP ”/JJ del/NN Ejecutivo/NNP para/NN vincular/NN)\n    (NP a/DT su/NN partido/NN con/NN)\n    (NP un/JJ fraude/NN))\n  en/IN\n  el/FW\n  (ADJP proceso/JJ)\n  (ADJP electoral/JJ)\n  ./.)",
+      "(S\n  (NP Desde/NNP la/NN coalición/NN opositora/NN)\n  ,/,\n  (NP liderada/JJ por/NN el/NN empresario/NN y/NN)\n  (VP\n    candidato/VBP\n    (NP presidencial/JJ Samuel/NNP Doria/NNP Medina/NNP))\n  ,/,\n  (NP declararon/NN que/NN)\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Luis/NNP Arce/NNP)\n  estaría/FW\n  (NP intentando/JJ acusarlos/NN)\n  (PP de/IN (NP fraude/JJ electoral/JJ después/NN))\n  de/FW\n  llevarse/FW\n  (NP a/DT cabo/NN los/NN comicios/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP comunicado/VBD (NP nacional/JJ asegura/NN que/NN))\n  se/FW\n  (NP trata/NN)\n  de/FW\n  un/FW\n  nuevo/FW\n  capítulo/FW\n  de/FW\n  “/FW\n  guerra/FW\n  sucia/FW\n  ”/FW\n  de/FW\n  la/FW\n  derecha/FW\n  ,/,\n  (NP con/NN el/NN fin/NN)\n  de/IN\n  empañar/FW\n  el/FW\n  (NP proceso/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  el/FW\n  (NP Gobierno/NNP calificó/NN)\n  de/FW\n  “/FW\n  (NP irresponsables/NNS)\n  (VP ”/VBP (NP las/JJ afirmaciones/NNS) y/RB)\n  (VP llamó/VBP (NP a/DT todas/JJ las/NN formaciones/NNS))\n  (VP políticas/VBP (NP que/JJ participarán/NN))\n  de/IN\n  los/FW\n  (NP comicios/NNS)\n  (NP a/DT actuar/JJ con/NN responsabilidad/NN)\n  (PP en/IN (NP sus/NN declaraciones/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP comunicado/VBZ (NP oficial/JJ señaló/NN))\n  :/:\n  (NP “/JJ lo/NN que/NN)\n  (VP explica/VBP (NP esa/JJ posición/NN))\n  (PP de/IN (NP Alianza/NNP Unidad/NNP))\n  (VP es/VBZ)\n  la/FW\n  guerra/FW\n  (NP sucia/NN)\n  entre/FW\n  (ADJP los/JJ)\n  partidos/FW\n  de/FW\n  la/FW\n  derecha/FW\n  (NP “/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra sucia entre los",
+        "position": [
+          890,
+          912
+        ],
+        "start": 890,
+        "end": 912
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo al órgano electoral nacional y su labor: “no es sano para la democracia ni para el país",
+        "position": [
+          995,
+          1088
+        ],
+        "start": 995,
+        "end": 1088
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "fraude electoral después de llevarse a cabo los comicios",
+        "position": [
+          415,
+          471
+        ],
+        "start": 415,
+        "end": 471
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          829,
+          835
+        ],
+        "start": 829,
+        "end": 835
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de bolivia emitió",
+        "position": [
+          29,
+          55
+        ],
+        "start": 29,
+        "end": 55
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "empresario",
+        "position": [
+          286,
+          296
+        ],
+        "start": 286,
+        "end": 296
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          41,
+          48
+        ],
+        "start": 41,
+        "end": 48
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "sábado 16 de agosto",
+        "position": [
+          5,
+          24
+        ],
+        "start": 5,
+        "end": 24
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "9 millones",
+        "position": [
+          1509,
+          1519
+        ],
+        "start": 1509,
+        "end": 1519
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "130 diputados",
+        "position": [
+          1629,
+          1642
+        ],
+        "start": 1629,
+        "end": 1642
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 7",
+        "position": [
+          1500,
+          1508
+        ],
+        "start": 1500,
+        "end": 1508
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "36 senadores",
+        "position": [
+          1644,
+          1656
+        ],
+        "start": 1644,
+        "end": 1656
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Samuel Doria Medina",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alianza Unidad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ejecutivo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Luis Arce",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "TSE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tribunal Supremo Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Bolivia",
+        "relacion": "EMITIR",
+        "objeto": "Alianza Unidad"
+      },
+      {
+        "sujeto": "Gobierno de Bolivia",
+        "relacion": "EMITIR",
+        "objeto": "Ejecutivo"
+      },
+      {
+        "sujeto": "Gobierno de Luis Arce",
+        "relacion": "DECLARAR",
+        "objeto": "Samuel Doria Medina"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "REAFIRMAR",
+        "objeto": "Tribunal Supremo Electoral"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "REAFIRMAR",
+        "objeto": "TSE"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6705,
+    "pos": 0.03,
+    "neu": 0.962,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

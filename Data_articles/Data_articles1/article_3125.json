@@ -1,0 +1,703 @@
+{
+  "url": "https://www.telesurtv.net/yemen-ataca-central-electrica-de-orot-rabin-en-el-sur-de-israel/",
+  "title": "Yemen ataca central eléctrica de Orot Rabin en el sur de Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Agresión israelí",
+    "Franja de Gaza",
+    "Palestina",
+    "Yahya Sari"
+  ],
+  "text": "El portavoz de las Fuerzas Armadas de Yemen, el teniente general Yahya Sari, informó que el Ejército del país árabe ejecutó un bombardeo sobre la central eléctrica Orot Rabin en el sur de la región de Haifa, utilizando un misil balístico hipersónico de tipo “Palestina 2”.\nSari detalló que la operación tuvo lugar en respuesta a la represión y genocidio del pueblo palestino y sus luchadores de la Resistencia, en el contexto de la quinta fase de la batalla “Conquista Prometida y Santa Yihad”, además de en respuesta a los bombardeos realizados en contra de Yemen.\nAsimismo, añadió que los líderes, la población y el Ejército de Yemen seguirán desempeñando sus responsabilidades religiosas, éticas y humanitarias hacia el pueblo oprimido de Palestina.\nPor otra parte, el representante yemení confirmó que continuarán con el avance constante de las habilidades militares hasta alcanzar los objetivos de esta etapa, el más relevante de los cuales es forzar al adversario israelí a cesar su ataque contra la Franja de Gaza y levantar la opresión sobre ella.\nDurante la misma jornada, medios de comunicación israelíes han informado que se pusieron en marcha las sirenas en la localidad de Talmei Elazar, próxima a Hadera, en el distrito de Haifa, al norte de las zonas ocupadas, debido al lanzamiento de otro misil desde Yemen hacia blancos israelíes.\nEn días recientes, Yemen intensificó su ofensiva contra blancos de Israel en respuesta a las acciones de la organización sionista contra el país árabe.\nEl número total de víctimas mortales en la devastada Franja de Gaza se incrementó el sábado a 45.717 y el de heridos a 108.856 desde el comienzo del conflicto, comunicó el Ministerio de Salud del enclave.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/yemen-ataca-central-electrica-de-orot-rabin-en-el-sur-de-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1996,
+    "message_id": 83624,
+    "date": "2025-01-05T11:55:07+00:00",
+    "text": "teleSUR\nYemen ataca central eléctrica de Orot Rabin en el sur de Israel\nhttps://www.telesurtv.net/yemen-ataca-central-electrica-de-orot-rabin-en-el-sur-de-israel/",
+    "photo_path": null,
+    "views": 3185,
+    "reactions": {
+      "❤": 52,
+      "👍": 19,
+      "👏": 6,
+      "🔥": 5
+    },
+    "total_reactions": 82
+  },
+  "preprocessing": {
+    "cleaned": "el portavoz de las fuerzas armadas de yemen, el teniente general yahya sari, informó que el ejército del país árabe ejecutó un bombardeo sobre la central eléctrica orot rabin en el sur de la región de haifa, utilizando un misil balístico hipersónico de tipo “palestina 2”. sari detalló que la operación tuvo lugar en respuesta a la represión y genocidio del pueblo palestino y sus luchadores de la resistencia, en el contexto de la quinta fase de la batalla “conquista prometida y santa yihad”, además de en respuesta a los bombardeos realizados en contra de yemen. asimismo, añadió que los líderes, la población y el ejército de yemen seguirán desempeñando sus responsabilidades religiosas, éticas y humanitarias hacia el pueblo oprimido de palestina. por otra parte, el representante yemení confirmó que continuarán con el avance constante de las habilidades militares hasta alcanzar los objetivos de esta etapa, el más relevante de los cuales es forzar al adversario israelí a cesar su ataque contra la franja de gaza y levantar la opresión sobre ella. durante la misma jornada, medios de comunicación israelíes han informado que se pusieron en marcha las sirenas en la localidad de talmei elazar, próxima a hadera, en el distrito de haifa, al norte de las zonas ocupadas, debido al lanzamiento de otro misil desde yemen hacia blancos israelíes. en días recientes, yemen intensificó su ofensiva contra blancos de israel en respuesta a las acciones de la organización sionista contra el país árabe. el número total de víctimas mortales en la devastada franja de gaza se incrementó el sábado a 45.717 y el de heridos a 108.856 desde el comienzo del conflicto, comunicó el ministerio de salud del enclave.",
+    "tokens": [
+      "portavoz",
+      "fuerzas",
+      "armadas",
+      "yemen",
+      ",",
+      "teniente",
+      "general",
+      "yahya",
+      "sari",
+      ",",
+      "informó",
+      "ejército",
+      "país",
+      "árabe",
+      "ejecutó",
+      "bombardeo",
+      "central",
+      "eléctrica",
+      "orot",
+      "rabin",
+      "sur",
+      "región",
+      "haifa",
+      ",",
+      "utilizando",
+      "misil",
+      "balístico",
+      "hipersónico",
+      "tipo",
+      "“",
+      "palestina",
+      "2",
+      "”",
+      ".",
+      "sari",
+      "detalló",
+      "operación",
+      "lugar",
+      "respuesta",
+      "represión",
+      "genocidio",
+      "pueblo",
+      "palestino",
+      "luchadores",
+      "resistencia",
+      ",",
+      "contexto",
+      "quinta",
+      "fase",
+      "batalla",
+      "“",
+      "conquista",
+      "prometida",
+      "santa",
+      "yihad",
+      "”",
+      ",",
+      "además",
+      "respuesta",
+      "bombardeos",
+      "realizados",
+      "yemen",
+      ".",
+      "asimismo",
+      ",",
+      "añadió",
+      "líderes",
+      ",",
+      "población",
+      "ejército",
+      "yemen",
+      "seguirán",
+      "desempeñando",
+      "responsabilidades",
+      "religiosas",
+      ",",
+      "éticas",
+      "humanitarias",
+      "hacia",
+      "pueblo",
+      "oprimido",
+      "palestina",
+      ".",
+      "parte",
+      ",",
+      "representante",
+      "yemení",
+      "confirmó",
+      "continuarán",
+      "avance",
+      "constante",
+      "habilidades",
+      "militares",
+      "alcanzar",
+      "objetivos",
+      "etapa",
+      ",",
+      "relevante",
+      "cuales",
+      "forzar",
+      "adversario",
+      "israelí",
+      "cesar",
+      "ataque",
+      "franja",
+      "gaza",
+      "levantar",
+      "opresión",
+      ".",
+      "misma",
+      "jornada",
+      ",",
+      "medios",
+      "comunicación",
+      "israelíes",
+      "informado",
+      "pusieron",
+      "marcha",
+      "sirenas",
+      "localidad",
+      "talmei",
+      "elazar",
+      ",",
+      "próxima",
+      "hadera",
+      ",",
+      "distrito",
+      "haifa",
+      ",",
+      "norte",
+      "zonas",
+      "ocupadas",
+      ",",
+      "debido",
+      "lanzamiento",
+      "misil",
+      "yemen",
+      "hacia",
+      "blancos",
+      "israelíes",
+      ".",
+      "días",
+      "recientes",
+      ",",
+      "yemen",
+      "intensificó",
+      "ofensiva",
+      "blancos",
+      "israel",
+      "respuesta",
+      "acciones",
+      "organización",
+      "sionista",
+      "país",
+      "árabe",
+      ".",
+      "número",
+      "total",
+      "víctimas",
+      "mortales",
+      "devastada",
+      "franja",
+      "gaza",
+      "incrementó",
+      "sábado",
+      "45.717",
+      "heridos",
+      "108.856",
+      "comienzo",
+      "conflicto",
+      ",",
+      "comunicó",
+      "ministerio",
+      "salud",
+      "enclave",
+      "."
+    ],
+    "token_count": 176,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 85,
+      "FW": 89,
+      "IN": 10,
+      "CC": 1,
+      "JJ": 19,
+      "VBZ": 6,
+      "MD": 1,
+      "VB": 1,
+      "NNS": 5,
+      "VBP": 4,
+      "VBD": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-FW": 13,
+      "FW-FW": 55,
+      "FW-NNP": 14,
+      "NNP-NNP": 11,
+      "NNP-IN": 2,
+      "IN-NNP": 4,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-JJ": 6,
+      "JJ-NNP": 1,
+      "NN-NN": 48,
+      "NN-NNP": 9,
+      "NNP-FW": 12,
+      "FW-NN": 14,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NN": 11,
+      "NN-JJ": 4,
+      "NNP-JJ": 2,
+      "NN-IN": 6,
+      "IN-FW": 6,
+      "NN-VBZ": 4,
+      "VBZ-IN": 1,
+      "VBZ-FW": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "FW-NNS": 3,
+      "NNS-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "VBZ-NNP": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "FW-JJ": 1,
+      "VBP-FW": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "FW-CD": 1,
+      "FW-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 8,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 27,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 5,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 39,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-NNP": 2,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 8,
+      "FW-NN-FW": 3,
+      "FW-FW-NN": 5,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-FW": 8,
+      "NNP-NNP-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 2,
+      "NNP-FW-NNP": 3,
+      "NN-VBZ-JJ": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NN": 1,
+      "NN-JJ-NN": 1,
+      "NN-NNP-IN": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "IN-NNP-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-NNP": 1,
+      "NNP-FW-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 89,
+        "NN": 85,
+        "NNP": 41,
+        "JJ": 19,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "FW-FW": 55,
+        "NN-NN": 48,
+        "FW-NNP": 14,
+        "FW-NN": 14,
+        "NN-FW": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 39,
+        "NN-NN-NN": 27,
+        "NN-FW-FW": 8,
+        "FW-FW-NNP": 8,
+        "FW-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 64,
+      "PP": 5,
+      "VP": 12,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0562
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0337
+      },
+      {
+        "rule": "NP -> ('Haifa', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('las', 'FW') NP PP (',', ',') ('el', 'RB') NP (',', ',') NP ('del', 'FW') NP VP ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('de', 'FW') ('la', 'FW') ('región', 'FW') ('de', 'FW') NP (',', ',') NP ('de', 'IN') ('tipo', 'FW') NP ('2', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('portavoz', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('teniente', 'JJ') ('general', 'JJ') ('Yahya', 'NNP') ('Sari', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('informó', 'NN') ('que', 'NN') ('el', 'NN') ('Ejército', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('país', 'NN') ('árabe', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('ejecutó', 'VBZ') NP NP",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El portavoz"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas Armadas"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "teniente general Yahya Sari"
+      },
+      {
+        "label": "NP",
+        "text": "informó que el Ejército"
+      },
+      {
+        "label": "NP",
+        "text": "país árabe"
+      },
+      {
+        "label": "VP",
+        "text": "ejecutó un bombardeo sobre la central eléctrica Orot Rabin"
+      },
+      {
+        "label": "NP",
+        "text": "un bombardeo sobre"
+      },
+      {
+        "label": "NP",
+        "text": "la central eléctrica Orot Rabin"
+      },
+      {
+        "label": "NP",
+        "text": "Haifa"
+      },
+      {
+        "label": "NP",
+        "text": "utilizando un misil balístico hipersónico"
+      },
+      {
+        "label": "NP",
+        "text": "“ Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "”"
+      },
+      {
+        "label": "NP",
+        "text": "Sari detalló que la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP portavoz/NN)\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Yemen/NNP))\n  ,/,\n  el/RB\n  (NP teniente/JJ general/JJ Yahya/NNP Sari/NNP)\n  ,/,\n  (NP informó/NN que/NN el/NN Ejército/NNP)\n  del/FW\n  (NP país/NN árabe/NNP)\n  (VP\n    ejecutó/VBZ\n    (NP un/JJ bombardeo/NN sobre/NN)\n    (NP la/JJ central/JJ eléctrica/NN Orot/NNP Rabin/NNP))\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  región/FW\n  de/FW\n  (NP Haifa/NNP)\n  ,/,\n  (NP utilizando/JJ un/JJ misil/NN balístico/NN hipersónico/NN)\n  de/IN\n  tipo/FW\n  (NP “/NNP Palestina/NNP)\n  2/CD\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Sari/NNP detalló/NN que/NN la/NN)\n  operación/FW\n  (NP tuvo/NN lugar/NN)\n  en/FW\n  respuesta/FW\n  (NP\n    a/DT\n    la/NN\n    represión/NN\n    y/NN\n    genocidio/NN\n    del/NN\n    pueblo/NN\n    palestino/NN\n    y/NN\n    sus/NN)\n  (VP luchadores/VBZ)\n  de/IN\n  la/FW\n  (NP Resistencia/NNP)\n  ,/,\n  en/FW\n  el/FW\n  contexto/FW\n  de/FW\n  la/FW\n  quinta/FW\n  (NP fase/NN)\n  de/FW\n  la/FW\n  batalla/FW\n  “/FW\n  (NP Conquista/NNP Prometida/NNP)\n  (VP y/VBZ (NP Santa/NNP Yihad/NNP ”/NNP))\n  ,/,\n  (NP además/NN)\n  de/FW\n  en/FW\n  respuesta/FW\n  (NP a/DT los/NN bombardeos/NN realizados/NN)\n  en/FW\n  contra/FW\n  de/FW\n  Yemen/FW\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP añadió/NN que/NN los/NN líderes/NNS)\n  ,/,\n  la/FW\n  población/FW\n  y/FW\n  el/FW\n  (NP Ejército/NNP)\n  de/FW\n  (NP Yemen/NNP)\n  seguirán/FW\n  (NP desempeñando/NN sus/NN)\n  (VP responsabilidades/VBZ (NP religiosas/NN))\n  ,/,\n  (NP\n    éticas/NNP\n    y/NN\n    humanitarias/NN\n    hacia/NN\n    el/NN\n    pueblo/NN\n    oprimido/NN)\n  (PP de/IN (NP Palestina/NNP))\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  el/FW\n  representante/FW\n  yemení/FW\n  (NP\n    confirmó/NN\n    que/NN\n    continuarán/NN\n    con/NN\n    el/NN\n    avance/NN\n    constante/NN)\n  de/IN\n  las/FW\n  (NP habilidades/NNS militares/NNS)\n  (VP hasta/VBP (NP alcanzar/JJ los/JJ objetivos/NN))\n  de/IN\n  esta/FW\n  (NP etapa/NN)\n  ,/,\n  el/FW\n  más/FW\n  relevante/FW\n  de/FW\n  los/FW\n  (NP cuales/NNS)\n  (VP es/VBP (NP forzar/JJ al/NN adversario/NN))\n  (VP\n    israelí/VBZ\n    (NP a/DT cesar/NN su/NN ataque/NN)\n    (NP contra/JJ la/NN Franja/NNP))\n  (PP de/IN (NP Gaza/NNP y/NNP levantar/NN la/NN))\n  opresión/FW\n  (NP sobre/NN ella/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP la/NNP misma/NNP jornada/NN)\n  ,/,\n  medios/FW\n  de/FW\n  comunicación/FW\n  israelíes/FW\n  (NP han/NN informado/NN que/NN se/NN pusieron/NN)\n  en/FW\n  marcha/FW\n  las/FW\n  sirenas/FW\n  en/FW\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Talmei/NNP Elazar/NNP)\n  ,/,\n  (VP próxima/VBZ (NP a/DT Hadera/NNP))\n  ,/,\n  en/FW\n  el/FW\n  distrito/FW\n  de/FW\n  (NP Haifa/NNP)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  las/FW\n  zonas/FW\n  ocupadas/FW\n  ,/,\n  debido/FW\n  al/FW\n  lanzamiento/FW\n  de/FW\n  otro/FW\n  misil/FW\n  desde/FW\n  (NP Yemen/NNP hacia/NN blancos/NN israelíes/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          77,
+          84
+        ],
+        "start": 77,
+        "end": 84
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          259,
+          268
+        ],
+        "start": 259,
+        "end": 268
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          191,
+          200
+        ],
+        "start": 191,
+        "end": 200
+      }
+    ],
+    "match_count": 3
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Yemen",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ejército de Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yahya Sari",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sari",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Talmei Elazar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haifa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Orot Rabin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hadera",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "INFORMAR",
+        "objeto": "Orot Rabin"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "INFORMAR",
+        "objeto": "Haifa"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "INFORMAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Yahya Sari",
+        "relacion": "INFORMAR",
+        "objeto": "Orot Rabin"
+      },
+      {
+        "sujeto": "Yahya Sari",
+        "relacion": "INFORMAR",
+        "objeto": "Haifa"
+      },
+      {
+        "sujeto": "Yahya Sari",
+        "relacion": "INFORMAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Orot Rabin",
+        "relacion": "EJECUTAR_INFORMAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Haifa",
+        "relacion": "EJECUTAR_INFORMAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Sari",
+        "relacion": "DETALLAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Ejército de Yemen",
+        "relacion": "SEGUIR_A_ADIR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Talmei Elazar",
+        "relacion": "PONER_INFORMAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Hadera",
+        "relacion": "PONER_INFORMAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Haifa",
+        "relacion": "PONER_INFORMAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "INCREMENTAR_COMUNICAR",
+        "objeto": "Ministerio de Salud"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

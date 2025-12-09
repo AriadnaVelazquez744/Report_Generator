@@ -1,0 +1,815 @@
+{
+  "url": "https://www.telesurtv.net/presidente-iran-viaja-china-relaciones/",
+  "title": "Presidente iraní viaja a China para fortalecer relaciones y participar en Cumbre de Shangái - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bilateral",
+    "China",
+    "cumbre",
+    "India",
+    "Irán",
+    "shangai"
+  ],
+  "text": "El presidente de Irán, Masud Pezeshkian, viajará a China este fin de semana para asistir a la cumbre de la Organización de Cooperación de Shanghái (OCS), que se celebrará el domingo 31 de agosto y el lunes 1 de septiembre. Este evento se presenta como una oportunidad clave para consolidar la relación estratégica entre ambos países en un momento crítico de creciente tensión con Occidente.\n\nSegún informó el portavoz del Ministerio de Exteriores de Irán, Ismail Baghaei, este será el primer viaje oficial del presidente iraní a China en el último año. La cumbre, que reunirá a 10 países miembros permanentes de la OCS y más de 20 naciones en el marco de Shanghái Plus, será una plataforma para fortalecer los lazos diplomáticos entre los miembros, incluidos China, Rusia, India e Irán.\nBaghaei subrayó que este encuentro permitirá a Irán mantener consultas importantes con los países presentes, especialmente con China, cuyo rol se vuelve cada vez más crucial para Teherán. Además, se anticipan reuniones bilaterales con altos funcionarios chinos para profundizar el acuerdo de cooperación de 25 años que ambos países han firmado, el cual se está implementando con éxito.\n\n\nEl viaje de Pezeshkian a Pekín ocurre en medio de las crecientes tensiones internacionales por el programa nuclear iraní, lo que hace que Irán busque diversificar sus relaciones estratégicas con potencias como China y Rusia, como respuesta a la presión de Occidente.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-iran-viaja-china-relaciones/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 417,
+    "message_id": 102873,
+    "date": "2025-08-26T13:55:07+00:00",
+    "text": "teleSUR\nPresidente iraní viaja a China para fortalecer relaciones y participar en Cumbre de Shangái\nhttps://www.telesurtv.net/presidente-iran-viaja-china-relaciones/",
+    "photo_path": null,
+    "views": 2128,
+    "reactions": {
+      "👍": 51,
+      "❤": 9
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de irán, masud pezeshkian, viajará a china este fin de semana para asistir a la cumbre de la organización de cooperación de shanghái (ocs), que se celebrará el domingo 31 de agosto y el lunes 1 de septiembre. este evento se presenta como una oportunidad clave para consolidar la relación estratégica entre ambos países en un momento crítico de creciente tensión con occidente. según informó el portavoz del ministerio de exteriores de irán, ismail baghaei, este será el primer viaje oficial del presidente iraní a china en el último año. la cumbre, que reunirá a 10 países miembros permanentes de la ocs y más de 20 naciones en el marco de shanghái plus, será una plataforma para fortalecer los lazos diplomáticos entre los miembros, incluidos china, rusia, india e irán. baghaei subrayó que este encuentro permitirá a irán mantener consultas importantes con los países presentes, especialmente con china, cuyo rol se vuelve cada vez más crucial para teherán. además, se anticipan reuniones bilaterales con altos funcionarios chinos para profundizar el acuerdo de cooperación de 25 años que ambos países han firmado, el cual se está implementando con éxito. el viaje de pezeshkian a pekín ocurre en medio de las crecientes tensiones internacionales por el programa nuclear iraní, lo que hace que irán busque diversificar sus relaciones estratégicas con potencias como china y rusia, como respuesta a la presión de occidente.",
+    "tokens": [
+      "presidente",
+      "irán",
+      ",",
+      "masud",
+      "pezeshkian",
+      ",",
+      "viajará",
+      "china",
+      "fin",
+      "semana",
+      "asistir",
+      "cumbre",
+      "organización",
+      "cooperación",
+      "shanghái",
+      "(",
+      "ocs",
+      ")",
+      ",",
+      "celebrará",
+      "domingo",
+      "31",
+      "agosto",
+      "lunes",
+      "1",
+      "septiembre",
+      ".",
+      "evento",
+      "presenta",
+      "oportunidad",
+      "clave",
+      "consolidar",
+      "relación",
+      "estratégica",
+      "ambos",
+      "países",
+      "momento",
+      "crítico",
+      "creciente",
+      "tensión",
+      "occidente",
+      ".",
+      "según",
+      "informó",
+      "portavoz",
+      "ministerio",
+      "exteriores",
+      "irán",
+      ",",
+      "ismail",
+      "baghaei",
+      ",",
+      "primer",
+      "viaje",
+      "oficial",
+      "presidente",
+      "iraní",
+      "china",
+      "último",
+      "año",
+      ".",
+      "cumbre",
+      ",",
+      "reunirá",
+      "10",
+      "países",
+      "miembros",
+      "permanentes",
+      "ocs",
+      "20",
+      "naciones",
+      "marco",
+      "shanghái",
+      "plus",
+      ",",
+      "plataforma",
+      "fortalecer",
+      "lazos",
+      "diplomáticos",
+      "miembros",
+      ",",
+      "incluidos",
+      "china",
+      ",",
+      "rusia",
+      ",",
+      "india",
+      "irán",
+      ".",
+      "baghaei",
+      "subrayó",
+      "encuentro",
+      "permitirá",
+      "irán",
+      "mantener",
+      "consultas",
+      "importantes",
+      "países",
+      "presentes",
+      ",",
+      "especialmente",
+      "china",
+      ",",
+      "cuyo",
+      "rol",
+      "vuelve",
+      "cada",
+      "vez",
+      "crucial",
+      "teherán",
+      ".",
+      "además",
+      ",",
+      "anticipan",
+      "reuniones",
+      "bilaterales",
+      "altos",
+      "funcionarios",
+      "chinos",
+      "profundizar",
+      "acuerdo",
+      "cooperación",
+      "25",
+      "años",
+      "ambos",
+      "países",
+      "firmado",
+      ",",
+      "implementando",
+      "éxito",
+      ".",
+      "viaje",
+      "pezeshkian",
+      "pekín",
+      "ocurre",
+      "medio",
+      "crecientes",
+      "tensiones",
+      "internacionales",
+      "programa",
+      "nuclear",
+      "iraní",
+      ",",
+      "hace",
+      "irán",
+      "busque",
+      "diversificar",
+      "relaciones",
+      "estratégicas",
+      "potencias",
+      "china",
+      "rusia",
+      ",",
+      "respuesta",
+      "presión",
+      "occidente",
+      "."
+    ],
+    "token_count": 157,
+    "sentence_count": 7
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 20,
+      "ADJP": 2,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('OCS', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') VP ('de', 'IN') ('semana', 'FW') NP VP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') ADJP ('se', 'FW') NP VP ('31', 'CD') ('de', 'IN') ('agosto', 'FW') ('y', 'FW') ('el', 'FW') NP ('1', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Masud', 'NNP') ('Pezeshkian', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('viajará', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('China', 'NNP') ('este', 'NN') ('fin', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('asistir', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('cumbre', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Masud Pezeshkian"
+      },
+      {
+        "label": "VP",
+        "text": "viajará a China este fin"
+      },
+      {
+        "label": "NP",
+        "text": "a China este fin"
+      },
+      {
+        "label": "NP",
+        "text": "para"
+      },
+      {
+        "label": "VP",
+        "text": "asistir a la cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "a la cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Cooperación"
+      },
+      {
+        "label": "NP",
+        "text": "Shanghái"
+      },
+      {
+        "label": "NP",
+        "text": "OCS"
+      },
+      {
+        "label": "ADJP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "celebrará el"
+      },
+      {
+        "label": "VP",
+        "text": "domingo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Irán/NNP)\n  ,/,\n  (NP Masud/NNP Pezeshkian/NNP)\n  ,/,\n  (VP viajará/VBZ (NP a/DT China/NNP este/NN fin/NN))\n  de/IN\n  semana/FW\n  (NP para/NN)\n  (VP asistir/VBZ (NP a/DT la/NN cumbre/NN))\n  de/IN\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  (NP Cooperación/NNP)\n  de/FW\n  (NP Shanghái/NNP)\n  (/(\n  (NP OCS/NNP)\n  )/)\n  ,/,\n  (ADJP que/JJ)\n  se/FW\n  (NP celebrará/NN el/NN)\n  (VP domingo/VBD)\n  31/CD\n  de/IN\n  agosto/FW\n  y/FW\n  el/FW\n  (NP lunes/NNS)\n  1/CD\n  (PP de/IN (NP septiembre/NN))\n  ./.)",
+      "(S\n  (NP Este/NN)\n  evento/FW\n  se/FW\n  presenta/FW\n  (NP como/NN)\n  (NP una/JJ oportunidad/NN)\n  (VP clave/VBP)\n  (VP para/VBN (NP consolidar/NN la/NN relación/NN estratégica/NN))\n  (VP entre/VBP (NP ambos/JJ países/NNS))\n  (VP en/VBP (NP un/JJ momento/NN crítico/NN))\n  de/IN\n  creciente/FW\n  (NP tensión/JJ con/NN Occidente/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP informó/NN el/NN portavoz/NN)\n  del/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Exteriores/NNP)\n  de/FW\n  (NP Irán/NNP)\n  ,/,\n  (NP Ismail/NNP Baghaei/NNP)\n  ,/,\n  (NP este/NN será/NN)\n  el/FW\n  (NP primer/NN)\n  (PP viaje/IN (NP oficial/JJ del/NN presidente/NN))\n  (VP iraní/VBP (NP a/DT China/NNP))\n  en/FW\n  el/FW\n  último/FW\n  (NP año/NN)\n  ./.)",
+      "(S\n  (NP La/NNP cumbre/NN)\n  ,/,\n  (NP que/NN)\n  (VP reunirá/VBD)\n  a/DT\n  10/CD\n  (NP países/NNS)\n  (NP miembros/JJ permanentes/NNS)\n  de/IN\n  la/FW\n  (NP OCS/NNP)\n  y/FW\n  (NP más/NN)\n  de/IN\n  20/CD\n  (NP naciones/NNS)\n  en/IN\n  (ADJP el/JJ)\n  marco/FW\n  de/FW\n  (NP Shanghái/NNP Plus/NNP)\n  ,/,\n  (NP será/NN)\n  (NP una/JJ plataforma/NN para/NN fortalecer/NN los/NN)\n  (NP lazos/JJ diplomáticos/NN entre/NN los/NN miembros/NN)\n  ,/,\n  (NP incluidos/JJ China/NNP)\n  ,/,\n  (NP Rusia/NNP)\n  ,/,\n  (NP India/NNP e/NN Irán/NNP)\n  ./.)",
+      "(S\n  (NP Baghaei/NNP subrayó/NN que/NN este/NN)\n  (VP encuentro/VBP)\n  (VP permitirá/VBZ (NP a/DT Irán/NNP mantener/NN consultas/NNS))\n  (VP importantes/VBZ (NP con/JJ los/NN países/NNS presentes/NNS))\n  ,/,\n  (NP especialmente/JJ con/NN China/NNP)\n  ,/,\n  (NP cuyo/NN rol/NN se/NN)\n  (VP vuelve/VBP (NP cada/NN vez/NN))\n  (VP más/VBP (NP crucial/JJ para/NN Teherán/NNP))\n  ./.)"
+    ]
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "NN": 72,
+      "FW": 37,
+      "IN": 9,
+      "VBP": 12,
+      "JJ": 26,
+      "CD": 4,
+      "NNS": 15,
+      "VBN": 1,
+      "VBD": 2,
+      "CC": 1,
+      "VBZ": 2,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 4,
+      "FW-NNP": 12,
+      "NNP-NNP": 14,
+      "NN-NNP": 8,
+      "NN-NN": 38,
+      "NN-IN": 5,
+      "IN-FW": 7,
+      "FW-FW": 16,
+      "NNP-FW": 8,
+      "NN-VBP": 6,
+      "VBP-JJ": 8,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "FW-JJ": 3,
+      "JJ-NNS": 5,
+      "NNS-IN": 3,
+      "FW-NN": 2,
+      "NN-JJ": 6,
+      "JJ-NN": 14,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "NNS-VBP": 6,
+      "IN-JJ": 2,
+      "JJ-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "FW-CD": 2,
+      "JJ-FW": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-JJ": 2,
+      "VBP-NN": 3,
+      "NN-NNS": 4,
+      "NNS-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-NNS": 3,
+      "CD-NN": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 9,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 4,
+      "NN-NN-NN": 17,
+      "NN-NN-VBP": 5,
+      "NN-VBP-JJ": 3,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNP": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-NN": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-VBP-NN": 2,
+      "VBP-NN-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "VBP-NN-NN": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-NNP": 2,
+      "NNS-VBP-NN": 1,
+      "NN-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "NNP": 37,
+        "FW": 37,
+        "JJ": 26,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 16,
+        "NNP-NNP": 14,
+        "JJ-NN": 14,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 17,
+        "NNP-NN-NN": 9,
+        "FW-FW-FW": 9,
+        "JJ-NN-NN": 7,
+        "NNP-NNP-NN": 6
+      }
+    }
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo de cooperación de 25 años que ambos países han firmado",
+        "position": [
+          1068,
+          1130
+        ],
+        "start": 1068,
+        "end": 1130
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "lazos diplomáticos",
+        "position": [
+          710,
+          728
+        ],
+        "start": 710,
+        "end": 728
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación de shanghái (ocs), que se celebrará el domingo 31 de agosto y el lunes 1 de septiembre. este evento se presenta como una oportunidad clave para consolidar la relación estratégica entre ambos países",
+        "position": [
+          123,
+          332
+        ],
+        "start": 123,
+        "end": 332
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          398,
+          405
+        ],
+        "start": 398,
+        "end": 405
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de irán",
+        "position": [
+          3,
+          21
+        ],
+        "start": 3,
+        "end": 21
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          795,
+          802
+        ],
+        "start": 795,
+        "end": 802
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo de cooperación de 25",
+        "position": [
+          1068,
+          1096
+        ],
+        "start": 1068,
+        "end": 1096
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          51,
+          56
+        ],
+        "start": 51,
+        "end": 56
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "pekín",
+        "position": [
+          1200,
+          1205
+        ],
+        "start": 1200,
+        "end": 1205
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 31 de agosto",
+        "position": [
+          174,
+          194
+        ],
+        "start": 174,
+        "end": 194
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 20",
+        "position": [
+          621,
+          630
+        ],
+        "start": 621,
+        "end": 630
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "OCS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de Cooperación de Shanghái",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Masud Pezeshkian",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Exteriores de Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ismail Baghaei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Baghaei",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pekín",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Occidente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Irán",
+        "relacion": "VIAJAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "VIAJAR",
+        "objeto": "Organización de Cooperación de Shanghái"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "VIAJAR",
+        "objeto": "OCS"
+      },
+      {
+        "sujeto": "Masud Pezeshkian",
+        "relacion": "VIAJAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Masud Pezeshkian",
+        "relacion": "VIAJAR",
+        "objeto": "Organización de Cooperación de Shanghái"
+      },
+      {
+        "sujeto": "Masud Pezeshkian",
+        "relacion": "VIAJAR",
+        "objeto": "OCS"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "VIAJAR",
+        "objeto": "Organización de Cooperación de Shanghái"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "VIAJAR",
+        "objeto": "OCS"
+      },
+      {
+        "sujeto": "Baghaei",
+        "relacion": "SUBRAYAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Baghaei",
+        "relacion": "SUBRAYAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Baghaei",
+        "relacion": "SUBRAYAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "PERMITIR_SUBRAYAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "PERMITIR_SUBRAYAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "OCURRIR",
+        "objeto": "Pekín"
+      },
+      {
+        "sujeto": "Pekín",
+        "relacion": "OCURRIR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Pekín",
+        "relacion": "OCURRIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Pekín",
+        "relacion": "OCURRIR",
+        "objeto": "Occidente"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "BUSCAR_HACER_OCURRIR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "BUSCAR_HACER_OCURRIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "BUSCAR_HACER_OCURRIR",
+        "objeto": "Occidente"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "DIVERSIFICAR_BUSCAR_HACER_OCURRIR",
+        "objeto": "Occidente"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "DIVERSIFICAR_BUSCAR_HACER_OCURRIR",
+        "objeto": "Occidente"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

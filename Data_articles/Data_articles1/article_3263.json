@@ -1,0 +1,817 @@
+{
+  "url": "https://www.telesurtv.net/huties-de-yemen-derriban-otro-avion-no-tripulado-mq-9-fabricado-por-ee-uu/",
+  "title": "Hutíes de Yemen derriban otro avión no tripulado MQ-9 fabricado por EE.UU. - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Antisionismo",
+    "derribo",
+    "Dron",
+    "Gaza",
+    "hutíes",
+    "Misil tierra-aire",
+    "MQ-9 Reaper",
+    "Yemen"
+  ],
+  "text": "\nLa defensa aérea de Yemen derribó este miércoles un avión no tripulado MQ-9 de fabricación estadounidense, el segundo en menos de 72 horas.\nEl aparato realizaba misiones hostiles en el espacio aéreo de la provincia de Marib, al centro-oeste del país. Fue derribado con un misil tierra-aire de fabricación yemení.\nEl portavoz militar yemení, general de brigada Yahya Sari, confirmó el derribo del medio aéreo, que es el decimocuarto neutralizado durante las operaciones militares en apoyo a la resistencia palestina y en rechazo al asedio sionista contra la Franja de Gaza.\nA través de un comunicado, el vocero manifestó que esta acción responde a la opresión israelí al pueblo palestino, perpetrada con la complicidad de los EE.UU. y el Reino Unido.\nRecalcó que las FF.AA. yemeníes proseguirán con sus operaciones en respaldo a Gaza. Dejó claro que estas solo concluirán cuando la entidad sionista ponga fin a su ofensiva militar contra el territorio palestino y levante el bloqueo de alimentos, agua, medicinas, combustibles y otros productos básicos.\nEl 28 de diciembre pasado Yemen derribó otro dron estadounidense de este modelo, mientras llevaba a cabo operaciones hostiles en el espacio aéreo de la provincia de Al-Bayda.\nEste avión no tripulado cuesta más de 30 millones de dólares. Se le utiliza en operaciones de vigilancia, pero puede portar misiles y ha sido utilizado para realizar bombardeos. Se documenta su uso en Irak, Afganistán y Siria.\nEl martes, el movimiento Ansar Alá (hutíes) de Yemen atacó con misiles crucero y drones el portaaviones estadounidense Harry Truman. Además, realizó un nuevo ataque contra el aeropuerto Ben Gurión, en Tel Aviv, y contra una central eléctrica israelí.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/huties-de-yemen-derriban-otro-avion-no-tripulado-mq-9-fabricado-por-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 2190,
+    "message_id": 83427,
+    "date": "2025-01-01T16:55:07+00:00",
+    "text": "teleSUR\nHutíes de Yemen derriban otro avión no tripulado MQ-9 fabricado por EE.UU.\nhttps://www.telesurtv.net/huties-de-yemen-derriban-otro-avion-no-tripulado-mq-9-fabricado-por-ee-uu/",
+    "photo_path": null,
+    "views": 2349,
+    "reactions": {
+      "👍": 52,
+      "🔥": 8,
+      "❤": 5,
+      "👏": 5
+    },
+    "total_reactions": 70
+  },
+  "preprocessing": {
+    "cleaned": "la defensa aérea de yemen derribó este miércoles un avión no tripulado mq-9 de fabricación estadounidense, el segundo en menos de 72 horas. el aparato realizaba misiones hostiles en el espacio aéreo de la provincia de marib, al centro-oeste del país. fue derribado con un misil tierra-aire de fabricación yemení. el portavoz militar yemení, general de brigada yahya sari, confirmó el derribo del medio aéreo, que es el decimocuarto neutralizado durante las operaciones militares en apoyo a la resistencia palestina y en rechazo al asedio sionista contra la franja de gaza. a través de un comunicado, el vocero manifestó que esta acción responde a la opresión israelí al pueblo palestino, perpetrada con la complicidad de los ee.uu. y el reino unido. recalcó que las ff.aa. yemeníes proseguirán con sus operaciones en respaldo a gaza. dejó claro que estas solo concluirán cuando la entidad sionista ponga fin a su ofensiva militar contra el territorio palestino y levante el bloqueo de alimentos, agua, medicinas, combustibles y otros productos básicos. el 28 de diciembre pasado yemen derribó otro dron estadounidense de este modelo, mientras llevaba a cabo operaciones hostiles en el espacio aéreo de la provincia de al-bayda. este avión no tripulado cuesta más de 30 millones de dólares. se le utiliza en operaciones de vigilancia, pero puede portar misiles y ha sido utilizado para realizar bombardeos. se documenta su uso en irak, afganistán y siria. el martes, el movimiento ansar alá (hutíes) de yemen atacó con misiles crucero y drones el portaaviones estadounidense harry truman. además, realizó un nuevo ataque contra el aeropuerto ben gurión, en tel aviv, y contra una central eléctrica israelí.",
+    "tokens": [
+      "defensa",
+      "aérea",
+      "yemen",
+      "derribó",
+      "miércoles",
+      "avión",
+      "tripulado",
+      "mq-9",
+      "fabricación",
+      "estadounidense",
+      ",",
+      "segundo",
+      "menos",
+      "72",
+      "horas",
+      ".",
+      "aparato",
+      "realizaba",
+      "misiones",
+      "hostiles",
+      "espacio",
+      "aéreo",
+      "provincia",
+      "marib",
+      ",",
+      "centro-oeste",
+      "país",
+      ".",
+      "derribado",
+      "misil",
+      "tierra-aire",
+      "fabricación",
+      "yemení",
+      ".",
+      "portavoz",
+      "militar",
+      "yemení",
+      ",",
+      "general",
+      "brigada",
+      "yahya",
+      "sari",
+      ",",
+      "confirmó",
+      "derribo",
+      "medio",
+      "aéreo",
+      ",",
+      "decimocuarto",
+      "neutralizado",
+      "operaciones",
+      "militares",
+      "apoyo",
+      "resistencia",
+      "palestina",
+      "rechazo",
+      "asedio",
+      "sionista",
+      "franja",
+      "gaza",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "vocero",
+      "manifestó",
+      "acción",
+      "responde",
+      "opresión",
+      "israelí",
+      "pueblo",
+      "palestino",
+      ",",
+      "perpetrada",
+      "complicidad",
+      "ee.uu.",
+      "reino",
+      "unido",
+      ".",
+      "recalcó",
+      "ff.aa",
+      ".",
+      "yemeníes",
+      "proseguirán",
+      "operaciones",
+      "respaldo",
+      "gaza",
+      ".",
+      "dejó",
+      "claro",
+      "solo",
+      "concluirán",
+      "entidad",
+      "sionista",
+      "ponga",
+      "fin",
+      "ofensiva",
+      "militar",
+      "territorio",
+      "palestino",
+      "levante",
+      "bloqueo",
+      "alimentos",
+      ",",
+      "agua",
+      ",",
+      "medicinas",
+      ",",
+      "combustibles",
+      "productos",
+      "básicos",
+      ".",
+      "28",
+      "diciembre",
+      "pasado",
+      "yemen",
+      "derribó",
+      "dron",
+      "estadounidense",
+      "modelo",
+      ",",
+      "mientras",
+      "llevaba",
+      "cabo",
+      "operaciones",
+      "hostiles",
+      "espacio",
+      "aéreo",
+      "provincia",
+      "al-bayda",
+      ".",
+      "avión",
+      "tripulado",
+      "cuesta",
+      "30",
+      "millones",
+      "dólares",
+      ".",
+      "utiliza",
+      "operaciones",
+      "vigilancia",
+      ",",
+      "puede",
+      "portar",
+      "misiles",
+      "sido",
+      "utilizado",
+      "realizar",
+      "bombardeos",
+      ".",
+      "documenta",
+      "uso",
+      "irak",
+      ",",
+      "afganistán",
+      "siria",
+      ".",
+      "martes",
+      ",",
+      "movimiento",
+      "ansar",
+      "alá",
+      "(",
+      "hutíes",
+      ")",
+      "yemen",
+      "atacó",
+      "misiles",
+      "crucero",
+      "drones",
+      "portaaviones",
+      "estadounidense",
+      "harry",
+      "truman",
+      ".",
+      "además",
+      ",",
+      "realizó",
+      "nuevo",
+      "ataque",
+      "aeropuerto",
+      "ben",
+      "gurión",
+      ",",
+      "tel",
+      "aviv",
+      ",",
+      "central",
+      "eléctrica",
+      "israelí",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 14
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "JJ": 20,
+      "NN": 97,
+      "IN": 12,
+      "VBP": 14,
+      "NNS": 19,
+      "DT": 2,
+      "FW": 49,
+      "CD": 3,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-NN": 8,
+      "NN-IN": 7,
+      "IN-NNP": 3,
+      "NNP-VBP": 2,
+      "VBP-NN": 4,
+      "NN-NNS": 9,
+      "NNS-VBP": 10,
+      "VBP-JJ": 3,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-NNP": 3,
+      "NNP-FW": 3,
+      "FW-FW": 27,
+      "FW-NN": 10,
+      "NN-FW": 8,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-NNP": 2,
+      "NNP-NN": 14,
+      "NN-NN": 58,
+      "NNS-NNS": 3,
+      "VBP-FW": 2,
+      "FW-NNP": 8,
+      "NNP-IN": 2,
+      "IN-NN": 2,
+      "NN-NNP": 7,
+      "NN-JJ": 6,
+      "JJ-JJ": 4,
+      "IN-FW": 5,
+      "JJ-FW": 3,
+      "NNP-NNP": 13,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-IN": 2,
+      "NN-VBP": 1,
+      "IN-JJ": 1,
+      "FW-JJ": 3,
+      "JJ-NNS": 1,
+      "VBP-NNS": 3,
+      "VBP-NNP": 2,
+      "NNP-CD": 1,
+      "CD-IN": 1,
+      "NNP-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "IN-CD": 1,
+      "NNS-FW": 1,
+      "VBZ-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBP": 2,
+      "NNP-VBP-NN": 2,
+      "VBP-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 17,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 4,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-NN": 36,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "FW-NNP-NN": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 6,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 6,
+      "FW-NN-NN": 6,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-IN": 3,
+      "IN-FW-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "FW-NN-IN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-VBP": 3,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NN-JJ": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "FW": 49,
+        "NNP": 39,
+        "JJ": 20,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 27,
+        "NNP-NN": 14,
+        "NNP-NNP": 13,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 36,
+        "FW-FW-FW": 17,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NN": 6,
+        "NN-FW-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 14,
+    "chunk_counts": {
+      "NP": 75,
+      "PP": 7,
+      "VP": 19,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0517
+      },
+      {
+        "rule": "VP -> ('en', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('operaciones', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP NP PP VP VP ('de', 'FW') ('fabricación', 'FW') NP (',', ',') ('el', 'FW') NP ('en', 'FW') ('menos', 'FW') ('de', 'FW') ('72', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('defensa', 'JJ') ('aérea', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('derribó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('un', 'VBP') ('avión', 'JJ') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "defensa aérea"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "VP",
+        "text": "derribó este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "un avión no tripulado MQ-9"
+      },
+      {
+        "label": "NP",
+        "text": "no tripulado MQ-9"
+      },
+      {
+        "label": "NP",
+        "text": "estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "segundo"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "El aparato realizaba misiones hostiles"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Marib"
+      },
+      {
+        "label": "NP",
+        "text": "al centro-oeste del país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (NP defensa/JJ aérea/NN)\n  (PP de/IN (NP Yemen/NNP))\n  (VP derribó/VBP (NP este/NN miércoles/NNS))\n  (VP un/VBP avión/JJ (NP no/DT tripulado/JJ MQ-9/NNP))\n  de/FW\n  fabricación/FW\n  (NP estadounidense/NN)\n  ,/,\n  el/FW\n  (NP segundo/NN)\n  en/FW\n  menos/FW\n  de/FW\n  72/CD\n  (NP horas/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP aparato/NN realizaba/NN misiones/NNS hostiles/NNS)\n  (VP en/VBP)\n  el/FW\n  espacio/FW\n  aéreo/FW\n  de/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Marib/NNP)\n  ,/,\n  (NP al/JJ centro-oeste/NN del/NN país/NN)\n  ./.)",
+      "(S\n  (NP Fue/NNP derribado/NN con/NN)\n  (NP un/JJ misil/JJ tierra-aire/NN)\n  de/IN\n  fabricación/FW\n  (NP yemení/NN)\n  ./.)",
+      "(S\n  (NP El/NNP portavoz/NN militar/NN yemení/NN)\n  ,/,\n  (ADJP general/JJ)\n  de/FW\n  brigada/FW\n  (NP Yahya/NNP Sari/NNP)\n  ,/,\n  (NP confirmó/NN el/NN derribo/NN del/NN medio/NN aéreo/NN)\n  ,/,\n  (NP que/JJ es/NN el/NN decimocuarto/NN)\n  (NP neutralizado/JJ durante/NN las/NNS)\n  (VP operaciones/VBZ (NP militares/NNS))\n  en/IN\n  apoyo/FW\n  (NP a/DT la/NN resistencia/NN palestina/NN y/NN)\n  (PP en/IN (NP rechazo/NN al/NN asedio/NN sionista/NN))\n  (NP contra/JJ la/NN Franja/NNP)\n  (PP de/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  el/FW\n  vocero/FW\n  manifestó/FW\n  (NP que/NN esta/NN acción/NN)\n  (VP responde/VBZ (NP a/DT la/NN))\n  opresión/FW\n  (NP israelí/NN al/NN pueblo/NN palestino/NN)\n  ,/,\n  (NP perpetrada/JJ con/NN la/NN complicidad/NN)\n  de/IN\n  los/FW\n  (NP EE.UU./NNP y/NN el/NN Reino/NNP Unido/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "PAISES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "RECURSOS_NATURALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          611,
+          620
+        ],
+        "start": 611,
+        "end": 620
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva militar",
+        "position": [
+          914,
+          930
+        ],
+        "start": 914,
+        "end": 930
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "atacó",
+        "position": [
+          1509,
+          1514
+        ],
+        "start": 1509,
+        "end": 1514
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "en apoyo a la resistencia palestina",
+        "position": [
+          480,
+          515
+        ],
+        "start": 480,
+        "end": 515
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          4,
+          11
+        ],
+        "start": 4,
+        "end": 11
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          997,
+          1001
+        ],
+        "start": 997,
+        "end": 1001
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          1631,
+          1641
+        ],
+        "start": 1631,
+        "end": 1641
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          506,
+          515
+        ],
+        "start": 506,
+        "end": 515
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          206,
+          218
+        ],
+        "start": 206,
+        "end": 218
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro-oeste",
+        "position": [
+          229,
+          241
+        ],
+        "start": 229,
+        "end": 241
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          975,
+          982
+        ],
+        "start": 975,
+        "end": 982
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "30 millones",
+        "position": [
+          1267,
+          1278
+        ],
+        "start": 1267,
+        "end": 1278
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 30",
+        "position": [
+          1260,
+          1269
+        ],
+        "start": 1260,
+        "end": 1269
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "30 millones de dólares",
+        "position": [
+          1267,
+          1289
+        ],
+        "start": 1267,
+        "end": 1289
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irak",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Marib",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "aeropuerto Ben Gurión",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yahya Sari",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Afganistán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Harry Truman",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FF.AA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al-Bayda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ansar Alá",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reino Unido",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Yahya Sari",
+        "relacion": "CONFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "DERRIBAR",
+        "objeto": "Al-Bayda"
+      },
+      {
+        "sujeto": "Ansar Alá",
+        "relacion": "ATACAR",
+        "objeto": "Harry Truman"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "ATACAR",
+        "objeto": "Harry Truman"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.009,
+    "neu": 0.957,
+    "neg": 0.034,
+    "label": "negative"
+  }
+}

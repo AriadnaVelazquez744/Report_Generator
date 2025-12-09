@@ -1,0 +1,716 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-belarus-resalta-importancia-de-relaciones-con-venezuela-y-paises-latinoamericanos/",
+  "title": "Presidente de Belarús resalta importancia de relaciones con Venezuela y países latinoamericanos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Belarús",
+    "Latinoamérica",
+    "Venezuela"
+  ],
+  "text": "El presidente de Belarús, Aleksandr Lukashenko, quien ejercerá un nuevo mandato de 2025 a 2030 tras ganar las elecciones de este domingo, consideró como importante la cooperación con Venezuela y el resto de países latinoamericanos.\nEn una conferencia de prensa ofrecida en el marco de la jornada electoral que se desarrolló este domingo, el mandatario bielorruso respondió a una pregunta hecha por el enviado especial de teleSUR a Belarús, Oleg Yasinsky.\nLukashenko dijo que “ahora tenemos que diversificar las relaciones comerciales y económicas, Belarús busca los puntos de apoyo en todo el mundo”.\nAl hablar de la cooperación con Venezuela, el presidente resaltó que “las relaciones con Venezuela son nuestro logro desde los tiempos de Hugo Chávez”.\n“Hemos construido fábricas de tractores, coches, ladrillos, ciudades y pueblos enteros, lo que Hugo Chávez nos pidió. Así que no nos gustaría en absoluto perder a Venezuela, y apoyamos estas relaciones”, externó.\nLukashenko recordó que “recientemente, nuestra delegación gubernamental visitó los países del Caribe, entre ellos Venezuela, Nicaragua, Cuba. Es decir, tenemos puntos en los que seguiremos desarrollando lo que hemos empezado”.\nMencionó que busca profundizar las relaciones con Brasil, país del cual “sabemos que tienen un gran interés en Belarús por determinados productos. Tenemos un gran interés no sólo en los aviones, pero esta es una de las direcciones que nos gustaría seguir”.\n“También mantendremos relaciones con Cuba, Nicaragua, México, Venezuela y Brasil. Si desarrollamos esto, estará bien”, enfatizó el jefe de Estado.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-belarus-resalta-importancia-de-relaciones-con-venezuela-y-paises-latinoamericanos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 381,
+    "message_id": 85476,
+    "date": "2025-01-27T09:55:07+00:00",
+    "text": "teleSUR\nPresidente de Belarús resalta importancia de relaciones con Venezuela y países latinoamericanos\nhttps://www.telesurtv.net/presidente-de-belarus-resalta-importancia-de-relaciones-con-venezuela-y-paises-latinoamericanos/",
+    "photo_path": null,
+    "views": 2496,
+    "reactions": {
+      "👍": 67,
+      "🥰": 10,
+      "❤": 8,
+      "🤡": 4,
+      "👏": 2
+    },
+    "total_reactions": 91
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de belarús, aleksandr lukashenko, quien ejercerá un nuevo mandato de 2025 a 2030 tras ganar las elecciones de este domingo, consideró como importante la cooperación con venezuela y el resto de países latinoamericanos. en una conferencia de prensa ofrecida en el marco de la jornada electoral que se desarrolló este domingo, el mandatario bielorruso respondió a una pregunta hecha por el enviado especial de telesur a belarús, oleg yasinsky. lukashenko dijo que “ahora tenemos que diversificar las relaciones comerciales y económicas, belarús busca los puntos de apoyo en todo el mundo”. al hablar de la cooperación con venezuela, el presidente resaltó que “las relaciones con venezuela son nuestro logro desde los tiempos de hugo chávez”. “hemos construido fábricas de tractores, coches, ladrillos, ciudades y pueblos enteros, lo que hugo chávez nos pidió. así que no nos gustaría en absoluto perder a venezuela, y apoyamos estas relaciones”, externó. lukashenko recordó que “recientemente, nuestra delegación gubernamental visitó los países del caribe, entre ellos venezuela, nicaragua, cuba. es decir, tenemos puntos en los que seguiremos desarrollando lo que hemos empezado”. mencionó que busca profundizar las relaciones con brasil, país del cual “sabemos que tienen un gran interés en belarús por determinados productos. tenemos un gran interés no sólo en los aviones, pero esta es una de las direcciones que nos gustaría seguir”. “también mantendremos relaciones con cuba, nicaragua, méxico, venezuela y brasil. si desarrollamos esto, estará bien”, enfatizó el jefe de estado.",
+    "tokens": [
+      "presidente",
+      "belarús",
+      ",",
+      "aleksandr",
+      "lukashenko",
+      ",",
+      "ejercerá",
+      "nuevo",
+      "mandato",
+      "2025",
+      "2030",
+      "tras",
+      "ganar",
+      "elecciones",
+      "domingo",
+      ",",
+      "consideró",
+      "importante",
+      "cooperación",
+      "venezuela",
+      "resto",
+      "países",
+      "latinoamericanos",
+      ".",
+      "conferencia",
+      "prensa",
+      "ofrecida",
+      "marco",
+      "jornada",
+      "electoral",
+      "desarrolló",
+      "domingo",
+      ",",
+      "mandatario",
+      "bielorruso",
+      "respondió",
+      "pregunta",
+      "hecha",
+      "enviado",
+      "especial",
+      "telesur",
+      "belarús",
+      ",",
+      "oleg",
+      "yasinsky",
+      ".",
+      "lukashenko",
+      "dijo",
+      "“",
+      "ahora",
+      "diversificar",
+      "relaciones",
+      "comerciales",
+      "económicas",
+      ",",
+      "belarús",
+      "busca",
+      "puntos",
+      "apoyo",
+      "mundo",
+      "”",
+      ".",
+      "hablar",
+      "cooperación",
+      "venezuela",
+      ",",
+      "presidente",
+      "resaltó",
+      "“",
+      "relaciones",
+      "venezuela",
+      "logro",
+      "tiempos",
+      "hugo",
+      "chávez",
+      "”",
+      ".",
+      "“",
+      "construido",
+      "fábricas",
+      "tractores",
+      ",",
+      "coches",
+      ",",
+      "ladrillos",
+      ",",
+      "ciudades",
+      "pueblos",
+      "enteros",
+      ",",
+      "hugo",
+      "chávez",
+      "pidió",
+      ".",
+      "así",
+      "gustaría",
+      "absoluto",
+      "perder",
+      "venezuela",
+      ",",
+      "apoyamos",
+      "relaciones",
+      "”",
+      ",",
+      "externó",
+      ".",
+      "lukashenko",
+      "recordó",
+      "“",
+      "recientemente",
+      ",",
+      "delegación",
+      "gubernamental",
+      "visitó",
+      "países",
+      "caribe",
+      ",",
+      "venezuela",
+      ",",
+      "nicaragua",
+      ",",
+      "cuba",
+      ".",
+      "decir",
+      ",",
+      "puntos",
+      "seguiremos",
+      "desarrollando",
+      "empezado",
+      "”",
+      ".",
+      "mencionó",
+      "busca",
+      "profundizar",
+      "relaciones",
+      "brasil",
+      ",",
+      "país",
+      "“",
+      "sabemos",
+      "gran",
+      "interés",
+      "belarús",
+      "determinados",
+      "productos",
+      ".",
+      "gran",
+      "interés",
+      "sólo",
+      "aviones",
+      ",",
+      "direcciones",
+      "gustaría",
+      "seguir",
+      "”",
+      ".",
+      "“",
+      "mantendremos",
+      "relaciones",
+      "cuba",
+      ",",
+      "nicaragua",
+      ",",
+      "méxico",
+      ",",
+      "venezuela",
+      "brasil",
+      ".",
+      "si",
+      "desarrollamos",
+      ",",
+      "bien",
+      "”",
+      ",",
+      "enfatizó",
+      "jefe",
+      "."
+    ],
+    "token_count": 177,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NN": 97,
+      "FW": 31,
+      "JJ": 21,
+      "IN": 10,
+      "CD": 2,
+      "NNS": 13,
+      "VBZ": 6,
+      "VBP": 11,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-FW": 4,
+      "FW-NNP": 6,
+      "NNP-NNP": 16,
+      "NN-NN": 57,
+      "NN-JJ": 9,
+      "JJ-JJ": 1,
+      "JJ-NN": 16,
+      "NN-IN": 9,
+      "IN-CD": 1,
+      "CD-CD": 1,
+      "CD-NN": 1,
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "IN-NN": 2,
+      "FW-JJ": 2,
+      "NN-NNP": 8,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "FW-FW": 19,
+      "NNP-JJ": 2,
+      "IN-FW": 3,
+      "NN-VBP": 3,
+      "VBP-JJ": 4,
+      "JJ-FW": 1,
+      "VBP-NN": 1,
+      "NN-NNS": 4,
+      "NNS-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-NNP": 5,
+      "NNP-FW": 2,
+      "FW-NN": 3,
+      "VBZ-JJ": 2,
+      "IN-NNP": 3,
+      "IN-NNS": 1,
+      "VBP-NNS": 1,
+      "VBZ-DT": 2,
+      "DT-JJ": 1,
+      "NN-VBZ": 3,
+      "DT-NN": 1,
+      "NNS-NN": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 12,
+      "NN-NN-JJ": 8,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-CD": 1,
+      "IN-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-NN": 32,
+      "NN-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 4,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NN": 8,
+      "NN-JJ-NN": 6,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-NNP": 5,
+      "VBP-NNP-NN": 4,
+      "NN-NN-IN": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NNS": 2,
+      "JJ-NN-JJ": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NN-IN-NN": 1,
+      "NN-NNS-VBP": 2,
+      "IN-NNP-NN": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "NNP": 39,
+        "FW": 31,
+        "JJ": 21,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 19,
+        "NNP-NNP": 16,
+        "JJ-NN": 16,
+        "NNP-NN": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 13,
+        "NNP-NN-NN": 12,
+        "NNP-NNP-NNP": 10,
+        "NN-NN-JJ": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 77,
+      "PP": 6,
+      "VP": 16,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0357
+      },
+      {
+        "rule": "NP -> ('Belarús', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Nicaragua', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('gran', 'NN') ('interés', 'NN')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('2025', 'CD') ('a', 'DT') ('2030', 'CD') NP NP PP (',', ',') NP ('la', 'FW') NP ('el', 'FW') NP ('de', 'FW') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('Aleksandr', 'NNP') ('Lukashenko', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('quien', 'NN') ('ejercerá', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('nuevo', 'JJ') ('mandato', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Belarús"
+      },
+      {
+        "label": "NP",
+        "text": "Aleksandr Lukashenko"
+      },
+      {
+        "label": "NP",
+        "text": "quien ejercerá"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo mandato"
+      },
+      {
+        "label": "NP",
+        "text": "tras ganar"
+      },
+      {
+        "label": "NP",
+        "text": "las elecciones"
+      },
+      {
+        "label": "PP",
+        "text": "de este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "consideró como importante"
+      },
+      {
+        "label": "NP",
+        "text": "cooperación con Venezuela y"
+      },
+      {
+        "label": "NP",
+        "text": "resto"
+      },
+      {
+        "label": "VP",
+        "text": "países latinoamericanos"
+      },
+      {
+        "label": "NP",
+        "text": "latinoamericanos"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Belarús/NNP)\n  ,/,\n  (NP Aleksandr/NNP Lukashenko/NNP)\n  ,/,\n  (NP quien/NN ejercerá/NN)\n  (NP un/JJ nuevo/JJ mandato/NN)\n  de/IN\n  2025/CD\n  a/DT\n  2030/CD\n  (NP tras/NN ganar/NN)\n  (NP las/JJ elecciones/NNS)\n  (PP de/IN (NP este/NN domingo/NN))\n  ,/,\n  (NP consideró/NN como/NN importante/NN)\n  la/FW\n  (NP cooperación/JJ con/NN Venezuela/NNP y/NNP)\n  el/FW\n  (NP resto/NN)\n  de/FW\n  (VP países/VBZ (NP latinoamericanos/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP una/JJ conferencia/NN)\n  de/IN\n  prensa/FW\n  ofrecida/FW\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  jornada/FW\n  (NP electoral/JJ que/NN se/NN desarrolló/NN este/NN domingo/NN)\n  ,/,\n  el/FW\n  (NP mandatario/NN bielorruso/NN)\n  (VP\n    respondió/VBZ\n    (NP a/DT una/JJ pregunta/NN hecha/NN por/NN el/NN))\n  (VP enviado/VBP especial/JJ)\n  de/FW\n  teleSUR/FW\n  (NP a/DT Belarús/NNP)\n  ,/,\n  (NP Oleg/NNP Yasinsky/NNP)\n  ./.)",
+      "(S\n  (NP Lukashenko/NNP dijo/NN que/NN “/NNP)\n  (VP\n    ahora/VBZ\n    (NP\n      tenemos/JJ\n      que/NN\n      diversificar/NN\n      las/NN\n      relaciones/NNS\n      comerciales/NNS)\n    y/RB)\n  (VP económicas/VBP)\n  ,/,\n  (NP Belarús/NNP)\n  (VP busca/VBD (NP los/JJ puntos/NN))\n  de/IN\n  apoyo/FW\n  en/FW\n  todo/FW\n  el/FW\n  mundo/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP hablar/NN)\n  de/FW\n  la/FW\n  cooperación/FW\n  (NP con/NN Venezuela/NNP)\n  ,/,\n  (VP el/VBZ (NP presidente/JJ resaltó/NN que/NN “/NNP))\n  (VP\n    las/VBZ\n    (NP\n      relaciones/NNS\n      con/NN\n      Venezuela/NNP\n      son/NN\n      nuestro/NN\n      logro/NN\n      desde/NN)\n    (NP los/JJ tiempos/NN))\n  (PP de/IN (NP Hugo/NNP Chávez/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Hemos/NNP construido/NN fábricas/NN)\n  (PP de/IN (NP tractores/NNS))\n  ,/,\n  (NP coches/NNS)\n  ,/,\n  (NP ladrillos/NN)\n  ,/,\n  (NP ciudades/NNS)\n  (VP y/VBP (NP pueblos/JJ enteros/NNS))\n  ,/,\n  (NP lo/JJ que/NN Hugo/NNP Chávez/NNP)\n  (NP nos/JJ pidió/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación con venezuela y el",
+        "position": [
+          167,
+          197
+        ],
+        "start": 167,
+        "end": 197
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación con venezuela y el resto de países",
+        "position": [
+          167,
+          213
+        ],
+        "start": 167,
+        "end": 213
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          239,
+          260
+        ],
+        "start": 239,
+        "end": 260
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de belarús",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          1102,
+          1106
+        ],
+        "start": 1102,
+        "end": 1106
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          1091,
+          1100
+        ],
+        "start": 1091,
+        "end": 1100
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          183,
+          192
+        ],
+        "start": 183,
+        "end": 192
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          1060,
+          1066
+        ],
+        "start": 1060,
+        "end": 1066
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          990,
+          1003
+        ],
+        "start": 990,
+        "end": 1003
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Belarús",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aleksandr Lukashenko",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Oleg Yasinsky",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lukashenko",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Aleksandr Lukashenko",
+        "relacion": "CONSIDERAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Lukashenko",
+        "relacion": "DECIR",
+        "objeto": "Belarús"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "HABLAR_RESALTAR",
+        "objeto": "Hugo Chávez"
+      },
+      {
+        "sujeto": "Lukashenko",
+        "relacion": "RECORDAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Lukashenko",
+        "relacion": "RECORDAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Lukashenko",
+        "relacion": "RECORDAR",
+        "objeto": "Nicaragua"
+      },
+      {
+        "sujeto": "Lukashenko",
+        "relacion": "RECORDAR",
+        "objeto": "Cuba"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.981,
+    "neg": 0.019,
+    "label": "negative"
+  }
+}

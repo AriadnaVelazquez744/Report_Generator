@@ -1,0 +1,797 @@
+{
+  "url": "https://www.telesurtv.net/registran-al-menos-8-muertos-por-posible-brote-del-virus-marburgo-en-tazanania/",
+  "title": "Registran al menos 8 muertos por posible brote del virus Marburgo en Tanzania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Marburgo",
+    "salud",
+    "Tanzania",
+    "Virus"
+  ],
+  "text": "Lo que podría ser un brote de la enfermedad del virus de Marburgo, similar al ébola, ha dejado al menos ocho muertos en el noroeste de Tanzania, en la región de Kagera, África.\nLa Organización Mundial de la Salud (OMS) informó que se están esperando resultados de pruebas de laboratorio para confirmar la situación, casos que fueron recibidos desde el pasado 10 de enero.\nEstos casos presentaron síntomas graves, incluyendo fiebre alta, dolor de cabeza, vómitos con sangre y, en las fases avanzadas de la enfermedad, hemorragias externas.\nHasta el día 11 de enero se han documentado nueve casos sospechosos en dos distritos de Kagera: Biharamulo y Muleba, de los cuales ocho han resultado mortales.\nLas autoridades sanitarias están trabajando activamente en la identificación de contactos, haciendo especial énfasis en los trabajadores de salud que podrían estar expuestos.\nEl brote representa un riesgo, pues Kagera se encuentra cerca de las fronteras de Ruanda, Uganda y Burundi, lo que aumenta la preocupación sobre la posible propagación del virus.\nEste no es el primer brote de Marburgo en Tanzania, en 2023, el país ya había enfrentado otro incidente, que dejó al menos nueve casos y seis muertes. El inicio de esa epidemia se declaró el 21 de marzo y se dio por finalizada el 2 de junio de ese año.\nLa noticia de este nuevo posible brote llega poco después de que Ruanda declarara el fin de su epidemia de Marburgo el 20 de diciembre.\nEsta epidemia, que comenzó el 27 de septiembre, registró 66 casos confirmados y 15 muertes.\nEl virus de Marburgo, al igual que el ébola, se caracteriza por provocar hemorragias repentinas y puede llevar a la muerte en pocos días. No hay vacunas ni tratamientos específicos disponibles, lo que hace que la enfermedad sea particularmente peligrosa.\nEl virus fue detectado por primera vez en 1967 en la ciudad alemana de Marburgo, de ahí su nombre original, desde entonces, ha causado más de 3.500 muertes en África, y los murciélagos de la fruta son considerados sus huéspedes naturales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/registran-al-menos-8-muertos-por-posible-brote-del-virus-marburgo-en-tazanania/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1095,
+    "message_id": 84667,
+    "date": "2025-01-17T01:55:07+00:00",
+    "text": "teleSUR\nRegistran al menos 8 muertos por posible brote del virus Marburgo en Tanzania\nhttps://www.telesurtv.net/registran-al-menos-8-muertos-por-posible-brote-del-virus-marburgo-en-tazanania/",
+    "photo_path": null,
+    "views": 2712,
+    "reactions": {
+      "😨": 24,
+      "😱": 4,
+      "👍": 3,
+      "💩": 2,
+      "🤮": 1
+    },
+    "total_reactions": 34
+  },
+  "preprocessing": {
+    "cleaned": "lo que podría ser un brote de la enfermedad del virus de marburgo, similar al ébola, ha dejado al menos ocho muertos en el noroeste de tanzania, en la región de kagera, áfrica. la organización mundial de la salud (oms) informó que se están esperando resultados de pruebas de laboratorio para confirmar la situación, casos que fueron recibidos desde el pasado 10 de enero. estos casos presentaron síntomas graves, incluyendo fiebre alta, dolor de cabeza, vómitos con sangre y, en las fases avanzadas de la enfermedad, hemorragias externas. hasta el día 11 de enero se han documentado nueve casos sospechosos en dos distritos de kagera: biharamulo y muleba, de los cuales ocho han resultado mortales. las autoridades sanitarias están trabajando activamente en la identificación de contactos, haciendo especial énfasis en los trabajadores de salud que podrían estar expuestos. el brote representa un riesgo, pues kagera se encuentra cerca de las fronteras de ruanda, uganda y burundi, lo que aumenta la preocupación sobre la posible propagación del virus. este no es el primer brote de marburgo en tanzania, en 2023, el país ya había enfrentado otro incidente, que dejó al menos nueve casos y seis muertes. el inicio de esa epidemia se declaró el 21 de marzo y se dio por finalizada el 2 de junio de ese año. la noticia de este nuevo posible brote llega poco después de que ruanda declarara el fin de su epidemia de marburgo el 20 de diciembre. esta epidemia, que comenzó el 27 de septiembre, registró 66 casos confirmados y 15 muertes. el virus de marburgo, al igual que el ébola, se caracteriza por provocar hemorragias repentinas y puede llevar a la muerte en pocos días. no hay vacunas ni tratamientos específicos disponibles, lo que hace que la enfermedad sea particularmente peligrosa. el virus fue detectado por primera vez en 1967 en la ciudad alemana de marburgo, de ahí su nombre original, desde entonces, ha causado más de 3.500 muertes en áfrica, y los murciélagos de la fruta son considerados sus huéspedes naturales.",
+    "tokens": [
+      "podría",
+      "ser",
+      "brote",
+      "enfermedad",
+      "virus",
+      "marburgo",
+      ",",
+      "similar",
+      "ébola",
+      ",",
+      "dejado",
+      "menos",
+      "ocho",
+      "muertos",
+      "noroeste",
+      "tanzania",
+      ",",
+      "región",
+      "kagera",
+      ",",
+      "áfrica",
+      ".",
+      "organización",
+      "mundial",
+      "salud",
+      "(",
+      "oms",
+      ")",
+      "informó",
+      "esperando",
+      "resultados",
+      "pruebas",
+      "laboratorio",
+      "confirmar",
+      "situación",
+      ",",
+      "casos",
+      "recibidos",
+      "pasado",
+      "10",
+      "enero",
+      ".",
+      "casos",
+      "presentaron",
+      "síntomas",
+      "graves",
+      ",",
+      "incluyendo",
+      "fiebre",
+      "alta",
+      ",",
+      "dolor",
+      "cabeza",
+      ",",
+      "vómitos",
+      "sangre",
+      ",",
+      "fases",
+      "avanzadas",
+      "enfermedad",
+      ",",
+      "hemorragias",
+      "externas",
+      ".",
+      "día",
+      "11",
+      "enero",
+      "documentado",
+      "nueve",
+      "casos",
+      "sospechosos",
+      "dos",
+      "distritos",
+      "kagera",
+      ":",
+      "biharamulo",
+      "muleba",
+      ",",
+      "cuales",
+      "ocho",
+      "resultado",
+      "mortales",
+      ".",
+      "autoridades",
+      "sanitarias",
+      "trabajando",
+      "activamente",
+      "identificación",
+      "contactos",
+      ",",
+      "haciendo",
+      "especial",
+      "énfasis",
+      "trabajadores",
+      "salud",
+      "podrían",
+      "expuestos",
+      ".",
+      "brote",
+      "representa",
+      "riesgo",
+      ",",
+      "pues",
+      "kagera",
+      "encuentra",
+      "cerca",
+      "fronteras",
+      "ruanda",
+      ",",
+      "uganda",
+      "burundi",
+      ",",
+      "aumenta",
+      "preocupación",
+      "posible",
+      "propagación",
+      "virus",
+      ".",
+      "primer",
+      "brote",
+      "marburgo",
+      "tanzania",
+      ",",
+      "2023",
+      ",",
+      "país",
+      "enfrentado",
+      "incidente",
+      ",",
+      "dejó",
+      "menos",
+      "nueve",
+      "casos",
+      "seis",
+      "muertes",
+      ".",
+      "inicio",
+      "epidemia",
+      "declaró",
+      "21",
+      "marzo",
+      "dio",
+      "finalizada",
+      "2",
+      "junio",
+      "año",
+      ".",
+      "noticia",
+      "nuevo",
+      "posible",
+      "brote",
+      "llega",
+      "después",
+      "ruanda",
+      "declarara",
+      "fin",
+      "epidemia",
+      "marburgo",
+      "20",
+      "diciembre",
+      ".",
+      "epidemia",
+      ",",
+      "comenzó",
+      "27",
+      "septiembre",
+      ",",
+      "registró",
+      "66",
+      "casos",
+      "confirmados",
+      "15",
+      "muertes",
+      ".",
+      "virus",
+      "marburgo",
+      ",",
+      "igual",
+      "ébola",
+      ",",
+      "caracteriza",
+      "provocar",
+      "hemorragias",
+      "repentinas",
+      "puede",
+      "llevar",
+      "muerte",
+      "pocos",
+      "días",
+      ".",
+      "vacunas",
+      "tratamientos",
+      "específicos",
+      "disponibles",
+      ",",
+      "hace",
+      "enfermedad",
+      "particularmente",
+      "peligrosa",
+      ".",
+      "virus",
+      "detectado",
+      "primera",
+      "vez",
+      "1967",
+      "ciudad",
+      "alemana",
+      "marburgo",
+      ",",
+      "ahí",
+      "nombre",
+      "original",
+      ",",
+      "entonces",
+      ",",
+      "causado",
+      "3.500",
+      "muertes",
+      "áfrica",
+      ",",
+      "murciélagos",
+      "fruta",
+      "considerados",
+      "huéspedes",
+      "naturales",
+      "."
+    ],
+    "token_count": 226,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "NN": 107,
+      "JJ": 27,
+      "IN": 25,
+      "FW": 80,
+      "NNS": 19,
+      "VBP": 14,
+      "CD": 10,
+      "VBZ": 4,
+      "DT": 1,
+      "RB": 1,
+      "CC": 1,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-NN": 53,
+      "NN-JJ": 7,
+      "JJ-NN": 22,
+      "NN-IN": 16,
+      "IN-FW": 13,
+      "FW-FW": 47,
+      "FW-NNP": 13,
+      "NNP-JJ": 1,
+      "NN-NNP": 6,
+      "IN-NNS": 2,
+      "NNS-VBP": 10,
+      "VBP-NNS": 3,
+      "NNS-FW": 1,
+      "NNP-FW": 6,
+      "NNP-NNP": 10,
+      "NN-FW": 10,
+      "FW-JJ": 4,
+      "FW-NN": 11,
+      "NN-VBP": 2,
+      "VBP-JJ": 8,
+      "JJ-CD": 2,
+      "CD-IN": 4,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "FW-NNS": 3,
+      "JJ-FW": 2,
+      "NN-NNS": 7,
+      "VBP-IN": 1,
+      "NNP-VBP": 2,
+      "VBP-NN": 2,
+      "IN-JJ": 2,
+      "IN-NNP": 3,
+      "NNP-IN": 2,
+      "NNS-NNP": 4,
+      "NNP-VBZ": 2,
+      "JJ-NNS": 1,
+      "NNS-IN": 2,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "IN-CD": 3,
+      "CD-NN": 3,
+      "VBZ-NNP": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "FW-CC": 1,
+      "CC-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 2,
+      "NN-VBD": 1,
+      "IN-NN": 2,
+      "NN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 23,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 7,
+      "JJ-NN-IN": 9,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 7,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 7,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NN-NN-IN": 7,
+      "NN-IN-NNS": 2,
+      "IN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-NN-FW": 5,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "FW-FW-NN": 7,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-NN-NN": 8,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-CD": 2,
+      "JJ-CD-IN": 2,
+      "CD-IN-FW": 3,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NNP-VBP": 2,
+      "NNP-VBP-JJ": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "FW-FW-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 5,
+      "NNS-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-FW-NN": 2,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "IN-NNP-FW": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NNS-VBP-NN": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-FW-CC": 1,
+      "FW-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-IN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NN-FW-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NN-NN-NNS": 2,
+      "NN-IN-NN": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NN-IN-CD": 2,
+      "CD-NN-FW": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NN-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 107,
+        "FW": 80,
+        "NNP": 38,
+        "JJ": 27,
+        "IN": 25
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 47,
+        "JJ-NN": 22,
+        "NN-IN": 16,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 23,
+        "NNP-NN-NN": 9,
+        "JJ-NN-IN": 9,
+        "FW-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 93,
+      "PP": 9,
+      "VP": 20,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Marburgo', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0368
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0294
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0294
+      },
+      {
+        "rule": "VP -> ('ocho', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('Tanzania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('Kagera', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('África', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "VP -> ('nueve', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('en', 'NN')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0147
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Lo que podría ser"
+      },
+      {
+        "label": "NP",
+        "text": "un brote"
+      },
+      {
+        "label": "NP",
+        "text": "Marburgo"
+      },
+      {
+        "label": "NP",
+        "text": "similar al ébola"
+      },
+      {
+        "label": "NP",
+        "text": "ha dejado"
+      },
+      {
+        "label": "PP",
+        "text": "al menos"
+      },
+      {
+        "label": "NP",
+        "text": "menos"
+      },
+      {
+        "label": "VP",
+        "text": "ocho muertos"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      },
+      {
+        "label": "NP",
+        "text": "Tanzania"
+      },
+      {
+        "label": "NP",
+        "text": "Kagera"
+      },
+      {
+        "label": "NP",
+        "text": "África"
+      },
+      {
+        "label": "NP",
+        "text": "La Organización Mundial de"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "OMS"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Lo/NNP que/NN podría/NN ser/NN)\n  (NP un/JJ brote/NN)\n  de/IN\n  la/FW\n  enfermedad/FW\n  del/FW\n  virus/FW\n  de/FW\n  (NP Marburgo/NNP)\n  ,/,\n  (NP similar/JJ al/NN ébola/NNP)\n  ,/,\n  (NP ha/NN dejado/NN)\n  (PP al/IN (NP menos/NNS))\n  (VP ocho/VBP (NP muertos/NNS))\n  en/FW\n  el/FW\n  noroeste/FW\n  de/FW\n  (NP Tanzania/NNP)\n  ,/,\n  en/FW\n  la/FW\n  región/FW\n  de/FW\n  (NP Kagera/NNP)\n  ,/,\n  (NP África/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP Organización/NNP Mundial/NNP de/NNP)\n  la/FW\n  (NP Salud/NNP)\n  (/(\n  (NP OMS/NNP)\n  )/)\n  (NP informó/NN que/NN se/NN)\n  están/FW\n  (NP esperando/JJ resultados/NN)\n  de/IN\n  pruebas/FW\n  de/FW\n  laboratorio/FW\n  para/FW\n  (NP confirmar/NN la/NN situación/NN)\n  ,/,\n  (NP casos/NN que/NN fueron/NN recibidos/NN desde/NN)\n  (VP el/VBP pasado/JJ)\n  10/CD\n  (PP de/IN (NP enero/NN))\n  ./.)",
+      "(S\n  (NP Estos/NNP casos/NN presentaron/NN síntomas/NN graves/NNS)\n  ,/,\n  (NP incluyendo/JJ fiebre/NN alta/NN)\n  ,/,\n  (NP dolor/NN)\n  de/FW\n  (NP cabeza/NN)\n  ,/,\n  vómitos/FW\n  (NP con/NN sangre/NN y/NN)\n  ,/,\n  en/FW\n  las/FW\n  (NP fases/NNS)\n  (VP avanzadas/VBP)\n  de/IN\n  la/FW\n  enfermedad/FW\n  ,/,\n  (NP hemorragias/JJ externas/NNS)\n  ./.)",
+      "(S\n  (NP Hasta/NNP)\n  (VP el/VBD día/JJ)\n  11/CD\n  de/IN\n  enero/FW\n  se/FW\n  (NP han/NN documentado/NN)\n  (VP nueve/VBP (NP casos/NN sospechosos/NN))\n  (PP en/IN (NP dos/JJ distritos/NN))\n  de/FW\n  (NP Kagera/NNP)\n  :/:\n  (NP Biharamulo/NNP)\n  y/MD\n  (NP Muleba/NNP)\n  ,/,\n  de/FW\n  los/FW\n  (NP cuales/NNS)\n  (VP ocho/VBP (NP han/JJ resultado/NN mortales/NNS))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ sanitarias/JJ)\n  están/FW\n  (NP trabajando/NN activamente/NN)\n  en/FW\n  la/FW\n  identificación/FW\n  de/FW\n  contactos/FW\n  ,/,\n  (VP haciendo/VBP (NP especial/JJ énfasis/NN))\n  (PP en/IN (NP los/JJ trabajadores/NNS))\n  de/IN\n  salud/FW\n  (NP que/JJ podrían/NN estar/NN expuestos/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "FECHAS_HORAS",
+      "ELECCIONES_PROCESOS_POLITICOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1233,
+          1240
+        ],
+        "start": 1233,
+        "end": 1240
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          219,
+          226
+        ],
+        "start": 219,
+        "end": 226
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oms",
+        "position": [
+          214,
+          217
+        ],
+        "start": 214,
+        "end": 217
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          151,
+          160
+        ],
+        "start": 151,
+        "end": 160
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 3.500",
+        "position": [
+          1924,
+          1936
+        ],
+        "start": 1924,
+        "end": 1936
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "2 de junio de",
+        "position": [
+          1283,
+          1297
+        ],
+        "start": 1283,
+        "end": 1297
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kagera",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Muleba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kagera",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tanzania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ruanda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Burundi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marburgo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OMS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Uganda",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Marburgo",
+        "relacion": "DEJAR",
+        "objeto": "Tanzania"
+      },
+      {
+        "sujeto": "Marburgo",
+        "relacion": "DEJAR",
+        "objeto": "Kagera"
+      },
+      {
+        "sujeto": "Marburgo",
+        "relacion": "DEJAR",
+        "objeto": "África"
+      },
+      {
+        "sujeto": "Tanzania",
+        "relacion": "DEJAR",
+        "objeto": "Kagera"
+      },
+      {
+        "sujeto": "Tanzania",
+        "relacion": "DEJAR",
+        "objeto": "África"
+      },
+      {
+        "sujeto": "Kagera",
+        "relacion": "ENCONTRAR_REPRESENTAR",
+        "objeto": "Ruanda"
+      },
+      {
+        "sujeto": "Kagera",
+        "relacion": "ENCONTRAR_REPRESENTAR",
+        "objeto": "Uganda"
+      },
+      {
+        "sujeto": "Kagera",
+        "relacion": "ENCONTRAR_REPRESENTAR",
+        "objeto": "Burundi"
+      },
+      {
+        "sujeto": "Ruanda",
+        "relacion": "DECLARAR_DESPU_S_LLEGAR",
+        "objeto": "Marburgo"
+      },
+      {
+        "sujeto": "Marburgo",
+        "relacion": "DETECTAR",
+        "objeto": "África"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.128,
+    "pos": 0.021,
+    "neu": 0.959,
+    "neg": 0.02,
+    "label": "positive"
+  }
+}

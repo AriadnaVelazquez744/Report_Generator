@@ -1,0 +1,992 @@
+{
+  "url": "https://www.telesurtv.net/yemen-condena-medidas-eeuu-contra-venezuela/",
+  "title": "Yemen condena medidas hostiles de EE.UU. contra Venezuela",
+  "section": "Mundo",
+  "tags": [
+    "Agresiones a Venezuela",
+    "EE.UU.",
+    "Nicolás Maduro",
+    "Pamela Bondi",
+    "Trump",
+    "Venezuela",
+    "Yemen"
+  ],
+  "text": "La República de Yemen emitió un comunicado este miércoles 20 de agosto en el que rechaza enérgicamente las recientes agresiones de la Administración estadounidense de Donald Trump contra el presidente constitucional Nicolás Maduro y el pueblo de Venezuela.\n\nLEA TAMBIÉN\nZona de Paz: América Latina y el Caribe frente al injerencismo gringo\n\nEl Equipo Nacional de Difusión Exterior (NTFO) de Yemen emitió un comunicado donde “condena inequivocamente, con la mayor firmeza, y rechaza categóricamente las acciones hostiles del gobierno de Estados Unidos”, en particular el anuncio de una “recompensa financiera por la detención del presidente venezolano, Nicolás Maduro”.\nDe acuerdo con la entidad yemení, “esta medida representa una flagrante violación de la soberanía nacional y una flagrante transgresión del derecho internacional”. El texto hace referencia al anuncio del pasado 7 de agosto de la Fiscal General de Estados Unidos, Pamela Bondi, en el que ofreció una recompensa de 50 millones dólares por información que conduzca al arresto del presidente constitucional de Venezuela.\n\n\nMás adelante, señalan que dichas acciones reflejan la mentalidad hegemónica de la política exterior de la Casa Blanca, que se “arroga el derecho a interferir en los asuntos internos de las naciones independientes, en particular de aquellas que se niegan a someterse a su agenda colonialista”. A su vez, denuncian la medida como ilegal e ilegítima, al enfatizar que el presidente venezolano no está sujeto a la jurisdicción del poder judicial de Estados Unidos.\nFinalmente, llaman a la comunidad internacional, organizaciones y gobiernos que defienden la paz, a sumarse al rechazo de estas acciones injerencistas que instrumentalizan el poder judicial con fines políticos y pretenden socavar los principios de soberanía.\nEl posicionamiento tiene lugar tras meses de hostilidades de Estados Unidos contra el pueblo yemení debido a su postura solidaria con el pueblo palestino.\nEn este sentido, como principal aliado de Israel, Washington ha escalado sus bombardeos sobre Yemen desde el 15 de marzo de este año, lo que ha dejado cientos civiles asesinados. De esta manera, la administración de Donald Trump intentó -sin éxito- quebrar el bloqueo marítimo y aéreo que Saná ha impuesto al régimen israelí en respuesta al genocidio en la Franja de Gaza.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/yemen-condena-medidas-eeuu-contra-venezuela/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 837,
+    "message_id": 102311,
+    "date": "2025-08-20T22:55:12+00:00",
+    "text": "teleSUR\nYemen condena medidas hostiles de EE.UU. contra el pueblo y presidente de Venezuela\nhttps://www.telesurtv.net/yemen-condena-medidas-eeuu-contra-venezuela/",
+    "photo_path": null,
+    "views": 1651,
+    "reactions": {
+      "👍": 61,
+      "❤": 9
+    },
+    "total_reactions": 70
+  },
+  "preprocessing": {
+    "cleaned": "la república de yemen emitió un comunicado este miércoles 20 de agosto en el que rechaza enérgicamente las recientes agresiones de la administración estadounidense de donald trump contra el presidente constitucional nicolás maduro y el pueblo de venezuela. el equipo nacional de difusión exterior (ntfo) de yemen emitió un comunicado donde “condena inequivocamente, con la mayor firmeza, y rechaza categóricamente las acciones hostiles del gobierno de estados unidos”, en particular el anuncio de una “recompensa financiera por la detención del presidente venezolano, nicolás maduro”. de acuerdo con la entidad yemení, “esta medida representa una flagrante violación de la soberanía nacional y una flagrante transgresión del derecho internacional”. el texto hace referencia al anuncio del pasado 7 de agosto de la fiscal general de estados unidos, pamela bondi, en el que ofreció una recompensa de 50 millones dólares por información que conduzca al arresto del presidente constitucional de venezuela. más adelante, señalan que dichas acciones reflejan la mentalidad hegemónica de la política exterior de la casa blanca, que se “arroga el derecho a interferir en los asuntos internos de las naciones independientes, en particular de aquellas que se niegan a someterse a su agenda colonialista”. a su vez, denuncian la medida como ilegal e ilegítima, al enfatizar que el presidente venezolano no está sujeto a la jurisdicción del poder judicial de estados unidos. finalmente, llaman a la comunidad internacional, organizaciones y gobiernos que defienden la paz, a sumarse al rechazo de estas acciones injerencistas que instrumentalizan el poder judicial con fines políticos y pretenden socavar los principios de soberanía. el posicionamiento tiene lugar tras meses de hostilidades de estados unidos contra el pueblo yemení debido a su postura solidaria con el pueblo palestino. en este sentido, como principal aliado de israel, washington ha escalado sus bombardeos sobre yemen desde el 15 de marzo de este año, lo que ha dejado cientos civiles asesinados. de esta manera, la administración de donald trump intentó -sin éxito- quebrar el bloqueo marítimo y aéreo que saná ha impuesto al régimen israelí en respuesta al genocidio en la franja de gaza.",
+    "tokens": [
+      "república",
+      "yemen",
+      "emitió",
+      "comunicado",
+      "miércoles",
+      "20",
+      "agosto",
+      "rechaza",
+      "enérgicamente",
+      "recientes",
+      "agresiones",
+      "administración",
+      "estadounidense",
+      "donald",
+      "trump",
+      "presidente",
+      "constitucional",
+      "nicolás",
+      "maduro",
+      "pueblo",
+      "venezuela",
+      ".",
+      "equipo",
+      "nacional",
+      "difusión",
+      "exterior",
+      "(",
+      "ntfo",
+      ")",
+      "yemen",
+      "emitió",
+      "comunicado",
+      "“",
+      "condena",
+      "inequivocamente",
+      ",",
+      "mayor",
+      "firmeza",
+      ",",
+      "rechaza",
+      "categóricamente",
+      "acciones",
+      "hostiles",
+      "gobierno",
+      "unidos",
+      "”",
+      ",",
+      "particular",
+      "anuncio",
+      "“",
+      "recompensa",
+      "financiera",
+      "detención",
+      "presidente",
+      "venezolano",
+      ",",
+      "nicolás",
+      "maduro",
+      "”",
+      ".",
+      "acuerdo",
+      "entidad",
+      "yemení",
+      ",",
+      "“",
+      "medida",
+      "representa",
+      "flagrante",
+      "violación",
+      "soberanía",
+      "nacional",
+      "flagrante",
+      "transgresión",
+      "derecho",
+      "internacional",
+      "”",
+      ".",
+      "texto",
+      "hace",
+      "referencia",
+      "anuncio",
+      "pasado",
+      "7",
+      "agosto",
+      "fiscal",
+      "general",
+      "unidos",
+      ",",
+      "pamela",
+      "bondi",
+      ",",
+      "ofreció",
+      "recompensa",
+      "50",
+      "millones",
+      "dólares",
+      "información",
+      "conduzca",
+      "arresto",
+      "presidente",
+      "constitucional",
+      "venezuela",
+      ".",
+      "adelante",
+      ",",
+      "señalan",
+      "dichas",
+      "acciones",
+      "reflejan",
+      "mentalidad",
+      "hegemónica",
+      "política",
+      "exterior",
+      "casa",
+      "blanca",
+      ",",
+      "“",
+      "arroga",
+      "derecho",
+      "interferir",
+      "asuntos",
+      "internos",
+      "naciones",
+      "independientes",
+      ",",
+      "particular",
+      "aquellas",
+      "niegan",
+      "someterse",
+      "agenda",
+      "colonialista",
+      "”",
+      ".",
+      "vez",
+      ",",
+      "denuncian",
+      "medida",
+      "ilegal",
+      "ilegítima",
+      ",",
+      "enfatizar",
+      "presidente",
+      "venezolano",
+      "sujeto",
+      "jurisdicción",
+      "poder",
+      "judicial",
+      "unidos",
+      ".",
+      "finalmente",
+      ",",
+      "llaman",
+      "comunidad",
+      "internacional",
+      ",",
+      "organizaciones",
+      "gobiernos",
+      "defienden",
+      "paz",
+      ",",
+      "sumarse",
+      "rechazo",
+      "acciones",
+      "injerencistas",
+      "instrumentalizan",
+      "poder",
+      "judicial",
+      "fines",
+      "políticos",
+      "pretenden",
+      "socavar",
+      "principios",
+      "soberanía",
+      ".",
+      "posicionamiento",
+      "lugar",
+      "tras",
+      "meses",
+      "hostilidades",
+      "unidos",
+      "pueblo",
+      "yemení",
+      "debido",
+      "postura",
+      "solidaria",
+      "pueblo",
+      "palestino",
+      ".",
+      ",",
+      "principal",
+      "aliado",
+      "israel",
+      ",",
+      "washington",
+      "escalado",
+      "bombardeos",
+      "yemen",
+      "15",
+      "marzo",
+      "año",
+      ",",
+      "dejado",
+      "cientos",
+      "civiles",
+      "asesinados",
+      ".",
+      "manera",
+      ",",
+      "administración",
+      "donald",
+      "trump",
+      "intentó",
+      "-sin",
+      "éxito-",
+      "quebrar",
+      "bloqueo",
+      "marítimo",
+      "aéreo",
+      "saná",
+      "impuesto",
+      "régimen",
+      "israelí",
+      "respuesta",
+      "genocidio",
+      "franja",
+      "gaza",
+      "."
+    ],
+    "token_count": 227,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 58,
+      "IN": 20,
+      "CC": 2,
+      "JJ": 32,
+      "NN": 127,
+      "VBZ": 5,
+      "CD": 3,
+      "FW": 66,
+      "NNS": 17,
+      "VBP": 9,
+      "VBD": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 28,
+      "NNP-IN": 6,
+      "IN-NNP": 6,
+      "NNP-CC": 2,
+      "CC-JJ": 2,
+      "JJ-NN": 16,
+      "NN-NN": 84,
+      "NN-VBZ": 3,
+      "VBZ-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 7,
+      "FW-FW": 34,
+      "FW-NN": 13,
+      "VBZ-NNS": 1,
+      "NNS-IN": 3,
+      "FW-NNP": 14,
+      "NNP-FW": 7,
+      "NNP-NN": 10,
+      "NN-VBP": 1,
+      "VBP-JJ": 7,
+      "JJ-NNP": 3,
+      "NN-FW": 9,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "NN-NNP": 5,
+      "FW-NNS": 3,
+      "NNS-NNS": 5,
+      "NNS-VBP": 8,
+      "VBP-NN": 1,
+      "IN-JJ": 3,
+      "JJ-FW": 5,
+      "NN-JJ": 11,
+      "JJ-JJ": 5,
+      "FW-JJ": 2,
+      "NN-IN": 9,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NN-NNS": 3,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 3,
+      "IN-NN": 2,
+      "NNS-FW": 1,
+      "NNP-JJ": 1,
+      "VBZ-FW": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-FW": 1,
+      "IN-NNS": 1,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 5,
+      "NNP-IN-NNP": 4,
+      "IN-NNP-CC": 2,
+      "NNP-CC-JJ": 2,
+      "CC-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 22,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 9,
+      "NN-NN-NN": 55,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNP": 3,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 9,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 3,
+      "NNP-NNP-NNP": 10,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 3,
+      "NNP-FW-NNP": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-NNS": 3,
+      "NNS-NNS-VBP": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-FW": 2,
+      "JJ-FW-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-NN-JJ": 2,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-JJ": 8,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 4,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-FW": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "IN-FW-NNS": 2,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNP-NN": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-JJ-NNP": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 127,
+        "FW": 66,
+        "NNP": 58,
+        "JJ": 32,
+        "IN": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 84,
+        "FW-FW": 34,
+        "NNP-NNP": 28,
+        "JJ-NN": 16,
+        "FW-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 55,
+        "FW-FW-FW": 22,
+        "NNP-NNP-NNP": 10,
+        "JJ-NN-NN": 9,
+        "FW-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 94,
+      "PP": 9,
+      "VP": 22,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0441
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0221
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('como', 'NN')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "S -> NP PP ('emitió', 'CC') NP VP ('20', 'CD') ('de', 'IN') ('agosto', 'FW') ('en', 'FW') ('el', 'FW') NP VP ('de', 'IN') ('la', 'FW') NP ('estadounidense', 'FW') ('de', 'FW') NP VP ('el', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('República', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La República"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado este"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "que rechaza enérgicamente las"
+      },
+      {
+        "label": "VP",
+        "text": "recientes agresiones"
+      },
+      {
+        "label": "NP",
+        "text": "agresiones"
+      },
+      {
+        "label": "NP",
+        "text": "Administración"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump contra el"
+      },
+      {
+        "label": "VP",
+        "text": "presidente constitucional Nicolás Maduro y"
+      },
+      {
+        "label": "NP",
+        "text": "constitucional Nicolás Maduro y"
+      },
+      {
+        "label": "NP",
+        "text": "pueblo"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Zona"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP República/NNP)\n  (PP de/IN (NP Yemen/NNP))\n  emitió/CC\n  (NP un/JJ comunicado/NN este/NN)\n  (VP miércoles/VBZ)\n  20/CD\n  de/IN\n  agosto/FW\n  en/FW\n  el/FW\n  (NP que/NN rechaza/NN enérgicamente/NN las/NN)\n  (VP recientes/VBZ (NP agresiones/NNS))\n  de/IN\n  la/FW\n  (NP Administración/NNP)\n  estadounidense/FW\n  de/FW\n  (NP Donald/NNP Trump/NNP contra/NN el/NN)\n  (VP\n    presidente/VBP\n    (NP constitucional/JJ Nicolás/NNP Maduro/NNP y/NNP))\n  el/FW\n  (NP pueblo/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Zona/NNP)\n  de/FW\n  (NP Paz/NNP)\n  :/:\n  (NP América/NNP Latina/NNP y/NNP)\n  (VP\n    el/VBD\n    (NP\n      Caribe/NNP\n      frente/NN\n      al/NN\n      injerencismo/NN\n      gringo/NN\n      El/NNP\n      Equipo/NNP\n      Nacional/NNP))\n  de/FW\n  (NP Difusión/NNP Exterior/NNP)\n  (/(\n  (NP NTFO/NNP)\n  )/)\n  de/FW\n  Yemen/FW\n  emitió/FW\n  (NP\n    un/JJ\n    comunicado/NN\n    donde/NN\n    “/NNP\n    condena/NN\n    inequivocamente/NN)\n  ,/,\n  (NP con/NN la/NN mayor/NN firmeza/NN)\n  ,/,\n  (NP y/JJ rechaza/NN categóricamente/NN)\n  las/FW\n  (NP acciones/NNS hostiles/NNS)\n  (VP del/VBP (NP gobierno/NN))\n  de/FW\n  (NP Estados/NNP Unidos/NNP ”/NNP)\n  ,/,\n  en/FW\n  (ADJP particular/JJ)\n  el/FW\n  anuncio/FW\n  de/FW\n  una/FW\n  “/FW\n  recompensa/FW\n  (NP financiera/NN por/NN la/NN)\n  detención/FW\n  del/FW\n  (NP presidente/NN venezolano/NN)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  entidad/FW\n  (NP yemení/NN)\n  ,/,\n  (NP “/NNP)\n  (VP esta/VBZ (NP medida/JJ representa/NN) una/JJ flagrante/JJ)\n  violación/FW\n  de/FW\n  la/FW\n  soberanía/FW\n  (NP nacional/JJ y/NN)\n  (NP una/JJ flagrante/NN transgresión/NN del/NN)\n  (NP derecho/JJ internacional/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP texto/VBD (NP hace/NN referencia/NN al/NN anuncio/NN del/NN))\n  (VP pasado/VBD)\n  7/CD\n  de/FW\n  agosto/FW\n  de/FW\n  la/FW\n  (NP Fiscal/NNP General/NNP)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (NP Pamela/NNP Bondi/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (NP que/NN)\n  ofreció/FW\n  (NP una/JJ recompensa/NN)\n  de/IN\n  50/CD\n  (NP millones/NNS dólares/NNS)\n  (VP\n    por/VBP\n    (NP información/JJ que/NN conduzca/NN al/NN arresto/NN del/NN)\n    (NP presidente/JJ constitucional/NN))\n  (PP de/IN (NP Venezuela/NNP))\n  ./.)",
+      "(S\n  (NP Más/NNP adelante/NN)\n  ,/,\n  (NP señalan/NN que/NN dichas/NN acciones/NNS)\n  (VP reflejan/VBP la/JJ)\n  mentalidad/FW\n  hegemónica/FW\n  de/FW\n  la/FW\n  política/FW\n  exterior/FW\n  de/FW\n  la/FW\n  (NP Casa/NNP Blanca/NNP)\n  ,/,\n  (NP que/NN se/NN “/NNP arroga/NN el/NN)\n  (VP derecho/VBZ (NP a/DT interferir/NN))\n  (PP en/IN (NP los/JJ asuntos/JJ internos/NN))\n  de/IN\n  las/FW\n  (NP naciones/NNS independientes/NNS)\n  ,/,\n  en/FW\n  particular/FW\n  de/FW\n  aquellas/FW\n  que/FW\n  se/FW\n  niegan/FW\n  (NP a/DT someterse/NN)\n  (NP a/DT su/JJ agenda/NN colonialista/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CIUDADES_CAPITALES",
+      "FECHAS_HORAS",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          2260,
+          2268
+        ],
+        "start": 2260,
+        "end": 2268
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la entidad yemení, “esta medida representa una flagrante violación de la soberanía nacional y una flagrante transgresión del derecho internacional",
+        "position": [
+          672,
+          830
+        ],
+        "start": 672,
+        "end": 830
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la entidad yemení, “esta medida representa una flagrante violación de la soberanía nacional y una",
+        "position": [
+          672,
+          781
+        ],
+        "start": 672,
+        "end": 781
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "condena inequivocamente, con la mayor firmeza, y rechaza categóricamente las acciones hostiles del gobierno",
+        "position": [
+          425,
+          532
+        ],
+        "start": 425,
+        "end": 532
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "condena inequivocamente, con la mayor firmeza, y rechaza categóricamente las acciones",
+        "position": [
+          425,
+          510
+        ],
+        "start": 425,
+        "end": 510
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "soberanía nacional y una flagrante transgresión del derecho",
+        "position": [
+          757,
+          816
+        ],
+        "start": 757,
+        "end": 816
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "derecho internacional”. el texto hace referencia al anuncio del pasado 7 de agosto de la fiscal general de estados unidos, pamela bondi, en el que ofreció una recompensa de 50 millones dólares por información que conduzca al arresto del presidente constitucional",
+        "position": [
+          809,
+          1071
+        ],
+        "start": 809,
+        "end": 1071
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo marítimo y aéreo que saná ha impuesto al régimen israelí en respuesta al genocidio en la franja de gaza",
+        "position": [
+          2223,
+          2334
+        ],
+        "start": 2223,
+        "end": 2334
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "equipo nacional",
+        "position": [
+          344,
+          359
+        ],
+        "start": 344,
+        "end": 359
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          524,
+          550
+        ],
+        "start": 524,
+        "end": 550
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente constitucional nicolás",
+        "position": [
+          190,
+          223
+        ],
+        "start": 190,
+        "end": 223
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la entidad yemení, “esta medida representa una flagrante violación de la soberanía nacional y una flagrante transgresión del derecho internacional”. el texto hace referencia al anuncio del pasado 7",
+        "position": [
+          672,
+          881
+        ],
+        "start": 672,
+        "end": 881
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          536,
+          550
+        ],
+        "start": 536,
+        "end": 550
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          246,
+          255
+        ],
+        "start": 246,
+        "end": 255
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1639,
+          1645
+        ],
+        "start": 1639,
+        "end": 1645
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          303,
+          309
+        ],
+        "start": 303,
+        "end": 309
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          270,
+          277
+        ],
+        "start": 270,
+        "end": 277
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "miércoles 20 de agosto",
+        "position": [
+          48,
+          70
+        ],
+        "start": 48,
+        "end": 70
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          757,
+          775
+        ],
+        "start": 757,
+        "end": 775
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          2223,
+          2230
+        ],
+        "start": 2223,
+        "end": 2230
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "50 millones",
+        "position": [
+          982,
+          993
+        ],
+        "start": 982,
+        "end": 993
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "50 millones dólares",
+        "position": [
+          982,
+          1001
+        ],
+        "start": 982,
+        "end": 1001
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "7 de agosto de",
+        "position": [
+          880,
+          895
+        ],
+        "start": 880,
+        "end": 895
+      }
+    ],
+    "match_count": 23
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pamela Bondi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "la Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscal General de Estados Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República de Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Administración estadounidense",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República de Yemen",
+        "relacion": "EMITIR",
+        "objeto": "Administración estadounidense"
+      },
+      {
+        "sujeto": "República de Yemen",
+        "relacion": "EMITIR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "República de Yemen",
+        "relacion": "EMITIR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "República de Yemen",
+        "relacion": "EMITIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "EMITIR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "EMITIR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "RECHAZAR_EMITIR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "ESCALAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ESCALAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "ESCALAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "INTENTAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "INTENTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "IMPONER_QUEBRAR_INTENTAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.2263,
+    "pos": 0.02,
+    "neu": 0.956,
+    "neg": 0.023,
+    "label": "negative"
+  }
+}

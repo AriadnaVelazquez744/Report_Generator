@@ -1,0 +1,723 @@
+{
+  "url": "https://www.telesurtv.net/genocidio-israeli-acaba-vida-trabajadores/",
+  "title": "Genocidio israelí acaba con la vida de más de 1000 trabajadores de la salud en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "genocidio",
+    "Mil",
+    "Muertos",
+    "Palestina",
+    "salud"
+  ],
+  "text": "\nLas autoridades sanitarias de Palestina informaron este lunes que más de 1000 miembros del sector sanitario de la Franja de Gaza han perdido la vida desde el comienzo del conflicto en el año 2023.\nEl sector de la salud también sufrió el asedio de las tropas militares del régimen de Tel Aviv, pues 362 profesionales de ese sector han sido secuestrados en el mismo período y de ellos tres fueron asesinados haciendo uso de torturas.\nAdemás, como parte del genocidio israelí, 34 hospitales han sido atacados, al tiempo que varios de ellos tuvieron que cesar sus operaciones debido al estado estructural en que han quedado tras el bombardeo.\n\nAsimismo, 80 clínicas y 142 ambulancias también quedaron destruidas, mientras que 162 puntos médicos fueron incursionados por parte de las tropas ordenadas de Benjamín Netanhayu.\nAgregado a ello, las autoridades apuntan que según registros, otras 111 personas que pertenecen a las filas de la Defensa Civil de ese territorio árabe, también han muerto desde el inicio del genocidio.\n\n\nEn tanto, se subraya que 26 palestinos del cuerpo de rescate gazatí han sido también arrestados y el ejército de Tel Aviv perpetró ataques contra 15 sedes y centros perteneciente a ese sector de protección.\nPor si fuera poco, 54 vehículos de bomberos fueron blanco de los ataques, disminuyendo así la fuerza de protección ante los incendios que dejaban los bombardeos.\n\nTodo ello ocurrió en paralelo al avance del conflicto que va rumbo hacia su segundo año. En este tiempo, de acuerdo con los últimos datos registrados, más de 50.000 palestinos han perdido la vida.\nDe ellos, la mayoría son mujeres y niños, mientras que se estima que más de 10.000 se encuentran bajo los escombros, lo que aumenta el número de mártires.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/genocidio-israeli-acaba-vida-trabajadores/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 4,
+    "message_id": 90727,
+    "date": "2025-03-31T22:55:18+00:00",
+    "text": "teleSUR\nGenocidio israelí acaba con la vida de más de 1000 trabajadores de la salud en Gaza\nhttps://www.telesurtv.net/genocidio-israeli-acaba-vida-trabajadores/",
+    "photo_path": null,
+    "views": 2095,
+    "reactions": {
+      "😢": 35,
+      "🤬": 29,
+      "👍": 1,
+      "😈": 1
+    },
+    "total_reactions": 66
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades sanitarias de palestina informaron este lunes que más de 1000 miembros del sector sanitario de la franja de gaza han perdido la vida desde el comienzo del conflicto en el año 2023. el sector de la salud también sufrió el asedio de las tropas militares del régimen de tel aviv, pues 362 profesionales de ese sector han sido secuestrados en el mismo período y de ellos tres fueron asesinados haciendo uso de torturas. además, como parte del genocidio israelí, 34 hospitales han sido atacados, al tiempo que varios de ellos tuvieron que cesar sus operaciones debido al estado estructural en que han quedado tras el bombardeo. asimismo, 80 clínicas y 142 ambulancias también quedaron destruidas, mientras que 162 puntos médicos fueron incursionados por parte de las tropas ordenadas de benjamín netanhayu. agregado a ello, las autoridades apuntan que según registros, otras 111 personas que pertenecen a las filas de la defensa civil de ese territorio árabe, también han muerto desde el inicio del genocidio. en tanto, se subraya que 26 palestinos del cuerpo de rescate gazatí han sido también arrestados y el ejército de tel aviv perpetró ataques contra 15 sedes y centros perteneciente a ese sector de protección. por si fuera poco, 54 vehículos de bomberos fueron blanco de los ataques, disminuyendo así la fuerza de protección ante los incendios que dejaban los bombardeos. todo ello ocurrió en paralelo al avance del conflicto que va rumbo hacia su segundo año. en este tiempo, de acuerdo con los últimos datos registrados, más de 50.000 palestinos han perdido la vida. de ellos, la mayoría son mujeres y niños, mientras que se estima que más de 10.000 se encuentran bajo los escombros, lo que aumenta el número de mártires.",
+    "tokens": [
+      "autoridades",
+      "sanitarias",
+      "palestina",
+      "informaron",
+      "lunes",
+      "1000",
+      "miembros",
+      "sector",
+      "sanitario",
+      "franja",
+      "gaza",
+      "perdido",
+      "vida",
+      "comienzo",
+      "conflicto",
+      "año",
+      "2023.",
+      "sector",
+      "salud",
+      "sufrió",
+      "asedio",
+      "tropas",
+      "militares",
+      "régimen",
+      "tel",
+      "aviv",
+      ",",
+      "pues",
+      "362",
+      "profesionales",
+      "sector",
+      "sido",
+      "secuestrados",
+      "mismo",
+      "período",
+      "tres",
+      "asesinados",
+      "haciendo",
+      "uso",
+      "torturas",
+      ".",
+      "además",
+      ",",
+      "parte",
+      "genocidio",
+      "israelí",
+      ",",
+      "34",
+      "hospitales",
+      "sido",
+      "atacados",
+      ",",
+      "tiempo",
+      "varios",
+      "cesar",
+      "operaciones",
+      "debido",
+      "estructural",
+      "quedado",
+      "tras",
+      "bombardeo",
+      ".",
+      "asimismo",
+      ",",
+      "80",
+      "clínicas",
+      "142",
+      "ambulancias",
+      "quedaron",
+      "destruidas",
+      ",",
+      "mientras",
+      "162",
+      "puntos",
+      "médicos",
+      "incursionados",
+      "parte",
+      "tropas",
+      "ordenadas",
+      "benjamín",
+      "netanhayu",
+      ".",
+      "agregado",
+      "ello",
+      ",",
+      "autoridades",
+      "apuntan",
+      "según",
+      "registros",
+      ",",
+      "111",
+      "personas",
+      "pertenecen",
+      "filas",
+      "defensa",
+      "civil",
+      "territorio",
+      "árabe",
+      ",",
+      "muerto",
+      "inicio",
+      "genocidio",
+      ".",
+      ",",
+      "subraya",
+      "26",
+      "palestinos",
+      "cuerpo",
+      "rescate",
+      "gazatí",
+      "sido",
+      "arrestados",
+      "ejército",
+      "tel",
+      "aviv",
+      "perpetró",
+      "ataques",
+      "15",
+      "sedes",
+      "centros",
+      "perteneciente",
+      "sector",
+      "protección",
+      ".",
+      "si",
+      ",",
+      "54",
+      "vehículos",
+      "bomberos",
+      "blanco",
+      "ataques",
+      ",",
+      "disminuyendo",
+      "así",
+      "fuerza",
+      "protección",
+      "incendios",
+      "dejaban",
+      "bombardeos",
+      ".",
+      "ello",
+      "ocurrió",
+      "paralelo",
+      "avance",
+      "conflicto",
+      "va",
+      "rumbo",
+      "hacia",
+      "segundo",
+      "año",
+      ".",
+      "tiempo",
+      ",",
+      "acuerdo",
+      "últimos",
+      "datos",
+      "registrados",
+      ",",
+      "50.000",
+      "palestinos",
+      "perdido",
+      "vida",
+      ".",
+      ",",
+      "mayoría",
+      "mujeres",
+      "niños",
+      ",",
+      "mientras",
+      "estima",
+      "10.000",
+      "encuentran",
+      "bajo",
+      "escombros",
+      ",",
+      "aumenta",
+      "número",
+      "mártires",
+      "."
+    ],
+    "token_count": 179,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "VBZ": 4,
+      "FW": 55,
+      "NN": 105,
+      "NNS": 24,
+      "JJ": 27,
+      "IN": 15,
+      "CD": 13,
+      "VBP": 15
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 4,
+      "VBZ-FW": 1,
+      "FW-FW": 29,
+      "FW-NNP": 10,
+      "NNP-NN": 10,
+      "NN-NN": 65,
+      "NN-NNS": 8,
+      "NNS-JJ": 6,
+      "JJ-FW": 6,
+      "FW-IN": 1,
+      "IN-CD": 3,
+      "CD-NNS": 7,
+      "NNS-VBP": 12,
+      "VBP-NN": 2,
+      "NN-IN": 10,
+      "IN-FW": 8,
+      "NNP-FW": 2,
+      "NN-FW": 7,
+      "FW-NN": 11,
+      "NN-CD": 5,
+      "CD-NNP": 1,
+      "VBP-NNS": 2,
+      "NNS-FW": 2,
+      "NNP-NNP": 5,
+      "VBZ-CD": 1,
+      "NNS-IN": 3,
+      "IN-JJ": 3,
+      "JJ-NN": 13,
+      "NN-JJ": 3,
+      "FW-NNS": 3,
+      "VBP-JJ": 8,
+      "JJ-NNS": 2,
+      "JJ-JJ": 4,
+      "NN-NNP": 6,
+      "NNP-CD": 1,
+      "CD-NN": 4,
+      "VBP-CD": 3,
+      "FW-JJ": 1,
+      "VBZ-NNS": 1,
+      "NN-VBP": 1,
+      "NNP-IN": 1,
+      "CD-JJ": 1,
+      "JJ-VBP": 2,
+      "VBZ-JJ": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 4,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNS": 2,
+      "CD-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 7,
+      "IN-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NN-NN-NN": 39,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 19,
+      "FW-NN-NNS": 3,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-JJ": 2,
+      "IN-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 5,
+      "NN-NN-CD": 3,
+      "NN-CD-NNS": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NNS-VBP-CD": 2,
+      "VBP-CD-NNS": 3,
+      "CD-NNS-JJ": 4,
+      "NNS-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-NNP": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-CD": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NN-NN-NNP": 4,
+      "NN-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-JJ-VBP": 2,
+      "JJ-VBP-JJ": 2,
+      "CD-NN-FW": 1,
+      "VBP-JJ-FW": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "NN-IN-CD": 2,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "VBP-NNS-JJ": 1,
+      "IN-CD-NN": 1,
+      "NN-IN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 105,
+        "FW": 55,
+        "JJ": 27,
+        "NNS": 24,
+        "NNP": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 65,
+        "FW-FW": 29,
+        "JJ-NN": 13,
+        "NNS-VBP": 12,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 39,
+        "FW-FW-FW": 19,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 8,
+        "NN-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 17,
+      "ADJP": 6,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0367
+      },
+      {
+        "rule": "ADJP -> ('que', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "S -> NP VP ('sanitarias', 'FW') ('de', 'FW') NP ADJP ('más', 'FW') ('de', 'IN') ('1000', 'CD') NP VP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('vida', 'FW') NP ('del', 'FW') NP ('en', 'FW') ('el', 'FW') NP ('2023', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Palestina', 'NNP') ('informaron', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('miembros', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0092
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Palestina informaron este lunes"
+      },
+      {
+        "label": "ADJP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "miembros"
+      },
+      {
+        "label": "VP",
+        "text": "del sector sanitario"
+      },
+      {
+        "label": "NP",
+        "text": "sector sanitario"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza han perdido la"
+      },
+      {
+        "label": "NP",
+        "text": "desde el comienzo"
+      },
+      {
+        "label": "NP",
+        "text": "conflicto"
+      },
+      {
+        "label": "NP",
+        "text": "año"
+      },
+      {
+        "label": "NP",
+        "text": "El sector"
+      },
+      {
+        "label": "NP",
+        "text": "tropas militares"
+      },
+      {
+        "label": "VP",
+        "text": "del régimen"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  sanitarias/FW\n  de/FW\n  (NP Palestina/NNP informaron/NN este/NN lunes/NNS)\n  (ADJP que/JJ)\n  más/FW\n  de/IN\n  1000/CD\n  (NP miembros/NNS)\n  (VP del/VBP (NP sector/NN sanitario/NN))\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP han/NN perdido/NN la/NN)\n  vida/FW\n  (NP desde/NN el/NN comienzo/NN)\n  del/FW\n  (NP conflicto/NN)\n  en/FW\n  el/FW\n  (NP año/NN)\n  2023/CD\n  ./.)",
+      "(S\n  (NP El/NNP sector/NN)\n  de/IN\n  la/FW\n  salud/FW\n  también/FW\n  sufrió/FW\n  el/FW\n  asedio/FW\n  de/FW\n  las/FW\n  (NP tropas/NN militares/NNS)\n  (VP del/VBP (NP régimen/NNS))\n  de/FW\n  (NP Tel/NNP Aviv/NNP)\n  ,/,\n  (VP pues/VBZ)\n  362/CD\n  (NP profesionales/NNS)\n  (PP de/IN (NP ese/JJ sector/NN han/NN))\n  (NP sido/JJ secuestrados/NN)\n  en/IN\n  el/FW\n  mismo/FW\n  período/FW\n  y/FW\n  de/FW\n  ellos/FW\n  (NP tres/NNS)\n  (VP fueron/VBP (NP asesinados/JJ haciendo/NN uso/NN))\n  (PP de/IN (NP torturas/NNS))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP como/NN parte/NN del/NN genocidio/NN israelí/NN)\n  ,/,\n  34/CD\n  (NP hospitales/NNS)\n  (VP han/VBP (NP sido/JJ atacados/NN))\n  ,/,\n  (NP al/JJ tiempo/NN)\n  (NP que/JJ varios/NNS)\n  de/IN\n  ellos/FW\n  (NP tuvieron/NN que/NN cesar/NN sus/NN operaciones/NNS)\n  (VP\n    debido/VBP\n    (NP\n      al/JJ\n      estado/JJ\n      estructural/JJ\n      en/NN\n      que/NN\n      han/NN\n      quedado/NN\n      tras/NNS))\n  (VP el/VBP (NP bombardeo/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  80/CD\n  (NP clínicas/NN y/NN)\n  142/CD\n  (NP ambulancias/NN también/NN quedaron/NN destruidas/NN)\n  ,/,\n  mientras/FW\n  que/RB\n  162/CD\n  (NP puntos/NNS)\n  (NP médicos/JJ fueron/NN incursionados/NN por/NN parte/NN)\n  de/IN\n  las/FW\n  (ADJP tropas/JJ)\n  ordenadas/FW\n  de/FW\n  (NP Benjamín/NNP Netanhayu/NNP)\n  ./.)",
+      "(S\n  (NP Agregado/NNP)\n  (NP a/DT ello/NN)\n  ,/,\n  las/FW\n  (NP autoridades/NNS)\n  (VP apuntan/VBP (NP que/JJ según/NN registros/NN))\n  ,/,\n  otras/FW\n  111/CD\n  (NP personas/NNS)\n  (ADJP que/JJ)\n  (VP pertenecen/VBP (NP a/DT las/JJ filas/NN))\n  de/IN\n  la/FW\n  (NP Defensa/NNP Civil/NNP)\n  (PP de/IN (NP ese/JJ territorio/NN árabe/NNP))\n  ,/,\n  (NP\n    también/NN\n    han/NN\n    muerto/NN\n    desde/NN\n    el/NN\n    inicio/NN\n    del/NN\n    genocidio/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "FECHAS_HORAS",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en el",
+        "position": [
+          172,
+          187
+        ],
+        "start": 172,
+        "end": 187
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          934,
+          941
+        ],
+        "start": 934,
+        "end": 941
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1617,
+          1624
+        ],
+        "start": 1617,
+        "end": 1624
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con los últimos datos registrados, más de 50",
+        "position": [
+          1503,
+          1555
+        ],
+        "start": 1503,
+        "end": 1555
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          31,
+          40
+        ],
+        "start": 31,
+        "end": 40
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado estructural",
+        "position": [
+          583,
+          601
+        ],
+        "start": 583,
+        "end": 601
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2023",
+        "position": [
+          188,
+          196
+        ],
+        "start": 188,
+        "end": 196
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el año",
+        "position": [
+          182,
+          191
+        ],
+        "start": 182,
+        "end": 191
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "111 personas",
+        "position": [
+          888,
+          900
+        ],
+        "start": 888,
+        "end": 900
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50.000",
+        "position": [
+          1546,
+          1559
+        ],
+        "start": 1546,
+        "end": 1559
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1000 miembros",
+        "position": [
+          74,
+          87
+        ],
+        "start": 74,
+        "end": 87
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10.000",
+        "position": [
+          1661,
+          1674
+        ],
+        "start": 1661,
+        "end": 1674
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "en el año 2023",
+        "position": [
+          182,
+          196
+        ],
+        "start": 182,
+        "end": 196
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Defensa Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanhayu",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Palestina",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

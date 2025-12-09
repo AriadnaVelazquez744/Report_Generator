@@ -1,0 +1,787 @@
+{
+  "url": "https://www.telesurtv.net/mas-de-600-camiones-de-ayuda-humanitaria-entraron-a-la-franja-de-gaza/",
+  "title": "Más de 600 camiones de ayuda humanitaria entraron a la Franja de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ayuda Humanitaria",
+    "Crisis humanitaria",
+    "Egipto",
+    "Franja de Gaza",
+    "ONU",
+    "Urnwa"
+  ],
+  "text": "Más de 600 camiones de ayuda humanitaria y cargados con combustible recorrieron el trayecto desde Egipto a la Franja de Gaza entre el domingo 19 y el lunes 20 de enero para llegar al enclave palestino, según informaron fuentes oficiales.\n“El número de camiones de ayuda que han entrado hasta ahora por los pasos fronterizos de Al Auya y Kerem Shalom son 205 camiones de ayuda humanitaria, además de cuatro camiones con diésel y cuatro camiones de gas”, subrayó el centro de medios egipcio en una nota.\nDurante el primer día de la tregua, se introdujeron en Gaza un total de 630 camiones con asistencia humanitaria, la mitad de ellos hacia el norte del territorio, según informó Tom Fletcher, subsecretario general de la ONU para Asuntos Humanitarios y coordinador de emergencias.\nPara el fin del día de este lunes se prevé la entrada de igual número de camiones, según dicta el acuerdo de alto el fuego, luego que Israel haya estado obstaculizando el tránsito de camiones durante meses con numerosas barreras logísticas y ataques directos a las brigadas humanitarias.\nPor otra parte, Fletcher reconoció que la implementación de asistencia humanitaria se topa con grandes desafíos logísticos, siendo los más significativos los montones de escombros y los artefactos sin explotar dispersos por Gaza; por dicha razón, se ve como prioritaria la protección de los trabajadores humanitarios que proporcionarán la ayuda.\nSegún fuentes egipcias, la mayoría de los camiones de ayuda están cargados con alimentos imperecederos como arroz, legumbres, pasta y aceite, además de bidones con agua, artículos como mantas y edredones, así como material de higiene y combustible.\nEl pacto de alto el fuego prevé que aproximadamente 600 camiones de ayuda serán enviados diariamente a Gaza cada día, incluyendo 50 con combustible.\nDe igual manera, se prevé que la mitad de esos camiones se dirijan al norte de Gaza, la región del territorio palestino más impactada por el conflicto bélico con Israel.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mas-de-600-camiones-de-ayuda-humanitaria-entraron-a-la-franja-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 907,
+    "message_id": 84880,
+    "date": "2025-01-20T11:55:07+00:00",
+    "text": "teleSUR\nMás de 600 camiones de ayuda humanitaria entraron a la Franja de Gaza\nhttps://www.telesurtv.net/mas-de-600-camiones-de-ayuda-humanitaria-entraron-a-la-franja-de-gaza/",
+    "photo_path": null,
+    "views": 2508,
+    "reactions": {
+      "👍": 49,
+      "🙏": 18
+    },
+    "total_reactions": 67
+  },
+  "preprocessing": {
+    "cleaned": "más de 600 camiones de ayuda humanitaria y cargados con combustible recorrieron el trayecto desde egipto a la franja de gaza entre el domingo 19 y el lunes 20 de enero para llegar al enclave palestino, según informaron fuentes oficiales. “el número de camiones de ayuda que han entrado hasta ahora por los pasos fronterizos de al auya y kerem shalom son 205 camiones de ayuda humanitaria, además de cuatro camiones con diésel y cuatro camiones de gas”, subrayó el centro de medios egipcio en una nota. durante el primer día de la tregua, se introdujeron en gaza un total de 630 camiones con asistencia humanitaria, la mitad de ellos hacia el norte del territorio, según informó tom fletcher, subsecretario general de la onu para asuntos humanitarios y coordinador de emergencias. para el fin del día de este lunes se prevé la entrada de igual número de camiones, según dicta el acuerdo de alto el fuego, luego que israel haya estado obstaculizando el tránsito de camiones durante meses con numerosas barreras logísticas y ataques directos a las brigadas humanitarias. por otra parte, fletcher reconoció que la implementación de asistencia humanitaria se topa con grandes desafíos logísticos, siendo los más significativos los montones de escombros y los artefactos sin explotar dispersos por gaza; por dicha razón, se ve como prioritaria la protección de los trabajadores humanitarios que proporcionarán la ayuda. según fuentes egipcias, la mayoría de los camiones de ayuda están cargados con alimentos imperecederos como arroz, legumbres, pasta y aceite, además de bidones con agua, artículos como mantas y edredones, así como material de higiene y combustible. el pacto de alto el fuego prevé que aproximadamente 600 camiones de ayuda serán enviados diariamente a gaza cada día, incluyendo 50 con combustible. de igual manera, se prevé que la mitad de esos camiones se dirijan al norte de gaza, la región del territorio palestino más impactada por el conflicto bélico con israel.",
+    "tokens": [
+      "600",
+      "camiones",
+      "ayuda",
+      "humanitaria",
+      "cargados",
+      "combustible",
+      "recorrieron",
+      "trayecto",
+      "egipto",
+      "franja",
+      "gaza",
+      "domingo",
+      "19",
+      "lunes",
+      "20",
+      "enero",
+      "llegar",
+      "enclave",
+      "palestino",
+      ",",
+      "según",
+      "informaron",
+      "fuentes",
+      "oficiales",
+      ".",
+      "“",
+      "número",
+      "camiones",
+      "ayuda",
+      "entrado",
+      "ahora",
+      "pasos",
+      "fronterizos",
+      "auya",
+      "kerem",
+      "shalom",
+      "205",
+      "camiones",
+      "ayuda",
+      "humanitaria",
+      ",",
+      "además",
+      "cuatro",
+      "camiones",
+      "diésel",
+      "cuatro",
+      "camiones",
+      "gas",
+      "”",
+      ",",
+      "subrayó",
+      "centro",
+      "medios",
+      "egipcio",
+      "nota",
+      ".",
+      "primer",
+      "día",
+      "tregua",
+      ",",
+      "introdujeron",
+      "gaza",
+      "total",
+      "630",
+      "camiones",
+      "asistencia",
+      "humanitaria",
+      ",",
+      "mitad",
+      "hacia",
+      "norte",
+      "territorio",
+      ",",
+      "según",
+      "informó",
+      "tom",
+      "fletcher",
+      ",",
+      "subsecretario",
+      "general",
+      "onu",
+      "asuntos",
+      "humanitarios",
+      "coordinador",
+      "emergencias",
+      ".",
+      "fin",
+      "día",
+      "lunes",
+      "prevé",
+      "entrada",
+      "igual",
+      "número",
+      "camiones",
+      ",",
+      "según",
+      "dicta",
+      "acuerdo",
+      "alto",
+      "fuego",
+      ",",
+      "luego",
+      "israel",
+      "obstaculizando",
+      "tránsito",
+      "camiones",
+      "meses",
+      "numerosas",
+      "barreras",
+      "logísticas",
+      "ataques",
+      "directos",
+      "brigadas",
+      "humanitarias",
+      ".",
+      "parte",
+      ",",
+      "fletcher",
+      "reconoció",
+      "implementación",
+      "asistencia",
+      "humanitaria",
+      "topa",
+      "grandes",
+      "desafíos",
+      "logísticos",
+      ",",
+      "siendo",
+      "significativos",
+      "montones",
+      "escombros",
+      "artefactos",
+      "explotar",
+      "dispersos",
+      "gaza",
+      ";",
+      "dicha",
+      "razón",
+      ",",
+      "ve",
+      "prioritaria",
+      "protección",
+      "trabajadores",
+      "humanitarios",
+      "proporcionarán",
+      "ayuda",
+      ".",
+      "según",
+      "fuentes",
+      "egipcias",
+      ",",
+      "mayoría",
+      "camiones",
+      "ayuda",
+      "cargados",
+      "alimentos",
+      "imperecederos",
+      "arroz",
+      ",",
+      "legumbres",
+      ",",
+      "pasta",
+      "aceite",
+      ",",
+      "además",
+      "bidones",
+      "agua",
+      ",",
+      "artículos",
+      "mantas",
+      "edredones",
+      ",",
+      "así",
+      "material",
+      "higiene",
+      "combustible",
+      ".",
+      "pacto",
+      "alto",
+      "fuego",
+      "prevé",
+      "aproximadamente",
+      "600",
+      "camiones",
+      "ayuda",
+      "enviados",
+      "diariamente",
+      "gaza",
+      "cada",
+      "día",
+      ",",
+      "incluyendo",
+      "50",
+      "combustible",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "prevé",
+      "mitad",
+      "camiones",
+      "dirijan",
+      "norte",
+      "gaza",
+      ",",
+      "región",
+      "territorio",
+      "palestino",
+      "impactada",
+      "conflicto",
+      "bélico",
+      "israel",
+      "."
+    ],
+    "token_count": 213,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "FW": 73,
+      "CD": 7,
+      "NNS": 26,
+      "VBP": 13,
+      "NN": 107,
+      "JJ": 29,
+      "IN": 18,
+      "CC": 1,
+      "VBZ": 5,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 4,
+      "FW-CD": 1,
+      "CD-NNS": 4,
+      "NNS-FW": 5,
+      "FW-FW": 43,
+      "FW-NNS": 7,
+      "NNS-VBP": 12,
+      "VBP-NN": 3,
+      "NN-JJ": 6,
+      "JJ-NN": 17,
+      "NN-NN": 59,
+      "NN-NNP": 8,
+      "NNP-NNP": 7,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-CD": 3,
+      "CD-NN": 2,
+      "NN-NNS": 4,
+      "NNS-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 8,
+      "FW-NN": 14,
+      "NN-VBP": 1,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 1,
+      "NN-IN": 13,
+      "NNP-NN": 9,
+      "VBP-JJ": 9,
+      "JJ-JJ": 4,
+      "JJ-NNS": 4,
+      "NNS-IN": 3,
+      "IN-NN": 3,
+      "NN-FW": 10,
+      "FW-JJ": 2,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "FW-NNP": 6,
+      "NNP-JJ": 2,
+      "IN-CD": 1,
+      "NNS-JJ": 2,
+      "JJ-FW": 2,
+      "IN-NNS": 3,
+      "NNS-NNS": 2,
+      "VBP-NNS": 1,
+      "VBZ-FW": 1,
+      "JJ-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 3,
+      "NNS-FW-FW": 4,
+      "FW-FW-NNS": 7,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 35,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 9,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NN": 8,
+      "NN-NN-JJ": 3,
+      "JJ-NN-IN": 7,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "FW-NNS-FW": 2,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 6,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-FW-FW": 6,
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-IN-NNS": 3,
+      "IN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NN": 5,
+      "NN-NNP-NN": 2,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NN-NNS": 1,
+      "NN-JJ-NNS": 1,
+      "NNS-IN-FW": 2,
+      "IN-NNP-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "FW-NNS-IN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NN-NN-CD": 1,
+      "CD-NN-JJ": 1,
+      "JJ-NNP-JJ": 1,
+      "NNS-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 107,
+        "FW": 73,
+        "JJ": 29,
+        "NNP": 28,
+        "NNS": 26
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 43,
+        "JJ-NN": 17,
+        "FW-NN": 14,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 23,
+        "FW-NN-NN": 9,
+        "NNS-VBP-JJ": 9,
+        "FW-FW-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 85,
+      "VP": 17,
+      "PP": 7,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('camiones', 'NNS')",
+        "frequency": 9,
+        "weight": 0.075
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0583
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('humanitaria', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('600', 'CD') NP ('de', 'FW') ('ayuda', 'FW') NP VP PP ('entre', 'CC') NP ('19', 'CD') NP VP ('20', 'CD') NP ('enero', 'FW') NP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Más', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP NP NP",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('cargados', 'JJ') ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('combustible', 'JJ') ('recorrieron', 'NN') ('el', 'NN') ('trayecto', 'NN') ('desde', 'NN') ('Egipto', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('Franja', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Más"
+      },
+      {
+        "label": "NP",
+        "text": "camiones"
+      },
+      {
+        "label": "NP",
+        "text": "humanitaria"
+      },
+      {
+        "label": "VP",
+        "text": "y cargados con combustible recorrieron el trayecto desde Egipto a la Franja"
+      },
+      {
+        "label": "NP",
+        "text": "cargados con"
+      },
+      {
+        "label": "NP",
+        "text": "combustible recorrieron el trayecto desde Egipto"
+      },
+      {
+        "label": "NP",
+        "text": "a la Franja"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "el domingo"
+      },
+      {
+        "label": "NP",
+        "text": "y el"
+      },
+      {
+        "label": "VP",
+        "text": "lunes"
+      },
+      {
+        "label": "NP",
+        "text": "de"
+      },
+      {
+        "label": "NP",
+        "text": "para llegar al"
+      },
+      {
+        "label": "VP",
+        "text": "enclave palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Más/NNP)\n  de/FW\n  600/CD\n  (NP camiones/NNS)\n  de/FW\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (VP\n    y/VBP\n    (NP cargados/JJ con/NN)\n    (NP\n      combustible/JJ\n      recorrieron/NN\n      el/NN\n      trayecto/NN\n      desde/NN\n      Egipto/NNP)\n    (NP a/DT la/NN Franja/NNP))\n  (PP de/IN (NP Gaza/NNP))\n  entre/CC\n  (NP el/JJ domingo/NN)\n  19/CD\n  (NP y/NN el/NN)\n  (VP lunes/VBZ)\n  20/CD\n  (NP de/NN)\n  enero/FW\n  (NP para/NN llegar/NN al/NN)\n  (VP enclave/VBP (NP palestino/NN))\n  ,/,\n  (NP según/JJ informaron/NN fuentes/NNS oficiales/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP número/NN)\n  de/FW\n  camiones/FW\n  de/FW\n  ayuda/FW\n  (NP que/NN han/NN entrado/NN hasta/NN ahora/NN por/NN los/NN)\n  (NP pasos/JJ fronterizos/NN)\n  (PP de/IN (NP Al/NNP Auya/NNP y/NNP Kerem/NNP Shalom/NNP son/NN))\n  205/CD\n  (NP camiones/NNS)\n  de/FW\n  ayuda/FW\n  (NP humanitaria/NNS)\n  ,/,\n  además/FW\n  de/FW\n  cuatro/FW\n  (NP camiones/NNS)\n  (VP con/VBP diésel/JJ)\n  y/FW\n  (NP cuatro/JJ camiones/NNS)\n  (PP de/IN (NP gas/NN ”/NN))\n  ,/,\n  (ADJP subrayó/JJ)\n  el/FW\n  (NP centro/NN)\n  de/IN\n  medios/FW\n  egipcio/FW\n  en/FW\n  (NP una/JJ nota/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  el/CC\n  (NP primer/JJ día/NN)\n  de/IN\n  la/FW\n  (NP tregua/NN)\n  ,/,\n  se/FW\n  (NP introdujeron/NN)\n  en/FW\n  (NP Gaza/NNP)\n  (NP un/JJ total/NN)\n  de/IN\n  630/CD\n  (NP camiones/NNS)\n  (NP con/JJ asistencia/JJ humanitaria/NN)\n  ,/,\n  la/FW\n  mitad/FW\n  de/FW\n  ellos/FW\n  (NP hacia/NN el/NN)\n  (NP norte/JJ del/NN territorio/NN)\n  ,/,\n  (NP según/JJ informó/NN Tom/NNP Fletcher/NNP)\n  ,/,\n  (NP subsecretario/NN)\n  (ADJP general/JJ)\n  de/FW\n  la/FW\n  (NP\n    ONU/NNP\n    para/NN\n    Asuntos/NNP\n    Humanitarios/NNP\n    y/NNP\n    coordinador/NN)\n  de/IN\n  emergencias/FW\n  ./.)",
+      "(S\n  (NP Para/NNP)\n  el/CC\n  (NP fin/JJ del/NN día/NN)\n  (PP de/IN (NP este/NN lunes/NNS))\n  (VP se/VBP prevé/JJ)\n  la/FW\n  entrada/FW\n  de/FW\n  (NP igual/JJ número/NN)\n  (PP de/IN (NP camiones/NNS))\n  ,/,\n  (NP según/JJ dicta/NN el/NN acuerdo/NN)\n  de/IN\n  alto/FW\n  el/FW\n  (NP fuego/NN)\n  ,/,\n  (NP\n    luego/NN\n    que/NN\n    Israel/NNP\n    haya/NN\n    estado/NN\n    obstaculizando/NN\n    el/NN\n    tránsito/NN)\n  (PP de/IN (NP camiones/NNS))\n  (NP durante/JJ meses/NNS)\n  (VP con/VBP (NP numerosas/JJ barreras/NNS))\n  (VP logísticas/VBP y/RB (NP ataques/NNS))\n  (VP directos/VBP (NP a/DT las/JJ brigadas/NN humanitarias/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  (NP Fletcher/NNP reconoció/NN que/NN)\n  la/FW\n  implementación/FW\n  de/FW\n  asistencia/FW\n  humanitaria/FW\n  se/FW\n  topa/FW\n  (NP con/NN grandes/NNS)\n  (VP desafíos/VBP (NP logísticos/NN))\n  ,/,\n  (NP siendo/JJ los/NN más/NN significativos/NN)\n  (NP los/JJ montones/NNS)\n  de/IN\n  escombros/FW\n  y/FW\n  los/FW\n  (NP artefactos/NNS)\n  (VP sin/VBP (NP explotar/NN dispersos/NN) (NP por/JJ Gaza/NNP))\n  ;/:\n  por/CC\n  (VP dicha/VB (NP razón/NN))\n  ,/,\n  se/FW\n  ve/FW\n  (NP como/NN prioritaria/NN)\n  la/FW\n  protección/FW\n  de/FW\n  los/FW\n  (NP trabajadores/NNS)\n  (VP humanitarios/VBP (NP que/JJ proporcionarán/NN la/NN ayuda/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "APROBACION_RECHAZO",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo de alto el fuego, luego que israel haya estado obstaculizando el tránsito de camiones durante meses con numerosas barreras logísticas y ataques",
+        "position": [
+          878,
+          1029
+        ],
+        "start": 878,
+        "end": 1029
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          670,
+          677
+        ],
+        "start": 670,
+        "end": 677
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          23,
+          40
+        ],
+        "start": 23,
+        "end": 40
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          720,
+          723
+        ],
+        "start": 720,
+        "end": 723
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          453,
+          460
+        ],
+        "start": 453,
+        "end": 460
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1578,
+          1582
+        ],
+        "start": 1578,
+        "end": 1582
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado obstaculizando",
+        "position": [
+          926,
+          947
+        ],
+        "start": 926,
+        "end": 947
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          464,
+          473
+        ],
+        "start": 464,
+        "end": 473
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 20 de enero",
+        "position": [
+          150,
+          167
+        ],
+        "start": 150,
+        "end": 167
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 600",
+        "position": [
+          0,
+          10
+        ],
+        "start": 0,
+        "end": 10
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 600",
+        "position": [
+          1699,
+          1718
+        ],
+        "start": 1699,
+        "end": 1718
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Auya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tom Fletcher",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fletcher",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kerem Shalom",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Egipto",
+        "relacion": "RECORRER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Tom Fletcher",
+        "relacion": "INTRODUCIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "INTRODUCIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Fletcher",
+        "relacion": "RECONOCER",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.988,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "url": "https://www.telesurtv.net/accidentes-embarcaciones-193-muertos-rd-congo/",
+  "title": "Dos accidentes de embarcaciones dejan al menos 193 muertos en RD del Congo",
+  "section": "Mundo",
+  "tags": [
+    "Accidentes",
+    "barcos",
+    "Congo",
+    "Muertos"
+  ],
+  "text": "Dos accidentes náuticos en la provincia de Ecuador, al noroeste de la República Democrática del Congo, causaron al menos 193 fallecidos y un número indeterminado de desaparecidos en el transcurso de esta semana.\n\nEl primer accidente tuvo lugar el pasado miércoles 10 de septiembre en el territorio de Basankusu, a unos 150 kilómetros del territorio de Lukolela. Un barco motorizado volcó, causando la muerte de al menos 86 personas, en su mayoría estudiantes, según medios estatales.\nLos reportes no precisaron el número de desaparecidos en este accidente, pero los medios estatales atribuyeron el naufragio del miércoles a una “carga inadecuada y navegación nocturna”, según informes desde el lugar.\n\n\nEl segundo accidente ocurrió el jueves por la noche en el territorio de Lukolela, de la misma provincia, cuando un barco con casi 500 pasajeros se incendió y volcó en el río Congo, cerca de la aldea de Malange.\nRespecto al suceso, el Ministerio de Asuntos Humanitarios de la República Democrática del Congo reportó 107 muertes y 209 sobrevivientes rescatados, mientras que un memorando del Ministerio de Asuntos Sociales indicó que 146 personas permanecen desaparecidas tras el naufragio.\nNo se establecieron de inmediato las causas exactas de ambos accidentes, ni se confirmó si las operaciones de rescate continuaban el viernes por la noche.\nAsimismo, un grupo de la sociedad civil local responsabilizó al Gobierno por el naufragio del miércoles y afirmó que el número de víctimas fue mayor al reportado.\nTras los incidentes, se iniciaron operaciones de búsqueda con participación de personal naval y voluntarios de la comunidad, quienes recorrieron las orillas del río Congo.\nLas autoridades prometieron atención médica para los heridos, asistencia a las familias afectadas y la repatriación de los sobrevivientes a sus lugares de origen o destino.\nEl transporte fluvial en la República Democrática del Congo es esencial debido a la escasez de carreteras transitables, pero los barcos suelen viajar sobrecargados y con pocos chalecos salvavidas.\nLa navegación nocturna, común en estas rutas, complica las operaciones de rescate, dejando a menudo cuerpos desaparecidos. Las operaciones de búsqueda enfrentan limitaciones por recursos escasos y la ubicación remota de los accidentes, lo que agrava las consecuencias de estas tragedias.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/accidentes-embarcaciones-193-muertos-rd-congo/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 194,
+    "message_id": 104487,
+    "date": "2025-09-13T02:55:13+00:00",
+    "text": "teleSUR\nDos accidentes de embarcaciones dejan al menos 193 muertos en RDC\nhttps://www.telesurtv.net/accidentes-embarcaciones-193-muertos-rd-congo/",
+    "photo_path": null,
+    "views": 2143,
+    "reactions": {
+      "😢": 36,
+      "😱": 8
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "dos accidentes náuticos en la provincia de ecuador, al noroeste de la república democrática del congo, causaron al menos 193 fallecidos y un número indeterminado de desaparecidos en el transcurso de esta semana. el primer accidente tuvo lugar el pasado miércoles 10 de septiembre en el territorio de basankusu, a unos 150 kilómetros del territorio de lukolela. un barco motorizado volcó, causando la muerte de al menos 86 personas, en su mayoría estudiantes, según medios estatales. los reportes no precisaron el número de desaparecidos en este accidente, pero los medios estatales atribuyeron el naufragio del miércoles a una “carga inadecuada y navegación nocturna”, según informes desde el lugar. el segundo accidente ocurrió el jueves por la noche en el territorio de lukolela, de la misma provincia, cuando un barco con casi 500 pasajeros se incendió y volcó en el río congo, cerca de la aldea de malange. respecto al suceso, el ministerio de asuntos humanitarios de la república democrática del congo reportó 107 muertes y 209 sobrevivientes rescatados, mientras que un memorando del ministerio de asuntos sociales indicó que 146 personas permanecen desaparecidas tras el naufragio. no se establecieron de inmediato las causas exactas de ambos accidentes, ni se confirmó si las operaciones de rescate continuaban el viernes por la noche. asimismo, un grupo de la sociedad civil local responsabilizó al gobierno por el naufragio del miércoles y afirmó que el número de víctimas fue mayor al reportado. tras los incidentes, se iniciaron operaciones de búsqueda con participación de personal naval y voluntarios de la comunidad, quienes recorrieron las orillas del río congo. las autoridades prometieron atención médica para los heridos, asistencia a las familias afectadas y la repatriación de los sobrevivientes a sus lugares de origen o destino. el transporte fluvial en la república democrática del congo es esencial debido a la escasez de carreteras transitables, pero los barcos suelen viajar sobrecargados y con pocos chalecos salvavidas. la navegación nocturna, común en estas rutas, complica las operaciones de rescate, dejando a menudo cuerpos desaparecidos. las operaciones de búsqueda enfrentan limitaciones por recursos escasos y la ubicación remota de los accidentes, lo que agrava las consecuencias de estas tragedias.",
+    "tokens": [
+      "dos",
+      "accidentes",
+      "náuticos",
+      "provincia",
+      "ecuador",
+      ",",
+      "noroeste",
+      "república",
+      "democrática",
+      "congo",
+      ",",
+      "causaron",
+      "menos",
+      "193",
+      "fallecidos",
+      "número",
+      "indeterminado",
+      "desaparecidos",
+      "transcurso",
+      "semana",
+      ".",
+      "primer",
+      "accidente",
+      "lugar",
+      "pasado",
+      "miércoles",
+      "10",
+      "septiembre",
+      "territorio",
+      "basankusu",
+      ",",
+      "150",
+      "kilómetros",
+      "territorio",
+      "lukolela",
+      ".",
+      "barco",
+      "motorizado",
+      "volcó",
+      ",",
+      "causando",
+      "muerte",
+      "menos",
+      "86",
+      "personas",
+      ",",
+      "mayoría",
+      "estudiantes",
+      ",",
+      "según",
+      "medios",
+      "estatales",
+      ".",
+      "reportes",
+      "precisaron",
+      "número",
+      "desaparecidos",
+      "accidente",
+      ",",
+      "medios",
+      "estatales",
+      "atribuyeron",
+      "naufragio",
+      "miércoles",
+      "“",
+      "carga",
+      "inadecuada",
+      "navegación",
+      "nocturna",
+      "”",
+      ",",
+      "según",
+      "informes",
+      "lugar",
+      ".",
+      "segundo",
+      "accidente",
+      "ocurrió",
+      "jueves",
+      "noche",
+      "territorio",
+      "lukolela",
+      ",",
+      "misma",
+      "provincia",
+      ",",
+      "barco",
+      "casi",
+      "500",
+      "pasajeros",
+      "incendió",
+      "volcó",
+      "río",
+      "congo",
+      ",",
+      "cerca",
+      "aldea",
+      "malange",
+      ".",
+      "respecto",
+      "suceso",
+      ",",
+      "ministerio",
+      "asuntos",
+      "humanitarios",
+      "república",
+      "democrática",
+      "congo",
+      "reportó",
+      "107",
+      "muertes",
+      "209",
+      "sobrevivientes",
+      "rescatados",
+      ",",
+      "mientras",
+      "memorando",
+      "ministerio",
+      "asuntos",
+      "sociales",
+      "indicó",
+      "146",
+      "personas",
+      "permanecen",
+      "desaparecidas",
+      "tras",
+      "naufragio",
+      ".",
+      "establecieron",
+      "inmediato",
+      "causas",
+      "exactas",
+      "ambos",
+      "accidentes",
+      ",",
+      "confirmó",
+      "si",
+      "operaciones",
+      "rescate",
+      "continuaban",
+      "viernes",
+      "noche",
+      ".",
+      "asimismo",
+      ",",
+      "grupo",
+      "sociedad",
+      "civil",
+      "local",
+      "responsabilizó",
+      "gobierno",
+      "naufragio",
+      "miércoles",
+      "afirmó",
+      "número",
+      "víctimas",
+      "mayor",
+      "reportado",
+      ".",
+      "tras",
+      "incidentes",
+      ",",
+      "iniciaron",
+      "operaciones",
+      "búsqueda",
+      "participación",
+      "personal",
+      "naval",
+      "voluntarios",
+      "comunidad",
+      ",",
+      "recorrieron",
+      "orillas",
+      "río",
+      "congo",
+      ".",
+      "autoridades",
+      "prometieron",
+      "atención",
+      "médica",
+      "heridos",
+      ",",
+      "asistencia",
+      "familias",
+      "afectadas",
+      "repatriación",
+      "sobrevivientes",
+      "lugares",
+      "origen",
+      "destino",
+      ".",
+      "transporte",
+      "fluvial",
+      "república",
+      "democrática",
+      "congo",
+      "esencial",
+      "debido",
+      "escasez",
+      "carreteras",
+      "transitables",
+      ",",
+      "barcos",
+      "suelen",
+      "viajar",
+      "sobrecargados",
+      "pocos",
+      "chalecos",
+      "salvavidas",
+      ".",
+      "navegación",
+      "nocturna",
+      ",",
+      "común",
+      "rutas",
+      ",",
+      "complica",
+      "operaciones",
+      "rescate",
+      ",",
+      "dejando",
+      "menudo",
+      "cuerpos",
+      "desaparecidos",
+      ".",
+      "operaciones",
+      "búsqueda",
+      "enfrentan",
+      "limitaciones",
+      "recursos",
+      "escasos",
+      "ubicación",
+      "remota",
+      "accidentes",
+      ",",
+      "agrava",
+      "consecuencias",
+      "tragedias",
+      "."
+    ],
+    "token_count": 239,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "VBZ": 12,
+      "JJ": 45,
+      "IN": 19,
+      "FW": 77,
+      "NN": 94,
+      "VBD": 1,
+      "CD": 8,
+      "NNS": 31,
+      "DT": 1,
+      "RB": 1,
+      "VBP": 18
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 8,
+      "VBZ-JJ": 5,
+      "JJ-IN": 1,
+      "IN-FW": 13,
+      "FW-FW": 40,
+      "FW-NNP": 11,
+      "NNP-FW": 8,
+      "FW-NN": 13,
+      "NN-IN": 13,
+      "NNP-NNP": 8,
+      "NNP-NN": 8,
+      "NN-NN": 48,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 6,
+      "NNS-JJ": 4,
+      "JJ-JJ": 8,
+      "JJ-NN": 21,
+      "NN-VBZ": 2,
+      "VBZ-CD": 2,
+      "CD-IN": 1,
+      "IN-NNP": 4,
+      "NNP-JJ": 2,
+      "JJ-CD": 2,
+      "NNS-FW": 3,
+      "NN-FW": 6,
+      "FW-CD": 1,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "JJ-NNS": 7,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NN-NNS": 7,
+      "NNS-VBZ": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "NN-JJ": 7,
+      "NNS-VBP": 17,
+      "VBP-JJ": 14,
+      "NN-NNP": 9,
+      "JJ-FW": 4,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NNS-CD": 1,
+      "VBP-NNS": 1,
+      "NNP-IN": 1,
+      "JJ-NNP": 2,
+      "FW-NNS": 9,
+      "VBP-FW": 1,
+      "FW-JJ": 3,
+      "IN-JJ": 1,
+      "VBZ-NN": 1,
+      "VBP-VBZ": 1,
+      "VBZ-FW": 2,
+      "NNP-VBP": 1,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 4,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 4,
+      "NN-IN-FW": 9,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-NN-NN": 23,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-FW-NN": 8,
+      "NN-IN-NNP": 3,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-CD": 1,
+      "JJ-CD-NNS": 2,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-IN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 12,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 13,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 2,
+      "NNP-NN-IN": 1,
+      "NNP-NNP-VBZ": 3,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NN-NN-NNP": 6,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "VBZ-JJ-CD": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-NNS": 3,
+      "FW-NNS-VBP": 8,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNS": 6,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-NNS": 3,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "JJ-NN-FW": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-FW": 1,
+      "VBZ-FW-FW": 2,
+      "NN-NNP-VBZ": 2,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-NNP-FW": 1,
+      "NNP-VBZ-FW": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "FW": 77,
+        "JJ": 45,
+        "NNP": 36,
+        "NNS": 31
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 40,
+        "JJ-NN": 21,
+        "NNS-VBP": 17,
+        "VBP-JJ": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "FW-FW-FW": 20,
+        "NNS-VBP-JJ": 13,
+        "JJ-NN-NN": 12,
+        "NN-IN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 102,
+      "VP": 27,
+      "PP": 5,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0338
+      },
+      {
+        "rule": "NP -> ('Congo', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0203
+      },
+      {
+        "rule": "NP -> ('territorio', 'NN')",
+        "frequency": 3,
+        "weight": 0.0203
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Democrática', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Lukolela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('accidentes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('operaciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0135
+      },
+      {
+        "rule": "S -> NP VP ('en', 'IN') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP (',', ',') NP ('de', 'IN') ('la', 'FW') NP ('del', 'FW') NP (',', ',') NP VP ('193', 'CD') NP ('y', 'RB') NP ('de', 'IN') ('desaparecidos', 'FW') ('en', 'FW') ('el', 'FW') ('transcurso', 'FW') ('de', 'FW') ('esta', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0068
+      },
+      {
+        "rule": "NP -> ('Dos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0068
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Dos"
+      },
+      {
+        "label": "VP",
+        "text": "accidentes náuticos"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "al noroeste"
+      },
+      {
+        "label": "NP",
+        "text": "República Democrática"
+      },
+      {
+        "label": "NP",
+        "text": "Congo"
+      },
+      {
+        "label": "NP",
+        "text": "causaron al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "fallecidos"
+      },
+      {
+        "label": "NP",
+        "text": "un número indeterminado"
+      },
+      {
+        "label": "NP",
+        "text": "semana"
+      },
+      {
+        "label": "NP",
+        "text": "El primer accidente tuvo lugar el pasado"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "territorio"
+      },
+      {
+        "label": "PP",
+        "text": "de Basankusu"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Dos/NNP)\n  (VP accidentes/VBZ náuticos/JJ)\n  en/IN\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Ecuador/NNP)\n  ,/,\n  (NP al/JJ noroeste/NN)\n  de/IN\n  la/FW\n  (NP República/NNP Democrática/NNP)\n  del/FW\n  (NP Congo/NNP)\n  ,/,\n  (NP causaron/NN al/NN)\n  (VP menos/VBD)\n  193/CD\n  (NP fallecidos/NNS)\n  y/RB\n  (NP un/JJ número/JJ indeterminado/NN)\n  de/IN\n  desaparecidos/FW\n  en/FW\n  el/FW\n  transcurso/FW\n  de/FW\n  esta/FW\n  (NP semana/NN)\n  ./.)",
+      "(S\n  (NP El/NNP primer/NN accidente/NN tuvo/NN lugar/NN el/NN pasado/NN)\n  (VP miércoles/VBZ)\n  10/CD\n  de/IN\n  septiembre/FW\n  en/FW\n  el/FW\n  (NP territorio/NN)\n  (PP de/IN (NP Basankusu/NNP))\n  ,/,\n  a/DT\n  (ADJP unos/JJ)\n  150/CD\n  (NP kilómetros/NNS)\n  del/FW\n  (NP territorio/NN)\n  (PP de/IN (NP Lukolela/NNP))\n  ./.)",
+      "(S\n  (NP Un/NNP barco/NN motorizado/NN volcó/NN)\n  ,/,\n  (NP causando/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  86/CD\n  (NP personas/NNS)\n  ,/,\n  en/FW\n  su/FW\n  (NP mayoría/NN estudiantes/NNS)\n  ,/,\n  (NP según/JJ medios/NNS estatales/NNS)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP reportes/VBZ (NP no/DT precisaron/NN el/NN número/NN))\n  de/IN\n  desaparecidos/FW\n  en/FW\n  (NP este/NN accidente/NN)\n  ,/,\n  (NP pero/NN los/NN medios/NNS)\n  (VP estatales/VBZ atribuyeron/RB (NP el/JJ naufragio/JJ del/NN))\n  (VP\n    miércoles/VBZ\n    (NP a/DT una/JJ “/NN carga/NN inadecuada/NN y/NN)\n    (NP navegación/JJ nocturna/JJ ”/NN))\n  ,/,\n  (NP según/JJ informes/NNS)\n  (VP desde/VBP (NP el/JJ lugar/NN))\n  ./.)",
+      "(S\n  (NP El/NNP segundo/NN accidente/NN)\n  ocurrió/FW\n  (NP el/NN jueves/NNS)\n  (VP por/VBP la/JJ)\n  noche/FW\n  en/FW\n  el/FW\n  (NP territorio/NN)\n  (PP de/IN (NP Lukolela/NNP))\n  ,/,\n  de/FW\n  la/FW\n  misma/FW\n  (NP provincia/NN)\n  ,/,\n  (NP cuando/NN)\n  (NP un/JJ barco/NN con/NN casi/NN)\n  500/CD\n  (NP pasajeros/NN se/NN incendió/NN y/NN volcó/NN)\n  en/IN\n  el/FW\n  (NP río/NN Congo/NNP)\n  ,/,\n  (NP cerca/NN)\n  de/FW\n  la/FW\n  aldea/FW\n  de/FW\n  (NP Malange/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "responsabilizó al",
+        "position": [
+          1393,
+          1410
+        ],
+        "start": 1393,
+        "end": 1410
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1453,
+          1459
+        ],
+        "start": 1453,
+        "end": 1459
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "estudiantes",
+        "position": [
+          447,
+          458
+        ],
+        "start": 447,
+        "end": 458
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          873,
+          876
+        ],
+        "start": 873,
+        "end": 876
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          43,
+          50
+        ],
+        "start": 43,
+        "end": 50
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          30,
+          42
+        ],
+        "start": 30,
+        "end": 42
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "miércoles 10 de septiembre",
+        "position": [
+          254,
+          280
+        ],
+        "start": 254,
+        "end": 280
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          199,
+          210
+        ],
+        "start": 199,
+        "end": 210
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "86 personas",
+        "position": [
+          420,
+          431
+        ],
+        "start": 420,
+        "end": 431
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "146 personas",
+        "position": [
+          1135,
+          1147
+        ],
+        "start": 1135,
+        "end": 1147
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Democrática del Congo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Malange",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Asuntos Humanitarios",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Basankusu",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lukolela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Democrática del Congo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "río Congo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Asuntos Sociales",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Lukolela",
+        "relacion": "OCURRIR",
+        "objeto": "río Congo"
+      },
+      {
+        "sujeto": "Lukolela",
+        "relacion": "OCURRIR",
+        "objeto": "Malange"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7184,
+    "pos": 0.0,
+    "neu": 0.98,
+    "neg": 0.02,
+    "label": "negative"
+  }
+}

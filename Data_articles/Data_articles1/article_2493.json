@@ -1,0 +1,534 @@
+{
+  "url": "https://www.telesurtv.net/creditos-internacionales-estan-congelados-en-el-parlamento-boliviano/",
+  "title": "Créditos internacionales están congelados en el parlamento boliviano - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bolivia",
+    "Créditos internacionales"
+  ],
+  "text": "La Asamblea Legislativa Plurinacional de Bolivia mantiene congelados 16 proyectos de ley que suman más de 1.600 millones de dólares, según denuncias del gobierno. Estas iniciativas, que han estado en tratamiento por más de dos años, incluyen la construcción de una planta para refinar zinc, financiada con créditos internacionales.\nEl gobierno ha señalado que la demora en la aprobación de estos proyectos afecta el desarrollo de las regiones y retrasa la ejecución de metas previstas. Sin la aprobación legislativa, los créditos internacionales no pueden desembolsarse, lo que impacta negativamente en la economía del país.\nAdemás, el gobierno ha denunciado que esta demora es parte de un boicot de la oposición política para frenar el crecimiento económico y profundizar la escasez de dólares, con miras a las elecciones presidenciales y legislativas en agosto de este año.\nLas pugnas internas en el Movimiento al Socialismo por la candidatura presidencial han provocado que el gobierno pierda la mayoría en ambas cámaras del Legislativo, lo que ha resultado en una oposición contra cualquier iniciativa gubernamental.\nSe espera que en los próximos meses se aprueben algunos de estos créditos, aunque el gobierno teme que la aprobación total se retrase hasta justo antes de las elecciones.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/creditos-internacionales-estan-congelados-en-el-parlamento-boliviano/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 805,
+    "message_id": 84998,
+    "date": "2025-01-21T08:55:07+00:00",
+    "text": "teleSUR\nCréditos internacionales están congelados en el parlamento boliviano\nhttps://www.telesurtv.net/creditos-internacionales-estan-congelados-en-el-parlamento-boliviano/",
+    "photo_path": null,
+    "views": 2550,
+    "reactions": {
+      "🤬": 36,
+      "🤔": 8,
+      "👏": 2,
+      "👎": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "la asamblea legislativa plurinacional de bolivia mantiene congelados 16 proyectos de ley que suman más de 1.600 millones de dólares, según denuncias del gobierno. estas iniciativas, que han estado en tratamiento por más de dos años, incluyen la construcción de una planta para refinar zinc, financiada con créditos internacionales. el gobierno ha señalado que la demora en la aprobación de estos proyectos afecta el desarrollo de las regiones y retrasa la ejecución de metas previstas. sin la aprobación legislativa, los créditos internacionales no pueden desembolsarse, lo que impacta negativamente en la economía del país. además, el gobierno ha denunciado que esta demora es parte de un boicot de la oposición política para frenar el crecimiento económico y profundizar la escasez de dólares, con miras a las elecciones presidenciales y legislativas en agosto de este año. las pugnas internas en el movimiento al socialismo por la candidatura presidencial han provocado que el gobierno pierda la mayoría en ambas cámaras del legislativo, lo que ha resultado en una oposición contra cualquier iniciativa gubernamental. se espera que en los próximos meses se aprueben algunos de estos créditos, aunque el gobierno teme que la aprobación total se retrase hasta justo antes de las elecciones.",
+    "tokens": [
+      "asamblea",
+      "legislativa",
+      "plurinacional",
+      "bolivia",
+      "mantiene",
+      "congelados",
+      "16",
+      "proyectos",
+      "ley",
+      "suman",
+      "1.600",
+      "millones",
+      "dólares",
+      ",",
+      "según",
+      "denuncias",
+      "gobierno",
+      ".",
+      "iniciativas",
+      ",",
+      "tratamiento",
+      "dos",
+      "años",
+      ",",
+      "incluyen",
+      "construcción",
+      "planta",
+      "refinar",
+      "zinc",
+      ",",
+      "financiada",
+      "créditos",
+      "internacionales",
+      ".",
+      "gobierno",
+      "señalado",
+      "demora",
+      "aprobación",
+      "proyectos",
+      "afecta",
+      "desarrollo",
+      "regiones",
+      "retrasa",
+      "ejecución",
+      "metas",
+      "previstas",
+      ".",
+      "aprobación",
+      "legislativa",
+      ",",
+      "créditos",
+      "internacionales",
+      "pueden",
+      "desembolsarse",
+      ",",
+      "impacta",
+      "negativamente",
+      "economía",
+      "país",
+      ".",
+      "además",
+      ",",
+      "gobierno",
+      "denunciado",
+      "demora",
+      "parte",
+      "boicot",
+      "oposición",
+      "política",
+      "frenar",
+      "crecimiento",
+      "económico",
+      "profundizar",
+      "escasez",
+      "dólares",
+      ",",
+      "miras",
+      "elecciones",
+      "presidenciales",
+      "legislativas",
+      "agosto",
+      "año",
+      ".",
+      "pugnas",
+      "internas",
+      "movimiento",
+      "socialismo",
+      "candidatura",
+      "presidencial",
+      "provocado",
+      "gobierno",
+      "pierda",
+      "mayoría",
+      "ambas",
+      "cámaras",
+      "legislativo",
+      ",",
+      "resultado",
+      "oposición",
+      "cualquier",
+      "iniciativa",
+      "gubernamental",
+      ".",
+      "espera",
+      "próximos",
+      "meses",
+      "aprueben",
+      "créditos",
+      ",",
+      "aunque",
+      "gobierno",
+      "teme",
+      "aprobación",
+      "total",
+      "retrase",
+      "justo",
+      "elecciones",
+      "."
+    ],
+    "token_count": 118,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 15,
+      "FW": 42,
+      "VBD": 1,
+      "CD": 2,
+      "NN": 74,
+      "JJ": 26,
+      "IN": 12,
+      "NNS": 11,
+      "VBP": 9,
+      "VBZ": 3,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 4,
+      "NNP-FW": 2,
+      "FW-NNP": 3,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "NN-FW": 8,
+      "FW-FW": 22,
+      "FW-NN": 6,
+      "NN-JJ": 4,
+      "JJ-NN": 13,
+      "NN-IN": 10,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "FW-NNS": 7,
+      "NNS-VBP": 7,
+      "VBP-JJ": 7,
+      "JJ-FW": 3,
+      "NN-NNP": 2,
+      "NNP-NN": 8,
+      "NN-NN": 45,
+      "NN-VBP": 2,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "IN-FW": 6,
+      "FW-JJ": 4,
+      "JJ-JJ": 6,
+      "IN-JJ": 4,
+      "NN-VBZ": 3,
+      "VBZ-NNP": 1,
+      "NNS-NNP": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-NNS": 1,
+      "JJ-NNP": 2,
+      "VBP-NNP": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 5,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 5,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 26,
+      "NN-NN-VBP": 2,
+      "NN-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NN": 2,
+      "NN-NN-JJ": 3,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-FW": 6,
+      "FW-FW-FW": 14,
+      "FW-FW-NNS": 4,
+      "VBP-JJ-NN": 4,
+      "IN-FW-NNS": 2,
+      "JJ-FW-FW": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-VBP-JJ": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "IN-JJ-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 74,
+        "FW": 42,
+        "JJ": 26,
+        "NNP": 15,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 22,
+        "JJ-NN": 13,
+        "NN-IN": 10,
+        "NN-FW": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 14,
+        "JJ-NN-NN": 8,
+        "NNP-NN-NN": 7,
+        "NNS-VBP-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 49,
+      "VP": 12,
+      "PP": 5,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0405
+      },
+      {
+        "rule": "NP -> ('dólares', 'NNS')",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP VP ('16', 'CD') NP ('de', 'FW') ('ley', 'FW') NP NP ('de', 'IN') ('1.600', 'CD') NP ('de', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Asamblea', 'NNP') ('Legislativa', 'NNP') ('Plurinacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP') ('mantiene', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "VP -> ('congelados', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('proyectos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('suman', 'JJ') ('más', 'NN')",
+        "frequency": 1,
+        "weight": 0.0135
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Asamblea Legislativa Plurinacional"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia mantiene"
+      },
+      {
+        "label": "VP",
+        "text": "congelados"
+      },
+      {
+        "label": "NP",
+        "text": "proyectos"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "suman más"
+      },
+      {
+        "label": "NP",
+        "text": "millones"
+      },
+      {
+        "label": "NP",
+        "text": "dólares"
+      },
+      {
+        "label": "NP",
+        "text": "según denuncias del gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Estas iniciativas"
+      },
+      {
+        "label": "NP",
+        "text": "que han"
+      },
+      {
+        "label": "VP",
+        "text": "estado"
+      },
+      {
+        "label": "PP",
+        "text": "en tratamiento por más"
+      },
+      {
+        "label": "NP",
+        "text": "tratamiento por más"
+      },
+      {
+        "label": "NP",
+        "text": "años"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Asamblea/NNP Legislativa/NNP Plurinacional/NNP)\n  de/FW\n  (NP Bolivia/NNP mantiene/NNP)\n  (VP congelados/VBD)\n  16/CD\n  (NP proyectos/NN)\n  de/FW\n  ley/FW\n  (NP que/NN)\n  (NP suman/JJ más/NN)\n  de/IN\n  1.600/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  ,/,\n  (NP según/JJ denuncias/NN del/NN gobierno/NN)\n  ./.)",
+      "(S\n  (NP Estas/NNP iniciativas/NN)\n  ,/,\n  (NP que/NN han/NN)\n  (VP estado/VBP)\n  (PP en/IN (NP tratamiento/NN por/NN más/NN))\n  de/IN\n  dos/FW\n  (NP años/NN)\n  ,/,\n  (ADJP incluyen/JJ)\n  la/FW\n  construcción/FW\n  de/FW\n  una/FW\n  (NP planta/NN para/NN refinar/NN zinc/NN)\n  ,/,\n  (NP financiada/JJ con/NN créditos/NN internacionales/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP gobierno/NN ha/NN señalado/NN que/NN la/NN)\n  demora/FW\n  en/FW\n  la/FW\n  aprobación/FW\n  de/FW\n  estos/FW\n  (NP proyectos/NNS)\n  (VP afecta/VBP (NP el/JJ desarrollo/NN))\n  de/IN\n  las/FW\n  (NP regiones/NNS)\n  y/RB\n  (VP retrasa/VBP la/JJ)\n  ejecución/FW\n  de/FW\n  metas/FW\n  (NP previstas/NNS)\n  ./.)",
+      "(S\n  (NP Sin/NNP la/NNP)\n  aprobación/FW\n  (NP legislativa/NN)\n  ,/,\n  (NP los/JJ créditos/NN)\n  (VP internacionales/VBZ (NP no/DT pueden/JJ desembolsarse/NN))\n  ,/,\n  (NP lo/JJ que/NN impacta/NN negativamente/NN)\n  en/FW\n  la/FW\n  economía/FW\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP gobierno/JJ ha/NN denunciado/NN que/NN esta/NN demora/NN)\n    (NP es/JJ parte/NN))\n  (PP de/IN (NP un/JJ boicot/NN))\n  de/IN\n  la/FW\n  oposición/FW\n  política/FW\n  para/FW\n  (NP\n    frenar/NN\n    el/NN\n    crecimiento/NN\n    económico/NN\n    y/NN\n    profundizar/NN)\n  la/FW\n  escasez/FW\n  de/FW\n  (NP dólares/NNS)\n  ,/,\n  (NP con/NN)\n  (VP\n    miras/VBD\n    (NP a/DT las/JJ elecciones/NNS presidenciales/NNS)\n    y/RB)\n  (VP legislativas/VBP (NP en/JJ agosto/NN))\n  (PP de/IN (NP este/NN año/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LEYES_NORMATIVAS"
+    ],
+    "matches": [
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "ley que suman más de 1",
+        "position": [
+          85,
+          107
+        ],
+        "start": 85,
+        "end": 107
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          41,
+          48
+        ],
+        "start": 41,
+        "end": 48
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado en",
+        "position": [
+          190,
+          199
+        ],
+        "start": 190,
+        "end": 199
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "600 millones",
+        "position": [
+          108,
+          120
+        ],
+        "start": 108,
+        "end": 120
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 1.600",
+        "position": [
+          99,
+          111
+        ],
+        "start": 99,
+        "end": 111
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "1.600 millones de dólares",
+        "position": [
+          106,
+          131
+        ],
+        "start": 106,
+        "end": 131
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Movimiento al Socialismo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Asamblea Legislativa Plurinacional de Bolivia",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.035,
+    "neu": 0.936,
+    "neg": 0.028,
+    "label": "positive"
+  }
+}

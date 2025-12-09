@@ -1,0 +1,572 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-impulsa-industria-nacional-y-proteccion-social-como-nuevas-medidas-economicas-para-2025/",
+  "title": "Venezuela impulsa industria nacional y protección social como nuevas medidas económicas para 2025 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "industria nacional",
+    "medidas económicas",
+    "protección social",
+    "Venezuela"
+  ],
+  "text": "El presidente Nicolás Maduro anunció una serie de medidas económicas enfocadas en fortalecer el bolívar, impulsar la producción nacional y establecer un nuevo sistema de protección social, marcando un giro significativo en la política económica del país.\nEl gobierno venezolano está implementando una estrategia revolucionaria para proteger el ahorro nacional y los depósitos en bolívares, abarcando desde pequeños ahorristas hasta grandes inversores. La vicepresidenta Delcy Rodríguez, designada como Rectora de la Economía, liderará esta iniciativa que busca consolidar la recuperación monetaria.\nEn el frente industrial, el gobierno ordenó la activación de mecanismos para maximizar la capacidad instalada de producción nacional, priorizando una audaz sustitución de importaciones. “En Venezuela lo podemos producir todo, con calidad”, afirmó Maduro, señalando un cambio respecto a la flexibilización de importaciones implementada durante el período 2017-2019.\nEl plan económico se complementa con un nuevo sistema de protección social basado en la plataforma Patria, que será validado por el sistema comunal de gobierno. Esta iniciativa busca fortalecer la atención a las familias más vulnerables, mientras se mantiene el compromiso de mejorar los ingresos de los trabajadores mediante mecanismos de indexación salarial.\nPara 2025, esta serie de medidas anunciadas por el mandatario consolidará la política económica venezolana, buscando equilibrar la protección monetaria con el desarrollo industrial y el bienestar social.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-impulsa-industria-nacional-y-proteccion-social-como-nuevas-medidas-economicas-para-2025/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1167,
+    "message_id": 84582,
+    "date": "2025-01-16T01:55:19+00:00",
+    "text": "teleSUR\nVenezuela impulsa industria nacional y protección social como nuevas medidas económicas para 2025\nhttps://www.telesurtv.net/venezuela-impulsa-industria-nacional-y-proteccion-social-como-nuevas-medidas-economicas-para-2025/",
+    "photo_path": null,
+    "views": 2395,
+    "reactions": {
+      "👏": 52,
+      "❤": 9,
+      "🥱": 1,
+      "🤣": 1
+    },
+    "total_reactions": 63
+  },
+  "preprocessing": {
+    "cleaned": "el presidente nicolás maduro anunció una serie de medidas económicas enfocadas en fortalecer el bolívar, impulsar la producción nacional y establecer un nuevo sistema de protección social, marcando un giro significativo en la política económica del país. el gobierno venezolano está implementando una estrategia revolucionaria para proteger el ahorro nacional y los depósitos en bolívares, abarcando desde pequeños ahorristas hasta grandes inversores. la vicepresidenta delcy rodríguez, designada como rectora de la economía, liderará esta iniciativa que busca consolidar la recuperación monetaria. en el frente industrial, el gobierno ordenó la activación de mecanismos para maximizar la capacidad instalada de producción nacional, priorizando una audaz sustitución de importaciones. “en venezuela lo podemos producir todo, con calidad”, afirmó maduro, señalando un cambio respecto a la flexibilización de importaciones implementada durante el período 2017-2019. el plan económico se complementa con un nuevo sistema de protección social basado en la plataforma patria, que será validado por el sistema comunal de gobierno. esta iniciativa busca fortalecer la atención a las familias más vulnerables, mientras se mantiene el compromiso de mejorar los ingresos de los trabajadores mediante mecanismos de indexación salarial. para 2025, esta serie de medidas anunciadas por el mandatario consolidará la política económica venezolana, buscando equilibrar la protección monetaria con el desarrollo industrial y el bienestar social.",
+    "tokens": [
+      "presidente",
+      "nicolás",
+      "maduro",
+      "anunció",
+      "serie",
+      "medidas",
+      "económicas",
+      "enfocadas",
+      "fortalecer",
+      "bolívar",
+      ",",
+      "impulsar",
+      "producción",
+      "nacional",
+      "establecer",
+      "nuevo",
+      "sistema",
+      "protección",
+      "social",
+      ",",
+      "marcando",
+      "giro",
+      "significativo",
+      "política",
+      "económica",
+      "país",
+      ".",
+      "gobierno",
+      "venezolano",
+      "implementando",
+      "estrategia",
+      "revolucionaria",
+      "proteger",
+      "ahorro",
+      "nacional",
+      "depósitos",
+      "bolívares",
+      ",",
+      "abarcando",
+      "pequeños",
+      "ahorristas",
+      "grandes",
+      "inversores",
+      ".",
+      "vicepresidenta",
+      "delcy",
+      "rodríguez",
+      ",",
+      "designada",
+      "rectora",
+      "economía",
+      ",",
+      "liderará",
+      "iniciativa",
+      "busca",
+      "consolidar",
+      "recuperación",
+      "monetaria",
+      ".",
+      "frente",
+      "industrial",
+      ",",
+      "gobierno",
+      "ordenó",
+      "activación",
+      "mecanismos",
+      "maximizar",
+      "capacidad",
+      "instalada",
+      "producción",
+      "nacional",
+      ",",
+      "priorizando",
+      "audaz",
+      "sustitución",
+      "importaciones",
+      ".",
+      "“",
+      "venezuela",
+      "podemos",
+      "producir",
+      ",",
+      "calidad",
+      "”",
+      ",",
+      "afirmó",
+      "maduro",
+      ",",
+      "señalando",
+      "cambio",
+      "respecto",
+      "flexibilización",
+      "importaciones",
+      "implementada",
+      "período",
+      "2017-2019.",
+      "plan",
+      "económico",
+      "complementa",
+      "nuevo",
+      "sistema",
+      "protección",
+      "social",
+      "basado",
+      "plataforma",
+      "patria",
+      ",",
+      "validado",
+      "sistema",
+      "comunal",
+      "gobierno",
+      ".",
+      "iniciativa",
+      "busca",
+      "fortalecer",
+      "atención",
+      "familias",
+      "vulnerables",
+      ",",
+      "mientras",
+      "mantiene",
+      "compromiso",
+      "mejorar",
+      "ingresos",
+      "trabajadores",
+      "mediante",
+      "mecanismos",
+      "indexación",
+      "salarial",
+      ".",
+      "2025",
+      ",",
+      "serie",
+      "medidas",
+      "anunciadas",
+      "mandatario",
+      "consolidará",
+      "política",
+      "económica",
+      "venezolana",
+      ",",
+      "buscando",
+      "equilibrar",
+      "protección",
+      "monetaria",
+      "desarrollo",
+      "industrial",
+      "bienestar",
+      "social",
+      "."
+    ],
+    "token_count": 150,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 17,
+      "NN": 76,
+      "JJ": 30,
+      "IN": 9,
+      "FW": 52,
+      "VBP": 10,
+      "VBZ": 2,
+      "NNS": 10,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-NNP": 4,
+      "NNP-NNP": 3,
+      "NN-JJ": 10,
+      "JJ-NN": 18,
+      "NN-IN": 8,
+      "IN-FW": 6,
+      "FW-FW": 34,
+      "FW-NN": 5,
+      "NN-FW": 6,
+      "NN-NN": 41,
+      "NN-VBP": 5,
+      "VBP-JJ": 6,
+      "JJ-JJ": 7,
+      "FW-JJ": 5,
+      "IN-NN": 1,
+      "VBP-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-NNP": 3,
+      "NNP-FW": 2,
+      "FW-NNP": 4,
+      "NNP-IN": 1,
+      "FW-NNS": 4,
+      "IN-NNS": 2,
+      "NNP-VBZ": 1,
+      "JJ-NNP": 2,
+      "JJ-FW": 1,
+      "JJ-NNS": 1,
+      "NNS-FW": 1,
+      "VBP-FW": 2,
+      "NNP-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 27,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 20,
+      "NN-NN-VBP": 4,
+      "NN-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-JJ": 4,
+      "JJ-JJ-NN": 5,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 5,
+      "FW-NN-JJ": 1,
+      "VBP-JJ-JJ": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-FW-FW": 2,
+      "FW-FW-JJ": 3,
+      "NN-IN-NNS": 2,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-VBP": 1,
+      "FW-FW-NNP": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "JJ-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NNS": 1,
+      "NN-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "JJ-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 76,
+        "FW": 52,
+        "JJ": 30,
+        "NNP": 17,
+        "VBP": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 34,
+        "JJ-NN": 18,
+        "NN-JJ": 10,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 20,
+        "JJ-NN-NN": 10,
+        "NN-JJ-NN": 5,
+        "JJ-NN-IN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 48,
+      "ADJP": 5,
+      "PP": 3,
+      "VP": 11
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('un', 'JJ') ('nuevo', 'JJ') ('sistema', 'NN')",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('medidas', 'FW') ('económicas', 'FW') ('enfocadas', 'FW') ('en', 'FW') NP (',', ',') NP ('producción', 'FW') NP NP ('de', 'IN') ('protección', 'FW') ADJP (',', ',') NP PP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('Nicolás', 'NNP') ('Maduro', 'NNP') ('anunció', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('serie', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('fortalecer', 'NN') ('el', 'NN') ('bolívar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('impulsar', 'JJ') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('nacional', 'JJ') ('y', 'NN') ('establecer', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "ADJP -> ('social', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('marcando', 'JJ') ('un', 'JJ') ('giro', 'NN') ('significativo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente Nicolás Maduro anunció"
+      },
+      {
+        "label": "NP",
+        "text": "una serie"
+      },
+      {
+        "label": "NP",
+        "text": "fortalecer el bolívar"
+      },
+      {
+        "label": "NP",
+        "text": "impulsar la"
+      },
+      {
+        "label": "NP",
+        "text": "nacional y establecer"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo sistema"
+      },
+      {
+        "label": "ADJP",
+        "text": "social"
+      },
+      {
+        "label": "NP",
+        "text": "marcando un giro significativo"
+      },
+      {
+        "label": "PP",
+        "text": "en la política"
+      },
+      {
+        "label": "NP",
+        "text": "la política"
+      },
+      {
+        "label": "VP",
+        "text": "económica del país"
+      },
+      {
+        "label": "NP",
+        "text": "del país"
+      },
+      {
+        "label": "NP",
+        "text": "El gobierno venezolano"
+      },
+      {
+        "label": "NP",
+        "text": "implementando"
+      },
+      {
+        "label": "NP",
+        "text": "una estrategia revolucionaria para proteger"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN Nicolás/NNP Maduro/NNP anunció/NN)\n  (NP una/JJ serie/NN)\n  de/IN\n  medidas/FW\n  económicas/FW\n  enfocadas/FW\n  en/FW\n  (NP fortalecer/NN el/NN bolívar/NN)\n  ,/,\n  (NP impulsar/JJ la/NN)\n  producción/FW\n  (NP nacional/JJ y/NN establecer/NN)\n  (NP un/JJ nuevo/JJ sistema/NN)\n  de/IN\n  protección/FW\n  (ADJP social/JJ)\n  ,/,\n  (NP marcando/JJ un/JJ giro/NN significativo/NN)\n  (PP en/IN (NP la/NN política/NN))\n  (VP económica/VBP (NP del/NN país/NN))\n  ./.)",
+      "(S\n  (NP El/NNP gobierno/NN venezolano/NN)\n  está/FW\n  (NP implementando/NN)\n  (NP una/JJ estrategia/NN revolucionaria/NN para/NN proteger/NN)\n  (VP\n    el/VBP\n    (NP\n      ahorro/JJ\n      nacional/JJ\n      y/NN\n      los/NN\n      depósitos/NN\n      en/NN\n      bolívares/NNS))\n  ,/,\n  (NP abarcando/JJ desde/NN pequeños/NN ahorristas/NNS)\n  (VP hasta/VBP (NP grandes/JJ inversores/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  vicepresidenta/FW\n  (NP Delcy/NNP Rodríguez/NNP)\n  ,/,\n  (NP designada/NN como/NN Rectora/NNP)\n  de/IN\n  la/FW\n  (NP Economía/NNP)\n  ,/,\n  (NP\n    liderará/NN\n    esta/NN\n    iniciativa/NN\n    que/NN\n    busca/NN\n    consolidar/NN\n    la/NN\n    recuperación/NN\n    monetaria/NN)\n  ./.)",
+      "(S\n  (NP En/NNP el/NN frente/NN)\n  (ADJP industrial/JJ)\n  ,/,\n  (NP el/JJ gobierno/NN ordenó/NN)\n  la/FW\n  activación/FW\n  de/FW\n  mecanismos/FW\n  para/FW\n  maximizar/FW\n  la/FW\n  capacidad/FW\n  instalada/FW\n  de/FW\n  producción/FW\n  (ADJP nacional/JJ)\n  ,/,\n  (NP priorizando/JJ una/JJ audaz/NN sustitución/NN)\n  (PP de/IN (NP importaciones/NNS))\n  ./.)",
+      "(S\n  (NP “/NN En/NNP Venezuela/NNP)\n  (VP lo/VBZ (NP podemos/JJ producir/NN todo/NN))\n  ,/,\n  (NP con/NN calidad/NN ”/NNP)\n  ,/,\n  (NP afirmó/NN Maduro/NNP)\n  ,/,\n  (NP señalando/NN)\n  (NP un/JJ cambio/NN)\n  (VP respecto/VBZ (NP a/DT la/NN flexibilización/NN))\n  (PP de/IN (NP importaciones/NNS implementada/NNS))\n  (VP durante/VBP el/JJ período/JJ 2017-2019/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "JUSTICIA_SOCIAL",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          839,
+          845
+        ],
+        "start": 839,
+        "end": 845
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          29,
+          36
+        ],
+        "start": 29,
+        "end": 36
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          3,
+          28
+        ],
+        "start": 3,
+        "end": 28
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          789,
+          798
+        ],
+        "start": 789,
+        "end": 798
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "desarrollo industrial y el bienestar social",
+        "position": [
+          1484,
+          1527
+        ],
+        "start": 1484,
+        "end": 1527
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rectora de la Economía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Maduro",
+        "relacion": "PRODUCIR_AFIRMAR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

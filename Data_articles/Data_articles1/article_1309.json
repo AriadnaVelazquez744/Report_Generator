@@ -1,0 +1,754 @@
+{
+  "url": "https://www.telesurtv.net/yemen-lanza-misil-palestina-2-ben-gurion/",
+  "title": "Yemen lanza misil \"Palestina 2\" contra el aeropuerto Ben Gurion - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "aeropuerto Ben Gurion",
+    "Fuerzas Armadas de Yemen",
+    "Gaza",
+    "genocidio",
+    "hutíes de Yemen",
+    "Israel",
+    "misil balístico hipersónico",
+    "Palestina",
+    "Palestina 2",
+    "Tel Aviv",
+    "Yahya Sari",
+    "Yemen"
+  ],
+  "text": "Las Fuerzas Armadas de Yemen confirmaron este domingo el lanzamiento de un misil balístico hipersónico “Palestina 2”, contra el aeropuerto Ben Gurion en Lod, cerca de Tel Aviv, en los territorios ocupados palestinos por Israel.\nLa operación, ejecutada por su unidad de misiles, se enmarca dentro de las acciones militares en apoyo a Palestina y como represalia por los ataques israelíes contra Yemen.\nSobre la acción militar, el portavoz militar yemení, el general Yahya Sari, declaró que el ataque logró su objetivo, provocando el cierre temporal del espacio aéreo y obligando a miles de colonos a refugiarse.\nAdemás, reiteró que las operaciones continuarán “hasta que cese la agresión y el bloqueo contra Gaza”.\nEl Ejército israelí reconoció la detección del misil y activó sus sistemas de defensa, aunque no confirmó daños significativos.\n\n\nLas sirenas antiaéreas sonaron en la región central, generando caos en una de las zonas más estratégicas del país.\nYemen ha mantenido una postura firme contra Israel desde el inicio de la ofensiva en Gaza en octubre de 2023, realizando múltiples ataques con drones y misiles contra objetivos israelíes y barcos vinculados al régimen, así como hundiendo barcos que trasladaban armas para Israel.\n“No nos quedaremos de brazos cruzados ante el genocidio en Gaza”, afirmaron las Fuerzas Armadas yemeníes, cuestionando la inacción de la comunidad internacional.\nEl ataque de este domingo se produce horas después de que Israel bombardeara una central eléctrica en Saná, capital de Yemen.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/yemen-lanza-misil-palestina-2-ben-gurion/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1067,
+    "message_id": 102044,
+    "date": "2025-08-17T22:55:13+00:00",
+    "text": "teleSUR\nYemen lanza misil “Palestina 2” contra el aeropuerto Ben Gurion\nhttps://www.telesurtv.net/yemen-lanza-misil-palestina-2-ben-gurion/",
+    "photo_path": null,
+    "views": 2552,
+    "reactions": {
+      "❤": 53,
+      "👍": 22,
+      "👏": 5,
+      "🔥": 1
+    },
+    "total_reactions": 81
+  },
+  "preprocessing": {
+    "cleaned": "las fuerzas armadas de yemen confirmaron este domingo el lanzamiento de un misil balístico hipersónico “palestina 2”, contra el aeropuerto ben gurion en lod, cerca de tel aviv, en los territorios ocupados palestinos por israel. la operación, ejecutada por su unidad de misiles, se enmarca dentro de las acciones militares en apoyo a palestina y como represalia por los ataques israelíes contra yemen. sobre la acción militar, el portavoz militar yemení, el general yahya sari, declaró que el ataque logró su objetivo, provocando el cierre temporal del espacio aéreo y obligando a miles de colonos a refugiarse. además, reiteró que las operaciones continuarán “hasta que cese la agresión y el bloqueo contra gaza”. el ejército israelí reconoció la detección del misil y activó sus sistemas de defensa, aunque no confirmó daños significativos. las sirenas antiaéreas sonaron en la región central, generando caos en una de las zonas más estratégicas del país. yemen ha mantenido una postura firme contra israel desde el inicio de la ofensiva en gaza en octubre de 2023, realizando múltiples ataques con drones y misiles contra objetivos israelíes y barcos vinculados al régimen, así como hundiendo barcos que trasladaban armas para israel. “no nos quedaremos de brazos cruzados ante el genocidio en gaza”, afirmaron las fuerzas armadas yemeníes, cuestionando la inacción de la comunidad internacional. el ataque de este domingo se produce horas después de que israel bombardeara una central eléctrica en saná, capital de yemen.",
+    "tokens": [
+      "fuerzas",
+      "armadas",
+      "yemen",
+      "confirmaron",
+      "domingo",
+      "lanzamiento",
+      "misil",
+      "balístico",
+      "hipersónico",
+      "“",
+      "palestina",
+      "2",
+      "”",
+      ",",
+      "aeropuerto",
+      "ben",
+      "gurion",
+      "lod",
+      ",",
+      "cerca",
+      "tel",
+      "aviv",
+      ",",
+      "territorios",
+      "ocupados",
+      "palestinos",
+      "israel",
+      ".",
+      "operación",
+      ",",
+      "ejecutada",
+      "unidad",
+      "misiles",
+      ",",
+      "enmarca",
+      "dentro",
+      "acciones",
+      "militares",
+      "apoyo",
+      "palestina",
+      "represalia",
+      "ataques",
+      "israelíes",
+      "yemen",
+      ".",
+      "acción",
+      "militar",
+      ",",
+      "portavoz",
+      "militar",
+      "yemení",
+      ",",
+      "general",
+      "yahya",
+      "sari",
+      ",",
+      "declaró",
+      "ataque",
+      "logró",
+      "objetivo",
+      ",",
+      "provocando",
+      "cierre",
+      "temporal",
+      "espacio",
+      "aéreo",
+      "obligando",
+      "miles",
+      "colonos",
+      "refugiarse",
+      ".",
+      "además",
+      ",",
+      "reiteró",
+      "operaciones",
+      "continuarán",
+      "“",
+      "cese",
+      "agresión",
+      "bloqueo",
+      "gaza",
+      "”",
+      ".",
+      "ejército",
+      "israelí",
+      "reconoció",
+      "detección",
+      "misil",
+      "activó",
+      "sistemas",
+      "defensa",
+      ",",
+      "aunque",
+      "confirmó",
+      "daños",
+      "significativos",
+      ".",
+      "sirenas",
+      "antiaéreas",
+      "sonaron",
+      "región",
+      "central",
+      ",",
+      "generando",
+      "caos",
+      "zonas",
+      "estratégicas",
+      "país",
+      ".",
+      "yemen",
+      "mantenido",
+      "postura",
+      "firme",
+      "israel",
+      "inicio",
+      "ofensiva",
+      "gaza",
+      "octubre",
+      "2023",
+      ",",
+      "realizando",
+      "múltiples",
+      "ataques",
+      "drones",
+      "misiles",
+      "objetivos",
+      "israelíes",
+      "barcos",
+      "vinculados",
+      "régimen",
+      ",",
+      "así",
+      "hundiendo",
+      "barcos",
+      "trasladaban",
+      "armas",
+      "israel",
+      ".",
+      "“",
+      "quedaremos",
+      "brazos",
+      "cruzados",
+      "genocidio",
+      "gaza",
+      "”",
+      ",",
+      "afirmaron",
+      "fuerzas",
+      "armadas",
+      "yemeníes",
+      ",",
+      "cuestionando",
+      "inacción",
+      "comunidad",
+      "internacional",
+      ".",
+      "ataque",
+      "domingo",
+      "produce",
+      "horas",
+      "después",
+      "israel",
+      "bombardeara",
+      "central",
+      "eléctrica",
+      "saná",
+      ",",
+      "capital",
+      "yemen",
+      "."
+    ],
+    "token_count": 170,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "IN": 9,
+      "VBP": 13,
+      "NN": 72,
+      "FW": 56,
+      "NNS": 17,
+      "JJ": 22,
+      "VBZ": 3,
+      "DT": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 13,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NN": 39,
+      "NN-FW": 6,
+      "FW-FW": 43,
+      "FW-NN": 2,
+      "NN-NNP": 5,
+      "NNP-NN": 14,
+      "NNP-FW": 4,
+      "FW-NNP": 5,
+      "FW-NNS": 3,
+      "NNS-VBP": 11,
+      "VBP-NNS": 3,
+      "VBP-NNP": 2,
+      "NNS-NNS": 3,
+      "VBP-JJ": 7,
+      "JJ-NNP": 6,
+      "NN-NNS": 4,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NN-IN": 7,
+      "IN-NN": 1,
+      "NN-JJ": 8,
+      "JJ-JJ": 3,
+      "JJ-NN": 12,
+      "NNS-IN": 1,
+      "IN-NNS": 3,
+      "JJ-NNS": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "IN-FW": 2,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NNP-JJ": 1,
+      "FW-JJ": 1,
+      "FW-VBP": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 33,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 19,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 2,
+      "VBP-NNP-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "NN-JJ-NNP": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NNP-NN-NNS": 1,
+      "FW-FW-NNP": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NN-IN-NNS": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-NNS": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NN-JJ": 1,
+      "NNP-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "FW": 56,
+        "NNP": 35,
+        "JJ": 22,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 39,
+        "NNP-NN": 14,
+        "NNP-NNP": 13,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 19,
+        "NNP-NN-NN": 9,
+        "NNS-VBP-JJ": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 63,
+      "PP": 6,
+      "VP": 17
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0316
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('misiles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP PP VP ('el', 'FW') ('lanzamiento', 'FW') ('de', 'FW') ('un', 'FW') ('misil', 'FW') NP ('2', 'CD') NP (',', ',') NP ('en', 'FW') NP (',', ',') NP ('de', 'FW') NP (',', ',') ('en', 'FW') ('los', 'FW') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('confirmaron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('balístico', 'NN') ('hipersónico', 'NN') ('“', 'NNP') ('Palestina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('”', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las Fuerzas Armadas"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "VP",
+        "text": "confirmaron este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "balístico hipersónico “ Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "”"
+      },
+      {
+        "label": "NP",
+        "text": "contra el aeropuerto Ben Gurion"
+      },
+      {
+        "label": "NP",
+        "text": "Lod"
+      },
+      {
+        "label": "NP",
+        "text": "cerca"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv"
+      },
+      {
+        "label": "NP",
+        "text": "territorios"
+      },
+      {
+        "label": "VP",
+        "text": "ocupados palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "por Israel"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Yemen/NNP))\n  (VP confirmaron/VBP (NP este/NN domingo/NN))\n  el/FW\n  lanzamiento/FW\n  de/FW\n  un/FW\n  misil/FW\n  (NP balístico/NN hipersónico/NN “/NNP Palestina/NNP)\n  2/CD\n  (NP ”/NNP)\n  ,/,\n  (NP contra/JJ el/NN aeropuerto/NN Ben/NNP Gurion/NNP)\n  en/FW\n  (NP Lod/NNP)\n  ,/,\n  (NP cerca/NN)\n  de/FW\n  (NP Tel/NNP Aviv/NNP)\n  ,/,\n  en/FW\n  los/FW\n  (NP territorios/NNS)\n  (VP ocupados/VBP (NP palestinos/NNS))\n  (VP por/VBP (NP Israel/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  operación/PRP\n  ,/,\n  (VP ejecutada/VBZ (NP por/JJ su/JJ unidad/NN))\n  (PP de/IN (NP misiles/NNS))\n  ,/,\n  se/FW\n  enmarca/FW\n  dentro/FW\n  de/FW\n  las/FW\n  (NP acciones/NNS militares/NNS)\n  (VP en/VBP)\n  (PP\n    apoyo/IN\n    (NP\n      a/DT\n      Palestina/NNP\n      y/NN\n      como/NN\n      represalia/NN\n      por/NN\n      los/NN\n      ataques/NNS))\n  (VP israelíes/VBP (NP contra/JJ Yemen/NNS))\n  ./.)",
+      "(S\n  (NP Sobre/NNP la/NN acción/NN militar/NN)\n  ,/,\n  el/FW\n  portavoz/FW\n  (NP militar/NN yemení/NN)\n  ,/,\n  (VP el/VBZ (NP general/JJ Yahya/NNP Sari/NNP))\n  ,/,\n  (NP declaró/NN que/NN el/NN ataque/NN logró/NN su/NN objetivo/NN)\n  ,/,\n  (NP provocando/NN el/NN)\n  (NP cierre/JJ temporal/JJ del/NN espacio/NN aéreo/NN y/NN)\n  (VP obligando/VBZ (NP a/DT miles/NNS) de/RB)\n  (VP colonos/VBP (NP a/DT refugiarse/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP reiteró/NN que/NN)\n  (NP las/JJ operaciones/NNS)\n  (VP\n    continuarán/VBP\n    (NP “/JJ hasta/NN que/NN)\n    (NP cese/JJ la/NN agresión/NN y/NN el/NN bloqueo/NN)\n    (NP contra/JJ Gaza/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP Ejército/NNP israelí/NN reconoció/NN la/NN)\n  detección/FW\n  del/FW\n  misil/FW\n  y/FW\n  activó/FW\n  sus/FW\n  sistemas/FW\n  de/FW\n  defensa/FW\n  ,/,\n  (VP aunque/VBZ (NP no/DT confirmó/NN daños/NN significativos/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque logró su objetivo, provocando el cierre temporal del espacio aéreo",
+        "position": [
+          492,
+          565
+        ],
+        "start": 492,
+        "end": 565
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          369,
+          386
+        ],
+        "start": 369,
+        "end": 386
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1509,
+          1516
+        ],
+        "start": 1509,
+        "end": 1516
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "en apoyo a palestina",
+        "position": [
+          322,
+          342
+        ],
+        "start": 322,
+        "end": 342
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          477,
+          484
+        ],
+        "start": 477,
+        "end": 484
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          792,
+          799
+        ],
+        "start": 792,
+        "end": 799
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo contra gaza",
+        "position": [
+          692,
+          711
+        ],
+        "start": 692,
+        "end": 711
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          128,
+          138
+        ],
+        "start": 128,
+        "end": 138
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          104,
+          113
+        ],
+        "start": 104,
+        "end": 113
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región central",
+        "position": [
+          881,
+          895
+        ],
+        "start": 881,
+        "end": 895
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          692,
+          699
+        ],
+        "start": 692,
+        "end": 699
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "aeropuerto Ben Gurion",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Yemen",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yahya Sari",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "CONFIRMAR",
+        "objeto": "aeropuerto Ben Gurion"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "CONFIRMAR",
+        "objeto": "Lod"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "CONFIRMAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "CONFIRMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "MANTENER",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "MANTENER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "MANTENER",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "QUEDAR_AFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "BOMBARDEAR_DESPU_S_PRODUCIR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "BOMBARDEAR_DESPU_S_PRODUCIR",
+        "objeto": "Yemen"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.01,
+    "neu": 0.98,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

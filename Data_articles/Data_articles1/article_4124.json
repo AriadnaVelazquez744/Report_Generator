@@ -1,0 +1,699 @@
+{
+  "url": "https://www.telesurtv.net/agresion-de-israel-deja-48-524-martires-en-gaza/",
+  "title": "Agresión de Israel deja 48.524 mártires en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Agresión israelí",
+    "Gaza",
+    "genocidio",
+    "justicia",
+    "Mártires palestinos",
+    "Palestina"
+  ],
+  "text": "El Ministerio de Salud Palestino reportó este jueves la llegada de nueve víctimas mortales a los hospitales, lo que eleva el número de mártires a 48.524 en el contexto de la brutal agresión israelí, perpetrada desde el 7 de octubre de 2023.\nLEA TAMBIÉN\n“Catástrofe humanitaria”: Hamás denuncia corte de electricidad en Gaza\nEn las últimas 24 horas, los hospitales recibieron, además de los nueve nuevos mártires, a 14 heridos, mientras que se presume que muchos cuerpos permanecen bajo los escombros, inaccesibles para los equipos de rescate.\nEsta masacre continúa sin cesar, mientras Israel viola constantemente los acuerdos de alto al fuego, intensificando el sufrimiento de la población y buscando presionar en las negociaciones de la segunda fase del conflicto.\nEste informe diario refleja el genocidio en curso, donde cada día la población palestina paga con su vida la incursión de un régimen que no muestra piedad ni respeto por los derechos humanos.\nLa situación en Gaza empeora con el paso de los días, la escasez de alimentos y productos básicos se agudiza debido al bloqueo impuesto por Israel desde hace dos semanas.\nLa falta de electricidad, junto con el corte de suministro a la planta desalinizadora de Deir al-Balah, amenaza con desencadenar una catástrofe humanitaria mayor, con la escasez de agua como principal riesgo.\nHamas ha calificado esta política como un crimen de guerra y responsabiliza al gobierno de Israel por el desabastecimiento.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/agresion-de-israel-deja-48-524-martires-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1381,
+    "message_id": 89105,
+    "date": "2025-03-14T04:55:07+00:00",
+    "text": "teleSUR\nAgresión de Israel deja 48.524 mártires en Gaza\nhttps://www.telesurtv.net/agresion-de-israel-deja-48-524-martires-en-gaza/",
+    "photo_path": null,
+    "views": 1788,
+    "reactions": {
+      "🤬": 30,
+      "😢": 7,
+      "😈": 3
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de salud palestino reportó este jueves la llegada de nueve víctimas mortales a los hospitales, lo que eleva el número de mártires a 48.524 en el contexto de la brutal agresión israelí, perpetrada desde el 7 de octubre de 2023. en las últimas 24 horas, los hospitales recibieron, además de los nueve nuevos mártires, a 14 heridos, mientras que se presume que muchos cuerpos permanecen bajo los escombros, inaccesibles para los equipos de rescate. esta masacre continúa sin cesar, mientras israel viola constantemente los acuerdos de alto al fuego, intensificando el sufrimiento de la población y buscando presionar en las negociaciones de la segunda fase del conflicto. este informe diario refleja el genocidio en curso, donde cada día la población palestina paga con su vida la incursión de un régimen que no muestra piedad ni respeto por los derechos humanos. la situación en gaza empeora con el paso de los días, la escasez de alimentos y productos básicos se agudiza debido al bloqueo impuesto por israel desde hace dos semanas. la falta de electricidad, junto con el corte de suministro a la planta desalinizadora de deir al-balah, amenaza con desencadenar una catástrofe humanitaria mayor, con la escasez de agua como principal riesgo. hamas ha calificado esta política como un crimen de guerra y responsabiliza al gobierno de israel por el desabastecimiento.",
+    "tokens": [
+      "ministerio",
+      "salud",
+      "palestino",
+      "reportó",
+      "jueves",
+      "llegada",
+      "nueve",
+      "víctimas",
+      "mortales",
+      "hospitales",
+      ",",
+      "eleva",
+      "número",
+      "mártires",
+      "48.524",
+      "contexto",
+      "brutal",
+      "agresión",
+      "israelí",
+      ",",
+      "perpetrada",
+      "7",
+      "octubre",
+      "2023.",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "hospitales",
+      "recibieron",
+      ",",
+      "además",
+      "nueve",
+      "nuevos",
+      "mártires",
+      ",",
+      "14",
+      "heridos",
+      ",",
+      "mientras",
+      "presume",
+      "cuerpos",
+      "permanecen",
+      "bajo",
+      "escombros",
+      ",",
+      "inaccesibles",
+      "equipos",
+      "rescate",
+      ".",
+      "masacre",
+      "continúa",
+      "cesar",
+      ",",
+      "mientras",
+      "israel",
+      "viola",
+      "constantemente",
+      "acuerdos",
+      "alto",
+      "fuego",
+      ",",
+      "intensificando",
+      "sufrimiento",
+      "población",
+      "buscando",
+      "presionar",
+      "negociaciones",
+      "segunda",
+      "fase",
+      "conflicto",
+      ".",
+      "informe",
+      "diario",
+      "refleja",
+      "genocidio",
+      "curso",
+      ",",
+      "cada",
+      "día",
+      "población",
+      "palestina",
+      "paga",
+      "vida",
+      "incursión",
+      "régimen",
+      "muestra",
+      "piedad",
+      "respeto",
+      "derechos",
+      "humanos",
+      ".",
+      "situación",
+      "gaza",
+      "empeora",
+      "paso",
+      "días",
+      ",",
+      "escasez",
+      "alimentos",
+      "productos",
+      "básicos",
+      "agudiza",
+      "debido",
+      "bloqueo",
+      "impuesto",
+      "israel",
+      "hace",
+      "dos",
+      "semanas",
+      ".",
+      "falta",
+      "electricidad",
+      ",",
+      "junto",
+      "corte",
+      "suministro",
+      "planta",
+      "desalinizadora",
+      "deir",
+      "al-balah",
+      ",",
+      "amenaza",
+      "desencadenar",
+      "catástrofe",
+      "humanitaria",
+      "mayor",
+      ",",
+      "escasez",
+      "agua",
+      "principal",
+      "riesgo",
+      ".",
+      "hamas",
+      "calificado",
+      "política",
+      "crimen",
+      "guerra",
+      "responsabiliza",
+      "gobierno",
+      "israel",
+      "desabastecimiento",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "IN": 12,
+      "VBP": 9,
+      "NN": 90,
+      "NNS": 13,
+      "FW": 54,
+      "JJ": 19,
+      "CD": 4,
+      "VBZ": 2,
+      "$": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 6,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 3,
+      "NN-NNS": 5,
+      "NNS-VBP": 8,
+      "VBP-FW": 1,
+      "FW-FW": 32,
+      "FW-NN": 10,
+      "VBP-NNS": 1,
+      "VBP-JJ": 3,
+      "JJ-NN": 12,
+      "NN-NN": 53,
+      "NN-IN": 8,
+      "IN-NNS": 1,
+      "NNS-CD": 1,
+      "CD-JJ": 1,
+      "JJ-FW": 3,
+      "IN-FW": 7,
+      "FW-JJ": 5,
+      "NN-FW": 10,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-NN": 10,
+      "NN-NNP": 6,
+      "FW-NNP": 5,
+      "NNP-VBZ": 1,
+      "VBZ-$": 1,
+      "$-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-NNS": 4,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-NN": 1,
+      "NN-JJ": 6,
+      "NNS-NNP": 1,
+      "IN-JJ": 1,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "FW-NNS": 1,
+      "VBP-DT": 1,
+      "DT-JJ": 1,
+      "NNP-FW": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 21,
+      "FW-FW-NN": 5,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 33,
+      "NN-NN-IN": 5,
+      "NN-IN-NNS": 1,
+      "IN-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 5,
+      "FW-JJ-NN": 4,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 6,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 6,
+      "NNP-NN-NN": 7,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-$": 1,
+      "VBZ-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNS": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "FW-NN-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "NN-NN-NNP": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-NN": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NNP": 2,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-JJ-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-NN-NN": 1,
+      "FW-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 54,
+        "NNP": 21,
+        "JJ": 19,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 32,
+        "JJ-NN": 12,
+        "FW-NN": 10,
+        "NN-FW": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 21,
+        "JJ-NN-NN": 7,
+        "NNP-NN-NN": 7,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 52,
+      "PP": 3,
+      "VP": 10,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 3,
+        "weight": 0.0405
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "NP -> ('corte', 'NN')",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "S -> NP PP VP VP ('llegada', 'FW') ('de', 'FW') ('nueve', 'FW') NP VP (',', ',') NP ('de', 'FW') VP ('a', 'DT') ('48.524', 'CD') NP ('de', 'IN') ('la', 'FW') NP (',', ',') NP VP ('7', 'CD') ('de', 'FW') ('octubre', 'FW') ('de', 'IN') ('2023', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP') ('Palestino', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "VP -> ('reportó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "VP -> ('la', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('víctimas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0135
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud Palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Salud Palestino"
+      },
+      {
+        "label": "VP",
+        "text": "reportó este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "víctimas"
+      },
+      {
+        "label": "VP",
+        "text": "mortales a los hospitales"
+      },
+      {
+        "label": "NP",
+        "text": "a los hospitales"
+      },
+      {
+        "label": "NP",
+        "text": "lo que eleva el número"
+      },
+      {
+        "label": "VP",
+        "text": "mártires"
+      },
+      {
+        "label": "NP",
+        "text": "en el contexto"
+      },
+      {
+        "label": "NP",
+        "text": "brutal agresión israelí"
+      },
+      {
+        "label": "NP",
+        "text": "perpetrada desde"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP Palestino/NNP))\n  (VP reportó/VBP (NP este/NN jueves/NNS))\n  (VP la/VBP)\n  llegada/FW\n  de/FW\n  nueve/FW\n  (NP víctimas/NN)\n  (VP mortales/VBZ (NP a/DT los/NN hospitales/NNS))\n  ,/,\n  (NP lo/JJ que/NN eleva/NN el/NN número/NN)\n  de/FW\n  (VP mártires/VBZ)\n  a/DT\n  48.524/CD\n  (NP en/NN el/NN contexto/NN)\n  de/IN\n  la/FW\n  (NP brutal/JJ agresión/NN israelí/NN)\n  ,/,\n  (NP perpetrada/JJ desde/NN)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP “/NNP Catástrofe/NNP humanitaria/NN ”/NN)\n  :/:\n  (NP Hamás/NNP)\n  (VP denuncia/VBZ (NP corte/NN))\n  de/IN\n  electricidad/FW\n  en/FW\n  (NP Gaza/NNP En/NNP)\n  (VP las/VBZ)\n  últimas/$\n  24/CD\n  (NP horas/NN)\n  ,/,\n  (NP los/JJ hospitales/NNS recibieron/NN)\n  ,/,\n  además/FW\n  de/FW\n  los/FW\n  (NP nueve/JJ nuevos/NN mártires/NNS)\n  ,/,\n  a/DT\n  14/CD\n  (NP heridos/NN)\n  ,/,\n  mientras/FW\n  que/FW\n  se/FW\n  (NP\n    presume/NN\n    que/NN\n    muchos/NN\n    cuerpos/NN\n    permanecen/NN\n    bajo/NN\n    los/NN\n    escombros/NN)\n  ,/,\n  (VP inaccesibles/VBZ)\n  para/FW\n  (ADJP los/JJ)\n  equipos/FW\n  de/FW\n  (NP rescate/NN)\n  ./.)",
+      "(S\n  (NP Esta/NNP masacre/NN continúa/NN sin/NN cesar/NN)\n  ,/,\n  mientras/FW\n  (NP Israel/NNP viola/NNP constantemente/NN los/NN acuerdos/NN)\n  de/IN\n  alto/FW\n  (NP al/JJ fuego/NN)\n  ,/,\n  (ADJP intensificando/JJ)\n  el/FW\n  sufrimiento/FW\n  de/FW\n  la/FW\n  población/FW\n  y/FW\n  (NP buscando/NN presionar/NN)\n  (PP en/IN (NP las/JJ negociaciones/NNS))\n  de/IN\n  la/FW\n  (NP segunda/JJ fase/NN del/NN conflicto/NN)\n  ./.)",
+      "(S\n  (NP Este/NNP informe/NN diario/NN refleja/NN el/NN genocidio/NN)\n  en/FW\n  (NP curso/NN)\n  ,/,\n  (NP donde/NN cada/NN día/NN la/NN)\n  población/FW\n  (NP palestina/NN paga/NN con/NN su/NN vida/NN la/NN)\n  incursión/FW\n  de/FW\n  un/FW\n  (NP régimen/NNS)\n  (VP\n    que/VBP\n    (NP no/DT muestra/JJ piedad/NN)\n    (NP ni/JJ respeto/NN por/NN los/NN)\n    (NP derechos/JJ humanos/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP situación/VBD (NP en/JJ Gaza/NNP))\n  empeora/FW\n  (NP con/NN)\n  el/FW\n  (NP paso/NN)\n  de/IN\n  los/FW\n  (NP días/NN)\n  ,/,\n  la/FW\n  escasez/FW\n  de/FW\n  alimentos/FW\n  y/FW\n  productos/FW\n  básicos/FW\n  se/FW\n  agudiza/FW\n  (NP\n    debido/NN\n    al/NN\n    bloqueo/NN\n    impuesto/NN\n    por/NN\n    Israel/NNP\n    desde/NN\n    hace/NN\n    dos/NN\n    semanas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "JUSTICIA_SOCIAL",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1085,
+          1093
+        ],
+        "start": 1085,
+        "end": 1093
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio en curso, donde cada día la población palestina",
+        "position": [
+          797,
+          854
+        ],
+        "start": 797,
+        "end": 854
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "catástrofe humanitaria",
+        "position": [
+          254,
+          276
+        ],
+        "start": 254,
+        "end": 276
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de alimentos",
+        "position": [
+          1015,
+          1035
+        ],
+        "start": 1015,
+        "end": 1035
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "falta de electricidad, junto con el corte de suministro a la planta desalinizadora de deir al-balah, amenaza con desencadenar una catástrofe humanitaria mayor, con la escasez de agua",
+        "position": [
+          1132,
+          1314
+        ],
+        "start": 1132,
+        "end": 1314
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de agua",
+        "position": [
+          1299,
+          1314
+        ],
+        "start": 1299,
+        "end": 1314
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de israel por",
+        "position": [
+          1417,
+          1439
+        ],
+        "start": 1417,
+        "end": 1439
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario refleja el",
+        "position": [
+          779,
+          796
+        ],
+        "start": 779,
+        "end": 796
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1310,
+          1314
+        ],
+        "start": 1310,
+        "end": 1314
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          303,
+          315
+        ],
+        "start": 303,
+        "end": 315
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          190,
+          197
+        ],
+        "start": 190,
+        "end": 197
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          219,
+          239
+        ],
+        "start": 219,
+        "end": 239
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1077,
+          1084
+        ],
+        "start": 1077,
+        "end": 1084
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          940,
+          956
+        ],
+        "start": 940,
+        "end": 956
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Deir al-Balah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud Palestino",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hamás",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "EMPEORAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "CALIFICAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8176,
+    "pos": 0.01,
+    "neu": 0.948,
+    "neg": 0.042,
+    "label": "negative"
+  }
+}

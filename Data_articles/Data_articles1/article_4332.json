@@ -1,0 +1,945 @@
+{
+  "url": "https://www.telesurtv.net/israel-creara-oficina-de-migracion-para-facilitar-limpieza-etnica/",
+  "title": "Israel creará oficina de migración para facilitar limpieza étnica - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Israel",
+    "Limpieza étnica"
+  ],
+  "text": "La limpieza étnica que se está llevando a cabo en los territorios palestinos ocupados se verá facilitada tras la creación de una oficina de administración migratoria, con la cual se pretende la expulsión de los palestinos de sus hogares, de acuerdo con autoridades del régimen sionista.\nLa información fue confirmada por el ministro de Finanzas de Israel, Bezalel Smotrich, durante una conferencia del lobby “Tierra de Israel” en la Knesset (poder legislativo), quien además declaró que “nos estamos preparando para ello bajo la dirección del primer ministro Benjamin Netanyahu y el ministro de Defensa, Israel Katz”.\nSin embargo, este último declaró en días pasados que concederá a los palestinos que quieran abandonar Gaza por su propia voluntad, la posibilidad de hacerlo a través del puerto de Ashdod y del aeropuerto de Ramon en Eilat.\nPara esta alternativa, que constituye una violación de los derechos humanos, se cuenta con un presupuesto ilimitado, puesto que desde el comienzo de la masacre en octubre de 2023, los altos mandos de Israel han contemplado múltiples formas de despojar a los palestinos de sus derechos y, posteriormente, reemplazar la población de Gaza por colonos judíos.\nTodos estos planes han sido apoyados por el gobierno proisraelí de Donald Trump, quien hace unas semanas volvió a presentar los objetivos de Israel de expulsar por la fuerza a los ciudadanos legítimos de Gaza, alegando que con esta acción se reconstruiría Gaza y se convertiría en la “Riviera de Oriente Próximo”.\nPor otra parte, los ataques asestados por el ocupante se intensificaron durante el último año, con lo cual la zona resulta un lugar inhabitable, debido a que los bombardeos hacia escuelas, hospitales, zonas residenciales, campamentos de refugiados y ONG que laboran en la Franja son los objetivos más comunes.\nDe igual forma, han impedido la entrada de insumos médicos y comida destinados a todos aquellos que perdieron sus hogares durante el conflicto. Este domingo las autoridades israelíes cortaron el fluido eléctrico en la Franja.\nNo obstante, los planes de Israel y, por consiguiente, de Estados Unidos, podrían ser frenados luego de que la cumbre extraordinaria de líderes de la Liga Árabe aprobase un plan de Egipto para la reconstrucción de Gaza por un periodo de cinco años.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-creara-oficina-de-migracion-para-facilitar-limpieza-etnica/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1712,
+    "message_id": 88743,
+    "date": "2025-03-10T07:55:08+00:00",
+    "text": "teleSUR\nIsrael creará oficina de migración para facilitar limpieza étnica\nhttps://www.telesurtv.net/israel-creara-oficina-de-migracion-para-facilitar-limpieza-etnica/",
+    "photo_path": null,
+    "views": 2254,
+    "reactions": {
+      "🤮": 42,
+      "🤬": 13,
+      "😈": 7,
+      "👍": 1
+    },
+    "total_reactions": 63
+  },
+  "preprocessing": {
+    "cleaned": "la limpieza étnica que se está llevando a cabo en los territorios palestinos ocupados se verá facilitada tras la creación de una oficina de administración migratoria, con la cual se pretende la expulsión de los palestinos de sus hogares, de acuerdo con autoridades del régimen sionista. la información fue confirmada por el ministro de finanzas de israel, bezalel smotrich, durante una conferencia del lobby “tierra de israel” en la knesset (poder legislativo), quien además declaró que “nos estamos preparando para ello bajo la dirección del primer ministro benjamin netanyahu y el ministro de defensa, israel katz”. sin embargo, este último declaró en días pasados que concederá a los palestinos que quieran abandonar gaza por su propia voluntad, la posibilidad de hacerlo a través del puerto de ashdod y del aeropuerto de ramon en eilat. para esta alternativa, que constituye una violación de los derechos humanos, se cuenta con un presupuesto ilimitado, puesto que desde el comienzo de la masacre en octubre de 2023, los altos mandos de israel han contemplado múltiples formas de despojar a los palestinos de sus derechos y, posteriormente, reemplazar la población de gaza por colonos judíos. todos estos planes han sido apoyados por el gobierno proisraelí de donald trump, quien hace unas semanas volvió a presentar los objetivos de israel de expulsar por la fuerza a los ciudadanos legítimos de gaza, alegando que con esta acción se reconstruiría gaza y se convertiría en la “riviera de oriente próximo”. por otra parte, los ataques asestados por el ocupante se intensificaron durante el último año, con lo cual la zona resulta un lugar inhabitable, debido a que los bombardeos hacia escuelas, hospitales, zonas residenciales, campamentos de refugiados y ong que laboran en la franja son los objetivos más comunes. de igual forma, han impedido la entrada de insumos médicos y comida destinados a todos aquellos que perdieron sus hogares durante el conflicto. este domingo las autoridades israelíes cortaron el fluido eléctrico en la franja. no obstante, los planes de israel y, por consiguiente, de estados unidos, podrían ser frenados luego de que la cumbre extraordinaria de líderes de la liga árabe aprobase un plan de egipto para la reconstrucción de gaza por un periodo de cinco años.",
+    "tokens": [
+      "limpieza",
+      "étnica",
+      "llevando",
+      "cabo",
+      "territorios",
+      "palestinos",
+      "ocupados",
+      "verá",
+      "facilitada",
+      "tras",
+      "creación",
+      "oficina",
+      "administración",
+      "migratoria",
+      ",",
+      "pretende",
+      "expulsión",
+      "palestinos",
+      "hogares",
+      ",",
+      "acuerdo",
+      "autoridades",
+      "régimen",
+      "sionista",
+      ".",
+      "información",
+      "confirmada",
+      "ministro",
+      "finanzas",
+      "israel",
+      ",",
+      "bezalel",
+      "smotrich",
+      ",",
+      "conferencia",
+      "lobby",
+      "“",
+      "tierra",
+      "israel",
+      "”",
+      "knesset",
+      "(",
+      "poder",
+      "legislativo",
+      ")",
+      ",",
+      "además",
+      "declaró",
+      "“",
+      "preparando",
+      "ello",
+      "bajo",
+      "dirección",
+      "primer",
+      "ministro",
+      "benjamin",
+      "netanyahu",
+      "ministro",
+      "defensa",
+      ",",
+      "israel",
+      "katz",
+      "”",
+      ".",
+      "embargo",
+      ",",
+      "último",
+      "declaró",
+      "días",
+      "pasados",
+      "concederá",
+      "palestinos",
+      "quieran",
+      "abandonar",
+      "gaza",
+      "propia",
+      "voluntad",
+      ",",
+      "posibilidad",
+      "hacerlo",
+      "través",
+      "puerto",
+      "ashdod",
+      "aeropuerto",
+      "ramon",
+      "eilat",
+      ".",
+      "alternativa",
+      ",",
+      "constituye",
+      "violación",
+      "derechos",
+      "humanos",
+      ",",
+      "cuenta",
+      "presupuesto",
+      "ilimitado",
+      ",",
+      "puesto",
+      "comienzo",
+      "masacre",
+      "octubre",
+      "2023",
+      ",",
+      "altos",
+      "mandos",
+      "israel",
+      "contemplado",
+      "múltiples",
+      "formas",
+      "despojar",
+      "palestinos",
+      "derechos",
+      ",",
+      "posteriormente",
+      ",",
+      "reemplazar",
+      "población",
+      "gaza",
+      "colonos",
+      "judíos",
+      ".",
+      "planes",
+      "sido",
+      "apoyados",
+      "gobierno",
+      "proisraelí",
+      "donald",
+      "trump",
+      ",",
+      "hace",
+      "unas",
+      "semanas",
+      "volvió",
+      "presentar",
+      "objetivos",
+      "israel",
+      "expulsar",
+      "fuerza",
+      "ciudadanos",
+      "legítimos",
+      "gaza",
+      ",",
+      "alegando",
+      "acción",
+      "reconstruiría",
+      "gaza",
+      "convertiría",
+      "“",
+      "riviera",
+      "oriente",
+      "próximo",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "ataques",
+      "asestados",
+      "ocupante",
+      "intensificaron",
+      "último",
+      "año",
+      ",",
+      "zona",
+      "resulta",
+      "lugar",
+      "inhabitable",
+      ",",
+      "debido",
+      "bombardeos",
+      "hacia",
+      "escuelas",
+      ",",
+      "hospitales",
+      ",",
+      "zonas",
+      "residenciales",
+      ",",
+      "campamentos",
+      "refugiados",
+      "ong",
+      "laboran",
+      "franja",
+      "objetivos",
+      "comunes",
+      ".",
+      "igual",
+      "forma",
+      ",",
+      "impedido",
+      "entrada",
+      "insumos",
+      "médicos",
+      "comida",
+      "destinados",
+      "aquellos",
+      "perdieron",
+      "hogares",
+      "conflicto",
+      ".",
+      "domingo",
+      "autoridades",
+      "israelíes",
+      "cortaron",
+      "fluido",
+      "eléctrico",
+      "franja",
+      ".",
+      "obstante",
+      ",",
+      "planes",
+      "israel",
+      ",",
+      "consiguiente",
+      ",",
+      "unidos",
+      ",",
+      "podrían",
+      "ser",
+      "frenados",
+      "luego",
+      "cumbre",
+      "extraordinaria",
+      "líderes",
+      "liga",
+      "árabe",
+      "aprobase",
+      "plan",
+      "egipto",
+      "reconstrucción",
+      "gaza",
+      "periodo",
+      "cinco",
+      "años",
+      "."
+    ],
+    "token_count": 235,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 54,
+      "VBZ": 5,
+      "NN": 128,
+      "FW": 86,
+      "IN": 20,
+      "JJ": 30,
+      "NNS": 16,
+      "VBP": 12,
+      "CD": 1,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-NNP": 1,
+      "NNP-NN": 18,
+      "NN-NN": 71,
+      "NN-FW": 14,
+      "FW-NN": 14,
+      "NN-IN": 14,
+      "IN-JJ": 2,
+      "JJ-NNS": 4,
+      "NNS-VBP": 11,
+      "VBP-JJ": 5,
+      "JJ-NN": 22,
+      "NN-NNS": 7,
+      "VBP-FW": 1,
+      "FW-FW": 51,
+      "FW-JJ": 3,
+      "FW-VBZ": 1,
+      "VBZ-FW": 1,
+      "VBP-NNS": 2,
+      "VBP-NNP": 2,
+      "NNP-FW": 9,
+      "FW-NNP": 16,
+      "NNP-IN": 2,
+      "IN-NNP": 9,
+      "NNP-NNP": 18,
+      "VBZ-JJ": 2,
+      "NN-NNP": 6,
+      "NN-JJ": 14,
+      "IN-FW": 8,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "VBP-IN": 1,
+      "JJ-FW": 2,
+      "JJ-JJ": 2,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NNS-NNS": 1,
+      "NNS-IN": 3,
+      "NNS-NNP": 1,
+      "NNP-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "VBD-NNS": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-NN-NN": 12,
+      "NN-NN-FW": 10,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 7,
+      "NN-NN-IN": 6,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 13,
+      "NN-NN-NN": 37,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 39,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-FW-FW": 6,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 5,
+      "FW-FW-NNP": 7,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-IN": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 5,
+      "NN-NN-JJ": 10,
+      "NN-JJ-NN": 13,
+      "FW-NNP-NNP": 7,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "FW-NNP-FW": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 6,
+      "IN-NNP-FW": 2,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NN-NNS": 2,
+      "VBP-NNP-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-NNP-NN": 2,
+      "IN-FW-NNP": 4,
+      "NN-FW-NNP": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "JJ-NN-NNP": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNS": 1,
+      "VBD-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NN-JJ": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 128,
+        "FW": 86,
+        "NNP": 54,
+        "JJ": 30,
+        "IN": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 71,
+        "FW-FW": 51,
+        "JJ-NN": 22,
+        "NNP-NN": 18,
+        "NNP-NNP": 18
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 39,
+        "NN-NN-NN": 37,
+        "JJ-NN-NN": 13,
+        "NN-JJ-NN": 13,
+        "NNP-NN-NN": 12
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 100,
+      "VP": 23,
+      "PP": 11,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 9,
+        "weight": 0.0621
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "S -> NP VP VP VP PP VP VP ('creación', 'FW') ('de', 'FW') ('una', 'FW') ('oficina', 'FW') ('de', 'FW') ('administración', 'FW') NP (',', ',') NP ('la', 'FW') NP ('expulsión', 'FW') ('de', 'FW') ('los', 'FW') ('palestinos', 'FW') ('de', 'FW') ('sus', 'FW') NP (',', ',') ('de', 'FW') ('acuerdo', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "VP -> ('limpieza', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "NP -> ('étnica', 'NNP') ('que', 'NN') ('se', 'NN')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "VP -> ('está', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "VP -> ('llevando', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0069
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "limpieza étnica que se"
+      },
+      {
+        "label": "NP",
+        "text": "étnica que se"
+      },
+      {
+        "label": "VP",
+        "text": "está"
+      },
+      {
+        "label": "VP",
+        "text": "llevando a cabo"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo"
+      },
+      {
+        "label": "PP",
+        "text": "en los territorios"
+      },
+      {
+        "label": "NP",
+        "text": "los territorios"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos ocupados se verá facilitada tras"
+      },
+      {
+        "label": "NP",
+        "text": "ocupados se verá facilitada tras"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "migratoria"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "cual se pretende la"
+      },
+      {
+        "label": "NP",
+        "text": "hogares"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP limpieza/VBZ (NP étnica/NNP que/NN se/NN))\n  (VP está/VBZ)\n  (VP llevando/VBZ (NP a/DT cabo/NN))\n  (PP en/IN (NP los/JJ territorios/NNS))\n  (VP\n    palestinos/VBP\n    (NP ocupados/JJ se/NN verá/NN facilitada/NN tras/NNS))\n  (VP la/VBP)\n  creación/FW\n  de/FW\n  una/FW\n  oficina/FW\n  de/FW\n  administración/FW\n  (NP migratoria/NNS)\n  ,/,\n  (NP con/NN)\n  la/FW\n  (NP cual/JJ se/NN pretende/NN la/NN)\n  expulsión/FW\n  de/FW\n  los/FW\n  palestinos/FW\n  de/FW\n  sus/FW\n  (NP hogares/NNS)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN autoridades/NNS)\n  (VP del/VBP (NP régimen/NNS sionista/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP información/VBZ (NP fue/JJ confirmada/NNS))\n  (VP por/VBP el/JJ)\n  ministro/FW\n  de/FW\n  (NP Finanzas/NNP)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP Bezalel/NNP Smotrich/NNP)\n  ,/,\n  (NP durante/NN)\n  (NP una/JJ conferencia/NN del/NN lobby/NN “/NNP Tierra/NNP)\n  (PP de/IN (NP Israel/NNP ”/NNP))\n  en/FW\n  (NP la/NN Knesset/NNP)\n  (/(\n  (VP poder/VB (NP legislativo/NN))\n  )/)\n  ,/,\n  (NP quien/JJ además/NN declaró/NN que/NN “/NNP)\n  nos/CC\n  (NP estamos/JJ preparando/NN para/NN)\n  ello/FW\n  (NP bajo/NN)\n  la/FW\n  dirección/FW\n  del/FW\n  primer/FW\n  ministro/FW\n  (NP Benjamin/NNP Netanyahu/NNP y/NNP)\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Defensa/NNP)\n  ,/,\n  (NP Israel/NNP Katz/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP este/NN último/NNP declaró/NN)\n  en/FW\n  (NP días/NN pasados/NN que/NN)\n  (VP concederá/VBD (NP a/DT los/JJ palestinos/NN que/NN))\n  (VP\n    quieran/VBD\n    (NP abandonar/JJ Gaza/NNP por/NN su/NN propia/NN voluntad/NN))\n  ,/,\n  la/FW\n  posibilidad/FW\n  de/FW\n  hacerlo/FW\n  (NP a/DT través/NN del/NN puerto/NN)\n  (PP de/IN (NP Ashdod/NNP y/NNP))\n  del/FW\n  (NP aeropuerto/NN)\n  (PP de/IN (NP Ramon/NNP))\n  en/FW\n  (NP Eilat/NNP)\n  ./.)",
+      "(S\n  (NP Para/NNP esta/NN alternativa/NN)\n  ,/,\n  (NP que/JJ constituye/NN)\n  (NP una/JJ violación/NN)\n  de/IN\n  los/FW\n  (NP derechos/JJ humanos/NN)\n  ,/,\n  se/FW\n  (NP cuenta/JJ con/NN)\n  (NP un/JJ presupuesto/NN ilimitado/NN)\n  ,/,\n  (NP puesto/NN que/NN desde/NN)\n  el/FW\n  (NP comienzo/NN)\n  de/IN\n  la/FW\n  masacre/FW\n  en/FW\n  octubre/FW\n  de/FW\n  2023/CD\n  ,/,\n  los/FW\n  (ADJP altos/JJ)\n  mandos/FW\n  de/FW\n  (NP Israel/NNP han/NN contemplado/NN múltiples/NNS)\n  (VP formas/VBP)\n  de/FW\n  despojar/FW\n  (NP a/DT los/JJ palestinos/NN)\n  de/IN\n  sus/FW\n  (NP derechos/NN y/NN)\n  ,/,\n  (NP posteriormente/NN)\n  ,/,\n  (VP reemplazar/VB)\n  la/FW\n  población/FW\n  de/FW\n  (NP Gaza/NNP por/NN colonos/NN judíos/NN)\n  ./.)",
+      "(S\n  (NP Todos/NNP estos/NN planes/NNS)\n  (VP han/VBP (NP sido/JJ apoyados/NNS))\n  (VP por/VBP (NP el/JJ gobierno/NN proisraelí/NN))\n  (PP de/IN (NP Donald/NNP Trump/NNP))\n  ,/,\n  (NP quien/JJ hace/NN)\n  (NP unas/JJ semanas/NN volvió/NN)\n  (NP a/DT presentar/NN los/NN)\n  objetivos/FW\n  de/FW\n  (NP Israel/NNP)\n  de/FW\n  expulsar/FW\n  por/FW\n  la/FW\n  fuerza/FW\n  (NP a/DT los/NN)\n  (NP ciudadanos/JJ legítimos/NN)\n  (PP de/IN (NP Gaza/NNP))\n  ,/,\n  (NP\n    alegando/NN\n    que/NN\n    con/NN\n    esta/NN\n    acción/NN\n    se/NN\n    reconstruiría/NN\n    Gaza/NNP\n    y/NNP)\n  (VP se/VBD convertiría/JJ)\n  en/FW\n  la/FW\n  “/FW\n  (NP Riviera/NNP)\n  de/FW\n  (NP Oriente/NNP Próximo/NNP ”/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "JUSTICIA_SOCIAL",
+      "ORGANIZACIONES_SOCIALES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto. este domingo las autoridades israelíes cortaron el fluido eléctrico en la",
+        "position": [
+          1954,
+          2038
+        ],
+        "start": 1954,
+        "end": 2038
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          475,
+          482
+        ],
+        "start": 475,
+        "end": 482
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          595,
+          602
+        ],
+        "start": 595,
+        "end": 602
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de finanzas de",
+        "position": [
+          324,
+          347
+        ],
+        "start": 324,
+        "end": 347
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "ong",
+        "position": [
+          1761,
+          1764
+        ],
+        "start": 1761,
+        "end": 1764
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          788,
+          794
+        ],
+        "start": 788,
+        "end": 794
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          2105,
+          2119
+        ],
+        "start": 2105,
+        "end": 2119
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona resulta",
+        "position": [
+          1621,
+          1633
+        ],
+        "start": 1621,
+        "end": 1633
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          622,
+          629
+        ],
+        "start": 622,
+        "end": 629
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          900,
+          916
+        ],
+        "start": 900,
+        "end": 916
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "ministro de Defensa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Knesset",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel Katz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "aeropuerto de Ramon",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Eilat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Finanzas de Israel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ashdod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Riviera de Oriente Próximo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Liga Árabe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Benjamin Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bezalel Smotrich",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tierra de Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Finanzas de Israel",
+        "relacion": "CONFIRMAR",
+        "objeto": "Tierra de Israel"
+      },
+      {
+        "sujeto": "Finanzas de Israel",
+        "relacion": "CONFIRMAR",
+        "objeto": "Knesset"
+      },
+      {
+        "sujeto": "Finanzas de Israel",
+        "relacion": "CONFIRMAR",
+        "objeto": "Benjamin Netanyahu"
+      },
+      {
+        "sujeto": "Finanzas de Israel",
+        "relacion": "CONFIRMAR",
+        "objeto": "ministro de Defensa"
+      },
+      {
+        "sujeto": "Finanzas de Israel",
+        "relacion": "CONFIRMAR",
+        "objeto": "Israel Katz"
+      },
+      {
+        "sujeto": "Bezalel Smotrich",
+        "relacion": "CONFIRMAR",
+        "objeto": "Tierra de Israel"
+      },
+      {
+        "sujeto": "Bezalel Smotrich",
+        "relacion": "CONFIRMAR",
+        "objeto": "Knesset"
+      },
+      {
+        "sujeto": "Bezalel Smotrich",
+        "relacion": "CONFIRMAR",
+        "objeto": "Benjamin Netanyahu"
+      },
+      {
+        "sujeto": "Bezalel Smotrich",
+        "relacion": "CONFIRMAR",
+        "objeto": "ministro de Defensa"
+      },
+      {
+        "sujeto": "Bezalel Smotrich",
+        "relacion": "CONFIRMAR",
+        "objeto": "Israel Katz"
+      },
+      {
+        "sujeto": "ministro de Defensa",
+        "relacion": "ES",
+        "objeto": "Israel Katz"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ABANDONAR_QUERER_CONCEDER_DECLARAR",
+        "objeto": "Ashdod"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ABANDONAR_QUERER_CONCEDER_DECLARAR",
+        "objeto": "aeropuerto de Ramon"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ABANDONAR_QUERER_CONCEDER_DECLARAR",
+        "objeto": "Eilat"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONTEMPLAR_CONTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "VOLVER_APOYAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "VOLVER_APOYAR",
+        "objeto": "Riviera de Oriente Próximo"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "EXPULSAR_VOLVER_APOYAR",
+        "objeto": "Riviera de Oriente Próximo"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "RECONSTRUIR_ALEGAR_VOLVER_APOYAR",
+        "objeto": "Riviera de Oriente Próximo"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "FRENAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "FRENAR",
+        "objeto": "Liga Árabe"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "FRENAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "FRENAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "POR_FRENAR",
+        "objeto": "Liga Árabe"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "POR_FRENAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "POR_FRENAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Liga Árabe",
+        "relacion": "APROBAR_LUEGO_FRENAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Liga Árabe",
+        "relacion": "APROBAR_LUEGO_FRENAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "APROBAR_LUEGO_FRENAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6908,
+    "pos": 0.003,
+    "neu": 0.981,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

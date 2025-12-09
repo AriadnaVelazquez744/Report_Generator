@@ -1,0 +1,924 @@
+{
+  "url": "https://www.telesurtv.net/yemen-advierte-israel-guerra-entra-nueva-fase/",
+  "title": "Yemen advierte a Israel: “La guerra ha entrado en una nueva fase y la respuesta será decisiva”",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Guerra",
+    "hutíes",
+    "Israel",
+    "Yemen"
+  ],
+  "text": "El miembro del buró político del movimiento yemení Ansarollah, Mohammed al-Bujaiti, declaró a la televisora Al Mayadeen que el ataque del régimen israelí contra la cúpula gubernamental es “un cruce de líneas rojas” y que el conflicto “ha entrado en una nueva etapa” donde la respuesta será ineludible y proporcional.\n\nLEA TAMBIÉN:Yemen denuncia que Israel asesinó a su Primer Ministro durante ataques contra Saná\n\nAl-Bujaiti reiteró que la causa palestina sigue siendo la prioridad de la resistencia yemení, destacando que el discurso del presidente Mahdi al-Mashat “ratifica la decisión de apoyar a Palestina y Gaza con hechos, no solo con palabras”.\nSubrayó que “el enemigo sionista no logrará quebrar la voluntad del pueblo yemení”, que ha resistido múltiples agresiones y ha logrado golpear intereses británicos y estadounidenses, y “hará lo mismo con Israel”.\n“Las operaciones continuarán mientras persista el genocidio en Gaza”, advirtió el buró político de Ansarollah en un comunicado oficial, añadiendo que los mártires de esta agresión se suman a la larga lista de quienes dieron su vida por la causa palestina.\n\n\nLos ataques israelíes en Yemen se producen en el marco de la campaña genocida lanzada por Tel Aviv contra la Franaj de Gaza desde octubre de 2023, la cual ha dejado miles de personas asesinadas y desplazadas, además de una hambruna catastrófica en el devastado enclave palestino.\nEn respuesta, las fuerzas armadas yemeníes han llevado a cabo operaciones casi diarias contra objetivos estratégicos israelíes, desde puertos hasta infraestructuras militares, además de un bloqueo en el Mar Rojo que afecta a embarcaciones vinculadas al régimen sionista.\n\n\nLa reciente agresión, que eliminó a parte de la dirigencia política de Yemen, ha desencadenado un mensaje claro desde Sanaá: “Nuestra venganza no duerme, días oscuros les esperan… no conocerán seguridad a partir de hoy”, advirtió el presidente Mahdi al-Mashat.\nEl líder yemení instó incluso a las empresas extranjeras a abandonar los territorios palestinos ocupados antes de que “sea demasiado tarde”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/yemen-advierte-israel-guerra-entra-nueva-fase/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 55,
+    "message_id": 103339,
+    "date": "2025-08-31T03:55:07+00:00",
+    "text": "teleSUR\nYemen advierte a Israel: “La guerra ha entrado en una nueva fase y la respuesta será decisiva”\nhttps://www.telesurtv.net/yemen-advierte-israel-guerra-entra-nueva-fase/",
+    "photo_path": null,
+    "views": 1925,
+    "reactions": {
+      "❤": 52,
+      "👏": 21,
+      "💯": 7,
+      "🖕": 5,
+      "👍": 1
+    },
+    "total_reactions": 86
+  },
+  "preprocessing": {
+    "cleaned": "el miembro del buró político del movimiento yemení ansarollah, mohammed al-bujaiti, declaró a la televisora al mayadeen que el ataque del régimen israelí contra la cúpula gubernamental es “un cruce de líneas rojas” y que el conflicto “ha entrado en una nueva etapa” donde la respuesta será ineludible y proporcional. al-bujaiti reiteró que la causa palestina sigue siendo la prioridad de la resistencia yemení, destacando que el discurso del presidente mahdi al-mashat “ratifica la decisión de apoyar a palestina y gaza con hechos, no solo con palabras”. subrayó que “el enemigo sionista no logrará quebrar la voluntad del pueblo yemení”, que ha resistido múltiples agresiones y ha logrado golpear intereses británicos y estadounidenses, y “hará lo mismo con israel”. “las operaciones continuarán mientras persista el genocidio en gaza”, advirtió el buró político de ansarollah en un comunicado oficial, añadiendo que los mártires de esta agresión se suman a la larga lista de quienes dieron su vida por la causa palestina. los ataques israelíes en yemen se producen en el marco de la campaña genocida lanzada por tel aviv contra la franaj de gaza desde octubre de 2023, la cual ha dejado miles de personas asesinadas y desplazadas, además de una hambruna catastrófica en el devastado enclave palestino. en respuesta, las fuerzas armadas yemeníes han llevado a cabo operaciones casi diarias contra objetivos estratégicos israelíes, desde puertos hasta infraestructuras militares, además de un bloqueo en el mar rojo que afecta a embarcaciones vinculadas al régimen sionista. la reciente agresión, que eliminó a parte de la dirigencia política de yemen, ha desencadenado un mensaje claro desde sanaá: “nuestra venganza no duerme, días oscuros les esperan… no conocerán seguridad a partir de hoy”, advirtió el presidente mahdi al-mashat. el líder yemení instó incluso a las empresas extranjeras a abandonar los territorios palestinos ocupados antes de que “sea demasiado tarde”.",
+    "tokens": [
+      "miembro",
+      "buró",
+      "político",
+      "movimiento",
+      "yemení",
+      "ansarollah",
+      ",",
+      "mohammed",
+      "al-bujaiti",
+      ",",
+      "declaró",
+      "televisora",
+      "mayadeen",
+      "ataque",
+      "régimen",
+      "israelí",
+      "cúpula",
+      "gubernamental",
+      "“",
+      "cruce",
+      "líneas",
+      "rojas",
+      "”",
+      "conflicto",
+      "“",
+      "entrado",
+      "nueva",
+      "etapa",
+      "”",
+      "respuesta",
+      "ineludible",
+      "proporcional",
+      ".",
+      "al-bujaiti",
+      "reiteró",
+      "causa",
+      "palestina",
+      "sigue",
+      "siendo",
+      "prioridad",
+      "resistencia",
+      "yemení",
+      ",",
+      "destacando",
+      "discurso",
+      "presidente",
+      "mahdi",
+      "al-mashat",
+      "“",
+      "ratifica",
+      "decisión",
+      "apoyar",
+      "palestina",
+      "gaza",
+      "hechos",
+      ",",
+      "solo",
+      "palabras",
+      "”",
+      ".",
+      "subrayó",
+      "“",
+      "enemigo",
+      "sionista",
+      "logrará",
+      "quebrar",
+      "voluntad",
+      "pueblo",
+      "yemení",
+      "”",
+      ",",
+      "resistido",
+      "múltiples",
+      "agresiones",
+      "logrado",
+      "golpear",
+      "intereses",
+      "británicos",
+      "estadounidenses",
+      ",",
+      "“",
+      "hará",
+      "mismo",
+      "israel",
+      "”",
+      ".",
+      "“",
+      "operaciones",
+      "continuarán",
+      "mientras",
+      "persista",
+      "genocidio",
+      "gaza",
+      "”",
+      ",",
+      "advirtió",
+      "buró",
+      "político",
+      "ansarollah",
+      "comunicado",
+      "oficial",
+      ",",
+      "añadiendo",
+      "mártires",
+      "agresión",
+      "suman",
+      "larga",
+      "lista",
+      "dieron",
+      "vida",
+      "causa",
+      "palestina",
+      ".",
+      "ataques",
+      "israelíes",
+      "yemen",
+      "producen",
+      "marco",
+      "campaña",
+      "genocida",
+      "lanzada",
+      "tel",
+      "aviv",
+      "franaj",
+      "gaza",
+      "octubre",
+      "2023",
+      ",",
+      "dejado",
+      "miles",
+      "personas",
+      "asesinadas",
+      "desplazadas",
+      ",",
+      "además",
+      "hambruna",
+      "catastrófica",
+      "devastado",
+      "enclave",
+      "palestino",
+      ".",
+      "respuesta",
+      ",",
+      "fuerzas",
+      "armadas",
+      "yemeníes",
+      "llevado",
+      "cabo",
+      "operaciones",
+      "casi",
+      "diarias",
+      "objetivos",
+      "estratégicos",
+      "israelíes",
+      ",",
+      "puertos",
+      "infraestructuras",
+      "militares",
+      ",",
+      "además",
+      "bloqueo",
+      "mar",
+      "rojo",
+      "afecta",
+      "embarcaciones",
+      "vinculadas",
+      "régimen",
+      "sionista",
+      ".",
+      "reciente",
+      "agresión",
+      ",",
+      "eliminó",
+      "parte",
+      "dirigencia",
+      "política",
+      "yemen",
+      ",",
+      "desencadenado",
+      "mensaje",
+      "claro",
+      "sanaá",
+      ":",
+      "“",
+      "venganza",
+      "duerme",
+      ",",
+      "días",
+      "oscuros",
+      "esperan…",
+      "conocerán",
+      "seguridad",
+      "partir",
+      "hoy",
+      "”",
+      ",",
+      "advirtió",
+      "presidente",
+      "mahdi",
+      "al-mashat",
+      ".",
+      "líder",
+      "yemení",
+      "instó",
+      "incluso",
+      "empresas",
+      "extranjeras",
+      "abandonar",
+      "territorios",
+      "palestinos",
+      "ocupados",
+      "“",
+      "demasiado",
+      "tarde",
+      "”",
+      "."
+    ],
+    "token_count": 216,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "PRP": 1,
+      "VBP": 17,
+      "JJ": 38,
+      "NN": 106,
+      "FW": 56,
+      "NNS": 19,
+      "IN": 13,
+      "VBZ": 9,
+      "RB": 3,
+      "DT": 4,
+      "VB": 1,
+      "CD": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-PRP": 1,
+      "PRP-VBP": 1,
+      "VBP-JJ": 9,
+      "JJ-NN": 19,
+      "NN-NN": 58,
+      "NN-NNP": 9,
+      "NNP-NNP": 11,
+      "NNP-JJ": 2,
+      "NN-FW": 6,
+      "FW-NNP": 6,
+      "NNP-NN": 10,
+      "FW-NNS": 3,
+      "NNS-VBP": 14,
+      "JJ-FW": 6,
+      "FW-NN": 9,
+      "NN-JJ": 8,
+      "NN-IN": 9,
+      "IN-FW": 9,
+      "IN-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 4,
+      "VBZ-NN": 2,
+      "NN-NNS": 8,
+      "VBP-NNP": 2,
+      "FW-JJ": 7,
+      "FW-FW": 30,
+      "NN-VBP": 1,
+      "VBP-NN": 3,
+      "NNP-RB": 2,
+      "RB-VBZ": 1,
+      "VBZ-JJ": 4,
+      "NN-DT": 1,
+      "DT-NN": 4,
+      "NNS-NNP": 1,
+      "NN-VBZ": 3,
+      "VBZ-DT": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NNS-NNS": 1,
+      "JJ-NNS": 7,
+      "VBP-VBZ": 1,
+      "IN-NNP": 2,
+      "NNP-VBP": 1,
+      "NNP-FW": 4,
+      "NNS-IN": 3,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "VBP-IN": 1,
+      "VBP-DT": 1,
+      "NN-VBD": 1,
+      "VBD-NN": 1,
+      "RB-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-PRP-VBP": 1,
+      "PRP-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 13,
+      "NN-NN-NN": 26,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 8,
+      "NN-FW-NN": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-JJ": 5,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 5,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 22,
+      "FW-FW-NN": 4,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNP-RB": 2,
+      "NNP-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNP": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-NNS": 6,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 2,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 5,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-FW": 2,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-JJ": 1,
+      "NN-NNS-IN": 1,
+      "IN-FW-NNS": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "VBP-NN-NNP": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-NNP": 1,
+      "VBP-JJ-NNS": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-FW-JJ": 1,
+      "NNP-VBZ-DT": 1,
+      "DT-NN-VBZ": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-VBD": 1,
+      "NN-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NNP-RB-NNP": 1,
+      "RB-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 106,
+        "FW": 56,
+        "JJ": 38,
+        "NNP": 35,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 30,
+        "JJ-NN": 19,
+        "NNS-VBP": 14,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 22,
+        "JJ-NN-NN": 13,
+        "NNP-NN-NN": 9,
+        "FW-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 82,
+      "VP": 32,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "S -> NP ('miembro', 'PRP') VP (',', ',') NP (',', ',') VP ('del', 'FW') NP VP ('la', 'FW') NP NP NP ('de', 'IN') ('líneas', 'FW') NP PP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('buró', 'JJ') ('político', 'NN') ('del', 'NN') ('movimiento', 'NN') ('yemení', 'NN') ('Ansarollah', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Mohammed', 'NNP') ('al-Bujaiti', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "VP -> ('declaró', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('televisora', 'NN') ('Al', 'NNP') ('Mayadeen', 'NNP') ('que', 'NN') ('el', 'NN') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('régimen', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "del buró político del movimiento yemení Ansarollah"
+      },
+      {
+        "label": "NP",
+        "text": "buró político del movimiento yemení Ansarollah"
+      },
+      {
+        "label": "NP",
+        "text": "Mohammed al-Bujaiti"
+      },
+      {
+        "label": "VP",
+        "text": "declaró a la televisora Al Mayadeen que el ataque"
+      },
+      {
+        "label": "NP",
+        "text": "a la televisora Al Mayadeen que el ataque"
+      },
+      {
+        "label": "NP",
+        "text": "régimen"
+      },
+      {
+        "label": "VP",
+        "text": "israelí contra"
+      },
+      {
+        "label": "NP",
+        "text": "cúpula"
+      },
+      {
+        "label": "NP",
+        "text": "gubernamental es “"
+      },
+      {
+        "label": "NP",
+        "text": "un cruce"
+      },
+      {
+        "label": "NP",
+        "text": "rojas ” y que el conflicto “ ha entrado"
+      },
+      {
+        "label": "PP",
+        "text": "en una nueva etapa ” donde la respuesta será"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva etapa ” donde la respuesta será"
+      },
+      {
+        "label": "NP",
+        "text": "ineludible y proporcional"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  miembro/PRP\n  (VP\n    del/VBP\n    (NP\n      buró/JJ\n      político/NN\n      del/NN\n      movimiento/NN\n      yemení/NN\n      Ansarollah/NNP))\n  ,/,\n  (NP Mohammed/NNP al-Bujaiti/NN)\n  ,/,\n  (VP\n    declaró/VBZ\n    (NP\n      a/DT\n      la/NN\n      televisora/NN\n      Al/NNP\n      Mayadeen/NNP\n      que/NN\n      el/NN\n      ataque/NN))\n  del/FW\n  (NP régimen/NNS)\n  (VP israelí/VBP contra/JJ)\n  la/FW\n  (NP cúpula/NN)\n  (NP gubernamental/JJ es/NN “/NNP)\n  (NP un/JJ cruce/NN)\n  de/IN\n  líneas/FW\n  (NP\n    rojas/NN\n    ”/NNP\n    y/NNP\n    que/NN\n    el/NN\n    conflicto/NN\n    “/NNP\n    ha/NN\n    entrado/NN)\n  (PP\n    en/IN\n    (NP\n      una/JJ\n      nueva/JJ\n      etapa/NN\n      ”/NNP\n      donde/NN\n      la/NN\n      respuesta/NN\n      será/NN))\n  (NP ineludible/JJ y/JJ proporcional/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Yemen/NNS)\n  (VP denuncia/VBP (NP que/JJ Israel/NNP))\n  (VP\n    asesinó/VBZ\n    (NP a/DT su/JJ Primer/NNP Ministro/NNP durante/NN ataques/NNS))\n  (VP contra/VBP (NP Saná/NNP Al-Bujaiti/NNP reiteró/NN que/NN))\n  la/FW\n  (NP causa/JJ palestina/NN sigue/NN siendo/NN)\n  la/FW\n  prioridad/FW\n  de/FW\n  la/FW\n  resistencia/FW\n  (NP yemení/NN)\n  ,/,\n  (NP destacando/NN que/NN)\n  (VP\n    el/VBP\n    (NP discurso/NN del/NN presidente/NN Mahdi/NNP)\n    al-Mashat/RB\n    (NP “/NNP ratifica/NN la/NN))\n  decisión/FW\n  de/FW\n  apoyar/FW\n  (NP a/DT Palestina/NNP y/NN Gaza/NNP con/NN hechos/NN)\n  ,/,\n  (NP no/DT solo/NN con/NN palabras/NNS)\n  (VP ”/VBP)\n  ./.)",
+      "(S\n  (NP Subrayó/NNP que/NN “/NNP)\n  (VP el/VBZ)\n  enemigo/FW\n  (ADJP sionista/JJ)\n  (NP no/DT logrará/JJ quebrar/NN la/NN)\n  voluntad/FW\n  del/FW\n  pueblo/FW\n  yemení/FW\n  ”/FW\n  ,/,\n  que/FW\n  ha/FW\n  (NP resistido/NN múltiples/NNS agresiones/NNS)\n  y/RB\n  (VP ha/VBP (NP logrado/JJ golpear/JJ intereses/NNS))\n  (VP británicos/VBP (NP y/JJ estadounidenses/NNS))\n  ,/,\n  y/CC\n  (NP “/NNP)\n  (VP hará/VBP (NP lo/JJ mismo/NN con/NN Israel/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Las/NNP operaciones/NNS)\n  (VP continuarán/VBP (NP mientras/NNS))\n  (VP persista/VBP (NP el/JJ genocidio/NN))\n  (PP en/IN (NP Gaza/NNP ”/NNP))\n  ,/,\n  (NP advirtió/NN el/NN buró/NN político/NN)\n  (PP de/IN (NP Ansarollah/NNP))\n  en/FW\n  (NP un/JJ comunicado/NN oficial/NN)\n  ,/,\n  (NP añadiendo/NN que/NN)\n  (NP los/JJ mártires/NNS)\n  de/IN\n  esta/FW\n  (NP agresión/JJ se/NN)\n  (VP suman/VBD (NP a/DT la/NN) (NP larga/JJ lista/NN))\n  (PP de/IN (NP quienes/NNS))\n  (VP\n    dieron/VBP\n    (NP su/JJ vida/NN por/NN la/NN)\n    (NP causa/JJ palestina/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP ataques/NNS)\n  (VP israelíes/VBP (NP en/JJ Yemen/NNP se/NN producen/NN))\n  en/IN\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  campaña/FW\n  genocida/FW\n  lanzada/FW\n  por/FW\n  (NP Tel/NNP Aviv/NNP)\n  (ADJP contra/JJ)\n  la/FW\n  (NP Franaj/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  desde/FW\n  octubre/FW\n  de/FW\n  2023/CD\n  ,/,\n  la/FW\n  (NP cual/JJ ha/NN dejado/NN miles/NNS)\n  de/IN\n  personas/FW\n  (NP asesinadas/NNS)\n  (VP y/VBP (NP desplazadas/NNS))\n  ,/,\n  además/FW\n  de/FW\n  una/FW\n  (NP hambruna/NN catastrófica/NN)\n  en/IN\n  el/FW\n  (NP devastado/NNS)\n  (VP enclave/VBP (NP palestino/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto “ha entrado en una",
+        "position": [
+          224,
+          252
+        ],
+        "start": 224,
+        "end": 252
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          1127,
+          1144
+        ],
+        "start": 1127,
+        "end": 1144
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "mensaje claro desde sanaá: “nuestra venganza no duerme, días oscuros les esperan… no conocerán seguridad a partir de hoy”, advirtió el presidente",
+        "position": [
+          1774,
+          1919
+        ],
+        "start": 1774,
+        "end": 1919
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          84,
+          91
+        ],
+        "start": 84,
+        "end": 91
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          935,
+          943
+        ],
+        "start": 935,
+        "end": 943
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio en gaza",
+        "position": [
+          915,
+          932
+        ],
+        "start": 915,
+        "end": 932
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente mahdi al",
+        "position": [
+          539,
+          558
+        ],
+        "start": 539,
+        "end": 558
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          652,
+          659
+        ],
+        "start": 652,
+        "end": 659
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          1606,
+          1609
+        ],
+        "start": 1606,
+        "end": 1609
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          146,
+          153
+        ],
+        "start": 146,
+        "end": 153
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          1891,
+          1894
+        ],
+        "start": 1891,
+        "end": 1894
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1592,
+          1599
+        ],
+        "start": 1592,
+        "end": 1599
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mar Rojo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mahdi al-Mashat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mohammed al-Bujaiti",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al Mayadeen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ansarollah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sanaá",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ansarollah",
+        "relacion": "DECLARAR",
+        "objeto": "Al Mayadeen"
+      },
+      {
+        "sujeto": "Mohammed al-Bujaiti",
+        "relacion": "DECLARAR",
+        "objeto": "Al Mayadeen"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "DENUNCIAR_REITERAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "DENUNCIAR_REITERAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "DENUNCIAR_REITERAR",
+        "objeto": "Mahdi al-Mashat"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "DENUNCIAR_REITERAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "DENUNCIAR_REITERAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASESINAR_DENUNCIAR_REITERAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASESINAR_DENUNCIAR_REITERAR",
+        "objeto": "Mahdi al-Mashat"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASESINAR_DENUNCIAR_REITERAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASESINAR_DENUNCIAR_REITERAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "ASESINAR_DENUNCIAR_REITERAR",
+        "objeto": "Mahdi al-Mashat"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "ASESINAR_DENUNCIAR_REITERAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "ASESINAR_DENUNCIAR_REITERAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Mahdi al-Mashat",
+        "relacion": "RATIFICAR_DESTACAR_SEGUIR_REITERAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Mahdi al-Mashat",
+        "relacion": "RATIFICAR_DESTACAR_SEGUIR_REITERAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "PERSISTIR_CONTINUAR_ADVERTIR",
+        "objeto": "Ansarollah"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "PRODUCIR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "PRODUCIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "ELIMINAR_DESENCADENAR_ADVERTIR",
+        "objeto": "Sanaá"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "ELIMINAR_DESENCADENAR_ADVERTIR",
+        "objeto": "Mahdi al-Mashat"
+      },
+      {
+        "sujeto": "Sanaá",
+        "relacion": "DESENCADENAR_ADVERTIR",
+        "objeto": "Mahdi al-Mashat"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2023,
+    "pos": 0.031,
+    "neu": 0.941,
+    "neg": 0.028,
+    "label": "positive"
+  }
+}

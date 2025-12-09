@@ -1,0 +1,862 @@
+{
+  "url": "https://www.telesurtv.net/incendio-parque-nacional-vesubio-italia/",
+  "title": "Incendio en el Parque Nacional del Vesubio moviliza a Italia para evitar una catástrofe - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "incendio",
+    "Italia",
+    "Nápoles",
+    "Protección Civil",
+    "volcán Vesubio"
+  ],
+  "text": "Un incendio forestal de gran magnitud continúa activo —por tercer día consecutivo— en el Parque Nacional donde se ubica el volcán Vesubio, en la localidad de Terzigno, cerca de Nápoles, Italia. Aunque el fuego parece estar controlado por el momento, la situación llevó al Gobierno a declarar una movilización nacional extraordinaria para evitar que la emergencia se agrave.\n\nEl ministro de Protección Civil, Nello Musumeci, firmó un decreto para la “movilización extraordinaria del Servicio Nacional de Protección Civil”, con el objetivo de desplegar al menos dieciséis columnas móviles adicionales de extinción de incendios forestales.\nEstos refuerzos se sumarán a un amplio despliegue que incluye seis aviones Canadair, cinco helicópteros, doce equipos de bomberos en tierra, y 23 equipos de voluntarios llegados de distintas partes de Italia.\nEl alcalde de Terzigno, Francesco Ranieri, informó que el fuego afecta aproximadamente 480 hectáreas y alcanzó una altitud de 3.000 metros. Ranieri expresó su preocupación por la posibilidad de que la situación se agrave “en cualquier momento”, pero elogió la “excelente labor de los voluntarios regionales y los bomberos” que han trabajado sin descanso por más de 24 horas.\nGracias a su intervención, la zona estuvo bajo control y no fue necesario evacuar las viviendas, a pesar de que el fuego se aproximó a pocos kilómetros de las casas.\n\n\nLas columnas de humo causadas por el incendio son visibles desde kilómetros de distancia. Además, fragmentos de ceniza se han depositado en numerosas viviendas de la zona, lo que evidencia la gran escala del siniestro. En tanto, el esfuerzo conjunto de los bomberos, la protección civil y el apoyo militar busca contener el fuego y proteger a la población local.\nLos incendios forestales en Italia y otras partes de Europa ya no pueden verse como eventos aislados o accidentes naturales, sino como una consecuencia directa del calentamiento global. Las temperaturas récord, las sequías prolongadas y los vientos más intensos han transformado paisajes enteros en polvorines, especialmente en países del sur de Europa donde el clima mediterráneo se vuelve cada vez más volátil.\nComunidades enteras han sido desplazadas, la agricultura y el turismo han sufrido fuertes impactos, y los costos humanos, económicos y ambientales se multiplican año tras año.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/incendio-parque-nacional-vesubio-italia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1568,
+    "message_id": 101449,
+    "date": "2025-08-10T20:55:19+00:00",
+    "text": "teleSUR\nIncendio en el Parque Nacional del Vesubio moviliza a Italia para evitar una catástrofe\nhttps://www.telesurtv.net/incendio-parque-nacional-vesubio-italia/",
+    "photo_path": null,
+    "views": 1746,
+    "reactions": {
+      "👍": 20,
+      "😱": 12,
+      "😢": 6,
+      "😁": 1
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "un incendio forestal de gran magnitud continúa activo —por tercer día consecutivo— en el parque nacional donde se ubica el volcán vesubio, en la localidad de terzigno, cerca de nápoles, italia. aunque el fuego parece estar controlado por el momento, la situación llevó al gobierno a declarar una movilización nacional extraordinaria para evitar que la emergencia se agrave. el ministro de protección civil, nello musumeci, firmó un decreto para la “movilización extraordinaria del servicio nacional de protección civil”, con el objetivo de desplegar al menos dieciséis columnas móviles adicionales de extinción de incendios forestales. estos refuerzos se sumarán a un amplio despliegue que incluye seis aviones canadair, cinco helicópteros, doce equipos de bomberos en tierra, y 23 equipos de voluntarios llegados de distintas partes de italia. el alcalde de terzigno, francesco ranieri, informó que el fuego afecta aproximadamente 480 hectáreas y alcanzó una altitud de 3.000 metros. ranieri expresó su preocupación por la posibilidad de que la situación se agrave “en cualquier momento”, pero elogió la “excelente labor de los voluntarios regionales y los bomberos” que han trabajado sin descanso por más de 24 horas. gracias a su intervención, la zona estuvo bajo control y no fue necesario evacuar las viviendas, a pesar de que el fuego se aproximó a pocos kilómetros de las casas. las columnas de humo causadas por el incendio son visibles desde kilómetros de distancia. además, fragmentos de ceniza se han depositado en numerosas viviendas de la zona, lo que evidencia la gran escala del siniestro. en tanto, el esfuerzo conjunto de los bomberos, la protección civil y el apoyo militar busca contener el fuego y proteger a la población local. los incendios forestales en italia y otras partes de europa ya no pueden verse como eventos aislados o accidentes naturales, sino como una consecuencia directa del calentamiento global. las temperaturas récord, las sequías prolongadas y los vientos más intensos han transformado paisajes enteros en polvorines, especialmente en países del sur de europa donde el clima mediterráneo se vuelve cada vez más volátil. comunidades enteras han sido desplazadas, la agricultura y el turismo han sufrido fuertes impactos, y los costos humanos, económicos y ambientales se multiplican año tras año.",
+    "tokens": [
+      "incendio",
+      "forestal",
+      "gran",
+      "magnitud",
+      "continúa",
+      "activo",
+      "—por",
+      "tercer",
+      "día",
+      "consecutivo—",
+      "parque",
+      "nacional",
+      "ubica",
+      "volcán",
+      "vesubio",
+      ",",
+      "localidad",
+      "terzigno",
+      ",",
+      "cerca",
+      "nápoles",
+      ",",
+      "italia",
+      ".",
+      "aunque",
+      "fuego",
+      "parece",
+      "controlado",
+      "momento",
+      ",",
+      "situación",
+      "llevó",
+      "gobierno",
+      "declarar",
+      "movilización",
+      "nacional",
+      "extraordinaria",
+      "evitar",
+      "emergencia",
+      "agrave",
+      ".",
+      "ministro",
+      "protección",
+      "civil",
+      ",",
+      "nello",
+      "musumeci",
+      ",",
+      "firmó",
+      "decreto",
+      "“",
+      "movilización",
+      "extraordinaria",
+      "servicio",
+      "nacional",
+      "protección",
+      "civil",
+      "”",
+      ",",
+      "objetivo",
+      "desplegar",
+      "menos",
+      "dieciséis",
+      "columnas",
+      "móviles",
+      "adicionales",
+      "extinción",
+      "incendios",
+      "forestales",
+      ".",
+      "refuerzos",
+      "sumarán",
+      "amplio",
+      "despliegue",
+      "incluye",
+      "seis",
+      "aviones",
+      "canadair",
+      ",",
+      "cinco",
+      "helicópteros",
+      ",",
+      "doce",
+      "equipos",
+      "bomberos",
+      "tierra",
+      ",",
+      "23",
+      "equipos",
+      "voluntarios",
+      "llegados",
+      "distintas",
+      "partes",
+      "italia",
+      ".",
+      "alcalde",
+      "terzigno",
+      ",",
+      "francesco",
+      "ranieri",
+      ",",
+      "informó",
+      "fuego",
+      "afecta",
+      "aproximadamente",
+      "480",
+      "hectáreas",
+      "alcanzó",
+      "altitud",
+      "3.000",
+      "metros",
+      ".",
+      "ranieri",
+      "expresó",
+      "preocupación",
+      "posibilidad",
+      "situación",
+      "agrave",
+      "“",
+      "cualquier",
+      "momento",
+      "”",
+      ",",
+      "elogió",
+      "“",
+      "excelente",
+      "labor",
+      "voluntarios",
+      "regionales",
+      "bomberos",
+      "”",
+      "trabajado",
+      "descanso",
+      "24",
+      "horas",
+      ".",
+      "gracias",
+      "intervención",
+      ",",
+      "zona",
+      "bajo",
+      "control",
+      "necesario",
+      "evacuar",
+      "viviendas",
+      ",",
+      "pesar",
+      "fuego",
+      "aproximó",
+      "pocos",
+      "kilómetros",
+      "casas",
+      ".",
+      "columnas",
+      "humo",
+      "causadas",
+      "incendio",
+      "visibles",
+      "kilómetros",
+      "distancia",
+      ".",
+      "además",
+      ",",
+      "fragmentos",
+      "ceniza",
+      "depositado",
+      "numerosas",
+      "viviendas",
+      "zona",
+      ",",
+      "evidencia",
+      "gran",
+      "escala",
+      "siniestro",
+      ".",
+      ",",
+      "esfuerzo",
+      "conjunto",
+      "bomberos",
+      ",",
+      "protección",
+      "civil",
+      "apoyo",
+      "militar",
+      "busca",
+      "contener",
+      "fuego",
+      "proteger",
+      "población",
+      "local",
+      ".",
+      "incendios",
+      "forestales",
+      "italia",
+      "partes",
+      "europa",
+      "pueden",
+      "verse",
+      "eventos",
+      "aislados",
+      "accidentes",
+      "naturales",
+      ",",
+      "sino",
+      "consecuencia",
+      "directa",
+      "calentamiento",
+      "global",
+      ".",
+      "temperaturas",
+      "récord",
+      ",",
+      "sequías",
+      "prolongadas",
+      "vientos",
+      "intensos",
+      "transformado",
+      "paisajes",
+      "enteros",
+      "polvorines",
+      ",",
+      "especialmente",
+      "países",
+      "sur",
+      "europa",
+      "clima",
+      "mediterráneo",
+      "vuelve",
+      "cada",
+      "vez",
+      "volátil",
+      ".",
+      "comunidades",
+      "enteras",
+      "sido",
+      "desplazadas",
+      ",",
+      "agricultura",
+      "turismo",
+      "sufrido",
+      "fuertes",
+      "impactos",
+      ",",
+      "costos",
+      "humanos",
+      ",",
+      "económicos",
+      "ambientales",
+      "multiplican",
+      "año",
+      "tras",
+      "año",
+      "."
+    ],
+    "token_count": 253,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "JJ": 27,
+      "NN": 119,
+      "IN": 11,
+      "FW": 87,
+      "VBZ": 8,
+      "VBP": 19,
+      "NNS": 24,
+      "CD": 4,
+      "VBD": 1,
+      "VBN": 1,
+      "VB": 1,
+      "DT": 2,
+      "RB": 2,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 17,
+      "NN-IN": 8,
+      "IN-FW": 3,
+      "FW-FW": 59,
+      "FW-NN": 9,
+      "NN-NN": 73,
+      "NN-NNP": 6,
+      "NNP-NN": 13,
+      "FW-NNP": 9,
+      "NNP-NNP": 11,
+      "NN-JJ": 5,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "IN-NNP": 4,
+      "VBZ-JJ": 3,
+      "NN-FW": 14,
+      "JJ-JJ": 3,
+      "NN-VBP": 3,
+      "VBP-NNP": 1,
+      "NNP-FW": 5,
+      "FW-NNS": 6,
+      "NNS-NNS": 3,
+      "NNS-FW": 1,
+      "NNS-NNP": 4,
+      "NN-NNS": 4,
+      "NNP-VBP": 3,
+      "VBP-NNS": 1,
+      "NNS-VBP": 12,
+      "VBP-FW": 2,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "NNS-IN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 3,
+      "NNS-JJ": 1,
+      "IN-CD": 2,
+      "VBP-JJ": 9,
+      "FW-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "VBZ-VB": 1,
+      "VB-NN": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 2,
+      "JJ-NNS": 4,
+      "VBP-NN": 3,
+      "IN-JJ": 1,
+      "JJ-FW": 1,
+      "VBP-RB": 1,
+      "FW-JJ": 1,
+      "JJ-NNP": 2,
+      "NNP-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 2,
+      "FW-VBZ": 1,
+      "NNP-CC": 1,
+      "CC-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-NN": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 46,
+      "NN-NN-IN": 4,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 4,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 12,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 41,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 4,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-FW": 9,
+      "NN-FW-NN": 4,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NN-FW-FW": 9,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-FW-NNS": 5,
+      "FW-NNS-NNS": 2,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 3,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-NNP": 2,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-NN": 7,
+      "FW-FW-VBP": 1,
+      "FW-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-NN": 1,
+      "VB-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 2,
+      "FW-NN-NNP": 1,
+      "NNP-NN-FW": 2,
+      "FW-NNS-VBP": 2,
+      "NN-NNS-VBP": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-FW": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-DT": 1,
+      "CC-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NNS": 2,
+      "NN-FW-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "JJ-NN-NNS": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 119,
+        "FW": 87,
+        "NNP": 38,
+        "JJ": 27,
+        "NNS": 24
+      },
+      "top_bigrams": {
+        "NN-NN": 73,
+        "FW-FW": 59,
+        "JJ-NN": 17,
+        "NN-FW": 14,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 46,
+        "FW-FW-FW": 41,
+        "JJ-NN-NN": 12,
+        "NN-NN-FW": 9,
+        "NN-FW-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 86,
+      "PP": 6,
+      "VP": 20,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "NP -> ('Terzigno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('Italia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('gran', 'FW') ('magnitud', 'FW') NP ('en', 'IN') ('el', 'FW') NP NP (',', ',') ('en', 'FW') ('la', 'FW') ('localidad', 'FW') ('de', 'FW') NP (',', ',') NP PP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('incendio', 'JJ') ('forestal', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('continúa', 'NN') ('activo', 'NN') ('—por', 'NNP') ('tercer', 'NN') ('día', 'NN') ('consecutivo—', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Parque', 'NNP') ('Nacional', 'NNP') ('donde', 'NN') ('se', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('ubica', 'JJ') ('el', 'NN') ('volcán', 'NN') ('Vesubio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un"
+      },
+      {
+        "label": "NP",
+        "text": "incendio forestal"
+      },
+      {
+        "label": "NP",
+        "text": "continúa activo —por tercer día consecutivo—"
+      },
+      {
+        "label": "NP",
+        "text": "Parque Nacional donde se"
+      },
+      {
+        "label": "NP",
+        "text": "ubica el volcán Vesubio"
+      },
+      {
+        "label": "NP",
+        "text": "Terzigno"
+      },
+      {
+        "label": "NP",
+        "text": "cerca"
+      },
+      {
+        "label": "PP",
+        "text": "de Nápoles"
+      },
+      {
+        "label": "NP",
+        "text": "Nápoles"
+      },
+      {
+        "label": "NP",
+        "text": "Italia"
+      },
+      {
+        "label": "NP",
+        "text": "Aunque"
+      },
+      {
+        "label": "NP",
+        "text": "fuego parece estar controlado por el momento"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "a declarar"
+      },
+      {
+        "label": "NP",
+        "text": "una movilización nacional extraordinaria para evitar que la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP)\n  (NP incendio/JJ forestal/NN)\n  de/IN\n  gran/FW\n  magnitud/FW\n  (NP\n    continúa/NN\n    activo/NN\n    —por/NNP\n    tercer/NN\n    día/NN\n    consecutivo—/NN)\n  en/IN\n  el/FW\n  (NP Parque/NNP Nacional/NNP donde/NN se/NN)\n  (NP ubica/JJ el/NN volcán/NN Vesubio/NNP)\n  ,/,\n  en/FW\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Terzigno/NNP)\n  ,/,\n  (NP cerca/NN)\n  (PP de/IN (NP Nápoles/NNP))\n  ,/,\n  (NP Italia/NNP)\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  el/CC\n  (NP\n    fuego/JJ\n    parece/NN\n    estar/NN\n    controlado/NN\n    por/NN\n    el/NN\n    momento/NN)\n  ,/,\n  la/FW\n  situación/FW\n  llevó/FW\n  al/FW\n  (NP Gobierno/NNP)\n  (NP a/DT declarar/NN)\n  (NP\n    una/JJ\n    movilización/JJ\n    nacional/JJ\n    extraordinaria/NN\n    para/NN\n    evitar/NN\n    que/NN\n    la/NN)\n  emergencia/FW\n  (NP se/NN agrave/NN)\n  ./.)",
+      "(S\n  (NP El/NNP ministro/NN)\n  de/FW\n  (NP Protección/NNP Civil/NNP)\n  ,/,\n  (NP Nello/NNP Musumeci/NNP)\n  ,/,\n  (NP firmó/NN)\n  (NP\n    un/JJ\n    decreto/NN\n    para/NN\n    la/NN\n    “/NNP\n    movilización/NN\n    extraordinaria/NN\n    del/NN\n    Servicio/NNP\n    Nacional/NNP)\n  de/FW\n  (NP Protección/NNP Civil/NNP ”/NNP)\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  desplegar/FW\n  al/FW\n  menos/FW\n  dieciséis/FW\n  (NP columnas/NNS móviles/NNS adicionales/NNS)\n  de/FW\n  extinción/FW\n  de/FW\n  incendios/FW\n  (NP forestales/NNS)\n  ./.)",
+      "(S\n  (NP Estos/NNP refuerzos/NN se/NN)\n  (VP\n    sumarán/VBD\n    (NP\n      a/DT\n      un/JJ\n      amplio/NN\n      despliegue/NN\n      que/NN\n      incluye/NN\n      seis/NN\n      aviones/NNS\n      Canadair/NNP))\n  ,/,\n  (NP cinco/NN helicópteros/NNS)\n  ,/,\n  (ADJP doce/JJ)\n  equipos/FW\n  de/FW\n  bomberos/FW\n  en/FW\n  (NP tierra/NN)\n  ,/,\n  y/RB\n  23/CD\n  (NP equipos/NN)\n  de/FW\n  voluntarios/FW\n  llegados/FW\n  de/FW\n  distintas/FW\n  (NP partes/NNS)\n  (PP de/IN (NP Italia/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP alcalde/NN)\n  de/FW\n  (NP Terzigno/NNP)\n  ,/,\n  (NP Francesco/NNP Ranieri/NNP)\n  ,/,\n  (NP informó/NN que/NN el/NN fuego/NN afecta/NN)\n  (VP aproximadamente/VBD)\n  480/CD\n  (NP hectáreas/NNS)\n  y/RB\n  (VP alcanzó/VBP (NP una/JJ altitud/NN))\n  de/IN\n  3.000/CD\n  (NP metros/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "incendio forestal de gran magnitud continúa activo",
+        "position": [
+          3,
+          53
+        ],
+        "start": 3,
+        "end": 53
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          994,
+          1001
+        ],
+        "start": 994,
+        "end": 1001
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          889,
+          896
+        ],
+        "start": 889,
+        "end": 896
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "calentamiento global",
+        "position": [
+          1916,
+          1936
+        ],
+        "start": 1916,
+        "end": 1936
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "incendios forestales",
+        "position": [
+          615,
+          635
+        ],
+        "start": 615,
+        "end": 635
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de protección civil",
+        "position": [
+          378,
+          406
+        ],
+        "start": 378,
+        "end": 406
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "italia",
+        "position": [
+          186,
+          192
+        ],
+        "start": 186,
+        "end": 192
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona estuvo",
+        "position": [
+          1251,
+          1262
+        ],
+        "start": 1251,
+        "end": 1262
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque nacional",
+        "position": [
+          89,
+          104
+        ],
+        "start": 89,
+        "end": 104
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 480",
+        "position": [
+          917,
+          936
+        ],
+        "start": 917,
+        "end": 936
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 24",
+        "position": [
+          1204,
+          1213
+        ],
+        "start": 1204,
+        "end": 1213
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nello Musumeci",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Francesco Ranieri",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Italia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Terzigno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nápoles",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ranieri",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Protección Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "volcán Vesubio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parque Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio Nacional de Protección Civil",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Protección Civil",
+        "relacion": "FIRMAR",
+        "objeto": "Servicio Nacional de Protección Civil"
+      },
+      {
+        "sujeto": "Nello Musumeci",
+        "relacion": "FIRMAR",
+        "objeto": "Servicio Nacional de Protección Civil"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7906,
+    "pos": 0.0,
+    "neu": 0.977,
+    "neg": 0.023,
+    "label": "negative"
+  }
+}

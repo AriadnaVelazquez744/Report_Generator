@@ -1,0 +1,815 @@
+{
+  "url": "https://www.telesurtv.net/donald-trump-quiere-reunirse-con-vladimir-putin-inmediatamente/",
+  "title": "Donald Trump quiere reunirse con Vladímir Putin \"inmediatamente\" - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Donald Trump",
+    "Estados Unidos",
+    "Rusia",
+    "Ucrania",
+    "Vladímir Putin"
+  ],
+  "text": "El nuevo inquilino de la Casa Blanca insistió que el presidente de Ucrania, Vladímir Zelenski, también tiene intenciones de llegar a “un acuerdo”.\nEl presidente de Estados Unidos, Donald John Trump, dejó en claro que tiene intenciones de reunirse  “inmediatamente” con su homólogo ruso, Vladímir Putin, esto con el objetivo de negociar una salida de la operación militar especial  de Rusia en Ucrania.\nDurante una rueda de prensa en la Casa Blanca, Trump enfatizó la urgencia de mantener conversaciones, resaltando que “cada día que no se reúnen, mueren soldados en el campo de batalla”.\nTrump declaró que ha recibido señales de que Putin también está interesado en un encuentro. “Por lo que he oído, a Putin le gustaría verme”, comentó el nuevo inquilino de la Casa Blanca. Además, mencionó que el presidente de Ucrania, Vladímir Zelenski, también está abierto a “negociar un acuerdo”.\nEsta declaración es la segunda realizada por Trump en un lapso de 24 horas. Es preciso recordar que en el Foro Económico Mundial de Davos, expresó su deseo de reunirse con Putin para poner fin al conflicto, explicando que su motivación no sólo es económica, sino que se basa en la necesidad de preservar vidas.\n“Realmente, tenemos que acabar con esa guerra. Esa guerra es horrible”, insistió Donald Trump en su alocución.\nPor su parte, el presidente ruso, Vladímir Putin, también mostró apertura al diálogo con la nueva administración estadounidense.\nDurante su declaración, Putin subrayó la importancia de abordar las causas fundamentales de la crisis en Ucrania y abogó por una solución que no sea solo una tregua temporal, sino que busque una paz duradera basada en el respeto a los intereses legítimos de todos los pueblos de la región.\nDesde Moscú piden el cese de la injerencia de occidente en los asuntos internos de Rusia o de las relaciones bilaterales del gigante euroasiático.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/donald-trump-quiere-reunirse-con-vladimir-putin-inmediatamente/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 559,
+    "message_id": 85271,
+    "date": "2025-01-24T04:55:12+00:00",
+    "text": "teleSUR\nDonald Trump quiere reunirse con Vladímir Putin «inmediatamente»\nhttps://www.telesurtv.net/donald-trump-quiere-reunirse-con-vladimir-putin-inmediatamente/",
+    "photo_path": null,
+    "views": 2390,
+    "reactions": {
+      "🤡": 33,
+      "👍": 19,
+      "🤔": 7,
+      "🤮": 2,
+      "👏": 1
+    },
+    "total_reactions": 62
+  },
+  "preprocessing": {
+    "cleaned": "el nuevo inquilino de la casa blanca insistió que el presidente de ucrania, vladímir zelenski, también tiene intenciones de llegar a “un acuerdo”. el presidente de estados unidos, donald john trump, dejó en claro que tiene intenciones de reunirse “inmediatamente” con su homólogo ruso, vladímir putin, esto con el objetivo de negociar una salida de la operación militar especial de rusia en ucrania. durante una rueda de prensa en la casa blanca, trump enfatizó la urgencia de mantener conversaciones, resaltando que “cada día que no se reúnen, mueren soldados en el campo de batalla”. trump declaró que ha recibido señales de que putin también está interesado en un encuentro. “por lo que he oído, a putin le gustaría verme”, comentó el nuevo inquilino de la casa blanca. además, mencionó que el presidente de ucrania, vladímir zelenski, también está abierto a “negociar un acuerdo”. esta declaración es la segunda realizada por trump en un lapso de 24 horas. es preciso recordar que en el foro económico mundial de davos, expresó su deseo de reunirse con putin para poner fin al conflicto, explicando que su motivación no sólo es económica, sino que se basa en la necesidad de preservar vidas. “realmente, tenemos que acabar con esa guerra. esa guerra es horrible”, insistió donald trump en su alocución. por su parte, el presidente ruso, vladímir putin, también mostró apertura al diálogo con la nueva administración estadounidense. durante su declaración, putin subrayó la importancia de abordar las causas fundamentales de la crisis en ucrania y abogó por una solución que no sea solo una tregua temporal, sino que busque una paz duradera basada en el respeto a los intereses legítimos de todos los pueblos de la región. desde moscú piden el cese de la injerencia de occidente en los asuntos internos de rusia o de las relaciones bilaterales del gigante euroasiático.",
+    "tokens": [
+      "nuevo",
+      "inquilino",
+      "casa",
+      "blanca",
+      "insistió",
+      "presidente",
+      "ucrania",
+      ",",
+      "vladímir",
+      "zelenski",
+      ",",
+      "intenciones",
+      "llegar",
+      "“",
+      "acuerdo",
+      "”",
+      ".",
+      "presidente",
+      "unidos",
+      ",",
+      "donald",
+      "john",
+      "trump",
+      ",",
+      "dejó",
+      "claro",
+      "intenciones",
+      "reunirse",
+      "“",
+      "inmediatamente",
+      "”",
+      "homólogo",
+      "ruso",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "objetivo",
+      "negociar",
+      "salida",
+      "operación",
+      "militar",
+      "especial",
+      "rusia",
+      "ucrania",
+      ".",
+      "rueda",
+      "prensa",
+      "casa",
+      "blanca",
+      ",",
+      "trump",
+      "enfatizó",
+      "urgencia",
+      "mantener",
+      "conversaciones",
+      ",",
+      "resaltando",
+      "“",
+      "cada",
+      "día",
+      "reúnen",
+      ",",
+      "mueren",
+      "soldados",
+      "campo",
+      "batalla",
+      "”",
+      ".",
+      "trump",
+      "declaró",
+      "recibido",
+      "señales",
+      "putin",
+      "interesado",
+      "encuentro",
+      ".",
+      "“",
+      "oído",
+      ",",
+      "putin",
+      "gustaría",
+      "verme",
+      "”",
+      ",",
+      "comentó",
+      "nuevo",
+      "inquilino",
+      "casa",
+      "blanca",
+      ".",
+      "además",
+      ",",
+      "mencionó",
+      "presidente",
+      "ucrania",
+      ",",
+      "vladímir",
+      "zelenski",
+      ",",
+      "abierto",
+      "“",
+      "negociar",
+      "acuerdo",
+      "”",
+      ".",
+      "declaración",
+      "segunda",
+      "realizada",
+      "trump",
+      "lapso",
+      "24",
+      "horas",
+      ".",
+      "preciso",
+      "recordar",
+      "foro",
+      "económico",
+      "mundial",
+      "davos",
+      ",",
+      "expresó",
+      "deseo",
+      "reunirse",
+      "putin",
+      "poner",
+      "fin",
+      "conflicto",
+      ",",
+      "explicando",
+      "motivación",
+      "sólo",
+      "económica",
+      ",",
+      "sino",
+      "basa",
+      "necesidad",
+      "preservar",
+      "vidas",
+      ".",
+      "“",
+      "realmente",
+      ",",
+      "acabar",
+      "guerra",
+      ".",
+      "guerra",
+      "horrible",
+      "”",
+      ",",
+      "insistió",
+      "donald",
+      "trump",
+      "alocución",
+      ".",
+      "parte",
+      ",",
+      "presidente",
+      "ruso",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "mostró",
+      "apertura",
+      "diálogo",
+      "nueva",
+      "administración",
+      "estadounidense",
+      ".",
+      "declaración",
+      ",",
+      "putin",
+      "subrayó",
+      "importancia",
+      "abordar",
+      "causas",
+      "fundamentales",
+      "crisis",
+      "ucrania",
+      "abogó",
+      "solución",
+      "solo",
+      "tregua",
+      "temporal",
+      ",",
+      "sino",
+      "busque",
+      "paz",
+      "duradera",
+      "basada",
+      "respeto",
+      "intereses",
+      "legítimos",
+      "pueblos",
+      "región",
+      ".",
+      "moscú",
+      "piden",
+      "cese",
+      "injerencia",
+      "occidente",
+      "asuntos",
+      "internos",
+      "rusia",
+      "relaciones",
+      "bilaterales",
+      "gigante",
+      "euroasiático",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 51,
+      "CC": 2,
+      "NN": 118,
+      "IN": 15,
+      "FW": 66,
+      "VBZ": 7,
+      "JJ": 25,
+      "NNS": 8,
+      "VBP": 3,
+      "DT": 3,
+      "PRP": 1,
+      "CD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-CC": 2,
+      "CC-NN": 1,
+      "NN-IN": 10,
+      "IN-FW": 12,
+      "FW-NNP": 15,
+      "NNP-NNP": 20,
+      "NNP-NN": 21,
+      "NN-NN": 64,
+      "NN-FW": 13,
+      "FW-NN": 10,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 2,
+      "NNS-IN": 3,
+      "FW-JJ": 4,
+      "JJ-NN": 19,
+      "NN-NNP": 12,
+      "NN-JJ": 8,
+      "NNP-JJ": 2,
+      "FW-FW": 35,
+      "NNP-FW": 4,
+      "FW-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-JJ": 1,
+      "NN-DT": 2,
+      "DT-JJ": 1,
+      "NN-NNS": 2,
+      "VBP-IN": 1,
+      "NN-VBZ": 4,
+      "VBZ-IN": 1,
+      "IN-JJ": 1,
+      "NN-PRP": 1,
+      "PRP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "JJ-JJ": 3,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-NNP": 1,
+      "CC-JJ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "VBZ-FW": 1,
+      "JJ-FW": 1,
+      "IN-NNP": 1,
+      "NNS-NNS": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-NN": 1,
+      "CC-NN-IN": 1,
+      "NN-IN-FW": 7,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NNP": 9,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NN": 19,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 5,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 4,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NNP": 5,
+      "NN-NNP-NN": 8,
+      "NNP-NN-FW": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NNS": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 32,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 24,
+      "FW-FW-JJ": 2,
+      "JJ-NN-IN": 6,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-DT": 2,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NNP-NN": 4,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-PRP": 1,
+      "NN-PRP-VBZ": 1,
+      "PRP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-JJ-NN": 5,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "IN-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "NNP-FW-NN": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 118,
+        "FW": 66,
+        "NNP": 51,
+        "JJ": 25,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 64,
+        "FW-FW": 35,
+        "NNP-NN": 21,
+        "NNP-NNP": 20,
+        "JJ-NN": 19
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 24,
+        "NNP-NN-NN": 19,
+        "FW-NNP-NNP": 9,
+        "NN-NN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 87,
+      "VP": 10,
+      "PP": 2,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Ucrania', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "NP -> ('presidente', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Vladímir', 'NNP') ('Zelenski', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('“', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Vladímir', 'NNP') ('Putin', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Casa', 'NNP') ('Blanca', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP ('nuevo', 'CC') NP ('de', 'IN') ('la', 'FW') NP ('el', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('de', 'IN') ('llegar', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('inquilino', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "inquilino"
+      },
+      {
+        "label": "NP",
+        "text": "Casa Blanca insistió que"
+      },
+      {
+        "label": "NP",
+        "text": "presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Ucrania"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Zelenski"
+      },
+      {
+        "label": "NP",
+        "text": "también tiene intenciones"
+      },
+      {
+        "label": "NP",
+        "text": "a “"
+      },
+      {
+        "label": "NP",
+        "text": "un acuerdo ”"
+      },
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Donald John Trump"
+      },
+      {
+        "label": "NP",
+        "text": "dejó"
+      },
+      {
+        "label": "NP",
+        "text": "claro que"
+      },
+      {
+        "label": "NP",
+        "text": "tiene intenciones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  nuevo/CC\n  (NP inquilino/NN)\n  de/IN\n  la/FW\n  (NP Casa/NNP Blanca/NNP insistió/NN que/NN)\n  el/FW\n  (NP presidente/NN)\n  de/FW\n  (NP Ucrania/NNP)\n  ,/,\n  (NP Vladímir/NNP Zelenski/NNP)\n  ,/,\n  (NP también/JJ tiene/NN intenciones/NNS)\n  de/IN\n  llegar/FW\n  (NP a/DT “/NN)\n  (NP un/JJ acuerdo/NN ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Donald/NNP John/NNP Trump/NNP)\n  ,/,\n  (NP dejó/NN)\n  en/FW\n  (NP claro/NN que/NN)\n  (NP tiene/JJ intenciones/NNS)\n  de/IN\n  reunirse/FW\n  (NP “/NNP inmediatamente/NN ”/NNP con/NN su/NN homólogo/NN ruso/NN)\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (NP esto/JJ con/NN el/NN)\n  objetivo/FW\n  de/FW\n  negociar/FW\n  (NP una/JJ salida/NN)\n  de/IN\n  la/FW\n  operación/FW\n  militar/FW\n  especial/FW\n  de/FW\n  (NP Rusia/NNP)\n  en/FW\n  (NP Ucrania/NNP)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  (NP una/JJ rueda/NN)\n  de/IN\n  prensa/FW\n  en/FW\n  la/FW\n  (NP Casa/NNP Blanca/NNP)\n  ,/,\n  (NP Trump/NNP)\n  (VP enfatizó/VBZ)\n  la/FW\n  urgencia/FW\n  de/FW\n  mantener/FW\n  (NP conversaciones/NNS)\n  ,/,\n  (NP resaltando/NN que/NN “/NNP cada/NN día/NN que/NN)\n  (NP no/DT se/NN reúnen/NN)\n  ,/,\n  mueren/FW\n  soldados/FW\n  en/FW\n  el/FW\n  campo/FW\n  de/FW\n  batalla/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Trump/NNP declaró/NN que/NN ha/NN recibido/NN)\n  (VP señales/VBZ)\n  de/IN\n  que/FW\n  (NP Putin/NNP también/NN está/NN interesado/NN)\n  (PP en/IN (NP un/JJ encuentro/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Por/NNP lo/NN que/NN)\n  he/PRP\n  (VP oído/VBZ)\n  ,/,\n  (NP a/DT Putin/NNP le/NN gustaría/NN verme/NN ”/NNP)\n  ,/,\n  (NP comentó/NN el/NN)\n  (NP nuevo/JJ inquilino/NN)\n  de/IN\n  la/FW\n  (NP Casa/NNP Blanca/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto, explicando que su motivación no sólo es económica, sino que se basa en la",
+        "position": [
+          1083,
+          1167
+        ],
+        "start": 1083,
+        "end": 1167
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "relaciones bilaterales",
+        "position": [
+          1826,
+          1848
+        ],
+        "start": 1826,
+        "end": 1848
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "rueda de prensa",
+        "position": [
+          414,
+          429
+        ],
+        "start": 414,
+        "end": 429
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          594,
+          601
+        ],
+        "start": 594,
+        "end": 601
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de ucrania",
+        "position": [
+          53,
+          74
+        ],
+        "start": 53,
+        "end": 74
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1468,
+          1475
+        ],
+        "start": 1468,
+        "end": 1475
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          164,
+          178
+        ],
+        "start": 164,
+        "end": 178
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          67,
+          74
+        ],
+        "start": 67,
+        "end": 74
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "moscú",
+        "position": [
+          1734,
+          1739
+        ],
+        "start": 1734,
+        "end": 1739
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Donald John Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Moscú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Foro Económico Mundial de Davos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vladímir Zelenski",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Casa Blanca",
+        "relacion": "INSISTIR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Casa Blanca",
+        "relacion": "INSISTIR",
+        "objeto": "Vladímir Zelenski"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DEJAR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DEJAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DEJAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Donald John Trump",
+        "relacion": "DEJAR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Donald John Trump",
+        "relacion": "DEJAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Donald John Trump",
+        "relacion": "DEJAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "REUNIR_L_TENER_DEJAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "REUNIR_L_TENER_DEJAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "ENFATIZAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "DECLARAR",
+        "objeto": "Putin"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "GUSTAR_COMENTAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Foro Económico Mundial de Davos",
+        "relacion": "EXPRESAR_RECORDAR",
+        "objeto": "Putin"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "SUBRAYAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Moscú",
+        "relacion": "PEDIR",
+        "objeto": "Rusia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8074,
+    "pos": 0.008,
+    "neu": 0.958,
+    "neg": 0.035,
+    "label": "negative"
+  }
+}

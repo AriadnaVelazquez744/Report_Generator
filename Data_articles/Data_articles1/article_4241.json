@@ -1,0 +1,704 @@
+{
+  "url": "https://www.telesurtv.net/la-otan-apoya-alto-al-fuego-entre-rusia-y-ucrania-propuesto-por-trump/",
+  "title": "La OTAN apoya alto al fuego entre Rusia y Ucrania propuesto por Trump - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "Conlficto",
+    "OTAN",
+    "Rusia",
+    "Trump",
+    "Ucrania"
+  ],
+  "text": "\nEl secretario general de la OTAN, Mark Rutte, mostró su apoyo al presidente de los Estados Unidos, Donald Trump con respecto al conflicto entre Rusia y Ucrania, subrayando que como primer paso se debe concretar un acuerdo de paz y posteriormente asentar garantías para que ese acuerdo no se viole.\nLas palabras de Rutte acontecieron en un encuentro con la prensa, luego de haber sostenido un diálogo con la presidenta de Kosovo, Vjosa Osmani.\nEn ese contexto, subrayó que considera “que el presidente Trump tiene razón en que, antes de poder mantener la paz, primero hay que lograr la paz. Y la paz aún no está ahí”.\n\nPor otro lado, desde una postura evidentemene protrumpista, el alto funcionario europeo recalcó que con Trump “ahora se ha producido un gran avance en lo que respecta a Ucrania, en términos de iniciar conversaciones tanto con los rusos como con los ucranianos”.\nEn ese sentido, también destacó el papel de otras naciones europeas que han intervenido para que el régimen de Zelenski preserve la paz.\nSobre ello, dijo que era “bueno que los franceses y los británicos hayan tomado la iniciativa de que, cuando se llegue a un acuerdo de paz o a un alto el fuego en Ucrania, se trate el tema de las garantías de seguridad”.\nSubrayó además que “todos estamos de acuerdo en que hay que trabajar en paralelo porque, cuando se llega a un alto el fuego o a un acuerdo de paz, hay que estar seguro de que se puede garantizar de algún modo esa paz”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/la-otan-apoya-alto-al-fuego-entre-rusia-y-ucrania-propuesto-por-trump/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1565,
+    "message_id": 88898,
+    "date": "2025-03-12T01:55:29+00:00",
+    "text": "teleSUR\nLa OTAN apoya alto al fuego entre Rusia y Ucrania propuesto por Trump\nhttps://www.telesurtv.net/la-otan-apoya-alto-al-fuego-entre-rusia-y-ucrania-propuesto-por-trump/",
+    "photo_path": null,
+    "views": 2073,
+    "reactions": {
+      "🤔": 28,
+      "🤡": 18,
+      "👍": 6
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "el secretario general de la otan, mark rutte, mostró su apoyo al presidente de los estados unidos, donald trump con respecto al conflicto entre rusia y ucrania, subrayando que como primer paso se debe concretar un acuerdo de paz y posteriormente asentar garantías para que ese acuerdo no se viole. las palabras de rutte acontecieron en un encuentro con la prensa, luego de haber sostenido un diálogo con la presidenta de kosovo, vjosa osmani. en ese contexto, subrayó que considera “que el presidente trump tiene razón en que, antes de poder mantener la paz, primero hay que lograr la paz. y la paz aún no está ahí”. por otro lado, desde una postura evidentemene protrumpista, el alto funcionario europeo recalcó que con trump “ahora se ha producido un gran avance en lo que respecta a ucrania, en términos de iniciar conversaciones tanto con los rusos como con los ucranianos”. en ese sentido, también destacó el papel de otras naciones europeas que han intervenido para que el régimen de zelenski preserve la paz. sobre ello, dijo que era “bueno que los franceses y los británicos hayan tomado la iniciativa de que, cuando se llegue a un acuerdo de paz o a un alto el fuego en ucrania, se trate el tema de las garantías de seguridad”. subrayó además que “todos estamos de acuerdo en que hay que trabajar en paralelo porque, cuando se llega a un alto el fuego o a un acuerdo de paz, hay que estar seguro de que se puede garantizar de algún modo esa paz”.",
+    "tokens": [
+      "secretario",
+      "general",
+      "otan",
+      ",",
+      "mark",
+      "rutte",
+      ",",
+      "mostró",
+      "apoyo",
+      "presidente",
+      "unidos",
+      ",",
+      "donald",
+      "trump",
+      "respecto",
+      "conflicto",
+      "rusia",
+      "ucrania",
+      ",",
+      "subrayando",
+      "primer",
+      "paso",
+      "debe",
+      "concretar",
+      "acuerdo",
+      "paz",
+      "posteriormente",
+      "asentar",
+      "garantías",
+      "acuerdo",
+      "viole",
+      ".",
+      "palabras",
+      "rutte",
+      "acontecieron",
+      "encuentro",
+      "prensa",
+      ",",
+      "luego",
+      "haber",
+      "sostenido",
+      "diálogo",
+      "presidenta",
+      "kosovo",
+      ",",
+      "vjosa",
+      "osmani",
+      ".",
+      "contexto",
+      ",",
+      "subrayó",
+      "considera",
+      "“",
+      "presidente",
+      "trump",
+      "razón",
+      ",",
+      "poder",
+      "mantener",
+      "paz",
+      ",",
+      "primero",
+      "lograr",
+      "paz",
+      ".",
+      "paz",
+      "aún",
+      "ahí",
+      "”",
+      ".",
+      "lado",
+      ",",
+      "postura",
+      "evidentemene",
+      "protrumpista",
+      ",",
+      "alto",
+      "funcionario",
+      "europeo",
+      "recalcó",
+      "trump",
+      "“",
+      "ahora",
+      "producido",
+      "gran",
+      "avance",
+      "respecta",
+      "ucrania",
+      ",",
+      "términos",
+      "iniciar",
+      "conversaciones",
+      "rusos",
+      "ucranianos",
+      "”",
+      ".",
+      ",",
+      "destacó",
+      "papel",
+      "naciones",
+      "europeas",
+      "intervenido",
+      "régimen",
+      "zelenski",
+      "preserve",
+      "paz",
+      ".",
+      "ello",
+      ",",
+      "dijo",
+      "“",
+      "bueno",
+      "franceses",
+      "británicos",
+      "tomado",
+      "iniciativa",
+      ",",
+      "llegue",
+      "acuerdo",
+      "paz",
+      "alto",
+      "fuego",
+      "ucrania",
+      ",",
+      "trate",
+      "tema",
+      "garantías",
+      "seguridad",
+      "”",
+      ".",
+      "subrayó",
+      "además",
+      "“",
+      "acuerdo",
+      "trabajar",
+      "paralelo",
+      ",",
+      "llega",
+      "alto",
+      "fuego",
+      "acuerdo",
+      "paz",
+      ",",
+      "seguro",
+      "puede",
+      "garantizar",
+      "algún",
+      "modo",
+      "paz",
+      "”",
+      "."
+    ],
+    "token_count": 151,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NN": 108,
+      "IN": 15,
+      "FW": 55,
+      "VBD": 1,
+      "JJ": 26,
+      "VBZ": 4,
+      "DT": 2,
+      "NNS": 4,
+      "RB": 2,
+      "MD": 1,
+      "VB": 1,
+      "VBP": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 6,
+      "NN-NN": 71,
+      "NN-IN": 12,
+      "IN-FW": 9,
+      "FW-NNP": 6,
+      "NNP-NNP": 10,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NN": 17,
+      "NN-NNP": 5,
+      "NN-JJ": 10,
+      "FW-FW": 34,
+      "FW-NN": 10,
+      "JJ-VBZ": 1,
+      "VBZ-DT": 2,
+      "DT-JJ": 1,
+      "NNP-FW": 4,
+      "NN-FW": 7,
+      "FW-JJ": 2,
+      "NNP-JJ": 2,
+      "IN-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-IN": 3,
+      "IN-NN": 3,
+      "FW-VBZ": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "FW-NNS": 2,
+      "JJ-NNP": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 1,
+      "IN-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-FW": 1,
+      "NN-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 9,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 5,
+      "NNP-NNP-NN": 2,
+      "NN-NN-NN": 45,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 1,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 23,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 6,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 2,
+      "NN-JJ-JJ": 2,
+      "JJ-NN-NN": 11,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NNP-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 3,
+      "NN-FW-NN": 3,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-NNP": 1,
+      "RB-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "FW-NN-JJ": 1,
+      "IN-FW-JJ": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-NN-FW": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 108,
+        "FW": 55,
+        "NNP": 26,
+        "JJ": 26,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 71,
+        "FW-FW": 34,
+        "JJ-NN": 17,
+        "NN-IN": 12,
+        "NNP-NNP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 45,
+        "FW-FW-FW": 23,
+        "JJ-NN-NN": 11,
+        "NN-IN-FW": 9,
+        "NN-NN-JJ": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 62,
+      "ADJP": 1,
+      "VP": 11,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0337
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('paz', 'NN')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('un', 'JJ') ('acuerdo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('un', 'JJ') ('alto', 'NN') ('el', 'NN') ('fuego', 'NN')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('los', 'FW') NP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('paz', 'FW') ('y', 'FW') ('posteriormente', 'FW') ('asentar', 'FW') ('garantías', 'FW') NP ADJP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('secretario', 'NN') ('general', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('OTAN', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Mark', 'NNP') ('Rutte', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El secretario general"
+      },
+      {
+        "label": "NP",
+        "text": "OTAN"
+      },
+      {
+        "label": "NP",
+        "text": "Mark Rutte"
+      },
+      {
+        "label": "NP",
+        "text": "mostró su apoyo"
+      },
+      {
+        "label": "NP",
+        "text": "al presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump con respecto al conflicto entre Rusia y Ucrania"
+      },
+      {
+        "label": "NP",
+        "text": "subrayando que como primer paso se debe concretar"
+      },
+      {
+        "label": "NP",
+        "text": "un acuerdo"
+      },
+      {
+        "label": "NP",
+        "text": "para que"
+      },
+      {
+        "label": "ADJP",
+        "text": "ese"
+      },
+      {
+        "label": "VP",
+        "text": "acuerdo no se viole"
+      },
+      {
+        "label": "NP",
+        "text": "no se viole"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "NP",
+        "text": "Rutte acontecieron en"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP secretario/NN general/NN)\n  de/IN\n  la/FW\n  (NP OTAN/NNP)\n  ,/,\n  (NP Mark/NNP Rutte/NNP)\n  ,/,\n  (NP mostró/NN su/NN apoyo/NN)\n  (NP al/JJ presidente/NN)\n  de/IN\n  los/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP\n    Donald/NNP\n    Trump/NNP\n    con/NN\n    respecto/NN\n    al/NN\n    conflicto/NN\n    entre/NN\n    Rusia/NNP\n    y/NNP\n    Ucrania/NNP)\n  ,/,\n  (NP\n    subrayando/NN\n    que/NN\n    como/NN\n    primer/NN\n    paso/NN\n    se/NN\n    debe/NN\n    concretar/NN)\n  (NP un/JJ acuerdo/NN)\n  de/IN\n  paz/FW\n  y/FW\n  posteriormente/FW\n  asentar/FW\n  garantías/FW\n  (NP para/NN que/NN)\n  (ADJP ese/JJ)\n  (VP acuerdo/VBZ (NP no/DT se/JJ viole/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  palabras/FW\n  de/FW\n  (NP Rutte/NNP acontecieron/NN en/NN)\n  (NP un/JJ encuentro/JJ con/NN la/NN prensa/NN)\n  ,/,\n  luego/FW\n  de/FW\n  haber/FW\n  sostenido/FW\n  (NP un/JJ diálogo/NN con/NN)\n  la/FW\n  presidenta/FW\n  de/FW\n  (NP Kosovo/NNP)\n  ,/,\n  (NP Vjosa/NNP Osmani/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ contexto/NN)\n  ,/,\n  (NP\n    subrayó/NN\n    que/NN\n    considera/NN\n    “/NNP\n    que/NN\n    el/NN\n    presidente/NN\n    Trump/NNP\n    tiene/NN\n    razón/NN)\n  (PP en/IN (NP que/NN))\n  ,/,\n  (VP antes/VBZ)\n  de/IN\n  poder/FW\n  (NP mantener/NN)\n  la/FW\n  (NP paz/NN)\n  ,/,\n  (NP primero/NN hay/NN que/NN lograr/NN la/NN paz/NN)\n  ./.)",
+      "(S\n  (NP Y/NNP la/NNP)\n  paz/FW\n  (VP aún/VBZ (NP no/DT está/NN) ahí/RB (NP ”/NNP))\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otro/MD\n  (VP lado/VB)\n  ,/,\n  (VP\n    desde/VB\n    (NP una/JJ postura/NN evidentemene/NN protrumpista/NN))\n  ,/,\n  el/FW\n  alto/FW\n  (NP\n    funcionario/NN\n    europeo/NN\n    recalcó/NN\n    que/NN\n    con/NN\n    Trump/NNP\n    “/NNP)\n  (VP\n    ahora/VBZ\n    (NP se/JJ ha/NN producido/NN)\n    (NP un/JJ gran/NN avance/NN))\n  en/FW\n  (NP lo/NN que/NN)\n  (VP respecta/VBZ (NP a/DT Ucrania/NNP))\n  ,/,\n  en/FW\n  términos/FW\n  de/FW\n  iniciar/FW\n  (NP conversaciones/NNS)\n  (PP tanto/IN (NP con/NN los/NN rusos/NN como/NN con/NN los/NN))\n  (NP ucranianos/JJ ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre rusia",
+        "position": [
+          129,
+          150
+        ],
+        "start": 129,
+        "end": 150
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre rusia y",
+        "position": [
+          129,
+          152
+        ],
+        "start": 129,
+        "end": 152
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de los",
+        "position": [
+          66,
+          83
+        ],
+        "start": 66,
+        "end": 83
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "otan",
+        "position": [
+          29,
+          33
+        ],
+        "start": 29,
+        "end": 33
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          461,
+          468
+        ],
+        "start": 461,
+        "end": 468
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          905,
+          912
+        ],
+        "start": 905,
+        "end": 912
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          84,
+          98
+        ],
+        "start": 84,
+        "end": 98
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          145,
+          150
+        ],
+        "start": 145,
+        "end": 150
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          552,
+          558
+        ],
+        "start": 552,
+        "end": 558
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "OTAN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rutte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vjosa Osmani",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Zelenski",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mark Rutte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kosovo",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "OTAN",
+        "relacion": "MOSTRAR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "OTAN",
+        "relacion": "MOSTRAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "OTAN",
+        "relacion": "MOSTRAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "OTAN",
+        "relacion": "MOSTRAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Mark Rutte",
+        "relacion": "MOSTRAR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "Mark Rutte",
+        "relacion": "MOSTRAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Mark Rutte",
+        "relacion": "MOSTRAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Mark Rutte",
+        "relacion": "MOSTRAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Rutte",
+        "relacion": "ACONTECER",
+        "objeto": "Kosovo"
+      },
+      {
+        "sujeto": "Rutte",
+        "relacion": "ACONTECER",
+        "objeto": "Vjosa Osmani"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "PRODUCIR_RECALCAR",
+        "objeto": "Ucrania"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.01,
+    "neu": 0.973,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

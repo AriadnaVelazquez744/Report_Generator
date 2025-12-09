@@ -1,0 +1,767 @@
+{
+  "url": "https://www.telesurtv.net/unrwa-afirma-que-124-000-personas-han-huido-de-gaza-en-solo-unos-dias-tras-incesantes-bombardeos/",
+  "title": "Unrwa afirma que 124.000 gazaties han sido desplazados tras incesantes bombardeos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques aéreos",
+    "Ayuda Humanitaria",
+    "bombardeos",
+    "Desplazados",
+    "destrucción",
+    "Gaza",
+    "Genocidio israelí",
+    "hambre",
+    "Palestina",
+    "refugiados",
+    "Unrwa"
+  ],
+  "text": "El Organismo de Obras Públicas y Socorro de las Naciones Unidas para los Refugiados de Palestina en Oriente Próximo (Unrwa, según sus siglas en inglés) informó en sus redes sociales que 124.000 personas han sido desplazadas de la Franja de Gaza en tan solo unos días debido al continuo bombardeo israelí.\n“124.000 personas han sido desplazadas en tan solo unos días, obligadas a huir de los incesantes bombardeos. Las familias cargan con lo poco que tienen, sin refugio, sin seguridad”, escribió la organización de las Naciones Unidas en su cuenta en X.\nAl mismo tiempo, Unrwa alertó que “las autoridades israelíes han cortado toda ayuda. Esto es una catástrofe humanitaria”.\nPor otro lado, la Organización de las Naciones Unidas comunicó que al menos 1,9 millones de personas, alrededor del 90 por ciento de la población en la Franja de Gaza, fueron desplazadas durante la guerra.\nLa mayoría de las viviendas, el 92 por ciento según el Ministerio de Obras Públicas y Vivienda (MoPWH), han sufrido graves daños o han sido destruidas.\nDe acuerdo con el comisionado general de la Unrwa, Philippe Lazzarini, han pasado tres semanas desde que las fuerzas sionistas prohibieron la entrada de suministros a Gaza.\n“Sin alimentos, sin medicamentos, sin agua, sin combustible. Un asedio férreo, más largo que el que se mantuvo en la primera fase de la guerra. La población de Gaza depende de las importaciones a través de Israel para su supervivencia”, detalló el funcionario de la organización internacional.\nLazzarini también relató que “cada día que pasa sin que entre ayuda significa que más niños se acuestan con hambre, se propagan enfermedades y la privación se agrava. Cada día sin alimentos acerca a Gaza a una grave crisis de hambre”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/unrwa-afirma-que-124-000-personas-han-huido-de-gaza-en-solo-unos-dias-tras-incesantes-bombardeos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 493,
+    "message_id": 90158,
+    "date": "2025-03-25T15:55:28+00:00",
+    "text": "teleSUR\nUnrwa afirma que 124.000 gazaties han sido desplazados tras incesantes bombardeos\nhttps://www.telesurtv.net/unrwa-afirma-que-124-000-personas-han-huido-de-gaza-en-solo-unos-dias-tras-incesantes-bombardeos/",
+    "photo_path": null,
+    "views": 1611,
+    "reactions": {
+      "🤬": 24,
+      "👍": 4,
+      "🥰": 4,
+      "😈": 1
+    },
+    "total_reactions": 33
+  },
+  "preprocessing": {
+    "cleaned": "el organismo de obras públicas y socorro de las naciones unidas para los refugiados de palestina en oriente próximo (unrwa, según sus siglas en inglés) informó en sus redes sociales que 124.000 personas han sido desplazadas de la franja de gaza en tan solo unos días debido al continuo bombardeo israelí. “124.000 personas han sido desplazadas en tan solo unos días, obligadas a huir de los incesantes bombardeos. las familias cargan con lo poco que tienen, sin refugio, sin seguridad”, escribió la organización de las naciones unidas en su cuenta en x. al mismo tiempo, unrwa alertó que “las autoridades israelíes han cortado toda ayuda. esto es una catástrofe humanitaria”. por otro lado, la organización de las naciones unidas comunicó que al menos 1,9 millones de personas, alrededor del 90 por ciento de la población en la franja de gaza, fueron desplazadas durante la guerra. la mayoría de las viviendas, el 92 por ciento según el ministerio de obras públicas y vivienda (mopwh), han sufrido graves daños o han sido destruidas. de acuerdo con el comisionado general de la unrwa, philippe lazzarini, han pasado tres semanas desde que las fuerzas sionistas prohibieron la entrada de suministros a gaza. “sin alimentos, sin medicamentos, sin agua, sin combustible. un asedio férreo, más largo que el que se mantuvo en la primera fase de la guerra. la población de gaza depende de las importaciones a través de israel para su supervivencia”, detalló el funcionario de la organización internacional. lazzarini también relató que “cada día que pasa sin que entre ayuda significa que más niños se acuestan con hambre, se propagan enfermedades y la privación se agrava. cada día sin alimentos acerca a gaza a una grave crisis de hambre”.",
+    "tokens": [
+      "organismo",
+      "obras",
+      "públicas",
+      "socorro",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestina",
+      "oriente",
+      "próximo",
+      "(",
+      "unrwa",
+      ",",
+      "según",
+      "siglas",
+      "inglés",
+      ")",
+      "informó",
+      "redes",
+      "sociales",
+      "124.000",
+      "personas",
+      "sido",
+      "desplazadas",
+      "franja",
+      "gaza",
+      "tan",
+      "solo",
+      "días",
+      "debido",
+      "continuo",
+      "bombardeo",
+      "israelí",
+      ".",
+      "“",
+      "124.000",
+      "personas",
+      "sido",
+      "desplazadas",
+      "tan",
+      "solo",
+      "días",
+      ",",
+      "obligadas",
+      "huir",
+      "incesantes",
+      "bombardeos",
+      ".",
+      "familias",
+      "cargan",
+      ",",
+      "refugio",
+      ",",
+      "seguridad",
+      "”",
+      ",",
+      "escribió",
+      "organización",
+      "naciones",
+      "unidas",
+      "cuenta",
+      "x.",
+      "mismo",
+      "tiempo",
+      ",",
+      "unrwa",
+      "alertó",
+      "“",
+      "autoridades",
+      "israelíes",
+      "cortado",
+      "toda",
+      "ayuda",
+      ".",
+      "catástrofe",
+      "humanitaria",
+      "”",
+      ".",
+      "lado",
+      ",",
+      "organización",
+      "naciones",
+      "unidas",
+      "comunicó",
+      "menos",
+      "1,9",
+      "millones",
+      "personas",
+      ",",
+      "alrededor",
+      "90",
+      "ciento",
+      "población",
+      "franja",
+      "gaza",
+      ",",
+      "desplazadas",
+      "guerra",
+      ".",
+      "mayoría",
+      "viviendas",
+      ",",
+      "92",
+      "ciento",
+      "según",
+      "ministerio",
+      "obras",
+      "públicas",
+      "vivienda",
+      "(",
+      "mopwh",
+      ")",
+      ",",
+      "sufrido",
+      "graves",
+      "daños",
+      "sido",
+      "destruidas",
+      ".",
+      "acuerdo",
+      "comisionado",
+      "general",
+      "unrwa",
+      ",",
+      "philippe",
+      "lazzarini",
+      ",",
+      "pasado",
+      "tres",
+      "semanas",
+      "fuerzas",
+      "sionistas",
+      "prohibieron",
+      "entrada",
+      "suministros",
+      "gaza",
+      ".",
+      "“",
+      "alimentos",
+      ",",
+      "medicamentos",
+      ",",
+      "agua",
+      ",",
+      "combustible",
+      ".",
+      "asedio",
+      "férreo",
+      ",",
+      "largo",
+      "mantuvo",
+      "primera",
+      "fase",
+      "guerra",
+      ".",
+      "población",
+      "gaza",
+      "depende",
+      "importaciones",
+      "través",
+      "israel",
+      "supervivencia",
+      "”",
+      ",",
+      "detalló",
+      "funcionario",
+      "organización",
+      "internacional",
+      ".",
+      "lazzarini",
+      "relató",
+      "“",
+      "cada",
+      "día",
+      "pasa",
+      "ayuda",
+      "significa",
+      "niños",
+      "acuestan",
+      "hambre",
+      ",",
+      "propagan",
+      "enfermedades",
+      "privación",
+      "agrava",
+      ".",
+      "cada",
+      "día",
+      "alimentos",
+      "acerca",
+      "gaza",
+      "grave",
+      "crisis",
+      "hambre",
+      "”",
+      "."
+    ],
+    "token_count": 196,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "IN": 16,
+      "FW": 56,
+      "NN": 111,
+      "VBD": 2,
+      "JJ": 21,
+      "NNS": 9,
+      "VBP": 4,
+      "RB": 1,
+      "CD": 5,
+      "VBZ": 4,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-IN": 3,
+      "IN-NNP": 4,
+      "IN-FW": 7,
+      "FW-NNP": 17,
+      "NNP-NN": 14,
+      "NN-NN": 72,
+      "NN-NNP": 5,
+      "NNP-FW": 11,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 3,
+      "IN-NN": 3,
+      "NN-IN": 9,
+      "NN-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NN": 12,
+      "FW-NN": 7,
+      "NN-JJ": 7,
+      "NN-CD": 1,
+      "CD-NN": 3,
+      "IN-JJ": 2,
+      "FW-NNS": 2,
+      "VBP-NNP": 1,
+      "NN-FW": 9,
+      "FW-FW": 25,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 4,
+      "JJ-FW": 3,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "FW-CD": 2,
+      "VBP-JJ": 2,
+      "NN-VBZ": 2,
+      "JJ-NNP": 3,
+      "NNS-FW": 1,
+      "FW-IN": 1,
+      "FW-JJ": 2
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNP": 4,
+      "NN-NNP-IN": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-IN": 6,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "FW-NNP-FW": 8,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 44,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 11,
+      "FW-FW-NNP": 9,
+      "NNP-NNP-FW": 1,
+      "NN-IN-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-FW": 4,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-CD": 1,
+      "FW-CD-NN": 2,
+      "IN-FW-FW": 3,
+      "FW-NNP-NN": 2,
+      "FW-FW-CD": 1,
+      "NN-FW-NNP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "NN-NNP-FW": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "FW-FW-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "FW-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 111,
+        "FW": 56,
+        "NNP": 46,
+        "JJ": 21,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 72,
+        "FW-FW": 25,
+        "FW-NNP": 17,
+        "NNP-NNP": 15,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 44,
+        "NNP-NN-NN": 12,
+        "FW-FW-FW": 11,
+        "FW-FW-NNP": 9,
+        "FW-NNP-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 81,
+      "PP": 6,
+      "VP": 17,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "NP -> ('Unrwa', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('han', 'JJ') ('sido', 'JJ') ('desplazadas', 'NN')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "S -> NP PP ('de', 'IN') ('las', 'FW') NP PP ('en', 'FW') NP ('(', '(') NP (',', ',') NP PP (')', ')') NP ('en', 'FW') NP VP ('124.000', 'CD') NP NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('en', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Organismo"
+      },
+      {
+        "label": "PP",
+        "text": "de Obras Públicas y Socorro"
+      },
+      {
+        "label": "NP",
+        "text": "Obras Públicas y Socorro"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para los Refugiados"
+      },
+      {
+        "label": "PP",
+        "text": "de Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Oriente Próximo"
+      },
+      {
+        "label": "NP",
+        "text": "Unrwa"
+      },
+      {
+        "label": "NP",
+        "text": "según sus siglas"
+      },
+      {
+        "label": "PP",
+        "text": "en inglés"
+      },
+      {
+        "label": "NP",
+        "text": "inglés"
+      },
+      {
+        "label": "NP",
+        "text": "informó"
+      },
+      {
+        "label": "NP",
+        "text": "sus redes"
+      },
+      {
+        "label": "VP",
+        "text": "sociales que"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Organismo/NNP)\n  (PP de/IN (NP Obras/NNP Públicas/NNP y/NNP Socorro/NNP))\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN los/NN Refugiados/NNP)\n  (PP de/IN (NP Palestina/NNP))\n  en/FW\n  (NP Oriente/NNP Próximo/NNP)\n  (/(\n  (NP Unrwa/NNP)\n  ,/,\n  (NP según/JJ sus/NN siglas/NNS)\n  (PP en/IN (NP inglés/NN))\n  )/)\n  (NP informó/NN)\n  en/FW\n  (NP sus/NN redes/NNS)\n  (VP sociales/VBP que/RB)\n  124.000/CD\n  (NP personas/NNS)\n  (NP han/JJ sido/JJ desplazadas/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  en/FW\n  (NP tan/NN solo/NN)\n  (NP\n    unos/JJ\n    días/NN\n    debido/NN\n    al/NN\n    continuo/NN\n    bombardeo/NN\n    israelí/NN)\n  ./.)",
+      "(S\n  “/RB\n  124.000/CD\n  (NP personas/NNS)\n  (NP han/JJ sido/JJ desplazadas/NN)\n  (PP en/IN (NP tan/JJ solo/NN))\n  (NP unos/JJ días/NN)\n  ,/,\n  (VP obligadas/VBZ (NP a/DT huir/NN))\n  de/IN\n  los/FW\n  (NP incesantes/NNS)\n  (VP bombardeos/VBP)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    familias/VBD\n    (NP cargan/JJ con/NN lo/NN poco/NN que/NN tienen/NN))\n  ,/,\n  (NP sin/NN refugio/NN)\n  ,/,\n  (NP sin/NN seguridad/NN ”/NNP)\n  ,/,\n  (VP escribió/VBZ la/JJ)\n  organización/FW\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  en/FW\n  (NP su/NN cuenta/NN)\n  (PP en/IN (NP X/NNP))\n  ./.)",
+      "(S\n  (NP Al/NNP mismo/NN tiempo/NN)\n  ,/,\n  (NP Unrwa/NNP)\n  (VP alertó/VBZ (NP que/JJ “/NNP las/NN autoridades/NNS))\n  (VP israelíes/VBP (NP han/JJ cortado/NN toda/NN ayuda/NN))\n  ./.)",
+      "(S\n  (NP Esto/NNP)\n  es/CC\n  (NP una/JJ catástrofe/NN humanitaria/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          152,
+          159
+        ],
+        "start": 152,
+        "end": 159
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          577,
+          583
+        ],
+        "start": 577,
+        "end": 583
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda. esto es una catástrofe humanitaria",
+        "position": [
+          632,
+          673
+        ],
+        "start": 632,
+        "end": 673
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "catástrofe humanitaria",
+        "position": [
+          651,
+          673
+        ],
+        "start": 651,
+        "end": 673
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambre, se propagan enfermedades y la privación se agrava. cada día sin alimentos",
+        "position": [
+          1609,
+          1690
+        ],
+        "start": 1609,
+        "end": 1690
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          48,
+          63
+        ],
+        "start": 48,
+        "end": 63
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1245,
+          1249
+        ],
+        "start": 1245,
+        "end": 1249
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          87,
+          96
+        ],
+        "start": 87,
+        "end": 96
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          190,
+          202
+        ],
+        "start": 190,
+        "end": 202
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "9 millones",
+        "position": [
+          754,
+          764
+        ],
+        "start": 754,
+        "end": 764
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "124.000 personas",
+        "position": [
+          186,
+          202
+        ],
+        "start": 186,
+        "end": 202
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unrwa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organismo de Obras Públicas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Obras Públicas y Vivienda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lazzarini",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Philippe Lazzarini",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "MoPWH",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Socorro de las Naciones Unidas para los Refugiados de Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Organismo de Obras Públicas",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Socorro de las Naciones Unidas para los Refugiados de Palestina",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Unrwa",
+        "relacion": "ESCRIBIR",
+        "objeto": "Naciones Unidas"
+      },
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "COMUNICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Philippe Lazzarini",
+        "relacion": "PASAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9873,
+    "pos": 0.0,
+    "neu": 0.887,
+    "neg": 0.113,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "url": "https://www.telesurtv.net/cuba-celebra-el-66-aniversario-del-triunfo-de-la-revolucion-cubana/",
+  "title": "Cuba celebra el 66 aniversario del triunfo de la Revolución Cubana - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Año 66 del triunfo de la Revolución",
+    "Bruno Rodríguez Parrilla",
+    "Miguel Díaz-Canel Bermúdez",
+    "triunfo de la Revolución cubana"
+  ],
+  "text": "El pueblo cubano celebra este miércoles el 66 aniversario del triunfo de la Revolución, pues el 1 de enero de 1959 Cuba se convirtió en un país libre del dominio estadounidense.\nLas máximas autoridades del país caribeño enviaron mensajes al pueblo desde sus redes sociales horas antes de que el reloj marcara las 12 de la noche de este 1 de enero.\nEl presidente cubano Miguel Díaz-Canel Bermúdez, publicó en su perfil oficial de la red social X: “Queridos compatriotas: Infinitas gracias por el heroísmo frente a la barbarie de la guerra económica que se nos hace”.\n“Honra y emociona sobremanera saberse parte de este pueblo que no nació destinado a la grandeza. Se la ha ganado a golpe de heroísmo y creatividad en la resistencia. Viva por siempre Cuba libre y soberana por la voluntad de su pueblo”, añadió el presidente cubano.\nAsimismo, el canciller cubano Bruno Rodríguez Parrilla, posteó desde su cuenta oficial en la red social X: “Con la fuerza de la unidad este año hemos salido adelante frente a los daños que provoca el genocida bloqueo del gobierno de EEUU al pueblo cubano y a adversidades impuestas por la naturaleza”.\nA partir de 1959, la Reforma Agraria, las primeras normativas de la Revolución para beneficiar a los más desfavorecidos, las nacionalizaciones, trazaron la ruta de la Revolución que un año después, a punto de enfrentar un ataque armado, se proclamó oficialmente socialista y la población la respaldó con sus armas en mano.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuba-celebra-el-66-aniversario-del-triunfo-de-la-revolucion-cubana/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 2204,
+    "message_id": 83412,
+    "date": "2025-01-01T09:55:07+00:00",
+    "text": "teleSUR\nCuba celebra el 66 aniversario del triunfo de la Revolución Cubana\nhttps://www.telesurtv.net/cuba-celebra-el-66-aniversario-del-triunfo-de-la-revolucion-cubana/",
+    "photo_path": null,
+    "views": 2365,
+    "reactions": {
+      "❤": 50,
+      "👏": 10,
+      "👍": 6,
+      "🔥": 3
+    },
+    "total_reactions": 69
+  },
+  "preprocessing": {
+    "cleaned": "el pueblo cubano celebra este miércoles el 66 aniversario del triunfo de la revolución, pues el 1 de enero de 1959 cuba se convirtió en un país libre del dominio estadounidense. las máximas autoridades del país caribeño enviaron mensajes al pueblo desde sus redes sociales horas antes de que el reloj marcara las 12 de la noche de este 1 de enero. el presidente cubano miguel díaz-canel bermúdez, publicó en su perfil oficial de la red social x: “queridos compatriotas: infinitas gracias por el heroísmo frente a la barbarie de la guerra económica que se nos hace”. “honra y emociona sobremanera saberse parte de este pueblo que no nació destinado a la grandeza. se la ha ganado a golpe de heroísmo y creatividad en la resistencia. viva por siempre cuba libre y soberana por la voluntad de su pueblo”, añadió el presidente cubano. asimismo, el canciller cubano bruno rodríguez parrilla, posteó desde su cuenta oficial en la red social x: “con la fuerza de la unidad este año hemos salido adelante frente a los daños que provoca el genocida bloqueo del gobierno de eeuu al pueblo cubano y a adversidades impuestas por la naturaleza”. a partir de 1959, la reforma agraria, las primeras normativas de la revolución para beneficiar a los más desfavorecidos, las nacionalizaciones, trazaron la ruta de la revolución que un año después, a punto de enfrentar un ataque armado, se proclamó oficialmente socialista y la población la respaldó con sus armas en mano.",
+    "tokens": [
+      "pueblo",
+      "cubano",
+      "celebra",
+      "miércoles",
+      "66",
+      "aniversario",
+      "triunfo",
+      "revolución",
+      ",",
+      "pues",
+      "1",
+      "enero",
+      "1959",
+      "cuba",
+      "convirtió",
+      "país",
+      "libre",
+      "dominio",
+      "estadounidense",
+      ".",
+      "máximas",
+      "autoridades",
+      "país",
+      "caribeño",
+      "enviaron",
+      "mensajes",
+      "pueblo",
+      "redes",
+      "sociales",
+      "horas",
+      "reloj",
+      "marcara",
+      "12",
+      "noche",
+      "1",
+      "enero",
+      ".",
+      "presidente",
+      "cubano",
+      "miguel",
+      "díaz-canel",
+      "bermúdez",
+      ",",
+      "publicó",
+      "perfil",
+      "oficial",
+      "red",
+      "social",
+      "x",
+      ":",
+      "“",
+      "queridos",
+      "compatriotas",
+      ":",
+      "infinitas",
+      "gracias",
+      "heroísmo",
+      "frente",
+      "barbarie",
+      "guerra",
+      "económica",
+      "hace",
+      "”",
+      ".",
+      "“",
+      "honra",
+      "emociona",
+      "sobremanera",
+      "saberse",
+      "parte",
+      "pueblo",
+      "nació",
+      "destinado",
+      "grandeza",
+      ".",
+      "ganado",
+      "golpe",
+      "heroísmo",
+      "creatividad",
+      "resistencia",
+      ".",
+      "viva",
+      "siempre",
+      "cuba",
+      "libre",
+      "soberana",
+      "voluntad",
+      "pueblo",
+      "”",
+      ",",
+      "añadió",
+      "presidente",
+      "cubano",
+      ".",
+      "asimismo",
+      ",",
+      "canciller",
+      "cubano",
+      "bruno",
+      "rodríguez",
+      "parrilla",
+      ",",
+      "posteó",
+      "cuenta",
+      "oficial",
+      "red",
+      "social",
+      "x",
+      ":",
+      "“",
+      "fuerza",
+      "unidad",
+      "año",
+      "salido",
+      "adelante",
+      "frente",
+      "daños",
+      "provoca",
+      "genocida",
+      "bloqueo",
+      "gobierno",
+      "eeuu",
+      "pueblo",
+      "cubano",
+      "adversidades",
+      "impuestas",
+      "naturaleza",
+      "”",
+      ".",
+      "partir",
+      "1959",
+      ",",
+      "reforma",
+      "agraria",
+      ",",
+      "primeras",
+      "normativas",
+      "revolución",
+      "beneficiar",
+      "desfavorecidos",
+      ",",
+      "nacionalizaciones",
+      ",",
+      "trazaron",
+      "ruta",
+      "revolución",
+      "año",
+      "después",
+      ",",
+      "punto",
+      "enfrentar",
+      "ataque",
+      "armado",
+      ",",
+      "proclamó",
+      "oficialmente",
+      "socialista",
+      "población",
+      "respaldó",
+      "armas",
+      "mano",
+      "."
+    ],
+    "token_count": 162,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "NN": 88,
+      "NNS": 7,
+      "VBP": 9,
+      "CD": 4,
+      "IN": 9,
+      "FW": 61,
+      "JJ": 19,
+      "VBZ": 6,
+      "VBD": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-NN": 54,
+      "NN-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-CD": 1,
+      "CD-NN": 2,
+      "NN-IN": 6,
+      "IN-FW": 6,
+      "FW-NNP": 6,
+      "NNP-NNS": 2,
+      "VBP-IN": 1,
+      "FW-FW": 40,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "NNP-FW": 3,
+      "FW-NN": 9,
+      "NN-FW": 8,
+      "FW-JJ": 4,
+      "JJ-NN": 12,
+      "NN-NNP": 7,
+      "VBP-JJ": 7,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NNP-NNP": 5,
+      "NN-VBP": 2,
+      "JJ-FW": 3,
+      "JJ-JJ": 2,
+      "JJ-NNP": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 2,
+      "NNP-VBZ": 4,
+      "VBZ-NN": 2,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "VBZ-JJ": 2,
+      "NN-JJ": 3,
+      "IN-NNP": 1,
+      "IN-CD": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 35,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 5,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 4,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-VBP": 1,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 2,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 4,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NN": 2,
+      "FW-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "NNP-NN-JJ": 1,
+      "IN-FW-JJ": 1,
+      "NN-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 61,
+        "NNP": 24,
+        "JJ": 19,
+        "VBP": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 54,
+        "FW-FW": 40,
+        "JJ-NN": 12,
+        "FW-NN": 9,
+        "NNP-NN": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 27,
+        "JJ-NN-NN": 9,
+        "FW-FW-NN": 6,
+        "NNP-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 55,
+      "VP": 20,
+      "PP": 3,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('el', 'VBP')",
+        "frequency": 2,
+        "weight": 0.023
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.023
+      },
+      {
+        "rule": "NP -> ('red', 'JJ') ('social', 'JJ') ('X', 'NN')",
+        "frequency": 2,
+        "weight": 0.023
+      },
+      {
+        "rule": "S -> NP VP ('66', 'CD') NP ('de', 'IN') ('la', 'FW') NP (',', ',') VP VP ('1', 'CD') ('de', 'FW') ('enero', 'FW') ('de', 'IN') ('1959', 'CD') NP ('se', 'FW') NP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('pueblo', 'NN') ('cubano', 'NN') ('celebra', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('aniversario', 'NN') ('del', 'NN') ('triunfo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('Revolución', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "VP -> ('pues', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('convirtió', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El pueblo cubano celebra este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "aniversario del triunfo"
+      },
+      {
+        "label": "NP",
+        "text": "Revolución"
+      },
+      {
+        "label": "VP",
+        "text": "pues"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "convirtió"
+      },
+      {
+        "label": "NP",
+        "text": "un país libre del dominio estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "país caribeño enviaron mensajes al pueblo desde sus"
+      },
+      {
+        "label": "VP",
+        "text": "redes sociales"
+      },
+      {
+        "label": "NP",
+        "text": "sociales"
+      },
+      {
+        "label": "VP",
+        "text": "antes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP pueblo/NN cubano/NN celebra/NN este/NN miércoles/NNS)\n  (VP el/VBP)\n  66/CD\n  (NP aniversario/NN del/NN triunfo/NN)\n  de/IN\n  la/FW\n  (NP Revolución/NNP)\n  ,/,\n  (VP pues/VBZ)\n  (VP el/VBP)\n  1/CD\n  de/FW\n  enero/FW\n  de/IN\n  1959/CD\n  (NP Cuba/NNP)\n  se/FW\n  (NP convirtió/NN)\n  en/FW\n  (NP un/JJ país/NN libre/NN del/NN dominio/NN estadounidense/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  máximas/PRP\n  (VP autoridades/VBZ)\n  del/FW\n  (NP\n    país/NN\n    caribeño/NN\n    enviaron/NN\n    mensajes/NN\n    al/NN\n    pueblo/NN\n    desde/NN\n    sus/NN)\n  (VP redes/VBZ (NP sociales/NNS))\n  horas/FW\n  (VP antes/VBZ)\n  de/IN\n  que/FW\n  el/FW\n  (NP reloj/NN marcara/NN)\n  (VP las/VBD)\n  12/CD\n  de/IN\n  la/FW\n  noche/FW\n  de/FW\n  este/FW\n  1/CD\n  (PP de/IN (NP enero/NN))\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    presidente/NN\n    cubano/NN\n    Miguel/NNP\n    Díaz-Canel/NNP\n    Bermúdez/NNP)\n  ,/,\n  (NP publicó/NN)\n  en/FW\n  (NP su/NN)\n  (VP perfil/VBP oficial/JJ)\n  de/FW\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  :/:\n  (NP “/JJ Queridos/NNP compatriotas/NN)\n  :/:\n  (NP Infinitas/NNP)\n  (VP gracias/VBP (NP por/JJ el/NN heroísmo/NN))\n  (VP frente/VBD)\n  a/DT\n  la/FW\n  barbarie/FW\n  de/FW\n  la/FW\n  guerra/FW\n  económica/FW\n  que/FW\n  se/FW\n  nos/FW\n  (NP hace/NN ”/NN)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Honra/NNP\n    y/NN\n    emociona/NN\n    sobremanera/NN\n    saberse/NN\n    parte/NN)\n  de/IN\n  este/FW\n  pueblo/FW\n  (NP que/NN)\n  no/DT\n  (ADJP nació/JJ)\n  (VP destinado/VBZ (NP a/DT la/NN grandeza/NN))\n  ./.)",
+      "(S\n  (NP Se/NNP la/NN ha/NN)\n  (VP ganado/VBD (NP a/DT golpe/NN))\n  de/IN\n  heroísmo/FW\n  y/FW\n  (NP creatividad/NN)\n  en/FW\n  (NP la/NN resistencia/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de eeuu al",
+        "position": [
+          1052,
+          1071
+        ],
+        "start": 1052,
+        "end": 1071
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente cubano miguel",
+        "position": [
+          351,
+          375
+        ],
+        "start": 351,
+        "end": 375
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "respaldó",
+        "position": [
+          1424,
+          1432
+        ],
+        "start": 1424,
+        "end": 1432
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "honra",
+        "position": [
+          567,
+          572
+        ],
+        "start": 567,
+        "end": 572
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "ruta",
+        "position": [
+          1289,
+          1293
+        ],
+        "start": 1289,
+        "end": 1293
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          115,
+          119
+        ],
+        "start": 115,
+        "end": 119
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "1 de enero de 1959",
+        "position": [
+          96,
+          114
+        ],
+        "start": 96,
+        "end": 114
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1040,
+          1047
+        ],
+        "start": 1040,
+        "end": 1047
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Miguel Díaz-Canel Bermúdez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bruno Rodríguez Parrilla",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Infinitas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EEUU",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Miguel Díaz-Canel Bermúdez",
+        "relacion": "PUBLICAR",
+        "objeto": "Infinitas"
+      },
+      {
+        "sujeto": "Bruno Rodríguez Parrilla",
+        "relacion": "POSTEAR",
+        "objeto": "EEUU"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.01,
+    "neu": 0.98,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

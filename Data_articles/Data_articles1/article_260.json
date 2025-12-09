@@ -1,0 +1,882 @@
+{
+  "url": "https://www.telesurtv.net/onu-consejo-seguridad-debatira-ataque-qatar/",
+  "title": "Consejo de Seguridad de la ONU debatirá bombardeo a Qatar",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Consejo de Seguridad",
+    "Doha",
+    "israelí",
+    "ONU"
+  ],
+  "text": "Tras el ataque de Israel a Qatar, el Consejo de Seguridad de la Organización de las Naciones Unidas mantendrá este miércoles una reunión para discutir sobre la nueva agresión israelí y la situación en la región del Oriente Medio.\n“La reunión sobre la situación en Oriente Medio está prevista para mañana, para las 15.00 hora local (19.00 GMT del 10 de septiembre)”, informó la misión de Corea del Sur, que preside actualmente el organismo de la ONU.\nHoras antes, las representaciones de Pakistán y Argelia solicitaron una reunión del Consejo de Seguridad de la ONU tras los ataques israelíes contra la capital catarí, Doha.\n\n\nEl martes, las Fuerzas de Defensa de Israel (FDI) lanzaron un ataque contra el liderazgo del Movimiento de Resistencia palestino Hamás en Doha. El primer ministro de Israel, Benjamín Netanyahu, confirmó que Israel asume la responsabilidad por el ataque.\nPosteriormente Hamás afirmó por medio de un comunicado que el intento israelí de asesinar a los miembros de su delegación en Doha fracasó. Sin embargo, admitió que el ataque se cobró la vida de al menos seis personas.\nLa cifra de gazatíes muertos desde el inicio de la operación genocida israelí supera los 64.600 y el número de heridos está por encima de los 163.300, según los datos del Ministerio de Salud palestino en la Franja de Gaza.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/onu-consejo-seguridad-debatira-ataque-qatar/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 428,
+    "message_id": 104224,
+    "date": "2025-09-10T06:55:08+00:00",
+    "text": "teleSUR\nConsejo de Seguridad de la ONU se reunirá para debatir ataque israelí a Qatar\nhttps://www.telesurtv.net/onu-consejo-seguridad-debatira-ataque-qatar/",
+    "photo_path": null,
+    "views": 2140,
+    "reactions": {
+      "👍": 39,
+      "🤔": 15,
+      "👏": 4,
+      "❤": 2,
+      "😁": 2
+    },
+    "total_reactions": 62
+  },
+  "preprocessing": {
+    "cleaned": "tras el ataque de israel a qatar, el consejo de seguridad de la organización de las naciones unidas mantendrá este miércoles una reunión para discutir sobre la nueva agresión israelí y la situación en la región del oriente medio. “la reunión sobre la situación en oriente medio está prevista para mañana, para las 15.00 hora local (19.00 gmt del 10 de septiembre)”, informó la misión de corea del sur, que preside actualmente el organismo de la onu. horas antes, las representaciones de pakistán y argelia solicitaron una reunión del consejo de seguridad de la onu tras los ataques israelíes contra la capital catarí, doha. el martes, las fuerzas de defensa de israel (fdi) lanzaron un ataque contra el liderazgo del movimiento de resistencia palestino hamás en doha. el primer ministro de israel, benjamín netanyahu, confirmó que israel asume la responsabilidad por el ataque. posteriormente hamás afirmó por medio de un comunicado que el intento israelí de asesinar a los miembros de su delegación en doha fracasó. sin embargo, admitió que el ataque se cobró la vida de al menos seis personas. la cifra de gazatíes muertos desde el inicio de la operación genocida israelí supera los 64.600 y el número de heridos está por encima de los 163.300, según los datos del ministerio de salud palestino en la franja de gaza.",
+    "tokens": [
+      "tras",
+      "ataque",
+      "israel",
+      "qatar",
+      ",",
+      "consejo",
+      "seguridad",
+      "organización",
+      "naciones",
+      "unidas",
+      "mantendrá",
+      "miércoles",
+      "reunión",
+      "discutir",
+      "nueva",
+      "agresión",
+      "israelí",
+      "situación",
+      "región",
+      "oriente",
+      "medio",
+      ".",
+      "“",
+      "reunión",
+      "situación",
+      "oriente",
+      "medio",
+      "prevista",
+      "mañana",
+      ",",
+      "15.00",
+      "hora",
+      "local",
+      "(",
+      "19.00",
+      "gmt",
+      "10",
+      "septiembre",
+      ")",
+      "”",
+      ",",
+      "informó",
+      "misión",
+      "corea",
+      "sur",
+      ",",
+      "preside",
+      "actualmente",
+      "organismo",
+      "onu",
+      ".",
+      "horas",
+      ",",
+      "representaciones",
+      "pakistán",
+      "argelia",
+      "solicitaron",
+      "reunión",
+      "consejo",
+      "seguridad",
+      "onu",
+      "tras",
+      "ataques",
+      "israelíes",
+      "capital",
+      "catarí",
+      ",",
+      "doha",
+      ".",
+      "martes",
+      ",",
+      "fuerzas",
+      "defensa",
+      "israel",
+      "(",
+      "fdi",
+      ")",
+      "lanzaron",
+      "ataque",
+      "liderazgo",
+      "movimiento",
+      "resistencia",
+      "palestino",
+      "hamás",
+      "doha",
+      ".",
+      "primer",
+      "ministro",
+      "israel",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "confirmó",
+      "israel",
+      "asume",
+      "responsabilidad",
+      "ataque",
+      ".",
+      "posteriormente",
+      "hamás",
+      "afirmó",
+      "medio",
+      "comunicado",
+      "intento",
+      "israelí",
+      "asesinar",
+      "miembros",
+      "delegación",
+      "doha",
+      "fracasó",
+      ".",
+      "embargo",
+      ",",
+      "admitió",
+      "ataque",
+      "cobró",
+      "vida",
+      "menos",
+      "seis",
+      "personas",
+      ".",
+      "cifra",
+      "gazatíes",
+      "muertos",
+      "inicio",
+      "operación",
+      "genocida",
+      "israelí",
+      "supera",
+      "64.600",
+      "número",
+      "heridos",
+      "encima",
+      "163.300",
+      ",",
+      "según",
+      "datos",
+      "ministerio",
+      "salud",
+      "palestino",
+      "franja",
+      "gaza",
+      "."
+    ],
+    "token_count": 144,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "CC": 1,
+      "NN": 59,
+      "IN": 9,
+      "FW": 68,
+      "NNS": 5,
+      "JJ": 12,
+      "VBD": 1,
+      "CD": 5,
+      "VBZ": 6,
+      "VBP": 2
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-IN": 6,
+      "IN-NNP": 4,
+      "NNP-NNP": 14,
+      "NNP-FW": 15,
+      "FW-NNP": 18,
+      "FW-FW": 35,
+      "FW-NN": 10,
+      "NN-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-NN": 6,
+      "NN-NN": 31,
+      "NN-FW": 10,
+      "NNP-NN": 9,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NNP": 1,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "IN-FW": 4,
+      "NNP-VBZ": 5,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "NNP-JJ": 1,
+      "NN-NNP": 7,
+      "NNS-VBP": 2,
+      "VBP-JJ": 2,
+      "JJ-FW": 2,
+      "JJ-NNP": 1,
+      "NNP-IN": 2,
+      "NN-JJ": 1,
+      "VBZ-NNP": 1,
+      "VBZ-FW": 1,
+      "IN-JJ": 1,
+      "FW-JJ": 1,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-NN": 2
+    },
+    "trigram_freq": {
+      "NNP-CC-NN": 1,
+      "CC-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 7,
+      "FW-NNP-FW": 8,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 5,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-NN": 16,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 20,
+      "NNP-NNP-NNP": 3,
+      "FW-NN-FW": 4,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 6,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-CD": 1,
+      "JJ-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NNP-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NNP-NNP": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-FW-NNP": 3,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NNP-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "NN-NNP-IN": 1,
+      "IN-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 68,
+        "NN": 59,
+        "NNP": 48,
+        "JJ": 12,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "FW-FW": 35,
+        "NN-NN": 31,
+        "FW-NNP": 18,
+        "NNP-FW": 15,
+        "NNP-NNP": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 16,
+        "FW-NNP-FW": 8,
+        "FW-FW-NNP": 8,
+        "NNP-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 66,
+      "PP": 7,
+      "VP": 8,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0659
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 3,
+        "weight": 0.033
+      },
+      {
+        "rule": "NP -> ('ataque', 'NN')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('Seguridad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('Doha', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "S -> NP ('el', 'CC') NP PP NP (',', ',') NP ('de', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') ('las', 'FW') NP ('mantendrá', 'FW') NP NP ('nueva', 'FW') NP ('situación', 'FW') ('en', 'FW') ('la', 'FW') ('región', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Tras', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Qatar', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('Consejo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Tras"
+      },
+      {
+        "label": "NP",
+        "text": "ataque"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "a Qatar"
+      },
+      {
+        "label": "NP",
+        "text": "el Consejo"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "una reunión para discutir sobre la"
+      },
+      {
+        "label": "NP",
+        "text": "agresión israelí y la"
+      },
+      {
+        "label": "NP",
+        "text": "Oriente Medio"
+      },
+      {
+        "label": "NP",
+        "text": "“ La reunión sobre la situación"
+      },
+      {
+        "label": "PP",
+        "text": "en Oriente Medio está prevista para mañana"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Tras/NNP)\n  el/CC\n  (NP ataque/NN)\n  (PP de/IN (NP Israel/NNP))\n  (NP a/DT Qatar/NNP)\n  ,/,\n  (NP el/JJ Consejo/NNP)\n  de/FW\n  (NP Seguridad/NNP)\n  de/FW\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  mantendrá/FW\n  (NP este/NN miércoles/NNS)\n  (NP una/JJ reunión/NN para/NN discutir/NN sobre/NN la/NN)\n  nueva/FW\n  (NP agresión/NN israelí/NN y/NN la/NN)\n  situación/FW\n  en/FW\n  la/FW\n  región/FW\n  del/FW\n  (NP Oriente/NNP Medio/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP reunión/NN sobre/NN la/NN situación/NN)\n  (PP\n    en/IN\n    (NP Oriente/NNP Medio/NNP está/NN prevista/NN para/NN mañana/NN))\n  ,/,\n  (NP para/NN)\n  (VP las/VBD)\n  15.00/CD\n  (NP hora/NNS)\n  (ADJP local/JJ)\n  (/(\n  19.00/CD\n  (NP GMT/NNP)\n  del/FW\n  10/CD\n  (PP de/IN (NP septiembre/NN))\n  )/)\n  (NP ”/NN)\n  ,/,\n  (ADJP informó/JJ)\n  la/FW\n  misión/FW\n  de/FW\n  (NP Corea/NNP)\n  del/FW\n  (NP Sur/NNP)\n  ,/,\n  (NP que/JJ preside/NN actualmente/NN)\n  el/FW\n  organismo/FW\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  ./.)",
+      "(S\n  (NP Horas/NNP)\n  (VP antes/VBZ)\n  ,/,\n  (NP las/JJ representaciones/NNS)\n  (PP de/IN (NP Pakistán/NNP y/NNP Argelia/NNP solicitaron/NNP))\n  (NP una/JJ reunión/NN del/NN Consejo/NNP)\n  de/FW\n  (NP Seguridad/NNP)\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  tras/FW\n  (NP los/NN ataques/NNS)\n  (VP israelíes/VBP contra/JJ)\n  la/FW\n  (NP capital/NN catarí/NN)\n  ,/,\n  (NP Doha/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP martes/NNS)\n  ,/,\n  (NP las/JJ Fuerzas/NNP)\n  de/FW\n  (NP Defensa/NNP)\n  (PP de/IN (NP Israel/NNP))\n  (/(\n  (NP FDI/NNP)\n  )/)\n  (NP lanzaron/NN)\n  (NP un/JJ ataque/JJ contra/JJ el/NN liderazgo/NN)\n  del/FW\n  (NP Movimiento/NNP)\n  de/FW\n  (NP Resistencia/NNP palestino/NN Hamás/NNP)\n  (VP en/VBZ (NP Doha/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP primer/NN ministro/NN)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP Benjamín/NNP Netanyahu/NNP)\n  ,/,\n  (NP confirmó/NN que/NN Israel/NNP)\n  (VP asume/VBZ)\n  la/FW\n  responsabilidad/FW\n  por/FW\n  el/FW\n  (NP ataque/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          574,
+          591
+        ],
+        "start": 574,
+        "end": 591
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocida israelí supera los 64.600 y el número de heridos está por encima de los 163.300, según los datos del ministerio de salud palestino en la franja de gaza",
+        "position": [
+          1159,
+          1319
+        ],
+        "start": 1159,
+        "end": 1319
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          602,
+          609
+        ],
+        "start": 602,
+        "end": 609
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          901,
+          907
+        ],
+        "start": 901,
+        "end": 907
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          366,
+          373
+        ],
+        "start": 366,
+        "end": 373
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          652,
+          659
+        ],
+        "start": 652,
+        "end": 659
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de israel",
+        "position": [
+          780,
+          798
+        ],
+        "start": 780,
+        "end": 798
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          64,
+          99
+        ],
+        "start": 64,
+        "end": 99
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          175,
+          182
+        ],
+        "start": 175,
+        "end": 182
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región del",
+        "position": [
+          204,
+          214
+        ],
+        "start": 204,
+        "end": 214
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          297,
+          303
+        ],
+        "start": 297,
+        "end": 303
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          414,
+          425
+        ],
+        "start": 414,
+        "end": 425
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1023,
+          1030
+        ],
+        "start": 1023,
+        "end": 1030
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pakistán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad de la Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Argelia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corea del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Doha",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento de Resistencia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Medio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Qatar",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Consejo de Seguridad de la Organización de las Naciones Unidas",
+        "relacion": "MANTENER",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Consejo de Seguridad de la Organización de las Naciones Unidas",
+        "relacion": "MANTENER",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "Medio",
+        "relacion": "INFORMAR",
+        "objeto": "Corea del Sur"
+      },
+      {
+        "sujeto": "Medio",
+        "relacion": "INFORMAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Medio",
+        "relacion": "INFORMAR",
+        "objeto": "Pakistán"
+      },
+      {
+        "sujeto": "Medio",
+        "relacion": "INFORMAR",
+        "objeto": "Argelia"
+      },
+      {
+        "sujeto": "Medio",
+        "relacion": "INFORMAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Medio",
+        "relacion": "INFORMAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Corea del Sur",
+        "relacion": "INFORMAR",
+        "objeto": "Pakistán"
+      },
+      {
+        "sujeto": "Corea del Sur",
+        "relacion": "INFORMAR",
+        "objeto": "Argelia"
+      },
+      {
+        "sujeto": "Corea del Sur",
+        "relacion": "INFORMAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Corea del Sur",
+        "relacion": "INFORMAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Corea del Sur",
+        "relacion": "INFORMAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "PRESIDIR_INFORMAR",
+        "objeto": "Pakistán"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "PRESIDIR_INFORMAR",
+        "objeto": "Argelia"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "PRESIDIR_INFORMAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "PRESIDIR_INFORMAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Pakistán",
+        "relacion": "SOLICITAR_INFORMAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Pakistán",
+        "relacion": "SOLICITAR_INFORMAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Pakistán",
+        "relacion": "SOLICITAR_INFORMAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Argelia",
+        "relacion": "SOLICITAR_INFORMAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Argelia",
+        "relacion": "SOLICITAR_INFORMAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Argelia",
+        "relacion": "SOLICITAR_INFORMAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Consejo de Seguridad",
+        "relacion": "SOLICITAR_INFORMAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "SOLICITAR_INFORMAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "LANZAR",
+        "objeto": "Movimiento de Resistencia"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "LANZAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "LANZAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "LANZAR",
+        "objeto": "Movimiento de Resistencia"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "LANZAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "LANZAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONFIRMAR",
+        "objeto": "Benjamín Netanyahu"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "AFIRMAR",
+        "objeto": "Doha"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.984,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

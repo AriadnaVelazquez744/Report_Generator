@@ -1,0 +1,839 @@
+{
+  "url": "https://www.telesurtv.net/yemen-israel-ee-uu-crimen-del-siglo-palestina/",
+  "title": "Yemen: Líder hutí acusa a Israel y EE.UU. de cometer “el crimen del siglo” contra Palestina - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "conflicto destacado",
+    "Crimen",
+    "EE.UU.",
+    "exterminio",
+    "Gaza",
+    "Israel",
+    "Palestina",
+    "Yemen"
+  ],
+  "text": "El jefe del movimiento yemení Ansar Allah, Sayyed Abdulmalik al-Houthi, denunció este jueves que la entidad sionista de Israel, con apoyo de Estados Unidos, perpetra “el crimen del siglo y la vergüenza de la época” en su ofensiva contra el pueblo palestino.\nEn un discurso pronunciado con motivo del natalicio del Profeta, Al-Houthi aseguró que la agresión, que entró en su segundo año, ha provocado un sufrimiento insoportable en Gaza, donde incluso los bebés carecen de leche y se ha instaurado una política deliberada de hambre.\n\n\nLEA TAMBIÉN\nBase de datos militar israelí revela que solo el 25% de los prisioneros en Gaza son combatientes\n\n\nEl dirigente yemení condenó también las agresiones continuas contra la Mezquita de Al-Aqsa y Cisjordania, mientras “algunos Gobiernos árabes e islámicos optan por la indiferencia”. Asimismo, advirtió que la pasividad o complicidad de esos actores no los eximirá de responsabilidades en el futuro.\n\n\n\n\nEl líder hutí también señaló que la represión contra el pueblo palestino refleja un nivel alarmante de degradación moral, humana y religiosa dentro del mundo islámico, y consideró que las alternativas ensayadas hasta ahora han resultado ineficaces, por lo que urgió a un cambio decidido de estrategia.\nAl-Houthi alertó además que el proyecto sionista no se limita a Palestina, sino que pretende rediseñar todo Oriente Medio bajo la bandera del llamado “Gran Israel”, lo que constituye una amenaza directa para la región.\n\n\n\n\nEn ese sentido, dirigente yemení reiteró su compromiso con la causa palestina e hizo un llamado a quienes “conserven conciencia y dignidad” a actuar para detener el exterminio y la hambruna impuesta de manera sistemática.\nDesde octubre de 2023, la ofensiva israelí en Gaza se ha cobrado la vida de más de 64 mil palestinos, en su mayoría mujeres y menores de edad. La Organización de las Naciones Unidas (ONU) confirmó el pasado 22 de agosto de manera oficial la presencia de hambruna en el enclave, mientras persisten los bombardeos indiscriminados contra instalaciones civiles, centros de culto y hospitales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/yemen-israel-ee-uu-crimen-del-siglo-palestina/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 813,
+    "message_id": 103770,
+    "date": "2025-09-04T19:55:07+00:00",
+    "text": "teleSUR\nYemen: Líder hutí acusa a Israel y EE.UU. de cometer “el crimen del siglo” contra Palestina\nhttps://www.telesurtv.net/yemen-israel-ee-uu-crimen-del-siglo-palestina/",
+    "photo_path": null,
+    "views": 1788,
+    "reactions": {
+      "👍": 52,
+      "😭": 2,
+      "❤": 1
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "el jefe del movimiento yemení ansar allah, sayyed abdulmalik al-houthi, denunció este jueves que la entidad sionista de israel, con apoyo de estados unidos, perpetra “el crimen del siglo y la vergüenza de la época” en su ofensiva contra el pueblo palestino. en un discurso pronunciado con motivo del natalicio del profeta, al-houthi aseguró que la agresión, que entró en su segundo año, ha provocado un sufrimiento insoportable en gaza, donde incluso los bebés carecen de leche y se ha instaurado una política deliberada de hambre. el dirigente yemení condenó también las agresiones continuas contra la mezquita de al-aqsa y cisjordania, mientras “algunos gobiernos árabes e islámicos optan por la indiferencia”. asimismo, advirtió que la pasividad o complicidad de esos actores no los eximirá de responsabilidades en el futuro. el líder hutí también señaló que la represión contra el pueblo palestino refleja un nivel alarmante de degradación moral, humana y religiosa dentro del mundo islámico, y consideró que las alternativas ensayadas hasta ahora han resultado ineficaces, por lo que urgió a un cambio decidido de estrategia. al-houthi alertó además que el proyecto sionista no se limita a palestina, sino que pretende rediseñar todo oriente medio bajo la bandera del llamado “gran israel”, lo que constituye una amenaza directa para la región. en ese sentido, dirigente yemení reiteró su compromiso con la causa palestina e hizo un llamado a quienes “conserven conciencia y dignidad” a actuar para detener el exterminio y la hambruna impuesta de manera sistemática. desde octubre de 2023, la ofensiva israelí en gaza se ha cobrado la vida de más de 64 mil palestinos, en su mayoría mujeres y menores de edad. la organización de las naciones unidas (onu) confirmó el pasado 22 de agosto de manera oficial la presencia de hambruna en el enclave, mientras persisten los bombardeos indiscriminados contra instalaciones civiles, centros de culto y hospitales.",
+    "tokens": [
+      "jefe",
+      "movimiento",
+      "yemení",
+      "ansar",
+      "allah",
+      ",",
+      "sayyed",
+      "abdulmalik",
+      "al-houthi",
+      ",",
+      "denunció",
+      "jueves",
+      "entidad",
+      "sionista",
+      "israel",
+      ",",
+      "apoyo",
+      "unidos",
+      ",",
+      "perpetra",
+      "“",
+      "crimen",
+      "siglo",
+      "vergüenza",
+      "época",
+      "”",
+      "ofensiva",
+      "pueblo",
+      "palestino",
+      ".",
+      "discurso",
+      "pronunciado",
+      "motivo",
+      "natalicio",
+      "profeta",
+      ",",
+      "al-houthi",
+      "aseguró",
+      "agresión",
+      ",",
+      "entró",
+      "segundo",
+      "año",
+      ",",
+      "provocado",
+      "sufrimiento",
+      "insoportable",
+      "gaza",
+      ",",
+      "incluso",
+      "bebés",
+      "carecen",
+      "leche",
+      "instaurado",
+      "política",
+      "deliberada",
+      "hambre",
+      ".",
+      "dirigente",
+      "yemení",
+      "condenó",
+      "agresiones",
+      "continuas",
+      "mezquita",
+      "al-aqsa",
+      "cisjordania",
+      ",",
+      "mientras",
+      "“",
+      "gobiernos",
+      "árabes",
+      "islámicos",
+      "optan",
+      "indiferencia",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "advirtió",
+      "pasividad",
+      "complicidad",
+      "actores",
+      "eximirá",
+      "responsabilidades",
+      "futuro",
+      ".",
+      "líder",
+      "hutí",
+      "señaló",
+      "represión",
+      "pueblo",
+      "palestino",
+      "refleja",
+      "nivel",
+      "alarmante",
+      "degradación",
+      "moral",
+      ",",
+      "humana",
+      "religiosa",
+      "dentro",
+      "mundo",
+      "islámico",
+      ",",
+      "consideró",
+      "alternativas",
+      "ensayadas",
+      "ahora",
+      "resultado",
+      "ineficaces",
+      ",",
+      "urgió",
+      "cambio",
+      "decidido",
+      "estrategia",
+      ".",
+      "al-houthi",
+      "alertó",
+      "además",
+      "proyecto",
+      "sionista",
+      "limita",
+      "palestina",
+      ",",
+      "sino",
+      "pretende",
+      "rediseñar",
+      "oriente",
+      "medio",
+      "bajo",
+      "bandera",
+      "llamado",
+      "“",
+      "gran",
+      "israel",
+      "”",
+      ",",
+      "constituye",
+      "amenaza",
+      "directa",
+      "región",
+      ".",
+      ",",
+      "dirigente",
+      "yemení",
+      "reiteró",
+      "compromiso",
+      "causa",
+      "palestina",
+      "hizo",
+      "llamado",
+      "“",
+      "conserven",
+      "conciencia",
+      "dignidad",
+      "”",
+      "actuar",
+      "detener",
+      "exterminio",
+      "hambruna",
+      "impuesta",
+      "manera",
+      "sistemática",
+      ".",
+      "octubre",
+      "2023",
+      ",",
+      "ofensiva",
+      "israelí",
+      "gaza",
+      "cobrado",
+      "vida",
+      "64",
+      "mil",
+      "palestinos",
+      ",",
+      "mayoría",
+      "mujeres",
+      "menores",
+      "edad",
+      ".",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "confirmó",
+      "pasado",
+      "22",
+      "agosto",
+      "manera",
+      "oficial",
+      "presencia",
+      "hambruna",
+      "enclave",
+      ",",
+      "mientras",
+      "persisten",
+      "bombardeos",
+      "indiscriminados",
+      "instalaciones",
+      "civiles",
+      ",",
+      "centros",
+      "culto",
+      "hospitales",
+      "."
+    ],
+    "token_count": 208,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NN": 130,
+      "JJ": 34,
+      "VBZ": 5,
+      "FW": 60,
+      "IN": 14,
+      "NNS": 12,
+      "VBD": 2,
+      "CD": 4,
+      "VBP": 9,
+      "DT": 2,
+      "RB": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-NN": 81,
+      "NN-NNP": 7,
+      "NNP-NNP": 15,
+      "NNP-JJ": 4,
+      "JJ-NN": 18,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 1,
+      "JJ-FW": 5,
+      "FW-FW": 31,
+      "FW-NNP": 9,
+      "NN-IN": 8,
+      "IN-NNP": 2,
+      "JJ-JJ": 5,
+      "JJ-NNS": 2,
+      "NNS-FW": 1,
+      "FW-NN": 12,
+      "NN-FW": 10,
+      "FW-JJ": 5,
+      "NN-JJ": 9,
+      "IN-FW": 9,
+      "JJ-NNP": 3,
+      "NNP-FW": 3,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-IN": 1,
+      "VBZ-NNP": 2,
+      "NN-NNS": 7,
+      "NNS-VBP": 5,
+      "VBP-JJ": 6,
+      "NNP-IN": 2,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBP": 2,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "VBP-NN": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-IN": 1,
+      "IN-JJ": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "CD-FW": 1,
+      "FW-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-VB": 1,
+      "VB-JJ": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 13,
+      "NN-NN-NN": 51,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 7,
+      "NN-NNP-JJ": 2,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NNP": 1,
+      "NNP-NNP-NN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "IN-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "JJ-FW-NNP": 2,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-NNP": 2,
+      "VBZ-NNP-NN": 2,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-JJ-NNP": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 5,
+      "FW-NN-IN": 1,
+      "IN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-FW": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-JJ-NN": 3,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNS": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 130,
+        "FW": 60,
+        "NNP": 39,
+        "JJ": 34,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 81,
+        "FW-FW": 31,
+        "JJ-NN": 18,
+        "NNP-NN": 15,
+        "NNP-NNP": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 51,
+        "FW-FW-FW": 23,
+        "NNP-NN-NN": 13,
+        "JJ-NN-NN": 9,
+        "FW-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 78,
+      "VP": 19,
+      "PP": 6,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0431
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP VP ('entidad', 'FW') NP PP (',', ',') NP PP (',', ',') NP VP ('vergüenza', 'FW') ('de', 'FW') ('la', 'FW') ('época', 'FW') ('”', 'FW') ('en', 'FW') ('su', 'FW') ('ofensiva', 'FW') ADJP ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('jefe', 'NN') ('del', 'NN') ('movimiento', 'NN') ('yemení', 'NN') ('Ansar', 'NNP') ('Allah', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Sayyed', 'NNP') ('Abdulmalik', 'NNP') ('al-Houthi', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('denunció', 'JJ') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') ('la', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('sionista', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('con', 'NN') ('apoyo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El jefe del movimiento yemení Ansar Allah"
+      },
+      {
+        "label": "NP",
+        "text": "Sayyed Abdulmalik al-Houthi"
+      },
+      {
+        "label": "NP",
+        "text": "denunció este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "que la"
+      },
+      {
+        "label": "NP",
+        "text": "sionista"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "con apoyo"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "perpetra “ el crimen"
+      },
+      {
+        "label": "VP",
+        "text": "del siglo y la"
+      },
+      {
+        "label": "NP",
+        "text": "siglo y la"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "NP",
+        "text": "pueblo palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    jefe/NN\n    del/NN\n    movimiento/NN\n    yemení/NN\n    Ansar/NNP\n    Allah/NNP)\n  ,/,\n  (NP Sayyed/NNP Abdulmalik/NNP al-Houthi/NN)\n  ,/,\n  (NP denunció/JJ este/NN jueves/NNS)\n  (VP que/VBP la/JJ)\n  entidad/FW\n  (NP sionista/NN)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP con/NN apoyo/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (NP perpetra/JJ “/NNP el/NN crimen/NNS)\n  (VP del/VBP (NP siglo/JJ y/NN la/NN))\n  vergüenza/FW\n  de/FW\n  la/FW\n  época/FW\n  ”/FW\n  en/FW\n  su/FW\n  ofensiva/FW\n  (ADJP contra/JJ)\n  el/FW\n  (NP pueblo/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ discurso/NN pronunciado/NN con/NN motivo/NN del/NN)\n  (NP natalicio/JJ del/NN Profeta/NNP)\n  ,/,\n  (NP Al-Houthi/NNP aseguró/NN que/NN la/NN agresión/NN)\n  ,/,\n  (NP que/JJ entró/NN)\n  en/IN\n  su/FW\n  (NP segundo/NN año/NN)\n  ,/,\n  (NP ha/NN provocado/NN)\n  (NP un/JJ sufrimiento/NN)\n  (NP insoportable/JJ en/JJ Gaza/NNP)\n  ,/,\n  (NP donde/NN incluso/NN los/NN)\n  (NP bebés/JJ carecen/NN)\n  de/IN\n  leche/FW\n  y/FW\n  se/FW\n  (NP ha/NN instaurado/NN una/NN política/NN deliberada/NN)\n  (PP de/IN (NP hambre/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Base/NNP de/NNP)\n  datos/FW\n  (NP militar/NN israelí/NN revela/NN que/NN solo/NN)\n  (VP el/VBD)\n  25/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  (ADJP prisioneros/JJ)\n  en/FW\n  (NP Gaza/NNP son/NN)\n  (VP\n    combatientes/VBZ\n    (NP\n      El/NNP\n      dirigente/NN\n      yemení/NN\n      condenó/NN\n      también/NN\n      las/NN\n      agresiones/NNS))\n  (VP continuas/VBP contra/JJ)\n  la/FW\n  (NP Mezquita/NNP)\n  (PP de/IN (NP Al-Aqsa/NNP y/NNP Cisjordania/NNP))\n  ,/,\n  mientras/FW\n  “/FW\n  algunos/FW\n  (NP Gobiernos/NNP árabes/NNP e/NN islámicos/NN)\n  (NP optan/JJ por/NN la/NN)\n  (NP indiferencia/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP advirtió/NN que/NN la/NN)\n  pasividad/FW\n  (NP o/JJ complicidad/NN)\n  de/IN\n  esos/FW\n  (VP actores/VBZ)\n  no/DT\n  (ADJP los/JJ)\n  eximirá/FW\n  de/FW\n  responsabilidades/FW\n  en/FW\n  el/FW\n  (NP futuro/NN)\n  ./.)",
+      "(S\n  (NP El/NNP líder/NN hutí/NN también/NN señaló/NN que/NN la/NN)\n  (VP\n    represión/VBP\n    (NP contra/JJ el/NN pueblo/NN palestino/NN refleja/NN)\n    (NP un/JJ nivel/JJ alarmante/NN))\n  de/IN\n  degradación/FW\n  (ADJP moral/JJ)\n  ,/,\n  (NP humana/JJ y/NN religiosa/NN dentro/NN)\n  del/FW\n  (NP mundo/NN islámico/NN)\n  ,/,\n  y/CC\n  (NP consideró/NN que/NN las/NNS)\n  (VP alternativas/VBP (NP ensayadas/JJ hasta/NN ahora/NNS))\n  (VP han/VBP (NP resultado/JJ ineficaces/NNS))\n  ,/,\n  (NP por/NN lo/NN que/NN)\n  (PP urgió/IN (NP a/DT un/JJ cambio/NN decidido/NN))\n  de/IN\n  estrategia/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "FECHAS_HORAS",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "ELECCIONES_PROCESOS_POLITICOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          968,
+          974
+        ],
+        "start": 968,
+        "end": 974
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          836,
+          844
+        ],
+        "start": 836,
+        "end": 844
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          1839,
+          1874
+        ],
+        "start": 1839,
+        "end": 1874
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1809,
+          1816
+        ],
+        "start": 1809,
+        "end": 1816
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          665,
+          672
+        ],
+        "start": 665,
+        "end": 672
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          72,
+          80
+        ],
+        "start": 72,
+        "end": 80
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          141,
+          155
+        ],
+        "start": 141,
+        "end": 155
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          568,
+          575
+        ],
+        "start": 568,
+        "end": 575
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "64 mil",
+        "position": [
+          1776,
+          1782
+        ],
+        "start": 1776,
+        "end": 1782
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 64",
+        "position": [
+          1769,
+          1778
+        ],
+        "start": 1769,
+        "end": 1778
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "22 de agosto de",
+        "position": [
+          1900,
+          1916
+        ],
+        "start": 1900,
+        "end": 1916
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Houthi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ansar Allah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Profeta",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sayyed Abdulmalik al-Houthi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gran Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mezquita de Al-Aqsa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ansar Allah",
+        "relacion": "DENUNCIAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Ansar Allah",
+        "relacion": "DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Sayyed Abdulmalik al-Houthi",
+        "relacion": "DENUNCIAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Sayyed Abdulmalik al-Houthi",
+        "relacion": "DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PERPETRAR_DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Al-Houthi",
+        "relacion": "ASEGURAR",
+        "objeto": "Profeta"
+      },
+      {
+        "sujeto": "Profeta",
+        "relacion": "ASEGURAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Al-Houthi",
+        "relacion": "ASEGURAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REVELAR",
+        "objeto": "Mezquita de Al-Aqsa"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REVELAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Al-Houthi",
+        "relacion": "ALERTAR",
+        "objeto": "Palestina"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4215,
+    "pos": 0.023,
+    "neu": 0.964,
+    "neg": 0.014,
+    "label": "positive"
+  }
+}

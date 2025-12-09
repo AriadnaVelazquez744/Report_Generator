@@ -1,0 +1,846 @@
+{
+  "url": "https://www.telesurtv.net/haiti-mas-mil-quinientas-muertes-violencia/",
+  "title": "Haití registra más de 1.500 muertos por violencia en el 2025",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Binuh",
+    "Muertos",
+    "Puerto Principe",
+    "Violencia"
+  ],
+  "text": "A pesar de la presencia de una misión internacional de seguridad encabezada por Kenia, Haití sigue padeciendo hechos de violencia causadas por grupos pandilleros dejando un saldo de 1.520 muertos y más de 600 heridos en el segundo trimestre del 2025.\nDe acuerdo al informe de la Oficina Integrada de las Naciones Unidas en Haití (Binuh, por sus siglas en francés) entre el 1 de abril y el 30 de junio, de las 1.520 personas asesinadas, el 64 por ciento fue a manos de las fuerzas de seguridad, 24 por ciento por las pandillas y 12 por ciento restantes por grupos de autodefensa.\nEl 87 por ciento de las víctimas fueron hombres; el 11 por ciento, mujeres; y el dos por ciento, niños, según la Binuh.\nAdemás, durante el mismo periodo, 628 personas fueron víctimas de violencia sexual y alrededor de 185 resultaron secuestradas, de las que el 63 por ciento se registraron en el departamento de Artibonito, en el oeste de Haití.\nLa Binuh indicó que ha pesar de que se ha producido un refuerzo de las operaciones de seguridad en la capital, Puerto Príncipe donde se ha reducido la violencia de las pandillas, los ataques de los grupos armados se han expandido a la región central y se ha intensificado en la zona sur de Artibonito.\nPor otra parte, la oficina de la ONU ha recomendado a las autoridades haitianas acelerar la creación de unidades judiciales especializadas, vetar a agentes de las fuerzas de seguridad involucrados en violaciones de Derechos Humanos y fortalecer la implementación de programas de rehabilitación de menores relacionados con las pandillas.\nDesde inicios de 2024, una ola de violencia sacude a Haití, lo que llevó al entonces primer ministro, Ariel Henry, a presentar su dimisión.\nTras la renuncia de Henry, se creó un Consejo Presidencial de Transición con el objetivo de pacificar al país y crear un Consejo Electoral Provisional para organizar las primeras elecciones en una década.\nLa presencia del contingente internacional de seguridad ha sido vista como un nuevo mecanismo para justificar una nueva intervención en la isla caribeña.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/haiti-mas-mil-quinientas-muertes-violencia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 2164,
+    "message_id": 100720,
+    "date": "2025-08-02T08:55:12+00:00",
+    "text": "teleSUR\nHaití registra más de 1.500 muertos por violencia armada en el segundo trimestre del 2025\nhttps://www.telesurtv.net/haiti-mas-mil-quinientas-muertes-violencia/",
+    "photo_path": null,
+    "views": 1834,
+    "reactions": {
+      "😢": 25,
+      "😱": 4,
+      "🕊": 3,
+      "🔥": 1
+    },
+    "total_reactions": 33
+  },
+  "preprocessing": {
+    "cleaned": "a pesar de la presencia de una misión internacional de seguridad encabezada por kenia, haití sigue padeciendo hechos de violencia causadas por grupos pandilleros dejando un saldo de 1.520 muertos y más de 600 heridos en el segundo trimestre del 2025. de acuerdo al informe de la oficina integrada de las naciones unidas en haití (binuh, por sus siglas en francés) entre el 1 de abril y el 30 de junio, de las 1.520 personas asesinadas, el 64 por ciento fue a manos de las fuerzas de seguridad, 24 por ciento por las pandillas y 12 por ciento restantes por grupos de autodefensa. el 87 por ciento de las víctimas fueron hombres; el 11 por ciento, mujeres; y el dos por ciento, niños, según la binuh. además, durante el mismo periodo, 628 personas fueron víctimas de violencia sexual y alrededor de 185 resultaron secuestradas, de las que el 63 por ciento se registraron en el departamento de artibonito, en el oeste de haití. la binuh indicó que ha pesar de que se ha producido un refuerzo de las operaciones de seguridad en la capital, puerto príncipe donde se ha reducido la violencia de las pandillas, los ataques de los grupos armados se han expandido a la región central y se ha intensificado en la zona sur de artibonito. por otra parte, la oficina de la onu ha recomendado a las autoridades haitianas acelerar la creación de unidades judiciales especializadas, vetar a agentes de las fuerzas de seguridad involucrados en violaciones de derechos humanos y fortalecer la implementación de programas de rehabilitación de menores relacionados con las pandillas. desde inicios de 2024, una ola de violencia sacude a haití, lo que llevó al entonces primer ministro, ariel henry, a presentar su dimisión. tras la renuncia de henry, se creó un consejo presidencial de transición con el objetivo de pacificar al país y crear un consejo electoral provisional para organizar las primeras elecciones en una década. la presencia del contingente internacional de seguridad ha sido vista como un nuevo mecanismo para justificar una nueva intervención en la isla caribeña.",
+    "tokens": [
+      "pesar",
+      "presencia",
+      "misión",
+      "internacional",
+      "seguridad",
+      "encabezada",
+      "kenia",
+      ",",
+      "haití",
+      "sigue",
+      "padeciendo",
+      "hechos",
+      "violencia",
+      "causadas",
+      "grupos",
+      "pandilleros",
+      "dejando",
+      "saldo",
+      "1.520",
+      "muertos",
+      "600",
+      "heridos",
+      "segundo",
+      "trimestre",
+      "2025.",
+      "acuerdo",
+      "informe",
+      "oficina",
+      "integrada",
+      "naciones",
+      "unidas",
+      "haití",
+      "(",
+      "binuh",
+      ",",
+      "siglas",
+      "francés",
+      ")",
+      "1",
+      "abril",
+      "30",
+      "junio",
+      ",",
+      "1.520",
+      "personas",
+      "asesinadas",
+      ",",
+      "64",
+      "ciento",
+      "manos",
+      "fuerzas",
+      "seguridad",
+      ",",
+      "24",
+      "ciento",
+      "pandillas",
+      "12",
+      "ciento",
+      "restantes",
+      "grupos",
+      "autodefensa",
+      ".",
+      "87",
+      "ciento",
+      "víctimas",
+      "hombres",
+      ";",
+      "11",
+      "ciento",
+      ",",
+      "mujeres",
+      ";",
+      "dos",
+      "ciento",
+      ",",
+      "niños",
+      ",",
+      "según",
+      "binuh",
+      ".",
+      "además",
+      ",",
+      "mismo",
+      "periodo",
+      ",",
+      "628",
+      "personas",
+      "víctimas",
+      "violencia",
+      "sexual",
+      "alrededor",
+      "185",
+      "resultaron",
+      "secuestradas",
+      ",",
+      "63",
+      "ciento",
+      "registraron",
+      "departamento",
+      "artibonito",
+      ",",
+      "oeste",
+      "haití",
+      ".",
+      "binuh",
+      "indicó",
+      "pesar",
+      "producido",
+      "refuerzo",
+      "operaciones",
+      "seguridad",
+      "capital",
+      ",",
+      "puerto",
+      "príncipe",
+      "reducido",
+      "violencia",
+      "pandillas",
+      ",",
+      "ataques",
+      "grupos",
+      "armados",
+      "expandido",
+      "región",
+      "central",
+      "intensificado",
+      "zona",
+      "sur",
+      "artibonito",
+      ".",
+      "parte",
+      ",",
+      "oficina",
+      "onu",
+      "recomendado",
+      "autoridades",
+      "haitianas",
+      "acelerar",
+      "creación",
+      "unidades",
+      "judiciales",
+      "especializadas",
+      ",",
+      "vetar",
+      "agentes",
+      "fuerzas",
+      "seguridad",
+      "involucrados",
+      "violaciones",
+      "derechos",
+      "humanos",
+      "fortalecer",
+      "implementación",
+      "programas",
+      "rehabilitación",
+      "menores",
+      "relacionados",
+      "pandillas",
+      ".",
+      "inicios",
+      "2024",
+      ",",
+      "ola",
+      "violencia",
+      "sacude",
+      "haití",
+      ",",
+      "llevó",
+      "entonces",
+      "primer",
+      "ministro",
+      ",",
+      "ariel",
+      "henry",
+      ",",
+      "presentar",
+      "dimisión",
+      ".",
+      "tras",
+      "renuncia",
+      "henry",
+      ",",
+      "creó",
+      "consejo",
+      "presidencial",
+      "transición",
+      "objetivo",
+      "pacificar",
+      "país",
+      "crear",
+      "consejo",
+      "electoral",
+      "provisional",
+      "organizar",
+      "primeras",
+      "elecciones",
+      "década",
+      ".",
+      "presencia",
+      "contingente",
+      "internacional",
+      "seguridad",
+      "sido",
+      "vista",
+      "nuevo",
+      "mecanismo",
+      "justificar",
+      "nueva",
+      "intervención",
+      "isla",
+      "caribeña",
+      "."
+    ],
+    "token_count": 212,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 97,
+      "IN": 19,
+      "FW": 104,
+      "JJ": 25,
+      "NNP": 37,
+      "NNS": 18,
+      "VBP": 11,
+      "CD": 14,
+      "RB": 1,
+      "VBD": 1,
+      "VBZ": 2,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NN-IN": 13,
+      "IN-FW": 14,
+      "FW-FW": 65,
+      "FW-JJ": 6,
+      "JJ-FW": 6,
+      "FW-NNP": 12,
+      "NNP-NNP": 15,
+      "NNP-NN": 11,
+      "NN-NN": 52,
+      "FW-NNS": 4,
+      "NNS-VBP": 9,
+      "VBP-JJ": 5,
+      "JJ-NNS": 2,
+      "JJ-NN": 12,
+      "IN-CD": 3,
+      "CD-NNS": 3,
+      "NNS-FW": 3,
+      "FW-CD": 5,
+      "FW-NN": 11,
+      "NN-CD": 2,
+      "CD-NNP": 1,
+      "NNP-FW": 6,
+      "NNP-IN": 1,
+      "IN-NN": 1,
+      "NN-FW": 8,
+      "CD-FW": 1,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-NN": 8,
+      "NN-JJ": 7,
+      "NN-VBD": 1,
+      "VBD-NNS": 1,
+      "NNS-CD": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-CD": 1,
+      "NN-NNS": 5,
+      "VBP-CD": 1,
+      "NN-NNP": 6,
+      "NNS-IN": 5,
+      "VBP-NNS": 2,
+      "JJ-JJ": 3,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "IN-JJ": 1,
+      "VBP-NNP": 1,
+      "NNP-NNS": 1,
+      "CD-JJ": 1,
+      "VBP-NN": 1,
+      "JJ-NNP": 2,
+      "FW-VBP": 1,
+      "NN-VBP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1
+    },
+    "trigram_freq": {
+      "NN-IN-FW": 10,
+      "IN-FW-FW": 7,
+      "FW-FW-FW": 40,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 3,
+      "JJ-FW-FW": 5,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 24,
+      "NN-NN-IN": 6,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 6,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 3,
+      "FW-FW-CD": 4,
+      "FW-CD-NNS": 2,
+      "FW-FW-NN": 10,
+      "FW-NN-NN": 3,
+      "NN-NN-CD": 2,
+      "NN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "IN-FW-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-FW": 7,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 8,
+      "NN-NN-JJ": 6,
+      "NN-JJ-FW": 1,
+      "FW-CD-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "NN-NN-NNS": 3,
+      "JJ-NN-NN": 6,
+      "NN-JJ-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NN-CD-NN": 1,
+      "NN-NN-FW": 6,
+      "IN-CD-NN": 1,
+      "IN-FW-JJ": 2,
+      "JJ-FW-CD": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 3,
+      "FW-NN-NNP": 3,
+      "FW-FW-NNS": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 3,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-FW": 1,
+      "FW-NNP-NN": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-IN": 1,
+      "NNS-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "NN-NNP-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 104,
+        "NN": 97,
+        "NNP": 37,
+        "JJ": 25,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 65,
+        "NN-NN": 52,
+        "NNP-NNP": 15,
+        "IN-FW": 14,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 40,
+        "NN-NN-NN": 24,
+        "NNP-NN-NN": 11,
+        "NN-IN-FW": 10,
+        "FW-FW-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 81,
+      "ADJP": 5,
+      "VP": 20,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 4,
+        "weight": 0.0339
+      },
+      {
+        "rule": "NP -> ('Haití', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0254
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('pandillas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('Artibonito', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') ('presencia', 'FW') ('de', 'FW') ('una', 'FW') ('misión', 'FW') ADJP ('de', 'FW') ('seguridad', 'FW') ('encabezada', 'FW') ('por', 'FW') NP (',', ',') NP VP ('de', 'IN') ('violencia', 'FW') NP VP VP ('de', 'IN') ('1.520', 'CD') NP ADJP ('más', 'FW') ('de', 'FW') ('600', 'CD') NP ('en', 'FW') ('el', 'FW') NP ('2025', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('A', 'DT') ('pesar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "ADJP -> ('internacional', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Kenia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "A pesar"
+      },
+      {
+        "label": "ADJP",
+        "text": "internacional"
+      },
+      {
+        "label": "NP",
+        "text": "Kenia"
+      },
+      {
+        "label": "NP",
+        "text": "Haití"
+      },
+      {
+        "label": "VP",
+        "text": "sigue padeciendo hechos"
+      },
+      {
+        "label": "NP",
+        "text": "padeciendo hechos"
+      },
+      {
+        "label": "NP",
+        "text": "causadas"
+      },
+      {
+        "label": "VP",
+        "text": "por grupos pandilleros"
+      },
+      {
+        "label": "NP",
+        "text": "grupos pandilleros"
+      },
+      {
+        "label": "VP",
+        "text": "dejando un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      },
+      {
+        "label": "ADJP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "segundo trimestre del"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  la/FW\n  presencia/FW\n  de/FW\n  una/FW\n  misión/FW\n  (ADJP internacional/JJ)\n  de/FW\n  seguridad/FW\n  encabezada/FW\n  por/FW\n  (NP Kenia/NNP)\n  ,/,\n  (NP Haití/NNP)\n  (VP sigue/VBP (NP padeciendo/JJ hechos/NN))\n  de/IN\n  violencia/FW\n  (NP causadas/NNS)\n  (VP por/VBP (NP grupos/JJ pandilleros/NNS))\n  (VP dejando/VBP (NP un/JJ saldo/NN))\n  de/IN\n  1.520/CD\n  (NP muertos/NNS)\n  (ADJP y/JJ)\n  más/FW\n  de/FW\n  600/CD\n  (NP heridos/NNS)\n  en/FW\n  el/FW\n  (NP segundo/NN trimestre/NN del/NN)\n  2025/CD\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP al/JJ informe/NN)\n  de/IN\n  la/FW\n  (NP Oficina/NNP Integrada/NNP)\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  en/FW\n  (NP Haití/NNP)\n  (/(\n  (NP Binuh/NNP)\n  ,/,\n  (NP por/NN sus/NN siglas/NN)\n  (PP en/IN (NP francés/NN))\n  )/)\n  (VP entre/VBZ el/JJ)\n  1/CD\n  de/IN\n  abril/FW\n  y/CC\n  el/FW\n  30/CD\n  de/FW\n  (NP junio/NN)\n  ,/,\n  de/FW\n  las/FW\n  1.520/CD\n  (NP personas/NNS)\n  asesinadas/RB\n  ,/,\n  (VP el/VBZ)\n  64/CD\n  (NP por/NN ciento/NN)\n  (VP fue/VBD (NP a/DT manos/NN))\n  de/IN\n  las/FW\n  fuerzas/FW\n  de/FW\n  seguridad/FW\n  ,/,\n  24/CD\n  (NP por/NN ciento/NN por/NN)\n  (VP las/VBZ (NP pandillas/NNS) y/RB)\n  12/CD\n  (NP por/NN ciento/NN)\n  (VP restantes/VBZ (NP por/JJ grupos/NN))\n  (PP de/IN (NP autodefensa/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  87/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  las/FW\n  víctimas/FW\n  (NP fueron/NN hombres/NNS)\n  ;/:\n  el/CC\n  11/CD\n  (NP por/NN ciento/NN)\n  ,/,\n  (NP mujeres/NNS)\n  ;/:\n  y/CC\n  (VP el/VB (NP dos/JJ por/NN ciento/NN))\n  ,/,\n  niños/RB\n  ,/,\n  (NP según/JJ la/NN Binuh/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP durante/NN)\n  el/FW\n  (NP mismo/NN periodo/NN)\n  ,/,\n  628/CD\n  (NP personas/NNS)\n  (ADJP fueron/JJ)\n  víctimas/FW\n  de/FW\n  violencia/FW\n  (NP sexual/JJ y/NN alrededor/NN)\n  de/IN\n  185/CD\n  (NP resultaron/NN secuestradas/NN)\n  ,/,\n  de/FW\n  las/FW\n  (NP que/NN)\n  (VP el/VBP)\n  63/CD\n  (NP por/NN ciento/NN se/NN registraron/NN)\n  en/FW\n  el/FW\n  departamento/FW\n  de/FW\n  (NP Artibonito/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (NP oeste/NN)\n  (PP de/IN (NP Haití/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP Binuh/NNP indicó/NN que/NN ha/NN pesar/NN)\n  de/IN\n  que/FW\n  se/FW\n  (NP ha/NN producido/NN)\n  (NP un/JJ refuerzo/NN)\n  de/IN\n  las/FW\n  (NP operaciones/NNS)\n  de/IN\n  seguridad/FW\n  en/FW\n  la/FW\n  (NP capital/NN)\n  ,/,\n  (NP Puerto/NNP Príncipe/NNP donde/NN se/NN ha/NN reducido/NN)\n  la/FW\n  violencia/FW\n  de/FW\n  las/FW\n  (NP pandillas/NNS)\n  ,/,\n  (NP los/JJ ataques/NNS)\n  de/IN\n  los/FW\n  (NP grupos/JJ armados/NN se/NN han/NN)\n  (VP\n    expandido/VBZ\n    (NP a/DT la/NN)\n    (NP región/JJ central/JJ y/NN se/NN ha/NN intensificado/NN))\n  en/IN\n  la/FW\n  zona/FW\n  sur/FW\n  de/FW\n  (NP Artibonito/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "LEYES_NORMATIVAS",
+      "JUSTICIA_SOCIAL",
+      "INSTITUCIONES_EDUCATIVAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1027,
+          1034
+        ],
+        "start": 1027,
+        "end": 1034
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo al informe de la oficina integrada de las naciones unidas en haití (binuh, por sus siglas en francés) entre el 1 de abril y el",
+        "position": [
+          254,
+          388
+        ],
+        "start": 254,
+        "end": 388
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          304,
+          319
+        ],
+        "start": 304,
+        "end": 319
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          646,
+          653
+        ],
+        "start": 646,
+        "end": 653
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de artibonito",
+        "position": [
+          875,
+          901
+        ],
+        "start": 875,
+        "end": 901
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo al informe de la oficina integrada de las naciones unidas en haití (binuh, por sus siglas en francés) entre el 1",
+        "position": [
+          254,
+          374
+        ],
+        "start": 254,
+        "end": 374
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          1036,
+          1042
+        ],
+        "start": 1036,
+        "end": 1042
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          875,
+          890
+        ],
+        "start": 875,
+        "end": 890
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1442,
+          1458
+        ],
+        "start": 1442,
+        "end": 1458
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "520 personas",
+        "position": [
+          411,
+          423
+        ],
+        "start": 411,
+        "end": 423
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.520 personas",
+        "position": [
+          409,
+          423
+        ],
+        "start": 409,
+        "end": 423
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 600",
+        "position": [
+          198,
+          208
+        ],
+        "start": 198,
+        "end": 208
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 185",
+        "position": [
+          784,
+          800
+        ],
+        "start": 784,
+        "end": 800
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Kenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Artibonito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo Electoral Provisional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Henry",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo Presidencial de Transición",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Binuh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Puerto Príncipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "departamento de Artibonito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina Integrada de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ariel Henry",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Binuh",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Haití",
+        "relacion": "SEGUIR",
+        "objeto": "Kenia"
+      },
+      {
+        "sujeto": "La Binuh",
+        "relacion": "INDICAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "La Binuh",
+        "relacion": "INDICAR",
+        "objeto": "Artibonito"
+      },
+      {
+        "sujeto": "Puerto Príncipe",
+        "relacion": "PRODUCIR_PESAR_INDICAR",
+        "objeto": "Artibonito"
+      },
+      {
+        "sujeto": "Haití",
+        "relacion": "SACUDIR",
+        "objeto": "Ariel Henry"
+      },
+      {
+        "sujeto": "Consejo Presidencial de Transición",
+        "relacion": "CREAR",
+        "objeto": "Henry"
+      },
+      {
+        "sujeto": "Henry",
+        "relacion": "CREAR",
+        "objeto": "Consejo Electoral Provisional"
+      },
+      {
+        "sujeto": "Consejo Presidencial de Transición",
+        "relacion": "CREAR",
+        "objeto": "Consejo Electoral Provisional"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.9081,
+    "pos": 0.042,
+    "neu": 0.958,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

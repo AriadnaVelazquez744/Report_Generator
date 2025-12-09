@@ -1,0 +1,806 @@
+{
+  "url": "https://www.telesurtv.net/maduro-respaldo-nacional-internacional-eeuu/",
+  "title": "Presidente Maduro agradece respaldo nacional e internacional ante amenazas de EE.UU.",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Amenaza",
+    "EE.UU.",
+    "Gobierno Estadounidense",
+    "Nicolás Maduro",
+    "Pamela Mondi",
+    "Venezuela"
+  ],
+  "text": "El presidente de Venezuela, Nicolás Maduro agradeció este lunes el apoyo nacional e internacional ante las declaraciones de la fiscal general de EE.UU., Pamela Bondi, sobre el aumento de la recompensa por la captura del mandatario.\n\nLEA TAMBIÉN\nCuba denuncia presencia de fuerzas militares navales y aéreas de EE.UU. en el sur del Caribe\n\n“Yo agradezco de verdad la reacción impresionante que ha habido nacional e internacionalmente de solidaridad y de apoyo (…) Una manifestación popular, verdaderamente llena de esperanza, convirtiendo la indignación en esperanza”, dijo el mandatario.\nDe igual modo, el jefe de Estado aseveró que la guerra del Gobierno estadounidense no es contra él, sino contra el pueblo de Venezuela, a lo que se le añade la persecución y secuestro de los migrantes venezolanos.\n\n\n“Les agradezco su solidaridad con este humilde presidente, primer presidente chavista, resteado con el legado. No es contra Maduro el ataque, es contra el pueblo”, dijo durante una reunión de trabajo con gobernadores y alcaldes del Gran Polo Patriótico Simón Bolívar (GPPSB).\nAl resaltar que dichos ataques también representan el racismo y discriminación del imperio norteamericano contra los latinos, Maduro agregó que más del 90 por ciento de los venezolanos rechazan cualquier tipo de fórmula fascista, intervencionista y golpista contra el país.\nMaduro insistió que el 80 por ciento de las personas “aprueba el camino de la convivencia, armonía, tolerancia y al trabajo”, mientras que más del 90 por ciento rechaza el fascismo y todos sus planes intervencionistas y golpistas que pretenden afectar la soberanía e integridad del país. “Son números redondos”, agregó.\nAsimismo, reflexionó sobre la presencia de fuerzas militares navales y aéreas de EE.UU. en el sur del Caribe alegando que “nuestros mares, nuestro cielo y nuestras tierras, las defendemos nosotros, las liberamos nosotros, las vigilamos y las patrullamos nosotros, ningún imperio va a venir a tocar suelo sagrado de Venezuela, ni debería tocar suelo sagrado de Suramérica, ningún imperio del mundo”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/maduro-respaldo-nacional-internacional-eeuu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 976,
+    "message_id": 102150,
+    "date": "2025-08-19T01:55:13+00:00",
+    "text": "teleSUR\nPresidente Maduro agradece respaldo nacional e internacional ante amenazas de EE.UU.\nhttps://www.telesurtv.net/maduro-respaldo-nacional-internacional-eeuu/",
+    "photo_path": null,
+    "views": 1715,
+    "reactions": {
+      "👍": 36,
+      "🤝": 3,
+      "❤": 1
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro agradeció este lunes el apoyo nacional e internacional ante las declaraciones de la fiscal general de ee.uu., pamela bondi, sobre el aumento de la recompensa por la captura del mandatario. “yo agradezco de verdad la reacción impresionante que ha habido nacional e internacionalmente de solidaridad y de apoyo (…) una manifestación popular, verdaderamente llena de esperanza, convirtiendo la indignación en esperanza”, dijo el mandatario. de igual modo, el jefe de estado aseveró que la guerra del gobierno estadounidense no es contra él, sino contra el pueblo de venezuela, a lo que se le añade la persecución y secuestro de los migrantes venezolanos. “les agradezco su solidaridad con este humilde presidente, primer presidente chavista, resteado con el legado. no es contra maduro el ataque, es contra el pueblo”, dijo durante una reunión de trabajo con gobernadores y alcaldes del gran polo patriótico simón bolívar (gppsb). al resaltar que dichos ataques también representan el racismo y discriminación del imperio norteamericano contra los latinos, maduro agregó que más del 90 por ciento de los venezolanos rechazan cualquier tipo de fórmula fascista, intervencionista y golpista contra el país. maduro insistió que el 80 por ciento de las personas “aprueba el camino de la convivencia, armonía, tolerancia y al trabajo”, mientras que más del 90 por ciento rechaza el fascismo y todos sus planes intervencionistas y golpistas que pretenden afectar la soberanía e integridad del país. “son números redondos”, agregó. asimismo, reflexionó sobre la presencia de fuerzas militares navales y aéreas de ee.uu. en el sur del caribe alegando que “nuestros mares, nuestro cielo y nuestras tierras, las defendemos nosotros, las liberamos nosotros, las vigilamos y las patrullamos nosotros, ningún imperio va a venir a tocar suelo sagrado de venezuela, ni debería tocar suelo sagrado de suramérica, ningún imperio del mundo”.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      "agradeció",
+      "lunes",
+      "apoyo",
+      "nacional",
+      "internacional",
+      "declaraciones",
+      "fiscal",
+      "general",
+      "ee.uu.",
+      ",",
+      "pamela",
+      "bondi",
+      ",",
+      "aumento",
+      "recompensa",
+      "captura",
+      "mandatario",
+      ".",
+      "“",
+      "agradezco",
+      "verdad",
+      "reacción",
+      "impresionante",
+      "nacional",
+      "internacionalmente",
+      "solidaridad",
+      "apoyo",
+      "(",
+      "…",
+      ")",
+      "manifestación",
+      "popular",
+      ",",
+      "verdaderamente",
+      "llena",
+      "esperanza",
+      ",",
+      "convirtiendo",
+      "indignación",
+      "esperanza",
+      "”",
+      ",",
+      "dijo",
+      "mandatario",
+      ".",
+      "igual",
+      "modo",
+      ",",
+      "jefe",
+      "aseveró",
+      "guerra",
+      "gobierno",
+      "estadounidense",
+      ",",
+      "sino",
+      "pueblo",
+      "venezuela",
+      ",",
+      "añade",
+      "persecución",
+      "secuestro",
+      "migrantes",
+      "venezolanos",
+      ".",
+      "“",
+      "agradezco",
+      "solidaridad",
+      "humilde",
+      "presidente",
+      ",",
+      "primer",
+      "presidente",
+      "chavista",
+      ",",
+      "resteado",
+      "legado",
+      ".",
+      "maduro",
+      "ataque",
+      ",",
+      "pueblo",
+      "”",
+      ",",
+      "dijo",
+      "reunión",
+      "trabajo",
+      "gobernadores",
+      "alcaldes",
+      "gran",
+      "polo",
+      "patriótico",
+      "simón",
+      "bolívar",
+      "(",
+      "gppsb",
+      ")",
+      ".",
+      "resaltar",
+      "dichos",
+      "ataques",
+      "representan",
+      "racismo",
+      "discriminación",
+      "imperio",
+      "norteamericano",
+      "latinos",
+      ",",
+      "maduro",
+      "agregó",
+      "90",
+      "ciento",
+      "venezolanos",
+      "rechazan",
+      "cualquier",
+      "tipo",
+      "fórmula",
+      "fascista",
+      ",",
+      "intervencionista",
+      "golpista",
+      "país",
+      ".",
+      "maduro",
+      "insistió",
+      "80",
+      "ciento",
+      "personas",
+      "“",
+      "aprueba",
+      "camino",
+      "convivencia",
+      ",",
+      "armonía",
+      ",",
+      "tolerancia",
+      "trabajo",
+      "”",
+      ",",
+      "mientras",
+      "90",
+      "ciento",
+      "rechaza",
+      "fascismo",
+      "planes",
+      "intervencionistas",
+      "golpistas",
+      "pretenden",
+      "afectar",
+      "soberanía",
+      "integridad",
+      "país",
+      ".",
+      "“",
+      "números",
+      "redondos",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "asimismo",
+      ",",
+      "reflexionó",
+      "presencia",
+      "fuerzas",
+      "militares",
+      "navales",
+      "aéreas",
+      "ee.uu.",
+      "sur",
+      "caribe",
+      "alegando",
+      "“",
+      "mares",
+      ",",
+      "cielo",
+      "tierras",
+      ",",
+      "defendemos",
+      ",",
+      "liberamos",
+      ",",
+      "vigilamos",
+      "patrullamos",
+      ",",
+      "ningún",
+      "imperio",
+      "va",
+      "venir",
+      "tocar",
+      "suelo",
+      "sagrado",
+      "venezuela",
+      ",",
+      "debería",
+      "tocar",
+      "suelo",
+      "sagrado",
+      "suramérica",
+      ",",
+      "ningún",
+      "imperio",
+      "mundo",
+      "”",
+      "."
+    ],
+    "token_count": 209,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 107,
+      "FW": 57,
+      "VBZ": 5,
+      "NNS": 18,
+      "VBP": 11,
+      "JJ": 36,
+      "IN": 14,
+      "VBD": 5,
+      "RB": 3,
+      "DT": 2,
+      "CC": 4,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-FW": 9,
+      "FW-NNP": 7,
+      "NNP-NNP": 13,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 2,
+      "NN-NNS": 6,
+      "NNS-VBP": 10,
+      "VBP-JJ": 8,
+      "JJ-JJ": 8,
+      "JJ-NN": 21,
+      "NNS-NNS": 4,
+      "NNS-IN": 1,
+      "IN-FW": 8,
+      "FW-JJ": 3,
+      "JJ-FW": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 3,
+      "NN-IN": 11,
+      "FW-FW": 32,
+      "FW-NN": 10,
+      "NN-NN": 59,
+      "NN-NNP": 7,
+      "FW-NNS": 5,
+      "NNS-RB": 2,
+      "RB-IN": 2,
+      "IN-NNP": 6,
+      "NNP-FW": 5,
+      "NN-VBD": 4,
+      "NN-JJ": 8,
+      "VBZ-DT": 2,
+      "DT-JJ": 2,
+      "NNP-CC": 4,
+      "CC-JJ": 3,
+      "VBP-NNP": 1,
+      "NN-VBP": 1,
+      "VBP-VBZ": 1,
+      "NNS-VBZ": 1,
+      "JJ-NNP": 1,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "JJ-NNS": 3,
+      "VBP-NN": 1,
+      "CC-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-JJ": 3,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 33,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 5,
+      "IN-FW-NNS": 2,
+      "FW-NNS-NNS": 2,
+      "NNS-NNS-RB": 2,
+      "NNS-RB-IN": 2,
+      "RB-IN-NNP": 2,
+      "IN-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 5,
+      "NNP-NNP-FW": 1,
+      "NN-NN-VBD": 4,
+      "NN-VBD-JJ": 2,
+      "JJ-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "FW-NN-FW": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 1,
+      "NN-NN-FW": 3,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 2,
+      "DT-JJ-NN": 2,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NN": 4,
+      "NN-NN-JJ": 7,
+      "IN-NNP-CC": 3,
+      "NNP-CC-JJ": 3,
+      "CC-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBZ": 1,
+      "VBP-VBZ-DT": 1,
+      "NN-JJ-JJ": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NN": 1,
+      "VBZ-NN-NNP": 1,
+      "NN-NN-NNS": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "FW-JJ-NN": 2,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NNP-CC": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "JJ-JJ-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 107,
+        "FW": 57,
+        "NNP": 36,
+        "JJ": 36,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 32,
+        "JJ-NN": 21,
+        "NNP-NNP": 13,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 21,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 9,
+        "NNP-NNP-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 91,
+      "VP": 21,
+      "ADJP": 4,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('las', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('militares', 'NNS') ('navales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "NP -> ('aéreas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP VP VP ('de', 'IN') ('la', 'FW') ADJP ADJP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('aumento', 'IN') ('de', 'FW') ('la', 'FW') ('recompensa', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "VP",
+        "text": "agradeció este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "el apoyo nacional e internacional ante las declaraciones"
+      },
+      {
+        "label": "NP",
+        "text": "apoyo nacional e"
+      },
+      {
+        "label": "NP",
+        "text": "internacional ante las declaraciones"
+      },
+      {
+        "label": "ADJP",
+        "text": "fiscal"
+      },
+      {
+        "label": "ADJP",
+        "text": "general"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "Pamela Bondi"
+      },
+      {
+        "label": "NP",
+        "text": "sobre el"
+      },
+      {
+        "label": "NP",
+        "text": "por la captura del mandatario"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Cuba denuncia presencia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  (VP agradeció/VBZ (NP este/NN lunes/NNS))\n  (VP\n    el/VBP\n    (NP apoyo/JJ nacional/JJ e/NN)\n    (NP internacional/JJ ante/NN las/NNS declaraciones/NNS))\n  de/IN\n  la/FW\n  (ADJP fiscal/JJ)\n  (ADJP general/JJ)\n  de/FW\n  (NP EE.UU./NNP)\n  ,/,\n  (NP Pamela/NNP Bondi/NNP)\n  ,/,\n  (NP sobre/NN el/NN)\n  aumento/IN\n  de/FW\n  la/FW\n  recompensa/FW\n  (NP por/NN la/NN captura/NN del/NN mandatario/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Cuba/NNP denuncia/NN presencia/NN)\n  de/IN\n  fuerzas/FW\n  (NP militares/NNS navales/NNS)\n  (VP y/VBP (NP aéreas/NNS))\n  de/FW\n  (NP EE.UU./NNP)\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  (NP Caribe/NNP “/NNP Yo/NNP)\n  agradezco/FW\n  de/FW\n  verdad/FW\n  la/FW\n  reacción/FW\n  (NP impresionante/NN que/NN ha/NN)\n  (VP habido/VBD (NP nacional/JJ e/NN internacionalmente/NN))\n  de/IN\n  solidaridad/FW\n  y/FW\n  de/FW\n  apoyo/FW\n  (/(\n  (NP …/NN)\n  )/)\n  (NP Una/NNP manifestación/NN)\n  (ADJP popular/JJ)\n  ,/,\n  (ADJP verdaderamente/JJ)\n  llena/FW\n  de/FW\n  esperanza/FW\n  ,/,\n  (NP convirtiendo/NN la/NN indignación/NN)\n  (PP en/IN (NP esperanza/NN ”/NN))\n  ,/,\n  (NP dijo/NN el/NN mandatario/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ modo/NN)\n  ,/,\n  (NP el/JJ jefe/NN)\n  (PP de/IN (NP Estado/NNP aseveró/NN que/NN))\n  la/FW\n  guerra/FW\n  del/FW\n  (NP Gobierno/NNP)\n  (VP estadounidense/VBZ (NP no/DT es/JJ contra/NN él/NNP))\n  ,/,\n  (NP sino/NN)\n  (NP contra/JJ el/JJ pueblo/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP a/DT lo/NN que/NN se/NN le/NN)\n  (VP añade/VBD (NP la/JJ persecución/NN y/NN secuestro/NN))\n  de/IN\n  los/FW\n  (NP migrantes/NNS venezolanos/NNS)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Les/NNP\n    agradezco/NN\n    su/NN\n    solidaridad/NN\n    con/NN\n    este/NN\n    humilde/NN\n    presidente/NN)\n  ,/,\n  (NP primer/NN presidente/NN chavista/NN)\n  ,/,\n  (VP resteado/VB (NP con/NN el/NN legado/NN))\n  ./.)",
+      "(S\n  (NP No/DT es/JJ contra/NN Maduro/NNP el/NN ataque/NN)\n  ,/,\n  (NP es/JJ contra/JJ el/NN pueblo/NN ”/NNP)\n  ,/,\n  (NP dijo/NN durante/NN)\n  (NP una/JJ reunión/NN)\n  de/IN\n  trabajo/FW\n  (NP con/NN gobernadores/NNS)\n  (VP y/VBP (NP alcaldes/NNS))\n  del/FW\n  (NP Gran/NNP Polo/NNP Patriótico/NNP Simón/NNP Bolívar/NNP)\n  (/(\n  (NP GPPSB/NNP)\n  )/)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra del gobierno estadounidense no es contra él, sino",
+        "position": [
+          636,
+          692
+        ],
+        "start": 636,
+        "end": 692
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          996,
+          1003
+        ],
+        "start": 996,
+        "end": 1003
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "presidente de venezuela, nicolás maduro agradeció este lunes el apoyo",
+        "position": [
+          3,
+          72
+        ],
+        "start": 3,
+        "end": 72
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          245,
+          249
+        ],
+        "start": 245,
+        "end": 249
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          331,
+          337
+        ],
+        "start": 331,
+        "end": 337
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado aseveró",
+        "position": [
+          614,
+          628
+        ],
+        "start": 614,
+        "end": 628
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pamela Bondi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "GPPSB",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gran Polo Patriótico Simón Bolívar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Suramérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Pamela Bondi"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "AGRADECER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "AGRADECER",
+        "objeto": "Pamela Bondi"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "DENUNCIAR_AGRADECER_DECIR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "DENUNCIAR_AGRADECER_DECIR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "DENUNCIAR_AGRADECER_DECIR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "DENUNCIAR_AGRADECER_DECIR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "DENUNCIAR_AGRADECER_DECIR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "DENUNCIAR_AGRADECER_DECIR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "REFLEXIONAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "REFLEXIONAR",
+        "objeto": "Suramérica"
+      },
+      {
+        "sujeto": "Caribe",
+        "relacion": "REFLEXIONAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Caribe",
+        "relacion": "REFLEXIONAR",
+        "objeto": "Suramérica"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "TOCAR_VENIR_REFLEXIONAR",
+        "objeto": "Suramérica"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2023,
+    "pos": 0.017,
+    "neu": 0.969,
+    "neg": 0.014,
+    "label": "positive"
+  }
+}

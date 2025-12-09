@@ -1,0 +1,795 @@
+{
+  "url": "https://www.telesurtv.net/honduras-sirve-de-puente-para-deportacion-de-199-venezolanos-desde-estados-unidos/",
+  "title": "Honduras sirve de puente para deportación de 199 venezolanos desde Estados Unidos - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Conviasa",
+    "DD.HH.",
+    "deportaciones",
+    "EE.UU.",
+    "Honduras",
+    "MIgrantes",
+    "Nicolás Maduro",
+    "Palmerola",
+    "solidaridad",
+    "Venezuela",
+    "Vuelta a la Patria",
+    "Xiomara Castro"
+  ],
+  "text": "\nEl Gobierno de Honduras facilitó este domingo un nuevo operativo humanitario para el traslado de 199 migrantes venezolanos deportados desde Estados Unidos hacia su país de origen, en un ejercicio de cooperación trilateral que tuvo lugar en la base militar de Soto Cano en Palmerola.\nSegún informó la Cancillería hondureña, la operación se realizó siguiendo instrucciones directas de la presidenta Xiomara Castro, como parte de las políticas de solidaridad que implementa el país centroamericano en materia migratoria.\nEl procedimiento, que comenzó aproximadamente a las 16H30 hora local, consistió en el trasbordo de los 199 ciudadanos venezolanos desde una aeronave estadounidense hacia un avión con bandera venezolana. El proceso completo tomó cerca de tres horas y media y se desarrolló “de manera ordenada y segura”, precisaron las autoridades hondureñas.\nLa base militar conjunta de Soto Cano, ubicada en Palmerola, departamento de Comayagua, sirvió como punto estratégico para esta operación, aprovechando las instalaciones que comparten las fuerzas armadas estadounidenses y hondureñas.\n“Una vez finalizado el proceso de trasbordo seguro, la nave de bandera venezolana partió con destino a la República Bolivariana de Venezuela”, señaló el comunicado oficial emitido por la Secretaría de Estado de Defensa Nacional y la Cancillería hondureña.\nLas autoridades hondureñas destacaron que este operativo “demuestra nuevamente la cooperación positiva” entre los gobiernos de Honduras, Estados Unidos y Venezuela, países con los que el gobierno de Castro “mantiene relaciones diplomáticas y de cooperación cordiales”.\nEste trasbordo forma parte de una serie de operaciones similares que Honduras ha facilitado en los últimos meses, enmarcadas en lo que el gobierno define como “aplicación de las políticas de solidaridad que desarrolla el Gobierno de Honduras a favor de los migrantes en toda la región”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/honduras-sirve-de-puente-para-deportacion-de-199-venezolanos-desde-estados-unidos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 609,
+    "message_id": 89994,
+    "date": "2025-03-24T03:55:07+00:00",
+    "text": "teleSUR\nHonduras sirve de puente para deportación de 199 venezolanos desde Estados Unidos\nhttps://www.telesurtv.net/honduras-sirve-de-puente-para-deportacion-de-199-venezolanos-desde-estados-unidos/",
+    "photo_path": null,
+    "views": 2153,
+    "reactions": {
+      "👍": 50,
+      "🤩": 1
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de honduras facilitó este domingo un nuevo operativo humanitario para el traslado de 199 migrantes venezolanos deportados desde estados unidos hacia su país de origen, en un ejercicio de cooperación trilateral que tuvo lugar en la base militar de soto cano en palmerola. según informó la cancillería hondureña, la operación se realizó siguiendo instrucciones directas de la presidenta xiomara castro, como parte de las políticas de solidaridad que implementa el país centroamericano en materia migratoria. el procedimiento, que comenzó aproximadamente a las 16h30 hora local, consistió en el trasbordo de los 199 ciudadanos venezolanos desde una aeronave estadounidense hacia un avión con bandera venezolana. el proceso completo tomó cerca de tres horas y media y se desarrolló “de manera ordenada y segura”, precisaron las autoridades hondureñas. la base militar conjunta de soto cano, ubicada en palmerola, departamento de comayagua, sirvió como punto estratégico para esta operación, aprovechando las instalaciones que comparten las fuerzas armadas estadounidenses y hondureñas. “una vez finalizado el proceso de trasbordo seguro, la nave de bandera venezolana partió con destino a la república bolivariana de venezuela”, señaló el comunicado oficial emitido por la secretaría de estado de defensa nacional y la cancillería hondureña. las autoridades hondureñas destacaron que este operativo “demuestra nuevamente la cooperación positiva” entre los gobiernos de honduras, estados unidos y venezuela, países con los que el gobierno de castro “mantiene relaciones diplomáticas y de cooperación cordiales”. este trasbordo forma parte de una serie de operaciones similares que honduras ha facilitado en los últimos meses, enmarcadas en lo que el gobierno define como “aplicación de las políticas de solidaridad que desarrolla el gobierno de honduras a favor de los migrantes en toda la región”.",
+    "tokens": [
+      "gobierno",
+      "honduras",
+      "facilitó",
+      "domingo",
+      "nuevo",
+      "operativo",
+      "humanitario",
+      "traslado",
+      "199",
+      "migrantes",
+      "venezolanos",
+      "deportados",
+      "unidos",
+      "hacia",
+      "país",
+      "origen",
+      ",",
+      "ejercicio",
+      "cooperación",
+      "trilateral",
+      "lugar",
+      "base",
+      "militar",
+      "soto",
+      "cano",
+      "palmerola",
+      ".",
+      "según",
+      "informó",
+      "cancillería",
+      "hondureña",
+      ",",
+      "operación",
+      "realizó",
+      "siguiendo",
+      "instrucciones",
+      "directas",
+      "presidenta",
+      "xiomara",
+      "castro",
+      ",",
+      "parte",
+      "políticas",
+      "solidaridad",
+      "implementa",
+      "país",
+      "centroamericano",
+      "materia",
+      "migratoria",
+      ".",
+      "procedimiento",
+      ",",
+      "comenzó",
+      "aproximadamente",
+      "16h30",
+      "hora",
+      "local",
+      ",",
+      "consistió",
+      "trasbordo",
+      "199",
+      "ciudadanos",
+      "venezolanos",
+      "aeronave",
+      "estadounidense",
+      "hacia",
+      "avión",
+      "bandera",
+      "venezolana",
+      ".",
+      "proceso",
+      "completo",
+      "tomó",
+      "cerca",
+      "tres",
+      "horas",
+      "media",
+      "desarrolló",
+      "“",
+      "manera",
+      "ordenada",
+      "segura",
+      "”",
+      ",",
+      "precisaron",
+      "autoridades",
+      "hondureñas",
+      ".",
+      "base",
+      "militar",
+      "conjunta",
+      "soto",
+      "cano",
+      ",",
+      "ubicada",
+      "palmerola",
+      ",",
+      "departamento",
+      "comayagua",
+      ",",
+      "sirvió",
+      "punto",
+      "estratégico",
+      "operación",
+      ",",
+      "aprovechando",
+      "instalaciones",
+      "comparten",
+      "fuerzas",
+      "armadas",
+      "estadounidenses",
+      "hondureñas",
+      ".",
+      "“",
+      "vez",
+      "finalizado",
+      "proceso",
+      "trasbordo",
+      "seguro",
+      ",",
+      "nave",
+      "bandera",
+      "venezolana",
+      "partió",
+      "destino",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "”",
+      ",",
+      "señaló",
+      "comunicado",
+      "oficial",
+      "emitido",
+      "secretaría",
+      "defensa",
+      "nacional",
+      "cancillería",
+      "hondureña",
+      ".",
+      "autoridades",
+      "hondureñas",
+      "destacaron",
+      "operativo",
+      "“",
+      "demuestra",
+      "nuevamente",
+      "cooperación",
+      "positiva",
+      "”",
+      "gobiernos",
+      "honduras",
+      ",",
+      "unidos",
+      "venezuela",
+      ",",
+      "países",
+      "gobierno",
+      "castro",
+      "“",
+      "mantiene",
+      "relaciones",
+      "diplomáticas",
+      "cooperación",
+      "cordiales",
+      "”",
+      ".",
+      "trasbordo",
+      "forma",
+      "parte",
+      "serie",
+      "operaciones",
+      "similares",
+      "honduras",
+      "facilitado",
+      "últimos",
+      "meses",
+      ",",
+      "enmarcadas",
+      "gobierno",
+      "define",
+      "“",
+      "aplicación",
+      "políticas",
+      "solidaridad",
+      "desarrolla",
+      "gobierno",
+      "honduras",
+      "favor",
+      "migrantes",
+      "toda",
+      "región",
+      "”",
+      "."
+    ],
+    "token_count": 194,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "IN": 18,
+      "VBP": 7,
+      "NN": 90,
+      "JJ": 26,
+      "FW": 70,
+      "CD": 3,
+      "NNS": 12,
+      "VBD": 1,
+      "$": 1,
+      "VBN": 1,
+      "RB": 1,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NN": 49,
+      "NN-JJ": 3,
+      "JJ-JJ": 7,
+      "JJ-NN": 14,
+      "NN-FW": 9,
+      "FW-NN": 8,
+      "NN-IN": 15,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 4,
+      "NN-NNP": 5,
+      "NNP-NN": 15,
+      "IN-FW": 9,
+      "FW-FW": 40,
+      "FW-JJ": 3,
+      "FW-NNP": 15,
+      "NNP-FW": 8,
+      "NN-NNS": 4,
+      "NNS-FW": 2,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "FW-CD": 1,
+      "NN-VBP": 2,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "IN-NNS": 1,
+      "JJ-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-NNP": 2,
+      "IN-JJ": 3,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 3,
+      "JJ-NNP": 1,
+      "JJ-FW": 2,
+      "NNP-VBZ": 2,
+      "FW-NNS": 3,
+      "NNS-NNP": 1,
+      "VBP-IN": 1,
+      "IN-NN": 2,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 6,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 22,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 12,
+      "NN-NN-IN": 9,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 27,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 7,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-NN": 5,
+      "FW-NN-NNS": 1,
+      "NN-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-NNP-NN": 7,
+      "FW-NN-FW": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-NN-IN": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-FW-NNP": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-FW-JJ": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-NN-NNS": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NNP-NN-IN": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 70,
+        "NNP": 38,
+        "JJ": 26,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 49,
+        "FW-FW": 40,
+        "NN-IN": 15,
+        "NNP-NN": 15,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 22,
+        "NNP-NN-NN": 12,
+        "JJ-NN-NN": 9,
+        "NN-NN-IN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 73,
+      "PP": 10,
+      "VP": 16,
+      "ADJP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0439
+      },
+      {
+        "rule": "NP -> ('Honduras', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('migrantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Soto', 'NNP') ('Cano', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Palmerola', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP PP VP ('el', 'FW') NP ('de', 'IN') ('199', 'CD') NP NP PP (',', ',') ('en', 'FW') ADJP ('ejercicio', 'FW') ('de', 'FW') ('cooperación', 'FW') NP ('en', 'IN') ('la', 'FW') ('base', 'FW') ('militar', 'FW') ('de', 'FW') NP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('facilitó', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Honduras"
+      },
+      {
+        "label": "NP",
+        "text": "Honduras"
+      },
+      {
+        "label": "VP",
+        "text": "facilitó este domingo un nuevo operativo humanitario para"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo operativo humanitario para"
+      },
+      {
+        "label": "NP",
+        "text": "traslado"
+      },
+      {
+        "label": "NP",
+        "text": "migrantes"
+      },
+      {
+        "label": "NP",
+        "text": "venezolanos deportados desde Estados Unidos hacia su país"
+      },
+      {
+        "label": "PP",
+        "text": "de origen"
+      },
+      {
+        "label": "NP",
+        "text": "origen"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "trilateral que tuvo lugar"
+      },
+      {
+        "label": "NP",
+        "text": "Soto Cano"
+      },
+      {
+        "label": "NP",
+        "text": "Palmerola"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Honduras/NNP))\n  (VP\n    facilitó/VBP\n    (NP este/NN domingo/NN)\n    (NP un/JJ nuevo/JJ operativo/NN humanitario/NN para/NN))\n  el/FW\n  (NP traslado/NN)\n  de/IN\n  199/CD\n  (NP migrantes/NNS)\n  (NP\n    venezolanos/JJ\n    deportados/JJ\n    desde/NN\n    Estados/NNP\n    Unidos/NNP\n    hacia/NN\n    su/NN\n    país/NN)\n  (PP de/IN (NP origen/NN))\n  ,/,\n  en/FW\n  (ADJP un/JJ)\n  ejercicio/FW\n  de/FW\n  cooperación/FW\n  (NP trilateral/JJ que/NN tuvo/NN lugar/NN)\n  en/IN\n  la/FW\n  base/FW\n  militar/FW\n  de/FW\n  (NP Soto/NNP Cano/NNP)\n  en/FW\n  (NP Palmerola/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP informó/NN la/NN Cancillería/NNP hondureña/NN)\n  ,/,\n  la/FW\n  operación/FW\n  se/FW\n  realizó/FW\n  (NP siguiendo/NN instrucciones/NNS)\n  directas/FW\n  de/FW\n  la/FW\n  presidenta/FW\n  Xiomara/FW\n  (NP Castro/NNP)\n  ,/,\n  (NP como/NN parte/NN)\n  de/IN\n  las/FW\n  políticas/FW\n  de/FW\n  solidaridad/FW\n  que/FW\n  implementa/FW\n  el/FW\n  país/FW\n  (NP centroamericano/NN)\n  en/FW\n  (NP materia/NN migratoria/NN)\n  ./.)",
+      "(S\n  (NP El/NNP procedimiento/NN)\n  ,/,\n  (NP que/JJ comenzó/NN)\n  (VP aproximadamente/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  16H30/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  ,/,\n  (ADJP consistió/JJ)\n  en/FW\n  el/FW\n  trasbordo/FW\n  de/FW\n  los/FW\n  199/CD\n  (NP ciudadanos/NNS)\n  (NP venezolanos/JJ desde/JJ una/NN)\n  (VP aeronave/VBP)\n  (VP\n    estadounidense/VBN\n    (NP hacia/NN)\n    (NP un/JJ avión/JJ con/NN bandera/NN venezolana/NN))\n  ./.)",
+      "(S\n  (NP El/NNP proceso/NN completo/NN tomó/NN cerca/NN)\n  (PP de/IN (NP tres/NNS))\n  (VP horas/VBP (NP y/JJ media/NNS))\n  (VP y/VBP (NP se/JJ desarrolló/NN “/NNP))\n  de/IN\n  manera/FW\n  ordenada/FW\n  y/FW\n  (NP segura/NN ”/NN)\n  ,/,\n  (NP precisaron/NN las/NNS)\n  (PP autoridades/IN (NP hondureñas/NN))\n  ./.)",
+      "(S\n  (NP La/NNP base/NN militar/NN conjunta/NN)\n  (PP de/IN (NP Soto/NNP Cano/NNP))\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  (NP Palmerola/NNP)\n  ,/,\n  (NP departamento/NN)\n  de/FW\n  (NP Comayagua/NNP)\n  ,/,\n  (NP sirvió/NN como/NN)\n  (PP punto/IN (NP estratégico/JJ para/NN esta/NN operación/NN))\n  ,/,\n  (NP aprovechando/JJ las/NN instalaciones/NNS)\n  que/RB\n  (VP comparten/VBP (NP las/JJ fuerzas/NN armadas/NN))\n  (VP estadounidenses/VBZ (NP y/JJ hondureñas/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación positiva” entre los gobiernos de honduras, estados unidos y venezuela",
+        "position": [
+          1433,
+          1514
+        ],
+        "start": 1433,
+        "end": 1514
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación positiva” entre los gobiernos de honduras, estados unidos y venezuela, países",
+        "position": [
+          1433,
+          1522
+        ],
+        "start": 1433,
+        "end": 1522
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad que implementa el país",
+        "position": [
+          445,
+          479
+        ],
+        "start": 445,
+        "end": 479
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1238,
+          1244
+        ],
+        "start": 1238,
+        "end": 1244
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          290,
+          297
+        ],
+        "start": 290,
+        "end": 297
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1306,
+          1313
+        ],
+        "start": 1306,
+        "end": 1313
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de honduras facilitó",
+        "position": [
+          4,
+          33
+        ],
+        "start": 4,
+        "end": 33
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta xiomara castro",
+        "position": [
+          387,
+          412
+        ],
+        "start": 387,
+        "end": 412
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de comayagua",
+        "position": [
+          922,
+          947
+        ],
+        "start": 922,
+        "end": 947
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "honduras",
+        "position": [
+          16,
+          24
+        ],
+        "start": 16,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          1226,
+          1235
+        ],
+        "start": 1226,
+        "end": 1235
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          141,
+          155
+        ],
+        "start": 141,
+        "end": 155
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          922,
+          937
+        ],
+        "start": 922,
+        "end": 937
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobierno de Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretaría de Estado de Defensa Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Castro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Soto Cano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Palmerola",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xiomara Castro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Comayagua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Honduras",
+        "relacion": "FACILITAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno de Honduras",
+        "relacion": "FACILITAR",
+        "objeto": "Soto Cano"
+      },
+      {
+        "sujeto": "Gobierno de Honduras",
+        "relacion": "FACILITAR",
+        "objeto": "Palmerola"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "FACILITAR",
+        "objeto": "Soto Cano"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "FACILITAR",
+        "objeto": "Palmerola"
+      },
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "PARTIR_SE_ALAR",
+        "objeto": "Secretaría de Estado de Defensa Nacional"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6249,
+    "pos": 0.019,
+    "neu": 0.981,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

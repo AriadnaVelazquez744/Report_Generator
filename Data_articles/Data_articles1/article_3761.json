@@ -1,0 +1,627 @@
+{
+  "url": "https://www.telesurtv.net/netumbo-nandi-ndaitwah-juramenta-como-la-primera-presidenta-de-namibia/",
+  "title": "Netumbo Nandi-Ndaitwah juramenta como la primera presidenta de Namibia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Juramentación",
+    "Namibia",
+    "Netumbo Nandi-Ndaitwah",
+    "Presidenta"
+  ],
+  "text": "La presidenta electa de Namibia, Netumbo Nandi-Ndaitwah se convirtió este viernes en la primera mujer en dirigir esa nación africana, tras juramentar su elección en el cargo.\nNandi-Ndaitwah obtuvo la victoria electoral registrando el 58 por ciento de los votos el pasado noviembre como candidata del partido Organización del Pueblo de África del Sudoeste (SWAPO).\nEn sus declaraciones de esta jornada, agredeció la confianza depositada por el pueblo, agregando que gracias a ello ha sido elegida “como la quinta presidenta de Namibia para dirigir esta gran nación durante los próximos cinco años”.\n\nSiguiendo esa línea, la dignataria aseguró que llevará adelante en su proyecto presidencial “la buena gobernanza“, a lo que agregó que durante su Gobierno “los funcionarios deben mantener en todo momento altos estándares éticos”.\nEsto enfrentará la corrupción, la que calificó como causa de que los namibios se sientan “frustrados”, dañando al mismo tiempo la estabilidad del país y del Gobierno.\nSus políticas se centran en el saneamiento y el tema de la vivienda, apuntando su mirada también hacia mejoras en la educación.\nEn tanto, buscará durante el tiempo frente al país un aumento en “la inversión para el desarrollo de infraestructuras”, para ofrecer espacio a la inversión extranjera y con ello “mejorar la productividad económica, promover el crecimiento económico y mejorar la calidad de vida de nuestra gente”.\n“Creemos en la resolución pacífica de los conflictos, tanto internos como internacionales. Seguiremos reforzando nuestra política de apoyo al derecho a la autodeterminación del pueblo palestino y del Sáhara Occidental”, dijo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/netumbo-nandi-ndaitwah-juramenta-como-la-primera-presidenta-de-namibia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 751,
+    "message_id": 89834,
+    "date": "2025-03-21T21:55:07+00:00",
+    "text": "teleSUR\nNetumbo Nandi-Ndaitwah juramenta como la primera presidenta de Namibia\nhttps://www.telesurtv.net/netumbo-nandi-ndaitwah-juramenta-como-la-primera-presidenta-de-namibia/",
+    "photo_path": null,
+    "views": 1870,
+    "reactions": {
+      "👍": 32,
+      "🤔": 3,
+      "❤": 2
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta electa de namibia, netumbo nandi-ndaitwah se convirtió este viernes en la primera mujer en dirigir esa nación africana, tras juramentar su elección en el cargo. nandi-ndaitwah obtuvo la victoria electoral registrando el 58 por ciento de los votos el pasado noviembre como candidata del partido organización del pueblo de áfrica del sudoeste (swapo). en sus declaraciones de esta jornada, agredeció la confianza depositada por el pueblo, agregando que gracias a ello ha sido elegida “como la quinta presidenta de namibia para dirigir esta gran nación durante los próximos cinco años”. siguiendo esa línea, la dignataria aseguró que llevará adelante en su proyecto presidencial “la buena gobernanza“, a lo que agregó que durante su gobierno “los funcionarios deben mantener en todo momento altos estándares éticos”. esto enfrentará la corrupción, la que calificó como causa de que los namibios se sientan “frustrados”, dañando al mismo tiempo la estabilidad del país y del gobierno. sus políticas se centran en el saneamiento y el tema de la vivienda, apuntando su mirada también hacia mejoras en la educación. en tanto, buscará durante el tiempo frente al país un aumento en “la inversión para el desarrollo de infraestructuras”, para ofrecer espacio a la inversión extranjera y con ello “mejorar la productividad económica, promover el crecimiento económico y mejorar la calidad de vida de nuestra gente”. “creemos en la resolución pacífica de los conflictos, tanto internos como internacionales. seguiremos reforzando nuestra política de apoyo al derecho a la autodeterminación del pueblo palestino y del sáhara occidental”, dijo.",
+    "tokens": [
+      "presidenta",
+      "electa",
+      "namibia",
+      ",",
+      "netumbo",
+      "nandi-ndaitwah",
+      "convirtió",
+      "viernes",
+      "primera",
+      "mujer",
+      "dirigir",
+      "nación",
+      "africana",
+      ",",
+      "tras",
+      "juramentar",
+      "elección",
+      "cargo",
+      ".",
+      "nandi-ndaitwah",
+      "obtuvo",
+      "victoria",
+      "electoral",
+      "registrando",
+      "58",
+      "ciento",
+      "votos",
+      "pasado",
+      "noviembre",
+      "candidata",
+      "partido",
+      "organización",
+      "pueblo",
+      "áfrica",
+      "sudoeste",
+      "(",
+      "swapo",
+      ")",
+      ".",
+      "declaraciones",
+      "jornada",
+      ",",
+      "agredeció",
+      "confianza",
+      "depositada",
+      "pueblo",
+      ",",
+      "agregando",
+      "gracias",
+      "ello",
+      "sido",
+      "elegida",
+      "“",
+      "quinta",
+      "presidenta",
+      "namibia",
+      "dirigir",
+      "gran",
+      "nación",
+      "próximos",
+      "cinco",
+      "años",
+      "”",
+      ".",
+      "siguiendo",
+      "línea",
+      ",",
+      "dignataria",
+      "aseguró",
+      "llevará",
+      "adelante",
+      "proyecto",
+      "presidencial",
+      "“",
+      "buena",
+      "gobernanza",
+      "“",
+      ",",
+      "agregó",
+      "gobierno",
+      "“",
+      "funcionarios",
+      "deben",
+      "mantener",
+      "momento",
+      "altos",
+      "estándares",
+      "éticos",
+      "”",
+      ".",
+      "enfrentará",
+      "corrupción",
+      ",",
+      "calificó",
+      "causa",
+      "namibios",
+      "sientan",
+      "“",
+      "frustrados",
+      "”",
+      ",",
+      "dañando",
+      "mismo",
+      "tiempo",
+      "estabilidad",
+      "país",
+      "gobierno",
+      ".",
+      "políticas",
+      "centran",
+      "saneamiento",
+      "tema",
+      "vivienda",
+      ",",
+      "apuntando",
+      "mirada",
+      "hacia",
+      "mejoras",
+      "educación",
+      ".",
+      ",",
+      "buscará",
+      "tiempo",
+      "frente",
+      "país",
+      "aumento",
+      "“",
+      "inversión",
+      "desarrollo",
+      "infraestructuras",
+      "”",
+      ",",
+      "ofrecer",
+      "espacio",
+      "inversión",
+      "extranjera",
+      "ello",
+      "“",
+      "mejorar",
+      "productividad",
+      "económica",
+      ",",
+      "promover",
+      "crecimiento",
+      "económico",
+      "mejorar",
+      "calidad",
+      "vida",
+      "gente",
+      "”",
+      ".",
+      "“",
+      "creemos",
+      "resolución",
+      "pacífica",
+      "conflictos",
+      ",",
+      "internos",
+      "internacionales",
+      ".",
+      "seguiremos",
+      "reforzando",
+      "política",
+      "apoyo",
+      "derecho",
+      "autodeterminación",
+      "pueblo",
+      "palestino",
+      "sáhara",
+      "occidental",
+      "”",
+      ",",
+      "dijo",
+      "."
+    ],
+    "token_count": 174,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "FW": 73,
+      "NN": 102,
+      "NNS": 7,
+      "IN": 10,
+      "JJ": 17,
+      "VBP": 5,
+      "VB": 1,
+      "VBD": 1,
+      "CD": 1,
+      "CC": 1,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-FW": 5,
+      "FW-FW": 50,
+      "FW-NNP": 7,
+      "NNP-NNP": 6,
+      "NNP-NN": 7,
+      "NN-NN": 66,
+      "NN-NNS": 4,
+      "NNS-IN": 3,
+      "IN-NN": 2,
+      "NN-IN": 7,
+      "IN-JJ": 2,
+      "JJ-JJ": 2,
+      "JJ-NN": 13,
+      "NNS-NN": 1,
+      "NN-VBP": 3,
+      "VBP-NN": 2,
+      "NN-FW": 13,
+      "FW-VB": 1,
+      "VB-NNP": 1,
+      "NNP-JJ": 1,
+      "FW-JJ": 4,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "IN-FW": 5,
+      "FW-NNS": 2,
+      "NNS-VBP": 2,
+      "VBP-JJ": 3,
+      "NN-NNP": 4,
+      "FW-NN": 9,
+      "IN-NNP": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "VBZ-JJ": 2,
+      "NN-VBZ": 1,
+      "JJ-NNP": 1,
+      "JJ-NNS": 1,
+      "NN-JJ": 2,
+      "NNS-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 39,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 43,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 2,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 7,
+      "FW-FW-VB": 1,
+      "FW-VB-NNP": 1,
+      "VB-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-FW": 3,
+      "NNP-NN-NNS": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-FW-JJ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "FW-NN-FW": 2,
+      "VBP-NN-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-IN": 1,
+      "NN-NNP-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 73,
+        "NNP": 22,
+        "JJ": 17,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "FW-FW": 50,
+        "JJ-NN": 13,
+        "NN-FW": 13,
+        "FW-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 43,
+        "FW-FW-FW": 39,
+        "JJ-NN-NN": 9,
+        "NN-NN-FW": 8,
+        "NN-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 56,
+      "PP": 6,
+      "VP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0513
+      },
+      {
+        "rule": "NP -> ('Namibia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0256
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('electa', 'FW') ('de', 'FW') NP (',', ',') NP PP PP (',', ',') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('Netumbo', 'NNP') ('Nandi-Ndaitwah', 'NNP') ('se', 'NN') ('convirtió', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('la', 'NN') ('primera', 'NN') ('mujer', 'NN')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('dirigir', 'JJ') ('esa', 'JJ') ('nación', 'NN') ('africana', 'NN')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('tras', 'JJ') ('juramentar', 'NN') ('su', 'NN') ('elección', 'NN')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('el', 'NN') ('cargo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "S -> NP ('victoria', 'FW') NP VP ('58', 'CD') NP ('de', 'IN') ('los', 'FW') NP VP ('del', 'FW') NP ('de', 'FW') NP ('del', 'FW') NP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0128
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "Namibia"
+      },
+      {
+        "label": "NP",
+        "text": "Netumbo Nandi-Ndaitwah se convirtió este viernes"
+      },
+      {
+        "label": "PP",
+        "text": "en la primera mujer"
+      },
+      {
+        "label": "NP",
+        "text": "la primera mujer"
+      },
+      {
+        "label": "PP",
+        "text": "en dirigir esa nación africana"
+      },
+      {
+        "label": "NP",
+        "text": "dirigir esa nación africana"
+      },
+      {
+        "label": "NP",
+        "text": "tras juramentar su elección"
+      },
+      {
+        "label": "PP",
+        "text": "en el cargo"
+      },
+      {
+        "label": "NP",
+        "text": "el cargo"
+      },
+      {
+        "label": "NP",
+        "text": "Nandi-Ndaitwah obtuvo la"
+      },
+      {
+        "label": "NP",
+        "text": "electoral registrando"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento"
+      },
+      {
+        "label": "NP",
+        "text": "votos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  electa/FW\n  de/FW\n  (NP Namibia/NNP)\n  ,/,\n  (NP\n    Netumbo/NNP\n    Nandi-Ndaitwah/NNP\n    se/NN\n    convirtió/NN\n    este/NN\n    viernes/NNS)\n  (PP en/IN (NP la/NN primera/NN mujer/NN))\n  (PP en/IN (NP dirigir/JJ esa/JJ nación/NN africana/NN))\n  ,/,\n  (NP tras/JJ juramentar/NN su/NN elección/NN)\n  (PP en/IN (NP el/NN cargo/NN))\n  ./.)",
+      "(S\n  (NP Nandi-Ndaitwah/JJ obtuvo/NN la/NN)\n  victoria/FW\n  (NP electoral/JJ registrando/NN)\n  (VP el/VBD)\n  58/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  los/FW\n  (NP votos/NNS)\n  (VP\n    el/VBP\n    (NP\n      pasado/JJ\n      noviembre/JJ\n      como/NN\n      candidata/NN\n      del/NN\n      partido/NN\n      Organización/NNP))\n  del/FW\n  (NP Pueblo/NNP)\n  de/FW\n  (NP África/NNP)\n  del/FW\n  (NP Sudoeste/NNP)\n  (/(\n  (NP SWAPO/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP En/NNP sus/NN declaraciones/NNS)\n  de/IN\n  esta/FW\n  (NP jornada/NN)\n  ,/,\n  (NP\n    agredeció/JJ\n    la/NN\n    confianza/NN\n    depositada/NN\n    por/NN\n    el/NN\n    pueblo/NN)\n  ,/,\n  (NP agregando/JJ que/NN)\n  (VP\n    gracias/VBD\n    (NP a/DT ello/JJ ha/NN sido/NN elegida/NN “/NNP como/NN la/NN))\n  quinta/FW\n  (NP presidenta/NN)\n  (PP de/IN (NP Namibia/NNP))\n  para/CC\n  (NP\n    dirigir/JJ\n    esta/NN\n    gran/NN\n    nación/NN\n    durante/NN\n    los/NN\n    próximos/NN\n    cinco/NN\n    años/NN\n    ”/NN)\n  ./.)",
+      "(S\n  (NP Siguiendo/NNP esa/NN línea/NN)\n  ,/,\n  la/FW\n  dignataria/FW\n  aseguró/FW\n  (NP que/NN llevará/NN adelante/NN)\n  en/FW\n  su/FW\n  proyecto/FW\n  (NP presidencial/JJ “/NNP la/NN buena/NN gobernanza/NN “/NNP)\n  ,/,\n  (NP\n    a/DT\n    lo/NN\n    que/NN\n    agregó/NN\n    que/NN\n    durante/NN\n    su/NN\n    Gobierno/NNP\n    “/NNP)\n  (VP los/VBZ (NP funcionarios/JJ deben/NN mantener/NN))\n  (PP en/IN (NP todo/NN momento/NN altos/NN))\n  (VP estándares/VBZ (NP éticos/JJ ”/NN))\n  ./.)",
+      "(S\n  (NP Esto/NNP)\n  enfrentará/CC\n  (NP la/NN corrupción/NN)\n  ,/,\n  la/FW\n  que/FW\n  (NP calificó/NN como/NN causa/NN)\n  de/IN\n  que/FW\n  (NP los/JJ namibios/NNS)\n  (VP se/VBP (NP sientan/JJ “/NNP frustrados/NN ”/NNP))\n  ,/,\n  (NP dañando/NN al/NN mismo/NN tiempo/NN la/NN)\n  estabilidad/FW\n  del/FW\n  país/FW\n  y/FW\n  del/FW\n  (NP Gobierno/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "NEOLIBERALISMO_MERCADO",
+      "GOBIERNOS_OFICIALES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inversión",
+        "position": [
+          1193,
+          1202
+        ],
+        "start": 1193,
+        "end": 1202
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "corrupción",
+        "position": [
+          848,
+          858
+        ],
+        "start": 848,
+        "end": 858
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta electa de",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "saneamiento",
+        "position": [
+          1027,
+          1038
+        ],
+        "start": 1027,
+        "end": 1038
+      },
+      {
+        "category": "NEOLIBERALISMO_MERCADO",
+        "matched_text": "productividad económica",
+        "position": [
+          1314,
+          1337
+        ],
+        "start": 1314,
+        "end": 1337
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Organización del Pueblo de África del Sudoeste",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SWAPO",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nandi-Ndaitwah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Namibia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sáhara Occidental",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Netumbo Nandi-Ndaitwah",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Netumbo Nandi-Ndaitwah",
+        "relacion": "CONVERTIR",
+        "objeto": "Namibia"
+      },
+      {
+        "sujeto": "Nandi-Ndaitwah",
+        "relacion": "OBTENER",
+        "objeto": "Organización del Pueblo de África del Sudoeste"
+      },
+      {
+        "sujeto": "Nandi-Ndaitwah",
+        "relacion": "OBTENER",
+        "objeto": "SWAPO"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.01,
+    "neu": 0.99,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

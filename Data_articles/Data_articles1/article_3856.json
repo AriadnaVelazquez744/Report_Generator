@@ -1,0 +1,890 @@
+{
+  "url": "https://www.telesurtv.net/los-venezolanos-en-la-sombra-la-influencia-extranjera-que-dirige-el-salvador/",
+  "title": "Los venezolanos en la sombra: La influencia extranjera que dirige El Salvador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "El Salvador",
+    "MIgrantes",
+    "Venezolanos"
+  ],
+  "text": "Un grupo de asesores venezolanos, vinculados a la oposición extremista de Juan Guaidó, opera como un gobierno paralelo en El Salvador, superando en jerarquía a los ministros oficiales y respondiendo directamente a la familia Bukele, según revelan investigaciones periodísticas.\nSarah Hanna Georges, ex asistente del líder opositor Leopoldo López, encabeza esta estructura no oficial que carece de transparencia en cuanto a contratos, honorarios y responsabilidades específicas. Desde al menos febrero de 2020, este equipo venezolano ha impartido órdenes directas a ministros salvadoreños en áreas críticas como economía, salud y seguridad.\n“Te lo resumo así: casi que por cada ministro tienen un venezolano detrás dando órdenes”, confirmó una fuente al medio investigativo El Faro, mientras que un embajador corroboró: “Hay un montón de venezolanos que participan en reuniones oficiales del Gobierno, y la líder es Sarah Hanna”.\nLa investigación identifica a diez venezolanos clave, cada uno con responsabilidades ministeriales no oficiales: Miguel Sabal como segundo al mando y encargado de logística; Miguel Arvelo en salud; Tomás Hernández en economía; Roddy Rodríguez supervisando educación y cancillería; Santiago Rosas y Ernesto Herrera dirigiendo seguridad y el Plan de Control Territorial; Juan Carlos Gutiérrez manejando transparencia; y Lester Toledo, junto con su equipo, coordinando propaganda y el Programa de Emergencia Sanitaria.\nEsta estructura paralela sirve como enlace entre el clan familiar Bukele —encabezado por el presidente Nayib y sus hermanos Karim, Ibrajim y Yusef— y las instituciones oficiales del gobierno salvadoreño. Los asesores venezolanos transmiten directrices tanto en persona como a través de grupos de WhatsApp desde los que emiten instrucciones vinculantes.\nEl partido Nuevas Ideas, fundado alrededor de la figura de Bukele y que controla la Asamblea Legislativa desde febrero de 2021, también recibe orientación estratégica de este gabinete en la sombra, completando un círculo de influencia extranjera en las más altas esferas del poder salvadoreño.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/los-venezolanos-en-la-sombra-la-influencia-extranjera-que-dirige-el-salvador/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 899,
+    "message_id": 89655,
+    "date": "2025-03-20T03:55:07+00:00",
+    "text": "teleSUR\nLos venezolanos en la sombra: La influencia extranjera que dirige El Salvador\nhttps://www.telesurtv.net/los-venezolanos-en-la-sombra-la-influencia-extranjera-que-dirige-el-salvador/",
+    "photo_path": null,
+    "views": 1741,
+    "reactions": {
+      "🤬": 31,
+      "👍": 5,
+      "🤯": 5,
+      "💩": 3
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "un grupo de asesores venezolanos, vinculados a la oposición extremista de juan guaidó, opera como un gobierno paralelo en el salvador, superando en jerarquía a los ministros oficiales y respondiendo directamente a la familia bukele, según revelan investigaciones periodísticas. sarah hanna georges, ex asistente del líder opositor leopoldo lópez, encabeza esta estructura no oficial que carece de transparencia en cuanto a contratos, honorarios y responsabilidades específicas. desde al menos febrero de 2020, este equipo venezolano ha impartido órdenes directas a ministros salvadoreños en áreas críticas como economía, salud y seguridad. “te lo resumo así: casi que por cada ministro tienen un venezolano detrás dando órdenes”, confirmó una fuente al medio investigativo el faro, mientras que un embajador corroboró: “hay un montón de venezolanos que participan en reuniones oficiales del gobierno, y la líder es sarah hanna”. la investigación identifica a diez venezolanos clave, cada uno con responsabilidades ministeriales no oficiales: miguel sabal como segundo al mando y encargado de logística; miguel arvelo en salud; tomás hernández en economía; roddy rodríguez supervisando educación y cancillería; santiago rosas y ernesto herrera dirigiendo seguridad y el plan de control territorial; juan carlos gutiérrez manejando transparencia; y lester toledo, junto con su equipo, coordinando propaganda y el programa de emergencia sanitaria. esta estructura paralela sirve como enlace entre el clan familiar bukele —encabezado por el presidente nayib y sus hermanos karim, ibrajim y yusef— y las instituciones oficiales del gobierno salvadoreño. los asesores venezolanos transmiten directrices tanto en persona como a través de grupos de whatsapp desde los que emiten instrucciones vinculantes. el partido nuevas ideas, fundado alrededor de la figura de bukele y que controla la asamblea legislativa desde febrero de 2021, también recibe orientación estratégica de este gabinete en la sombra, completando un círculo de influencia extranjera en las más altas esferas del poder salvadoreño.",
+    "tokens": [
+      "grupo",
+      "asesores",
+      "venezolanos",
+      ",",
+      "vinculados",
+      "oposición",
+      "extremista",
+      "juan",
+      "guaidó",
+      ",",
+      "opera",
+      "gobierno",
+      "paralelo",
+      "salvador",
+      ",",
+      "superando",
+      "jerarquía",
+      "ministros",
+      "oficiales",
+      "respondiendo",
+      "directamente",
+      "familia",
+      "bukele",
+      ",",
+      "según",
+      "revelan",
+      "investigaciones",
+      "periodísticas",
+      ".",
+      "sarah",
+      "hanna",
+      "georges",
+      ",",
+      "ex",
+      "asistente",
+      "líder",
+      "opositor",
+      "leopoldo",
+      "lópez",
+      ",",
+      "encabeza",
+      "estructura",
+      "oficial",
+      "carece",
+      "transparencia",
+      "cuanto",
+      "contratos",
+      ",",
+      "honorarios",
+      "responsabilidades",
+      "específicas",
+      ".",
+      "menos",
+      "febrero",
+      "2020",
+      ",",
+      "equipo",
+      "venezolano",
+      "impartido",
+      "órdenes",
+      "directas",
+      "ministros",
+      "salvadoreños",
+      "áreas",
+      "críticas",
+      "economía",
+      ",",
+      "salud",
+      "seguridad",
+      ".",
+      "“",
+      "resumo",
+      "así",
+      ":",
+      "casi",
+      "cada",
+      "ministro",
+      "venezolano",
+      "detrás",
+      "dando",
+      "órdenes",
+      "”",
+      ",",
+      "confirmó",
+      "fuente",
+      "medio",
+      "investigativo",
+      "faro",
+      ",",
+      "mientras",
+      "embajador",
+      "corroboró",
+      ":",
+      "“",
+      "montón",
+      "venezolanos",
+      "participan",
+      "reuniones",
+      "oficiales",
+      "gobierno",
+      ",",
+      "líder",
+      "sarah",
+      "hanna",
+      "”",
+      ".",
+      "investigación",
+      "identifica",
+      "diez",
+      "venezolanos",
+      "clave",
+      ",",
+      "cada",
+      "responsabilidades",
+      "ministeriales",
+      "oficiales",
+      ":",
+      "miguel",
+      "sabal",
+      "segundo",
+      "mando",
+      "encargado",
+      "logística",
+      ";",
+      "miguel",
+      "arvelo",
+      "salud",
+      ";",
+      "tomás",
+      "hernández",
+      "economía",
+      ";",
+      "roddy",
+      "rodríguez",
+      "supervisando",
+      "educación",
+      "cancillería",
+      ";",
+      "santiago",
+      "rosas",
+      "ernesto",
+      "herrera",
+      "dirigiendo",
+      "seguridad",
+      "plan",
+      "control",
+      "territorial",
+      ";",
+      "juan",
+      "carlos",
+      "gutiérrez",
+      "manejando",
+      "transparencia",
+      ";",
+      "lester",
+      "toledo",
+      ",",
+      "junto",
+      "equipo",
+      ",",
+      "coordinando",
+      "propaganda",
+      "programa",
+      "emergencia",
+      "sanitaria",
+      ".",
+      "estructura",
+      "paralela",
+      "sirve",
+      "enlace",
+      "clan",
+      "familiar",
+      "bukele",
+      "—encabezado",
+      "presidente",
+      "nayib",
+      "hermanos",
+      "karim",
+      ",",
+      "ibrajim",
+      "yusef—",
+      "instituciones",
+      "oficiales",
+      "gobierno",
+      "salvadoreño",
+      ".",
+      "asesores",
+      "venezolanos",
+      "transmiten",
+      "directrices",
+      "persona",
+      "través",
+      "grupos",
+      "whatsapp",
+      "emiten",
+      "instrucciones",
+      "vinculantes",
+      ".",
+      "partido",
+      "nuevas",
+      "ideas",
+      ",",
+      "fundado",
+      "alrededor",
+      "figura",
+      "bukele",
+      "controla",
+      "asamblea",
+      "legislativa",
+      "febrero",
+      "2021",
+      ",",
+      "recibe",
+      "orientación",
+      "estratégica",
+      "gabinete",
+      "sombra",
+      ",",
+      "completando",
+      "círculo",
+      "influencia",
+      "extranjera",
+      "altas",
+      "esferas",
+      "poder",
+      "salvadoreño",
+      "."
+    ],
+    "token_count": 227,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 58,
+      "NN": 106,
+      "FW": 42,
+      "VBZ": 7,
+      "JJ": 21,
+      "IN": 10,
+      "NNS": 18,
+      "VBP": 13,
+      "DT": 2,
+      "CD": 2,
+      "CC": 1,
+      "JJR": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 19,
+      "NN-FW": 7,
+      "FW-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-FW": 21,
+      "FW-NNP": 7,
+      "NNP-NNP": 27,
+      "NN-NN": 58,
+      "NN-JJ": 7,
+      "JJ-NN": 12,
+      "NN-IN": 9,
+      "IN-NNP": 2,
+      "FW-NN": 11,
+      "JJ-NNS": 2,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "JJ-FW": 3,
+      "NN-NNS": 6,
+      "VBP-NNP": 2,
+      "NNP-VBP": 2,
+      "NN-NNP": 14,
+      "NN-VBZ": 1,
+      "VBZ-DT": 2,
+      "DT-JJ": 1,
+      "IN-FW": 5,
+      "NNS-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 3,
+      "IN-CD": 2,
+      "CD-NN": 2,
+      "NN-CC": 1,
+      "CC-NN": 1,
+      "NNS-NNS": 4,
+      "NNP-VBZ": 3,
+      "JJ-JJ": 1,
+      "NNP-FW": 5,
+      "NNP-JJ": 1,
+      "IN-NNS": 1,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "DT-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-IN": 1,
+      "NN-VBP": 2,
+      "VBP-NN": 2,
+      "VBZ-NNS": 2,
+      "NNS-JJ": 1,
+      "VBP-NNS": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 12,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 12,
+      "NNP-NN-NN": 16,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 6,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 6,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 2,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-VBP": 2,
+      "NNP-VBP-JJ": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-NNP": 9,
+      "NN-NNP-NNP": 9,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-NN": 25,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 2,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "VBP-JJ-NN": 4,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-JJ": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-NN": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-NNP": 1,
+      "NNS-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBZ-DT": 1,
+      "VBZ-DT-NNS": 1,
+      "DT-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 2,
+      "VBZ-NNS-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-FW-NNP": 1,
+      "CD-NN-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 106,
+        "NNP": 58,
+        "FW": 42,
+        "JJ": 21,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "NNP-NNP": 27,
+        "FW-FW": 21,
+        "NNP-NN": 19,
+        "NN-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "NNP-NN-NN": 16,
+        "FW-FW-FW": 12,
+        "NNP-NNP-NN": 12,
+        "NNP-NNP-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 85,
+      "VP": 17,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0427
+      },
+      {
+        "rule": "NP -> ('venezolanos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') VP (',', ',') ('vinculados', 'FW') NP NP PP (',', ',') NP NP PP (',', ',') NP ('en', 'FW') NP NP VP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('grupo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('asesores', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('oposición', 'JJ') ('extremista', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Juan', 'NNP') ('Guaidó', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('opera', 'NN') ('como', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un grupo"
+      },
+      {
+        "label": "VP",
+        "text": "asesores venezolanos"
+      },
+      {
+        "label": "NP",
+        "text": "venezolanos"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "oposición extremista"
+      },
+      {
+        "label": "PP",
+        "text": "de Juan Guaidó"
+      },
+      {
+        "label": "NP",
+        "text": "Juan Guaidó"
+      },
+      {
+        "label": "NP",
+        "text": "opera como"
+      },
+      {
+        "label": "NP",
+        "text": "un gobierno paralelo"
+      },
+      {
+        "label": "PP",
+        "text": "en El Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "El Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "superando"
+      },
+      {
+        "label": "NP",
+        "text": "jerarquía"
+      },
+      {
+        "label": "NP",
+        "text": "a los ministros"
+      },
+      {
+        "label": "VP",
+        "text": "oficiales y respondiendo directamente a la familia Bukele"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP grupo/NN)\n  de/FW\n  (VP asesores/VBZ (NP venezolanos/NNS))\n  ,/,\n  vinculados/FW\n  (NP a/DT la/NN)\n  (NP oposición/JJ extremista/NN)\n  (PP de/IN (NP Juan/NNP Guaidó/NNP))\n  ,/,\n  (NP opera/NN como/NN)\n  (NP un/JJ gobierno/NN paralelo/NN)\n  (PP en/IN (NP El/NNP Salvador/NNP))\n  ,/,\n  (NP superando/NN)\n  en/FW\n  (NP jerarquía/NN)\n  (NP a/DT los/NN ministros/NN)\n  (VP\n    oficiales/VBZ\n    y/RB\n    (NP respondiendo/JJ directamente/NN)\n    (NP a/DT la/NN familia/NN Bukele/NNP))\n  ,/,\n  (NP según/NN revelan/NN)\n  (VP investigaciones/VBZ (NP periodísticas/NN))\n  ./.)",
+      "(S\n  (NP Sarah/NNP Hanna/NNP Georges/NNP)\n  ,/,\n  ex/FW\n  asistente/FW\n  del/FW\n  (NP líder/JJR opositor/NN Leopoldo/NNP López/NNP)\n  ,/,\n  (NP encabeza/NN esta/NN)\n  (VP estructura/VBZ (NP no/DT oficial/JJ que/NN carece/NN))\n  de/IN\n  transparencia/FW\n  en/FW\n  cuanto/FW\n  (NP a/DT contratos/NN)\n  ,/,\n  (NP honorarios/NNS)\n  (VP y/VBP (NP responsabilidades/NNS))\n  (VP específicas/VBP)\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  (VP al/VBZ (NP menos/JJ febrero/NN))\n  de/IN\n  2020/CD\n  ,/,\n  (NP este/NN)\n  (NP equipo/JJ venezolano/NN ha/NN impartido/NN órdenes/NNS)\n  (VP directas/VBP (NP a/DT ministros/NN salvadoreños/NN))\n  (PP en/IN (NP áreas/JJ críticas/NN como/NN economía/NN))\n  ,/,\n  (NP salud/JJ y/NN seguridad/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Te/NNP lo/NN resumo/NN así/NN)\n  :/:\n  (NP casi/NN que/NN por/NN cada/NN ministro/NN tienen/NN)\n  (NP un/JJ venezolano/NN detrás/NN dando/NN órdenes/NNS ”/NNP)\n  ,/,\n  (NP confirmó/NN)\n  (NP\n    una/JJ\n    fuente/NN\n    al/NN\n    medio/NN\n    investigativo/NN\n    El/NNP\n    Faro/NNP)\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  (NP un/JJ embajador/NN corroboró/NN)\n  :/:\n  (NP “/JJ Hay/NNP)\n  (NP un/JJ montón/NN)\n  de/IN\n  venezolanos/FW\n  (NP que/NN participan/NN)\n  (PP en/IN (NP reuniones/NNS oficiales/NNS))\n  del/RB\n  (NP Gobierno/NNP)\n  ,/,\n  (NP y/NNP la/NNP)\n  líder/FW\n  (NP es/NN Sarah/NNP Hanna/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP investigación/NN)\n  (VP identifica/VBZ (NP a/DT diez/JJ venezolanos/NN clave/NN))\n  ,/,\n  (NP cada/NN)\n  (NP uno/JJ con/NN responsabilidades/NNS)\n  (VP ministeriales/VBZ (NP no/DT oficiales/NNS))\n  :/:\n  (NP Miguel/NNP Sabal/NNP como/NN segundo/NN al/NN mando/NN y/NN)\n  encargado/FW\n  de/FW\n  logística/FW\n  ;/:\n  (NP Miguel/NNP Arvelo/NNP)\n  (PP en/IN (NP salud/NN))\n  ;/:\n  (NP Tomás/NNP Hernández/NNP)\n  (PP en/IN (NP economía/NN))\n  ;/:\n  (NP\n    Roddy/NNP\n    Rodríguez/NNP\n    supervisando/NN\n    educación/NN\n    y/NN\n    cancillería/NN)\n  ;/:\n  (NP\n    Santiago/NNP\n    Rosas/NNP\n    y/NNP\n    Ernesto/NNP\n    Herrera/NNP\n    dirigiendo/NN\n    seguridad/NN\n    y/NN\n    el/NN\n    Plan/NNP)\n  (PP de/IN (NP Control/NNP Territorial/NNP))\n  ;/:\n  (NP\n    Juan/NNP\n    Carlos/NNP\n    Gutiérrez/NNP\n    manejando/NNP\n    transparencia/NN)\n  ;/:\n  y/CC\n  (NP Lester/NNP Toledo/NNP)\n  ,/,\n  (NP junto/NN con/NN su/NN equipo/NN)\n  ,/,\n  (NP coordinando/JJ propaganda/NN y/NN)\n  (NP el/JJ Programa/NNP)\n  de/FW\n  (NP Emergencia/NNP Sanitaria/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "PAISES",
+      "CIUDADES_CAPITALES"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nayib y",
+        "position": [
+          1537,
+          1555
+        ],
+        "start": 1537,
+        "end": 1555
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          122,
+          133
+        ],
+        "start": 122,
+        "end": 133
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santiago",
+        "position": [
+          1210,
+          1218
+        ],
+        "start": 1210,
+        "end": 1218
+      }
+    ],
+    "match_count": 3
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ibrajim",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sarah Hanna",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Juan Carlos Gutiérrez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Roddy Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Karim",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lester Toledo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ernesto Herrera",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nayib",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asamblea Legislativa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Miguel Arvelo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sarah Hanna Georges",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tomás Hernández",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Leopoldo López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "partido Nuevas Ideas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Miguel Sabal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Juan Guaidó",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "El Faro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "WhatsApp",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Santiago Rosas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yusef",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Juan Guaidó",
+        "relacion": "OPERAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Juan Guaidó",
+        "relacion": "OPERAR",
+        "objeto": "Bukele"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "OPERAR",
+        "objeto": "Bukele"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PARTICIPAR_HABER_CORROBORAR",
+        "objeto": "Sarah Hanna"
+      },
+      {
+        "sujeto": "Miguel Sabal",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Miguel Arvelo"
+      },
+      {
+        "sujeto": "Miguel Sabal",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Tomás Hernández"
+      },
+      {
+        "sujeto": "Roddy Rodríguez",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Miguel Sabal"
+      },
+      {
+        "sujeto": "Miguel Sabal",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Santiago Rosas"
+      },
+      {
+        "sujeto": "Miguel Sabal",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Ernesto Herrera"
+      },
+      {
+        "sujeto": "Miguel Sabal",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Juan Carlos Gutiérrez"
+      },
+      {
+        "sujeto": "Miguel Sabal",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Lester Toledo"
+      },
+      {
+        "sujeto": "Roddy Rodríguez",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Miguel Arvelo"
+      },
+      {
+        "sujeto": "Miguel Arvelo",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Santiago Rosas"
+      },
+      {
+        "sujeto": "Miguel Arvelo",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Ernesto Herrera"
+      },
+      {
+        "sujeto": "Miguel Arvelo",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Juan Carlos Gutiérrez"
+      },
+      {
+        "sujeto": "Miguel Arvelo",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Lester Toledo"
+      },
+      {
+        "sujeto": "Roddy Rodríguez",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Tomás Hernández"
+      },
+      {
+        "sujeto": "Tomás Hernández",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Santiago Rosas"
+      },
+      {
+        "sujeto": "Tomás Hernández",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Ernesto Herrera"
+      },
+      {
+        "sujeto": "Tomás Hernández",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Juan Carlos Gutiérrez"
+      },
+      {
+        "sujeto": "Tomás Hernández",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Lester Toledo"
+      },
+      {
+        "sujeto": "Roddy Rodríguez",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Santiago Rosas"
+      },
+      {
+        "sujeto": "Roddy Rodríguez",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Ernesto Herrera"
+      },
+      {
+        "sujeto": "Roddy Rodríguez",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Juan Carlos Gutiérrez"
+      },
+      {
+        "sujeto": "Roddy Rodríguez",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Lester Toledo"
+      },
+      {
+        "sujeto": "Santiago Rosas",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Juan Carlos Gutiérrez"
+      },
+      {
+        "sujeto": "Santiago Rosas",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Lester Toledo"
+      },
+      {
+        "sujeto": "Ernesto Herrera",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Juan Carlos Gutiérrez"
+      },
+      {
+        "sujeto": "Ernesto Herrera",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Lester Toledo"
+      },
+      {
+        "sujeto": "Juan Carlos Gutiérrez",
+        "relacion": "SUPERVISAR_IDENTIFICAR",
+        "objeto": "Lester Toledo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4588,
+    "pos": 0.008,
+    "neu": 0.969,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

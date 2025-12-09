@@ -1,0 +1,965 @@
+{
+  "url": "https://www.telesurtv.net/oms-cataloga-a-la-politica-israeli-de-hambruna-en-gaza-como-crimen-de-guerra/",
+  "title": "OMS cataloga a la política israelí de hambruna en Gaza como crimen de guerra - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "conflicto destacado",
+    "Hambruna",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, instó a Israel a poner fin a lo que calificó como una “catástrofe” humanitaria en la Franja de Gaza, donde al menos 370 personas han muerto por malnutrición desde el inicio del genocidio contra la población.\n“Esta es una catástrofe que Israel podría haber prevenido y podría detener en cualquier momento”, declaró Tedros Adhanom Ghebreyesus el viernes en una rueda de prensa en la sede de la OMS en Ginebra, Suiza.\nEl funcionario señaló que la ONU declaró el 22 de agosto la existencia de hambruna en algunas zonas de la Franja de Gaza. Por su parte, Israel sostiene que no existe “hambruna” en el territorio palestino y responsabiliza a Hamás de haber saqueado la ayuda humanitaria.\nSegún Ghebreyesus, desde el inicio del asedio de Israel contra la Franja en octubre de 2023, “al menos 370 personas han fallecido por malnutrición en Gaza, de las cuales 300 en los últimos dos meses”.\n“Matar de hambre a civiles como método de guerra es un crimen de guerra y nunca puede ser tolerado”, señaló.\nEl Ministerio de Salud de Gaza, cuyas cifras son consideradas fiables por la ONU, informó el viernes que los hospitales de la Franja registraron tres nuevas muertes por desnutrición en las últimas 24 horas. Con estos casos, el número total de fallecimientos asciende a 373, incluidos 134 menores de edad.\nTras haber bloqueado en marzo el ingreso de ayuda humanitaria al enclave, Israel autorizó nuevamente su entrada en mayo. Sin embargo, diversas agencias humanitarias han calificado esta asistencia como insuficiente para atender las necesidades urgentes de la población.\nLa gente se está muriendo de hambre mientras que los alimentos que podrían salvarles se encuentran en camiones cerca”, lamentó el director de la OMS, afirmando que “matar de hambre a los habitantes de Gaza no hará que Israel sea más seguro y no facilitará la liberación de los rehenes”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/oms-cataloga-a-la-politica-israeli-de-hambruna-en-gaza-como-crimen-de-guerra/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 704,
+    "message_id": 103906,
+    "date": "2025-09-06T11:55:13+00:00",
+    "text": "teleSUR\nOMS cataloga a la política israelí de hambruna en Gaza como crimen de guerra\nhttps://www.telesurtv.net/oms-cataloga-a-la-politica-israeli-de-hambruna-en-gaza-como-crimen-de-guerra/",
+    "photo_path": null,
+    "views": 2099,
+    "reactions": {
+      "👍": 49,
+      "🤡": 5,
+      "👎": 1
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "el director general de la organización mundial de la salud (oms), tedros adhanom ghebreyesus, instó a israel a poner fin a lo que calificó como una “catástrofe” humanitaria en la franja de gaza, donde al menos 370 personas han muerto por malnutrición desde el inicio del genocidio contra la población. “esta es una catástrofe que israel podría haber prevenido y podría detener en cualquier momento”, declaró tedros adhanom ghebreyesus el viernes en una rueda de prensa en la sede de la oms en ginebra, suiza. el funcionario señaló que la onu declaró el 22 de agosto la existencia de hambruna en algunas zonas de la franja de gaza. por su parte, israel sostiene que no existe “hambruna” en el territorio palestino y responsabiliza a hamás de haber saqueado la ayuda humanitaria. según ghebreyesus, desde el inicio del asedio de israel contra la franja en octubre de 2023, “al menos 370 personas han fallecido por malnutrición en gaza, de las cuales 300 en los últimos dos meses”. “matar de hambre a civiles como método de guerra es un crimen de guerra y nunca puede ser tolerado”, señaló. el ministerio de salud de gaza, cuyas cifras son consideradas fiables por la onu, informó el viernes que los hospitales de la franja registraron tres nuevas muertes por desnutrición en las últimas 24 horas. con estos casos, el número total de fallecimientos asciende a 373, incluidos 134 menores de edad. tras haber bloqueado en marzo el ingreso de ayuda humanitaria al enclave, israel autorizó nuevamente su entrada en mayo. sin embargo, diversas agencias humanitarias han calificado esta asistencia como insuficiente para atender las necesidades urgentes de la población. la gente se está muriendo de hambre mientras que los alimentos que podrían salvarles se encuentran en camiones cerca”, lamentó el director de la oms, afirmando que “matar de hambre a los habitantes de gaza no hará que israel sea más seguro y no facilitará la liberación de los rehenes”.",
+    "tokens": [
+      "director",
+      "general",
+      "organización",
+      "mundial",
+      "salud",
+      "(",
+      "oms",
+      ")",
+      ",",
+      "tedros",
+      "adhanom",
+      "ghebreyesus",
+      ",",
+      "instó",
+      "israel",
+      "poner",
+      "fin",
+      "calificó",
+      "“",
+      "catástrofe",
+      "”",
+      "humanitaria",
+      "franja",
+      "gaza",
+      ",",
+      "menos",
+      "370",
+      "personas",
+      "muerto",
+      "malnutrición",
+      "inicio",
+      "genocidio",
+      "población",
+      ".",
+      "“",
+      "catástrofe",
+      "israel",
+      "podría",
+      "haber",
+      "prevenido",
+      "podría",
+      "detener",
+      "cualquier",
+      "momento",
+      "”",
+      ",",
+      "declaró",
+      "tedros",
+      "adhanom",
+      "ghebreyesus",
+      "viernes",
+      "rueda",
+      "prensa",
+      "sede",
+      "oms",
+      "ginebra",
+      ",",
+      "suiza",
+      ".",
+      "funcionario",
+      "señaló",
+      "onu",
+      "declaró",
+      "22",
+      "agosto",
+      "existencia",
+      "hambruna",
+      "zonas",
+      "franja",
+      "gaza",
+      ".",
+      "parte",
+      ",",
+      "israel",
+      "sostiene",
+      "existe",
+      "“",
+      "hambruna",
+      "”",
+      "territorio",
+      "palestino",
+      "responsabiliza",
+      "hamás",
+      "haber",
+      "saqueado",
+      "ayuda",
+      "humanitaria",
+      ".",
+      "según",
+      "ghebreyesus",
+      ",",
+      "inicio",
+      "asedio",
+      "israel",
+      "franja",
+      "octubre",
+      "2023",
+      ",",
+      "“",
+      "menos",
+      "370",
+      "personas",
+      "fallecido",
+      "malnutrición",
+      "gaza",
+      ",",
+      "cuales",
+      "300",
+      "últimos",
+      "dos",
+      "meses",
+      "”",
+      ".",
+      "“",
+      "matar",
+      "hambre",
+      "civiles",
+      "método",
+      "guerra",
+      "crimen",
+      "guerra",
+      "nunca",
+      "puede",
+      "ser",
+      "tolerado",
+      "”",
+      ",",
+      "señaló",
+      ".",
+      "ministerio",
+      "salud",
+      "gaza",
+      ",",
+      "cuyas",
+      "cifras",
+      "consideradas",
+      "fiables",
+      "onu",
+      ",",
+      "informó",
+      "viernes",
+      "hospitales",
+      "franja",
+      "registraron",
+      "tres",
+      "nuevas",
+      "muertes",
+      "desnutrición",
+      "últimas",
+      "24",
+      "horas",
+      ".",
+      "casos",
+      ",",
+      "número",
+      "total",
+      "fallecimientos",
+      "asciende",
+      "373",
+      ",",
+      "incluidos",
+      "134",
+      "menores",
+      "edad",
+      ".",
+      "tras",
+      "haber",
+      "bloqueado",
+      "marzo",
+      "ingreso",
+      "ayuda",
+      "humanitaria",
+      "enclave",
+      ",",
+      "israel",
+      "autorizó",
+      "nuevamente",
+      "entrada",
+      "mayo",
+      ".",
+      "embargo",
+      ",",
+      "diversas",
+      "agencias",
+      "humanitarias",
+      "calificado",
+      "asistencia",
+      "insuficiente",
+      "atender",
+      "necesidades",
+      "urgentes",
+      "población",
+      ".",
+      "gente",
+      "muriendo",
+      "hambre",
+      "mientras",
+      "alimentos",
+      "podrían",
+      "salvarles",
+      "encuentran",
+      "camiones",
+      "cerca",
+      "”",
+      ",",
+      "lamentó",
+      "director",
+      "oms",
+      ",",
+      "afirmando",
+      "“",
+      "matar",
+      "hambre",
+      "habitantes",
+      "gaza",
+      "hará",
+      "israel",
+      "seguro",
+      "facilitará",
+      "liberación",
+      "rehenes",
+      "”",
+      "."
+    ],
+    "token_count": 223,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 53,
+      "NN": 88,
+      "JJ": 25,
+      "FW": 71,
+      "IN": 20,
+      "VBD": 3,
+      "CD": 8,
+      "NNS": 23,
+      "VBP": 11,
+      "VBZ": 5,
+      "VB": 1,
+      "JJR": 1,
+      "DT": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 16,
+      "NN-JJ": 3,
+      "JJ-NNP": 3,
+      "NNP-FW": 10,
+      "FW-NNP": 15,
+      "NNP-NNP": 17,
+      "NN-NNP": 10,
+      "NN-NN": 50,
+      "JJ-NN": 11,
+      "NN-IN": 8,
+      "IN-FW": 10,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 4,
+      "NNS-JJ": 3,
+      "JJ-VBP": 1,
+      "VBP-JJ": 6,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 1,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "IN-JJR": 1,
+      "JJR-NN": 1,
+      "NN-NNS": 7,
+      "NNS-IN": 6,
+      "IN-JJ": 1,
+      "FW-FW": 41,
+      "CD-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 3,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "FW-NN": 4,
+      "NNP-IN": 3,
+      "IN-NNP": 4,
+      "NNP-JJ": 1,
+      "NN-FW": 4,
+      "VBZ-FW": 1,
+      "FW-JJ": 4,
+      "FW-CD": 2,
+      "CD-IN": 2,
+      "IN-NNS": 2,
+      "NNS-CD": 2,
+      "JJ-JJ": 3,
+      "FW-NNS": 5,
+      "IN-NN": 2,
+      "NNS-NNP": 2,
+      "NNS-VBP": 8,
+      "VBP-FW": 1,
+      "JJ-NNS": 4,
+      "VBP-NNS": 1,
+      "JJ-FW": 2,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-RB": 1,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "JJ-CD": 1,
+      "NNS-FW": 1,
+      "VBP-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-DT": 1,
+      "VBZ-DT": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-FW": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 29,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 4,
+      "FW-NNP-FW": 6,
+      "FW-NNP-NN": 4,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-NNP": 7,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-IN-JJR": 1,
+      "IN-JJR-NN": 1,
+      "JJR-NN-NN": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NN-NNS": 4,
+      "NN-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 30,
+      "FW-FW-NNP": 4,
+      "NNP-NN-VBD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-CD": 2,
+      "FW-CD-IN": 1,
+      "CD-IN-NNS": 1,
+      "IN-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 3,
+      "IN-FW-JJ": 2,
+      "NNP-NNP-IN": 1,
+      "IN-NNP-FW": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "NNS-VBP-VBP": 1,
+      "VBP-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-FW-NN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "FW-FW-NN": 1,
+      "JJ-FW-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 71,
+        "NNP": 53,
+        "JJ": 25,
+        "NNS": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 41,
+        "NNP-NNP": 17,
+        "NNP-NN": 16,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 30,
+        "NN-NN-NN": 29,
+        "NNP-NNP-NNP": 8,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 85,
+      "VP": 26,
+      "ADJP": 2,
+      "PP": 11
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 5,
+        "weight": 0.037
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.037
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('OMS', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "S -> NP NP ('la', 'FW') NP ('la', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') VP VP ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP VP ('370', 'CD') NP ADJP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('director', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('general', 'JJ') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0074
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El director"
+      },
+      {
+        "label": "NP",
+        "text": "general de"
+      },
+      {
+        "label": "NP",
+        "text": "Organización Mundial de"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "OMS"
+      },
+      {
+        "label": "NP",
+        "text": "Tedros Adhanom Ghebreyesus"
+      },
+      {
+        "label": "VP",
+        "text": "instó a Israel a poner"
+      },
+      {
+        "label": "NP",
+        "text": "a Israel"
+      },
+      {
+        "label": "NP",
+        "text": "a poner"
+      },
+      {
+        "label": "VP",
+        "text": "fin a lo que calificó como una “ catástrofe ” humanitaria en"
+      },
+      {
+        "label": "NP",
+        "text": "a lo que calificó como"
+      },
+      {
+        "label": "NP",
+        "text": "una “ catástrofe ” humanitaria en"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "donde al"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP director/NN)\n  (NP general/JJ de/NNP)\n  la/FW\n  (NP Organización/NNP Mundial/NNP de/NNP)\n  la/FW\n  (NP Salud/NNP)\n  (/(\n  (NP OMS/NNP)\n  )/)\n  ,/,\n  (NP Tedros/NNP Adhanom/NNP Ghebreyesus/NNP)\n  ,/,\n  (VP instó/VBZ (NP a/DT Israel/NNP) (NP a/DT poner/NN))\n  (VP\n    fin/VBZ\n    (NP a/DT lo/JJ que/NN calificó/NN como/NN)\n    (NP una/JJ “/NNP catástrofe/NN ”/NNP humanitaria/NN en/NN))\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP donde/NN al/NN)\n  (VP menos/VBD)\n  370/CD\n  (NP personas/NNS)\n  (ADJP han/JJ)\n  (VP\n    muerto/VBP\n    (NP\n      por/JJ\n      malnutrición/NN\n      desde/NN\n      el/NN\n      inicio/NN\n      del/NN\n      genocidio/NN\n      contra/NN\n      la/NN\n      población/NN))\n  ./.)",
+      "(S\n  (NP “/NN Esta/NNP)\n  (VP es/VBZ (NP una/JJ catástrofe/NN que/NN Israel/NNP))\n  (VP podría/VBZ)\n  (VP haber/VB (NP prevenido/JJ y/NN podría/NN detener/NN))\n  (PP en/IN (NP cualquier/JJR momento/NN ”/NN))\n  ,/,\n  (NP\n    declaró/NN\n    Tedros/NNP\n    Adhanom/NNP\n    Ghebreyesus/NNP\n    el/NN\n    viernes/NNS)\n  (PP en/IN (NP una/JJ rueda/NN))\n  de/IN\n  prensa/FW\n  en/FW\n  la/FW\n  sede/FW\n  de/FW\n  la/FW\n  (NP OMS/NNP)\n  en/FW\n  (NP Ginebra/NNP)\n  ,/,\n  (NP Suiza/NNP)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    funcionario/NN\n    señaló/NN\n    que/NN\n    la/NN\n    ONU/NNP\n    declaró/NN)\n  (VP el/VBD)\n  22/CD\n  de/FW\n  agosto/FW\n  la/FW\n  existencia/FW\n  de/FW\n  hambruna/FW\n  en/FW\n  algunas/FW\n  zonas/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP Israel/NNP sostiene/NNP)\n  (VP que/VBZ (NP no/DT existe/NN))\n  (VP “/VBZ (NP hambruna/JJ ”/NNP))\n  en/FW\n  el/FW\n  (NP territorio/NN palestino/NN y/NN)\n  (VP responsabiliza/VBZ (NP a/DT Hamás/NNP))\n  (PP de/IN (NP haber/NNP))\n  (NP saqueado/JJ la/NN ayuda/NN humanitaria/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP Ghebreyesus/NNP)\n  ,/,\n  (NP desde/NN el/NN inicio/NN del/NN asedio/NN)\n  (PP de/IN (NP Israel/NNP contra/NNP la/NNP Franja/NNP))\n  en/FW\n  octubre/FW\n  de/FW\n  2023/CD\n  ,/,\n  (NP “/NNP)\n  (VP al/VBZ)\n  menos/$\n  370/CD\n  (NP personas/NNS)\n  (NP han/JJ fallecido/JJ por/NN malnutrición/NN)\n  (PP en/IN (NP Gaza/NNP))\n  ,/,\n  de/FW\n  las/FW\n  (NP cuales/NNS)\n  300/CD\n  (PP en/IN (NP los/NN últimos/NNP dos/NN meses/NNS))\n  (VP ”/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          1426,
+          1433
+        ],
+        "start": 1426,
+        "end": 1433
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "rueda de prensa",
+        "position": [
+          453,
+          468
+        ],
+        "start": 453,
+        "end": 468
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          400,
+          407
+        ],
+        "start": 400,
+        "end": 407
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1170,
+          1177
+        ],
+        "start": 1170,
+        "end": 1177
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambruna en algunas zonas de la franja de gaza",
+        "position": [
+          583,
+          629
+        ],
+        "start": 583,
+        "end": 629
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          759,
+          776
+        ],
+        "start": 759,
+        "end": 776
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "catástrofe” humanitaria",
+        "position": [
+          149,
+          172
+        ],
+        "start": 149,
+        "end": 172
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambre mientras que los alimentos",
+        "position": [
+          1691,
+          1724
+        ],
+        "start": 1691,
+        "end": 1724
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          538,
+          541
+        ],
+        "start": 538,
+        "end": 541
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oms",
+        "position": [
+          60,
+          63
+        ],
+        "start": 60,
+        "end": 63
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "autorizó",
+        "position": [
+          1474,
+          1482
+        ],
+        "start": 1474,
+        "end": 1482
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1518,
+          1525
+        ],
+        "start": 1518,
+        "end": 1525
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "370 personas",
+        "position": [
+          210,
+          222
+        ],
+        "start": 210,
+        "end": 222
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ginebra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Suiza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tedros Adhanom Ghebreyesus",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OMS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Organización Mundial de la Salud",
+        "relacion": "INSTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Organización Mundial de la Salud",
+        "relacion": "INSTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "OMS",
+        "relacion": "INSTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "OMS",
+        "relacion": "INSTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Tedros Adhanom Ghebreyesus",
+        "relacion": "INSTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Tedros Adhanom Ghebreyesus",
+        "relacion": "INSTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INSTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PREVENIR_DECLARAR",
+        "objeto": "Tedros Adhanom Ghebreyesus"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PREVENIR_DECLARAR",
+        "objeto": "OMS"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PREVENIR_DECLARAR",
+        "objeto": "Ginebra"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PREVENIR_DECLARAR",
+        "objeto": "Suiza"
+      },
+      {
+        "sujeto": "Tedros Adhanom Ghebreyesus",
+        "relacion": "DECLARAR",
+        "objeto": "OMS"
+      },
+      {
+        "sujeto": "Tedros Adhanom Ghebreyesus",
+        "relacion": "DECLARAR",
+        "objeto": "Ginebra"
+      },
+      {
+        "sujeto": "Tedros Adhanom Ghebreyesus",
+        "relacion": "DECLARAR",
+        "objeto": "Suiza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DECLARAR_SE_ALAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "SOSTENER",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "FALLECER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Franja",
+        "relacion": "FALLECER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Ministerio de Salud de Gaza",
+        "relacion": "INFORMAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CONSIDERAR_INFORMAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "OMS",
+        "relacion": "LAMENTAR_AFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LAMENTAR_AFIRMAR",
+        "objeto": "OMS"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MATAR_HACER_AFIRMAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.0,
+    "neu": 0.968,
+    "neg": 0.032,
+    "label": "negative"
+  }
+}

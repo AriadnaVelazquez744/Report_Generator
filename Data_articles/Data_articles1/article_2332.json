@@ -1,0 +1,850 @@
+{
+  "url": "https://www.telesurtv.net/avanzan-comicios-anticipados-en-belarus-pese-a-interferencias-y-campanas-de-occidente/",
+  "title": "Avanzan comicios anticipados en Belarús pese a interferencias y campañas de Occidente - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Alexander Lukashenko",
+    "Belarus",
+    "elecciones",
+    "Interferencias",
+    "Occidente",
+    "participación",
+    "votaciones"
+  ],
+  "text": "Este viernes, Belarús se encuentra en el cuarto día consecutivo de votación anticipada para las elecciones presidenciales, con participación de aproximadamente el 27 por ciento del electorado a pocas jornadas del día principal de elecciones, programado para el próximo domingo, en medio de un clima de paz que no han logrado empañar intentos de interferencia ni campañas promovidas por Occidente.\nLEA TAMBIÉN:Elecciones presidenciales de Belarús transcurren con tranquilidad\nLas autoridades bielorrusas implementaron esta semana de votación anticipada con el objetivo de facilitar la participación ciudadana, considerando que muchas familias tienen planes durante el fin de semana.\nLos primeros días de votación vieron largas colas en los puntos de votación, aunque este viernes la afluencia disminuyó debido a las inclemencias del tiempo, con fuertes nevadas y lluvias.\nEn total, más de 5.000 puntos de votación están operativos en todo el país, supervisados por más de 44.000 observadores nacionales y cerca de 480 observadores internacionales provenientes de 48 países, entre ellos el Consejo Nacional Electoral venezolano.\n\n\nCinco candidatos están compitiendo en estas elecciones: el actual presidente Aleksandr Lukashenko; Aleksandr Hiznyak del Partido Republicano de Trabajo y Justicia; Alek Gaydukevich del Partido Liberal Democrático; Ana Kanapatskaya, empresaria individual; y Sergei Serinkov del Partido Comunista.\nDurante los comicios se han registrado intentos de interferencia electoral por parte de Occidente, que promueve una intensa guerra mediática en redes sociales contra el Gobierno bielorruso, con mensajes instando a no votar, difundidos a través de plataformas como Facebook y YouTube.\nLa Comisión Europea comunicó días atrás su intención de no reconocer los resultados electorales una vez finalizada la votación. Cerca de las fronteras de Belarús hay presencia de tropas de la Organización del Tratado del Atlántico Norte (OTAN), principalmente polacas.\nAdemás, en fecha reciente el exsecretario de Estado de los EE.UU., Antony Blinken, aseguró que la Casa Blanca no reconocería los resultados electorales. Pese a estas amenazas, los ciudadanos bielorrusos continúan apoyando el proceso electoral.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/avanzan-comicios-anticipados-en-belarus-pese-a-interferencias-y-campanas-de-occidente/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 527,
+    "message_id": 85305,
+    "date": "2025-01-24T18:55:12+00:00",
+    "text": "teleSUR\nAvanzan comicios anticipados en Belarús pese a interferencias y campañas de Occidente\nhttps://www.telesurtv.net/avanzan-comicios-anticipados-en-belarus-pese-a-interferencias-y-campanas-de-occidente/",
+    "photo_path": null,
+    "views": 2392,
+    "reactions": {
+      "👍": 35,
+      "❤": 5,
+      "🖕": 2
+    },
+    "total_reactions": 42
+  },
+  "preprocessing": {
+    "cleaned": "este viernes, belarús se encuentra en el cuarto día consecutivo de votación anticipada para las elecciones presidenciales, con participación de aproximadamente el 27 por ciento del electorado a pocas jornadas del día principal de elecciones, programado para el próximo domingo, en medio de un clima de paz que no han logrado empañar intentos de interferencia ni campañas promovidas por occidente. las autoridades bielorrusas implementaron esta semana de votación anticipada con el objetivo de facilitar la participación ciudadana, considerando que muchas familias tienen planes durante el fin de semana. los primeros días de votación vieron largas colas en los puntos de votación, aunque este viernes la afluencia disminuyó debido a las inclemencias del tiempo, con fuertes nevadas y lluvias. en total, más de 5.000 puntos de votación están operativos en todo el país, supervisados por más de 44.000 observadores nacionales y cerca de 480 observadores internacionales provenientes de 48 países, entre ellos el consejo nacional electoral venezolano. cinco candidatos están compitiendo en estas elecciones: el actual presidente aleksandr lukashenko; aleksandr hiznyak del partido republicano de trabajo y justicia; alek gaydukevich del partido liberal democrático; ana kanapatskaya, empresaria individual; y sergei serinkov del partido comunista. durante los comicios se han registrado intentos de interferencia electoral por parte de occidente, que promueve una intensa guerra mediática en redes sociales contra el gobierno bielorruso, con mensajes instando a no votar, difundidos a través de plataformas como facebook y youtube. la comisión europea comunicó días atrás su intención de no reconocer los resultados electorales una vez finalizada la votación. cerca de las fronteras de belarús hay presencia de tropas de la organización del tratado del atlántico norte (otan), principalmente polacas. además, en fecha reciente el exsecretario de estado de los ee.uu., antony blinken, aseguró que la casa blanca no reconocería los resultados electorales. pese a estas amenazas, los ciudadanos bielorrusos continúan apoyando el proceso electoral.",
+    "tokens": [
+      "viernes",
+      ",",
+      "belarús",
+      "encuentra",
+      "cuarto",
+      "día",
+      "consecutivo",
+      "votación",
+      "anticipada",
+      "elecciones",
+      "presidenciales",
+      ",",
+      "participación",
+      "aproximadamente",
+      "27",
+      "ciento",
+      "electorado",
+      "pocas",
+      "jornadas",
+      "día",
+      "principal",
+      "elecciones",
+      ",",
+      "programado",
+      "próximo",
+      "domingo",
+      ",",
+      "medio",
+      "clima",
+      "paz",
+      "logrado",
+      "empañar",
+      "intentos",
+      "interferencia",
+      "campañas",
+      "promovidas",
+      "occidente",
+      ".",
+      "autoridades",
+      "bielorrusas",
+      "implementaron",
+      "semana",
+      "votación",
+      "anticipada",
+      "objetivo",
+      "facilitar",
+      "participación",
+      "ciudadana",
+      ",",
+      "considerando",
+      "muchas",
+      "familias",
+      "planes",
+      "fin",
+      "semana",
+      ".",
+      "primeros",
+      "días",
+      "votación",
+      "vieron",
+      "largas",
+      "colas",
+      "puntos",
+      "votación",
+      ",",
+      "aunque",
+      "viernes",
+      "afluencia",
+      "disminuyó",
+      "debido",
+      "inclemencias",
+      "tiempo",
+      ",",
+      "fuertes",
+      "nevadas",
+      "lluvias",
+      ".",
+      "total",
+      ",",
+      "5.000",
+      "puntos",
+      "votación",
+      "operativos",
+      "país",
+      ",",
+      "supervisados",
+      "44.000",
+      "observadores",
+      "nacionales",
+      "cerca",
+      "480",
+      "observadores",
+      "internacionales",
+      "provenientes",
+      "48",
+      "países",
+      ",",
+      "consejo",
+      "nacional",
+      "electoral",
+      "venezolano",
+      ".",
+      "cinco",
+      "candidatos",
+      "compitiendo",
+      "elecciones",
+      ":",
+      "actual",
+      "presidente",
+      "aleksandr",
+      "lukashenko",
+      ";",
+      "aleksandr",
+      "hiznyak",
+      "partido",
+      "republicano",
+      "trabajo",
+      "justicia",
+      ";",
+      "alek",
+      "gaydukevich",
+      "partido",
+      "liberal",
+      "democrático",
+      ";",
+      "ana",
+      "kanapatskaya",
+      ",",
+      "empresaria",
+      "individual",
+      ";",
+      "sergei",
+      "serinkov",
+      "partido",
+      "comunista",
+      ".",
+      "comicios",
+      "registrado",
+      "intentos",
+      "interferencia",
+      "electoral",
+      "parte",
+      "occidente",
+      ",",
+      "promueve",
+      "intensa",
+      "guerra",
+      "mediática",
+      "redes",
+      "sociales",
+      "gobierno",
+      "bielorruso",
+      ",",
+      "mensajes",
+      "instando",
+      "votar",
+      ",",
+      "difundidos",
+      "través",
+      "plataformas",
+      "facebook",
+      "youtube",
+      ".",
+      "comisión",
+      "europea",
+      "comunicó",
+      "días",
+      "atrás",
+      "intención",
+      "reconocer",
+      "resultados",
+      "electorales",
+      "vez",
+      "finalizada",
+      "votación",
+      ".",
+      "cerca",
+      "fronteras",
+      "belarús",
+      "presencia",
+      "tropas",
+      "organización",
+      "tratado",
+      "atlántico",
+      "norte",
+      "(",
+      "otan",
+      ")",
+      ",",
+      "principalmente",
+      "polacas",
+      ".",
+      "además",
+      ",",
+      "fecha",
+      "reciente",
+      "exsecretario",
+      "ee.uu.",
+      ",",
+      "antony",
+      "blinken",
+      ",",
+      "aseguró",
+      "casa",
+      "blanca",
+      "reconocería",
+      "resultados",
+      "electorales",
+      ".",
+      "pese",
+      "amenazas",
+      ",",
+      "ciudadanos",
+      "bielorrusos",
+      "continúan",
+      "apoyando",
+      "proceso",
+      "electoral",
+      "."
+    ],
+    "token_count": 219,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 77,
+      "NNS": 23,
+      "NNP": 55,
+      "VBP": 15,
+      "JJ": 37,
+      "FW": 65,
+      "IN": 19,
+      "CD": 5,
+      "DT": 4,
+      "VBZ": 7,
+      "VBN": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NN-NNS": 5,
+      "NNS-NNP": 1,
+      "NNP-VBP": 2,
+      "VBP-JJ": 11,
+      "JJ-FW": 3,
+      "FW-FW": 34,
+      "FW-NN": 10,
+      "NN-NN": 33,
+      "NN-IN": 16,
+      "IN-FW": 8,
+      "FW-JJ": 6,
+      "JJ-NN": 19,
+      "NNS-NNS": 3,
+      "NNS-VBP": 13,
+      "VBP-NN": 2,
+      "NN-FW": 8,
+      "FW-CD": 2,
+      "CD-NN": 1,
+      "IN-JJ": 4,
+      "JJ-DT": 1,
+      "DT-NN": 4,
+      "NN-VBZ": 5,
+      "VBZ-JJ": 5,
+      "VBP-NNP": 1,
+      "NNP-NNP": 29,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 2,
+      "FW-NNP": 11,
+      "NNP-NNS": 2,
+      "JJ-NNP": 4,
+      "NN-VBN": 1,
+      "VBN-JJ": 1,
+      "JJ-NNS": 7,
+      "NNP-FW": 9,
+      "NN-JJ": 2,
+      "NNP-JJ": 1,
+      "IN-CD": 3,
+      "CD-NNS": 4,
+      "NNS-FW": 1,
+      "VBP-IN": 1,
+      "NNS-JJ": 4,
+      "NNS-IN": 1,
+      "JJ-JJ": 2,
+      "NN-NNP": 6,
+      "NNP-NN": 7,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "FW-NNS": 2,
+      "NN-DT": 1,
+      "IN-DT": 1,
+      "NNP-DT": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 15,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 8,
+      "IN-FW-JJ": 5,
+      "FW-JJ-NN": 5,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 24,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 6,
+      "FW-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 4,
+      "NN-VBZ-JJ": 4,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NNP": 16,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 2,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NNP": 3,
+      "JJ-NNP-NNS": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBN": 1,
+      "NN-VBN-JJ": 1,
+      "VBN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "VBP-JJ-NN": 6,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 3,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-CD": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "IN-JJ-NNS": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "IN-JJ-JJ": 1,
+      "NN-IN-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-JJ-NN": 1,
+      "NN-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-JJ": 2,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-FW-NNP": 4,
+      "NNP-FW-FW": 2,
+      "FW-NNP-NN": 1,
+      "IN-FW-FW": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "NN-NN-VBZ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "FW": 65,
+        "NNP": 55,
+        "JJ": 37,
+        "NNS": 23
+      },
+      "top_bigrams": {
+        "FW-FW": 34,
+        "NN-NN": 33,
+        "NNP-NNP": 29,
+        "JJ-NN": 19,
+        "NN-IN": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "NNP-NNP-NNP": 16,
+        "NN-NN-NN": 15,
+        "NNS-VBP-JJ": 9,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 87,
+      "ADJP": 3,
+      "VP": 20,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0469
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('Occidente', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "VP -> ('los', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('resultados', 'JJ') ('electorales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "S -> NP (',', ',') NP ('se', 'FW') ADJP ('en', 'FW') ('el', 'FW') NP ('de', 'IN') ('votación', 'FW') NP (',', ',') NP ('de', 'IN') ('aproximadamente', 'FW') ('el', 'FW') ('27', 'CD') NP VP ('principal', 'FW') ('de', 'FW') ('elecciones', 'FW') (',', ',') ('programado', 'FW') NP (',', ',') ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('un', 'FW') ('clima', 'FW') ('de', 'FW') ('paz', 'FW') NP NP VP ('de', 'IN') ('interferencia', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Belarús', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "ADJP -> ('encuentra', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "Belarús"
+      },
+      {
+        "label": "ADJP",
+        "text": "encuentra"
+      },
+      {
+        "label": "NP",
+        "text": "cuarto día consecutivo"
+      },
+      {
+        "label": "NP",
+        "text": "anticipada para las elecciones presidenciales"
+      },
+      {
+        "label": "NP",
+        "text": "con participación"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento del"
+      },
+      {
+        "label": "VP",
+        "text": "electorado a pocas jornadas del día"
+      },
+      {
+        "label": "NP",
+        "text": "a pocas jornadas del día"
+      },
+      {
+        "label": "NP",
+        "text": "para el próximo domingo"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "no han"
+      },
+      {
+        "label": "VP",
+        "text": "logrado empañar intentos"
+      },
+      {
+        "label": "NP",
+        "text": "empañar intentos"
+      },
+      {
+        "label": "NP",
+        "text": "ni campañas promovidas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN viernes/NNS)\n  ,/,\n  (NP Belarús/NNP)\n  se/FW\n  (ADJP encuentra/JJ)\n  en/FW\n  el/FW\n  (NP cuarto/NN día/NN consecutivo/NN)\n  de/IN\n  votación/FW\n  (NP anticipada/JJ para/NN las/NN elecciones/NNS presidenciales/NNS)\n  ,/,\n  (NP con/NN participación/NN)\n  de/IN\n  aproximadamente/FW\n  el/FW\n  27/CD\n  (NP por/NN ciento/NN del/NN)\n  (VP electorado/VBZ (NP a/DT pocas/NN jornadas/NN del/NN día/NN))\n  principal/FW\n  de/FW\n  elecciones/FW\n  ,/,\n  programado/FW\n  (NP para/NN el/NN próximo/NN domingo/NN)\n  ,/,\n  en/FW\n  medio/FW\n  de/FW\n  un/FW\n  clima/FW\n  de/FW\n  paz/FW\n  (NP que/NN)\n  (NP no/DT han/NN)\n  (VP logrado/VBZ (NP empañar/JJ intentos/NN))\n  de/IN\n  interferencia/FW\n  (NP ni/JJ campañas/NN promovidas/NNS)\n  (VP por/VBP (NP Occidente/NNP))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Elecciones/NNS presidenciales/NNS)\n  (PP de/IN (NP Belarús/NNP transcurren/NNS))\n  (VP con/VBP (NP tranquilidad/JJ Las/NNP autoridades/NNS))\n  (VP bielorrusas/VBP (NP implementaron/NN esta/NN semana/NN))\n  de/IN\n  votación/FW\n  (NP anticipada/JJ con/NN el/NN)\n  objetivo/FW\n  de/FW\n  facilitar/FW\n  la/FW\n  participación/FW\n  (NP ciudadana/NN)\n  ,/,\n  (NP considerando/NN que/NN muchas/NN)\n  (VP familias/VBN (NP tienen/JJ planes/NNS))\n  (VP durante/VBP (NP el/JJ fin/NN))\n  (PP de/IN (NP semana/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (NP primeros/JJ días/NN)\n  de/IN\n  votación/FW\n  (NP vieron/NN largas/NN colas/NN)\n  (PP en/IN (NP los/JJ puntos/NN))\n  de/IN\n  votación/FW\n  ,/,\n  (NP aunque/JJ este/NN viernes/NNS)\n  (VP\n    la/VBP\n    (NP afluencia/JJ disminuyó/NN debido/NN)\n    (NP a/DT las/JJ inclemencias/NN del/NN tiempo/NN))\n  ,/,\n  (NP con/NN fuertes/NNS)\n  (VP nevadas/VBP (NP y/JJ lluvias/NN))\n  ./.)",
+      "(S\n  (NP En/NNP total/NN)\n  ,/,\n  más/FW\n  de/FW\n  5.000/CD\n  (NP puntos/NN)\n  de/FW\n  votación/FW\n  están/FW\n  operativos/FW\n  en/FW\n  todo/FW\n  el/FW\n  (NP país/NN)\n  ,/,\n  (NP supervisados/JJ por/NN más/NN)\n  de/IN\n  44.000/CD\n  (NP observadores/NNS nacionales/NNS)\n  y/RB\n  (VP cerca/VBP)\n  de/FW\n  480/CD\n  (NP observadores/NNS)\n  (NP internacionales/JJ provenientes/NNS)\n  de/IN\n  48/CD\n  (NP países/NNS)\n  ,/,\n  entre/FW\n  ellos/FW\n  el/FW\n  (NP Consejo/NNP Nacional/NNP Electoral/NNP venezolano/NN)\n  ./.)",
+      "(S\n  (NP Cinco/NNP candidatos/NN están/NN compitiendo/NN)\n  (PP en/IN (NP estas/JJ elecciones/NNS))\n  :/:\n  (VP\n    el/VB\n    (NP actual/JJ presidente/NN Aleksandr/NNP Lukashenko/NNP))\n  ;/:\n  (NP Aleksandr/NNP Hiznyak/NNP)\n  del/FW\n  (NP Partido/NNP Republicano/NNP)\n  (PP de/IN (NP Trabajo/NNP y/NNP Justicia/NNP))\n  ;/:\n  (NP Alek/NNP Gaydukevich/NNP)\n  del/FW\n  (NP Partido/NNP Liberal/NNP Democrático/NNP)\n  ;/:\n  (NP Ana/NNP Kanapatskaya/NNP)\n  ,/,\n  (VP empresaria/VBP individual/JJ)\n  ;/:\n  y/CC\n  (NP Sergei/NNP Serinkov/NNP)\n  del/FW\n  (NP Partido/NNP Comunista/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra mediática en redes",
+        "position": [
+          1549,
+          1574
+        ],
+        "start": 1549,
+        "end": 1574
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1273,
+          1280
+        ],
+        "start": 1273,
+        "end": 1280
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "observadores nacionales y cerca de 480 observadores internacionales",
+        "position": [
+          978,
+          1045
+        ],
+        "start": 978,
+        "end": 1045
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          1729,
+          1737
+        ],
+        "start": 1729,
+        "end": 1737
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "participación ciudadana",
+        "position": [
+          584,
+          607
+        ],
+        "start": 584,
+        "end": 607
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente aleksandr lukashenko",
+        "position": [
+          1195,
+          1226
+        ],
+        "start": 1195,
+        "end": 1226
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "otan",
+        "position": [
+          1947,
+          1951
+        ],
+        "start": 1947,
+        "end": 1951
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          2023,
+          2032
+        ],
+        "start": 2023,
+        "end": 2032
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          517,
+          528
+        ],
+        "start": 517,
+        "end": 528
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 5.000",
+        "position": [
+          881,
+          893
+        ],
+        "start": 881,
+        "end": 893
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 puntos",
+        "position": [
+          890,
+          900
+        ],
+        "start": 890,
+        "end": 900
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 44.000",
+        "position": [
+          964,
+          977
+        ],
+        "start": 964,
+        "end": 977
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ana Kanapatskaya",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Antony Blinken",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Occidente",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "OTAN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Belarús",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Partido Comunista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización del Tratado del Atlántico Norte",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Aleksandr Lukashenko",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sergei Serinkov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alek Gaydukevich",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Partido Republicano de Trabajo y Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado de los EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno bielorruso",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Partido Liberal Democrático",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aleksandr Hiznyak",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Occidente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comisión Europea",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Belarús",
+        "relacion": "ENCONTRAR",
+        "objeto": "Occidente"
+      },
+      {
+        "sujeto": "Casa Blanca",
+        "relacion": "ASEGURAR",
+        "objeto": "Estado de los EE.UU."
+      },
+      {
+        "sujeto": "Casa Blanca",
+        "relacion": "ASEGURAR",
+        "objeto": "Antony Blinken"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7783,
+    "pos": 0.0,
+    "neu": 0.972,
+    "neg": 0.028,
+    "label": "negative"
+  }
+}

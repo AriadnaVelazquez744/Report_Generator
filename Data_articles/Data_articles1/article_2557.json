@@ -1,0 +1,860 @@
+{
+  "url": "https://www.telesurtv.net/camiones-de-ayuda-humanitaria-comienzan-a-cruzar-hacia-gaza/",
+  "title": "Camiones de ayuda humanitaria comienzan a cruzar hacia Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Acuerdo",
+    "Alto al Fuego",
+    "Ayuda Humanitaria",
+    "camiones",
+    "colaboradores",
+    "Egipto",
+    "Frontera",
+    "Gaza",
+    "Hamás",
+    "Israel",
+    "ONU",
+    "Palestina",
+    "PMA",
+    "Rafah"
+  ],
+  "text": "Los primeros vehículos de carga con ayuda humanitaria ingresaron al territorio de la Franja de Gaza poco después de que entrara en vigor el acuerdo de cese del fuego este domingo, informó el alto cargo de la Organización de las Naciones Unidas en los territorios palestinos ocupados, Jonathan Whittall.\nLEA TAMBIÉN\nIsrael ultimó a 19 personas durante retraso de alto al fuego en Gaza\nDe acuerdo a Whittall, los colaboradores humanitarios hicieron un gran esfuerzo en los días recientes para preparar la distribución de asistencia a lo largo de toda la Franja.\nPor su parte, el director de la Oficina de Coordinación de Asuntos Humanitarios de la ONU, Tom Fletcher, recalcó la importancia de asegurar el acceso de estas ayudas primordiales a las personas más vulnerables.\nMás de 200 camiones con 3.000 toneladas de ayuda, llevaban esperando en esta frontera desde hace una semana.\nSegún los términos obtenidos por Al Mayadeen, el pacto establece la entrada diaria de 600 camiones de apoyo bajo un protocolo humanitario patrocinado por Qatar, además de 200 mil tiendas de campaña y 60 mil casas rodantes para hospedaje de emergencia.\nLos camiones que comenzaron a cruzar hacia Gaza cuentan con alimentos y productos básicos, incluida agua potable, material sanitario e higiénico y tiendas de campaña.\nAsimismo, las autoridades egipcias afirman también que han puesto ya en alerta sus hospitales y equipos médicos, especialmente en Al Arish y Rafah, en el norte del Sinaí, con el objetivo de recibir a heridos y enfermos del enclave palestino durante el cese de hostilidades.\nLa noche anterior, el ministro de Relaciones Exteriores de Egipto, Badr Abdelatty, confirmó las facilidades de su gobierno para introducir la asistencia humanitaria a Gaza a través del paso limítrofe de Rafah con el país africano. Dicha apertura se produce tras una semana de espera, y menos de 24 horas después de la liberación de dos rehenes estadounidenses capturadas por Hamás.\nEl paso de Rafah era el principal camino para los suministros de Gaza, como el único paso que no estaba bajo control de Israel.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/camiones-de-ayuda-humanitaria-comienzan-a-cruzar-hacia-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 950,
+    "message_id": 84829,
+    "date": "2025-01-19T16:55:07+00:00",
+    "text": "teleSUR\nCamiones de ayuda humanitaria comienzan a cruzar hacia Gaza\nhttps://www.telesurtv.net/camiones-de-ayuda-humanitaria-comienzan-a-cruzar-hacia-gaza/",
+    "photo_path": null,
+    "views": 2806,
+    "reactions": {
+      "🙏": 55,
+      "👍": 20,
+      "❤": 11
+    },
+    "total_reactions": 86
+  },
+  "preprocessing": {
+    "cleaned": "los primeros vehículos de carga con ayuda humanitaria ingresaron al territorio de la franja de gaza poco después de que entrara en vigor el acuerdo de cese del fuego este domingo, informó el alto cargo de la organización de las naciones unidas en los territorios palestinos ocupados, jonathan whittall. de acuerdo a whittall, los colaboradores humanitarios hicieron un gran esfuerzo en los días recientes para preparar la distribución de asistencia a lo largo de toda la franja. por su parte, el director de la oficina de coordinación de asuntos humanitarios de la onu, tom fletcher, recalcó la importancia de asegurar el acceso de estas ayudas primordiales a las personas más vulnerables. más de 200 camiones con 3.000 toneladas de ayuda, llevaban esperando en esta frontera desde hace una semana. según los términos obtenidos por al mayadeen, el pacto establece la entrada diaria de 600 camiones de apoyo bajo un protocolo humanitario patrocinado por qatar, además de 200 mil tiendas de campaña y 60 mil casas rodantes para hospedaje de emergencia. los camiones que comenzaron a cruzar hacia gaza cuentan con alimentos y productos básicos, incluida agua potable, material sanitario e higiénico y tiendas de campaña. asimismo, las autoridades egipcias afirman también que han puesto ya en alerta sus hospitales y equipos médicos, especialmente en al arish y rafah, en el norte del sinaí, con el objetivo de recibir a heridos y enfermos del enclave palestino durante el cese de hostilidades. la noche anterior, el ministro de relaciones exteriores de egipto, badr abdelatty, confirmó las facilidades de su gobierno para introducir la asistencia humanitaria a gaza a través del paso limítrofe de rafah con el país africano. dicha apertura se produce tras una semana de espera, y menos de 24 horas después de la liberación de dos rehenes estadounidenses capturadas por hamás. el paso de rafah era el principal camino para los suministros de gaza, como el único paso que no estaba bajo control de israel.",
+    "tokens": [
+      "primeros",
+      "vehículos",
+      "carga",
+      "ayuda",
+      "humanitaria",
+      "ingresaron",
+      "territorio",
+      "franja",
+      "gaza",
+      "después",
+      "entrara",
+      "vigor",
+      "acuerdo",
+      "cese",
+      "fuego",
+      "domingo",
+      ",",
+      "informó",
+      "alto",
+      "cargo",
+      "organización",
+      "naciones",
+      "unidas",
+      "territorios",
+      "palestinos",
+      "ocupados",
+      ",",
+      "jonathan",
+      "whittall",
+      ".",
+      "acuerdo",
+      "whittall",
+      ",",
+      "colaboradores",
+      "humanitarios",
+      "hicieron",
+      "gran",
+      "esfuerzo",
+      "días",
+      "recientes",
+      "preparar",
+      "distribución",
+      "asistencia",
+      "largo",
+      "toda",
+      "franja",
+      ".",
+      "parte",
+      ",",
+      "director",
+      "oficina",
+      "coordinación",
+      "asuntos",
+      "humanitarios",
+      "onu",
+      ",",
+      "tom",
+      "fletcher",
+      ",",
+      "recalcó",
+      "importancia",
+      "asegurar",
+      "acceso",
+      "ayudas",
+      "primordiales",
+      "personas",
+      "vulnerables",
+      ".",
+      "200",
+      "camiones",
+      "3.000",
+      "toneladas",
+      "ayuda",
+      ",",
+      "llevaban",
+      "esperando",
+      "frontera",
+      "hace",
+      "semana",
+      ".",
+      "según",
+      "términos",
+      "obtenidos",
+      "mayadeen",
+      ",",
+      "pacto",
+      "establece",
+      "entrada",
+      "diaria",
+      "600",
+      "camiones",
+      "apoyo",
+      "bajo",
+      "protocolo",
+      "humanitario",
+      "patrocinado",
+      "qatar",
+      ",",
+      "además",
+      "200",
+      "mil",
+      "tiendas",
+      "campaña",
+      "60",
+      "mil",
+      "casas",
+      "rodantes",
+      "hospedaje",
+      "emergencia",
+      ".",
+      "camiones",
+      "comenzaron",
+      "cruzar",
+      "hacia",
+      "gaza",
+      "cuentan",
+      "alimentos",
+      "productos",
+      "básicos",
+      ",",
+      "incluida",
+      "agua",
+      "potable",
+      ",",
+      "material",
+      "sanitario",
+      "higiénico",
+      "tiendas",
+      "campaña",
+      ".",
+      "asimismo",
+      ",",
+      "autoridades",
+      "egipcias",
+      "afirman",
+      "puesto",
+      "alerta",
+      "hospitales",
+      "equipos",
+      "médicos",
+      ",",
+      "especialmente",
+      "arish",
+      "rafah",
+      ",",
+      "norte",
+      "sinaí",
+      ",",
+      "objetivo",
+      "recibir",
+      "heridos",
+      "enfermos",
+      "enclave",
+      "palestino",
+      "cese",
+      "hostilidades",
+      ".",
+      "noche",
+      "anterior",
+      ",",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      "egipto",
+      ",",
+      "badr",
+      "abdelatty",
+      ",",
+      "confirmó",
+      "facilidades",
+      "gobierno",
+      "introducir",
+      "asistencia",
+      "humanitaria",
+      "gaza",
+      "través",
+      "paso",
+      "limítrofe",
+      "rafah",
+      "país",
+      "africano",
+      ".",
+      "dicha",
+      "apertura",
+      "produce",
+      "tras",
+      "semana",
+      "espera",
+      ",",
+      "menos",
+      "24",
+      "horas",
+      "después",
+      "liberación",
+      "dos",
+      "rehenes",
+      "estadounidenses",
+      "capturadas",
+      "hamás",
+      ".",
+      "paso",
+      "rafah",
+      "principal",
+      "camino",
+      "suministros",
+      "gaza",
+      ",",
+      "único",
+      "paso",
+      "bajo",
+      "control",
+      "israel",
+      "."
+    ],
+    "token_count": 213,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "JJ": 27,
+      "NN": 96,
+      "IN": 19,
+      "FW": 95,
+      "NNS": 15,
+      "VBP": 8,
+      "VBD": 3,
+      "CD": 7,
+      "VBZ": 4,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 18,
+      "NN-IN": 16,
+      "IN-FW": 10,
+      "FW-NN": 7,
+      "NN-NN": 53,
+      "FW-NNP": 18,
+      "NNP-FW": 13,
+      "FW-FW": 59,
+      "NN-JJ": 5,
+      "NNP-NNP": 16,
+      "FW-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "JJ-NNP": 3,
+      "NNP-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 4,
+      "NNS-JJ": 2,
+      "JJ-FW": 3,
+      "NN-FW": 8,
+      "NNP-NN": 13,
+      "NN-NNS": 4,
+      "VBP-NN": 2,
+      "IN-JJ": 3,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "VBD-JJ": 1,
+      "JJ-JJ": 1,
+      "FW-JJ": 4,
+      "JJ-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-IN": 1,
+      "IN-CD": 2,
+      "NNS-VBD": 1,
+      "CD-NN": 2,
+      "NN-NNP": 6,
+      "NNP-VBZ": 1,
+      "JJ-IN": 1,
+      "FW-CD": 3,
+      "NNS-FW": 2,
+      "CD-JJ": 1,
+      "NNP-NNS": 1,
+      "NNS-NN": 1,
+      "FW-VBP": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NNP": 4,
+      "NN-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-NNS": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 9,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 30,
+      "NN-NN-IN": 6,
+      "IN-FW-NNP": 5,
+      "FW-NNP-FW": 8,
+      "NNP-FW-NNP": 5,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 43,
+      "FW-FW-NN": 3,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 5,
+      "NNP-FW-FW": 5,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-FW": 5,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 4,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 9,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 2,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-JJ-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 5,
+      "NNP-NN-IN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "NNP-FW-NNS": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "NNP-FW-JJ": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 95,
+        "NNP": 49,
+        "JJ": 27,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 59,
+        "NN-NN": 53,
+        "JJ-NN": 18,
+        "FW-NNP": 18,
+        "NN-IN": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 43,
+        "NN-NN-NN": 30,
+        "NN-IN-FW": 9,
+        "NNP-NN-NN": 9,
+        "FW-NNP-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 88,
+      "VP": 16,
+      "PP": 9,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0476
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('camiones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('semana', 'NN')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('carga', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('poco', 'FW') NP ('de', 'IN') ('que', 'FW') ('entrara', 'FW') ('en', 'FW') ('vigor', 'FW') ('el', 'FW') ('acuerdo', 'FW') ('de', 'FW') ('cese', 'FW') ('del', 'FW') NP (',', ',') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') ('las', 'FW') NP ('en', 'FW') ('los', 'FW') NP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('primeros', 'JJ') ('vehículos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('con', 'NN') ('ayuda', 'NN') ('humanitaria', 'NN') ('ingresaron', 'NN') ('al', 'NN') ('territorio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "NP",
+        "text": "primeros vehículos"
+      },
+      {
+        "label": "NP",
+        "text": "con ayuda humanitaria ingresaron al territorio"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "después"
+      },
+      {
+        "label": "NP",
+        "text": "fuego este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "informó el alto cargo"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "territorios"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos ocupados"
+      },
+      {
+        "label": "NP",
+        "text": "Jonathan Whittall"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Israel"
+      },
+      {
+        "label": "VP",
+        "text": "ultimó"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP)\n  (NP primeros/JJ vehículos/NN)\n  de/IN\n  carga/FW\n  (NP\n    con/NN\n    ayuda/NN\n    humanitaria/NN\n    ingresaron/NN\n    al/NN\n    territorio/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  poco/FW\n  (NP después/NN)\n  de/IN\n  que/FW\n  entrara/FW\n  en/FW\n  vigor/FW\n  el/FW\n  acuerdo/FW\n  de/FW\n  cese/FW\n  del/FW\n  (NP fuego/NN este/NN domingo/NN)\n  ,/,\n  (NP informó/JJ el/NN alto/NN cargo/NN)\n  de/IN\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  en/FW\n  los/FW\n  (NP territorios/NNS)\n  (VP palestinos/VBP ocupados/RB)\n  ,/,\n  (NP Jonathan/NNP Whittall/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Israel/NNP)\n  (VP ultimó/VBD)\n  a/DT\n  19/CD\n  (NP personas/NN durante/NN retraso/NN)\n  de/IN\n  alto/FW\n  (NP al/JJ fuego/NN)\n  en/FW\n  (NP Gaza/NNP De/NNP)\n  acuerdo/FW\n  (NP a/DT Whittall/NNP)\n  ,/,\n  (NP los/NN colaboradores/NNS)\n  (VP humanitarios/VBP (NP hicieron/NN un/NN gran/NN esfuerzo/NN))\n  (PP en/IN (NP los/JJ días/NN))\n  (VP recientes/VBZ (NP para/JJ preparar/NN la/NN))\n  distribución/FW\n  de/FW\n  asistencia/FW\n  (NP a/DT lo/JJ largo/NN)\n  de/IN\n  toda/FW\n  la/FW\n  (NP Franja/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP el/JJ director/NN)\n  de/IN\n  la/FW\n  (NP Oficina/NNP)\n  de/FW\n  (NP Coordinación/NNP)\n  de/FW\n  (NP Asuntos/NNP Humanitarios/NNP)\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  ,/,\n  (NP Tom/NNP Fletcher/NNP)\n  ,/,\n  (NP recalcó/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  asegurar/FW\n  el/FW\n  acceso/FW\n  de/FW\n  estas/FW\n  (NP ayudas/NNS)\n  (VP\n    primordiales/VBZ\n    (NP a/DT las/JJ personas/NN más/NN vulnerables/NNS))\n  ./.)",
+      "(S\n  (NP Más/NNP)\n  de/FW\n  200/CD\n  (NP camiones/NNS)\n  (VP con/VBD)\n  3.000/CD\n  (NP toneladas/NN)\n  de/FW\n  ayuda/FW\n  ,/,\n  llevaban/FW\n  esperando/FW\n  en/FW\n  esta/FW\n  (NP frontera/NN desde/NN hace/NN)\n  (NP una/JJ semana/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP los/VBZ términos/JJ)\n  (PP obtenidos/IN (NP por/JJ Al/NNP Mayadeen/NNP))\n  ,/,\n  el/FW\n  pacto/FW\n  establece/FW\n  la/FW\n  entrada/FW\n  diaria/FW\n  de/FW\n  600/CD\n  (NP camiones/NNS)\n  de/FW\n  apoyo/FW\n  bajo/FW\n  (NP\n    un/JJ\n    protocolo/NN\n    humanitario/NN\n    patrocinado/NN\n    por/NN\n    Qatar/NNP)\n  ,/,\n  (NP además/NN)\n  de/FW\n  200/CD\n  (NP mil/NNS)\n  tiendas/FW\n  de/FW\n  campaña/FW\n  y/CC\n  60/CD\n  (NP mil/NN casas/NN)\n  (VP rodantes/VBZ (NP para/JJ hospedaje/NN))\n  de/IN\n  emergencia/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "cese de hostilidades",
+        "position": [
+          1551,
+          1571
+        ],
+        "start": 1551,
+        "end": 1571
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "onu, tom fletcher, recalcó la importancia",
+        "position": [
+          646,
+          687
+        ],
+        "start": 646,
+        "end": 687
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          180,
+          187
+        ],
+        "start": 180,
+        "end": 187
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          36,
+          53
+        ],
+        "start": 36,
+        "end": 53
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          1595,
+          1628
+        ],
+        "start": 1595,
+        "end": 1628
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          208,
+          243
+        ],
+        "start": 208,
+        "end": 243
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1232,
+          1236
+        ],
+        "start": 1232,
+        "end": 1236
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          1232,
+          1244
+        ],
+        "start": 1232,
+        "end": 1244
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "19 personas",
+        "position": [
+          331,
+          342
+        ],
+        "start": 331,
+        "end": 342
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "200 mil",
+        "position": [
+          1051,
+          1058
+        ],
+        "start": 1051,
+        "end": 1058
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 200",
+        "position": [
+          771,
+          781
+        ],
+        "start": 771,
+        "end": 781
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gaza\nDe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sinaí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Relaciones Exteriores de Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Badr Abdelatty",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Whittall",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "paso de Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jonathan Whittall",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al Mayadeen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Qatar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina de Coordinación de Asuntos Humanitarios de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tom Fletcher",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Arish",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "INGRESAR_INFORMAR",
+        "objeto": "Organización de las Naciones Unidas"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "INGRESAR_INFORMAR",
+        "objeto": "Jonathan Whittall"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ULTIMAR",
+        "objeto": "Gaza\nDe"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ULTIMAR",
+        "objeto": "Whittall"
+      },
+      {
+        "sujeto": "Al Mayadeen",
+        "relacion": "ESTABLECER",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "Relaciones Exteriores de Egipto",
+        "relacion": "CONFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Relaciones Exteriores de Egipto",
+        "relacion": "CONFIRMAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Badr Abdelatty",
+        "relacion": "CONFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Badr Abdelatty",
+        "relacion": "CONFIRMAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "INTRODUCIR_CONFIRMAR",
+        "objeto": "Rafah"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.0258,
+    "pos": 0.006,
+    "neu": 0.987,
+    "neg": 0.007,
+    "label": "neutral"
+  }
+}

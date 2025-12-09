@@ -1,0 +1,760 @@
+{
+  "url": "https://www.telesurtv.net/ee-uu-destruye-hospital-oncologico-de-saada-en-yemen-con-un-segundo-ataque/",
+  "title": "EE. UU. destruye Hospital Oncológico de Saada, en Yemen, con un segundo ataque - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque aéreo",
+    "Bombardeo EEUU",
+    "Hospital Oncológico Al-Rasool al-Azam",
+    "Saada"
+  ],
+  "text": "En comunicado oficial, el Ministerio de Salud y Medio Ambiente de Yemen confirmó que, aviones de guerra estadounidenses bombardearon la víspera directamente el Hospital Oncológico Al-Rasool al-Azam en Saada por segunda ocasión, lo que dejó como saldo dos lesionados y la destrucción de la sede sanitaria.\n\nLEA TAMBIÉN\nEE.UU. intensifica bombardeos criminales contra Yemen en Saada\n\nEl documento denuncia el ataque deliberado contra instalaciones civiles y de servicio, al tiempo que lo califica como un crimen de guerra, porque viola todas las leyes y convenciones internacionales. Asimismo, define la agresión como “otro acto criminal más de EE. UU., que se suma a su negro historial de atrocidades contra la tierra y el pueblo de Yemen”.\nAl respecto, el comunicado convoca a la comunidad internacional, las organizaciones humanitarias y de salud, sobre todo a las que documentan crímenes de guerra contra población civil, a asumir una postura firme contra el hecho.\n\n\nA la par, el Sector de Derechos Humanos en la provincia de Saada también patentizó su rechazo a la continua agresión estadounidense contra el hospital. En tanto, enfatizó que impactar instalaciones civiles representa una flagrante violación de todas las leyes y tratados internacionales y humanitarios.\nPrevio a este suceso, las fuerzas estadounidense lanzaron 13 ataques aéreos contra la instalación hace menos de una semana, lo que causó una daños catastróficos a sus instalaciones vitales. Frente a esto, también se pronunció el Fondo para el Control del Cáncer.\nLa nota indica que este ataque aéreo forma parte de ejecuciones sistemáticas, destinadas a eliminar la esperanza y aniquilar la vida en medio de un bloque asfixiante. Además, responsabiliza a Estados Unidos por este crimen e insta a las Naciones Unidas, la Organización Mundial de la Salud y la Cruz Roja a tomar medidas urgentes para detener este tipo de incursiones militares.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ee-uu-destruye-hospital-oncologico-de-saada-en-yemen-con-un-segundo-ataque/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 381,
+    "message_id": 90299,
+    "date": "2025-03-26T18:55:07+00:00",
+    "text": "teleSUR\nEE. UU. destruye Hospital Oncológico de Saada, en Yemen, con un segundo ataque\nhttps://www.telesurtv.net/ee-uu-destruye-hospital-oncologico-de-saada-en-yemen-con-un-segundo-ataque/",
+    "photo_path": null,
+    "views": 1281,
+    "reactions": {
+      "🤬": 42,
+      "💩": 5,
+      "😈": 1
+    },
+    "total_reactions": 48
+  },
+  "preprocessing": {
+    "cleaned": "en comunicado oficial, el ministerio de salud y medio ambiente de yemen confirmó que, aviones de guerra estadounidenses bombardearon la víspera directamente el hospital oncológico al-rasool al-azam en saada por segunda ocasión, lo que dejó como saldo dos lesionados y la destrucción de la sede sanitaria. el documento denuncia el ataque deliberado contra instalaciones civiles y de servicio, al tiempo que lo califica como un crimen de guerra, porque viola todas las leyes y convenciones internacionales. asimismo, define la agresión como “otro acto criminal más de ee. uu., que se suma a su negro historial de atrocidades contra la tierra y el pueblo de yemen”. al respecto, el comunicado convoca a la comunidad internacional, las organizaciones humanitarias y de salud, sobre todo a las que documentan crímenes de guerra contra población civil, a asumir una postura firme contra el hecho. a la par, el sector de derechos humanos en la provincia de saada también patentizó su rechazo a la continua agresión estadounidense contra el hospital. en tanto, enfatizó que impactar instalaciones civiles representa una flagrante violación de todas las leyes y tratados internacionales y humanitarios. previo a este suceso, las fuerzas estadounidense lanzaron 13 ataques aéreos contra la instalación hace menos de una semana, lo que causó una daños catastróficos a sus instalaciones vitales. frente a esto, también se pronunció el fondo para el control del cáncer. la nota indica que este ataque aéreo forma parte de ejecuciones sistemáticas, destinadas a eliminar la esperanza y aniquilar la vida en medio de un bloque asfixiante. además, responsabiliza a estados unidos por este crimen e insta a las naciones unidas, la organización mundial de la salud y la cruz roja a tomar medidas urgentes para detener este tipo de incursiones militares.",
+    "tokens": [
+      "comunicado",
+      "oficial",
+      ",",
+      "ministerio",
+      "salud",
+      "medio",
+      "ambiente",
+      "yemen",
+      "confirmó",
+      ",",
+      "aviones",
+      "guerra",
+      "estadounidenses",
+      "bombardearon",
+      "víspera",
+      "directamente",
+      "hospital",
+      "oncológico",
+      "al-rasool",
+      "al-azam",
+      "saada",
+      "segunda",
+      "ocasión",
+      ",",
+      "dejó",
+      "saldo",
+      "dos",
+      "lesionados",
+      "destrucción",
+      "sede",
+      "sanitaria",
+      ".",
+      "documento",
+      "denuncia",
+      "ataque",
+      "deliberado",
+      "instalaciones",
+      "civiles",
+      "servicio",
+      ",",
+      "tiempo",
+      "califica",
+      "crimen",
+      "guerra",
+      ",",
+      "viola",
+      "todas",
+      "leyes",
+      "convenciones",
+      "internacionales",
+      ".",
+      "asimismo",
+      ",",
+      "define",
+      "agresión",
+      "“",
+      "acto",
+      "criminal",
+      "ee",
+      ".",
+      "uu.",
+      ",",
+      "suma",
+      "negro",
+      "historial",
+      "atrocidades",
+      "tierra",
+      "pueblo",
+      "yemen",
+      "”",
+      ".",
+      "respecto",
+      ",",
+      "comunicado",
+      "convoca",
+      "comunidad",
+      "internacional",
+      ",",
+      "organizaciones",
+      "humanitarias",
+      "salud",
+      ",",
+      "documentan",
+      "crímenes",
+      "guerra",
+      "población",
+      "civil",
+      ",",
+      "asumir",
+      "postura",
+      "firme",
+      "hecho",
+      ".",
+      "par",
+      ",",
+      "sector",
+      "derechos",
+      "humanos",
+      "provincia",
+      "saada",
+      "patentizó",
+      "rechazo",
+      "continua",
+      "agresión",
+      "estadounidense",
+      "hospital",
+      ".",
+      ",",
+      "enfatizó",
+      "impactar",
+      "instalaciones",
+      "civiles",
+      "representa",
+      "flagrante",
+      "violación",
+      "todas",
+      "leyes",
+      "tratados",
+      "internacionales",
+      "humanitarios",
+      ".",
+      "previo",
+      "suceso",
+      ",",
+      "fuerzas",
+      "estadounidense",
+      "lanzaron",
+      "13",
+      "ataques",
+      "aéreos",
+      "instalación",
+      "hace",
+      "menos",
+      "semana",
+      ",",
+      "causó",
+      "daños",
+      "catastróficos",
+      "instalaciones",
+      "vitales",
+      ".",
+      "frente",
+      ",",
+      "pronunció",
+      "fondo",
+      "control",
+      "cáncer",
+      ".",
+      "nota",
+      "indica",
+      "ataque",
+      "aéreo",
+      "forma",
+      "parte",
+      "ejecuciones",
+      "sistemáticas",
+      ",",
+      "destinadas",
+      "eliminar",
+      "esperanza",
+      "aniquilar",
+      "vida",
+      "medio",
+      "bloque",
+      "asfixiante",
+      ".",
+      "además",
+      ",",
+      "responsabiliza",
+      "unidos",
+      "crimen",
+      "insta",
+      "naciones",
+      "unidas",
+      ",",
+      "organización",
+      "mundial",
+      "salud",
+      "cruz",
+      "roja",
+      "tomar",
+      "medidas",
+      "urgentes",
+      "detener",
+      "tipo",
+      "incursiones",
+      "militares",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "VBZ": 5,
+      "JJ": 30,
+      "NN": 101,
+      "IN": 11,
+      "FW": 54,
+      "NNS": 20,
+      "VBP": 11,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NN": 18,
+      "NN-NNP": 7,
+      "NNP-IN": 2,
+      "IN-NNP": 4,
+      "NNP-NNP": 17,
+      "NNP-FW": 5,
+      "FW-NNP": 7,
+      "NNP-NN": 13,
+      "NN-NN": 58,
+      "NN-NNS": 9,
+      "NNS-IN": 4,
+      "IN-NN": 3,
+      "NNS-VBP": 5,
+      "VBP-NN": 2,
+      "NN-VBP": 3,
+      "VBP-NNP": 2,
+      "NNP-JJ": 1,
+      "NN-FW": 6,
+      "FW-FW": 36,
+      "VBP-NNS": 1,
+      "NN-JJ": 11,
+      "JJ-NNS": 4,
+      "NNS-NNS": 4,
+      "NNS-FW": 2,
+      "FW-NN": 7,
+      "IN-FW": 3,
+      "JJ-JJ": 4,
+      "NNS-NNP": 2,
+      "NN-IN": 5,
+      "FW-JJ": 4,
+      "JJ-FW": 2,
+      "VBP-JJ": 6,
+      "JJ-VBP": 1,
+      "NNS-VBZ": 1,
+      "VBZ-VBP": 1,
+      "NN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-VBP": 1,
+      "VBZ-NNP": 1,
+      "JJ-NNP": 1,
+      "NN-VBZ": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNS": 6,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 33,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 26,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NNS": 3,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-NNS-NNP": 2,
+      "NNS-NNP-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "NN-JJ-NN": 7,
+      "JJ-NN-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "FW-NN-JJ": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-NN-NNP": 3,
+      "NNP-FW-FW": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNS-VBP-JJ": 2,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-FW-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-JJ-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 101,
+        "FW": 54,
+        "NNP": 42,
+        "JJ": 30,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 36,
+        "JJ-NN": 18,
+        "NNP-NNP": 17,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 26,
+        "NNP-NN-NN": 12,
+        "NN-NN-JJ": 8,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 84,
+      "PP": 7,
+      "VP": 21,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.031
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "S -> NP (',', ',') ('el', 'FW') NP ('de', 'FW') NP ('y', 'CC') NP ('de', 'FW') NP (',', ',') NP PP VP VP (',', ',') NP ('la', 'FW') ('destrucción', 'FW') ('de', 'FW') ('la', 'FW') ('sede', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('comunicado', 'NN') ('oficial', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Medio', 'NNP') ('Ambiente', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP') ('confirmó', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('aviones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En comunicado oficial"
+      },
+      {
+        "label": "NP",
+        "text": "Ministerio"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Medio Ambiente"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen confirmó que"
+      },
+      {
+        "label": "NP",
+        "text": "aviones"
+      },
+      {
+        "label": "PP",
+        "text": "de guerra estadounidenses"
+      },
+      {
+        "label": "NP",
+        "text": "guerra estadounidenses"
+      },
+      {
+        "label": "VP",
+        "text": "bombardearon la víspera directamente"
+      },
+      {
+        "label": "NP",
+        "text": "la víspera directamente"
+      },
+      {
+        "label": "VP",
+        "text": "el Hospital Oncológico Al-Rasool al-Azam en Saada por segunda ocasión"
+      },
+      {
+        "label": "NP",
+        "text": "Hospital Oncológico Al-Rasool"
+      },
+      {
+        "label": "NP",
+        "text": "al-Azam en Saada por segunda ocasión"
+      },
+      {
+        "label": "NP",
+        "text": "lo que dejó como saldo dos lesionados y"
+      },
+      {
+        "label": "NP",
+        "text": "sanitaria"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP comunicado/NN oficial/NN)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  y/CC\n  (NP Medio/NNP Ambiente/NNP)\n  de/FW\n  (NP Yemen/NNP confirmó/NN que/NN)\n  ,/,\n  (NP aviones/NNS)\n  (PP de/IN (NP guerra/NN estadounidenses/NNS))\n  (VP bombardearon/VBP (NP la/NN víspera/NN directamente/NN))\n  (VP\n    el/VBP\n    (NP Hospital/NNP Oncológico/NNP Al-Rasool/NNP)\n    (NP al-Azam/JJ en/NN Saada/NNP por/NN segunda/NN ocasión/NN))\n  ,/,\n  (NP\n    lo/JJ\n    que/NN\n    dejó/NN\n    como/NN\n    saldo/NN\n    dos/NN\n    lesionados/NN\n    y/NN)\n  la/FW\n  destrucción/FW\n  de/FW\n  la/FW\n  sede/FW\n  (NP sanitaria/NN)\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    EE.UU./NNP\n    intensifica/NN\n    bombardeos/NN\n    criminales/NNS)\n  (VP contra/VBP (NP Yemen/NNS))\n  (PP en/IN (NP Saada/NNP El/NNP))\n  (VP\n    documento/VBZ\n    (NP denuncia/JJ el/NN ataque/NN deliberado/NN)\n    (NP contra/JJ instalaciones/NNS civiles/NNS))\n  y/FW\n  de/FW\n  servicio/FW\n  ,/,\n  al/FW\n  (NP tiempo/JJ que/NN lo/NN califica/NN como/NN)\n  (NP un/JJ crimen/NNS)\n  (PP de/IN (NP guerra/NN))\n  ,/,\n  (NP porque/NN viola/NN todas/NN)\n  (NP las/JJ leyes/NNS)\n  (VP y/VBP (NP convenciones/NNS internacionales/NNS))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP define/NN la/NN)\n  (PP agresión/IN (NP como/NN))\n  “/FW\n  otro/FW\n  acto/FW\n  (NP criminal/JJ más/NN)\n  (PP de/IN (NP EE/NNP))\n  ./.)",
+      "(S\n  (NP UU./NNP)\n  ,/,\n  (NP que/NN se/NN)\n  (VP suma/VBD (NP a/DT su/NN) (NP negro/JJ historial/NN))\n  de/FW\n  atrocidades/FW\n  (ADJP contra/JJ)\n  la/FW\n  tierra/FW\n  y/FW\n  el/FW\n  pueblo/FW\n  de/FW\n  (NP Yemen/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Al/NNP respecto/NN)\n  ,/,\n  el/FW\n  (NP comunicado/NN convoca/NN)\n  (NP a/DT la/NN)\n  (ADJP comunidad/JJ)\n  (ADJP internacional/JJ)\n  ,/,\n  (NP las/JJ organizaciones/NNS)\n  (ADJP humanitarias/JJ)\n  y/FW\n  de/FW\n  salud/FW\n  ,/,\n  sobre/FW\n  (VP\n    todo/VBZ\n    (NP a/DT las/JJ que/NN)\n    (NP documentan/JJ crímenes/NNS))\n  de/IN\n  guerra/FW\n  (NP contra/JJ población/NN)\n  (ADJP civil/JJ)\n  ,/,\n  (NP a/DT asumir/JJ una/JJ postura/NN firme/NN)\n  (NP contra/JJ el/NN hecho/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "JUSTICIA_SOCIAL",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          1560,
+          1572
+        ],
+        "start": 1560,
+        "end": 1572
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra estadounidenses bombardearon la víspera directamente el hospital oncológico al-rasool al-azam en saada",
+        "position": [
+          97,
+          206
+        ],
+        "start": 97,
+        "end": 206
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "derechos humanos en la provincia de saada también patentizó su rechazo a la continua agresión estadounidense contra el hospital. en tanto, enfatizó que impactar instalaciones civiles representa una flagrante violación",
+        "position": [
+          993,
+          1210
+        ],
+        "start": 993,
+        "end": 1210
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "crímenes de guerra contra población civil",
+        "position": [
+          881,
+          922
+        ],
+        "start": 881,
+        "end": 922
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1773,
+          1788
+        ],
+        "start": 1773,
+        "end": 1788
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          160,
+          168
+        ],
+        "start": 160,
+        "end": 168
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1728,
+          1742
+        ],
+        "start": 1728,
+        "end": 1742
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          1016,
+          1028
+        ],
+        "start": 1016,
+        "end": 1028
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital oncológico",
+        "position": [
+          160,
+          179
+        ],
+        "start": 160,
+        "end": 179
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          993,
+          1009
+        ],
+        "start": 993,
+        "end": 1009
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Oncológico Al-Rasool al-Azam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización Mundial de la Salud y la Cruz Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "EE. UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud y Medio Ambiente de Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sector de Derechos Humanos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo para el Control del Cáncer",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saada",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Saada",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud y Medio Ambiente de Yemen",
+        "relacion": "CONFIRMAR",
+        "objeto": "Hospital Oncológico Al-Rasool al-Azam"
+      },
+      {
+        "sujeto": "Ministerio de Salud y Medio Ambiente de Yemen",
+        "relacion": "CONFIRMAR",
+        "objeto": "Saada"
+      },
+      {
+        "sujeto": "Hospital Oncológico Al-Rasool al-Azam",
+        "relacion": "BOMBARDEAR_CONFIRMAR",
+        "objeto": "Saada"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Saada"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "RESPONSABILIZAR",
+        "objeto": "Naciones Unidas"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "RESPONSABILIZAR",
+        "objeto": "Organización Mundial de la Salud y la Cruz Roja"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.988,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,710 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-agradece-a-mexico-su-rechazo-a-medidas-de-donald-trump/",
+  "title": "Venezuela agradece a México su rechazo a medidas de Donald Trump - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "medidas de Donald Trump",
+    "México",
+    "Venezuela"
+  ],
+  "text": "\nEl ministro de Relaciones Exteriores, Yván Gil, expresó este martes el agradecimiento a la presidenta de México, Claudia Sheinbaum,  por el rechazo a las medidas unilaterales impuestas por el Gobierno de Estados Unidos (EE.UU.) a Venezuela.\n“En nombre del Presidente Nicolás Maduro, expresamos nuestro agradecimiento por el mensaje de la presidenta de México, Claudia Sheinbaum, quien ha rechazado la medida ilegal del Gobierno de Donald Trump de imponer aranceles del 25 por ciento, a los países que adquieran petróleo o gas de Venezuela”, manifestó el ministro.\nAsimismo, el ministro aseguró que la presidenta realizó un análisis acertado al referir “que estas sanciones económicas impactan negativamente a pueblos enteros”.\nEl representante de la diplomacia venezolana, alegó que estas medidas presentan un carácter ilegal y unilateral, y que son acciones contrarias al derecho internacional, y que la intención del Gobierno norteamericano es “revivir la fallida campaña de máxima presión de 2017”.\nEn este sentido, aseguró que “Venezuela superará este desafío”.\nEn la jornada, la mandataria manifestó ante la prensa que la postura que asumirá es la mantenida históricamente por la nación azteca, de no estar de acuerdo a este tipo de medidas coercitivas y fundamentó que estas acciones dañan a las poblaciones y no a sus gobiernos.\n“No estamos de acuerdo con que se impongan sanciones económicas a los países. Es un principio constitucional y de nuestra política exterior. No solo afectan a un gobierno, sino a todo un pueblo”, manifestó la presidenta.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-agradece-a-mexico-su-rechazo-a-medidas-de-donald-trump/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 363,
+    "message_id": 90318,
+    "date": "2025-03-26T21:55:23+00:00",
+    "text": "teleSUR\nVenezuela agradece a México su rechazo a medidas de Donald Trump\nhttps://www.telesurtv.net/venezuela-agradece-a-mexico-su-rechazo-a-medidas-de-donald-trump/",
+    "photo_path": null,
+    "views": 1149,
+    "reactions": {
+      "👍": 41,
+      "🥰": 1,
+      "🤣": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "el ministro de relaciones exteriores, yván gil, expresó este martes el agradecimiento a la presidenta de méxico, claudia sheinbaum, por el rechazo a las medidas unilaterales impuestas por el gobierno de estados unidos (ee.uu.) a venezuela. “en nombre del presidente nicolás maduro, expresamos nuestro agradecimiento por el mensaje de la presidenta de méxico, claudia sheinbaum, quien ha rechazado la medida ilegal del gobierno de donald trump de imponer aranceles del 25 por ciento, a los países que adquieran petróleo o gas de venezuela”, manifestó el ministro. asimismo, el ministro aseguró que la presidenta realizó un análisis acertado al referir “que estas sanciones económicas impactan negativamente a pueblos enteros”. el representante de la diplomacia venezolana, alegó que estas medidas presentan un carácter ilegal y unilateral, y que son acciones contrarias al derecho internacional, y que la intención del gobierno norteamericano es “revivir la fallida campaña de máxima presión de 2017”. en este sentido, aseguró que “venezuela superará este desafío”. en la jornada, la mandataria manifestó ante la prensa que la postura que asumirá es la mantenida históricamente por la nación azteca, de no estar de acuerdo a este tipo de medidas coercitivas y fundamentó que estas acciones dañan a las poblaciones y no a sus gobiernos. “no estamos de acuerdo con que se impongan sanciones económicas a los países. es un principio constitucional y de nuestra política exterior. no solo afectan a un gobierno, sino a todo un pueblo”, manifestó la presidenta.",
+    "tokens": [
+      "ministro",
+      "relaciones",
+      "exteriores",
+      ",",
+      "yván",
+      "gil",
+      ",",
+      "expresó",
+      "martes",
+      "agradecimiento",
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "rechazo",
+      "medidas",
+      "unilaterales",
+      "impuestas",
+      "gobierno",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "venezuela",
+      ".",
+      "“",
+      "nombre",
+      "presidente",
+      "nicolás",
+      "maduro",
+      ",",
+      "expresamos",
+      "agradecimiento",
+      "mensaje",
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "rechazado",
+      "medida",
+      "ilegal",
+      "gobierno",
+      "donald",
+      "trump",
+      "imponer",
+      "aranceles",
+      "25",
+      "ciento",
+      ",",
+      "países",
+      "adquieran",
+      "petróleo",
+      "gas",
+      "venezuela",
+      "”",
+      ",",
+      "manifestó",
+      "ministro",
+      ".",
+      "asimismo",
+      ",",
+      "ministro",
+      "aseguró",
+      "presidenta",
+      "realizó",
+      "análisis",
+      "acertado",
+      "referir",
+      "“",
+      "sanciones",
+      "económicas",
+      "impactan",
+      "negativamente",
+      "pueblos",
+      "enteros",
+      "”",
+      ".",
+      "representante",
+      "diplomacia",
+      "venezolana",
+      ",",
+      "alegó",
+      "medidas",
+      "presentan",
+      "carácter",
+      "ilegal",
+      "unilateral",
+      ",",
+      "acciones",
+      "contrarias",
+      "derecho",
+      "internacional",
+      ",",
+      "intención",
+      "gobierno",
+      "norteamericano",
+      "“",
+      "revivir",
+      "fallida",
+      "campaña",
+      "máxima",
+      "presión",
+      "2017",
+      "”",
+      ".",
+      ",",
+      "aseguró",
+      "“",
+      "venezuela",
+      "superará",
+      "desafío",
+      "”",
+      ".",
+      "jornada",
+      ",",
+      "mandataria",
+      "manifestó",
+      "prensa",
+      "postura",
+      "asumirá",
+      "mantenida",
+      "históricamente",
+      "nación",
+      "azteca",
+      ",",
+      "acuerdo",
+      "tipo",
+      "medidas",
+      "coercitivas",
+      "fundamentó",
+      "acciones",
+      "dañan",
+      "poblaciones",
+      "gobiernos",
+      ".",
+      "“",
+      "acuerdo",
+      "impongan",
+      "sanciones",
+      "económicas",
+      "países",
+      ".",
+      "principio",
+      "constitucional",
+      "política",
+      "exterior",
+      ".",
+      "solo",
+      "afectan",
+      "gobierno",
+      ",",
+      "sino",
+      "pueblo",
+      "”",
+      ",",
+      "manifestó",
+      "presidenta",
+      "."
+    ],
+    "token_count": 162,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "NN": 80,
+      "IN": 10,
+      "VBZ": 3,
+      "NNS": 12,
+      "VBP": 9,
+      "FW": 44,
+      "JJ": 27,
+      "CD": 2,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-IN": 8,
+      "IN-NNP": 2,
+      "NNP-NNP": 14,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-NNS": 6,
+      "NNS-VBP": 9,
+      "VBP-IN": 1,
+      "IN-FW": 6,
+      "FW-FW": 22,
+      "FW-NNP": 8,
+      "NN-NN": 44,
+      "VBP-JJ": 7,
+      "JJ-NNS": 6,
+      "JJ-NNP": 2,
+      "NNP-FW": 9,
+      "FW-IN": 1,
+      "IN-NN": 1,
+      "NN-FW": 6,
+      "FW-JJ": 2,
+      "JJ-FW": 1,
+      "FW-NN": 10,
+      "VBP-CD": 1,
+      "CD-NN": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-NN": 12,
+      "NN-JJ": 10,
+      "JJ-JJ": 6,
+      "NNS-NNP": 2,
+      "NN-NNP": 3,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "IN-DT": 1,
+      "DT-NN": 3,
+      "NNS-DT": 1,
+      "VBZ-DT": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 24,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNS": 3,
+      "JJ-NNS-VBP": 4,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 4,
+      "FW-FW-IN": 1,
+      "FW-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNS": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 2,
+      "IN-NNP-FW": 1,
+      "FW-NN-NN": 6,
+      "NN-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NNS": 3,
+      "VBP-JJ-JJ": 3,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "FW-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-IN": 2,
+      "IN-FW-NN": 3,
+      "JJ-NNS-DT": 1,
+      "NNS-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 80,
+        "FW": 44,
+        "NNP": 33,
+        "JJ": 27,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 44,
+        "FW-FW": 22,
+        "NNP-NNP": 14,
+        "JJ-NN": 12,
+        "FW-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "FW-FW-FW": 13,
+        "NNP-NNP-NNP": 8,
+        "NN-NN-JJ": 8,
+        "NNS-VBP-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 70,
+      "PP": 5,
+      "VP": 14,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 3,
+        "weight": 0.03
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "PP -> ('agradecimiento', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('el', 'NN')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP PP (',', ',') NP (',', ',') NP VP PP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP VP ('de', 'FW') NP ('(', '(') NP (')', ')') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('ministro', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Relaciones', 'NNP') ('Exteriores', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Yván', 'NNP') ('Gil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El ministro"
+      },
+      {
+        "label": "PP",
+        "text": "de Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Yván Gil"
+      },
+      {
+        "label": "NP",
+        "text": "expresó este martes"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "PP",
+        "text": "agradecimiento a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "por el"
+      },
+      {
+        "label": "VP",
+        "text": "rechazo a las medidas unilaterales"
+      },
+      {
+        "label": "NP",
+        "text": "a las medidas unilaterales"
+      },
+      {
+        "label": "VP",
+        "text": "impuestas por el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "por el Gobierno"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP ministro/NN)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  ,/,\n  (NP Yván/NNP Gil/NNP)\n  ,/,\n  (NP expresó/JJ este/NN martes/NNS)\n  (VP el/VBP)\n  (PP agradecimiento/IN (NP a/DT la/NN))\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP por/NN el/NN)\n  (VP rechazo/VBZ (NP a/DT las/JJ medidas/NN unilaterales/NNS))\n  (VP impuestas/VBP (NP por/JJ el/JJ Gobierno/NNP))\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (NP a/DT Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP “/NN En/NNP)\n  nombre/FW\n  del/FW\n  (NP Presidente/NNP Nicolás/NNP Maduro/NNP)\n  ,/,\n  expresamos/FW\n  nuestro/FW\n  (PP agradecimiento/IN (NP por/NN el/NN))\n  mensaje/FW\n  de/FW\n  la/FW\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP quien/NN ha/NN rechazado/NN la/NN)\n  medida/FW\n  (ADJP ilegal/JJ)\n  del/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Donald/NNP Trump/NNP)\n  de/FW\n  (NP imponer/NN aranceles/NNS)\n  (VP del/VBP)\n  25/CD\n  (NP por/NN ciento/NN)\n  ,/,\n  (NP a/DT los/NN)\n  (VP países/VBZ (NP que/JJ adquieran/NN petróleo/NN))\n  (PP o/IN (NP gas/NN))\n  de/FW\n  (NP Venezuela/NNP ”/NNP)\n  ,/,\n  (NP manifestó/NN el/NN ministro/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  el/FW\n  ministro/FW\n  aseguró/FW\n  (NP que/NN)\n  la/FW\n  presidenta/FW\n  (NP realizó/NN)\n  (NP\n    un/JJ\n    análisis/NN\n    acertado/NN\n    al/NN\n    referir/NN\n    “/NNP\n    que/NN\n    estas/NNS\n    sanciones/NNS)\n  (VP económicas/VBP impactan/JJ)\n  negativamente/FW\n  (NP a/DT pueblos/NN enteros/NN ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP representante/NN)\n  de/FW\n  la/FW\n  diplomacia/FW\n  (NP venezolana/NN)\n  ,/,\n  (NP alegó/JJ que/NN estas/NNS)\n  (VP\n    medidas/VBP\n    (NP presentan/JJ un/JJ carácter/NN)\n    ilegal/JJ\n    y/JJ\n    unilateral/JJ)\n  ,/,\n  (NP y/JJ que/NN son/NN acciones/NNS)\n  (VP contrarias/VBP (NP al/JJ derecho/JJ internacional/NN))\n  ,/,\n  y/FW\n  (NP que/NN)\n  la/FW\n  (NP\n    intención/JJ\n    del/NN\n    Gobierno/NNP\n    norteamericano/NN\n    es/NN\n    “/NNP\n    revivir/NN\n    la/NN)\n  (NP fallida/JJ campaña/NN)\n  de/IN\n  máxima/FW\n  presión/FW\n  de/FW\n  2017/CD\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (NP aseguró/JJ que/NN “/NNP Venezuela/NNP)\n  (VP superará/VBD (NP este/NN desafío/NN ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          542,
+          551
+        ],
+        "start": 542,
+        "end": 551
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con que se impongan sanciones económicas a los países. es un principio constitucional y de",
+        "position": [
+          1352,
+          1450
+        ],
+        "start": 1352,
+        "end": 1450
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "mensaje de la presidenta de méxico, claudia sheinbaum, quien ha rechazado la medida ilegal del gobierno",
+        "position": [
+          325,
+          428
+        ],
+        "start": 325,
+        "end": 428
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          49,
+          56
+        ],
+        "start": 49,
+        "end": 56
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "sanciones económicas a los países. es un principio constitucional y de nuestra política exterior. no solo afectan a un gobierno, sino a todo un pueblo",
+        "position": [
+          1380,
+          1530
+        ],
+        "start": 1380,
+        "end": 1530
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          193,
+          219
+        ],
+        "start": 193,
+        "end": 219
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          92,
+          112
+        ],
+        "start": 92,
+        "end": 112
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          4,
+          37
+        ],
+        "start": 4,
+        "end": 37
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          205,
+          219
+        ],
+        "start": 205,
+        "end": 219
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          106,
+          112
+        ],
+        "start": 106,
+        "end": 112
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          231,
+          240
+        ],
+        "start": 231,
+        "end": 240
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Estados Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Donald Trump",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno norteamericano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Presidente Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "EXPRESAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "EXPRESAR",
+        "objeto": "Claudia Sheinbaum"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "EXPRESAR",
+        "objeto": "Gobierno de Estados Unidos"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "EXPRESAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "EXPRESAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Presidente Nicolás Maduro",
+        "relacion": "EXPRESAR_MANIFESTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Presidente Nicolás Maduro",
+        "relacion": "EXPRESAR_MANIFESTAR",
+        "objeto": "Claudia Sheinbaum"
+      },
+      {
+        "sujeto": "Presidente Nicolás Maduro",
+        "relacion": "EXPRESAR_MANIFESTAR",
+        "objeto": "Gobierno de Donald Trump"
+      },
+      {
+        "sujeto": "Presidente Nicolás Maduro",
+        "relacion": "EXPRESAR_MANIFESTAR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4939,
+    "pos": 0.011,
+    "neu": 0.961,
+    "neg": 0.029,
+    "label": "negative"
+  }
+}

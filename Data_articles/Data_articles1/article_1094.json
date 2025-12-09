@@ -1,0 +1,871 @@
+{
+  "url": "https://www.telesurtv.net/colombia-suben-muertos-atentado-terrorista/",
+  "title": "Colombia: Suben a 18 los muertos y más de 70 los heridos por doble atentado terrorista - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ataque",
+    "Atentado",
+    "Colombia",
+    "Heridos",
+    "Muertos",
+    "terrorista"
+  ],
+  "text": "La cifra de muertos por los atentados perpetrados en Colombia este jueves ascendió a 18 y los heridos ya superan los 70, informaron las autoridades en la madrugada de este viernes. Los ataques, ocurridos en Amalfi (Antioquia) y Cali (Valle del Cauca), han provocado indignación nacional y la condena del Gobierno.\nLEA TAMBIÉN:Colombia y Perú declaran diálogo entre naciones tras reunión bilateral\nEn Antioquia, un helicóptero militar fue derribado, dejando ocho uniformados muertos, mientras que en Cali, la detonación de un camión bomba cerca de la base aérea Marco Fidel Suárez se cobró la vida de seis personas y dejó decenas de heridos, incluidos ocho menores y tres adultos mayores. Otros cuatro fallecidos fueron reportados tras el agravamiento de su estado en centros médicos.\nEl presidente Gustavo Petro condenó los ataques y responsabilizó a las disidencias de las FARC y a la denominada “Junta del Narcotráfico”, a las que acusó de intentar frenar la lucha contra el narcotráfico y la violencia armada en el país.\n\n\n«Estamos ante un acto terrorista que asesina civiles desarmados para proteger las rutas del crimen», declaró.\nTras la tragedia, se desarrolló un Consejo Extraordinario de Paz y Seguridad en Cali, donde se anunció la militarización de zonas estratégicas y una recompensa de hasta 400 millones de pesos (casi 100.000 dólares) por información que permita capturar a los responsables.\nLa Alcaldía de Cali atribuyó la explosión al Frente Jaime Martínez, un grupo armado residual de las FARC que opera en la región Pacífica, mientras que en Antioquia se investiga la participación de las mismas estructuras ilegales.\nEl Gobierno descartó, por ahora, la declaratoria de conmoción interior, pero adelantó que emitirá decretos para reforzar la lucha contra el narcotráfico y el crimen organizado, en medio de una creciente ola de violencia que afecta varias regiones del país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/colombia-suben-muertos-atentado-terrorista/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 723,
+    "message_id": 102468,
+    "date": "2025-08-22T14:55:13+00:00",
+    "text": "teleSUR\nColombia: Suben a 18 los muertos y más de 70 los heridos por doble atentado terrorista\nhttps://www.telesurtv.net/colombia-suben-muertos-atentado-terrorista/",
+    "photo_path": null,
+    "views": 1778,
+    "reactions": {
+      "🤬": 30,
+      "🤔": 2
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "la cifra de muertos por los atentados perpetrados en colombia este jueves ascendió a 18 y los heridos ya superan los 70, informaron las autoridades en la madrugada de este viernes. los ataques, ocurridos en amalfi (antioquia) y cali (valle del cauca), han provocado indignación nacional y la condena del gobierno. en antioquia, un helicóptero militar fue derribado, dejando ocho uniformados muertos, mientras que en cali, la detonación de un camión bomba cerca de la base aérea marco fidel suárez se cobró la vida de seis personas y dejó decenas de heridos, incluidos ocho menores y tres adultos mayores. otros cuatro fallecidos fueron reportados tras el agravamiento de su estado en centros médicos. el presidente gustavo petro condenó los ataques y responsabilizó a las disidencias de las farc y a la denominada “junta del narcotráfico”, a las que acusó de intentar frenar la lucha contra el narcotráfico y la violencia armada en el país. «estamos ante un acto terrorista que asesina civiles desarmados para proteger las rutas del crimen», declaró. tras la tragedia, se desarrolló un consejo extraordinario de paz y seguridad en cali, donde se anunció la militarización de zonas estratégicas y una recompensa de hasta 400 millones de pesos (casi 100.000 dólares) por información que permita capturar a los responsables. la alcaldía de cali atribuyó la explosión al frente jaime martínez, un grupo armado residual de las farc que opera en la región pacífica, mientras que en antioquia se investiga la participación de las mismas estructuras ilegales. el gobierno descartó, por ahora, la declaratoria de conmoción interior, pero adelantó que emitirá decretos para reforzar la lucha contra el narcotráfico y el crimen organizado, en medio de una creciente ola de violencia que afecta varias regiones del país.",
+    "tokens": [
+      "cifra",
+      "muertos",
+      "atentados",
+      "perpetrados",
+      "colombia",
+      "jueves",
+      "ascendió",
+      "18",
+      "heridos",
+      "superan",
+      "70",
+      ",",
+      "informaron",
+      "autoridades",
+      "madrugada",
+      "viernes",
+      ".",
+      "ataques",
+      ",",
+      "ocurridos",
+      "amalfi",
+      "(",
+      "antioquia",
+      ")",
+      "cali",
+      "(",
+      "valle",
+      "cauca",
+      ")",
+      ",",
+      "provocado",
+      "indignación",
+      "nacional",
+      "condena",
+      "gobierno",
+      ".",
+      "antioquia",
+      ",",
+      "helicóptero",
+      "militar",
+      "derribado",
+      ",",
+      "dejando",
+      "ocho",
+      "uniformados",
+      "muertos",
+      ",",
+      "mientras",
+      "cali",
+      ",",
+      "detonación",
+      "camión",
+      "bomba",
+      "cerca",
+      "base",
+      "aérea",
+      "marco",
+      "fidel",
+      "suárez",
+      "cobró",
+      "vida",
+      "seis",
+      "personas",
+      "dejó",
+      "decenas",
+      "heridos",
+      ",",
+      "incluidos",
+      "ocho",
+      "menores",
+      "tres",
+      "adultos",
+      "mayores",
+      ".",
+      "cuatro",
+      "fallecidos",
+      "reportados",
+      "tras",
+      "agravamiento",
+      "centros",
+      "médicos",
+      ".",
+      "presidente",
+      "gustavo",
+      "petro",
+      "condenó",
+      "ataques",
+      "responsabilizó",
+      "disidencias",
+      "farc",
+      "denominada",
+      "“",
+      "junta",
+      "narcotráfico",
+      "”",
+      ",",
+      "acusó",
+      "intentar",
+      "frenar",
+      "lucha",
+      "narcotráfico",
+      "violencia",
+      "armada",
+      "país",
+      ".",
+      "«",
+      "acto",
+      "terrorista",
+      "asesina",
+      "civiles",
+      "desarmados",
+      "proteger",
+      "rutas",
+      "crimen",
+      "»",
+      ",",
+      "declaró",
+      ".",
+      "tras",
+      "tragedia",
+      ",",
+      "desarrolló",
+      "consejo",
+      "extraordinario",
+      "paz",
+      "seguridad",
+      "cali",
+      ",",
+      "anunció",
+      "militarización",
+      "zonas",
+      "estratégicas",
+      "recompensa",
+      "400",
+      "millones",
+      "pesos",
+      "(",
+      "casi",
+      "100.000",
+      "dólares",
+      ")",
+      "información",
+      "permita",
+      "capturar",
+      "responsables",
+      ".",
+      "alcaldía",
+      "cali",
+      "atribuyó",
+      "explosión",
+      "frente",
+      "jaime",
+      "martínez",
+      ",",
+      "grupo",
+      "armado",
+      "residual",
+      "farc",
+      "opera",
+      "región",
+      "pacífica",
+      ",",
+      "mientras",
+      "antioquia",
+      "investiga",
+      "participación",
+      "mismas",
+      "estructuras",
+      "ilegales",
+      ".",
+      "gobierno",
+      "descartó",
+      ",",
+      "ahora",
+      ",",
+      "declaratoria",
+      "conmoción",
+      "interior",
+      ",",
+      "adelantó",
+      "emitirá",
+      "decretos",
+      "reforzar",
+      "lucha",
+      "narcotráfico",
+      "crimen",
+      "organizado",
+      ",",
+      "medio",
+      "creciente",
+      "ola",
+      "violencia",
+      "afecta",
+      "varias",
+      "regiones",
+      "país",
+      "."
+    ],
+    "token_count": 197,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "NN": 71,
+      "FW": 82,
+      "JJ": 32,
+      "IN": 10,
+      "NNS": 20,
+      "VBP": 15,
+      "CD": 4,
+      "VBD": 2,
+      "$": 1,
+      "VBZ": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-FW": 11,
+      "FW-FW": 49,
+      "FW-JJ": 7,
+      "JJ-NN": 16,
+      "NN-IN": 6,
+      "IN-NNP": 4,
+      "NN-NNS": 9,
+      "NNS-VBP": 12,
+      "VBP-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 7,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "NNS-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-FW": 3,
+      "FW-NNS": 3,
+      "NNS-NNP": 4,
+      "NNP-NNS": 1,
+      "VBP-IN": 2,
+      "NNP-NNP": 17,
+      "NNP-FW": 11,
+      "FW-NNP": 11,
+      "NN-NN": 32,
+      "NN-JJ": 5,
+      "NN-NNP": 4,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "VBP-JJ": 5,
+      "JJ-NNP": 2,
+      "NNP-JJ": 2,
+      "VBP-FW": 2,
+      "FW-NN": 11,
+      "IN-FW": 5,
+      "JJ-NNS": 4,
+      "NNP-VBP": 2,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "VBP-NNP": 1,
+      "NNP-IN": 2,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-FW": 1,
+      "NN-CD": 1,
+      "NNS-JJ": 1,
+      "VBP-NN": 2,
+      "NN-VBP": 1,
+      "VBP-NNS": 1,
+      "IN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 31,
+      "FW-FW-JJ": 6,
+      "FW-JJ-NN": 4,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 5,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 17,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NN": 1,
+      "NN-NN-NNS": 5,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-NNP": 1,
+      "FW-NNP-FW": 7,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 1,
+      "NNP-FW-NN": 4,
+      "FW-NN-FW": 6,
+      "FW-NNS-VBP": 1,
+      "VBP-FW-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "IN-FW-NNP": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "NN-JJ-NN": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-JJ-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-NN-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNS-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 82,
+        "NN": 71,
+        "NNP": 44,
+        "JJ": 32,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NN-NN": 32,
+        "NNP-NNP": 17,
+        "JJ-NN": 16,
+        "NNS-VBP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 31,
+        "NN-NN-NN": 17,
+        "NN-FW-FW": 8,
+        "NN-NNS-VBP": 7,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 4,
+      "VP": 20,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Cali', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "NP -> ('Antioquia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('muertos', 'FW') ('por', 'FW') ('los', 'FW') NP PP VP ('a', 'DT') ('18', 'CD') NP NP VP ('70', 'CD') (',', ',') NP VP ('la', 'FW') ('madrugada', 'FW') ('de', 'FW') ('este', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('cifra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('atentados', 'JJ') ('perpetrados', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('ascendió', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La cifra"
+      },
+      {
+        "label": "NP",
+        "text": "atentados perpetrados"
+      },
+      {
+        "label": "PP",
+        "text": "en Colombia este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "ascendió"
+      },
+      {
+        "label": "NP",
+        "text": "y los"
+      },
+      {
+        "label": "NP",
+        "text": "heridos ya"
+      },
+      {
+        "label": "VP",
+        "text": "superan los"
+      },
+      {
+        "label": "NP",
+        "text": "informaron las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades en"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      },
+      {
+        "label": "NP",
+        "text": "Los ataques"
+      },
+      {
+        "label": "VP",
+        "text": "ocurridos"
+      },
+      {
+        "label": "NP",
+        "text": "Amalfi"
+      },
+      {
+        "label": "NP",
+        "text": "Antioquia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP cifra/NN)\n  de/FW\n  muertos/FW\n  por/FW\n  los/FW\n  (NP atentados/JJ perpetrados/NN)\n  (PP en/IN (NP Colombia/NNP este/NN jueves/NNS))\n  (VP ascendió/VBP)\n  a/DT\n  18/CD\n  (NP y/NN los/NN)\n  (NP heridos/JJ ya/NN)\n  (VP superan/VBD los/RB)\n  70/CD\n  ,/,\n  (NP informaron/NN las/NNS)\n  (VP autoridades/VBZ en/JJ)\n  la/FW\n  madrugada/FW\n  de/FW\n  este/FW\n  (NP viernes/NNS)\n  ./.)",
+      "(S\n  (NP Los/NNP ataques/NNS)\n  ,/,\n  (VP ocurridos/VBP)\n  en/FW\n  (NP Amalfi/NNP)\n  (/(\n  (NP Antioquia/NNP)\n  )/)\n  (NP y/NN Cali/NNP)\n  (/(\n  (NP Valle/NNP)\n  del/FW\n  (NP Cauca/NNP)\n  )/)\n  ,/,\n  (NP han/JJ provocado/NN)\n  (NP\n    indignación/JJ\n    nacional/JJ\n    y/NN\n    la/NN\n    condena/NN\n    del/NN\n    Gobierno/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Colombia/NNP)\n  y/CC\n  (NP Perú/NNP)\n  (VP declaran/VBD (NP diálogo/NN entre/NN naciones/NNS))\n  (VP tras/VBP (NP reunión/JJ bilateral/JJ En/NNP Antioquia/NNP))\n  ,/,\n  (NP un/JJ helicóptero/NN militar/NN fue/NN derribado/NN)\n  ,/,\n  (NP dejando/NN)\n  (NP ocho/JJ uniformados/JJ muertos/NN)\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  en/FW\n  (NP Cali/NNP)\n  ,/,\n  la/FW\n  detonación/FW\n  de/FW\n  un/FW\n  (NP camión/NN bomba/NN cerca/NN)\n  de/IN\n  la/FW\n  (NP base/NN aérea/NN Marco/NNP Fidel/NNP Suárez/NNP)\n  se/FW\n  (NP cobró/NN)\n  la/FW\n  vida/FW\n  de/FW\n  seis/FW\n  (NP personas/NNS)\n  (VP y/VBP (NP dejó/JJ decenas/NN))\n  (PP de/IN (NP heridos/NN))\n  ,/,\n  (NP incluidos/JJ ocho/NN menores/NNS)\n  (VP y/VBP (NP tres/NNS) (NP adultos/JJ mayores/NNS))\n  ./.)",
+      "(S\n  (NP Otros/NNP)\n  (VP cuatro/VBP (NP fallecidos/JJ fueron/NN reportados/NN tras/NNS))\n  (VP el/VBP)\n  agravamiento/IN\n  de/FW\n  su/FW\n  estado/FW\n  en/FW\n  (NP centros/NN médicos/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    presidente/NN\n    Gustavo/NNP\n    Petro/NNP\n    condenó/NN\n    los/NN\n    ataques/NNS)\n  (VP y/VBP)\n  (VP responsabilizó/VB (NP a/DT las/JJ disidencias/NN))\n  de/IN\n  las/FW\n  (NP FARC/NNP)\n  y/FW\n  a/DT\n  la/FW\n  denominada/FW\n  “/FW\n  (NP Junta/NNP)\n  del/FW\n  (NP Narcotráfico/NNP ”/NNP)\n  ,/,\n  (NP a/DT las/NN que/NN acusó/NN)\n  de/IN\n  intentar/FW\n  (NP frenar/JJ la/NN)\n  (NP lucha/JJ contra/JJ el/NN narcotráfico/NN y/NN la/NN)\n  violencia/FW\n  (NP armada/NN)\n  en/FW\n  (NP el/NN país/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "responsabilizó a",
+        "position": [
+          834,
+          850
+        ],
+        "start": 834,
+        "end": 850
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1127,
+          1134
+        ],
+        "start": 1127,
+        "end": 1134
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          1231,
+          1238
+        ],
+        "start": 1231,
+        "end": 1238
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente gustavo petro",
+        "position": [
+          787,
+          811
+        ],
+        "start": 787,
+        "end": 811
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "adultos mayores",
+        "position": [
+          671,
+          686
+        ],
+        "start": 671,
+        "end": 686
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          812,
+          819
+        ],
+        "start": 812,
+        "end": 819
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusó",
+        "position": [
+          933,
+          938
+        ],
+        "start": 933,
+        "end": 938
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          53,
+          61
+        ],
+        "start": 53,
+        "end": 61
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          337,
+          341
+        ],
+        "start": 337,
+        "end": 341
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado en",
+        "position": [
+          757,
+          766
+        ],
+        "start": 757,
+        "end": 766
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la madrugada",
+        "position": [
+          148,
+          163
+        ],
+        "start": 148,
+        "end": 163
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "400 millones",
+        "position": [
+          1305,
+          1317
+        ],
+        "start": 1305,
+        "end": 1317
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "400 millones de pesos",
+        "position": [
+          1305,
+          1326
+        ],
+        "start": 1305,
+        "end": 1326
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Cali",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "región Pacífica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FARC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Amalfi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antioquia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Junta del Narcotráfico",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Frente Jaime Martínez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Valle del Cauca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marco Fidel Suárez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La Alcaldía de Cali",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo Extraordinario de Paz y Seguridad",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Amalfi",
+        "relacion": "PROVOCAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Antioquia",
+        "relacion": "PROVOCAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Cali",
+        "relacion": "PROVOCAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Valle del Cauca",
+        "relacion": "PROVOCAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Colombia",
+        "relacion": "DECLARAR",
+        "objeto": "Antioquia"
+      },
+      {
+        "sujeto": "Perú",
+        "relacion": "DECLARAR",
+        "objeto": "Antioquia"
+      },
+      {
+        "sujeto": "Cali",
+        "relacion": "COBRAR",
+        "objeto": "Marco Fidel Suárez"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "CONDENAR",
+        "objeto": "FARC"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "CONDENAR",
+        "objeto": "Junta del Narcotráfico"
+      },
+      {
+        "sujeto": "Consejo Extraordinario de Paz y Seguridad",
+        "relacion": "DESARROLLAR",
+        "objeto": "Cali"
+      },
+      {
+        "sujeto": "La Alcaldía de Cali",
+        "relacion": "ATRIBUIR",
+        "objeto": "Frente Jaime Martínez"
+      },
+      {
+        "sujeto": "La Alcaldía de Cali",
+        "relacion": "ATRIBUIR",
+        "objeto": "FARC"
+      },
+      {
+        "sujeto": "La Alcaldía de Cali",
+        "relacion": "ATRIBUIR",
+        "objeto": "región Pacífica"
+      },
+      {
+        "sujeto": "Frente Jaime Martínez",
+        "relacion": "ATRIBUIR",
+        "objeto": "FARC"
+      },
+      {
+        "sujeto": "Frente Jaime Martínez",
+        "relacion": "ATRIBUIR",
+        "objeto": "región Pacífica"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

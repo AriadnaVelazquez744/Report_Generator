@@ -1,0 +1,867 @@
+{
+  "url": "https://www.telesurtv.net/comite-internacional-alerta-peligro-para-la-vida-de-jorge-glas-en-ecuador/",
+  "title": "Comité Internacional alerta peligro para la vida de Jorge Glas en Ecuador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ecuador",
+    "Jorge Glas"
+  ],
+  "text": "El Comité Internacional por la libertad del exvicepresidente de Ecuador, Jorge Glas, denunció este jueves que su vida está en peligro y reclamó al Gobierno del mandatario Daniel Noboa garantizar su integridad fisica.\n“Alertamos a la Comisión Interamericana de Derechos Humanos y a la comunidad internacional que la vida del exvicepresidente Jorge Glas corre peligro. Es deber del gobierno presidido por Daniel Noboa garantizar la vida y la integridad física de Jorge Glas”, publicó el comité en su cuenta de la red social X.\n“Solicitamos nuevamente que la Comisión Interamericana de Derechos Humanos amplíe las medidas cautelares en su favor, dado el sistemático incumplimiento del Estado ecuatoriano de sus obligaciones ante el derecho internacional. Es incomprensible la demora en las acciones que la Comisión debe realizar”, añadio él comité.\nGlas formó parte del Gobierno de Rafael Correa (2007-2017) y desempeñó la función de vicepresidente entre 2013 y 2017, además de los primeros meses del mandato de Lenín Moreno (2017-2021), hasta que se iniciaron las pesquisas en su contra, acusaciones e imputaciones que siempre ha negado al declararse un perseguido político.\nCuando militares y policías ecuatorianos irrumpieron violentamente en la Embajada de México en Quito, el 5 de abril de 2024, para arrestar a Glas, aún le faltaba cumplir una condena de ocho años de cárcel por dos sentencias por supuesta corrupción emitidas en 2017 y 2020, por las que ya había cumplido aproximadamente cinco años. Al final de 2022, Glas fue liberado por una sentencia de dos años de cárcel por prevaricación en dicha condena.\nEl exvicepresidente sigue recluido en la cárcel La Roca de Guayaquil, la prisión de máxima seguridad de Ecuador. La Policía lo arrestó a pesar de que el Gobierno de México ya le había proporcionado asilo diplomático, lo que causó la ruptura de las relaciones entre ambos países.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/comite-internacional-alerta-peligro-para-la-vida-de-jorge-glas-en-ecuador/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 2090,
+    "message_id": 83530,
+    "date": "2025-01-03T08:55:07+00:00",
+    "text": "teleSUR\nComité Internacional alerta peligro para la vida de Jorge Glas en Ecuador\nhttps://www.telesurtv.net/comite-internacional-alerta-peligro-para-la-vida-de-jorge-glas-en-ecuador/",
+    "photo_path": null,
+    "views": 2924,
+    "reactions": {
+      "👍": 36,
+      "🙏": 15,
+      "🤔": 2,
+      "😢": 1
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "el comité internacional por la libertad del exvicepresidente de ecuador, jorge glas, denunció este jueves que su vida está en peligro y reclamó al gobierno del mandatario daniel noboa garantizar su integridad fisica. “alertamos a la comisión interamericana de derechos humanos y a la comunidad internacional que la vida del exvicepresidente jorge glas corre peligro. es deber del gobierno presidido por daniel noboa garantizar la vida y la integridad física de jorge glas”, publicó el comité en su cuenta de la red social x. “solicitamos nuevamente que la comisión interamericana de derechos humanos amplíe las medidas cautelares en su favor, dado el sistemático incumplimiento del estado ecuatoriano de sus obligaciones ante el derecho internacional. es incomprensible la demora en las acciones que la comisión debe realizar”, añadio él comité. glas formó parte del gobierno de rafael correa (2007-2017) y desempeñó la función de vicepresidente entre 2013 y 2017, además de los primeros meses del mandato de lenín moreno (2017-2021), hasta que se iniciaron las pesquisas en su contra, acusaciones e imputaciones que siempre ha negado al declararse un perseguido político. cuando militares y policías ecuatorianos irrumpieron violentamente en la embajada de méxico en quito, el 5 de abril de 2024, para arrestar a glas, aún le faltaba cumplir una condena de ocho años de cárcel por dos sentencias por supuesta corrupción emitidas en 2017 y 2020, por las que ya había cumplido aproximadamente cinco años. al final de 2022, glas fue liberado por una sentencia de dos años de cárcel por prevaricación en dicha condena. el exvicepresidente sigue recluido en la cárcel la roca de guayaquil, la prisión de máxima seguridad de ecuador. la policía lo arrestó a pesar de que el gobierno de méxico ya le había proporcionado asilo diplomático, lo que causó la ruptura de las relaciones entre ambos países.",
+    "tokens": [
+      "comité",
+      "internacional",
+      "libertad",
+      "exvicepresidente",
+      "ecuador",
+      ",",
+      "jorge",
+      "glas",
+      ",",
+      "denunció",
+      "jueves",
+      "vida",
+      "peligro",
+      "reclamó",
+      "gobierno",
+      "mandatario",
+      "daniel",
+      "noboa",
+      "garantizar",
+      "integridad",
+      "fisica",
+      ".",
+      "“",
+      "alertamos",
+      "comisión",
+      "interamericana",
+      "derechos",
+      "humanos",
+      "comunidad",
+      "internacional",
+      "vida",
+      "exvicepresidente",
+      "jorge",
+      "glas",
+      "corre",
+      "peligro",
+      ".",
+      "deber",
+      "gobierno",
+      "presidido",
+      "daniel",
+      "noboa",
+      "garantizar",
+      "vida",
+      "integridad",
+      "física",
+      "jorge",
+      "glas",
+      "”",
+      ",",
+      "publicó",
+      "comité",
+      "cuenta",
+      "red",
+      "social",
+      "x",
+      ".",
+      "“",
+      "solicitamos",
+      "nuevamente",
+      "comisión",
+      "interamericana",
+      "derechos",
+      "humanos",
+      "amplíe",
+      "medidas",
+      "cautelares",
+      "favor",
+      ",",
+      "dado",
+      "sistemático",
+      "incumplimiento",
+      "ecuatoriano",
+      "obligaciones",
+      "derecho",
+      "internacional",
+      ".",
+      "incomprensible",
+      "demora",
+      "acciones",
+      "comisión",
+      "debe",
+      "realizar",
+      "”",
+      ",",
+      "añadio",
+      "comité",
+      ".",
+      "glas",
+      "formó",
+      "parte",
+      "gobierno",
+      "rafael",
+      "correa",
+      "(",
+      "2007-2017",
+      ")",
+      "desempeñó",
+      "función",
+      "vicepresidente",
+      "2013",
+      "2017",
+      ",",
+      "además",
+      "primeros",
+      "meses",
+      "mandato",
+      "lenín",
+      "moreno",
+      "(",
+      "2017-2021",
+      ")",
+      ",",
+      "iniciaron",
+      "pesquisas",
+      ",",
+      "acusaciones",
+      "imputaciones",
+      "siempre",
+      "negado",
+      "declararse",
+      "perseguido",
+      "político",
+      ".",
+      "militares",
+      "policías",
+      "ecuatorianos",
+      "irrumpieron",
+      "violentamente",
+      "embajada",
+      "méxico",
+      "quito",
+      ",",
+      "5",
+      "abril",
+      "2024",
+      ",",
+      "arrestar",
+      "glas",
+      ",",
+      "aún",
+      "faltaba",
+      "cumplir",
+      "condena",
+      "ocho",
+      "años",
+      "cárcel",
+      "dos",
+      "sentencias",
+      "supuesta",
+      "corrupción",
+      "emitidas",
+      "2017",
+      "2020",
+      ",",
+      "cumplido",
+      "aproximadamente",
+      "cinco",
+      "años",
+      ".",
+      "final",
+      "2022",
+      ",",
+      "glas",
+      "liberado",
+      "sentencia",
+      "dos",
+      "años",
+      "cárcel",
+      "prevaricación",
+      "dicha",
+      "condena",
+      ".",
+      "exvicepresidente",
+      "sigue",
+      "recluido",
+      "cárcel",
+      "roca",
+      "guayaquil",
+      ",",
+      "prisión",
+      "máxima",
+      "seguridad",
+      "ecuador",
+      ".",
+      "policía",
+      "arrestó",
+      "pesar",
+      "gobierno",
+      "méxico",
+      "proporcionado",
+      "asilo",
+      "diplomático",
+      ",",
+      "causó",
+      "ruptura",
+      "relaciones",
+      "ambos",
+      "países",
+      "."
+    ],
+    "token_count": 200,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 55,
+      "NN": 98,
+      "FW": 60,
+      "VBZ": 4,
+      "JJ": 28,
+      "IN": 14,
+      "VBD": 1,
+      "VBP": 8,
+      "NNS": 11,
+      "CD": 6,
+      "RB": 1,
+      "CC": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 21,
+      "NNP-NN": 13,
+      "NN-NN": 55,
+      "NN-FW": 11,
+      "FW-FW": 34,
+      "FW-NNP": 13,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 4,
+      "JJ-NN": 16,
+      "NN-IN": 10,
+      "IN-NN": 1,
+      "NN-NNP": 14,
+      "NNP-FW": 8,
+      "FW-NN": 7,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "IN-JJ": 2,
+      "IN-FW": 6,
+      "FW-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "FW-NNS": 2,
+      "NNP-JJ": 4,
+      "JJ-FW": 1,
+      "FW-CD": 1,
+      "CD-CD": 2,
+      "CD-NN": 3,
+      "VBP-NN": 2,
+      "NN-NNS": 2,
+      "NNS-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NN-JJ": 3,
+      "NNP-VBZ": 3,
+      "FW-IN": 1,
+      "IN-CD": 2,
+      "NN-CC": 1,
+      "CC-NN": 1,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 11,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 5,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNP": 11,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NNP-NNP-FW": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "NN-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 4,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-NNP-JJ": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-CD": 1,
+      "CD-CD-NN": 2,
+      "CD-NN-IN": 1,
+      "FW-JJ-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NNS": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-CD": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NNP-JJ": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "VBP-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "FW": 60,
+        "NNP": 55,
+        "JJ": 28,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 34,
+        "NNP-NNP": 21,
+        "JJ-NN": 16,
+        "NN-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 23,
+        "NNP-NN-NN": 11,
+        "NN-NN-NNP": 11,
+        "JJ-NN-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 79,
+      "VP": 15,
+      "PP": 6,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('Derechos', 'NNP') ('Humanos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP ('libertad', 'FW') ('del', 'FW') ('exvicepresidente', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP PP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Comité', 'NNP') ('Internacional', 'NNP') ('por', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Jorge', 'NNP') ('Glas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Comité Internacional por la"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Jorge Glas"
+      },
+      {
+        "label": "NP",
+        "text": "denunció este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves que su vida está"
+      },
+      {
+        "label": "NP",
+        "text": "que su vida está"
+      },
+      {
+        "label": "PP",
+        "text": "en peligro y reclamó al Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "peligro y reclamó al Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "mandatario Daniel Noboa garantizar su integridad fisica"
+      },
+      {
+        "label": "NP",
+        "text": "“ Alertamos"
+      },
+      {
+        "label": "NP",
+        "text": "a la Comisión Interamericana"
+      },
+      {
+        "label": "PP",
+        "text": "de Derechos Humanos"
+      },
+      {
+        "label": "NP",
+        "text": "Derechos Humanos"
+      },
+      {
+        "label": "VP",
+        "text": "y a la comunidad internacional que la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Comité/NNP Internacional/NNP por/NN la/NN)\n  libertad/FW\n  del/FW\n  exvicepresidente/FW\n  de/FW\n  (NP Ecuador/NNP)\n  ,/,\n  (NP Jorge/NNP Glas/NNP)\n  ,/,\n  (NP denunció/NN este/NN)\n  (VP jueves/VBZ (NP que/JJ su/NN vida/NN está/NN))\n  (PP en/IN (NP peligro/NN y/NN reclamó/NN al/NN Gobierno/NNP))\n  del/FW\n  (NP\n    mandatario/NN\n    Daniel/NNP\n    Noboa/NNP\n    garantizar/NN\n    su/NN\n    integridad/NN\n    fisica/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Alertamos/NNP)\n  (NP a/DT la/NN Comisión/NNP Interamericana/NNP)\n  (PP de/IN (NP Derechos/NNP Humanos/NNP))\n  (VP\n    y/VBZ\n    (NP a/DT la/NN)\n    (NP comunidad/JJ internacional/JJ que/NN la/NN))\n  vida/FW\n  (NP\n    del/NN\n    exvicepresidente/NN\n    Jorge/NNP\n    Glas/NNP\n    corre/NN\n    peligro/NN)\n  ./.)",
+      "(S\n  (NP Es/NNP deber/NNP)\n  del/FW\n  (NP\n    gobierno/NN\n    presidido/NN\n    por/NN\n    Daniel/NNP\n    Noboa/NNP\n    garantizar/NN\n    la/NN)\n  vida/FW\n  (NP y/NN)\n  la/FW\n  integridad/FW\n  física/FW\n  de/FW\n  (NP Jorge/NNP Glas/NNP ”/NNP)\n  ,/,\n  (NP publicó/NN el/NN comité/NN)\n  (PP en/IN (NP su/JJ cuenta/NN))\n  de/IN\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Solicitamos/NNP\n    nuevamente/NN\n    que/NN\n    la/NN\n    Comisión/NNP\n    Interamericana/NNP)\n  (PP de/IN (NP Derechos/NNP Humanos/NNP))\n  (VP amplíe/VBP (NP las/NNS) (NP medidas/JJ cautelares/NNS))\n  (VP en/VBP (NP su/NN favor/NN))\n  ,/,\n  (NP\n    dado/JJ\n    el/NN\n    sistemático/NN\n    incumplimiento/NN\n    del/NN\n    Estado/NNP\n    ecuatoriano/NN)\n  de/FW\n  sus/FW\n  (NP obligaciones/NNS)\n  (VP ante/VBP (NP el/JJ derecho/JJ internacional/NN))\n  ./.)",
+      "(S\n  (NP Es/NNP)\n  (NP incomprensible/JJ la/NN demora/NN)\n  (PP en/IN (NP las/JJ acciones/NNS))\n  (ADJP que/JJ)\n  la/FW\n  (NP Comisión/NNP debe/NN realizar/NN ”/NNP)\n  ,/,\n  (NP añadio/NN él/NNP comité/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "ACCIONES_LEGALES",
+      "JUSTICIA_SOCIAL",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció este jueves que su vida está en peligro y reclamó al",
+        "position": [
+          85,
+          146
+        ],
+        "start": 85,
+        "end": 146
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "corrupción",
+        "position": [
+          1410,
+          1420
+        ],
+        "start": 1410,
+        "end": 1420
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "integridad física",
+        "position": [
+          440,
+          457
+        ],
+        "start": 440,
+        "end": 457
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "derechos humanos amplíe las medidas cautelares en su favor, dado el sistemático incumplimiento",
+        "position": [
+          583,
+          677
+        ],
+        "start": 583,
+        "end": 677
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del mandatario daniel",
+        "position": [
+          147,
+          177
+        ],
+        "start": 147,
+        "end": 177
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          85,
+          93
+        ],
+        "start": 85,
+        "end": 93
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          64,
+          71
+        ],
+        "start": 64,
+        "end": 71
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          1258,
+          1264
+        ],
+        "start": 1258,
+        "end": 1264
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guayaquil",
+        "position": [
+          1675,
+          1684
+        ],
+        "start": 1675,
+        "end": 1684
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "quito",
+        "position": [
+          1268,
+          1273
+        ],
+        "start": 1268,
+        "end": 1273
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado ecuatoriano",
+        "position": [
+          682,
+          700
+        ],
+        "start": 682,
+        "end": 700
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "5 de abril de 2024",
+        "position": [
+          1278,
+          1296
+        ],
+        "start": 1278,
+        "end": 1296
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          260,
+          276
+        ],
+        "start": 260,
+        "end": 276
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Policía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Daniel Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Comisión Interamericana de Derechos Humanos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado ecuatoriano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Rafael Correa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Quito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Glas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comisión",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comité Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Lenín Moreno",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La Roca de Guayaquil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jorge Glas",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Comité Internacional",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Comité Internacional",
+        "relacion": "DENUNCIAR",
+        "objeto": "Daniel Noboa"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DENUNCIAR",
+        "objeto": "Daniel Noboa"
+      },
+      {
+        "sujeto": "Jorge Glas",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Jorge Glas",
+        "relacion": "DENUNCIAR",
+        "objeto": "Daniel Noboa"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "RECLAMAR_DENUNCIAR",
+        "objeto": "Daniel Noboa"
+      },
+      {
+        "sujeto": "Comisión Interamericana de Derechos Humanos",
+        "relacion": "PUBLICAR_SOLICITAR",
+        "objeto": "Daniel Noboa"
+      },
+      {
+        "sujeto": "Daniel Noboa",
+        "relacion": "PUBLICAR_SOLICITAR",
+        "objeto": "Estado ecuatoriano"
+      },
+      {
+        "sujeto": "Comisión Interamericana de Derechos Humanos",
+        "relacion": "GARANTIZAR_PUBLICAR_SOLICITAR",
+        "objeto": "Jorge Glas"
+      },
+      {
+        "sujeto": "Jorge Glas",
+        "relacion": "GARANTIZAR_PUBLICAR_SOLICITAR",
+        "objeto": "Estado ecuatoriano"
+      },
+      {
+        "sujeto": "Comisión Interamericana de Derechos Humanos",
+        "relacion": "AMPLIAR_SOLICITAR",
+        "objeto": "Estado ecuatoriano"
+      },
+      {
+        "sujeto": "Glas",
+        "relacion": "FORMAR",
+        "objeto": "Gobierno de Rafael Correa"
+      },
+      {
+        "sujeto": "Glas",
+        "relacion": "FORMAR",
+        "objeto": "Lenín Moreno"
+      },
+      {
+        "sujeto": "Gobierno de Rafael Correa",
+        "relacion": "FORMAR",
+        "objeto": "Lenín Moreno"
+      },
+      {
+        "sujeto": "Quito",
+        "relacion": "IRRUMPIR_FALTAR",
+        "objeto": "Glas"
+      },
+      {
+        "sujeto": "La Policía",
+        "relacion": "ARRESTAR",
+        "objeto": "Gobierno de México"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6249,
+    "pos": 0.017,
+    "neu": 0.983,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

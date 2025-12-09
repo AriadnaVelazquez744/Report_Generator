@@ -1,0 +1,685 @@
+{
+  "url": "https://www.telesurtv.net/nicaragua-felicitaciones-bolivia-bicentenario/",
+  "title": "Nicaragua envía fraternas felicitaciones a Bolivia por el Bicentenario de su independencia",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bicentenario",
+    "Bolivia",
+    "Daniel Ortega",
+    "independencia de Bolivia",
+    "Luis Arce",
+    "Nicaragua",
+    "Rosario Murillo"
+  ],
+  "text": "El Gobierno de Reconciliación y Unidad Nacional de la República de Nicaragua extendió sus más sinceras felicitaciones al pueblo y Gobierno del Estado Plurinacional de Bolivia, con motivo de la conmemoración del bicentenario la Gesta Heroica de Independencia.\n\nLEA TAMBIÉN\nBolivia se prepara para celebrar la Serenata al Bicentenario en Sucre\n\nEn su mensaje, la representación nicaragüense reafirmó su compromiso invariable de seguir fortaleciendo los profundos lazos de hermandad, solidaridad, cooperación y lucha común que unen a sus pueblos y Gobiernos.\nLos copresidentes nicaragüenses, Daniel Ortega y Rosario Murillo, afirmaron que este compromiso compartido se centra en la defensa de la soberanía, la dignidad y la autodeterminación.\nLa felicitación se enmarca en la celebración de los 200 años de la fundación de Bolivia, un hito trascendental para el país, que en agosto de 1825, las provincias del Alto Perú se unieron para formar una República independiente en Chuquisaca, lo que permitió la emancipación del yugo español.\n\n\nLa misiva, por parte de Nicaragua, subraya la conexión y el apoyo mutuo entre las naciones de América Latina, resaltando un espíritu de unidad regional y la importancia de los valores históricos compartidos en la defensa de la autonomía y la identidad de los pueblos.\nEl comunicado concluye con un fraternal y revolucionario saludo desde Nicaragua, enviando el cariño y respeto a todas las familias bolivianas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nicaragua-felicitaciones-bolivia-bicentenario/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1935,
+    "message_id": 100986,
+    "date": "2025-08-05T20:55:28+00:00",
+    "text": "teleSUR\nNicaragua envía fraternas felicitaciones a Bolivia por el Bicentenario de su independencia\nhttps://www.telesurtv.net/nicaragua-felicitaciones-bolivia-bicentenario/",
+    "photo_path": null,
+    "views": 1621,
+    "reactions": {
+      "👍": 29
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de reconciliación y unidad nacional de la república de nicaragua extendió sus más sinceras felicitaciones al pueblo y gobierno del estado plurinacional de bolivia, con motivo de la conmemoración del bicentenario la gesta heroica de independencia. en su mensaje, la representación nicaragüense reafirmó su compromiso invariable de seguir fortaleciendo los profundos lazos de hermandad, solidaridad, cooperación y lucha común que unen a sus pueblos y gobiernos. los copresidentes nicaragüenses, daniel ortega y rosario murillo, afirmaron que este compromiso compartido se centra en la defensa de la soberanía, la dignidad y la autodeterminación. la felicitación se enmarca en la celebración de los 200 años de la fundación de bolivia, un hito trascendental para el país, que en agosto de 1825, las provincias del alto perú se unieron para formar una república independiente en chuquisaca, lo que permitió la emancipación del yugo español. la misiva, por parte de nicaragua, subraya la conexión y el apoyo mutuo entre las naciones de américa latina, resaltando un espíritu de unidad regional y la importancia de los valores históricos compartidos en la defensa de la autonomía y la identidad de los pueblos. el comunicado concluye con un fraternal y revolucionario saludo desde nicaragua, enviando el cariño y respeto a todas las familias bolivianas.",
+    "tokens": [
+      "gobierno",
+      "reconciliación",
+      "unidad",
+      "nacional",
+      "república",
+      "nicaragua",
+      "extendió",
+      "sinceras",
+      "felicitaciones",
+      "pueblo",
+      "gobierno",
+      "plurinacional",
+      "bolivia",
+      ",",
+      "motivo",
+      "conmemoración",
+      "bicentenario",
+      "gesta",
+      "heroica",
+      "independencia",
+      ".",
+      "mensaje",
+      ",",
+      "representación",
+      "nicaragüense",
+      "reafirmó",
+      "compromiso",
+      "invariable",
+      "seguir",
+      "fortaleciendo",
+      "profundos",
+      "lazos",
+      "hermandad",
+      ",",
+      "solidaridad",
+      ",",
+      "cooperación",
+      "lucha",
+      "común",
+      "unen",
+      "pueblos",
+      "gobiernos",
+      ".",
+      "copresidentes",
+      "nicaragüenses",
+      ",",
+      "daniel",
+      "ortega",
+      "rosario",
+      "murillo",
+      ",",
+      "afirmaron",
+      "compromiso",
+      "compartido",
+      "centra",
+      "defensa",
+      "soberanía",
+      ",",
+      "dignidad",
+      "autodeterminación",
+      ".",
+      "felicitación",
+      "enmarca",
+      "celebración",
+      "200",
+      "años",
+      "fundación",
+      "bolivia",
+      ",",
+      "hito",
+      "trascendental",
+      "país",
+      ",",
+      "agosto",
+      "1825",
+      ",",
+      "provincias",
+      "alto",
+      "perú",
+      "unieron",
+      "formar",
+      "república",
+      "independiente",
+      "chuquisaca",
+      ",",
+      "permitió",
+      "emancipación",
+      "yugo",
+      "español",
+      ".",
+      "misiva",
+      ",",
+      "parte",
+      "nicaragua",
+      ",",
+      "subraya",
+      "conexión",
+      "apoyo",
+      "mutuo",
+      "naciones",
+      "américa",
+      "latina",
+      ",",
+      "resaltando",
+      "espíritu",
+      "unidad",
+      "regional",
+      "importancia",
+      "valores",
+      "históricos",
+      "compartidos",
+      "defensa",
+      "autonomía",
+      "identidad",
+      "pueblos",
+      ".",
+      "comunicado",
+      "concluye",
+      "fraternal",
+      "revolucionario",
+      "saludo",
+      "nicaragua",
+      ",",
+      "enviando",
+      "cariño",
+      "respeto",
+      "todas",
+      "familias",
+      "bolivianas",
+      "."
+    ],
+    "token_count": 130,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "IN": 9,
+      "FW": 63,
+      "CC": 1,
+      "NN": 67,
+      "JJ": 17,
+      "NNS": 5,
+      "VBP": 2,
+      "VBZ": 2,
+      "CD": 2,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-FW": 6,
+      "FW-FW": 45,
+      "FW-NNP": 11,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NN": 42,
+      "NN-JJ": 7,
+      "JJ-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-JJ": 2,
+      "JJ-NNP": 1,
+      "NNP-NN": 10,
+      "NN-IN": 7,
+      "IN-FW": 4,
+      "FW-NN": 3,
+      "NN-NNP": 6,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "JJ-NN": 10,
+      "JJ-FW": 3,
+      "FW-JJ": 2,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-FW": 4,
+      "NNP-JJ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "VBD-FW": 1,
+      "IN-JJ": 1,
+      "JJ-JJ": 2,
+      "FW-NNS": 1,
+      "NN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 7,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 36,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NN-NN-NN": 25,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NNP-NN-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "NN-JJ-JJ": 1,
+      "NN-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 67,
+        "FW": 63,
+        "NNP": 39,
+        "JJ": 17,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "FW-FW": 45,
+        "NN-NN": 42,
+        "NNP-NNP": 15,
+        "FW-NNP": 11,
+        "NNP-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 36,
+        "NN-NN-NN": 25,
+        "NNP-NN-NN": 7,
+        "JJ-NN-NN": 7,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 53,
+      "PP": 7,
+      "VP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0811
+      },
+      {
+        "rule": "NP -> ('Nicaragua', 'NNP')",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('extendió', 'CC') NP NP VP ('del', 'FW') NP ('de', 'FW') NP (',', ',') NP ('motivo', 'FW') ('de', 'FW') ('la', 'FW') ('conmemoración', 'FW') ('del', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Reconciliación', 'NNP') ('y', 'NNP') ('Unidad', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('República', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('sus', 'NN') ('más', 'NN')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('sinceras', 'JJ') ('felicitaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0135
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Reconciliación y Unidad Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Reconciliación y Unidad Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "República"
+      },
+      {
+        "label": "NP",
+        "text": "Nicaragua"
+      },
+      {
+        "label": "NP",
+        "text": "sus más"
+      },
+      {
+        "label": "NP",
+        "text": "sinceras felicitaciones"
+      },
+      {
+        "label": "VP",
+        "text": "al pueblo y Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "pueblo y Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Estado Plurinacional"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "bicentenario la Gesta Heroica"
+      },
+      {
+        "label": "PP",
+        "text": "de Independencia"
+      },
+      {
+        "label": "NP",
+        "text": "Independencia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Reconciliación/NNP y/NNP Unidad/NNP Nacional/NNP))\n  de/FW\n  la/FW\n  (NP República/NNP)\n  de/FW\n  (NP Nicaragua/NNP)\n  extendió/CC\n  (NP sus/NN más/NN)\n  (NP sinceras/JJ felicitaciones/NNS)\n  (VP al/VBP (NP pueblo/JJ y/NN Gobierno/NNP))\n  del/FW\n  (NP Estado/NNP Plurinacional/NNP)\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP con/NN)\n  motivo/FW\n  de/FW\n  la/FW\n  conmemoración/FW\n  del/FW\n  (NP bicentenario/NN la/NN Gesta/NNP Heroica/NNP)\n  (PP de/IN (NP Independencia/NNP))\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    Bolivia/NNP\n    se/NN\n    prepara/NN\n    para/NN\n    celebrar/NN\n    la/NN\n    Serenata/NNP\n    al/NN\n    Bicentenario/NNP)\n  (VP en/VBZ (NP Sucre/NNP En/NNP su/NN mensaje/NN))\n  ,/,\n  la/FW\n  representación/FW\n  nicaragüense/FW\n  (NP reafirmó/NN su/NN compromiso/NN)\n  (ADJP invariable/JJ)\n  de/FW\n  seguir/FW\n  fortaleciendo/FW\n  los/FW\n  (NP profundos/JJ lazos/NN)\n  (PP de/IN (NP hermandad/NN))\n  ,/,\n  (NP solidaridad/NN)\n  ,/,\n  (NP cooperación/NN y/NN lucha/NN común/NN que/NN)\n  (PP unen/IN (NP a/DT sus/NN pueblos/NN))\n  (NP y/JJ Gobiernos/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP copresidentes/VBZ (NP nicaragüenses/NNS))\n  ,/,\n  (NP Daniel/NNP Ortega/NNP y/NNP Rosario/NNP Murillo/NNP)\n  ,/,\n  (NP\n    afirmaron/NN\n    que/NN\n    este/NN\n    compromiso/NN\n    compartido/NN\n    se/NN\n    centra/NN)\n  en/IN\n  la/FW\n  defensa/FW\n  de/FW\n  la/FW\n  soberanía/FW\n  ,/,\n  la/FW\n  dignidad/FW\n  y/FW\n  la/FW\n  autodeterminación/FW\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP felicitación/VBD (NP se/JJ enmarca/NN))\n  en/IN\n  la/FW\n  celebración/FW\n  de/FW\n  los/FW\n  200/CD\n  (NP años/NN)\n  de/FW\n  la/FW\n  fundación/FW\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP un/JJ hito/NN)\n  (NP trascendental/JJ para/NN el/NN país/NN)\n  ,/,\n  (NP que/NN)\n  en/FW\n  (NP agosto/NN)\n  de/IN\n  1825/CD\n  ,/,\n  las/FW\n  provincias/FW\n  del/FW\n  (NP Alto/NNP Perú/NNP)\n  (VP\n    se/VBD\n    (NP\n      unieron/JJ\n      para/NN\n      formar/NN\n      una/NN\n      República/NNP\n      independiente/NN))\n  en/FW\n  (NP Chuquisaca/NNP)\n  ,/,\n  (NP lo/NN que/NN permitió/NN la/NN)\n  emancipación/FW\n  del/FW\n  (NP yugo/NN español/NN)\n  ./.)",
+      "(S\n  (NP La/NNP misiva/NN)\n  ,/,\n  (NP por/JJ parte/NN)\n  (PP de/IN (NP Nicaragua/NNP))\n  ,/,\n  (NP subraya/NN la/NN conexión/NN y/NN el/NN apoyo/NN mutuo/NN)\n  entre/FW\n  (NP las/JJ naciones/NNS)\n  (PP de/IN (NP América/NNP Latina/NNP))\n  ,/,\n  (NP resaltando/NN)\n  (NP un/JJ espíritu/NN)\n  (PP de/IN (NP unidad/JJ regional/JJ y/NN la/NN))\n  importancia/FW\n  de/FW\n  los/FW\n  (NP valores/NNS)\n  (VP históricos/VBP compartidos/JJ)\n  en/FW\n  la/FW\n  defensa/FW\n  de/FW\n  la/FW\n  autonomía/FW\n  y/FW\n  la/FW\n  identidad/FW\n  de/FW\n  los/FW\n  (NP pueblos/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "ORGANIZACIONES_SOCIALES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "mensaje, la representación nicaragüense reafirmó su compromiso invariable de seguir fortaleciendo los profundos lazos de hermandad, solidaridad, cooperación y lucha común que unen a sus pueblos y gobiernos",
+        "position": [
+          349,
+          554
+        ],
+        "start": 349,
+        "end": 554
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          679,
+          686
+        ],
+        "start": 679,
+        "end": 686
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de reconciliación y",
+        "position": [
+          3,
+          31
+        ],
+        "start": 3,
+        "end": 31
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de reconciliación",
+        "position": [
+          3,
+          29
+        ],
+        "start": 3,
+        "end": 29
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "fundación",
+        "position": [
+          807,
+          816
+        ],
+        "start": 807,
+        "end": 816
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          389,
+          397
+        ],
+        "start": 389,
+        "end": 397
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          167,
+          174
+        ],
+        "start": 167,
+        "end": 174
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          67,
+          76
+        ],
+        "start": 67,
+        "end": 76
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "sucre",
+        "position": [
+          336,
+          341
+        ],
+        "start": 336,
+        "end": 341
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado plurinacional",
+        "position": [
+          143,
+          163
+        ],
+        "start": 143,
+        "end": 163
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobiernos.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unidad Nacional de la República de Nicaragua",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "América Latina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno del Estado Plurinacional de Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sucre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Reconciliación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rosario Murillo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chuquisaca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alto Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Daniel Ortega",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Reconciliación",
+        "relacion": "EXTENDER",
+        "objeto": "Gobierno del Estado Plurinacional de Bolivia"
+      },
+      {
+        "sujeto": "Unidad Nacional de la República de Nicaragua",
+        "relacion": "EXTENDER",
+        "objeto": "Gobierno del Estado Plurinacional de Bolivia"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "PREPARAR",
+        "objeto": "Sucre"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "PREPARAR",
+        "objeto": "Gobiernos."
+      },
+      {
+        "sujeto": "Sucre",
+        "relacion": "CELEBRAR_PREPARAR",
+        "objeto": "Gobiernos."
+      },
+      {
+        "sujeto": "Alto Perú",
+        "relacion": "UNIR_ENMARCAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Alto Perú",
+        "relacion": "UNIR_ENMARCAR",
+        "objeto": "Chuquisaca"
+      },
+      {
+        "sujeto": "República",
+        "relacion": "FORMAR_UNIR_ENMARCAR",
+        "objeto": "Chuquisaca"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "SUBRAYAR",
+        "objeto": "América Latina"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

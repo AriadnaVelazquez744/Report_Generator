@@ -1,0 +1,607 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-condena-ataque-terrorista-contra-magistrados-iranies/",
+  "title": "Venezuela condena ataque terrorista contra magistrados iraníes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Fiscalía",
+    "investigaciones",
+    "Irán",
+    "terrorismo",
+    "Venezuela"
+  ],
+  "text": "Gobierno y pueblo venezolanos denuncian el ataque cometido contra los jueces Mohammad Moqiseh, jefe de la Sección 53 de la Corte Suprema de Justicia y Alí Razini, jefe de la Sección 39 de la misma entidad, quienes fueron asesinados en un despreciable acto terrorista, donde también resultó herido otro magistrado.\nLa República Bolivariana expresó sus condolencias con el pueblo y Gobierno iraníes, y reafirmó su “firme convicción de que pronto se puedan determinar a los respondables de este despreciable crimen y se les proporcione el debido castigo”.\nVenezuela extendió sus condolencias a las familias y amigos de las víctimas y deseó pronta recuperación a un tercer juez que también fue blanco de los ataques.\nLa nación sudamericana afirma que rechaza “de forma contundente el terrorismo en todas sus manifestaciones y deplora todo acto de violencia que tenga como intención causar terror y zozobra en la población civil”, hechos que constituyen una evidente “violación del derecho a la vida, a la libertad, a la seguridad, el bienestar y al derecho a vivir sin temor y en paz”.\nLos magistrados se encontraban inmersos en investigaciones asociadas con casos de espionaje y terrorismo y fueron baleados frente al edificio de la fiscalía iraní.\nDe acuerdo con las informaciones preliminares, el atacante no posee ningún proceso judicial en curso. Tras ser preseguido por las autoridades de seguridad, que reaccionaron desde los primeros momentos, el sospechoso terminó por suicidarse.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-condena-ataque-terrorista-contra-magistrados-iranies/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 983,
+    "message_id": 84792,
+    "date": "2025-01-18T20:55:07+00:00",
+    "text": "teleSUR\nVenezuela condena ataque terrorista contra magistrados iraníes\nhttps://www.telesurtv.net/venezuela-condena-ataque-terrorista-contra-magistrados-iranies/",
+    "photo_path": null,
+    "views": 3481,
+    "reactions": {
+      "👍": 74,
+      "🫡": 4,
+      "🔥": 3,
+      "🤡": 1
+    },
+    "total_reactions": 82
+  },
+  "preprocessing": {
+    "cleaned": "gobierno y pueblo venezolanos denuncian el ataque cometido contra los jueces mohammad moqiseh, jefe de la sección 53 de la corte suprema de justicia y alí razini, jefe de la sección 39 de la misma entidad, quienes fueron asesinados en un despreciable acto terrorista, donde también resultó herido otro magistrado. la república bolivariana expresó sus condolencias con el pueblo y gobierno iraníes, y reafirmó su “firme convicción de que pronto se puedan determinar a los respondables de este despreciable crimen y se les proporcione el debido castigo”. venezuela extendió sus condolencias a las familias y amigos de las víctimas y deseó pronta recuperación a un tercer juez que también fue blanco de los ataques. la nación sudamericana afirma que rechaza “de forma contundente el terrorismo en todas sus manifestaciones y deplora todo acto de violencia que tenga como intención causar terror y zozobra en la población civil”, hechos que constituyen una evidente “violación del derecho a la vida, a la libertad, a la seguridad, el bienestar y al derecho a vivir sin temor y en paz”. los magistrados se encontraban inmersos en investigaciones asociadas con casos de espionaje y terrorismo y fueron baleados frente al edificio de la fiscalía iraní. de acuerdo con las informaciones preliminares, el atacante no posee ningún proceso judicial en curso. tras ser preseguido por las autoridades de seguridad, que reaccionaron desde los primeros momentos, el sospechoso terminó por suicidarse.",
+    "tokens": [
+      "gobierno",
+      "pueblo",
+      "venezolanos",
+      "denuncian",
+      "ataque",
+      "cometido",
+      "jueces",
+      "mohammad",
+      "moqiseh",
+      ",",
+      "jefe",
+      "sección",
+      "53",
+      "corte",
+      "suprema",
+      "justicia",
+      "alí",
+      "razini",
+      ",",
+      "jefe",
+      "sección",
+      "39",
+      "misma",
+      "entidad",
+      ",",
+      "asesinados",
+      "despreciable",
+      "acto",
+      "terrorista",
+      ",",
+      "resultó",
+      "herido",
+      "magistrado",
+      ".",
+      "república",
+      "bolivariana",
+      "expresó",
+      "condolencias",
+      "pueblo",
+      "gobierno",
+      "iraníes",
+      ",",
+      "reafirmó",
+      "“",
+      "firme",
+      "convicción",
+      "pronto",
+      "puedan",
+      "determinar",
+      "respondables",
+      "despreciable",
+      "crimen",
+      "proporcione",
+      "debido",
+      "castigo",
+      "”",
+      ".",
+      "venezuela",
+      "extendió",
+      "condolencias",
+      "familias",
+      "amigos",
+      "víctimas",
+      "deseó",
+      "pronta",
+      "recuperación",
+      "tercer",
+      "juez",
+      "blanco",
+      "ataques",
+      ".",
+      "nación",
+      "sudamericana",
+      "afirma",
+      "rechaza",
+      "“",
+      "forma",
+      "contundente",
+      "terrorismo",
+      "todas",
+      "manifestaciones",
+      "deplora",
+      "acto",
+      "violencia",
+      "intención",
+      "causar",
+      "terror",
+      "zozobra",
+      "población",
+      "civil",
+      "”",
+      ",",
+      "hechos",
+      "constituyen",
+      "evidente",
+      "“",
+      "violación",
+      "derecho",
+      "vida",
+      ",",
+      "libertad",
+      ",",
+      "seguridad",
+      ",",
+      "bienestar",
+      "derecho",
+      "vivir",
+      "temor",
+      "paz",
+      "”",
+      ".",
+      "magistrados",
+      "encontraban",
+      "inmersos",
+      "investigaciones",
+      "asociadas",
+      "casos",
+      "espionaje",
+      "terrorismo",
+      "baleados",
+      "frente",
+      "edificio",
+      "fiscalía",
+      "iraní",
+      ".",
+      "acuerdo",
+      "informaciones",
+      "preliminares",
+      ",",
+      "atacante",
+      "posee",
+      "ningún",
+      "proceso",
+      "judicial",
+      "curso",
+      ".",
+      "tras",
+      "ser",
+      "preseguido",
+      "autoridades",
+      "seguridad",
+      ",",
+      "reaccionaron",
+      "primeros",
+      "momentos",
+      ",",
+      "sospechoso",
+      "terminó",
+      "suicidarse",
+      "."
+    ],
+    "token_count": 150,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "NN": 88,
+      "NNS": 10,
+      "JJ": 21,
+      "IN": 14,
+      "FW": 48,
+      "CD": 2,
+      "VBP": 4,
+      "VBZ": 4,
+      "VBD": 1,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 5,
+      "NN-NNS": 4,
+      "NNS-JJ": 1,
+      "JJ-NN": 14,
+      "NN-NN": 49,
+      "NN-JJ": 10,
+      "NNS-NNP": 2,
+      "NNP-NNP": 7,
+      "NN-IN": 9,
+      "IN-FW": 9,
+      "FW-NNP": 4,
+      "NNP-CD": 2,
+      "CD-IN": 2,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "FW-FW": 26,
+      "FW-NNS": 2,
+      "NNS-VBP": 4,
+      "VBP-JJ": 2,
+      "JJ-FW": 2,
+      "FW-JJ": 3,
+      "JJ-JJ": 2,
+      "NN-FW": 9,
+      "FW-NN": 13,
+      "NN-NNP": 5,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 3,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NN": 2,
+      "VBP-VBZ": 1,
+      "NNP-FW": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-NN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-IN": 1,
+      "IN-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 30,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 8,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-IN": 2,
+      "NN-IN-FW": 7,
+      "IN-FW-NNP": 3,
+      "FW-NNP-CD": 2,
+      "NNP-CD-IN": 2,
+      "CD-IN-FW": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 17,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-JJ": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 2,
+      "JJ-NN-IN": 5,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 7,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-NN": 1,
+      "VBZ-NN-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-JJ": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-IN": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 48,
+        "JJ": 21,
+        "NNP": 20,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 49,
+        "FW-FW": 26,
+        "JJ-NN": 14,
+        "FW-NN": 13,
+        "NN-JJ": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 8,
+        "NN-JJ-NN": 8,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 13,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('jefe', 'NN')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('Sección', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('sus', 'NN')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "VP -> ('derecho', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "S -> NP ('y', 'PRP') VP (',', ',') NP ('de', 'FW') ('la', 'FW') NP ('53', 'CD') ('de', 'IN') ('la', 'FW') NP PP ('y', 'CC') NP (',', ',') NP ('de', 'FW') ('la', 'FW') NP ('39', 'CD') ('de', 'IN') ('la', 'FW') ('misma', 'FW') NP (',', ',') NP VP ('en', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "VP -> ('pueblo', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('venezolanos', 'JJ') ('denuncian', 'JJ') ('el', 'NN') ('ataque', 'NN') ('cometido', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "VP",
+        "text": "pueblo venezolanos denuncian el ataque cometido contra los jueces Mohammad Moqiseh"
+      },
+      {
+        "label": "NP",
+        "text": "venezolanos denuncian el ataque cometido"
+      },
+      {
+        "label": "NP",
+        "text": "contra los jueces Mohammad Moqiseh"
+      },
+      {
+        "label": "NP",
+        "text": "jefe"
+      },
+      {
+        "label": "NP",
+        "text": "Sección"
+      },
+      {
+        "label": "NP",
+        "text": "Corte Suprema"
+      },
+      {
+        "label": "PP",
+        "text": "de Justicia"
+      },
+      {
+        "label": "NP",
+        "text": "Justicia"
+      },
+      {
+        "label": "NP",
+        "text": "Alí Razini"
+      },
+      {
+        "label": "NP",
+        "text": "jefe"
+      },
+      {
+        "label": "NP",
+        "text": "Sección"
+      },
+      {
+        "label": "NP",
+        "text": "entidad"
+      },
+      {
+        "label": "NP",
+        "text": "quienes"
+      },
+      {
+        "label": "VP",
+        "text": "fueron asesinados"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Gobierno/NNP)\n  y/PRP\n  (VP\n    pueblo/VBP\n    (NP venezolanos/JJ denuncian/JJ el/NN ataque/NN cometido/NN)\n    (NP contra/JJ los/NN jueces/NNS Mohammad/NNP Moqiseh/NNP))\n  ,/,\n  (NP jefe/NN)\n  de/FW\n  la/FW\n  (NP Sección/NNP)\n  53/CD\n  de/IN\n  la/FW\n  (NP Corte/NNP Suprema/NNP)\n  (PP de/IN (NP Justicia/NNP))\n  y/CC\n  (NP Alí/NNP Razini/NNP)\n  ,/,\n  (NP jefe/NN)\n  de/FW\n  la/FW\n  (NP Sección/NNP)\n  39/CD\n  de/IN\n  la/FW\n  misma/FW\n  (NP entidad/NN)\n  ,/,\n  (NP quienes/NNS)\n  (VP fueron/VBP asesinados/JJ)\n  en/FW\n  (NP un/JJ despreciable/JJ acto/NN terrorista/NN)\n  ,/,\n  (NP donde/NN también/NN resultó/NN herido/NN otro/NN magistrado/NN)\n  ./.)",
+      "(S\n  (NP La/NNP República/NNP Bolivariana/NNP)\n  (VP\n    expresó/VBZ\n    (NP sus/NN)\n    (NP\n      condolencias/JJ\n      con/NN\n      el/NN\n      pueblo/NN\n      y/NN\n      Gobierno/NNP\n      iraníes/NN))\n  ,/,\n  y/CC\n  (NP reafirmó/NN su/NN “/NNP firme/NN convicción/NN)\n  de/IN\n  que/FW\n  pronto/FW\n  se/FW\n  puedan/FW\n  determinar/FW\n  (NP a/DT los/JJ respondables/NNS)\n  (PP de/IN (NP este/NN))\n  (NP despreciable/JJ crimen/NNS)\n  (VP y/VBP (NP se/JJ les/NNS))\n  (VP proporcione/VBP (NP el/JJ debido/NN castigo/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Venezuela/NNP)\n  extendió/CC\n  (NP sus/NN)\n  (VP condolencias/VBP (NP a/DT las/NN familias/NN))\n  y/FW\n  amigos/FW\n  de/FW\n  las/FW\n  víctimas/FW\n  y/FW\n  deseó/FW\n  pronta/FW\n  (VP\n    recuperación/VB\n    (NP a/DT un/JJ tercer/NN juez/NN que/NN también/NN)\n    (NP fue/JJ blanco/NN))\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  nación/CC\n  (NP sudamericana/JJ afirma/NN que/NN rechaza/NN “/NNP)\n  de/IN\n  forma/FW\n  (NP contundente/NN)\n  el/FW\n  (NP terrorismo/NN)\n  en/FW\n  todas/FW\n  (NP sus/NN manifestaciones/NNS)\n  y/RB\n  (VP deplora/VBP (NP todo/JJ acto/NN))\n  de/IN\n  violencia/FW\n  (NP\n    que/NN\n    tenga/NN\n    como/NN\n    intención/NN\n    causar/NN\n    terror/NN\n    y/NN\n    zozobra/NN)\n  en/IN\n  la/FW\n  población/FW\n  (NP civil/JJ ”/NN)\n  ,/,\n  (NP hechos/NN que/NN constituyen/NN)\n  (NP una/JJ evidente/NN “/NNP violación/NN del/NN)\n  (VP derecho/VBZ (NP a/DT la/NN vida/NN))\n  ,/,\n  (NP a/DT la/NN libertad/NN)\n  ,/,\n  (NP a/DT la/NN seguridad/NN)\n  ,/,\n  el/FW\n  (NP bienestar/NN y/NN al/NN)\n  (VP derecho/VBZ (NP a/DT vivir/NN sin/NN temor/NN y/NN))\n  (PP en/IN (NP paz/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  magistrados/PRP\n  (VP se/VBD (NP encontraban/JJ inmersos/NN))\n  (PP en/IN (NP investigaciones/NNS asociadas/NNS))\n  (VP con/VBP (NP casos/NN))\n  de/FW\n  espionaje/FW\n  y/FW\n  (NP terrorismo/NN y/NN fueron/NN baleados/NN frente/NN)\n  al/FW\n  edificio/FW\n  de/FW\n  la/FW\n  fiscalía/FW\n  (NP iraní/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          339,
+          346
+        ],
+        "start": 339,
+        "end": 346
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "suprema de justicia",
+        "position": [
+          129,
+          148
+        ],
+        "start": 129,
+        "end": 148
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          400,
+          408
+        ],
+        "start": 400,
+        "end": 408
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          553,
+          562
+        ],
+        "start": 553,
+        "end": 562
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio de",
+        "position": [
+          1215,
+          1226
+        ],
+        "start": 1215,
+        "end": 1226
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Sección 39",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno iraníes",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mohammad Moqiseh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alí Razini",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sección 53 de la",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Corte Suprema de Justicia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República Bolivariana",
+        "relacion": "EXPRESAR",
+        "objeto": "Gobierno iraníes"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.0,
+    "neu": 0.958,
+    "neg": 0.042,
+    "label": "negative"
+  }
+}

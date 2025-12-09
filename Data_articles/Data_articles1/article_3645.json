@@ -1,0 +1,837 @@
+{
+  "url": "https://www.telesurtv.net/unicef-para-africa-oriental-y-meridional-reporta-178-000-casos-de-colera/",
+  "title": "Unicef para África Oriental y Meridional reporta 178.000 casos de cólera - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "África Oriental y Meridional",
+    "cólera"
+  ],
+  "text": "El Fondo de las Naciones Unidas para Infancia (Unicef) para África reportó este lunes que se han notificado aproximadamente 178.000 casos de cólera en la región africana Oriental y Meridional, desde enero del 2024.\n“África Oriental y Meridional registra más de 178.000 casos de cólera en 15 meses, en medio de problemas de agua, saneamiento e higiene”, según compartió Unicef en la red social X.\nDe igual manera, el ente argumentó que “los niños menores de 15 años representan el 50 por ciento de los casos en Sudán del Sur y el 40 por ciento en Angola”.\nUnicef precisó que al menos 2.900 personas, murieron por la enfermedad y gran parte son menores.\nDe igual manera, dijo que “aproximadamente 194 millones de personas en la región de África Occidental y Central carecen de acceso a servicios básicos de agua, y casi la mitad son niños”.\nAsimismo, alertó las consecuencias de la crisis climática, las inundaciones y sequías que afectan los servicios básicos fundamentales como depósitos y tuberías de agua, y ocasionando, entre otros efectos, que se acaben las fuentes de agua subterránea.\nEn este sentido, el organismo instó a los Gobiernos y las partes interesadas de la región a hacer frente a esta crisis, incrementar la financiación de medios que posibiliten el acceso al agua potable y al saneamiento.\nTambién solicitó mejorar la posibilidad de acceder a estos servicios básicos con la implementación de acciones políticas de alto nivel; así como mayor inversión en la aceleración de la recuperación climática de los servicios sociales; y ampliar las capacidades del sector del agua, el saneamiento y la higiene.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/unicef-para-africa-oriental-y-meridional-reporta-178-000-casos-de-colera/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 541,
+    "message_id": 90109,
+    "date": "2025-03-24T22:55:17+00:00",
+    "text": "teleSUR\nUnicef para África Oriental y Meridional reporta 178.000 casos de cólera\nhttps://www.telesurtv.net/unicef-para-africa-oriental-y-meridional-reporta-178-000-casos-de-colera/",
+    "photo_path": null,
+    "views": 2060,
+    "reactions": {
+      "😱": 25,
+      "🤬": 10,
+      "🔥": 3,
+      "👍": 2,
+      "😈": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "el fondo de las naciones unidas para infancia (unicef) para áfrica reportó este lunes que se han notificado aproximadamente 178.000 casos de cólera en la región africana oriental y meridional, desde enero del 2024. “áfrica oriental y meridional registra más de 178.000 casos de cólera en 15 meses, en medio de problemas de agua, saneamiento e higiene”, según compartió unicef en la red social x. de igual manera, el ente argumentó que “los niños menores de 15 años representan el 50 por ciento de los casos en sudán del sur y el 40 por ciento en angola”. unicef precisó que al menos 2.900 personas, murieron por la enfermedad y gran parte son menores. de igual manera, dijo que “aproximadamente 194 millones de personas en la región de áfrica occidental y central carecen de acceso a servicios básicos de agua, y casi la mitad son niños”. asimismo, alertó las consecuencias de la crisis climática, las inundaciones y sequías que afectan los servicios básicos fundamentales como depósitos y tuberías de agua, y ocasionando, entre otros efectos, que se acaben las fuentes de agua subterránea. en este sentido, el organismo instó a los gobiernos y las partes interesadas de la región a hacer frente a esta crisis, incrementar la financiación de medios que posibiliten el acceso al agua potable y al saneamiento. también solicitó mejorar la posibilidad de acceder a estos servicios básicos con la implementación de acciones políticas de alto nivel; así como mayor inversión en la aceleración de la recuperación climática de los servicios sociales; y ampliar las capacidades del sector del agua, el saneamiento y la higiene.",
+    "tokens": [
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      "áfrica",
+      "reportó",
+      "lunes",
+      "notificado",
+      "aproximadamente",
+      "178.000",
+      "casos",
+      "cólera",
+      "región",
+      "africana",
+      "oriental",
+      "meridional",
+      ",",
+      "enero",
+      "2024",
+      ".",
+      "“",
+      "áfrica",
+      "oriental",
+      "meridional",
+      "registra",
+      "178.000",
+      "casos",
+      "cólera",
+      "15",
+      "meses",
+      ",",
+      "medio",
+      "problemas",
+      "agua",
+      ",",
+      "saneamiento",
+      "higiene",
+      "”",
+      ",",
+      "según",
+      "compartió",
+      "unicef",
+      "red",
+      "social",
+      "x.",
+      "igual",
+      "manera",
+      ",",
+      "ente",
+      "argumentó",
+      "“",
+      "niños",
+      "menores",
+      "15",
+      "años",
+      "representan",
+      "50",
+      "ciento",
+      "casos",
+      "sudán",
+      "sur",
+      "40",
+      "ciento",
+      "angola",
+      "”",
+      ".",
+      "unicef",
+      "precisó",
+      "menos",
+      "2.900",
+      "personas",
+      ",",
+      "murieron",
+      "enfermedad",
+      "gran",
+      "parte",
+      "menores",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "dijo",
+      "“",
+      "aproximadamente",
+      "194",
+      "millones",
+      "personas",
+      "región",
+      "áfrica",
+      "occidental",
+      "central",
+      "carecen",
+      "acceso",
+      "servicios",
+      "básicos",
+      "agua",
+      ",",
+      "casi",
+      "mitad",
+      "niños",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "alertó",
+      "consecuencias",
+      "crisis",
+      "climática",
+      ",",
+      "inundaciones",
+      "sequías",
+      "afectan",
+      "servicios",
+      "básicos",
+      "fundamentales",
+      "depósitos",
+      "tuberías",
+      "agua",
+      ",",
+      "ocasionando",
+      ",",
+      "efectos",
+      ",",
+      "acaben",
+      "fuentes",
+      "agua",
+      "subterránea",
+      ".",
+      ",",
+      "organismo",
+      "instó",
+      "gobiernos",
+      "partes",
+      "interesadas",
+      "región",
+      "hacer",
+      "frente",
+      "crisis",
+      ",",
+      "incrementar",
+      "financiación",
+      "medios",
+      "posibiliten",
+      "acceso",
+      "agua",
+      "potable",
+      "saneamiento",
+      ".",
+      "solicitó",
+      "mejorar",
+      "posibilidad",
+      "acceder",
+      "servicios",
+      "básicos",
+      "implementación",
+      "acciones",
+      "políticas",
+      "alto",
+      "nivel",
+      ";",
+      "así",
+      "mayor",
+      "inversión",
+      "aceleración",
+      "recuperación",
+      "climática",
+      "servicios",
+      "sociales",
+      ";",
+      "ampliar",
+      "capacidades",
+      "sector",
+      "agua",
+      ",",
+      "saneamiento",
+      "higiene",
+      "."
+    ],
+    "token_count": 180,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "IN": 14,
+      "FW": 72,
+      "NN": 79,
+      "VBZ": 3,
+      "NNS": 14,
+      "VBP": 10,
+      "JJ": 17,
+      "VBD": 4,
+      "CD": 9,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 7,
+      "NNP-IN": 1,
+      "IN-FW": 11,
+      "FW-NNP": 6,
+      "NNP-NN": 9,
+      "NN-NNP": 6,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-JJ": 5,
+      "JJ-NN": 10,
+      "NN-NN": 42,
+      "NN-VBD": 3,
+      "VBD-CD": 3,
+      "CD-NN": 5,
+      "NN-FW": 9,
+      "FW-NN": 10,
+      "NN-IN": 9,
+      "FW-FW": 48,
+      "NN-CD": 2,
+      "CD-NNP": 1,
+      "IN-CD": 3,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-NNP": 2,
+      "NNP-JJ": 2,
+      "NN-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 3,
+      "CD-JJ": 1,
+      "JJ-FW": 1,
+      "NNP-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-NNS": 4,
+      "NNS-FW": 1,
+      "NNP-VBP": 1,
+      "NN-VBP": 1,
+      "VBP-NNS": 2,
+      "VBP-IN": 1,
+      "VBP-NN": 2,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-VBD": 3,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NN": 2,
+      "CD-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 37,
+      "FW-FW-NNP": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 21,
+      "NN-NN-CD": 2,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "NN-NN-NNP": 3,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-NNP": 2,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "IN-FW-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-IN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-JJ-NN": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 72,
+        "NNP": 24,
+        "JJ": 17,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 48,
+        "NN-NN": 42,
+        "IN-FW": 11,
+        "JJ-NN": 10,
+        "FW-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 37,
+        "NN-NN-NN": 21,
+        "NN-IN-FW": 7,
+        "JJ-NN-NN": 6,
+        "IN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 18,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('casos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('cólera', 'NN')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('igual', 'JJ') ('manera', 'NN')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('las', 'FW') NP ('(', '(') NP (')', ')') NP VP VP VP ('178.000', 'CD') NP ('de', 'FW') NP ('en', 'IN') ('la', 'FW') ('región', 'FW') ('africana', 'FW') NP (',', ',') NP ('2024', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Fondo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP') ('para', 'NN') ('Infancia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Unicef', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('para', 'NN') ('África', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Fondo"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para Infancia"
+      },
+      {
+        "label": "NP",
+        "text": "Unicef"
+      },
+      {
+        "label": "NP",
+        "text": "para África"
+      },
+      {
+        "label": "VP",
+        "text": "reportó este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "que se han notificado"
+      },
+      {
+        "label": "NP",
+        "text": "se han notificado"
+      },
+      {
+        "label": "VP",
+        "text": "aproximadamente"
+      },
+      {
+        "label": "NP",
+        "text": "casos"
+      },
+      {
+        "label": "NP",
+        "text": "cólera"
+      },
+      {
+        "label": "NP",
+        "text": "Oriental y Meridional"
+      },
+      {
+        "label": "NP",
+        "text": "desde enero del"
+      },
+      {
+        "label": "NP",
+        "text": "“ África Oriental y Meridional registra más"
+      },
+      {
+        "label": "NP",
+        "text": "casos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Fondo/NNP)\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN Infancia/NNP)\n  (/(\n  (NP Unicef/NNP)\n  )/)\n  (NP para/NN África/NNP)\n  (VP reportó/VBZ (NP este/NN lunes/NNS))\n  (VP que/VBP (NP se/JJ han/NN notificado/NN))\n  (VP aproximadamente/VBD)\n  178.000/CD\n  (NP casos/NN)\n  de/FW\n  (NP cólera/NN)\n  en/IN\n  la/FW\n  región/FW\n  africana/FW\n  (NP Oriental/NNP y/NNP Meridional/NNP)\n  ,/,\n  (NP desde/NN enero/NN del/NN)\n  2024/CD\n  ./.)",
+      "(S\n  (NP\n    “/NN\n    África/NNP\n    Oriental/NNP\n    y/NNP\n    Meridional/NNP\n    registra/NN\n    más/NN)\n  de/IN\n  178.000/CD\n  (NP casos/NN)\n  de/FW\n  (NP cólera/NN)\n  en/IN\n  15/CD\n  (NP meses/NNS)\n  ,/,\n  en/FW\n  medio/FW\n  de/FW\n  problemas/FW\n  de/FW\n  agua/FW\n  ,/,\n  saneamiento/FW\n  e/FW\n  (NP higiene/NN ”/NN)\n  ,/,\n  (NP según/JJ compartió/NN Unicef/NNP)\n  (VP en/VBZ)\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  el/FW\n  ente/FW\n  argumentó/FW\n  (NP que/NN “/NNP)\n  (VP los/VBZ (NP niños/JJ menores/NNS))\n  de/IN\n  15/CD\n  (NP años/JJ representan/NN el/NN)\n  50/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  los/FW\n  (ADJP casos/JJ)\n  en/FW\n  (NP Sudán/NNP)\n  del/FW\n  (NP Sur/NNP y/NNP)\n  (VP el/VBD)\n  40/CD\n  (NP por/NN ciento/NN)\n  en/FW\n  (NP Angola/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Unicef/NNP precisó/NN que/NN)\n  (VP al/VBD)\n  menos/$\n  2.900/CD\n  (NP personas/NN)\n  ,/,\n  murieron/FW\n  (NP por/NN)\n  la/FW\n  enfermedad/FW\n  y/FW\n  (NP gran/NN parte/NN son/NN menores/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  (NP dijo/NN que/NN “/NNP)\n  (VP aproximadamente/VBZ)\n  194/CD\n  (NP millones/NNS)\n  de/IN\n  personas/FW\n  en/FW\n  la/FW\n  región/FW\n  de/FW\n  África/FW\n  (NP Occidental/NNP)\n  y/CC\n  (NP Central/NNP carecen/NN)\n  de/FW\n  acceso/FW\n  (NP a/DT servicios/JJ básicos/NN)\n  de/IN\n  agua/FW\n  ,/,\n  y/FW\n  (NP casi/NN)\n  la/FW\n  mitad/FW\n  (NP son/NN niños/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "inundaciones y sequías que afectan",
+        "position": [
+          902,
+          936
+        ],
+        "start": 902,
+        "end": 936
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inversión",
+        "position": [
+          1460,
+          1469
+        ],
+        "start": 1460,
+        "end": 1469
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          562,
+          569
+        ],
+        "start": 562,
+        "end": 569
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis climática",
+        "position": [
+          880,
+          896
+        ],
+        "start": 880,
+        "end": 896
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          16,
+          31
+        ],
+        "start": 16,
+        "end": 31
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unicef",
+        "position": [
+          47,
+          53
+        ],
+        "start": 47,
+        "end": 53
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          323,
+          327
+        ],
+        "start": 323,
+        "end": 327
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "saneamiento",
+        "position": [
+          329,
+          340
+        ],
+        "start": 329,
+        "end": 340
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región africana",
+        "position": [
+          154,
+          169
+        ],
+        "start": 154,
+        "end": 169
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "900 personas",
+        "position": [
+          585,
+          597
+        ],
+        "start": 585,
+        "end": 597
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "194 millones",
+        "position": [
+          695,
+          707
+        ],
+        "start": 695,
+        "end": 707
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2.900 personas",
+        "position": [
+          583,
+          597
+        ],
+        "start": 583,
+        "end": 597
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 178.000",
+        "position": [
+          108,
+          131
+        ],
+        "start": 108,
+        "end": 131
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 178.000",
+        "position": [
+          254,
+          268
+        ],
+        "start": 254,
+        "end": 268
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Oriental",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "África Occidental",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Meridional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unicef",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Angola",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Central",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudán del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo de las Naciones Unidas para Infancia",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fondo de las Naciones Unidas para Infancia",
+        "relacion": "REPORTAR",
+        "objeto": "Oriental"
+      },
+      {
+        "sujeto": "Fondo de las Naciones Unidas para Infancia",
+        "relacion": "REPORTAR",
+        "objeto": "Meridional"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "REPORTAR",
+        "objeto": "Oriental"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "REPORTAR",
+        "objeto": "Meridional"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "REPORTAR",
+        "objeto": "Oriental"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "REPORTAR",
+        "objeto": "Meridional"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "REGISTRAR",
+        "objeto": "Unicef"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "REGISTRAR",
+        "objeto": "Sudán del Sur"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "REGISTRAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "REGISTRAR",
+        "objeto": "Oriental"
+      },
+      {
+        "sujeto": "Oriental",
+        "relacion": "REGISTRAR",
+        "objeto": "Sudán del Sur"
+      },
+      {
+        "sujeto": "Oriental",
+        "relacion": "REGISTRAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "REGISTRAR",
+        "objeto": "Meridional"
+      },
+      {
+        "sujeto": "Meridional",
+        "relacion": "REGISTRAR",
+        "objeto": "Sudán del Sur"
+      },
+      {
+        "sujeto": "Meridional",
+        "relacion": "REGISTRAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "COMPARTIR_REGISTRAR",
+        "objeto": "Sudán del Sur"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "COMPARTIR_REGISTRAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "Sudán del Sur",
+        "relacion": "REPRESENTAR_ARGUMENTAR_REGISTRAR",
+        "objeto": "Angola"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.0,
+    "neu": 0.968,
+    "neg": 0.032,
+    "label": "negative"
+  }
+}

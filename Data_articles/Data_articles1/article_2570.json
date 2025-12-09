@@ -1,0 +1,688 @@
+{
+  "url": "https://www.telesurtv.net/mexico-afirma-estar-preparado-para-apoyar-a-connacionales-en-ee-uu/",
+  "title": "México afirma estar preparado para apoyar a connacionales en EE.UU. - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Canciller Mexicano",
+    "Consulados Mexicanos",
+    "EEUU"
+  ],
+  "text": "El Gobierno mexicano anunció el sábado que se encuentra preparado para apoyar a sus ciudadanos en Estados Unidos, a través de la red de los más de 50 consulados que tiene en ese país.\nEl canciller de México, Juan Ramón de la Fuente señaló que cada una de los 53 consulados en EE.UU. ya cuentan con una estrategia y un equipo de abogados para defender el derecho estadunidense e internacional para proteger a los connacionales, sin importar su condición migratoria.\nDurante un encuentro vía remota con los titulares de los consulados mexicanos en EE.UU. Estados Unidos, el canciller De la Fuente aseguró que “frente a los desafíos que tenemos por delante México cuenta con una red consular unida y sólida, que trabaja de manera coordinada y estará a la altura de las circunstancias”.\nAsimismo,el diplomático mexicano reiteró que la prioridad de la presidenta Claudia Sheinbaum en materia de política exterior es la protección y defensa de los connacionales.\nDe la Fuente indicó que la presidenta, le solicitó al cuerpo diplomático que siga manteniendo “una actitud proactiva, para tener una mayor capacidad de respuesta en la atención de las necesidades de la comunidad mexicana”.\nEl canciller reiteró que los mexicanos en cualquier parte del territorio estadounidense “no están ni estarán solos”, pues la red consular de México está preparada para asistirlos y proteger sus derechos frente a cualquier circunstancia, haciendo uso de todos los medios legales disponibles.\nJuan Ramón de la Fuente le pidió a los consulados que mantengan una estrategia de “puertas abiertas” para escuchar y atender las peticiones e inquietudes de los ciudadanos mexicanos, así como a seguir fortaleciendo las alianzas con abogados, organizaciones sociales, universidades, iglesias para contribuir a la protección de la comunidad mexicana.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-afirma-estar-preparado-para-apoyar-a-connacionales-en-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 971,
+    "message_id": 84805,
+    "date": "2025-01-19T04:55:13+00:00",
+    "text": "teleSUR\nMéxico afirma estar preparado para apoyar a connacionales en EE.UU.\nhttps://www.telesurtv.net/mexico-afirma-estar-preparado-para-apoyar-a-connacionales-en-ee-uu/",
+    "photo_path": null,
+    "views": 2419,
+    "reactions": {
+      "👏": 39,
+      "👍": 10,
+      "❤": 6,
+      "🥱": 2
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno mexicano anunció el sábado que se encuentra preparado para apoyar a sus ciudadanos en estados unidos, a través de la red de los más de 50 consulados que tiene en ese país. el canciller de méxico, juan ramón de la fuente señaló que cada una de los 53 consulados en ee.uu. ya cuentan con una estrategia y un equipo de abogados para defender el derecho estadunidense e internacional para proteger a los connacionales, sin importar su condición migratoria. durante un encuentro vía remota con los titulares de los consulados mexicanos en ee.uu. estados unidos, el canciller de la fuente aseguró que “frente a los desafíos que tenemos por delante méxico cuenta con una red consular unida y sólida, que trabaja de manera coordinada y estará a la altura de las circunstancias”. asimismo,el diplomático mexicano reiteró que la prioridad de la presidenta claudia sheinbaum en materia de política exterior es la protección y defensa de los connacionales. de la fuente indicó que la presidenta, le solicitó al cuerpo diplomático que siga manteniendo “una actitud proactiva, para tener una mayor capacidad de respuesta en la atención de las necesidades de la comunidad mexicana”. el canciller reiteró que los mexicanos en cualquier parte del territorio estadounidense “no están ni estarán solos”, pues la red consular de méxico está preparada para asistirlos y proteger sus derechos frente a cualquier circunstancia, haciendo uso de todos los medios legales disponibles. juan ramón de la fuente le pidió a los consulados que mantengan una estrategia de “puertas abiertas” para escuchar y atender las peticiones e inquietudes de los ciudadanos mexicanos, así como a seguir fortaleciendo las alianzas con abogados, organizaciones sociales, universidades, iglesias para contribuir a la protección de la comunidad mexicana.",
+    "tokens": [
+      "gobierno",
+      "mexicano",
+      "anunció",
+      "sábado",
+      "encuentra",
+      "preparado",
+      "apoyar",
+      "ciudadanos",
+      "unidos",
+      ",",
+      "través",
+      "red",
+      "50",
+      "consulados",
+      "país",
+      ".",
+      "canciller",
+      "méxico",
+      ",",
+      "juan",
+      "ramón",
+      "fuente",
+      "señaló",
+      "cada",
+      "53",
+      "consulados",
+      "ee.uu.",
+      "cuentan",
+      "estrategia",
+      "equipo",
+      "abogados",
+      "defender",
+      "derecho",
+      "estadunidense",
+      "internacional",
+      "proteger",
+      "connacionales",
+      ",",
+      "importar",
+      "condición",
+      "migratoria",
+      ".",
+      "encuentro",
+      "vía",
+      "remota",
+      "titulares",
+      "consulados",
+      "mexicanos",
+      "ee.uu.",
+      "unidos",
+      ",",
+      "canciller",
+      "fuente",
+      "aseguró",
+      "“",
+      "frente",
+      "desafíos",
+      "delante",
+      "méxico",
+      "cuenta",
+      "red",
+      "consular",
+      "unida",
+      "sólida",
+      ",",
+      "trabaja",
+      "manera",
+      "coordinada",
+      "altura",
+      "circunstancias",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "diplomático",
+      "mexicano",
+      "reiteró",
+      "prioridad",
+      "presidenta",
+      "claudia",
+      "sheinbaum",
+      "materia",
+      "política",
+      "exterior",
+      "protección",
+      "defensa",
+      "connacionales",
+      ".",
+      "fuente",
+      "indicó",
+      "presidenta",
+      ",",
+      "solicitó",
+      "cuerpo",
+      "diplomático",
+      "siga",
+      "manteniendo",
+      "“",
+      "actitud",
+      "proactiva",
+      ",",
+      "tener",
+      "mayor",
+      "capacidad",
+      "respuesta",
+      "atención",
+      "necesidades",
+      "comunidad",
+      "mexicana",
+      "”",
+      ".",
+      "canciller",
+      "reiteró",
+      "mexicanos",
+      "cualquier",
+      "parte",
+      "territorio",
+      "estadounidense",
+      "“",
+      "solos",
+      "”",
+      ",",
+      "pues",
+      "red",
+      "consular",
+      "méxico",
+      "preparada",
+      "asistirlos",
+      "proteger",
+      "derechos",
+      "frente",
+      "cualquier",
+      "circunstancia",
+      ",",
+      "haciendo",
+      "uso",
+      "medios",
+      "legales",
+      "disponibles",
+      ".",
+      "juan",
+      "ramón",
+      "fuente",
+      "pidió",
+      "consulados",
+      "mantengan",
+      "estrategia",
+      "“",
+      "puertas",
+      "abiertas",
+      "”",
+      "escuchar",
+      "atender",
+      "peticiones",
+      "inquietudes",
+      "ciudadanos",
+      "mexicanos",
+      ",",
+      "así",
+      "seguir",
+      "fortaleciendo",
+      "alianzas",
+      "abogados",
+      ",",
+      "organizaciones",
+      "sociales",
+      ",",
+      "universidades",
+      ",",
+      "iglesias",
+      "contribuir",
+      "protección",
+      "comunidad",
+      "mexicana",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "NN": 109,
+      "JJ": 29,
+      "IN": 14,
+      "FW": 61,
+      "CD": 2,
+      "PRP": 1,
+      "VBP": 8,
+      "NNS": 16,
+      "VBZ": 1,
+      "DT": 1,
+      "RB": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-NN": 8,
+      "NN-NN": 72,
+      "NN-JJ": 10,
+      "JJ-NN": 19,
+      "NN-IN": 10,
+      "IN-NNP": 4,
+      "IN-FW": 9,
+      "FW-FW": 40,
+      "FW-CD": 2,
+      "CD-NN": 2,
+      "IN-JJ": 1,
+      "NN-NNP": 4,
+      "NNP-IN": 2,
+      "FW-NNP": 7,
+      "NN-FW": 6,
+      "NNP-PRP": 1,
+      "PRP-VBP": 1,
+      "VBP-JJ": 6,
+      "JJ-JJ": 6,
+      "FW-JJ": 3,
+      "NN-NNS": 4,
+      "NNS-VBP": 6,
+      "VBP-NN": 2,
+      "NNP-JJ": 1,
+      "JJ-NNS": 4,
+      "NNS-IN": 2,
+      "NNP-FW": 5,
+      "FW-NN": 5,
+      "FW-NNS": 4,
+      "NNS-NNP": 3,
+      "NNP-VBP": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNS-NNS": 4,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 47,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 13,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NN-IN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 32,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 2,
+      "CD-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 2,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "IN-FW-CD": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-PRP": 1,
+      "NNP-PRP-VBP": 1,
+      "PRP-VBP-JJ": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "NN-JJ-JJ": 4,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "FW-JJ-NNS": 2,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NNS-NNP-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-JJ": 4,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 2,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "FW-NNP-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "FW-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 109,
+        "FW": 61,
+        "JJ": 29,
+        "NNP": 27,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 72,
+        "FW-FW": 40,
+        "JJ-NN": 19,
+        "NN-JJ": 10,
+        "NN-IN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 47,
+        "FW-FW-FW": 32,
+        "JJ-NN-NN": 13,
+        "NN-NN-JJ": 9,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 16,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0306
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0306
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP NP VP PP (',', ',') NP ('de', 'IN') ('la', 'FW') ('red', 'FW') ('de', 'FW') ('los', 'FW') ('más', 'FW') ('de', 'FW') ('50', 'CD') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP') ('mexicano', 'NN') ('anunció', 'NN') ('el', 'NN') ('sábado', 'NN') ('que', 'NN') ('se', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('encuentra', 'JJ') ('preparado', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('apoyar', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('sus', 'NN') ('ciudadanos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('través', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno mexicano anunció el sábado que se"
+      },
+      {
+        "label": "NP",
+        "text": "encuentra preparado para"
+      },
+      {
+        "label": "VP",
+        "text": "apoyar a sus ciudadanos"
+      },
+      {
+        "label": "NP",
+        "text": "a sus ciudadanos"
+      },
+      {
+        "label": "PP",
+        "text": "en Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "a través"
+      },
+      {
+        "label": "NP",
+        "text": "consulados que tiene"
+      },
+      {
+        "label": "PP",
+        "text": "en ese país"
+      },
+      {
+        "label": "NP",
+        "text": "ese país"
+      },
+      {
+        "label": "NP",
+        "text": "El canciller"
+      },
+      {
+        "label": "PP",
+        "text": "de México"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Juan Ramón"
+      },
+      {
+        "label": "NP",
+        "text": "Fuente señaló que cada una"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    Gobierno/NNP\n    mexicano/NN\n    anunció/NN\n    el/NN\n    sábado/NN\n    que/NN\n    se/NN)\n  (NP encuentra/JJ preparado/NN para/NN)\n  (VP apoyar/VBZ (NP a/DT sus/NN ciudadanos/NN))\n  (PP en/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (NP a/DT través/NN)\n  de/IN\n  la/FW\n  red/FW\n  de/FW\n  los/FW\n  más/FW\n  de/FW\n  50/CD\n  (NP consulados/NN que/NN tiene/NN)\n  (PP en/IN (NP ese/JJ país/NN))\n  ./.)",
+      "(S\n  (NP El/NNP canciller/NN)\n  (PP de/IN (NP México/NNP))\n  ,/,\n  (NP Juan/NNP Ramón/NNP)\n  de/IN\n  la/FW\n  (NP Fuente/NNP señaló/NN que/NN cada/NN una/NN)\n  de/IN\n  los/FW\n  53/CD\n  (NP consulados/NN)\n  en/FW\n  (NP EE.UU./NNP)\n  ya/PRP\n  (VP\n    cuentan/VBP\n    (NP con/JJ una/JJ estrategia/NN y/NN)\n    (NP un/JJ equipo/NN))\n  de/IN\n  abogados/FW\n  (NP para/JJ defender/NN el/NN derecho/NN estadunidense/NN)\n  (VP\n    e/VBP\n    (NP internacional/JJ para/NN proteger/NN)\n    (NP a/DT los/NN connacionales/NNS))\n  ,/,\n  (NP sin/NN importar/NN su/NN condición/NN migratoria/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  (NP un/JJ encuentro/NN vía/NN remota/NN con/NN)\n  (NP los/JJ titulares/NNS)\n  de/IN\n  los/FW\n  (NP consulados/JJ mexicanos/NNS)\n  (PP en/IN (NP EE.UU./NNP Estados/NNP Unidos/NNP))\n  ,/,\n  (NP el/JJ canciller/NN De/NNP)\n  la/FW\n  (NP Fuente/NNP aseguró/NN que/NN “/NNP)\n  (VP\n    frente/VBZ\n    (NP\n      a/DT\n      los/JJ\n      desafíos/NN\n      que/NN\n      tenemos/NN\n      por/NN\n      delante/NN\n      México/NNP\n      cuenta/NN\n      con/NN)\n    (NP una/JJ red/JJ consular/NN unida/NN y/NN sólida/NN))\n  ,/,\n  (NP que/JJ trabaja/NN)\n  de/IN\n  manera/FW\n  (NP coordinada/NN y/NN)\n  (VP estará/VBZ (NP a/DT la/NN altura/NN))\n  de/IN\n  las/FW\n  (NP circunstancias/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP el/VBZ (NP diplomático/JJ mexicano/NN reiteró/NN que/NN))\n  la/FW\n  prioridad/FW\n  de/FW\n  la/FW\n  presidenta/FW\n  (NP Claudia/NNP Sheinbaum/NNP)\n  en/FW\n  materia/FW\n  de/FW\n  política/FW\n  exterior/FW\n  es/FW\n  la/FW\n  protección/FW\n  y/FW\n  defensa/FW\n  de/FW\n  los/FW\n  (NP connacionales/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  la/FW\n  (NP Fuente/NNP indicó/NN que/NN la/NN presidenta/NN)\n  ,/,\n  (NP\n    le/JJ\n    solicitó/NN\n    al/NN\n    cuerpo/NN\n    diplomático/NN\n    que/NN\n    siga/NN\n    manteniendo/NN\n    “/NNP)\n  (NP una/JJ actitud/NN proactiva/NN)\n  ,/,\n  (NP para/NN tener/NN)\n  (NP una/JJ mayor/NN capacidad/NN)\n  de/IN\n  respuesta/FW\n  en/FW\n  la/FW\n  atención/FW\n  de/FW\n  las/FW\n  necesidades/FW\n  de/FW\n  la/FW\n  comunidad/FW\n  mexicana/FW\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          232,
+          238
+        ],
+        "start": 232,
+        "end": 238
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          21,
+          28
+        ],
+        "start": 21,
+        "end": 28
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          927,
+          934
+        ],
+        "start": 927,
+        "end": 934
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "equipo de abogados para defender el derecho estadunidense e internacional",
+        "position": [
+          318,
+          391
+        ],
+        "start": 318,
+        "end": 391
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta claudia sheinbaum",
+        "position": [
+          847,
+          875
+        ],
+        "start": 847,
+        "end": 875
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          98,
+          112
+        ],
+        "start": 98,
+        "end": 112
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          200,
+          206
+        ],
+        "start": 200,
+        "end": 206
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          140,
+          149
+        ],
+        "start": 140,
+        "end": 149
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Juan Ramón de la Fuente",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "en Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU. Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno mexicano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "De la Fuente",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno mexicano",
+        "relacion": "ANUNCIAR",
+        "objeto": "en Estados Unidos"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "SE_ALAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Juan Ramón de la Fuente",
+        "relacion": "SE_ALAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU. Estados Unidos",
+        "relacion": "ASEGURAR",
+        "objeto": "De la Fuente"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ASEGURAR",
+        "objeto": "EE.UU. Estados Unidos"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ASEGURAR",
+        "objeto": "De la Fuente"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4939,
+    "pos": 0.005,
+    "neu": 0.982,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

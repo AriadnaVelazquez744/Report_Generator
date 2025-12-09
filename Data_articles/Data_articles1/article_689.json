@@ -1,0 +1,754 @@
+{
+  "url": "https://www.telesurtv.net/hambruna-gaza-palestinos-mueren-inanicion/",
+  "title": "Hambruna en Gaza: Siete palestinos más mueren por inanición mientras se agudiza la crisis humanitaria - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "Gaza",
+    "Hambruna",
+    "Israel",
+    "Ministerio de Salud de Gaza",
+    "Palestina"
+  ],
+  "text": "Siete palestinos han muerto de hambre y desnutrición en la Franja de Gaza en las últimas 24 horas, según informaron fuentes médicas, en medio de un bloqueo total israelí en la región, lo que eleva el número total de muertes relacionadas con la desnutrición a 339, incluidos 124 niños. La situación se ha deteriorado significativamente desde que la Clasificación Integrada de Seguridad Alimentaria (CIF) declaró la hambruna en Gaza el pasado 22 de agosto.\n\nDesde esa fecha, se han registrado 61 muertes adicionales, incluyendo nueve niños, a causa del hambre extrema. La evaluación internacional del CIF, en la que participan las Naciones Unidas y organizaciones asociadas, advirtió que se espera que las condiciones de hambruna se extiendan a las provincias de Deir al-Balah y Khan Younis a fines de septiembre.\nEl informe del CIF detalla la alarmante situación de inseguridad alimentaria que enfrenta la población de Gaza. Más de 500.000 personas se encuentran en la quinta y más severa fase, caracterizada por hambre extrema y tasas críticamente altas de desnutrición.\nAdicionalmente, 1,07 millones de personas, lo que representa el 54% de la población, están experimentando una inseguridad alimentaria de nivel de emergencia, mientras que 396.000 personas están en la fase de crisis.\n\n\nLa Clasificación Integrada de la Seguridad Alimentaria en Fases es una iniciativa global que incluye a agencias de las Naciones Unidas y organizaciones de socorro. El informe subraya que la situación actual en Gaza es la más grave de su escala de cinco niveles, lo que refleja la urgencia de esta crisis humanitaria, provocada por la combinación del bloqueo israelí, su asedio militar y la destrucción de la agricultura luego de 22 meses de agresión y cruentos bombardeos.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hambruna-gaza-palestinos-mueren-inanicion/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 23,
+    "message_id": 103394,
+    "date": "2025-08-31T16:55:12+00:00",
+    "text": "teleSUR\nHambruna en Gaza: Siete palestinos más mueren por inanición mientras se agudiza la crisis humanitaria\nhttps://www.telesurtv.net/hambruna-gaza-palestinos-mueren-inanicion/",
+    "photo_path": null,
+    "views": 1517,
+    "reactions": {
+      "🤮": 19,
+      "🤬": 12,
+      "😢": 4,
+      "😭": 2
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "siete palestinos han muerto de hambre y desnutrición en la franja de gaza en las últimas 24 horas, según informaron fuentes médicas, en medio de un bloqueo total israelí en la región, lo que eleva el número total de muertes relacionadas con la desnutrición a 339, incluidos 124 niños. la situación se ha deteriorado significativamente desde que la clasificación integrada de seguridad alimentaria (cif) declaró la hambruna en gaza el pasado 22 de agosto. desde esa fecha, se han registrado 61 muertes adicionales, incluyendo nueve niños, a causa del hambre extrema. la evaluación internacional del cif, en la que participan las naciones unidas y organizaciones asociadas, advirtió que se espera que las condiciones de hambruna se extiendan a las provincias de deir al-balah y khan younis a fines de septiembre. el informe del cif detalla la alarmante situación de inseguridad alimentaria que enfrenta la población de gaza. más de 500.000 personas se encuentran en la quinta y más severa fase, caracterizada por hambre extrema y tasas críticamente altas de desnutrición. adicionalmente, 1,07 millones de personas, lo que representa el 54% de la población, están experimentando una inseguridad alimentaria de nivel de emergencia, mientras que 396.000 personas están en la fase de crisis. la clasificación integrada de la seguridad alimentaria en fases es una iniciativa global que incluye a agencias de las naciones unidas y organizaciones de socorro. el informe subraya que la situación actual en gaza es la más grave de su escala de cinco niveles, lo que refleja la urgencia de esta crisis humanitaria, provocada por la combinación del bloqueo israelí, su asedio militar y la destrucción de la agricultura luego de 22 meses de agresión y cruentos bombardeos.",
+    "tokens": [
+      "siete",
+      "palestinos",
+      "muerto",
+      "hambre",
+      "desnutrición",
+      "franja",
+      "gaza",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "según",
+      "informaron",
+      "fuentes",
+      "médicas",
+      ",",
+      "medio",
+      "bloqueo",
+      "total",
+      "israelí",
+      "región",
+      ",",
+      "eleva",
+      "número",
+      "total",
+      "muertes",
+      "relacionadas",
+      "desnutrición",
+      "339",
+      ",",
+      "incluidos",
+      "124",
+      "niños",
+      ".",
+      "situación",
+      "deteriorado",
+      "significativamente",
+      "clasificación",
+      "integrada",
+      "seguridad",
+      "alimentaria",
+      "(",
+      "cif",
+      ")",
+      "declaró",
+      "hambruna",
+      "gaza",
+      "pasado",
+      "22",
+      "agosto",
+      ".",
+      "fecha",
+      ",",
+      "registrado",
+      "61",
+      "muertes",
+      "adicionales",
+      ",",
+      "incluyendo",
+      "nueve",
+      "niños",
+      ",",
+      "causa",
+      "hambre",
+      "extrema",
+      ".",
+      "evaluación",
+      "internacional",
+      "cif",
+      ",",
+      "participan",
+      "naciones",
+      "unidas",
+      "organizaciones",
+      "asociadas",
+      ",",
+      "advirtió",
+      "espera",
+      "condiciones",
+      "hambruna",
+      "extiendan",
+      "provincias",
+      "deir",
+      "al-balah",
+      "khan",
+      "younis",
+      "fines",
+      "septiembre",
+      ".",
+      "informe",
+      "cif",
+      "detalla",
+      "alarmante",
+      "situación",
+      "inseguridad",
+      "alimentaria",
+      "enfrenta",
+      "población",
+      "gaza",
+      ".",
+      "500.000",
+      "personas",
+      "encuentran",
+      "quinta",
+      "severa",
+      "fase",
+      ",",
+      "caracterizada",
+      "hambre",
+      "extrema",
+      "tasas",
+      "críticamente",
+      "altas",
+      "desnutrición",
+      ".",
+      "adicionalmente",
+      ",",
+      "1,07",
+      "millones",
+      "personas",
+      ",",
+      "representa",
+      "54",
+      "%",
+      "población",
+      ",",
+      "experimentando",
+      "inseguridad",
+      "alimentaria",
+      "nivel",
+      "emergencia",
+      ",",
+      "mientras",
+      "396.000",
+      "personas",
+      "fase",
+      "crisis",
+      ".",
+      "clasificación",
+      "integrada",
+      "seguridad",
+      "alimentaria",
+      "fases",
+      "iniciativa",
+      "global",
+      "incluye",
+      "agencias",
+      "naciones",
+      "unidas",
+      "organizaciones",
+      "socorro",
+      ".",
+      "informe",
+      "subraya",
+      "situación",
+      "actual",
+      "gaza",
+      "grave",
+      "escala",
+      "cinco",
+      "niveles",
+      ",",
+      "refleja",
+      "urgencia",
+      "crisis",
+      "humanitaria",
+      ",",
+      "provocada",
+      "combinación",
+      "bloqueo",
+      "israelí",
+      ",",
+      "asedio",
+      "militar",
+      "destrucción",
+      "agricultura",
+      "luego",
+      "22",
+      "meses",
+      "agresión",
+      "cruentos",
+      "bombardeos",
+      "."
+    ],
+    "token_count": 183,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "NNS": 15,
+      "VBP": 10,
+      "FW": 84,
+      "CD": 10,
+      "JJ": 23,
+      "NN": 70,
+      "IN": 14,
+      "VBZ": 6,
+      "VBD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-FW": 1,
+      "FW-FW": 54,
+      "FW-NNP": 13,
+      "NNP-FW": 6,
+      "FW-CD": 3,
+      "CD-NNS": 6,
+      "NNS-JJ": 3,
+      "JJ-NN": 14,
+      "NN-NNS": 1,
+      "VBP-JJ": 8,
+      "NN-IN": 7,
+      "IN-FW": 11,
+      "FW-JJ": 3,
+      "JJ-JJ": 2,
+      "JJ-FW": 3,
+      "FW-NN": 8,
+      "NN-NN": 43,
+      "NN-VBZ": 2,
+      "VBZ-CD": 2,
+      "CD-NN": 1,
+      "NN-CD": 1,
+      "CD-JJ": 1,
+      "JJ-NNP": 2,
+      "NN-NNP": 5,
+      "NNP-NNP": 10,
+      "NNP-IN": 3,
+      "IN-NNP": 2,
+      "NNP-NN": 4,
+      "NNP-VBP": 2,
+      "JJ-CD": 1,
+      "CD-IN": 2,
+      "NNS-NNS": 1,
+      "NNP-VBZ": 4,
+      "VBZ-JJ": 1,
+      "VBZ-FW": 2,
+      "VBZ-NNS": 1,
+      "NN-JJ": 4,
+      "JJ-NNS": 1,
+      "NNS-IN": 2,
+      "NNP-JJ": 1,
+      "NNS-FW": 2,
+      "FW-NNS": 3,
+      "IN-CD": 1,
+      "NN-FW": 5,
+      "NNP-CD": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NN-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 36,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-CD": 3,
+      "FW-CD-NNS": 3,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-FW": 5,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 6,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-CD": 2,
+      "VBZ-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NN-NN": 29,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "IN-FW-NNP": 3,
+      "NNP-FW-NN": 2,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NN-NN": 4,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-NNP-NN": 2,
+      "NN-NNP-NN": 1,
+      "NN-JJ-NN": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-FW": 2,
+      "NNP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "FW-JJ-NN": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-IN-FW": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-VBP": 1,
+      "JJ-NN-JJ": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "CD-NNS-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 84,
+        "NN": 70,
+        "NNP": 33,
+        "JJ": 23,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 54,
+        "NN-NN": 43,
+        "JJ-NN": 14,
+        "FW-NNP": 13,
+        "IN-FW": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 36,
+        "NN-NN-NN": 29,
+        "FW-FW-NNP": 7,
+        "NN-IN-FW": 6,
+        "FW-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 14,
+      "ADJP": 2,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0521
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0417
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Seguridad', 'NNP') ('Alimentaria', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP') ('y', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "S -> NP VP ('muerto', 'FW') ('de', 'FW') ('hambre', 'FW') ('y', 'FW') ('desnutrición', 'FW') ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('en', 'FW') ('las', 'FW') ('últimas', 'FW') ('24', 'CD') NP (',', ',') NP VP (',', ',') ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('un', 'FW') ('bloqueo', 'FW') NP ('en', 'IN') ('la', 'FW') ('región', 'FW') (',', ',') ('lo', 'FW') ('que', 'FW') ('eleva', 'FW') ('el', 'FW') ('número', 'FW') ADJP ('de', 'FW') ('muertes', 'FW') ('relacionadas', 'FW') NP ('la', 'FW') VP ('a', 'DT') ('339', 'CD') (',', ',') ('incluidos', 'RB') ('124', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('Siete', 'NNP') ('palestinos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "VP -> ('han', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0104
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Siete palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "han"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "según informaron fuentes"
+      },
+      {
+        "label": "VP",
+        "text": "médicas"
+      },
+      {
+        "label": "NP",
+        "text": "total israelí"
+      },
+      {
+        "label": "ADJP",
+        "text": "total"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "VP",
+        "text": "desnutrición"
+      },
+      {
+        "label": "NP",
+        "text": "niños"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "ha deteriorado significativamente desde que la Clasificación Integrada"
+      },
+      {
+        "label": "PP",
+        "text": "de Seguridad Alimentaria"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Siete/NNP palestinos/NNS)\n  (VP han/VBP)\n  muerto/FW\n  de/FW\n  hambre/FW\n  y/FW\n  desnutrición/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  en/FW\n  las/FW\n  últimas/FW\n  24/CD\n  (NP horas/NNS)\n  ,/,\n  (NP según/JJ informaron/NN fuentes/NNS)\n  (VP médicas/VBP)\n  ,/,\n  en/FW\n  medio/FW\n  de/FW\n  un/FW\n  bloqueo/FW\n  (NP total/JJ israelí/NN)\n  en/IN\n  la/FW\n  región/FW\n  ,/,\n  lo/FW\n  que/FW\n  eleva/FW\n  el/FW\n  número/FW\n  (ADJP total/JJ)\n  de/FW\n  muertes/FW\n  relacionadas/FW\n  (NP con/NN)\n  la/FW\n  (VP desnutrición/VBZ)\n  a/DT\n  339/CD\n  ,/,\n  incluidos/RB\n  124/CD\n  (NP niños/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  situación/FW\n  se/FW\n  (NP\n    ha/NN\n    deteriorado/NN\n    significativamente/NN\n    desde/NN\n    que/NN\n    la/NN\n    Clasificación/NNP\n    Integrada/NNP)\n  (PP de/IN (NP Seguridad/NNP Alimentaria/NNP))\n  (/(\n  (NP CIF/NNP)\n  )/)\n  (NP declaró/NN la/NN hambruna/NN)\n  (PP en/IN (NP Gaza/NNP))\n  (VP el/VBP pasado/JJ)\n  22/CD\n  (PP de/IN (NP agosto/NN))\n  ./.)",
+      "(S\n  (NP Desde/NNP esa/NN fecha/NN)\n  ,/,\n  se/FW\n  (NP han/NN)\n  (VP registrado/VBP)\n  61/CD\n  (NP muertes/NNS adicionales/NNS)\n  ,/,\n  (ADJP incluyendo/JJ)\n  nueve/FW\n  (NP niños/NN)\n  ,/,\n  (NP a/DT causa/NN del/NN hambre/NN extrema/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP evaluación/VBZ (NP internacional/JJ del/NN CIF/NNP))\n  ,/,\n  en/FW\n  la/FW\n  que/FW\n  participan/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP y/NNP)\n  (VP organizaciones/VBZ (NP asociadas/NNS))\n  ,/,\n  (NP advirtió/JJ que/NN se/NN espera/NN que/NN)\n  (NP las/JJ condiciones/NNS)\n  de/IN\n  hambruna/FW\n  se/FW\n  extiendan/FW\n  (NP a/DT las/JJ provincias/NN)\n  (PP de/IN (NP Deir/NNP))\n  (NP al-Balah/JJ y/NN Khan/NNP Younis/NNP)\n  (NP a/DT fines/NNS)\n  (PP de/IN (NP septiembre/NN))\n  ./.)",
+      "(S\n  (NP El/NNP informe/NN del/NN CIF/NNP detalla/NN la/NN)\n  (NP alarmante/JJ situación/NN)\n  de/IN\n  inseguridad/FW\n  (NP alimentaria/NNS)\n  (VP que/VBP enfrenta/JJ)\n  la/FW\n  población/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bloqueo israelí, su asedio militar",
+        "position": [
+          1639,
+          1673
+        ],
+        "start": 1639,
+        "end": 1673
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          403,
+          410
+        ],
+        "start": 403,
+        "end": 410
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          673,
+          681
+        ],
+        "start": 673,
+        "end": 681
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo total israelí en la región, lo que eleva el número total de muertes relacionadas con la desnutrición a 339, incluidos 124 niños. la situación se ha deteriorado significativamente desde que la clasificación integrada de seguridad alimentaria (cif) declaró la hambruna en gaza",
+        "position": [
+          148,
+          430
+        ],
+        "start": 148,
+        "end": 430
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "socorro. el informe subraya que la situación actual en gaza es la más grave de su escala de cinco niveles, lo que refleja la urgencia de esta crisis humanitaria",
+        "position": [
+          1444,
+          1604
+        ],
+        "start": 1444,
+        "end": 1604
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          629,
+          644
+        ],
+        "start": 629,
+        "end": 644
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          162,
+          169
+        ],
+        "start": 162,
+        "end": 169
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, lo",
+        "position": [
+          176,
+          186
+        ],
+        "start": 176,
+        "end": 186
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          148,
+          155
+        ],
+        "start": 148,
+        "end": 155
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          935,
+          947
+        ],
+        "start": 935,
+        "end": 947
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "07 millones",
+        "position": [
+          1089,
+          1100
+        ],
+        "start": 1089,
+        "end": 1100
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500.000 personas",
+        "position": [
+          931,
+          947
+        ],
+        "start": 931,
+        "end": 947
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 500.000",
+        "position": [
+          924,
+          938
+        ],
+        "start": 924,
+        "end": 938
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "396.000 personas",
+        "position": [
+          1242,
+          1258
+        ],
+        "start": 1242,
+        "end": 1258
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Deir al-Balah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "PARTICIPAR_ADVERTIR",
+        "objeto": "Deir al-Balah"
+      },
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "PARTICIPAR_ADVERTIR",
+        "objeto": "Khan Younis"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8555,
+    "pos": 0.009,
+    "neu": 0.952,
+    "neg": 0.039,
+    "label": "negative"
+  }
+}

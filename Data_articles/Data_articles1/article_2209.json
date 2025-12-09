@@ -1,0 +1,672 @@
+{
+  "url": "https://www.telesurtv.net/defensa-antiaerea-rusa-intercepta-cinco-drones-procedentes-de-ucrania/",
+  "title": "Defensa antiaérea rusa intercepta cinco drones procedentes de Ucrania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "defensa antiaérea",
+    "Drones",
+    "Rusia"
+  ],
+  "text": "La defensa aérea de Rusia reportó la interceptación de cinco drones procedentes de Ucrania en varias regiones del país durante la noche de este lunes.\nSegún el comunicado emitido por el Ministerio de Defensa ruso, estos incidentes se produjeron entre las 18H00 y las 22H00 (hora local).\nDe los cinco drones, tres fueron destruidos en el territorio de la República de Crimea.\nLos otros dos fueron derribados sobre las regiones de Kursk y Bélgorod, que son algunas de las provincias más cercanas al conflicto.\nLa operación militar especial que Rusia inició el 24 de febrero de 2022 continúa desarrollándose y sus objetivos incluyen la protección de la población de los ataques llevados a cabo por el régimen de Kiev.\nLas reclamaciones de los líderes rusos apuntan a un riesgo creciente de ataques provenientes del territorio ucraniano.\nLas provincias que comparten frontera con Ucrania, como Bélgorod, Briansk, Kursk y Vorónezh, informan regularmente sobre los impactos de proyectiles y las incursiones de drones, lo que ha generado un clima de tensión en la región.\nEste contexto ha llevado a la población a buscar refugio en otras áreas debido a la amenaza constante de ataques.\nLa situación sobre el terreno continúa siendo inestable y preocupante para los residentes de estas provincias.\nA medida que se intensifican los enfrentamientos entre ambos países, la defensa aérea rusa se mantiene en alerta, intentando prevenir cualquier incursión que ponga en peligro la seguridad de los territorios afectados.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/defensa-antiaerea-rusa-intercepta-cinco-drones-procedentes-de-ucrania/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 304,
+    "message_id": 85586,
+    "date": "2025-01-28T02:55:12+00:00",
+    "text": "teleSUR\nDefensa antiaérea rusa intercepta cinco drones procedentes de Ucrania\nhttps://www.telesurtv.net/defensa-antiaerea-rusa-intercepta-cinco-drones-procedentes-de-ucrania/",
+    "photo_path": null,
+    "views": 2276,
+    "reactions": {
+      "👍": 35,
+      "👏": 8,
+      "🔥": 4,
+      "🫡": 4
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "la defensa aérea de rusia reportó la interceptación de cinco drones procedentes de ucrania en varias regiones del país durante la noche de este lunes. según el comunicado emitido por el ministerio de defensa ruso, estos incidentes se produjeron entre las 18h00 y las 22h00 (hora local). de los cinco drones, tres fueron destruidos en el territorio de la república de crimea. los otros dos fueron derribados sobre las regiones de kursk y bélgorod, que son algunas de las provincias más cercanas al conflicto. la operación militar especial que rusia inició el 24 de febrero de 2022 continúa desarrollándose y sus objetivos incluyen la protección de la población de los ataques llevados a cabo por el régimen de kiev. las reclamaciones de los líderes rusos apuntan a un riesgo creciente de ataques provenientes del territorio ucraniano. las provincias que comparten frontera con ucrania, como bélgorod, briansk, kursk y vorónezh, informan regularmente sobre los impactos de proyectiles y las incursiones de drones, lo que ha generado un clima de tensión en la región. este contexto ha llevado a la población a buscar refugio en otras áreas debido a la amenaza constante de ataques. la situación sobre el terreno continúa siendo inestable y preocupante para los residentes de estas provincias. a medida que se intensifican los enfrentamientos entre ambos países, la defensa aérea rusa se mantiene en alerta, intentando prevenir cualquier incursión que ponga en peligro la seguridad de los territorios afectados.",
+    "tokens": [
+      "defensa",
+      "aérea",
+      "rusia",
+      "reportó",
+      "interceptación",
+      "cinco",
+      "drones",
+      "procedentes",
+      "ucrania",
+      "varias",
+      "regiones",
+      "país",
+      "noche",
+      "lunes",
+      ".",
+      "según",
+      "comunicado",
+      "emitido",
+      "ministerio",
+      "defensa",
+      "ruso",
+      ",",
+      "incidentes",
+      "produjeron",
+      "18h00",
+      "22h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ".",
+      "cinco",
+      "drones",
+      ",",
+      "tres",
+      "destruidos",
+      "territorio",
+      "república",
+      "crimea",
+      ".",
+      "dos",
+      "derribados",
+      "regiones",
+      "kursk",
+      "bélgorod",
+      ",",
+      "provincias",
+      "cercanas",
+      "conflicto",
+      ".",
+      "operación",
+      "militar",
+      "especial",
+      "rusia",
+      "inició",
+      "24",
+      "febrero",
+      "2022",
+      "continúa",
+      "desarrollándose",
+      "objetivos",
+      "incluyen",
+      "protección",
+      "población",
+      "ataques",
+      "llevados",
+      "cabo",
+      "régimen",
+      "kiev",
+      ".",
+      "reclamaciones",
+      "líderes",
+      "rusos",
+      "apuntan",
+      "riesgo",
+      "creciente",
+      "ataques",
+      "provenientes",
+      "territorio",
+      "ucraniano",
+      ".",
+      "provincias",
+      "comparten",
+      "frontera",
+      "ucrania",
+      ",",
+      "bélgorod",
+      ",",
+      "briansk",
+      ",",
+      "kursk",
+      "vorónezh",
+      ",",
+      "informan",
+      "regularmente",
+      "impactos",
+      "proyectiles",
+      "incursiones",
+      "drones",
+      ",",
+      "generado",
+      "clima",
+      "tensión",
+      "región",
+      ".",
+      "contexto",
+      "llevado",
+      "población",
+      "buscar",
+      "refugio",
+      "áreas",
+      "debido",
+      "amenaza",
+      "constante",
+      "ataques",
+      ".",
+      "situación",
+      "terreno",
+      "continúa",
+      "siendo",
+      "inestable",
+      "preocupante",
+      "residentes",
+      "provincias",
+      ".",
+      "medida",
+      "intensifican",
+      "enfrentamientos",
+      "ambos",
+      "países",
+      ",",
+      "defensa",
+      "aérea",
+      "rusa",
+      "mantiene",
+      "alerta",
+      ",",
+      "intentando",
+      "prevenir",
+      "cualquier",
+      "incursión",
+      "ponga",
+      "peligro",
+      "seguridad",
+      "territorios",
+      "afectados",
+      "."
+    ],
+    "token_count": 147,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "JJ": 28,
+      "NN": 69,
+      "IN": 14,
+      "FW": 53,
+      "NNS": 17,
+      "VBP": 7,
+      "VBZ": 5,
+      "VBD": 3,
+      "CD": 4,
+      "MD": 2,
+      "VB": 2
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 19,
+      "NN-IN": 8,
+      "IN-NNP": 4,
+      "NNP-NN": 8,
+      "NN-NN": 33,
+      "NN-FW": 9,
+      "FW-FW": 30,
+      "FW-NNS": 9,
+      "NNS-NNS": 2,
+      "NNS-IN": 4,
+      "NNP-FW": 4,
+      "NNS-FW": 1,
+      "FW-NN": 5,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-NN": 2,
+      "FW-NNP": 5,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 1,
+      "NNS-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 4,
+      "JJ-NNP": 3,
+      "NN-NNS": 1,
+      "NNS-VBZ": 1,
+      "IN-FW": 7,
+      "NNP-NNP": 6,
+      "NNP-MD": 2,
+      "MD-VB": 2,
+      "VB-NN": 1,
+      "NN-JJ": 9,
+      "JJ-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "VB-JJ": 1,
+      "NN-NNP": 3,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-NNS": 2,
+      "NN-VBP": 1,
+      "NNS-JJ": 1,
+      "FW-JJ": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 17,
+      "FW-FW-NNS": 8,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNP": 3,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 16,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 2,
+      "MD-VB-NN": 1,
+      "VB-NN-NN": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-VBD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-FW": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-IN": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "IN-FW-FW": 4,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-FW-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-FW-NNS": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "IN-FW-JJ": 1,
+      "NN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 69,
+        "FW": 53,
+        "JJ": 28,
+        "NNP": 24,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 33,
+        "FW-FW": 30,
+        "JJ-NN": 19,
+        "NN-FW": 9,
+        "FW-NNS": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 17,
+        "NN-NN-NN": 16,
+        "JJ-NN-NN": 9,
+        "FW-FW-NNS": 8,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 69,
+      "PP": 8,
+      "VP": 17,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0667
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP NP PP ('interceptación', 'FW') ('de', 'FW') ('cinco', 'FW') NP PP ('en', 'FW') ('varias', 'FW') NP ('del', 'FW') ('país', 'FW') NP ('la', 'FW') ('noche', 'FW') ('de', 'FW') ('este', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('defensa', 'JJ') ('aérea', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP') ('reportó', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('drones', 'NNS') ('procedentes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Ucrania', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('regiones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "defensa aérea"
+      },
+      {
+        "label": "PP",
+        "text": "de Rusia reportó la"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia reportó la"
+      },
+      {
+        "label": "NP",
+        "text": "drones procedentes"
+      },
+      {
+        "label": "PP",
+        "text": "de Ucrania"
+      },
+      {
+        "label": "NP",
+        "text": "Ucrania"
+      },
+      {
+        "label": "NP",
+        "text": "regiones"
+      },
+      {
+        "label": "NP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "lunes"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "NP",
+        "text": "comunicado emitido por"
+      },
+      {
+        "label": "NP",
+        "text": "Ministerio"
+      },
+      {
+        "label": "NP",
+        "text": "Defensa ruso"
+      },
+      {
+        "label": "NP",
+        "text": "estos incidentes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (NP defensa/JJ aérea/NN)\n  (PP de/IN (NP Rusia/NNP reportó/NN la/NN))\n  interceptación/FW\n  de/FW\n  cinco/FW\n  (NP drones/NNS procedentes/NNS)\n  (PP de/IN (NP Ucrania/NNP))\n  en/FW\n  varias/FW\n  (NP regiones/NNS)\n  del/FW\n  país/FW\n  (NP durante/NN)\n  la/FW\n  noche/FW\n  de/FW\n  este/FW\n  (NP lunes/NNS)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP comunicado/NN emitido/NN por/NN)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Defensa/NNP ruso/NN)\n  ,/,\n  (NP estos/NN incidentes/NNS)\n  (VP se/VBP (NP produjeron/NN entre/NN))\n  (VP las/VBD)\n  18H00/CD\n  (NP y/NN las/NNS)\n  22H00/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  los/FW\n  (NP cinco/NN drones/NNS)\n  ,/,\n  (NP tres/NNS)\n  (VP fueron/VBP destruidos/JJ)\n  en/FW\n  el/FW\n  (NP territorio/NN)\n  de/IN\n  la/FW\n  (NP República/NNP)\n  de/FW\n  (NP Crimea/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  otros/MD\n  (VP\n    dos/VB\n    (NP fueron/NN derribados/NN sobre/NN)\n    (NP las/JJ regiones/NNS))\n  (PP de/IN (NP Kursk/NNP y/NNP Bélgorod/NNP))\n  ,/,\n  (NP que/JJ son/NN algunas/NN)\n  de/IN\n  las/FW\n  provincias/FW\n  más/FW\n  (NP cercanas/NNS)\n  (VP al/VBP (NP conflicto/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  operación/MD\n  (VP militar/VB (NP especial/JJ que/NN Rusia/NNP inició/NN))\n  (VP el/VBD)\n  24/CD\n  de/FW\n  febrero/FW\n  de/IN\n  2022/CD\n  (NP continúa/NN)\n  (NP desarrollándose/JJ y/NN sus/NN)\n  objetivos/FW\n  (ADJP incluyen/JJ)\n  la/FW\n  protección/FW\n  de/FW\n  la/FW\n  población/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP llevados/VBP (NP a/DT cabo/NN por/NN) (NP el/JJ régimen/NNS))\n  (PP de/IN (NP Kiev/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques provenientes del territorio ucraniano",
+        "position": [
+          787,
+          832
+        ],
+        "start": 787,
+        "end": 832
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          3,
+          10
+        ],
+        "start": 3,
+        "end": 10
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          20,
+          25
+        ],
+        "start": 20,
+        "end": 25
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          709,
+          713
+        ],
+        "start": 709,
+        "end": 713
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "24 de febrero de 2022",
+        "position": [
+          558,
+          579
+        ],
+        "start": 558,
+        "end": 579
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la noche",
+        "position": [
+          119,
+          135
+        ],
+        "start": 119,
+        "end": 135
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Kursk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bélgorod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vorónezh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República de Crimea",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Briansk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Defensa ruso",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rusia",
+        "relacion": "REPORTAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "INICIAR_CONTINUAR",
+        "objeto": "Kiev"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "COMPARTIR_INFORMAR",
+        "objeto": "Bélgorod"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "COMPARTIR_INFORMAR",
+        "objeto": "Briansk"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "COMPARTIR_INFORMAR",
+        "objeto": "Kursk"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "COMPARTIR_INFORMAR",
+        "objeto": "Vorónezh"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.021,
+    "neu": 0.979,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

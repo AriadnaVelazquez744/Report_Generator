@@ -1,0 +1,834 @@
+{
+  "url": "https://www.telesurtv.net/comite-uruguay-denuncia-despliegue-eeuu/",
+  "title": "Zona de Paz: Comité Antiimperialista de Uruguay denuncia despliegue de EE.UU. en el mar Caribe",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Despliegue Militar",
+    "EE.UU.",
+    "Venezuela",
+    "zona de paz"
+  ],
+  "text": "El despliegue de más de 4.500 militares estadounidenses en el mar Caribe, acompañados por el crucero lanzamisiles USS Lake Erie, el submarino nuclear de ataque rápido USS Newport News y otras potentes armas destructoras que estarían surcando aguas cercanas a Venezuela fue denunciado por el Comité Antiimperialista Uruguayo de Solidaridad con Cuba y los Pueblos del Mundo.\n\nA través de un comunicado, dicha organización refirió que “estos movimientos militares por parte del gobierno Trump están alejados de las disposiciones del derecho internacional y constituyen una seria amenaza a la paz, la seguridad y la estabilidad regional”.\nReconocen, junto a otras organizaciones que ya se han pronunciado a favor de la soberanía de Venezuela, que ninguna acción del gobierno de EE.UU. “puede poner en riesgo el carácter de América Latina como zona de paz”.\n\n\nAl saludar la convocatoria de la reunión de cancilleres de la CELAC por parte de Colombia, en su calidad de presidencia pro témpore, para analizar la coyuntura regional generada tras este preocupante despliegue militar, la organización se solidarizó con todos los pueblos de la región, en especial con el pueblo venezolano, frente a esta acción amenazante.\nRecordó que el Gobierno de Estados Unidos debe respetar los compromisos internacionales asumidos, y en particular el Tratado de Tlatelolco de 1967.\nEn este acuerdo se declaró a la región zona libre de armas nucleares, ratificado por EE.UU. en 1971, donde se comprometió a no usar ni amenazar con armas nucleares a los Estados firmantes.\nOtro de los pactos y acuerdos establecidos por los Gobiernos de América Latina y el Caribe fue la declaración de la CELAC en 2014, reconocida incluso por la Organización de Naciones unidas (ONU) que proclamó a América Latina y el Caribe como territorio de paz.\nEstados Unidos viene amenazando la soberanía de Venezuela: sanciones, bloqueos, y ahora la amenaza de intervención tras el despliegue por las costas caribeñas.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/comite-uruguay-denuncia-despliegue-eeuu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 841,
+    "message_id": 103740,
+    "date": "2025-09-04T03:55:13+00:00",
+    "text": "teleSUR\nZona de Paz: Comité Antiimperialista de Uruguay denuncia despliegue de EE.UU. en el mar Caribe\nhttps://www.telesurtv.net/comite-uruguay-denuncia-despliegue-eeuu/",
+    "photo_path": null,
+    "views": 1947,
+    "reactions": {
+      "👍": 37,
+      "👏": 9,
+      "❤": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "el despliegue de más de 4.500 militares estadounidenses en el mar caribe, acompañados por el crucero lanzamisiles uss lake erie, el submarino nuclear de ataque rápido uss newport news y otras potentes armas destructoras que estarían surcando aguas cercanas a venezuela fue denunciado por el comité antiimperialista uruguayo de solidaridad con cuba y los pueblos del mundo. a través de un comunicado, dicha organización refirió que “estos movimientos militares por parte del gobierno trump están alejados de las disposiciones del derecho internacional y constituyen una seria amenaza a la paz, la seguridad y la estabilidad regional”. reconocen, junto a otras organizaciones que ya se han pronunciado a favor de la soberanía de venezuela, que ninguna acción del gobierno de ee.uu. “puede poner en riesgo el carácter de américa latina como zona de paz”. al saludar la convocatoria de la reunión de cancilleres de la celac por parte de colombia, en su calidad de presidencia pro témpore, para analizar la coyuntura regional generada tras este preocupante despliegue militar, la organización se solidarizó con todos los pueblos de la región, en especial con el pueblo venezolano, frente a esta acción amenazante. recordó que el gobierno de estados unidos debe respetar los compromisos internacionales asumidos, y en particular el tratado de tlatelolco de 1967. en este acuerdo se declaró a la región zona libre de armas nucleares, ratificado por ee.uu. en 1971, donde se comprometió a no usar ni amenazar con armas nucleares a los estados firmantes. otro de los pactos y acuerdos establecidos por los gobiernos de américa latina y el caribe fue la declaración de la celac en 2014, reconocida incluso por la organización de naciones unidas (onu) que proclamó a américa latina y el caribe como territorio de paz. estados unidos viene amenazando la soberanía de venezuela: sanciones, bloqueos, y ahora la amenaza de intervención tras el despliegue por las costas caribeñas.",
+    "tokens": [
+      "despliegue",
+      "4.500",
+      "militares",
+      "estadounidenses",
+      "mar",
+      "caribe",
+      ",",
+      "acompañados",
+      "crucero",
+      "lanzamisiles",
+      "uss",
+      "lake",
+      "erie",
+      ",",
+      "submarino",
+      "nuclear",
+      "ataque",
+      "rápido",
+      "uss",
+      "newport",
+      "news",
+      "potentes",
+      "armas",
+      "destructoras",
+      "surcando",
+      "aguas",
+      "cercanas",
+      "venezuela",
+      "denunciado",
+      "comité",
+      "antiimperialista",
+      "uruguayo",
+      "solidaridad",
+      "cuba",
+      "pueblos",
+      "mundo",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "dicha",
+      "organización",
+      "refirió",
+      "“",
+      "movimientos",
+      "militares",
+      "parte",
+      "gobierno",
+      "trump",
+      "alejados",
+      "disposiciones",
+      "derecho",
+      "internacional",
+      "constituyen",
+      "seria",
+      "amenaza",
+      "paz",
+      ",",
+      "seguridad",
+      "estabilidad",
+      "regional",
+      "”",
+      ".",
+      "reconocen",
+      ",",
+      "junto",
+      "organizaciones",
+      "pronunciado",
+      "favor",
+      "soberanía",
+      "venezuela",
+      ",",
+      "ninguna",
+      "acción",
+      "gobierno",
+      "ee.uu.",
+      "“",
+      "puede",
+      "poner",
+      "riesgo",
+      "carácter",
+      "américa",
+      "latina",
+      "zona",
+      "paz",
+      "”",
+      ".",
+      "saludar",
+      "convocatoria",
+      "reunión",
+      "cancilleres",
+      "celac",
+      "parte",
+      "colombia",
+      ",",
+      "calidad",
+      "presidencia",
+      "pro",
+      "témpore",
+      ",",
+      "analizar",
+      "coyuntura",
+      "regional",
+      "generada",
+      "tras",
+      "preocupante",
+      "despliegue",
+      "militar",
+      ",",
+      "organización",
+      "solidarizó",
+      "pueblos",
+      "región",
+      ",",
+      "especial",
+      "pueblo",
+      "venezolano",
+      ",",
+      "frente",
+      "acción",
+      "amenazante",
+      ".",
+      "recordó",
+      "gobierno",
+      "unidos",
+      "debe",
+      "respetar",
+      "compromisos",
+      "internacionales",
+      "asumidos",
+      ",",
+      "particular",
+      "tratado",
+      "tlatelolco",
+      "1967.",
+      "acuerdo",
+      "declaró",
+      "región",
+      "zona",
+      "libre",
+      "armas",
+      "nucleares",
+      ",",
+      "ratificado",
+      "ee.uu.",
+      "1971",
+      ",",
+      "comprometió",
+      "usar",
+      "amenazar",
+      "armas",
+      "nucleares",
+      "firmantes",
+      ".",
+      "pactos",
+      "acuerdos",
+      "establecidos",
+      "gobiernos",
+      "américa",
+      "latina",
+      "caribe",
+      "declaración",
+      "celac",
+      "2014",
+      ",",
+      "reconocida",
+      "incluso",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "proclamó",
+      "américa",
+      "latina",
+      "caribe",
+      "territorio",
+      "paz",
+      ".",
+      "unidos",
+      "viene",
+      "amenazando",
+      "soberanía",
+      "venezuela",
+      ":",
+      "sanciones",
+      ",",
+      "bloqueos",
+      ",",
+      "ahora",
+      "amenaza",
+      "intervención",
+      "tras",
+      "despliegue",
+      "costas",
+      "caribeñas",
+      "."
+    ],
+    "token_count": 198,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "NN": 98,
+      "IN": 16,
+      "FW": 65,
+      "CD": 4,
+      "NNS": 12,
+      "VBZ": 6,
+      "JJ": 25,
+      "MD": 1,
+      "VBP": 11,
+      "RB": 2,
+      "DT": 1,
+      "VBD": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 18,
+      "NN-IN": 9,
+      "IN-FW": 7,
+      "FW-FW": 37,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 3,
+      "JJ-FW": 2,
+      "FW-NN": 9,
+      "NN-NNP": 10,
+      "NN-NN": 52,
+      "NN-VBZ": 3,
+      "VBZ-NNP": 2,
+      "NNP-NNP": 11,
+      "NN-JJ": 4,
+      "JJ-IN": 1,
+      "IN-JJ": 2,
+      "JJ-NN": 14,
+      "NNP-MD": 1,
+      "MD-VBZ": 1,
+      "JJ-NNS": 1,
+      "NNS-VBP": 8,
+      "VBP-JJ": 5,
+      "NNP-IN": 5,
+      "IN-NNP": 5,
+      "NNP-VBZ": 1,
+      "NNP-FW": 7,
+      "FW-NNP": 11,
+      "NN-FW": 11,
+      "FW-NNS": 3,
+      "NNS-FW": 1,
+      "FW-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-NNP": 4,
+      "NN-NNS": 5,
+      "VBP-RB": 1,
+      "RB-JJ": 2,
+      "NNP-VBP": 1,
+      "VBP-NN": 3,
+      "NN-VBP": 2,
+      "VBP-IN": 1,
+      "IN-CD": 2,
+      "CD-NNP": 1,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-RB": 1,
+      "VBP-NNP": 1,
+      "NNP-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBD": 2,
+      "VBD-NNP": 2,
+      "NNP-JJ": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 14,
+      "NN-NN-NN": 25,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 3,
+      "NN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VBZ": 1,
+      "MD-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-NNP": 6,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 7,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-IN": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "NN-NN-FW": 7,
+      "FW-FW-FW": 25,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 2,
+      "FW-FW-NNP": 4,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 3,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "IN-NNP-NNP": 2,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "JJ-NN-IN": 1,
+      "FW-JJ-NN": 2,
+      "NN-NNP-IN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "NN-NNP-FW": 1,
+      "FW-NNP-IN": 2,
+      "NNP-IN-CD": 2,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNP": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-RB": 1,
+      "JJ-RB-JJ": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-NNP": 1,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NNP": 2,
+      "VBD-NNP-NN": 2,
+      "IN-CD-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNS-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "FW": 65,
+        "NNP": 49,
+        "JJ": 25,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 37,
+        "NNP-NN": 18,
+        "JJ-NN": 14,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "FW-FW-FW": 25,
+        "NNP-NN-NN": 14,
+        "JJ-NN-NN": 8,
+        "NN-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 78,
+      "VP": 26,
+      "ADJP": 2,
+      "PP": 10
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 9,
+        "weight": 0.0726
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('CELAC', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "VP -> ('el', 'VBD') NP",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('más', 'FW') ('de', 'FW') ('4.500', 'CD') NP VP ('el', 'FW') NP (',', ',') NP VP (',', ',') NP ADJP PP VP VP VP PP VP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('despliegue', 'NN')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('militares', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "VP -> ('estadounidenses', 'VBZ') ('en', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0081
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El despliegue"
+      },
+      {
+        "label": "NP",
+        "text": "militares"
+      },
+      {
+        "label": "VP",
+        "text": "estadounidenses en"
+      },
+      {
+        "label": "NP",
+        "text": "mar Caribe"
+      },
+      {
+        "label": "NP",
+        "text": "acompañados por el crucero"
+      },
+      {
+        "label": "VP",
+        "text": "lanzamisiles USS Lake Erie"
+      },
+      {
+        "label": "NP",
+        "text": "USS Lake Erie"
+      },
+      {
+        "label": "NP",
+        "text": "el submarino"
+      },
+      {
+        "label": "ADJP",
+        "text": "nuclear"
+      },
+      {
+        "label": "PP",
+        "text": "de ataque rápido USS Newport News y otras"
+      },
+      {
+        "label": "NP",
+        "text": "ataque rápido USS Newport News y otras"
+      },
+      {
+        "label": "VP",
+        "text": "potentes armas destructoras"
+      },
+      {
+        "label": "NP",
+        "text": "armas destructoras"
+      },
+      {
+        "label": "VP",
+        "text": "que estarían surcando aguas"
+      },
+      {
+        "label": "NP",
+        "text": "estarían surcando aguas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP despliegue/NN)\n  de/IN\n  más/FW\n  de/FW\n  4.500/CD\n  (NP militares/NNS)\n  (VP estadounidenses/VBZ en/JJ)\n  el/FW\n  (NP mar/NN Caribe/NNP)\n  ,/,\n  (NP acompañados/JJ por/NN el/NN crucero/NN)\n  (VP lanzamisiles/VBZ (NP USS/NNP Lake/NNP Erie/NNP))\n  ,/,\n  (NP el/NN submarino/NN)\n  (ADJP nuclear/JJ)\n  (PP\n    de/IN\n    (NP\n      ataque/JJ\n      rápido/NN\n      USS/NNP\n      Newport/NNP\n      News/NNP\n      y/NN\n      otras/NN))\n  (VP potentes/VBZ (NP armas/JJ destructoras/NNS))\n  (VP que/VBP (NP estarían/JJ surcando/NN aguas/NN))\n  (VP\n    cercanas/VBZ\n    (NP\n      a/DT\n      Venezuela/NNP\n      fue/NN\n      denunciado/NN\n      por/NN\n      el/NN\n      Comité/NNP\n      Antiimperialista/NNP\n      Uruguayo/NNP))\n  (PP de/IN (NP Solidaridad/NNP con/NN Cuba/NNP y/NNP))\n  (VP los/VBZ (NP Pueblos/NNP))\n  del/FW\n  (NP Mundo/NNP)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  (NP\n    dicha/NN\n    organización/NN\n    refirió/NN\n    que/NN\n    “/NNP\n    estos/NN\n    movimientos/NN)\n  (VP\n    militares/VBZ\n    (NP\n      por/JJ\n      parte/NN\n      del/NN\n      gobierno/NN\n      Trump/NNP\n      están/NN\n      alejados/NN))\n  de/IN\n  las/FW\n  (NP disposiciones/NNS)\n  del/FW\n  (NP derecho/JJ internacional/JJ y/NN constituyen/NN)\n  (NP una/JJ seria/NN)\n  (VP amenaza/VBZ (NP a/DT la/NN paz/NN))\n  ,/,\n  la/FW\n  seguridad/FW\n  y/FW\n  la/FW\n  estabilidad/FW\n  (NP regional/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP Reconocen/NNP)\n  ,/,\n  (VP junto/VBZ (NP a/DT otras/JJ organizaciones/NNS))\n  (VP que/VBP ya/RB (NP se/JJ han/NN))\n  (VP pronunciado/VBD (NP a/DT favor/NN))\n  de/IN\n  la/FW\n  soberanía/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP que/NN)\n  (NP ninguna/JJ acción/NN del/NN gobierno/NN)\n  (PP de/IN (NP EE.UU./NNP “/NNP puede/NN poner/NN))\n  (PP en/IN (NP riesgo/NN))\n  (VP el/VBP (NP carácter/NN))\n  (PP de/IN (NP América/NNP Latina/NNP como/NN zona/NN))\n  de/IN\n  paz/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP saludar/NN la/NN)\n  convocatoria/FW\n  de/FW\n  la/FW\n  reunión/FW\n  de/FW\n  cancilleres/FW\n  de/FW\n  la/FW\n  (NP CELAC/NNP)\n  por/FW\n  (NP parte/NN)\n  (PP de/IN (NP Colombia/NNP))\n  ,/,\n  en/FW\n  su/FW\n  calidad/FW\n  de/FW\n  presidencia/FW\n  pro/FW\n  témpore/FW\n  ,/,\n  para/FW\n  (NP analizar/JJ la/NN)\n  (VP coyuntura/VBD (NP regional/JJ generada/NN tras/NNS))\n  (VP este/VBP (NP preocupante/JJ despliegue/NN militar/NN))\n  ,/,\n  la/FW\n  organización/FW\n  se/FW\n  solidarizó/FW\n  (NP con/NN todos/NN)\n  (NP los/JJ pueblos/NN)\n  de/IN\n  la/FW\n  región/FW\n  ,/,\n  en/FW\n  (NP especial/JJ con/NN el/NN pueblo/NN venezolano/NN)\n  ,/,\n  (VP frente/VB (NP a/DT esta/JJ acción/NN amenazante/NN))\n  ./.)",
+      "(S\n  (NP Recordó/NNP que/NN el/NN Gobierno/NNP)\n  (PP\n    de/IN\n    (NP\n      Estados/NNP\n      Unidos/NNP\n      debe/NN\n      respetar/NN\n      los/NN\n      compromisos/NN\n      internacionales/NNS))\n  asumidos/RB\n  ,/,\n  y/PRP\n  (VP en/VBP (NP particular/JJ el/NN Tratado/NNP))\n  de/FW\n  (NP Tlatelolco/NNP)\n  de/IN\n  1967/CD\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1379,
+          1386
+        ],
+        "start": 1379,
+        "end": 1386
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de ee",
+        "position": [
+          762,
+          776
+        ],
+        "start": 762,
+        "end": 776
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1722,
+          1737
+        ],
+        "start": 1722,
+        "end": 1737
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "celac",
+        "position": [
+          917,
+          922
+        ],
+        "start": 917,
+        "end": 922
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo se declaró a la región zona libre de armas nucleares, ratificado por ee.uu. en 1971",
+        "position": [
+          1368,
+          1459
+        ],
+        "start": 1368,
+        "end": 1459
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          62,
+          65
+        ],
+        "start": 62,
+        "end": 65
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          343,
+          347
+        ],
+        "start": 343,
+        "end": 347
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1239,
+          1253
+        ],
+        "start": 1239,
+        "end": 1253
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          259,
+          268
+        ],
+        "start": 259,
+        "end": 268
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          586,
+          592
+        ],
+        "start": 586,
+        "end": 592
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          66,
+          72
+        ],
+        "start": 66,
+        "end": 72
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          839,
+          846
+        ],
+        "start": 839,
+        "end": 846
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 4.500",
+        "position": [
+          17,
+          29
+        ],
+        "start": 17,
+        "end": 29
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CELAC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "mar Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comité Antiimperialista Uruguayo de Solidaridad con Cuba",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de Naciones unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "América",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "mar Caribe",
+        "relacion": "DENUNCIAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "mar Caribe",
+        "relacion": "DENUNCIAR",
+        "objeto": "Comité Antiimperialista Uruguayo de Solidaridad con Cuba"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "SURCAR_DENUNCIAR",
+        "objeto": "Comité Antiimperialista Uruguayo de Solidaridad con Cuba"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "PRONUNCIAR_RECONOCER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "VENIR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.128,
+    "pos": 0.009,
+    "neu": 0.983,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

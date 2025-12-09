@@ -1,0 +1,923 @@
+{
+  "url": "https://www.telesurtv.net/trump-considera-viajar-moscu-invitacion-putin/",
+  "title": "Donald Trump considera viajar a Rusia tras invitación del presidente Putin - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Putin",
+    "Trump",
+    "viaje a Moscú"
+  ],
+  "text": "El presidente de Estados Unidos (EE.UU.), Donald Trump, tras la cumbre celebrada en Alaska este viernes, donde sostuvo intercambio con el mandatario ruso, Vladimir Putin, dejó clara su disposición a visitar Moscú.\n“Podría ser posible”, afirmó Trump sobre un potencial viaje a la capital rusa, en respuesta a la propuesta de Putin para celebrar la próxima reunión en Moscú.\nEl mandatario estadounidense destacó el carácter productivo del encuentro, que duró dos horas y 45 minutos, según informó la agencia rusa RIA Novosti. “Realmente tuvimos grandes avances hoy”, señaló Trump, quien también calificó la relación con Putin como “fantástica”.\n\n\nPor su parte, Putin subrayó el tono constructivo del diálogo. “Nuestras conversaciones se desarrollaron en un ambiente constructivo y de respeto mutuo, y fueron muy exhaustivas y útiles”, declaró el líder ruso.\nEl presidente ruso enfatizó el interés de Moscú en encontrar una solución a largo plazo para el conflicto en Ucrania, iniciado en febrero de 2022, que ha tensionado las relaciones entre Rusia y Occidente.\nLa reunión en Alaska tuvo como objetivo principal explorar vías para resolver el conflicto en Ucrania y fortalecer los lazos bilaterales entre EE.UU. y Rusia. Ambos líderes coincidieron en la importancia de avanzar en un diálogo que permita estabilidad en la región y mejoras en la cooperación internacional.\nTrump destacó que hubo “muchos puntos” de coincidencia durante las conversaciones, aunque no se proporcionaron detalles específicos sobre acuerdos alcanzados.\nEl encuentro en la Base Conjunta Elmendorf-Richardson marcó un nuevo capítulo en las relaciones entre Washington y Moscú, que han enfrentado tensiones en los últimos años debido a sanciones, conflictos geopolíticos y diferencias ideológicas.\nLa posibilidad de un viaje de Trump a Moscú genera expectativas sobre los próximos pasos en la relación bilateral. Putin, al extender la invitación, señaló la importancia de mantener un canal de comunicación directo entre ambos países para abordar desafíos globales.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/trump-considera-viajar-moscu-invitacion-putin/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1166,
+    "message_id": 101932,
+    "date": "2025-08-16T03:55:07+00:00",
+    "text": "teleSUR\nDonald Trump considera viajar a Rusia tras invitación del presidente Putin\nhttps://www.telesurtv.net/trump-considera-viajar-moscu-invitacion-putin/",
+    "photo_path": null,
+    "views": 2058,
+    "reactions": {
+      "👍": 35,
+      "👀": 8,
+      "🤡": 3,
+      "🤷‍♂": 2
+    },
+    "total_reactions": 48
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de estados unidos (ee.uu.), donald trump, tras la cumbre celebrada en alaska este viernes, donde sostuvo intercambio con el mandatario ruso, vladimir putin, dejó clara su disposición a visitar moscú. “podría ser posible”, afirmó trump sobre un potencial viaje a la capital rusa, en respuesta a la propuesta de putin para celebrar la próxima reunión en moscú. el mandatario estadounidense destacó el carácter productivo del encuentro, que duró dos horas y 45 minutos, según informó la agencia rusa ria novosti. “realmente tuvimos grandes avances hoy”, señaló trump, quien también calificó la relación con putin como “fantástica”. por su parte, putin subrayó el tono constructivo del diálogo. “nuestras conversaciones se desarrollaron en un ambiente constructivo y de respeto mutuo, y fueron muy exhaustivas y útiles”, declaró el líder ruso. el presidente ruso enfatizó el interés de moscú en encontrar una solución a largo plazo para el conflicto en ucrania, iniciado en febrero de 2022, que ha tensionado las relaciones entre rusia y occidente. la reunión en alaska tuvo como objetivo principal explorar vías para resolver el conflicto en ucrania y fortalecer los lazos bilaterales entre ee.uu. y rusia. ambos líderes coincidieron en la importancia de avanzar en un diálogo que permita estabilidad en la región y mejoras en la cooperación internacional. trump destacó que hubo “muchos puntos” de coincidencia durante las conversaciones, aunque no se proporcionaron detalles específicos sobre acuerdos alcanzados. el encuentro en la base conjunta elmendorf-richardson marcó un nuevo capítulo en las relaciones entre washington y moscú, que han enfrentado tensiones en los últimos años debido a sanciones, conflictos geopolíticos y diferencias ideológicas. la posibilidad de un viaje de trump a moscú genera expectativas sobre los próximos pasos en la relación bilateral. putin, al extender la invitación, señaló la importancia de mantener un canal de comunicación directo entre ambos países para abordar desafíos globales.",
+    "tokens": [
+      "presidente",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "tras",
+      "cumbre",
+      "celebrada",
+      "alaska",
+      "viernes",
+      ",",
+      "sostuvo",
+      "intercambio",
+      "mandatario",
+      "ruso",
+      ",",
+      "vladimir",
+      "putin",
+      ",",
+      "dejó",
+      "clara",
+      "disposición",
+      "visitar",
+      "moscú",
+      ".",
+      "“",
+      "podría",
+      "ser",
+      "posible",
+      "”",
+      ",",
+      "afirmó",
+      "trump",
+      "potencial",
+      "viaje",
+      "capital",
+      "rusa",
+      ",",
+      "respuesta",
+      "propuesta",
+      "putin",
+      "celebrar",
+      "próxima",
+      "reunión",
+      "moscú",
+      ".",
+      "mandatario",
+      "estadounidense",
+      "destacó",
+      "carácter",
+      "productivo",
+      "encuentro",
+      ",",
+      "duró",
+      "dos",
+      "horas",
+      "45",
+      "minutos",
+      ",",
+      "según",
+      "informó",
+      "agencia",
+      "rusa",
+      "ria",
+      "novosti",
+      ".",
+      "“",
+      "realmente",
+      "grandes",
+      "avances",
+      "hoy",
+      "”",
+      ",",
+      "señaló",
+      "trump",
+      ",",
+      "calificó",
+      "relación",
+      "putin",
+      "“",
+      "fantástica",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "putin",
+      "subrayó",
+      "tono",
+      "constructivo",
+      "diálogo",
+      ".",
+      "“",
+      "conversaciones",
+      "desarrollaron",
+      "ambiente",
+      "constructivo",
+      "respeto",
+      "mutuo",
+      ",",
+      "exhaustivas",
+      "útiles",
+      "”",
+      ",",
+      "declaró",
+      "líder",
+      "ruso",
+      ".",
+      "presidente",
+      "ruso",
+      "enfatizó",
+      "interés",
+      "moscú",
+      "encontrar",
+      "solución",
+      "largo",
+      "plazo",
+      "conflicto",
+      "ucrania",
+      ",",
+      "iniciado",
+      "febrero",
+      "2022",
+      ",",
+      "tensionado",
+      "relaciones",
+      "rusia",
+      "occidente",
+      ".",
+      "reunión",
+      "alaska",
+      "objetivo",
+      "principal",
+      "explorar",
+      "vías",
+      "resolver",
+      "conflicto",
+      "ucrania",
+      "fortalecer",
+      "lazos",
+      "bilaterales",
+      "ee.uu.",
+      "rusia",
+      ".",
+      "ambos",
+      "líderes",
+      "coincidieron",
+      "importancia",
+      "avanzar",
+      "diálogo",
+      "permita",
+      "estabilidad",
+      "región",
+      "mejoras",
+      "cooperación",
+      "internacional",
+      ".",
+      "trump",
+      "destacó",
+      "“",
+      "puntos",
+      "”",
+      "coincidencia",
+      "conversaciones",
+      ",",
+      "aunque",
+      "proporcionaron",
+      "detalles",
+      "específicos",
+      "acuerdos",
+      "alcanzados",
+      ".",
+      "encuentro",
+      "base",
+      "conjunta",
+      "elmendorf-richardson",
+      "marcó",
+      "nuevo",
+      "capítulo",
+      "relaciones",
+      "washington",
+      "moscú",
+      ",",
+      "enfrentado",
+      "tensiones",
+      "últimos",
+      "años",
+      "debido",
+      "sanciones",
+      ",",
+      "conflictos",
+      "geopolíticos",
+      "diferencias",
+      "ideológicas",
+      ".",
+      "posibilidad",
+      "viaje",
+      "trump",
+      "moscú",
+      "genera",
+      "expectativas",
+      "próximos",
+      "pasos",
+      "relación",
+      "bilateral",
+      ".",
+      "putin",
+      ",",
+      "extender",
+      "invitación",
+      ",",
+      "señaló",
+      "importancia",
+      "mantener",
+      "canal",
+      "comunicación",
+      "directo",
+      "ambos",
+      "países",
+      "abordar",
+      "desafíos",
+      "globales",
+      "."
+    ],
+    "token_count": 226,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "NN": 115,
+      "FW": 55,
+      "VBD": 3,
+      "IN": 11,
+      "NNS": 15,
+      "VBP": 12,
+      "JJ": 28,
+      "CD": 2,
+      "VBZ": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 21,
+      "NN-FW": 17,
+      "FW-NNP": 8,
+      "NNP-NNP": 18,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "FW-FW": 27,
+      "FW-NN": 15,
+      "NN-IN": 9,
+      "IN-NNP": 2,
+      "NN-NNS": 7,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "JJ-JJ": 7,
+      "JJ-NN": 13,
+      "NN-NN": 62,
+      "NN-NNP": 10,
+      "NN-JJ": 7,
+      "JJ-NNP": 5,
+      "NN-VBP": 2,
+      "VBP-NN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-NNS": 2,
+      "NNS-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-NN": 1,
+      "IN-FW": 5,
+      "NNP-FW": 3,
+      "FW-JJ": 4,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "VBP-NNP": 3,
+      "JJ-NNS": 2,
+      "NNP-VBZ": 2,
+      "VBZ-VBP": 1,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "NNS-IN": 2,
+      "IN-DT": 1,
+      "DT-NN": 1,
+      "VBZ-FW": 1,
+      "IN-JJ": 2,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 3,
+      "NN-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 6,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 33,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 14,
+      "NNP-NN-JJ": 3,
+      "NN-JJ-JJ": 4,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 5,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 10,
+      "FW-NN-FW": 6,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 15,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 4,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-NN-NN": 4,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-NN": 1,
+      "VBD-NN-NN": 1,
+      "NN-NN-JJ": 4,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "NN-NN-NNS": 4,
+      "VBP-JJ-NN": 3,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NN-JJ-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NN-IN": 2,
+      "FW-JJ-NNP": 2,
+      "IN-FW-NN": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-NNS": 1,
+      "JJ-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 115,
+        "FW": 55,
+        "NNP": 47,
+        "JJ": 28,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 62,
+        "FW-FW": 27,
+        "NNP-NN": 21,
+        "NNP-NNP": 18,
+        "NN-FW": 17
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 15,
+        "NNP-NN-NN": 14,
+        "NN-FW-NN": 10,
+        "NNP-NNP-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 85,
+      "VP": 19,
+      "PP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.032
+      },
+      {
+        "rule": "VP -> ('entre', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "NP -> ('Moscú', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Putin', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('conflicto', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') VP ('la', 'FW') ('cumbre', 'FW') NP PP (',', ',') NP NP (',', ',') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "VP",
+        "text": "tras"
+      },
+      {
+        "label": "NP",
+        "text": "celebrada"
+      },
+      {
+        "label": "PP",
+        "text": "en Alaska este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "Alaska este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "donde sostuvo"
+      },
+      {
+        "label": "NP",
+        "text": "intercambio con el mandatario ruso"
+      },
+      {
+        "label": "NP",
+        "text": "Vladimir Putin"
+      },
+      {
+        "label": "NP",
+        "text": "dejó clara su"
+      },
+      {
+        "label": "VP",
+        "text": "disposición a visitar Moscú"
+      },
+      {
+        "label": "NP",
+        "text": "a visitar Moscú"
+      },
+      {
+        "label": "NP",
+        "text": "“ Podría ser"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  (VP tras/VBZ)\n  la/FW\n  cumbre/FW\n  (NP celebrada/NN)\n  (PP en/IN (NP Alaska/NNP este/NN viernes/NNS))\n  ,/,\n  (NP donde/NN sostuvo/NN)\n  (NP intercambio/JJ con/NN el/NN mandatario/NN ruso/NN)\n  ,/,\n  (NP Vladimir/NNP Putin/NNP)\n  ,/,\n  (NP dejó/NN clara/NN su/NN)\n  (VP disposición/VBZ (NP a/DT visitar/NN Moscú/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Podría/NNP ser/NN)\n  (NP posible/JJ ”/NN)\n  ,/,\n  (NP afirmó/JJ Trump/NNP sobre/NN)\n  (NP un/JJ potencial/JJ viaje/NN)\n  (NP a/DT la/JJ capital/NN rusa/NN)\n  ,/,\n  en/FW\n  respuesta/FW\n  a/DT\n  la/FW\n  propuesta/FW\n  de/FW\n  (NP Putin/NNP para/NN celebrar/NN la/NN)\n  próxima/FW\n  (NP reunión/NN)\n  (PP en/IN (NP Moscú/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP mandatario/NN estadounidense/NN destacó/NN)\n  (VP el/VBP (NP carácter/NN productivo/NN))\n  del/FW\n  (NP encuentro/NN)\n  ,/,\n  (NP que/JJ duró/NN dos/NN)\n  (VP horas/VBD y/RB)\n  45/CD\n  (NP minutos/NNS)\n  ,/,\n  (NP según/NN informó/NN la/NN)\n  (PP agencia/IN (NP rusa/NN RIA/NNP Novosti/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Realmente/NNP tuvimos/NN grandes/NNS avances/NNS)\n  (VP hoy/VBP (NP ”/NN))\n  ,/,\n  (NP señaló/JJ Trump/NNP)\n  ,/,\n  (NP quien/NN también/NN calificó/NN la/NN)\n  relación/FW\n  (NP con/NN Putin/NNP como/NN “/NNP fantástica/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP Putin/NNP)\n  (VP subrayó/VBD)\n  el/FW\n  (NP tono/JJ constructivo/NN del/NN diálogo/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en ucrania",
+        "position": [
+          952,
+          972
+        ],
+        "start": 952,
+        "end": 972
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en ucrania, iniciado en febrero de 2022, que ha tensionado las relaciones entre rusia y",
+        "position": [
+          952,
+          1049
+        ],
+        "start": 952,
+        "end": 1049
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          279,
+          286
+        ],
+        "start": 279,
+        "end": 286
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación internacional",
+        "position": [
+          1343,
+          1368
+        ],
+        "start": 1343,
+        "end": 1368
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "lazos bilaterales",
+        "position": [
+          1180,
+          1197
+        ],
+        "start": 1180,
+        "end": 1197
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          111,
+          118
+        ],
+        "start": 111,
+        "end": 118
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          487,
+          494
+        ],
+        "start": 487,
+        "end": 494
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de estados",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de comunicación",
+        "position": [
+          1957,
+          1978
+        ],
+        "start": 1957,
+        "end": 1978
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          402,
+          409
+        ],
+        "start": 402,
+        "end": 409
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          665,
+          672
+        ],
+        "start": 665,
+        "end": 672
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          17,
+          31
+        ],
+        "start": 17,
+        "end": 31
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          965,
+          972
+        ],
+        "start": 965,
+        "end": 972
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "moscú",
+        "position": [
+          207,
+          212
+        ],
+        "start": 207,
+        "end": 212
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región y mejoras",
+        "position": [
+          1320,
+          1336
+        ],
+        "start": 1320,
+        "end": 1336
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          559,
+          562
+        ],
+        "start": 559,
+        "end": 562
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Moscú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "RIA Novosti",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alaska",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Base Conjunta Elmendorf-Richardson",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Occidente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vladimir Putin",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DEJAR",
+        "objeto": "Alaska"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DEJAR",
+        "objeto": "Vladimir Putin"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DEJAR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "DEJAR",
+        "objeto": "Alaska"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "DEJAR",
+        "objeto": "Vladimir Putin"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "DEJAR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "DEJAR",
+        "objeto": "Alaska"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "DEJAR",
+        "objeto": "Vladimir Putin"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "DEJAR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Alaska",
+        "relacion": "DEJAR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Vladimir Putin",
+        "relacion": "SOSTENER_DEJAR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "AFIRMAR",
+        "objeto": "Putin"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "AFIRMAR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Alaska",
+        "relacion": "TENER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Alaska",
+        "relacion": "TENER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Alaska",
+        "relacion": "TENER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "RESOLVER_EXPLORAR_TENER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "RESOLVER_EXPLORAR_TENER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Base Conjunta Elmendorf-Richardson",
+        "relacion": "MARCAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Base Conjunta Elmendorf-Richardson",
+        "relacion": "MARCAR",
+        "objeto": "Moscú"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2263,
+    "pos": 0.014,
+    "neu": 0.979,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

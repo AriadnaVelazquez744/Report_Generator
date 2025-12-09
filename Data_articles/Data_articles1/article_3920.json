@@ -1,0 +1,816 @@
+{
+  "url": "https://www.telesurtv.net/cuba-rechaza-la-presencia-militar-ee-uu-en-la-zona-del-golfo-de-mexico/",
+  "title": "Cuba rechaza la presencia militar EE.UU. en la zona del Golfo de México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cuba",
+    "EE.UU.",
+    "Golfo de México"
+  ],
+  "text": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, rechazó este martes la presencia  militar de Estados Unidos (EE.UU.) con un buque destructor en la zona del Golfo de México.\n“Rechazamos el despliegue de destructor de EE.UU. en Golfo de México para supuestamente combatir tráfico ilegal de drogas”, refirió el ministro en la red social X.\nAsimismo, denunció que la presencia de embarcaciones de EE.UU. representa una amenaza para la seguridad y la paz de la región.\n“Esta presencia militar en la zona representa una amenaza a la seguridad y la paz de América Latina y el Caribe”, destacó Parrilla.\nEl lunes, el Pentágono informó que el Comando Norte de EE. UU. desplegó al buque destructor denominado USS Gravely hacia el Golfo de México para “apoyar en las operaciones de seguridad en la frontera”.\nMedios de prensa informaron que el portavoz del Departamento de Defensa, Sean Parnell manifestó que “para EE. UU. no solo es vital controlar nuestra frontera terrestre». «Es igualmente importante controlar nuestras aguas territoriales”.\nEl general director de Operaciones del Estado Mayor Conjunto del Pentágono, Alexus G. Grynkewich,  refirió que el buque ejecuta misiones contra el narcotráfico.\nMientras, la presidenta de México, Claudia Sheinbaum, aseguró estar informada sobre el despliegue de la embarcación, que se localiza en aguas internacionales, amparados por el marco legal que rige este tipo de navegación.\n“Ellos están en su territorio y en aguas internacionales. Nos lo hicieron saber antes de que saliera la noticia y saliera el barco, pero no están en territorio nacional”, recalcó.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuba-rechaza-la-presencia-militar-ee-uu-en-la-zona-del-golfo-de-mexico/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1002,
+    "message_id": 89541,
+    "date": "2025-03-19T02:55:29+00:00",
+    "text": "teleSUR\nCuba rechaza la presencia militar EE.UU. en la zona del Golfo de México\nhttps://www.telesurtv.net/cuba-rechaza-la-presencia-militar-ee-uu-en-la-zona-del-golfo-de-mexico/",
+    "photo_path": null,
+    "views": 2026,
+    "reactions": {
+      "👍": 56
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "el ministro de relaciones exteriores de cuba, bruno rodríguez parrilla, rechazó este martes la presencia militar de estados unidos (ee.uu.) con un buque destructor en la zona del golfo de méxico. “rechazamos el despliegue de destructor de ee.uu. en golfo de méxico para supuestamente combatir tráfico ilegal de drogas”, refirió el ministro en la red social x. asimismo, denunció que la presencia de embarcaciones de ee.uu. representa una amenaza para la seguridad y la paz de la región. “esta presencia militar en la zona representa una amenaza a la seguridad y la paz de américa latina y el caribe”, destacó parrilla. el lunes, el pentágono informó que el comando norte de ee. uu. desplegó al buque destructor denominado uss gravely hacia el golfo de méxico para “apoyar en las operaciones de seguridad en la frontera”. medios de prensa informaron que el portavoz del departamento de defensa, sean parnell manifestó que “para ee. uu. no solo es vital controlar nuestra frontera terrestre». «es igualmente importante controlar nuestras aguas territoriales”. el general director de operaciones del estado mayor conjunto del pentágono, alexus g. grynkewich, refirió que el buque ejecuta misiones contra el narcotráfico. mientras, la presidenta de méxico, claudia sheinbaum, aseguró estar informada sobre el despliegue de la embarcación, que se localiza en aguas internacionales, amparados por el marco legal que rige este tipo de navegación. “ellos están en su territorio y en aguas internacionales. nos lo hicieron saber antes de que saliera la noticia y saliera el barco, pero no están en territorio nacional”, recalcó.",
+    "tokens": [
+      "ministro",
+      "relaciones",
+      "exteriores",
+      "cuba",
+      ",",
+      "bruno",
+      "rodríguez",
+      "parrilla",
+      ",",
+      "rechazó",
+      "martes",
+      "presencia",
+      "militar",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "buque",
+      "destructor",
+      "zona",
+      "golfo",
+      "méxico",
+      ".",
+      "“",
+      "rechazamos",
+      "despliegue",
+      "destructor",
+      "ee.uu.",
+      "golfo",
+      "méxico",
+      "supuestamente",
+      "combatir",
+      "tráfico",
+      "ilegal",
+      "drogas",
+      "”",
+      ",",
+      "refirió",
+      "ministro",
+      "red",
+      "social",
+      "x.",
+      "asimismo",
+      ",",
+      "denunció",
+      "presencia",
+      "embarcaciones",
+      "ee.uu.",
+      "representa",
+      "amenaza",
+      "seguridad",
+      "paz",
+      "región",
+      ".",
+      "“",
+      "presencia",
+      "militar",
+      "zona",
+      "representa",
+      "amenaza",
+      "seguridad",
+      "paz",
+      "américa",
+      "latina",
+      "caribe",
+      "”",
+      ",",
+      "destacó",
+      "parrilla",
+      ".",
+      "lunes",
+      ",",
+      "pentágono",
+      "informó",
+      "comando",
+      "norte",
+      "ee",
+      ".",
+      "uu.",
+      "desplegó",
+      "buque",
+      "destructor",
+      "denominado",
+      "uss",
+      "gravely",
+      "hacia",
+      "golfo",
+      "méxico",
+      "“",
+      "apoyar",
+      "operaciones",
+      "seguridad",
+      "frontera",
+      "”",
+      ".",
+      "medios",
+      "prensa",
+      "informaron",
+      "portavoz",
+      "departamento",
+      "defensa",
+      ",",
+      "parnell",
+      "manifestó",
+      "“",
+      "ee",
+      ".",
+      "uu.",
+      "solo",
+      "vital",
+      "controlar",
+      "frontera",
+      "terrestre",
+      "»",
+      ".",
+      "«",
+      "igualmente",
+      "importante",
+      "controlar",
+      "aguas",
+      "territoriales",
+      "”",
+      ".",
+      "general",
+      "director",
+      "operaciones",
+      "mayor",
+      "conjunto",
+      "pentágono",
+      ",",
+      "alexus",
+      "g.",
+      "grynkewich",
+      ",",
+      "refirió",
+      "buque",
+      "ejecuta",
+      "misiones",
+      "narcotráfico",
+      ".",
+      "mientras",
+      ",",
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "aseguró",
+      "informada",
+      "despliegue",
+      "embarcación",
+      ",",
+      "localiza",
+      "aguas",
+      "internacionales",
+      ",",
+      "amparados",
+      "marco",
+      "legal",
+      "rige",
+      "tipo",
+      "navegación",
+      ".",
+      "“",
+      "territorio",
+      "aguas",
+      "internacionales",
+      ".",
+      "hicieron",
+      "saber",
+      "saliera",
+      "noticia",
+      "saliera",
+      "barco",
+      ",",
+      "territorio",
+      "nacional",
+      "”",
+      ",",
+      "recalcó",
+      "."
+    ],
+    "token_count": 182,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 58,
+      "NN": 70,
+      "IN": 15,
+      "FW": 59,
+      "VB": 1,
+      "NNS": 7,
+      "VBP": 5,
+      "JJ": 22,
+      "VBD": 2,
+      "VBZ": 6,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-IN": 12,
+      "IN-NNP": 5,
+      "NNP-NNP": 24,
+      "NNP-FW": 12,
+      "FW-NNP": 18,
+      "NNP-VB": 1,
+      "VB-NN": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-NN": 12,
+      "NN-NN": 34,
+      "IN-FW": 7,
+      "FW-FW": 31,
+      "FW-NN": 7,
+      "IN-NN": 1,
+      "NN-JJ": 4,
+      "NN-FW": 7,
+      "FW-JJ": 3,
+      "JJ-JJ": 5,
+      "JJ-NNP": 2,
+      "NNP-VBD": 2,
+      "VBD-NNP": 1,
+      "NN-NNP": 5,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "NNP-IN": 1,
+      "VBD-JJ": 1,
+      "IN-JJ": 2,
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "VBP-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-JJ": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "VBZ-IN": 1,
+      "NN-DT": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 8,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-VB": 1,
+      "NNP-VB-NN": 1,
+      "VB-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 15,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-IN": 1,
+      "IN-NNP-FW": 2,
+      "FW-NNP-NN": 5,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-FW": 6,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-NN": 6,
+      "FW-JJ-NN": 2,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NN-NN-NNP": 3,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NNP-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "IN-FW-NNP": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 70,
+        "FW": 59,
+        "NNP": 58,
+        "JJ": 22,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 31,
+        "NNP-NNP": 24,
+        "FW-NNP": 18,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 15,
+        "NNP-NNP-NNP": 9,
+        "NNP-NN-NN": 9,
+        "NNP-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 78,
+      "PP": 8,
+      "VP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0648
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Golfo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('UU', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP PP ('(', '(') NP (')', ')') NP NP ('en', 'IN') ('la', 'FW') ('zona', 'FW') ('del', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('ministro', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Relaciones', 'NNP') ('Exteriores', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Bruno', 'NNP') ('Rodríguez', 'NNP') ('Parrilla', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El ministro"
+      },
+      {
+        "label": "PP",
+        "text": "de Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "Bruno Rodríguez Parrilla"
+      },
+      {
+        "label": "NP",
+        "text": "rechazó este"
+      },
+      {
+        "label": "VP",
+        "text": "martes la presencia militar"
+      },
+      {
+        "label": "NP",
+        "text": "la presencia militar"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "un buque destructor"
+      },
+      {
+        "label": "NP",
+        "text": "Golfo"
+      },
+      {
+        "label": "PP",
+        "text": "de México"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP ministro/NN)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  de/FW\n  (NP Cuba/NNP)\n  ,/,\n  (NP Bruno/NNP Rodríguez/NNP Parrilla/NNP)\n  ,/,\n  (NP rechazó/NN este/NN)\n  (VP martes/VBZ (NP la/JJ presencia/JJ militar/NN))\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (NP con/NN)\n  (NP un/JJ buque/NN destructor/NN)\n  en/IN\n  la/FW\n  zona/FW\n  del/FW\n  (NP Golfo/NNP)\n  (PP de/IN (NP México/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Rechazamos/NNP el/NN despliegue/NN)\n  (PP de/IN (NP destructor/NN))\n  (PP de/IN (NP EE.UU./NNP))\n  en/FW\n  (NP Golfo/NNP)\n  de/FW\n  (NP México/NNP para/NN supuestamente/NN combatir/NN)\n  (NP tráfico/JJ ilegal/NN)\n  de/IN\n  drogas/FW\n  (NP ”/NNP)\n  ,/,\n  (NP refirió/NN)\n  el/FW\n  ministro/FW\n  en/FW\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP denunció/NN que/NN)\n  la/FW\n  presencia/FW\n  de/FW\n  embarcaciones/FW\n  de/FW\n  (NP EE.UU./NNP representa/NN)\n  (NP una/JJ amenaza/NN para/NN la/NN)\n  seguridad/FW\n  (NP y/NN)\n  la/FW\n  paz/FW\n  de/FW\n  la/FW\n  región/FW\n  ./.)",
+      "(S\n  (NP “/NN Esta/NNP presencia/NN militar/NN)\n  en/IN\n  la/FW\n  zona/FW\n  representa/FW\n  (NP una/JJ amenaza/NN)\n  (NP a/DT la/NN seguridad/NN y/NN)\n  la/FW\n  paz/FW\n  de/FW\n  (NP América/NNP Latina/NNP y/NNP)\n  (VP el/VBD (NP Caribe/NNP ”/NNP))\n  ,/,\n  (NP destacó/NN Parrilla/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP lunes/NNS)\n  ,/,\n  el/FW\n  (NP Pentágono/NNP informó/NN que/NN)\n  el/FW\n  (NP Comando/NNP Norte/NNP)\n  (PP de/IN (NP EE/NNP))\n  ./.\n  (NP UU/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          908,
+          917
+        ],
+        "start": 908,
+        "end": 917
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          643,
+          650
+        ],
+        "start": 643,
+        "end": 650
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          886,
+          893
+        ],
+        "start": 886,
+        "end": 893
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          1233,
+          1253
+        ],
+        "start": 1233,
+        "end": 1253
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          3,
+          36
+        ],
+        "start": 3,
+        "end": 36
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de defensa",
+        "position": [
+          870,
+          893
+        ],
+        "start": 870,
+        "end": 893
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          72,
+          79
+        ],
+        "start": 72,
+        "end": 79
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          602,
+          609
+        ],
+        "start": 602,
+        "end": 609
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          371,
+          379
+        ],
+        "start": 371,
+        "end": 379
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          40,
+          44
+        ],
+        "start": 40,
+        "end": 44
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          117,
+          131
+        ],
+        "start": 117,
+        "end": 131
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          189,
+          195
+        ],
+        "start": 189,
+        "end": 195
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          467,
+          473
+        ],
+        "start": 467,
+        "end": 473
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          593,
+          599
+        ],
+        "start": 593,
+        "end": 599
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona del",
+        "position": [
+          171,
+          179
+        ],
+        "start": 171,
+        "end": 179
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Departamento de Defensa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Golfo de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Relaciones Exteriores de Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bruno Rodríguez Parrilla",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Pentágono",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sean Parnell",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alexus G. Grynkewich",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comando Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parrilla",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Relaciones Exteriores de Cuba",
+        "relacion": "RECHAZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Relaciones Exteriores de Cuba",
+        "relacion": "RECHAZAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Relaciones Exteriores de Cuba",
+        "relacion": "RECHAZAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "Bruno Rodríguez Parrilla",
+        "relacion": "RECHAZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Bruno Rodríguez Parrilla",
+        "relacion": "RECHAZAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Bruno Rodríguez Parrilla",
+        "relacion": "RECHAZAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "Golfo de México",
+        "relacion": "RECHAZAR_REFERIR_DENUNCIAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Pentágono",
+        "relacion": "INFORMAR",
+        "objeto": "Comando Norte"
+      },
+      {
+        "sujeto": "Pentágono",
+        "relacion": "INFORMAR",
+        "objeto": "EE"
+      },
+      {
+        "sujeto": "Departamento de Defensa",
+        "relacion": "MANIFESTAR_INFORMAR",
+        "objeto": "EE"
+      },
+      {
+        "sujeto": "Sean Parnell",
+        "relacion": "MANIFESTAR_INFORMAR",
+        "objeto": "EE"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4939,
+    "pos": 0.015,
+    "neu": 0.958,
+    "neg": 0.027,
+    "label": "negative"
+  }
+}

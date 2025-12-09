@@ -1,0 +1,646 @@
+{
+  "url": "https://www.telesurtv.net/declaran-alerta-roja-en-irlanda-e-irlanda-del-norte-por-tormenta-eowyn/",
+  "title": "Declaran alerta roja en Irlanda e Irlanda del norte por tormenta Éowyn - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Clima",
+    "Irlanda",
+    "Irlanda del Norte",
+    "Tormenta Éowyn"
+  ],
+  "text": "Las autoridades meteorológicas de Irlanda e Irlanda del Norte pusieron en marcha la alerta roja por el paso de la tormenta Éowyn, que ha causado estragos en la isla.\nEsta tormenta ha dejado a cerca de un millón de viviendas y locales sin electricidad en medio de vientos que han alcanzado los 180 kilómetros por hora.\nEl temporal provocó la paralización de los transportes públicos, incluyendo carreteras, ferrocarriles y ferrys, además de la cancelación de numerosos vuelos en los principales aeropuertos.\nLos centros educativos, tanto en el norte como en el sur, permanecieron cerrados debido a las adversas condiciones climáticas.\nAunque la alerta roja ha finalizado, aún las autoridades mantienen alertas naranjas y amarillas en varias áreas.\nA medida que la situación se va normalizando, los hospitales empiezan a reanudar sus actividades tras haber suspendido citas y servicios no urgentes. La agencia meteorológica del Reino Unido, Met Office, ha identificado un fenómeno conocido como “sting jet”, que contribuyó a la virulencia de la tormenta.\nEste fenómeno se manifiesta en forma de cola de escorpión y puede generar ráfagas de viento extremadamente intensas en áreas relativamente pequeñas.\nDurante la mañana de hoy se registraron vientos de hasta 183 kilómetros por hora en el condado de Galway, lo que marca una cifra récord en la historia meteorológica de la isla.\nAdemás, Met indicó que este tipo de borrascas suelen durar entre tres y cuatro horas.\nLa compañía nacional de electricidad de la República, ESB, ha declarado que los daños a la infraestructura eléctrica son generalizados y sin precedentes.\nSe estima que tomará varios días restablecer el suministro eléctrico en todo el país, aunque Met Éireann ha confirmado que la “situación está mejorando” con la disminución de las alertas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/declaran-alerta-roja-en-irlanda-e-irlanda-del-norte-por-tormenta-eowyn/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 500,
+    "message_id": 85334,
+    "date": "2025-01-25T02:55:29+00:00",
+    "text": "teleSUR\nDeclaran alerta roja en Irlanda e Irlanda del norte por tormenta Éowyn\nhttps://www.telesurtv.net/declaran-alerta-roja-en-irlanda-e-irlanda-del-norte-por-tormenta-eowyn/",
+    "photo_path": null,
+    "views": 2815,
+    "reactions": {
+      "😱": 45,
+      "👍": 7,
+      "😁": 3,
+      "🤔": 2,
+      "💩": 1
+    },
+    "total_reactions": 58
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades meteorológicas de irlanda e irlanda del norte pusieron en marcha la alerta roja por el paso de la tormenta éowyn, que ha causado estragos en la isla. esta tormenta ha dejado a cerca de un millón de viviendas y locales sin electricidad en medio de vientos que han alcanzado los 180 kilómetros por hora. el temporal provocó la paralización de los transportes públicos, incluyendo carreteras, ferrocarriles y ferrys, además de la cancelación de numerosos vuelos en los principales aeropuertos. los centros educativos, tanto en el norte como en el sur, permanecieron cerrados debido a las adversas condiciones climáticas. aunque la alerta roja ha finalizado, aún las autoridades mantienen alertas naranjas y amarillas en varias áreas. a medida que la situación se va normalizando, los hospitales empiezan a reanudar sus actividades tras haber suspendido citas y servicios no urgentes. la agencia meteorológica del reino unido, met office, ha identificado un fenómeno conocido como “sting jet”, que contribuyó a la virulencia de la tormenta. este fenómeno se manifiesta en forma de cola de escorpión y puede generar ráfagas de viento extremadamente intensas en áreas relativamente pequeñas. durante la mañana de hoy se registraron vientos de hasta 183 kilómetros por hora en el condado de galway, lo que marca una cifra récord en la historia meteorológica de la isla. además, met indicó que este tipo de borrascas suelen durar entre tres y cuatro horas. la compañía nacional de electricidad de la república, esb, ha declarado que los daños a la infraestructura eléctrica son generalizados y sin precedentes. se estima que tomará varios días restablecer el suministro eléctrico en todo el país, aunque met éireann ha confirmado que la “situación está mejorando” con la disminución de las alertas.",
+    "tokens": [
+      "autoridades",
+      "meteorológicas",
+      "irlanda",
+      "irlanda",
+      "norte",
+      "pusieron",
+      "marcha",
+      "alerta",
+      "roja",
+      "paso",
+      "tormenta",
+      "éowyn",
+      ",",
+      "causado",
+      "estragos",
+      "isla",
+      ".",
+      "tormenta",
+      "dejado",
+      "cerca",
+      "millón",
+      "viviendas",
+      "locales",
+      "electricidad",
+      "medio",
+      "vientos",
+      "alcanzado",
+      "180",
+      "kilómetros",
+      "hora",
+      ".",
+      "temporal",
+      "provocó",
+      "paralización",
+      "transportes",
+      "públicos",
+      ",",
+      "incluyendo",
+      "carreteras",
+      ",",
+      "ferrocarriles",
+      "ferrys",
+      ",",
+      "además",
+      "cancelación",
+      "numerosos",
+      "vuelos",
+      "principales",
+      "aeropuertos",
+      ".",
+      "centros",
+      "educativos",
+      ",",
+      "norte",
+      "sur",
+      ",",
+      "permanecieron",
+      "cerrados",
+      "debido",
+      "adversas",
+      "condiciones",
+      "climáticas",
+      ".",
+      "aunque",
+      "alerta",
+      "roja",
+      "finalizado",
+      ",",
+      "aún",
+      "autoridades",
+      "mantienen",
+      "alertas",
+      "naranjas",
+      "amarillas",
+      "varias",
+      "áreas",
+      ".",
+      "medida",
+      "situación",
+      "va",
+      "normalizando",
+      ",",
+      "hospitales",
+      "empiezan",
+      "reanudar",
+      "actividades",
+      "tras",
+      "haber",
+      "suspendido",
+      "citas",
+      "servicios",
+      "urgentes",
+      ".",
+      "agencia",
+      "meteorológica",
+      "reino",
+      "unido",
+      ",",
+      "met",
+      "office",
+      ",",
+      "identificado",
+      "fenómeno",
+      "conocido",
+      "“",
+      "sting",
+      "jet",
+      "”",
+      ",",
+      "contribuyó",
+      "virulencia",
+      "tormenta",
+      ".",
+      "fenómeno",
+      "manifiesta",
+      "forma",
+      "cola",
+      "escorpión",
+      "puede",
+      "generar",
+      "ráfagas",
+      "viento",
+      "extremadamente",
+      "intensas",
+      "áreas",
+      "relativamente",
+      "pequeñas",
+      ".",
+      "mañana",
+      "hoy",
+      "registraron",
+      "vientos",
+      "183",
+      "kilómetros",
+      "hora",
+      "condado",
+      "galway",
+      ",",
+      "marca",
+      "cifra",
+      "récord",
+      "historia",
+      "meteorológica",
+      "isla",
+      ".",
+      "además",
+      ",",
+      "met",
+      "indicó",
+      "tipo",
+      "borrascas",
+      "suelen",
+      "durar",
+      "tres",
+      "cuatro",
+      "horas",
+      ".",
+      "compañía",
+      "nacional",
+      "electricidad",
+      "república",
+      ",",
+      "esb",
+      ",",
+      "declarado",
+      "daños",
+      "infraestructura",
+      "eléctrica",
+      "generalizados",
+      "precedentes",
+      ".",
+      "estima",
+      "tomará",
+      "varios",
+      "días",
+      "restablecer",
+      "suministro",
+      "eléctrico",
+      "país",
+      ",",
+      "aunque",
+      "met",
+      "éireann",
+      "confirmado",
+      "“",
+      "situación",
+      "mejorando",
+      "”",
+      "disminución",
+      "alertas",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "VBZ": 5,
+      "FW": 98,
+      "NN": 72,
+      "IN": 9,
+      "JJ": 20,
+      "NNS": 22,
+      "VBP": 13,
+      "RB": 1,
+      "VBD": 2,
+      "CD": 2,
+      "DT": 1,
+      "VBG": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-FW": 74,
+      "FW-NNP": 8,
+      "NNP-NNP": 8,
+      "NNP-FW": 3,
+      "NNP-NN": 6,
+      "NN-FW": 13,
+      "FW-NN": 11,
+      "NN-NN": 40,
+      "NN-IN": 5,
+      "IN-JJ": 4,
+      "JJ-FW": 2,
+      "FW-NNS": 4,
+      "NNS-VBP": 11,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NN": 10,
+      "IN-FW": 4,
+      "NN-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 3,
+      "JJ-NNS": 7,
+      "NNS-NNP": 3,
+      "NNP-JJ": 1,
+      "VBP-JJ": 3,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "VBP-NNP": 2,
+      "NNP-NNS": 1,
+      "VBP-IN": 1,
+      "NN-NNS": 5,
+      "VBP-NNS": 1,
+      "VBZ-JJ": 3,
+      "NNS-IN": 3,
+      "VBP-NN": 3,
+      "NN-VBZ": 3,
+      "VBP-DT": 1,
+      "DT-NNS": 1,
+      "NNP-VBP": 2,
+      "NN-NNP": 2,
+      "NN-JJ": 2,
+      "NN-VBG": 1,
+      "VBG-NN": 1,
+      "FW-CD": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNP-VBD": 1,
+      "VBZ-NNP": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 9,
+      "FW-FW-FW": 57,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 7,
+      "NN-NN-NN": 18,
+      "NN-NN-FW": 6,
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NNS": 3,
+      "JJ-NNS-NNP": 2,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 3,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "JJ-NNS-IN": 2,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-FW": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NNS": 1,
+      "DT-NNS-NNP": 1,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "NN-NN-VBG": 1,
+      "NN-VBG-NN": 1,
+      "VBG-NN-NN": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "IN-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 98,
+        "NN": 72,
+        "NNP": 25,
+        "NNS": 22,
+        "JJ": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 74,
+        "NN-NN": 40,
+        "NN-FW": 13,
+        "FW-NN": 11,
+        "NNS-VBP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 57,
+        "NN-NN-NN": 18,
+        "NN-FW-FW": 9,
+        "FW-NN-NN": 7,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 20,
+      "ADJP": 1,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Irlanda', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('isla', 'NN')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('kilómetros', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('por', 'JJ') ('hora', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('alertas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP VP ('meteorológicas', 'FW') ('de', 'FW') NP ('e', 'CC') NP ('del', 'FW') NP ('en', 'FW') NP ('la', 'FW') ('alerta', 'FW') ('roja', 'FW') ('por', 'FW') ('el', 'FW') ('paso', 'FW') ('de', 'FW') ('la', 'FW') ('tormenta', 'FW') ('Éowyn', 'FW') (',', ',') ('que', 'FW') ('ha', 'FW') NP ('estragos', 'FW') ('en', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Irlanda"
+      },
+      {
+        "label": "NP",
+        "text": "Irlanda"
+      },
+      {
+        "label": "NP",
+        "text": "Norte pusieron"
+      },
+      {
+        "label": "NP",
+        "text": "marcha"
+      },
+      {
+        "label": "NP",
+        "text": "causado"
+      },
+      {
+        "label": "NP",
+        "text": "isla"
+      },
+      {
+        "label": "NP",
+        "text": "Esta tormenta ha"
+      },
+      {
+        "label": "VP",
+        "text": "dejado a cerca"
+      },
+      {
+        "label": "NP",
+        "text": "a cerca"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "y locales"
+      },
+      {
+        "label": "VP",
+        "text": "sin electricidad en medio"
+      },
+      {
+        "label": "NP",
+        "text": "en medio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  meteorológicas/FW\n  de/FW\n  (NP Irlanda/NNP)\n  e/CC\n  (NP Irlanda/NNP)\n  del/FW\n  (NP Norte/NNP pusieron/NN)\n  en/FW\n  (NP marcha/NN)\n  la/FW\n  alerta/FW\n  roja/FW\n  por/FW\n  el/FW\n  paso/FW\n  de/FW\n  la/FW\n  tormenta/FW\n  Éowyn/FW\n  ,/,\n  que/FW\n  ha/FW\n  (NP causado/NN)\n  estragos/FW\n  en/FW\n  la/FW\n  (NP isla/NN)\n  ./.)",
+      "(S\n  (NP Esta/NNP tormenta/NN ha/NN)\n  (VP dejado/VBZ (NP a/DT cerca/NN))\n  de/IN\n  (ADJP un/JJ)\n  millón/FW\n  de/FW\n  viviendas/FW\n  (NP y/NN locales/NNS)\n  (VP sin/VBP electricidad/RB (NP en/JJ medio/NN))\n  de/IN\n  vientos/FW\n  (NP que/NN han/NN)\n  (VP alcanzado/VBD los/JJ)\n  180/CD\n  (NP kilómetros/NNS)\n  (NP por/JJ hora/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (NP temporal/JJ provocó/NN la/NN)\n  paralización/FW\n  de/FW\n  los/FW\n  (NP transportes/NNS)\n  (VP públicos/VBP)\n  ,/,\n  (NP incluyendo/JJ carreteras/NNS)\n  ,/,\n  (NP ferrocarriles/NNS)\n  (VP y/VBP (NP ferrys/NN))\n  ,/,\n  además/FW\n  de/FW\n  la/FW\n  cancelación/FW\n  de/FW\n  numerosos/FW\n  vuelos/FW\n  en/FW\n  los/FW\n  (NP principales/NNS aeropuertos/NNS)\n  ./.)",
+      "(S\n  (NP Los/NNP centros/NN educativos/NN)\n  ,/,\n  tanto/IN\n  en/FW\n  el/FW\n  norte/FW\n  (NP como/NN)\n  en/FW\n  (NP el/NN sur/NN)\n  ,/,\n  (NP permanecieron/NN cerrados/NN)\n  (VP\n    debido/VBZ\n    (NP a/DT las/JJ adversas/NN condiciones/NNS climáticas/NN))\n  ./.)",
+      "(S\n  (NP Aunque/NNP la/NNP)\n  (VP alerta/VBZ (NP roja/JJ ha/NN finalizado/NN))\n  ,/,\n  (NP aún/JJ las/NN autoridades/NNS)\n  (VP mantienen/VBP (NP alertas/NNS) naranjas/JJ y/RB)\n  (VP amarillas/VBP (NP en/JJ varias/NN áreas/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "TIEMPO_RELATIVO",
+      "PERIODOS_TEMPORALES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          238,
+          250
+        ],
+        "start": 238,
+        "end": 250
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la mañana",
+        "position": [
+          1202,
+          1219
+        ],
+        "start": 1202,
+        "end": 1219
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          1213,
+          1219
+        ],
+        "start": 1213,
+        "end": 1219
+      }
+    ],
+    "match_count": 3
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irlanda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "condado de Galway",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Éowyn",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Irlanda del Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Irlanda",
+        "relacion": "PONER",
+        "objeto": "Éowyn"
+      },
+      {
+        "sujeto": "Irlanda del Norte",
+        "relacion": "PONER",
+        "objeto": "Éowyn"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4588,
+    "pos": 0.05,
+    "neu": 0.917,
+    "neg": 0.033,
+    "label": "positive"
+  }
+}

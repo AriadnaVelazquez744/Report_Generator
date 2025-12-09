@@ -1,0 +1,895 @@
+{
+  "url": "https://www.telesurtv.net/manifestantes-en-israel-exigen-acuerdo-con-gaza-para-la-liberacion-de-rehenes/",
+  "title": "Manifestantes en Israel exigen acuerdo con Hamás para la liberación de rehenes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Franja de Gaza",
+    "jerusalen-ocupada",
+    "Manifestaciones",
+    "Palestina",
+    "Tel Aviv"
+  ],
+  "text": "Todos los sábados en Israel desde el inicio del conflicto en Gaza, se han llevado a cabo protestas donde familiares y manifestantes han solicitado al Gobierno de Israel que inicie un acuerdo con el movimiento de resistencia palestina Hamás en la Franja de Gaza, que facilite la liberación del casi centenares de prisioneros que aún permanecen en el territorio palestino.\nEn el centro de las manifestaciones en Tel Aviv, miles de personas han ido a las calles para recordar a la rehén Lirir Albag, una de las cinco chicas soldados que aún están secuestradas en Gaza, tras que horas antes Hamás publicara por vez primera un vídeo suyo.\nPor otra parte, en videos divulgados en redes sociales, se puede ver a la policía de Israel infiltrarse entre la multitud de protestantes para apagar una hoguera en contra del Gobierno de Israel y en defensa del pacto de prisioneros.\nTambién hubo protestas en Jerusalén, próximas a la residencia del primer ministro de Israel, Benjamín Netanyahu.\n“Se están muriendo de frío en Gaza”, proclama una pancarta portada por un reducido grupo de protestantes, en alusión a los siete bebés fallecidos en Gaza debido al frío en días recientes.\nEn el mismo sitio tuvo lugar otra manifestación horas antes, en la que la policía arrestó al menos a cuatro individuos, de acuerdo con la prensa de Israel.\nDe igual manera, de los 251 secuestrados el 7 de octubre de 2023, aún permanecen en el sitio 96 cautivos -se ha confirmado la muerte de al menos 34 de ellos-, mientras que otros cuatro siguen cautivos desde hace años, de ellos dos soldados han fallecido.\nDesde el inicio del conflicto, Israel y Hamás solo consiguieron un pacto de tregua de una semana a finales de noviembre, el cual facilitó la liberación de 105 cautivos -81 israelíes y 24 extranjeros (23 tailandeses y 1 filipino) a cambio de 240 cautivos palestinos.\nLa delegación de Israel reanudó el viernes los diálogos sobre el alto el fuego en Gaza en Doha, en compañía de los mediadores del conflicto -Catar, Estados Unidos y Egipto- tras ser nuevamente bloqueadas en las semanas recientes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/manifestantes-en-israel-exigen-acuerdo-con-gaza-para-la-liberacion-de-rehenes/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1998,
+    "message_id": 83622,
+    "date": "2025-01-05T10:55:07+00:00",
+    "text": "teleSUR\nManifestantes en Israel exigen acuerdo con Hamás para la liberación de rehenes\nhttps://www.telesurtv.net/manifestantes-en-israel-exigen-acuerdo-con-gaza-para-la-liberacion-de-rehenes/",
+    "photo_path": null,
+    "views": 3016,
+    "reactions": {
+      "👍": 35,
+      "🤔": 5,
+      "❤": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "todos los sábados en israel desde el inicio del conflicto en gaza, se han llevado a cabo protestas donde familiares y manifestantes han solicitado al gobierno de israel que inicie un acuerdo con el movimiento de resistencia palestina hamás en la franja de gaza, que facilite la liberación del casi centenares de prisioneros que aún permanecen en el territorio palestino. en el centro de las manifestaciones en tel aviv, miles de personas han ido a las calles para recordar a la rehén lirir albag, una de las cinco chicas soldados que aún están secuestradas en gaza, tras que horas antes hamás publicara por vez primera un vídeo suyo. por otra parte, en videos divulgados en redes sociales, se puede ver a la policía de israel infiltrarse entre la multitud de protestantes para apagar una hoguera en contra del gobierno de israel y en defensa del pacto de prisioneros. también hubo protestas en jerusalén, próximas a la residencia del primer ministro de israel, benjamín netanyahu. “se están muriendo de frío en gaza”, proclama una pancarta portada por un reducido grupo de protestantes, en alusión a los siete bebés fallecidos en gaza debido al frío en días recientes. en el mismo sitio tuvo lugar otra manifestación horas antes, en la que la policía arrestó al menos a cuatro individuos, de acuerdo con la prensa de israel. de igual manera, de los 251 secuestrados el 7 de octubre de 2023, aún permanecen en el sitio 96 cautivos -se ha confirmado la muerte de al menos 34 de ellos-, mientras que otros cuatro siguen cautivos desde hace años, de ellos dos soldados han fallecido. desde el inicio del conflicto, israel y hamás solo consiguieron un pacto de tregua de una semana a finales de noviembre, el cual facilitó la liberación de 105 cautivos -81 israelíes y 24 extranjeros (23 tailandeses y 1 filipino) a cambio de 240 cautivos palestinos. la delegación de israel reanudó el viernes los diálogos sobre el alto el fuego en gaza en doha, en compañía de los mediadores del conflicto -catar, estados unidos y egipto- tras ser nuevamente bloqueadas en las semanas recientes.",
+    "tokens": [
+      "sábados",
+      "israel",
+      "inicio",
+      "conflicto",
+      "gaza",
+      ",",
+      "llevado",
+      "cabo",
+      "protestas",
+      "familiares",
+      "manifestantes",
+      "solicitado",
+      "gobierno",
+      "israel",
+      "inicie",
+      "acuerdo",
+      "movimiento",
+      "resistencia",
+      "palestina",
+      "hamás",
+      "franja",
+      "gaza",
+      ",",
+      "facilite",
+      "liberación",
+      "casi",
+      "centenares",
+      "prisioneros",
+      "aún",
+      "permanecen",
+      "territorio",
+      "palestino",
+      ".",
+      "centro",
+      "manifestaciones",
+      "tel",
+      "aviv",
+      ",",
+      "miles",
+      "personas",
+      "ido",
+      "calles",
+      "recordar",
+      "rehén",
+      "lirir",
+      "albag",
+      ",",
+      "cinco",
+      "chicas",
+      "soldados",
+      "aún",
+      "secuestradas",
+      "gaza",
+      ",",
+      "tras",
+      "horas",
+      "hamás",
+      "publicara",
+      "vez",
+      "primera",
+      "vídeo",
+      ".",
+      "parte",
+      ",",
+      "videos",
+      "divulgados",
+      "redes",
+      "sociales",
+      ",",
+      "puede",
+      "ver",
+      "policía",
+      "israel",
+      "infiltrarse",
+      "multitud",
+      "protestantes",
+      "apagar",
+      "hoguera",
+      "gobierno",
+      "israel",
+      "defensa",
+      "pacto",
+      "prisioneros",
+      ".",
+      "protestas",
+      "jerusalén",
+      ",",
+      "próximas",
+      "residencia",
+      "primer",
+      "ministro",
+      "israel",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ".",
+      "“",
+      "muriendo",
+      "frío",
+      "gaza",
+      "”",
+      ",",
+      "proclama",
+      "pancarta",
+      "portada",
+      "reducido",
+      "grupo",
+      "protestantes",
+      ",",
+      "alusión",
+      "siete",
+      "bebés",
+      "fallecidos",
+      "gaza",
+      "debido",
+      "frío",
+      "días",
+      "recientes",
+      ".",
+      "mismo",
+      "sitio",
+      "lugar",
+      "manifestación",
+      "horas",
+      ",",
+      "policía",
+      "arrestó",
+      "menos",
+      "cuatro",
+      "individuos",
+      ",",
+      "acuerdo",
+      "prensa",
+      "israel",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "251",
+      "secuestrados",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "aún",
+      "permanecen",
+      "sitio",
+      "96",
+      "cautivos",
+      "-se",
+      "confirmado",
+      "muerte",
+      "menos",
+      "34",
+      "ellos-",
+      ",",
+      "mientras",
+      "cuatro",
+      "siguen",
+      "cautivos",
+      "hace",
+      "años",
+      ",",
+      "dos",
+      "soldados",
+      "fallecido",
+      ".",
+      "inicio",
+      "conflicto",
+      ",",
+      "israel",
+      "hamás",
+      "solo",
+      "consiguieron",
+      "pacto",
+      "tregua",
+      "semana",
+      "finales",
+      "noviembre",
+      ",",
+      "facilitó",
+      "liberación",
+      "105",
+      "cautivos",
+      "-81",
+      "israelíes",
+      "24",
+      "extranjeros",
+      "(",
+      "23",
+      "tailandeses",
+      "1",
+      "filipino",
+      ")",
+      "cambio",
+      "240",
+      "cautivos",
+      "palestinos",
+      ".",
+      "delegación",
+      "israel",
+      "reanudó",
+      "viernes",
+      "diálogos",
+      "alto",
+      "fuego",
+      "gaza",
+      "doha",
+      ",",
+      "compañía",
+      "mediadores",
+      "conflicto",
+      "-catar",
+      ",",
+      "unidos",
+      "egipto-",
+      "tras",
+      "ser",
+      "nuevamente",
+      "bloqueadas",
+      "semanas",
+      "recientes",
+      "."
+    ],
+    "token_count": 223,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 43,
+      "VBZ": 7,
+      "JJ": 28,
+      "IN": 25,
+      "NN": 111,
+      "FW": 86,
+      "NNS": 20,
+      "RB": 1,
+      "VBP": 6,
+      "CD": 8,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 4,
+      "VBZ-JJ": 4,
+      "JJ-IN": 1,
+      "IN-NNP": 8,
+      "NNP-NN": 12,
+      "NN-NN": 60,
+      "NN-IN": 16,
+      "NNP-FW": 12,
+      "FW-NN": 12,
+      "NN-NNS": 8,
+      "NNS-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-VBZ": 2,
+      "JJ-NN": 17,
+      "NN-NNP": 9,
+      "NNP-IN": 2,
+      "NNP-NNP": 10,
+      "NN-JJ": 6,
+      "JJ-JJ": 4,
+      "NN-FW": 9,
+      "FW-FW": 48,
+      "FW-NNP": 11,
+      "FW-JJ": 5,
+      "NNS-IN": 3,
+      "IN-FW": 11,
+      "FW-NNS": 4,
+      "NNS-FW": 2,
+      "NNP-NNS": 2,
+      "NNS-RB": 1,
+      "RB-FW": 1,
+      "NNS-VBP": 4,
+      "VBP-NN": 2,
+      "VBZ-NNP": 1,
+      "JJ-FW": 2,
+      "VBP-VBP": 1,
+      "FW-IN": 1,
+      "IN-JJ": 3,
+      "VBP-NNP": 1,
+      "IN-NNS": 1,
+      "IN-NN": 2,
+      "NNS-NNP": 2,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNP-JJ": 1,
+      "FW-CD": 5,
+      "CD-NN": 6,
+      "NN-CD": 2,
+      "CD-IN": 1,
+      "VBZ-CD": 1,
+      "CD-NNS": 1,
+      "JJ-VBP": 1,
+      "VBP-FW": 1,
+      "VBP-JJ": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "IN-NNP-NN": 3,
+      "NNP-NN-NN": 10,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 10,
+      "NN-IN-NNP": 4,
+      "IN-NNP-FW": 4,
+      "NNP-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 12,
+      "NN-NN-NNP": 7,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 31,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 4,
+      "NNP-FW-NNP": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-JJ": 2,
+      "NN-IN-FW": 8,
+      "IN-FW-NN": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-NNS": 3,
+      "FW-NNS-FW": 2,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNS": 2,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-FW": 1,
+      "RB-FW-NN": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 5,
+      "NN-NNP-VBZ": 3,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-VBP": 1,
+      "VBP-VBP-NN": 1,
+      "NN-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "FW-NN-FW": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NNP-NNP": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 4,
+      "CD-NN-NN": 2,
+      "FW-FW-CD": 3,
+      "IN-NN-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "FW-CD-IN": 1,
+      "CD-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-FW": 1,
+      "VBP-FW-CD": 1,
+      "CD-NN-NNS": 1,
+      "NNS-NNP-FW": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NNS-FW-NN": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 111,
+        "FW": 86,
+        "NNP": 43,
+        "JJ": 28,
+        "IN": 25
+      },
+      "top_bigrams": {
+        "NN-NN": 60,
+        "FW-FW": 48,
+        "JJ-NN": 17,
+        "NN-IN": 16,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 31,
+        "NN-NN-NN": 28,
+        "JJ-NN-NN": 12,
+        "NNP-NN-NN": 10,
+        "NN-NN-IN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 88,
+      "VP": 16,
+      "PP": 14,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0543
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0465
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.031
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "S -> NP VP PP PP (',', ',') VP ('llevado', 'FW') NP VP VP PP NP ('movimiento', 'FW') ('de', 'FW') ('resistencia', 'FW') ('palestina', 'FW') NP ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP NP ('liberación', 'FW') ('del', 'FW') NP ('de', 'IN') ('prisioneros', 'FW') NP ('en', 'IN') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Todos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "VP -> ('los', 'VBZ') ('sábados', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('desde', 'NN') ('el', 'NN') ('inicio', 'NN') ('del', 'NN') ('conflicto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') ('han', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Todos"
+      },
+      {
+        "label": "VP",
+        "text": "los sábados"
+      },
+      {
+        "label": "PP",
+        "text": "en Israel desde el inicio del conflicto"
+      },
+      {
+        "label": "NP",
+        "text": "Israel desde el inicio del conflicto"
+      },
+      {
+        "label": "PP",
+        "text": "en Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "VP",
+        "text": "se han"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo protestas donde"
+      },
+      {
+        "label": "VP",
+        "text": "familiares y manifestantes"
+      },
+      {
+        "label": "NP",
+        "text": "y manifestantes"
+      },
+      {
+        "label": "VP",
+        "text": "han solicitado al Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "solicitado al Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel que inicie"
+      },
+      {
+        "label": "NP",
+        "text": "Israel que inicie"
+      },
+      {
+        "label": "NP",
+        "text": "un acuerdo con el"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Todos/NNP)\n  (VP los/VBZ sábados/JJ)\n  (PP\n    en/IN\n    (NP Israel/NNP desde/NN el/NN inicio/NN del/NN conflicto/NN))\n  (PP en/IN (NP Gaza/NNP))\n  ,/,\n  (VP se/VBD han/JJ)\n  llevado/FW\n  (NP a/DT cabo/NN protestas/NN donde/NN)\n  (VP familiares/VBZ (NP y/JJ manifestantes/NNS))\n  (VP han/VBP (NP solicitado/JJ al/JJ Gobierno/NNP))\n  (PP de/IN (NP Israel/NNP que/NNP inicie/NN))\n  (NP un/JJ acuerdo/JJ con/NN el/NN)\n  movimiento/FW\n  de/FW\n  resistencia/FW\n  palestina/FW\n  (NP Hamás/NNP)\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP que/NN)\n  (NP facilite/JJ la/NN)\n  liberación/FW\n  del/FW\n  (NP casi/NN centenares/NNS)\n  de/IN\n  prisioneros/FW\n  (NP que/JJ aún/NN permanecen/NN)\n  en/IN\n  el/FW\n  (NP territorio/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  (NP centro/NN)\n  de/IN\n  las/FW\n  (NP manifestaciones/NNS)\n  en/FW\n  (NP Tel/NNP Aviv/NNP)\n  ,/,\n  (NP miles/NNS)\n  de/IN\n  personas/FW\n  (NP han/NN)\n  (VP ido/VB (NP a/DT las/JJ calles/NNS))\n  (VP para/VBP)\n  (VP recordar/VB (NP a/DT la/NN rehén/NN Lirir/NNP Albag/NNP))\n  ,/,\n  (ADJP una/JJ)\n  de/FW\n  las/FW\n  (NP\n    cinco/NN\n    chicas/NN\n    soldados/NN\n    que/NN\n    aún/NN\n    están/NN\n    secuestradas/NN)\n  (PP en/IN (NP Gaza/NNP))\n  ,/,\n  (VP tras/VBZ (NP que/JJ horas/NNS))\n  (VP\n    antes/VBZ\n    (NP Hamás/NNP publicara/NN por/NN vez/NN primera/NN)\n    (NP un/JJ vídeo/NN suyo/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  en/FW\n  videos/FW\n  divulgados/FW\n  en/FW\n  redes/FW\n  (NP sociales/NNS)\n  ,/,\n  se/FW\n  (VP puede/VBP)\n  (PP ver/IN (NP a/DT la/NN))\n  policía/FW\n  (PP de/IN (NP Israel/NNP infiltrarse/NN entre/NN))\n  la/FW\n  multitud/FW\n  de/FW\n  protestantes/FW\n  para/FW\n  (NP apagar/NN)\n  (NP una/JJ hoguera/NN)\n  en/IN\n  (ADJP contra/JJ)\n  del/FW\n  (NP Gobierno/NNP)\n  (PP de/IN (NP Israel/NNP y/NNP))\n  en/FW\n  (NP defensa/NN)\n  del/FW\n  pacto/FW\n  de/FW\n  prisioneros/FW\n  ./.)",
+      "(S\n  (NP También/NNP hubo/NN protestas/NNS)\n  (PP en/IN (NP Jerusalén/NNP))\n  ,/,\n  (VP\n    próximas/VBZ\n    (NP a/DT la/NN residencia/NN del/NN primer/NN ministro/NN))\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP Benjamín/NNP Netanyahu/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Se/NNP)\n  están/FW\n  muriendo/FW\n  de/FW\n  frío/FW\n  en/FW\n  (NP Gaza/NNP ”/NNP)\n  ,/,\n  (NP proclama/NN)\n  (NP una/JJ pancarta/NN portada/NN por/NN)\n  (NP un/JJ reducido/NN grupo/NN)\n  (PP de/IN (NP protestantes/NNS))\n  ,/,\n  en/FW\n  alusión/FW\n  (NP a/DT los/NN)\n  (NP siete/JJ bebés/NN fallecidos/NN)\n  (PP en/IN (NP Gaza/NNP debido/NN al/NN frío/NN))\n  (PP en/IN (NP días/NN recientes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "conflicto en gaza, se han llevado a cabo protestas donde familiares y manifestantes han solicitado al gobierno",
+        "position": [
+          48,
+          158
+        ],
+        "start": 48,
+        "end": 158
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protestas donde familiares y manifestantes han solicitado al gobierno de israel que inicie un acuerdo con el movimiento de resistencia palestina",
+        "position": [
+          89,
+          233
+        ],
+        "start": 89,
+        "end": 233
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en gaza",
+        "position": [
+          48,
+          65
+        ],
+        "start": 48,
+        "end": 65
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "gobierno de israel que inicie un acuerdo con el movimiento de resistencia palestina hamás en la franja de gaza, que facilite la liberación del casi centenares de prisioneros que aún permanecen en el territorio",
+        "position": [
+          150,
+          359
+        ],
+        "start": 150,
+        "end": 359
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          834,
+          841
+        ],
+        "start": 834,
+        "end": 841
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de israel que",
+        "position": [
+          150,
+          172
+        ],
+        "start": 150,
+        "end": 172
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de israel",
+        "position": [
+          941,
+          959
+        ],
+        "start": 941,
+        "end": 959
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1994,
+          2008
+        ],
+        "start": 1994,
+        "end": 2008
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          224,
+          233
+        ],
+        "start": 224,
+        "end": 233
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          377,
+          386
+        ],
+        "start": 377,
+        "end": 386
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1369,
+          1389
+        ],
+        "start": 1369,
+        "end": 1389
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jerusalén",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lirir Albag",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Doha",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto-",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "LLEVAR",
+        "objeto": "Gobierno de Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LLEVAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LLEVAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "LLEVAR",
+        "objeto": "Gobierno de Israel"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "LLEVAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "LLEVAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gobierno de Israel",
+        "relacion": "SOLICITAR_LLEVAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Gobierno de Israel",
+        "relacion": "SOLICITAR_LLEVAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "VER",
+        "objeto": "Gobierno de Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REANUDAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REANUDAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REANUDAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REANUDAR",
+        "objeto": "Egipto-"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REANUDAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REANUDAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REANUDAR",
+        "objeto": "Egipto-"
+      },
+      {
+        "sujeto": "Doha",
+        "relacion": "REANUDAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Doha",
+        "relacion": "REANUDAR",
+        "objeto": "Egipto-"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.007,
+    "neu": 0.993,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

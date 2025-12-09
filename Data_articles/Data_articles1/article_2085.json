@@ -1,0 +1,700 @@
+{
+  "url": "https://www.telesurtv.net/mexico-el-pais-con-menos-desempleo-a-nivel-mundial/",
+  "title": "México: El país con menos desempleo a nivel mundial - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Economía",
+    "Inegi",
+    "México",
+    "tasa de desempleo"
+  ],
+  "text": "La presidenta de México, Claudia Sheinbaum, celebró este jueves los recientes datos publicados por el Instituto Nacional de Estadística y Geografía (Inegi) relacionados con la tasa de desempleo.\nLEA TAMBIÉN\nMéxico ayuda a migrantes deportados por EE.UU. ofreciendo refugios temporales\nDurante su habitual conferencia en el Palacio Nacional, Sheinbaum resaltó la importancia del dato y aseguró que ese indicador demuestra la fortaleza económica de México.\nLa mandataria dio a conocer una gráfica comparativa en la que se muestran las principales economías del mundo y el nivel de desempleo, y resaltó que la información presentada no fue recopilada por el Gobierno, sino por el Inegi.\nSheinbaum aseveró “esto es uno de los datos más importantes para establecer cómo va caminando una economía en un país”.\nAsimismo, se refirió a quienes argumentan que la economía en la nación va por mal camino “la economía mexicana está muy fuerte”.\nEl Inegi comparó los datos con naciones como Japón, Alemania, Países Bajos, Australia, Estados Unidos, Irlanda, Austria, Italia, Bélgica, Francia, Suecia, Finlandia y España.\nCon esos resultados, el Gobierno mexicano reafirma su discurso de estabilidad económica y generación de empleos, en un contexto donde l crecimiento económico y la inversión son claves para el futuro del país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-el-pais-con-menos-desempleo-a-nivel-mundial/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 106,
+    "message_id": 85805,
+    "date": "2025-01-30T18:55:07+00:00",
+    "text": "teleSUR\nMéxico: El país con menos desempleo a nivel mundial\nhttps://www.telesurtv.net/mexico-el-pais-con-menos-desempleo-a-nivel-mundial/",
+    "photo_path": null,
+    "views": 1899,
+    "reactions": {
+      "👍": 38,
+      "👏": 10,
+      "🤔": 2
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de méxico, claudia sheinbaum, celebró este jueves los recientes datos publicados por el instituto nacional de estadística y geografía (inegi) relacionados con la tasa de desempleo. durante su habitual conferencia en el palacio nacional, sheinbaum resaltó la importancia del dato y aseguró que ese indicador demuestra la fortaleza económica de méxico. la mandataria dio a conocer una gráfica comparativa en la que se muestran las principales economías del mundo y el nivel de desempleo, y resaltó que la información presentada no fue recopilada por el gobierno, sino por el inegi. sheinbaum aseveró “esto es uno de los datos más importantes para establecer cómo va caminando una economía en un país”. asimismo, se refirió a quienes argumentan que la economía en la nación va por mal camino “la economía mexicana está muy fuerte”. el inegi comparó los datos con naciones como japón, alemania, países bajos, australia, estados unidos, irlanda, austria, italia, bélgica, francia, suecia, finlandia y españa. con esos resultados, el gobierno mexicano reafirma su discurso de estabilidad económica y generación de empleos, en un contexto donde l crecimiento económico y la inversión son claves para el futuro del país.",
+    "tokens": [
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "celebró",
+      "jueves",
+      "recientes",
+      "datos",
+      "publicados",
+      "instituto",
+      "nacional",
+      "estadística",
+      "geografía",
+      "(",
+      "inegi",
+      ")",
+      "relacionados",
+      "tasa",
+      "desempleo",
+      ".",
+      "habitual",
+      "conferencia",
+      "palacio",
+      "nacional",
+      ",",
+      "sheinbaum",
+      "resaltó",
+      "importancia",
+      "dato",
+      "aseguró",
+      "indicador",
+      "demuestra",
+      "fortaleza",
+      "económica",
+      "méxico",
+      ".",
+      "mandataria",
+      "dio",
+      "conocer",
+      "gráfica",
+      "comparativa",
+      "muestran",
+      "principales",
+      "economías",
+      "mundo",
+      "nivel",
+      "desempleo",
+      ",",
+      "resaltó",
+      "información",
+      "presentada",
+      "recopilada",
+      "gobierno",
+      ",",
+      "sino",
+      "inegi",
+      ".",
+      "sheinbaum",
+      "aseveró",
+      "“",
+      "datos",
+      "importantes",
+      "establecer",
+      "cómo",
+      "va",
+      "caminando",
+      "economía",
+      "país",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "refirió",
+      "argumentan",
+      "economía",
+      "nación",
+      "va",
+      "mal",
+      "camino",
+      "“",
+      "economía",
+      "mexicana",
+      "fuerte",
+      "”",
+      ".",
+      "inegi",
+      "comparó",
+      "datos",
+      "naciones",
+      "japón",
+      ",",
+      "alemania",
+      ",",
+      "países",
+      "bajos",
+      ",",
+      "australia",
+      ",",
+      "unidos",
+      ",",
+      "irlanda",
+      ",",
+      "austria",
+      ",",
+      "italia",
+      ",",
+      "bélgica",
+      ",",
+      "francia",
+      ",",
+      "suecia",
+      ",",
+      "finlandia",
+      "españa",
+      ".",
+      "resultados",
+      ",",
+      "gobierno",
+      "mexicano",
+      "reafirma",
+      "discurso",
+      "estabilidad",
+      "económica",
+      "generación",
+      "empleos",
+      ",",
+      "contexto",
+      "l",
+      "crecimiento",
+      "económico",
+      "inversión",
+      "claves",
+      "futuro",
+      "país",
+      "."
+    ],
+    "token_count": 137,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "FW": 42,
+      "NN": 56,
+      "NNS": 12,
+      "VBP": 10,
+      "JJ": 19,
+      "VBZ": 5,
+      "IN": 5,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 3,
+      "FW-FW": 29,
+      "FW-NNP": 5,
+      "NNP-NNP": 27,
+      "NNP-NN": 8,
+      "NN-NN": 26,
+      "NN-NNS": 6,
+      "NNS-VBP": 9,
+      "VBP-NNS": 2,
+      "VBP-JJ": 6,
+      "JJ-NN": 16,
+      "NN-JJ": 7,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NN-FW": 5,
+      "NNS-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "NN-IN": 5,
+      "IN-FW": 4,
+      "FW-NN": 4,
+      "FW-NNS": 2,
+      "VBP-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 3,
+      "NN-NNP": 5,
+      "JJ-JJ": 1,
+      "IN-JJ": 1,
+      "VBP-NNP": 1,
+      "FW-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 18,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 6,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 20,
+      "NNP-NN-NNS": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-NNP": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 5,
+      "NN-NN-NN": 13,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-IN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 56,
+        "NNP": 42,
+        "FW": 42,
+        "JJ": 19,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "FW-FW": 29,
+        "NNP-NNP": 27,
+        "NN-NN": 26,
+        "JJ-NN": 16,
+        "NNS-VBP": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NNP-NNP-NNP": 18,
+        "NN-NN-NN": 13,
+        "NNP-NN-NN": 6,
+        "NN-NN-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 56,
+      "VP": 15,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP VP ('de', 'FW') NP ('y', 'CC') NP ('(', '(') NP (')', ')') VP ('la', 'FW') ('tasa', 'FW') ('de', 'FW') ('desempleo', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('celebró', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('los', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('recientes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('datos', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('publicados', 'JJ') ('por', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('Instituto', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "celebró este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "los recientes"
+      },
+      {
+        "label": "NP",
+        "text": "recientes"
+      },
+      {
+        "label": "VP",
+        "text": "datos publicados por el Instituto Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "publicados por"
+      },
+      {
+        "label": "NP",
+        "text": "el Instituto Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Estadística"
+      },
+      {
+        "label": "NP",
+        "text": "Geografía"
+      },
+      {
+        "label": "NP",
+        "text": "Inegi"
+      },
+      {
+        "label": "VP",
+        "text": "relacionados con"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN México"
+      },
+      {
+        "label": "VP",
+        "text": "ayuda a migrantes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP celebró/NN este/NN jueves/NNS)\n  (VP los/VBP (NP recientes/NNS))\n  (VP\n    datos/VBP\n    (NP publicados/JJ por/NN)\n    (NP el/JJ Instituto/NNP Nacional/NNP))\n  de/FW\n  (NP Estadística/NNP)\n  y/CC\n  (NP Geografía/NNP)\n  (/(\n  (NP Inegi/NNP)\n  )/)\n  (VP relacionados/VBP con/JJ)\n  la/FW\n  tasa/FW\n  de/FW\n  desempleo/FW\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP México/NNP)\n  (VP ayuda/VBZ (NP a/DT migrantes/NNS))\n  (VP\n    deportados/VBP\n    (NP\n      por/JJ\n      EE.UU./NNP\n      ofreciendo/NN\n      refugios/NNS\n      temporales/NNS\n      Durante/NNP))\n  (VP su/VBP (NP habitual/JJ conferencia/NN))\n  en/IN\n  el/FW\n  (NP Palacio/NNP Nacional/NNP)\n  ,/,\n  (NP Sheinbaum/NNP)\n  (VP resaltó/VBZ)\n  la/FW\n  (NP importancia/JJ del/NN dato/NN y/NN aseguró/NN que/NN)\n  (NP ese/JJ indicador/NN demuestra/NN la/NN fortaleza/NN)\n  económica/FW\n  de/FW\n  (NP México/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP mandataria/NN dio/NN)\n  (NP a/DT conocer/NN una/NN gráfica/NN comparativa/NN)\n  en/IN\n  la/FW\n  que/FW\n  se/FW\n  muestran/FW\n  (NP las/NNS principales/NNS)\n  (VP economías/VBP)\n  del/FW\n  mundo/FW\n  y/FW\n  el/FW\n  nivel/FW\n  de/FW\n  desempleo/FW\n  ,/,\n  y/FW\n  resaltó/FW\n  (NP que/NN)\n  la/FW\n  información/FW\n  (VP presentada/VBZ (NP no/DT fue/NN))\n  (VP recopilada/VBZ (NP por/JJ el/NN Gobierno/NNP))\n  ,/,\n  (NP sino/NN por/NN el/NN Inegi/NNP)\n  ./.)",
+      "(S\n  (NP Sheinbaum/NNP aseveró/NN “/NNP esto/NN es/NN uno/NN)\n  de/IN\n  los/FW\n  (NP datos/NNS)\n  (VP más/VBP (NP importantes/NNS))\n  (VP\n    para/VBP\n    (NP establecer/JJ cómo/NN va/NN caminando/NN)\n    (NP una/JJ economía/NN))\n  (PP en/IN (NP un/JJ país/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP se/VBZ)\n  (VP\n    refirió/VBP\n    (NP a/DT quienes/NNS)\n    argumentan/RB\n    (NP que/JJ la/NN))\n  economía/FW\n  en/FW\n  la/FW\n  nación/FW\n  va/FW\n  por/FW\n  mal/FW\n  (NP camino/NN “/NNP la/NNP)\n  economía/FW\n  (NP mexicana/NN está/NN muy/NN fuerte/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "crecimiento económico y la inversión son claves para el futuro del país",
+        "position": [
+          1244,
+          1315
+        ],
+        "start": 1244,
+        "end": 1315
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "tasa",
+        "position": [
+          176,
+          180
+        ],
+        "start": 176,
+        "end": 180
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desempleo",
+        "position": [
+          184,
+          193
+        ],
+        "start": 184,
+        "end": 193
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inversión",
+        "position": [
+          1271,
+          1280
+        ],
+        "start": 1271,
+        "end": 1280
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto nacional de",
+        "position": [
+          102,
+          123
+        ],
+        "start": 102,
+        "end": 123
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1020,
+          1034
+        ],
+        "start": 1020,
+        "end": 1034
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "alemania",
+        "position": [
+          985,
+          993
+        ],
+        "start": 985,
+        "end": 993
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Suecia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Italia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "España",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno mexicano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palacio Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Austria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Japón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Finlandia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irlanda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Australia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Instituto Nacional de Estadística y Geografía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alemania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Países Bajos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bélgica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "México",
+        "relacion": "CELEBRAR",
+        "objeto": "Instituto Nacional de Estadística y Geografía"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "CELEBRAR",
+        "objeto": "Instituto Nacional de Estadística y Geografía"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "AYUDAR_RESALTAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "México",
+        "relacion": "AYUDAR_RESALTAR",
+        "objeto": "Palacio Nacional"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "AYUDAR_RESALTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "AYUDAR_RESALTAR",
+        "objeto": "Palacio Nacional"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "AYUDAR_RESALTAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "AYUDAR_RESALTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "OFRECER_AYUDAR_RESALTAR",
+        "objeto": "Palacio Nacional"
+      },
+      {
+        "sujeto": "Palacio Nacional",
+        "relacion": "OFRECER_AYUDAR_RESALTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "RESALTAR",
+        "objeto": "México"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.989,
+    "neg": 0.011,
+    "label": "negative"
+  }
+}

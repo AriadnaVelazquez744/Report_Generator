@@ -1,0 +1,892 @@
+{
+  "url": "https://www.telesurtv.net/mas-de-460-menores-fueron-reclutados-en-2024-en-colombia-por-los-grupos-armados/",
+  "title": "Más de 460 menores fueron reclutados en 2024 en Colombia por los grupos armados - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Defensoría del Pueblo de Colombia",
+    "Grupos Arnados",
+    "Reclutamiento Forzado de Menores"
+  ],
+  "text": "La Defensoría del Pueblo de Colombia informó el miércoles que al menos 463 menores de edad fueron víctimas de reclutamiento forzado a lo largo del 2024 por grupos armados ilegales en el país suramericano.\nEl organismo colombiano advirtió que la cifra de menores reclutados, no corresponde a la totalidad de los casos ocurridos el pasado año.\nDe acuerdo a la defensoría colombiana del total de niños, niñas y adolescentes reclutados forzadamente en 2024, alrededor de 230 pertenecen a comunidades indígenas y 30 son afrocolombianos, mientras que 136 no se reconocen en ningún grupo étnico y de 67 no hay información.\nLa mayoría de los casos se dieron en el departamento del Cauca, donde fueron registrados 325 de los 463 reclutamientos de menores de edad.\nTambién se reportaron números altos de reclutamiento forzado en los departamentos de Putumayo (21), Valle del Cauca (20), Antioquia (15), Nariño (11) y Norte de Santander y Arauca, con diez casos cada uno.\nSegún la Defensoría del Pueblo de Colombia, alrededor de 170 menores han sido reclutados por el Estado Mayor Central (EMC), la mayor disidencia de las FARC.\nTambién señaló la principal banda criminal del país, el Clan del Golfo ha reclutado 13 menores y jóvenes y el grupo insurgente del Ejército de Liberación Nacional con 10.\nEl representante encargado de la Oficina en Colombia del Alto Comisionado de la ONU para los Derechos Humanos, Juan Carlos Monge, afirmó el mes pasado que el problema del reclutamiento y el uso de niños, niñas y adolescentes por los grupos armados ilegales es que estos menores están “expuestos a múltiples tipos de violaciones, que no excluyen violencia sexual, el uso con fines sexuales y otros tipos de violaciones”.\nLa Oficina del Alto Comisionado de la ONU ha podido verificar en diferentes partes del país que hay una persistencia de violencias de género, incluyendo violencia sexual, en el marco del conflicto armado.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mas-de-460-menores-fueron-reclutados-en-2024-en-colombia-por-los-grupos-armados/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1983,
+    "message_id": 88452,
+    "date": "2025-03-06T06:55:07+00:00",
+    "text": "teleSUR\nMás de 460 menores fueron reclutados en 2024 en Colombia por los grupos armados\nhttps://www.telesurtv.net/mas-de-460-menores-fueron-reclutados-en-2024-en-colombia-por-los-grupos-armados/",
+    "photo_path": null,
+    "views": 2115,
+    "reactions": {
+      "😱": 21,
+      "💩": 11,
+      "👍": 7,
+      "🤬": 7,
+      "❤": 4,
+      "🔥": 1
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "la defensoría del pueblo de colombia informó el miércoles que al menos 463 menores de edad fueron víctimas de reclutamiento forzado a lo largo del 2024 por grupos armados ilegales en el país suramericano. el organismo colombiano advirtió que la cifra de menores reclutados, no corresponde a la totalidad de los casos ocurridos el pasado año. de acuerdo a la defensoría colombiana del total de niños, niñas y adolescentes reclutados forzadamente en 2024, alrededor de 230 pertenecen a comunidades indígenas y 30 son afrocolombianos, mientras que 136 no se reconocen en ningún grupo étnico y de 67 no hay información. la mayoría de los casos se dieron en el departamento del cauca, donde fueron registrados 325 de los 463 reclutamientos de menores de edad. también se reportaron números altos de reclutamiento forzado en los departamentos de putumayo (21), valle del cauca (20), antioquia (15), nariño (11) y norte de santander y arauca, con diez casos cada uno. según la defensoría del pueblo de colombia, alrededor de 170 menores han sido reclutados por el estado mayor central (emc), la mayor disidencia de las farc. también señaló la principal banda criminal del país, el clan del golfo ha reclutado 13 menores y jóvenes y el grupo insurgente del ejército de liberación nacional con 10. el representante encargado de la oficina en colombia del alto comisionado de la onu para los derechos humanos, juan carlos monge, afirmó el mes pasado que el problema del reclutamiento y el uso de niños, niñas y adolescentes por los grupos armados ilegales es que estos menores están “expuestos a múltiples tipos de violaciones, que no excluyen violencia sexual, el uso con fines sexuales y otros tipos de violaciones”. la oficina del alto comisionado de la onu ha podido verificar en diferentes partes del país que hay una persistencia de violencias de género, incluyendo violencia sexual, en el marco del conflicto armado.",
+    "tokens": [
+      "defensoría",
+      "pueblo",
+      "colombia",
+      "informó",
+      "miércoles",
+      "menos",
+      "463",
+      "menores",
+      "edad",
+      "víctimas",
+      "reclutamiento",
+      "forzado",
+      "largo",
+      "2024",
+      "grupos",
+      "armados",
+      "ilegales",
+      "país",
+      "suramericano",
+      ".",
+      "organismo",
+      "colombiano",
+      "advirtió",
+      "cifra",
+      "menores",
+      "reclutados",
+      ",",
+      "corresponde",
+      "totalidad",
+      "casos",
+      "ocurridos",
+      "pasado",
+      "año",
+      ".",
+      "acuerdo",
+      "defensoría",
+      "colombiana",
+      "total",
+      "niños",
+      ",",
+      "niñas",
+      "adolescentes",
+      "reclutados",
+      "forzadamente",
+      "2024",
+      ",",
+      "alrededor",
+      "230",
+      "pertenecen",
+      "comunidades",
+      "indígenas",
+      "30",
+      "afrocolombianos",
+      ",",
+      "mientras",
+      "136",
+      "reconocen",
+      "ningún",
+      "grupo",
+      "étnico",
+      "67",
+      "información",
+      ".",
+      "mayoría",
+      "casos",
+      "dieron",
+      "departamento",
+      "cauca",
+      ",",
+      "registrados",
+      "325",
+      "463",
+      "reclutamientos",
+      "menores",
+      "edad",
+      ".",
+      "reportaron",
+      "números",
+      "altos",
+      "reclutamiento",
+      "forzado",
+      "departamentos",
+      "putumayo",
+      "(",
+      "21",
+      ")",
+      ",",
+      "valle",
+      "cauca",
+      "(",
+      "20",
+      ")",
+      ",",
+      "antioquia",
+      "(",
+      "15",
+      ")",
+      ",",
+      "nariño",
+      "(",
+      "11",
+      ")",
+      "norte",
+      "santander",
+      "arauca",
+      ",",
+      "diez",
+      "casos",
+      "cada",
+      ".",
+      "según",
+      "defensoría",
+      "pueblo",
+      "colombia",
+      ",",
+      "alrededor",
+      "170",
+      "menores",
+      "sido",
+      "reclutados",
+      "mayor",
+      "central",
+      "(",
+      "emc",
+      ")",
+      ",",
+      "mayor",
+      "disidencia",
+      "farc",
+      ".",
+      "señaló",
+      "principal",
+      "banda",
+      "criminal",
+      "país",
+      ",",
+      "clan",
+      "golfo",
+      "reclutado",
+      "13",
+      "menores",
+      "jóvenes",
+      "grupo",
+      "insurgente",
+      "ejército",
+      "liberación",
+      "nacional",
+      "10.",
+      "representante",
+      "encargado",
+      "oficina",
+      "colombia",
+      "alto",
+      "comisionado",
+      "onu",
+      "derechos",
+      "humanos",
+      ",",
+      "juan",
+      "carlos",
+      "monge",
+      ",",
+      "afirmó",
+      "mes",
+      "pasado",
+      "problema",
+      "reclutamiento",
+      "uso",
+      "niños",
+      ",",
+      "niñas",
+      "adolescentes",
+      "grupos",
+      "armados",
+      "ilegales",
+      "menores",
+      "“",
+      "expuestos",
+      "múltiples",
+      "tipos",
+      "violaciones",
+      ",",
+      "excluyen",
+      "violencia",
+      "sexual",
+      ",",
+      "uso",
+      "fines",
+      "sexuales",
+      "tipos",
+      "violaciones",
+      "”",
+      ".",
+      "oficina",
+      "alto",
+      "comisionado",
+      "onu",
+      "podido",
+      "verificar",
+      "diferentes",
+      "partes",
+      "país",
+      "persistencia",
+      "violencias",
+      "género",
+      ",",
+      "incluyendo",
+      "violencia",
+      "sexual",
+      ",",
+      "marco",
+      "conflicto",
+      "armado",
+      "."
+    ],
+    "token_count": 214,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 51,
+      "FW": 71,
+      "VBP": 13,
+      "JJ": 27,
+      "NNS": 20,
+      "CD": 16,
+      "NN": 74,
+      "VBZ": 6,
+      "DT": 4,
+      "RB": 2,
+      "IN": 13,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 16,
+      "NNP-FW": 14,
+      "FW-NNP": 18,
+      "NNP-VBP": 1,
+      "VBP-JJ": 8,
+      "JJ-NNS": 4,
+      "NNS-VBP": 12,
+      "NNS-CD": 1,
+      "CD-NNS": 4,
+      "NNS-FW": 3,
+      "FW-FW": 32,
+      "FW-NN": 9,
+      "NN-NN": 31,
+      "NN-CD": 3,
+      "CD-NN": 4,
+      "NN-NNS": 7,
+      "JJ-NN": 15,
+      "NN-NNP": 6,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-FW": 10,
+      "FW-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 3,
+      "FW-JJ": 7,
+      "JJ-FW": 3,
+      "FW-NNS": 1,
+      "VBP-RB": 2,
+      "RB-IN": 1,
+      "IN-CD": 3,
+      "NN-IN": 7,
+      "NNS-NNS": 3,
+      "VBP-CD": 1,
+      "RB-CD": 1,
+      "CD-DT": 2,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "IN-JJ": 2,
+      "JJ-JJ": 3,
+      "JJ-NNP": 2,
+      "FW-CD": 2,
+      "VBZ-NNP": 2,
+      "NNP-IN": 3,
+      "IN-FW": 7,
+      "NNP-NN": 10,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "VBP-FW": 1,
+      "IN-NNP": 1,
+      "NNP-CD": 4,
+      "CD-NNP": 5,
+      "NN-JJ": 5,
+      "NNS-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "VBP-NN": 1,
+      "VBZ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 10,
+      "FW-NNP-FW": 6,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 3,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 7,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 19,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 14,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 6,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNP": 5,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 6,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "NN-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-RB": 2,
+      "VBP-RB-IN": 1,
+      "RB-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-NNS": 2,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-DT": 1,
+      "CD-DT-NN": 2,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-DT": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-FW": 3,
+      "IN-FW-JJ": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 6,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-CD": 1,
+      "NNP-CD-NNP": 4,
+      "CD-NNP-FW": 2,
+      "FW-NNP-CD": 1,
+      "CD-NNP-CD": 2,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 6,
+      "NN-IN-FW": 3,
+      "IN-FW-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 4,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-CD-NNS": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-JJ-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NNS": 3,
+      "JJ-NNS-FW": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "IN-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 74,
+        "FW": 71,
+        "NNP": 51,
+        "JJ": 27,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 32,
+        "NN-NN": 31,
+        "FW-NNP": 18,
+        "NNP-NNP": 16,
+        "JJ-NN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 19,
+        "NN-NN-NN": 14,
+        "NNP-FW-NNP": 10,
+        "NNS-VBP-JJ": 7,
+        "FW-NNP-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 85,
+      "VP": 19,
+      "ADJP": 2,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('menores', 'NNS')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('Pueblo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "VP -> ('adolescentes', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('alrededor', 'NN')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Cauca', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Alto', 'NNP') ('Comisionado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Defensoría"
+      },
+      {
+        "label": "NP",
+        "text": "Pueblo"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "VP",
+        "text": "informó el miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "el miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que al menos"
+      },
+      {
+        "label": "NP",
+        "text": "al menos"
+      },
+      {
+        "label": "NP",
+        "text": "menores"
+      },
+      {
+        "label": "NP",
+        "text": "a lo largo del"
+      },
+      {
+        "label": "NP",
+        "text": "por grupos armados ilegales"
+      },
+      {
+        "label": "VP",
+        "text": "en el país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "el país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "colombiano advirtió que"
+      },
+      {
+        "label": "NP",
+        "text": "advirtió que"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Defensoría/NNP)\n  del/FW\n  (NP Pueblo/NNP)\n  de/FW\n  (NP Colombia/NNP)\n  (VP informó/VBP (NP el/JJ miércoles/NNS))\n  (VP que/VBP (NP al/JJ menos/NNS))\n  463/CD\n  (NP menores/NNS)\n  de/FW\n  edad/FW\n  fueron/FW\n  víctimas/FW\n  de/FW\n  reclutamiento/FW\n  forzado/FW\n  (NP a/DT lo/NN largo/NN del/NN)\n  2024/CD\n  (NP por/NN grupos/NN armados/NN ilegales/NNS)\n  (VP en/VBP (NP el/JJ país/NN suramericano/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  organismo/MD\n  (VP colombiano/VB (NP advirtió/JJ que/NN))\n  la/FW\n  cifra/FW\n  de/FW\n  menores/FW\n  reclutados/FW\n  ,/,\n  (NP no/DT corresponde/NN)\n  (NP a/DT la/NN totalidad/NN)\n  de/IN\n  los/FW\n  (NP casos/JJ ocurridos/NN el/NN pasado/NN año/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP acuerdo/VBZ (NP a/DT la/NN defensoría/NN colombiana/NN))\n  del/FW\n  (ADJP total/JJ)\n  de/FW\n  niños/FW\n  ,/,\n  niñas/FW\n  (NP y/NN)\n  (VP adolescentes/VBZ (NP reclutados/JJ forzadamente/NN))\n  en/IN\n  2024/CD\n  ,/,\n  (NP alrededor/NN)\n  de/FW\n  230/CD\n  (NP pertenecen/NN)\n  (NP a/DT comunidades/NNS)\n  (VP indígenas/VBP y/RB)\n  30/CD\n  (NP son/NN afrocolombianos/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP que/VBP)\n  136/CD\n  (NP no/DT se/NN)\n  (VP reconocen/VBZ)\n  (PP en/IN (NP ningún/JJ grupo/NN étnico/NNP y/NN))\n  de/IN\n  67/CD\n  (NP no/DT hay/NN información/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  mayoría/FW\n  de/FW\n  los/FW\n  (NP casos/JJ se/NN dieron/NN)\n  en/FW\n  el/FW\n  departamento/FW\n  del/FW\n  (NP Cauca/NNP)\n  ,/,\n  (NP donde/NN fueron/NN)\n  (VP registrados/VBD)\n  325/CD\n  de/IN\n  los/FW\n  463/CD\n  (NP reclutamientos/NN)\n  de/FW\n  menores/FW\n  de/FW\n  edad/FW\n  ./.)",
+      "(S\n  (NP También/NNP se/NN reportaron/NN)\n  (NP números/JJ altos/NN)\n  de/IN\n  reclutamiento/FW\n  (NP forzado/NN)\n  (PP en/IN (NP los/JJ departamentos/NN))\n  (PP de/IN (NP Putumayo/NNP))\n  (/(\n  21/CD\n  )/)\n  ,/,\n  (NP Valle/NNP)\n  del/FW\n  (NP Cauca/NNP)\n  (/(\n  20/CD\n  )/)\n  ,/,\n  (NP Antioquia/NNP)\n  (/(\n  15/CD\n  )/)\n  ,/,\n  (NP Nariño/NNP)\n  (/(\n  11/CD\n  )/)\n  (NP y/NN Norte/NNP)\n  (PP de/IN (NP Santander/NNP y/NNP Arauca/NNP))\n  ,/,\n  (NP con/NN diez/NN casos/NN cada/NN uno/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "LEYES_NORMATIVAS",
+      "JUSTICIA_SOCIAL",
+      "INSTITUCIONES_EDUCATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1126,
+          1132
+        ],
+        "start": 1126,
+        "end": 1132
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          37,
+          44
+        ],
+        "start": 37,
+        "end": 44
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          229,
+          237
+        ],
+        "start": 229,
+        "end": 237
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "banda criminal",
+        "position": [
+          1146,
+          1160
+        ],
+        "start": 1146,
+        "end": 1160
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1369,
+          1372
+        ],
+        "start": 1369,
+        "end": 1372
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "indígenas",
+        "position": [
+          496,
+          505
+        ],
+        "start": 496,
+        "end": 505
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          1215,
+          1222
+        ],
+        "start": 1215,
+        "end": 1222
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento del cauca",
+        "position": [
+          656,
+          678
+        ],
+        "start": 656,
+        "end": 678
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo a la defensoría colombiana del total de niños, niñas y adolescentes reclutados forzadamente en 2024",
+        "position": [
+          345,
+          452
+        ],
+        "start": 345,
+        "end": 452
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          28,
+          36
+        ],
+        "start": 28,
+        "end": 36
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento del",
+        "position": [
+          656,
+          672
+        ],
+        "start": 656,
+        "end": 672
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "pasado año",
+        "position": [
+          330,
+          340
+        ],
+        "start": 330,
+        "end": 340
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "el mes pasado",
+        "position": [
+          1426,
+          1439
+        ],
+        "start": 1426,
+        "end": 1439
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1382,
+          1398
+        ],
+        "start": 1382,
+        "end": 1398
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 230",
+        "position": [
+          454,
+          470
+        ],
+        "start": 454,
+        "end": 470
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 170",
+        "position": [
+          1005,
+          1021
+        ],
+        "start": 1005,
+        "end": 1021
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Oficina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "departamento del Cauca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putumayo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FARC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Defensoría del Pueblo de Colombia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nariño",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Arauca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EMC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alto Comisionado de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Antioquia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina del Alto Comisionado de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Clan del Golfo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Valle del Cauca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Norte de Santander",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército de Liberación Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado Mayor Central",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juan Carlos Monge",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Clan del Golfo",
+        "relacion": "RECLUTAR_SE_ALAR",
+        "objeto": "Ejército de Liberación Nacional"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7506,
+    "pos": 0.016,
+    "neu": 0.945,
+    "neg": 0.039,
+    "label": "negative"
+  }
+}

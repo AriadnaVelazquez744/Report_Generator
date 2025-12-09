@@ -1,0 +1,592 @@
+{
+  "url": "https://www.telesurtv.net/el-92-de-los-venezolanos-rechaza-intento-de-intervencion-militar-en-el-pais/",
+  "title": "El 92% de los venezolanos rechaza intento de intervención militar en el país - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "encuesta",
+    "extrema derecha",
+    "hinterlaces",
+    "intervención militar",
+    "Venezuela"
+  ],
+  "text": "Una reciente encuesta realizada por la agencia de inteligencia y consultoría Hinterlaces reveló que el 92% de los venezolanos se opone firmemente a cualquier intento de intervención militar en el país.\nLEA TAMBIÉN\nAsamblea Nacional de Venezuela explica los procesos electorales del 2025\nEl estudio señala que la mayoría de los ciudadanos rechaza las acciones de sectores opositores de la extrema derecha, tanto nacionales como internacionales, que promueven la idea de una invasión con el objetivo de derrocar al gobierno del presidente constitucional Nicolás Maduro.\nA través de un video, Hinterlaces destacó que ese rechazo refleja un sentido generalizado de la población, que prefiere resolver los problemas internos del país sin injerencias externas.\nSegún la encuestadora, los venezolanos se inclinan por soluciones pacíficas y democráticas, a pesar de las adversidades que enfrenta el país.\nEl sondeo también indicó que el 85% de los venezolanos apoya la idea de que aquellos que fomenten una intervención militar sean procesados por traición a la patria.\nEl estudio se realizó luego de las recientes declaraciones del expresidente colombiano Álvaro Uribe, implicado en la muerte de miles colombianos durante su mandato, quien volvió a pedir una intervención militar en Venezuela.\nLas palabras de Uribe fueron rápidamente rechazadas por las autoridades y el pueblo venezolano, quienes consideran que esas afirmaciones son una grave amenaza a la estabilidad regional.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/el-92-de-los-venezolanos-rechaza-intento-de-intervencion-militar-en-el-pais/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1206,
+    "message_id": 84528,
+    "date": "2025-01-15T18:55:07+00:00",
+    "text": "teleSUR\nEl 92% de los venezolanos rechaza intento de intervención militar en el país\nhttps://www.telesurtv.net/el-92-de-los-venezolanos-rechaza-intento-de-intervencion-militar-en-el-pais/",
+    "photo_path": null,
+    "views": 2339,
+    "reactions": {
+      "👍": 53,
+      "👏": 3,
+      "🕊": 3,
+      "🤣": 2
+    },
+    "total_reactions": 61
+  },
+  "preprocessing": {
+    "cleaned": "una reciente encuesta realizada por la agencia de inteligencia y consultoría hinterlaces reveló que el 92% de los venezolanos se opone firmemente a cualquier intento de intervención militar en el país. el estudio señala que la mayoría de los ciudadanos rechaza las acciones de sectores opositores de la extrema derecha, tanto nacionales como internacionales, que promueven la idea de una invasión con el objetivo de derrocar al gobierno del presidente constitucional nicolás maduro. a través de un video, hinterlaces destacó que ese rechazo refleja un sentido generalizado de la población, que prefiere resolver los problemas internos del país sin injerencias externas. según la encuestadora, los venezolanos se inclinan por soluciones pacíficas y democráticas, a pesar de las adversidades que enfrenta el país. el sondeo también indicó que el 85% de los venezolanos apoya la idea de que aquellos que fomenten una intervención militar sean procesados por traición a la patria. el estudio se realizó luego de las recientes declaraciones del expresidente colombiano álvaro uribe, implicado en la muerte de miles colombianos durante su mandato, quien volvió a pedir una intervención militar en venezuela. las palabras de uribe fueron rápidamente rechazadas por las autoridades y el pueblo venezolano, quienes consideran que esas afirmaciones son una grave amenaza a la estabilidad regional.",
+    "tokens": [
+      "reciente",
+      "encuesta",
+      "realizada",
+      "agencia",
+      "inteligencia",
+      "consultoría",
+      "hinterlaces",
+      "reveló",
+      "92",
+      "%",
+      "venezolanos",
+      "opone",
+      "firmemente",
+      "cualquier",
+      "intento",
+      "intervención",
+      "militar",
+      "país",
+      ".",
+      "estudio",
+      "señala",
+      "mayoría",
+      "ciudadanos",
+      "rechaza",
+      "acciones",
+      "sectores",
+      "opositores",
+      "extrema",
+      "derecha",
+      ",",
+      "nacionales",
+      "internacionales",
+      ",",
+      "promueven",
+      "idea",
+      "invasión",
+      "objetivo",
+      "derrocar",
+      "gobierno",
+      "presidente",
+      "constitucional",
+      "nicolás",
+      "maduro",
+      ".",
+      "través",
+      "video",
+      ",",
+      "hinterlaces",
+      "destacó",
+      "rechazo",
+      "refleja",
+      "generalizado",
+      "población",
+      ",",
+      "prefiere",
+      "resolver",
+      "problemas",
+      "internos",
+      "país",
+      "injerencias",
+      "externas",
+      ".",
+      "según",
+      "encuestadora",
+      ",",
+      "venezolanos",
+      "inclinan",
+      "soluciones",
+      "pacíficas",
+      "democráticas",
+      ",",
+      "pesar",
+      "adversidades",
+      "enfrenta",
+      "país",
+      ".",
+      "sondeo",
+      "indicó",
+      "85",
+      "%",
+      "venezolanos",
+      "apoya",
+      "idea",
+      "aquellos",
+      "fomenten",
+      "intervención",
+      "militar",
+      "procesados",
+      "traición",
+      "patria",
+      ".",
+      "estudio",
+      "realizó",
+      "luego",
+      "recientes",
+      "declaraciones",
+      "expresidente",
+      "colombiano",
+      "álvaro",
+      "uribe",
+      ",",
+      "implicado",
+      "muerte",
+      "miles",
+      "colombianos",
+      "mandato",
+      ",",
+      "volvió",
+      "pedir",
+      "intervención",
+      "militar",
+      "venezuela",
+      ".",
+      "palabras",
+      "uribe",
+      "rápidamente",
+      "rechazadas",
+      "autoridades",
+      "pueblo",
+      "venezolano",
+      ",",
+      "consideran",
+      "afirmaciones",
+      "grave",
+      "amenaza",
+      "estabilidad",
+      "regional",
+      "."
+    ],
+    "token_count": 128,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 19,
+      "NN": 72,
+      "FW": 57,
+      "VBD": 3,
+      "CD": 3,
+      "IN": 9,
+      "CC": 1,
+      "JJ": 25,
+      "NNS": 12,
+      "VBP": 8,
+      "RB": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-NN": 37,
+      "NN-FW": 10,
+      "FW-FW": 34,
+      "FW-NN": 9,
+      "NN-NNP": 4,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-IN": 2,
+      "IN-FW": 7,
+      "NN-IN": 6,
+      "FW-NNP": 6,
+      "NNP-NNP": 6,
+      "NNP-FW": 4,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-CD": 1,
+      "CD-NNP": 1,
+      "FW-JJ": 4,
+      "JJ-NN": 15,
+      "NN-JJ": 7,
+      "NNS-FW": 1,
+      "NN-NNS": 4,
+      "VBP-NNS": 1,
+      "NNS-RB": 1,
+      "RB-RB": 2,
+      "RB-JJ": 2,
+      "IN-JJ": 2,
+      "JJ-NNP": 1,
+      "NN-RB": 1,
+      "VBP-JJ": 3,
+      "FW-NNS": 3,
+      "FW-VBP": 1,
+      "VBP-FW": 1,
+      "NNS-NNS": 1,
+      "VBP-NN": 2,
+      "NN-VBP": 1,
+      "NNS-IN": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 17,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 21,
+      "FW-FW-NN": 6,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-IN": 2,
+      "CD-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-NN-NN": 2,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-RB": 1,
+      "NNS-RB-RB": 1,
+      "RB-RB-JJ": 2,
+      "RB-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 5,
+      "FW-NN-RB": 1,
+      "NN-RB-RB": 1,
+      "RB-JJ-JJ": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NN-NN-NNP": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "NNP-FW-NN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "FW-FW-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-JJ": 1,
+      "NN-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "FW": 57,
+        "JJ": 25,
+        "NNP": 19,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 34,
+        "JJ-NN": 15,
+        "NN-FW": 10,
+        "FW-NN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 21,
+        "NN-NN-NN": 17,
+        "JJ-NN-NN": 10,
+        "NN-NN-FW": 8,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 57,
+      "VP": 12,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('%', 'NN')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') ('agencia', 'FW') ('de', 'FW') ('inteligencia', 'FW') ('y', 'FW') NP ('el', 'RB') ('92', 'CD') NP ('de', 'IN') ('los', 'FW') ('venezolanos', 'FW') ('se', 'FW') NP VP ('de', 'IN') ('intervención', 'FW') NP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('reciente', 'NN') ('encuesta', 'NN') ('realizada', 'NN') ('por', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('consultoría', 'NN') ('Hinterlaces', 'NNP') ('reveló', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('opone', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "VP -> ('firmemente', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('cualquier', 'NN') ('intento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una reciente encuesta realizada por"
+      },
+      {
+        "label": "NP",
+        "text": "consultoría Hinterlaces reveló que"
+      },
+      {
+        "label": "NP",
+        "text": "%"
+      },
+      {
+        "label": "NP",
+        "text": "opone"
+      },
+      {
+        "label": "VP",
+        "text": "firmemente a cualquier intento"
+      },
+      {
+        "label": "NP",
+        "text": "a cualquier intento"
+      },
+      {
+        "label": "NP",
+        "text": "militar"
+      },
+      {
+        "label": "NP",
+        "text": "el país"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Asamblea Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "los procesos electorales"
+      },
+      {
+        "label": "VP",
+        "text": "del"
+      },
+      {
+        "label": "NP",
+        "text": "El estudio señala que"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos rechaza"
+      },
+      {
+        "label": "NP",
+        "text": "las acciones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP reciente/NN encuesta/NN realizada/NN por/NN)\n  la/FW\n  agencia/FW\n  de/FW\n  inteligencia/FW\n  y/FW\n  (NP consultoría/NN Hinterlaces/NNP reveló/NN que/NN)\n  el/RB\n  92/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  venezolanos/FW\n  se/FW\n  (NP opone/NN)\n  (VP firmemente/VBD (NP a/DT cualquier/NN intento/NN))\n  de/IN\n  intervención/FW\n  (NP militar/NN)\n  en/FW\n  (NP el/NN país/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Asamblea/NNP Nacional/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  explica/CC\n  (NP los/JJ procesos/JJ electorales/NNS)\n  (VP del/VBP)\n  2025/CD\n  (NP El/NNP estudio/NN señala/NN que/NN)\n  la/FW\n  mayoría/FW\n  de/FW\n  los/FW\n  (NP ciudadanos/JJ rechaza/NN)\n  (NP las/JJ acciones/NNS)\n  de/FW\n  sectores/FW\n  opositores/FW\n  de/FW\n  la/FW\n  extrema/FW\n  (NP derecha/NN)\n  ,/,\n  (NP tanto/NN nacionales/NNS)\n  (VP como/VBP (NP internacionales/NNS))\n  ,/,\n  (NP que/NN)\n  promueven/RB\n  (NP la/JJ idea/NN)\n  (PP de/IN (NP una/JJ invasión/JJ con/NN el/NN))\n  objetivo/FW\n  de/FW\n  derrocar/FW\n  al/FW\n  gobierno/FW\n  del/FW\n  presidente/FW\n  (NP constitucional/JJ Nicolás/NNP Maduro/NNP)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ video/NN))\n  ,/,\n  (NP Hinterlaces/NNP destacó/NN que/NN)\n  (NP ese/JJ rechazo/NN refleja/NN)\n  (NP un/JJ sentido/NN generalizado/NN)\n  de/IN\n  la/FW\n  población/FW\n  ,/,\n  (NP que/NN)\n  prefiere/RB\n  resolver/RB\n  (NP\n    los/JJ\n    problemas/JJ\n    internos/NN\n    del/NN\n    país/NN\n    sin/NN\n    injerencias/NN\n    externas/NNS)\n  ./.)",
+      "(S\n  (NP Según/NNP la/NN encuestadora/NN)\n  ,/,\n  (ADJP los/JJ)\n  venezolanos/FW\n  se/FW\n  inclinan/FW\n  (NP por/NN soluciones/NNS)\n  (VP pacíficas/VBP (NP y/JJ democráticas/NN))\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  las/FW\n  (NP adversidades/NNS)\n  (VP que/VBP (NP enfrenta/JJ el/NN país/NN))\n  ./.)",
+      "(S\n  (NP El/NNP sondeo/NN también/NN indicó/NN que/NN)\n  el/RB\n  85/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  venezolanos/FW\n  (VP apoya/VBP)\n  la/FW\n  (NP idea/NN)\n  de/IN\n  que/FW\n  (NP aquellos/JJ que/NN)\n  (NP fomenten/JJ una/JJ intervención/NN militar/NN)\n  (NP sean/JJ procesados/NN por/NN)\n  (VP traición/VBD (NP a/DT la/NN patria/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "APROBACION_RECHAZO",
+      "GOBIERNOS_OFICIALES",
+      "PAISES",
+      "GRUPOS_ESPECIFICOS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente constitucional",
+        "position": [
+          513,
+          551
+        ],
+        "start": 513,
+        "end": 551
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente constitucional nicolás",
+        "position": [
+          526,
+          559
+        ],
+        "start": 526,
+        "end": 559
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          214,
+          231
+        ],
+        "start": 214,
+        "end": 231
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          388,
+          403
+        ],
+        "start": 388,
+        "end": 403
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          602,
+          609
+        ],
+        "start": 602,
+        "end": 609
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          235,
+          244
+        ],
+        "start": 235,
+        "end": 244
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hinterlaces",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asamblea Nacional de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Uribe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hinterlaces",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Álvaro Uribe",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Asamblea Nacional de Venezuela",
+        "relacion": "EXPLICAR",
+        "objeto": "Nicolás Maduro"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6705,
+    "pos": 0.008,
+    "neu": 0.964,
+    "neg": 0.028,
+    "label": "negative"
+  }
+}

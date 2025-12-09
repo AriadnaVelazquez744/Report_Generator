@@ -1,0 +1,876 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-maduro-atentado-ultraderecha/",
+  "title": "Maduro culpa a \"la ultraderecha fascista y al imperialismo\" por intento de atentado terrorista - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "atentado terrorista",
+    "Imperialismo",
+    "Presidente Maduro",
+    "Venezuela"
+  ],
+  "text": "El presidente de Venezuela, Nicolás Maduro, condenó este viernes el intento de atentado terrorista planificado para el pasado domingo por parte de la ultraderecha fascista, a ejecutarse en Plaza Venezuela, una zona concurrida de Caracas (capital).\n“El día domingo, la ultraderecha fascista y el imperialismo, intentaron activar una bomba para generar caos en una plaza pública de Caracas. Fueron descubiertos y derrotados“, afirmó el mandatario en el lanzamiento del Plan Vacacional Comunitario Venezuela Ríe 2025.\nEn ese sentido, Maduro anunció que, el avance de las investigaciones ha permitido la captura de “nuevos elementos que participaron”.\n“Todos los caminos conducen al narcotráfico colombiano, a la mafia albanesa ecuatoriana y a algunos vestigios de las bandas criminales que quedan en Venezuela”, precisó el jefe de Estado.\nAl respecto, anunció que “en las próximas horas se darán detalles de grandes logros y decomisos que estamos haciendo, de grandes capturas que se están haciendo”, y agradeció a las fuerzas policiales, al Sebin y a la Fuerza Armada Nacional Bolivariana por defender el derecho a la paz del país.\n“¿Quién quiere guerra y conflicto entre venezolanos? La ultraderecha fascista. ¿Quién quiere paz y felicidad? El pueblo unido. Y paz y felicidad va a tener en esta época y la que venga”, subrayó.\nAsimismo, precisó que “el imperio trata de huir hacia adelante y tapar que los descubrimos con las manos en la masa. Pero nada de lo que hagan tapará que la Revoilución Boliviariana es de verdad, poderosa y victoriosa, como dijo Bolívar”.\nEl mandatario recordó las Cartas de la Dignidad de Simón Bolívar, donde afirmaba que el pueblo venezolano debe combatir no solo contra España sino contra el mundo entero, de ser necesario. “Por fortuna se ha visto en el siglo XXI un puñado gigantesco de hombres y mujeres libres, venezolanos, vencer al imperio más poderoso del mundo”, insisitó el jefe de Estado y ratificó que la victoria de Venezuela es la paz.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-maduro-atentado-ultraderecha/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1685,
+    "message_id": 101297,
+    "date": "2025-08-08T23:55:13+00:00",
+    "text": "teleSUR\nMaduro culpa a “la ultraderecha fascista y al imperialismo” por intento de atentado terrorista\nhttps://www.telesurtv.net/venezuela-maduro-atentado-ultraderecha/",
+    "photo_path": null,
+    "views": 1530,
+    "reactions": {
+      "👍": 48,
+      "👏": 5,
+      "🔥": 1
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro, condenó este viernes el intento de atentado terrorista planificado para el pasado domingo por parte de la ultraderecha fascista, a ejecutarse en plaza venezuela, una zona concurrida de caracas (capital). “el día domingo, la ultraderecha fascista y el imperialismo, intentaron activar una bomba para generar caos en una plaza pública de caracas. fueron descubiertos y derrotados“, afirmó el mandatario en el lanzamiento del plan vacacional comunitario venezuela ríe 2025. en ese sentido, maduro anunció que, el avance de las investigaciones ha permitido la captura de “nuevos elementos que participaron”. “todos los caminos conducen al narcotráfico colombiano, a la mafia albanesa ecuatoriana y a algunos vestigios de las bandas criminales que quedan en venezuela”, precisó el jefe de estado. al respecto, anunció que “en las próximas horas se darán detalles de grandes logros y decomisos que estamos haciendo, de grandes capturas que se están haciendo”, y agradeció a las fuerzas policiales, al sebin y a la fuerza armada nacional bolivariana por defender el derecho a la paz del país. “¿quién quiere guerra y conflicto entre venezolanos? la ultraderecha fascista. ¿quién quiere paz y felicidad? el pueblo unido. y paz y felicidad va a tener en esta época y la que venga”, subrayó. asimismo, precisó que “el imperio trata de huir hacia adelante y tapar que los descubrimos con las manos en la masa. pero nada de lo que hagan tapará que la revoilución boliviariana es de verdad, poderosa y victoriosa, como dijo bolívar”. el mandatario recordó las cartas de la dignidad de simón bolívar, donde afirmaba que el pueblo venezolano debe combatir no solo contra españa sino contra el mundo entero, de ser necesario. “por fortuna se ha visto en el siglo xxi un puñado gigantesco de hombres y mujeres libres, venezolanos, vencer al imperio más poderoso del mundo”, insisitó el jefe de estado y ratificó que la victoria de venezuela es la paz.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "condenó",
+      "viernes",
+      "intento",
+      "atentado",
+      "terrorista",
+      "planificado",
+      "pasado",
+      "domingo",
+      "parte",
+      "ultraderecha",
+      "fascista",
+      ",",
+      "ejecutarse",
+      "plaza",
+      "venezuela",
+      ",",
+      "zona",
+      "concurrida",
+      "caracas",
+      "(",
+      "capital",
+      ")",
+      ".",
+      "“",
+      "día",
+      "domingo",
+      ",",
+      "ultraderecha",
+      "fascista",
+      "imperialismo",
+      ",",
+      "intentaron",
+      "activar",
+      "bomba",
+      "generar",
+      "caos",
+      "plaza",
+      "pública",
+      "caracas",
+      ".",
+      "descubiertos",
+      "derrotados",
+      "“",
+      ",",
+      "afirmó",
+      "mandatario",
+      "lanzamiento",
+      "plan",
+      "vacacional",
+      "comunitario",
+      "venezuela",
+      "ríe",
+      "2025.",
+      ",",
+      "maduro",
+      "anunció",
+      ",",
+      "avance",
+      "investigaciones",
+      "permitido",
+      "captura",
+      "“",
+      "nuevos",
+      "elementos",
+      "participaron",
+      "”",
+      ".",
+      "“",
+      "caminos",
+      "conducen",
+      "narcotráfico",
+      "colombiano",
+      ",",
+      "mafia",
+      "albanesa",
+      "ecuatoriana",
+      "vestigios",
+      "bandas",
+      "criminales",
+      "quedan",
+      "venezuela",
+      "”",
+      ",",
+      "precisó",
+      "jefe",
+      ".",
+      "respecto",
+      ",",
+      "anunció",
+      "“",
+      "próximas",
+      "horas",
+      "darán",
+      "detalles",
+      "grandes",
+      "logros",
+      "decomisos",
+      "haciendo",
+      ",",
+      "grandes",
+      "capturas",
+      "haciendo",
+      "”",
+      ",",
+      "agradeció",
+      "fuerzas",
+      "policiales",
+      ",",
+      "sebin",
+      "fuerza",
+      "armada",
+      "nacional",
+      "bolivariana",
+      "defender",
+      "derecho",
+      "paz",
+      "país",
+      ".",
+      "“",
+      "¿quién",
+      "quiere",
+      "guerra",
+      "conflicto",
+      "venezolanos",
+      "?",
+      "ultraderecha",
+      "fascista",
+      ".",
+      "¿quién",
+      "quiere",
+      "paz",
+      "felicidad",
+      "?",
+      "pueblo",
+      "unido",
+      ".",
+      "paz",
+      "felicidad",
+      "va",
+      "tener",
+      "época",
+      "venga",
+      "”",
+      ",",
+      "subrayó",
+      ".",
+      "asimismo",
+      ",",
+      "precisó",
+      "“",
+      "imperio",
+      "trata",
+      "huir",
+      "hacia",
+      "adelante",
+      "tapar",
+      "descubrimos",
+      "manos",
+      "masa",
+      ".",
+      "hagan",
+      "tapará",
+      "revoilución",
+      "boliviariana",
+      "verdad",
+      ",",
+      "poderosa",
+      "victoriosa",
+      ",",
+      "dijo",
+      "bolívar",
+      "”",
+      ".",
+      "mandatario",
+      "recordó",
+      "cartas",
+      "dignidad",
+      "simón",
+      "bolívar",
+      ",",
+      "afirmaba",
+      "pueblo",
+      "venezolano",
+      "debe",
+      "combatir",
+      "solo",
+      "españa",
+      "sino",
+      "mundo",
+      "entero",
+      ",",
+      "ser",
+      "necesario",
+      ".",
+      "“",
+      "fortuna",
+      "visto",
+      "siglo",
+      "xxi",
+      "puñado",
+      "gigantesco",
+      "hombres",
+      "mujeres",
+      "libres",
+      ",",
+      "venezolanos",
+      ",",
+      "vencer",
+      "imperio",
+      "poderoso",
+      "mundo",
+      "”",
+      ",",
+      "insisitó",
+      "jefe",
+      "ratificó",
+      "victoria",
+      "venezuela",
+      "paz",
+      "."
+    ],
+    "token_count": 226,
+    "sentence_count": 15
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "NN": 122,
+      "FW": 65,
+      "NNS": 12,
+      "VBP": 8,
+      "IN": 14,
+      "JJ": 22,
+      "CD": 1,
+      "VBZ": 3,
+      "RB": 2,
+      "DT": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 17,
+      "NN-FW": 9,
+      "FW-NNP": 11,
+      "NNP-NNP": 17,
+      "NN-NN": 76,
+      "NN-NNS": 5,
+      "NNS-VBP": 7,
+      "VBP-NN": 1,
+      "FW-FW": 38,
+      "FW-NN": 11,
+      "NN-IN": 13,
+      "IN-FW": 8,
+      "FW-JJ": 1,
+      "JJ-NN": 16,
+      "NNP-JJ": 4,
+      "JJ-NNP": 2,
+      "IN-NNP": 4,
+      "NN-NNP": 8,
+      "NN-JJ": 7,
+      "IN-JJ": 1,
+      "NNP-CD": 1,
+      "CD-NNP": 1,
+      "FW-NNS": 3,
+      "VBP-JJ": 4,
+      "JJ-FW": 4,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-VBP": 1,
+      "NNS-NNS": 2,
+      "NNS-FW": 1,
+      "VBP-NNS": 1,
+      "VBP-NNP": 1,
+      "FW-RB": 1,
+      "RB-JJ": 2,
+      "NNS-NNP": 1,
+      "NN-RB": 1,
+      "NNP-FW": 5,
+      "VBP-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "IN-NNS": 1,
+      "NNS-VBZ": 1,
+      "NNP-CC": 1,
+      "CC-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 13,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 8,
+      "NN-NN-NN": 43,
+      "NN-NN-IN": 10,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-FW": 7,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 5,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 6,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-NNP-NNP": 2,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 24,
+      "FW-FW-NNP": 6,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-JJ": 1,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-NNP": 3,
+      "JJ-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 4,
+      "JJ-FW-FW": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "JJ-FW-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-FW-RB": 1,
+      "FW-RB-JJ": 1,
+      "RB-JJ-NN": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "NNP-NN-JJ": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 4,
+      "IN-FW-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "FW-NN-IN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 122,
+        "FW": 65,
+        "NNP": 46,
+        "JJ": 22,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 76,
+        "FW-FW": 38,
+        "NNP-NN": 17,
+        "NNP-NNP": 17,
+        "JJ-NN": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 43,
+        "FW-FW-FW": 24,
+        "NNP-NN-NN": 13,
+        "JJ-NN-NN": 11,
+        "NN-NN-IN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 15,
+    "chunk_counts": {
+      "NP": 86,
+      "VP": 14,
+      "PP": 9,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0397
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('ultraderecha', 'JJ') ('fascista', 'NN')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Caracas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') ('atentado', 'FW') NP ('de', 'IN') ('la', 'FW') NP (',', ',') NP (',', ',') NP PP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('condenó', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "condenó este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "el intento"
+      },
+      {
+        "label": "NP",
+        "text": "intento"
+      },
+      {
+        "label": "NP",
+        "text": "terrorista planificado para el pasado domingo por parte"
+      },
+      {
+        "label": "NP",
+        "text": "ultraderecha fascista"
+      },
+      {
+        "label": "NP",
+        "text": "a ejecutarse en Plaza Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "una zona concurrida"
+      },
+      {
+        "label": "PP",
+        "text": "de Caracas"
+      },
+      {
+        "label": "NP",
+        "text": "Caracas"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "“ El día domingo"
+      },
+      {
+        "label": "NP",
+        "text": "ultraderecha fascista y el imperialismo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP condenó/NN este/NN viernes/NNS)\n  (VP el/VBP (NP intento/NN))\n  de/FW\n  atentado/FW\n  (NP\n    terrorista/NN\n    planificado/NN\n    para/NN\n    el/NN\n    pasado/NN\n    domingo/NN\n    por/NN\n    parte/NN)\n  de/IN\n  la/FW\n  (NP ultraderecha/JJ fascista/NN)\n  ,/,\n  (NP a/DT ejecutarse/NN en/NN Plaza/NNP Venezuela/NNP)\n  ,/,\n  (NP una/JJ zona/NN concurrida/NN)\n  (PP de/IN (NP Caracas/NNP))\n  (/(\n  (NP capital/NN)\n  )/)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP día/NN domingo/NN)\n  ,/,\n  la/FW\n  (NP ultraderecha/JJ fascista/NN y/NN el/NN imperialismo/NN)\n  ,/,\n  (NP intentaron/NN activar/NN)\n  (NP una/JJ bomba/NN para/NN generar/NN caos/NN)\n  (PP en/IN (NP una/JJ plaza/NN pública/NN))\n  (PP de/IN (NP Caracas/NNP))\n  ./.)",
+      "(S\n  (NP Fueron/NNP descubiertos/NN y/NN derrotados/NN “/NNP)\n  ,/,\n  (NP afirmó/NN el/NN mandatario/NN)\n  en/IN\n  el/FW\n  lanzamiento/FW\n  del/FW\n  (NP Plan/NNP Vacacional/NNP Comunitario/NNP Venezuela/NNP Ríe/NNP)\n  2025/CD\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ sentido/NN)\n  ,/,\n  (NP Maduro/NNP anunció/NN que/NN)\n  ,/,\n  (NP el/JJ avance/NN)\n  de/IN\n  las/FW\n  (NP investigaciones/NNS)\n  (VP ha/VBP permitido/JJ)\n  la/FW\n  captura/FW\n  de/FW\n  “/FW\n  nuevos/FW\n  elementos/FW\n  (NP que/NN participaron/NN ”/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Todos/NNP los/NN caminos/NNS)\n  (VP conducen/VBP (NP al/JJ narcotráfico/JJ colombiano/NN))\n  ,/,\n  (NP a/DT la/NN mafia/NN albanesa/NN)\n  (VP ecuatoriana/VBZ)\n  y/CC\n  a/DT\n  (ADJP algunos/JJ)\n  vestigios/FW\n  de/FW\n  las/FW\n  (NP bandas/NNS criminales/NNS)\n  (VP que/VBP quedan/JJ)\n  en/FW\n  (NP Venezuela/NNP ”/NNP)\n  ,/,\n  (NP precisó/NN el/NN jefe/NN)\n  (PP de/IN (NP Estado/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra y conflicto entre venezolanos",
+        "position": [
+          1145,
+          1181
+        ],
+        "start": 1145,
+        "end": 1181
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre venezolanos? la ultraderecha fascista. ¿quién quiere paz y",
+        "position": [
+          1154,
+          1228
+        ],
+        "start": 1154,
+        "end": 1228
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          238,
+          245
+        ],
+        "start": 238,
+        "end": 245
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          424,
+          430
+        ],
+        "start": 424,
+        "end": 430
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          538,
+          545
+        ],
+        "start": 538,
+        "end": 545
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          809,
+          816
+        ],
+        "start": 809,
+        "end": 816
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1829,
+          1836
+        ],
+        "start": 1829,
+        "end": 1836
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          1930,
+          1938
+        ],
+        "start": 1930,
+        "end": 1938
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          44,
+          51
+        ],
+        "start": 44,
+        "end": 51
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1317,
+          1324
+        ],
+        "start": 1317,
+        "end": 1324
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "españa",
+        "position": [
+          1700,
+          1706
+        ],
+        "start": 1700,
+        "end": 1706
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1113,
+          1119
+        ],
+        "start": 1113,
+        "end": 1119
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          229,
+          236
+        ],
+        "start": 229,
+        "end": 236
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona concurrida",
+        "position": [
+          210,
+          225
+        ],
+        "start": 210,
+        "end": 225
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza venezuela",
+        "position": [
+          189,
+          204
+        ],
+        "start": 189,
+        "end": 204
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "imperialismo",
+        "position": [
+          295,
+          307
+        ],
+        "start": 295,
+        "end": 307
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "siglo xxi",
+        "position": [
+          1785,
+          1794
+        ],
+        "start": 1785,
+        "end": 1794
+      }
+    ],
+    "match_count": 19
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerza Armada Nacional Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Revoilución Boliviariana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "España",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plaza Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sebin",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bolívar",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONDENAR",
+        "objeto": "Plaza Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONDENAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "CONDENAR",
+        "objeto": "Plaza Venezuela"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "CONDENAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "QUEDAR_CONDUCIR_PRECISAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Revoilución Boliviariana",
+        "relacion": "TAPAR",
+        "objeto": "Bolívar"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5204,
+    "pos": 0.022,
+    "neu": 0.971,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

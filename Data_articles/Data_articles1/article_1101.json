@@ -1,0 +1,699 @@
+{
+  "url": "https://www.telesurtv.net/gaza-sube-cifra-periodistas-asesinados-israel/",
+  "title": "Israel continúa asesinando periodistas en la Franja de Gaza",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Israel",
+    "Muertos"
+  ],
+  "text": "La situación en la Franja de Gaza ha vuelto a ocupar el foco global tras nuevas denuncias sobre ejecuciones de periodistas y colaboradores locales, perpetradas por fuerzas israelíes con el objetivo de silenciar el flujo de información hacia la comunidad internacional.\nDesde el inicio de la ofensiva en octubre de 2023, medios independientes y agencias vinculadas a la Organización de las Naciones Unidas han documentado de forma constante acciones consideradas inhumanas contra profesionales de la prensa.\nLas cifras más recientes indican que al menos 239 periodistas han perdido la vida, muchos de ellos considerados por Israel como simpatizantes del Movimiento de Resistencia palestino Hamás, lo que ha servido de argumento para bloquear el acceso de corresponsales extranjeros a la Franja de Gaza.\n\n\nUna de las motivaciones atribuidas a estos asesinatos es que varios reporteros han logrado construir narrativas alternativas que han traspasado las fronteras mediáticas, posicionándolos como figuras incómodas para el gobierno de Tel Aviv.\nEste patrón de hostigamiento recuerda casos emblemáticos como el asesinato de Jamal Khashoggi o los ataques contra periodistas en territorio ruso, donde las versiones oficiales fueron ampliamente cuestionadas.\n\n\nAdemás, se ha señalado que los reporteros palestinos, al documentar de forma directa los efectos de la ocupación, son frecuentemente acusados de parcialidad, lo que ha intensificado el riesgo que enfrentan en el ejercicio de su labor.\nCada una de estas muertes ha sido condenada por organismos internacionales, que han exigido el cese inmediato de las hostilidades y el respeto al trabajo periodístico. Países como China y Cuba han expresado su preocupación mediante declaraciones oficiales y en foros multilaterales, instando a una solución pacífica y al respeto por los derechos humanos.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gaza-sube-cifra-periodistas-asesinados-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 734,
+    "message_id": 102434,
+    "date": "2025-08-22T09:55:12+00:00",
+    "text": "teleSUR\nIsrael continúa asesinando periodistas en la Franja de Gaza\nhttps://www.telesurtv.net/gaza-sube-cifra-periodistas-asesinados-israel/",
+    "photo_path": null,
+    "views": 1959,
+    "reactions": {
+      "🤬": 39,
+      "😭": 4,
+      "😢": 2
+    },
+    "total_reactions": 45
+  },
+  "preprocessing": {
+    "cleaned": "la situación en la franja de gaza ha vuelto a ocupar el foco global tras nuevas denuncias sobre ejecuciones de periodistas y colaboradores locales, perpetradas por fuerzas israelíes con el objetivo de silenciar el flujo de información hacia la comunidad internacional. desde el inicio de la ofensiva en octubre de 2023, medios independientes y agencias vinculadas a la organización de las naciones unidas han documentado de forma constante acciones consideradas inhumanas contra profesionales de la prensa. las cifras más recientes indican que al menos 239 periodistas han perdido la vida, muchos de ellos considerados por israel como simpatizantes del movimiento de resistencia palestino hamás, lo que ha servido de argumento para bloquear el acceso de corresponsales extranjeros a la franja de gaza. una de las motivaciones atribuidas a estos asesinatos es que varios reporteros han logrado construir narrativas alternativas que han traspasado las fronteras mediáticas, posicionándolos como figuras incómodas para el gobierno de tel aviv. este patrón de hostigamiento recuerda casos emblemáticos como el asesinato de jamal khashoggi o los ataques contra periodistas en territorio ruso, donde las versiones oficiales fueron ampliamente cuestionadas. además, se ha señalado que los reporteros palestinos, al documentar de forma directa los efectos de la ocupación, son frecuentemente acusados de parcialidad, lo que ha intensificado el riesgo que enfrentan en el ejercicio de su labor. cada una de estas muertes ha sido condenada por organismos internacionales, que han exigido el cese inmediato de las hostilidades y el respeto al trabajo periodístico. países como china y cuba han expresado su preocupación mediante declaraciones oficiales y en foros multilaterales, instando a una solución pacífica y al respeto por los derechos humanos.",
+    "tokens": [
+      "situación",
+      "franja",
+      "gaza",
+      "vuelto",
+      "ocupar",
+      "foco",
+      "global",
+      "tras",
+      "nuevas",
+      "denuncias",
+      "ejecuciones",
+      "periodistas",
+      "colaboradores",
+      "locales",
+      ",",
+      "perpetradas",
+      "fuerzas",
+      "israelíes",
+      "objetivo",
+      "silenciar",
+      "flujo",
+      "información",
+      "hacia",
+      "comunidad",
+      "internacional",
+      ".",
+      "inicio",
+      "ofensiva",
+      "octubre",
+      "2023",
+      ",",
+      "medios",
+      "independientes",
+      "agencias",
+      "vinculadas",
+      "organización",
+      "naciones",
+      "unidas",
+      "documentado",
+      "forma",
+      "constante",
+      "acciones",
+      "consideradas",
+      "inhumanas",
+      "profesionales",
+      "prensa",
+      ".",
+      "cifras",
+      "recientes",
+      "indican",
+      "menos",
+      "239",
+      "periodistas",
+      "perdido",
+      "vida",
+      ",",
+      "considerados",
+      "israel",
+      "simpatizantes",
+      "movimiento",
+      "resistencia",
+      "palestino",
+      "hamás",
+      ",",
+      "servido",
+      "argumento",
+      "bloquear",
+      "acceso",
+      "corresponsales",
+      "extranjeros",
+      "franja",
+      "gaza",
+      ".",
+      "motivaciones",
+      "atribuidas",
+      "asesinatos",
+      "varios",
+      "reporteros",
+      "logrado",
+      "construir",
+      "narrativas",
+      "alternativas",
+      "traspasado",
+      "fronteras",
+      "mediáticas",
+      ",",
+      "posicionándolos",
+      "figuras",
+      "incómodas",
+      "gobierno",
+      "tel",
+      "aviv",
+      ".",
+      "patrón",
+      "hostigamiento",
+      "recuerda",
+      "casos",
+      "emblemáticos",
+      "asesinato",
+      "jamal",
+      "khashoggi",
+      "ataques",
+      "periodistas",
+      "territorio",
+      "ruso",
+      ",",
+      "versiones",
+      "oficiales",
+      "ampliamente",
+      "cuestionadas",
+      ".",
+      "además",
+      ",",
+      "señalado",
+      "reporteros",
+      "palestinos",
+      ",",
+      "documentar",
+      "forma",
+      "directa",
+      "efectos",
+      "ocupación",
+      ",",
+      "frecuentemente",
+      "acusados",
+      "parcialidad",
+      ",",
+      "intensificado",
+      "riesgo",
+      "enfrentan",
+      "ejercicio",
+      "labor",
+      ".",
+      "cada",
+      "muertes",
+      "sido",
+      "condenada",
+      "organismos",
+      "internacionales",
+      ",",
+      "exigido",
+      "cese",
+      "inmediato",
+      "hostilidades",
+      "respeto",
+      "trabajo",
+      "periodístico",
+      ".",
+      "países",
+      "china",
+      "cuba",
+      "expresado",
+      "preocupación",
+      "mediante",
+      "declaraciones",
+      "oficiales",
+      "foros",
+      "multilaterales",
+      ",",
+      "instando",
+      "solución",
+      "pacífica",
+      "respeto",
+      "derechos",
+      "humanos",
+      "."
+    ],
+    "token_count": 166,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "VBD": 4,
+      "JJ": 28,
+      "FW": 61,
+      "NN": 81,
+      "NNS": 26,
+      "IN": 11,
+      "VBZ": 4,
+      "VBP": 19,
+      "CD": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBD": 3,
+      "VBD-JJ": 2,
+      "JJ-FW": 1,
+      "FW-NNP": 7,
+      "NNP-FW": 6,
+      "NNP-NN": 8,
+      "NN-NN": 47,
+      "NN-JJ": 4,
+      "JJ-NN": 15,
+      "JJ-NNS": 5,
+      "NNS-IN": 2,
+      "IN-FW": 7,
+      "FW-NNS": 5,
+      "NNS-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 3,
+      "JJ-JJ": 4,
+      "NN-FW": 5,
+      "FW-FW": 38,
+      "FW-NN": 9,
+      "NN-VBP": 3,
+      "VBP-JJ": 11,
+      "JJ-NNP": 2,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "VBZ-JJ": 1,
+      "NNS-VBP": 15,
+      "VBP-NNP": 2,
+      "NNP-NNP": 6,
+      "VBD-FW": 1,
+      "NN-NNS": 8,
+      "NNP-NNS": 1,
+      "VBP-NNS": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "JJ-VBP": 1,
+      "VBP-FW": 1,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-NNP": 4,
+      "NN-IN": 7,
+      "FW-JJ": 1,
+      "IN-NNS": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNS-FW": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "NNS-NNP": 1,
+      "VBP-IN": 1,
+      "IN-JJ": 1,
+      "VBP-NN": 2,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 3,
+      "NN-NN-NN": 27,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 11,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNS": 3,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 27,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 4,
+      "NN-NN-VBP": 3,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 10,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "IN-FW-FW": 3,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 4,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "VBP-JJ-NN": 6,
+      "NN-NN-NNS": 5,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "VBD-JJ-NN": 1,
+      "NN-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "NN-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 61,
+        "JJ": 28,
+        "NNS": 26,
+        "NNP": 25
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "FW-FW": 38,
+        "JJ-NN": 15,
+        "NNS-VBP": 15,
+        "VBP-JJ": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 27,
+        "JJ-NN-NN": 11,
+        "NNS-VBP-JJ": 10,
+        "FW-FW-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 24,
+      "ADJP": 1,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0455
+      },
+      {
+        "rule": "NP -> ('periodistas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "S -> NP VP ('la', 'FW') NP ('de', 'FW') NP NP NP NP ('de', 'IN') ('periodistas', 'FW') NP VP (',', ',') NP NP ('objetivo', 'FW') ('de', 'FW') ('silenciar', 'FW') ('el', 'FW') ('flujo', 'FW') ('de', 'FW') ('información', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "VP -> ('situación', 'VBD') ('en', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('ha', 'NN') ('vuelto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('ocupar', 'JJ') ('el', 'NN') ('foco', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('global', 'JJ') ('tras', 'NN') ('nuevas', 'NN') ('denuncias', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('sobre', 'JJ') ('ejecuciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0091
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "situación en"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza ha vuelto"
+      },
+      {
+        "label": "NP",
+        "text": "a ocupar el foco"
+      },
+      {
+        "label": "NP",
+        "text": "global tras nuevas denuncias"
+      },
+      {
+        "label": "NP",
+        "text": "sobre ejecuciones"
+      },
+      {
+        "label": "NP",
+        "text": "y colaboradores"
+      },
+      {
+        "label": "VP",
+        "text": "locales"
+      },
+      {
+        "label": "NP",
+        "text": "perpetradas por fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "israelíes con el"
+      },
+      {
+        "label": "NP",
+        "text": "hacia la"
+      },
+      {
+        "label": "NP",
+        "text": "comunidad internacional"
+      },
+      {
+        "label": "NP",
+        "text": "Desde"
+      },
+      {
+        "label": "NP",
+        "text": "independientes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP situación/VBD en/JJ)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP ha/NN vuelto/NN)\n  (NP a/DT ocupar/JJ el/NN foco/NN)\n  (NP global/JJ tras/NN nuevas/NN denuncias/NN)\n  (NP sobre/JJ ejecuciones/NNS)\n  de/IN\n  periodistas/FW\n  (NP y/NN colaboradores/NNS)\n  (VP locales/VBZ)\n  ,/,\n  (NP perpetradas/JJ por/NN fuerzas/NN)\n  (NP israelíes/JJ con/NN el/NN)\n  objetivo/FW\n  de/FW\n  silenciar/FW\n  el/FW\n  flujo/FW\n  de/FW\n  información/FW\n  (NP hacia/NN la/NN)\n  (NP comunidad/JJ internacional/NN)\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  el/CC\n  inicio/FW\n  de/FW\n  la/FW\n  ofensiva/FW\n  en/FW\n  octubre/FW\n  de/FW\n  2023/CD\n  ,/,\n  medios/FW\n  (NP independientes/NNS)\n  (VP y/VBP agencias/JJ)\n  vinculadas/FW\n  a/DT\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (VP han/VBD)\n  documentado/FW\n  de/FW\n  forma/FW\n  (NP constante/NN acciones/NNS)\n  (VP consideradas/VBP (NP inhumanas/JJ contra/JJ profesionales/NNS))\n  de/IN\n  la/FW\n  (NP prensa/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP cifras/NNS)\n  (VP más/VBP (NP recientes/NNS) (NP indican/JJ que/NN al/NN))\n  (VP menos/VBD)\n  239/CD\n  (NP periodistas/NNS)\n  (ADJP han/JJ)\n  (VP perdido/VBP)\n  la/FW\n  vida/FW\n  ,/,\n  muchos/FW\n  de/FW\n  ellos/FW\n  (NP considerados/NNS)\n  (VP por/VBP (NP Israel/NNP como/NN))\n  (VP simpatizantes/VBZ)\n  del/FW\n  (NP Movimiento/NNP)\n  de/FW\n  (NP Resistencia/NNP palestino/NN Hamás/NNP)\n  ,/,\n  (NP lo/NN que/NN ha/NN servido/NN)\n  de/IN\n  argumento/FW\n  (NP para/JJ bloquear/JJ el/NN acceso/NN)\n  (PP de/IN (NP corresponsales/NNS))\n  (VP extranjeros/VBP (NP a/DT la/NN Franja/NNP))\n  (PP de/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP Una/NNP)\n  de/FW\n  las/FW\n  (NP motivaciones/NNS)\n  (VP\n    atribuidas/VBP\n    (NP a/DT estos/NN asesinatos/NN es/NN que/NN varios/NNS))\n  (VP\n    reporteros/VBP\n    (NP han/JJ logrado/NN construir/NN)\n    (NP\n      narrativas/JJ\n      alternativas/NN\n      que/NN\n      han/NN\n      traspasado/NN\n      las/NN\n      fronteras/NNS)\n    mediáticas/RB)\n  ,/,\n  (NP posicionándolos/JJ como/NN figuras/NNS)\n  (VP incómodas/VBP (NP para/JJ el/JJ gobierno/NN))\n  (PP de/IN (NP Tel/NNP Aviv/NNP))\n  ./.)",
+      "(S\n  (NP Este/NNP patrón/NN)\n  de/FW\n  hostigamiento/FW\n  recuerda/FW\n  (NP casos/NN)\n  emblemáticos/FW\n  (NP como/NN)\n  el/FW\n  (NP asesinato/NN)\n  (PP de/IN (NP Jamal/NNP Khashoggi/NNP))\n  o/MD\n  (VP los/VB (NP ataques/NNS))\n  (VP contra/VB (NP periodistas/NNS))\n  (PP en/IN (NP territorio/NN ruso/NN))\n  ,/,\n  (NP donde/JJ las/NN versiones/NNS)\n  (VP oficiales/VBZ fueron/RB (NP ampliamente/JJ cuestionadas/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "JUSTICIA_SOCIAL",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "cese inmediato de las hostilidades",
+        "position": [
+          1585,
+          1619
+        ],
+        "start": 1585,
+        "end": 1619
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques contra periodistas en territorio ruso",
+        "position": [
+          1143,
+          1188
+        ],
+        "start": 1143,
+        "end": 1188
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1358,
+          1367
+        ],
+        "start": 1358,
+        "end": 1367
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de tel aviv",
+        "position": [
+          1021,
+          1041
+        ],
+        "start": 1021,
+        "end": 1041
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          369,
+          404
+        ],
+        "start": 369,
+        "end": 404
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          1678,
+          1682
+        ],
+        "start": 1678,
+        "end": 1682
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          1670,
+          1675
+        ],
+        "start": 1670,
+        "end": 1675
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1827,
+          1843
+        ],
+        "start": 1827,
+        "end": 1843
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Países",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento de Resistencia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jamal Khashoggi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "PERDER_INDICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Movimiento de Resistencia",
+        "relacion": "PERDER_INDICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "PERDER_INDICAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.875,
+    "pos": 0.045,
+    "neu": 0.955,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "url": "https://www.telesurtv.net/canciller-chino-afirma-que-lazos-con-latinoamerica-se-basan-en-cooperacion-mutua/",
+  "title": "Canciller chino afirma que lazos con Latinoamérica se basan en cooperación mutua - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "China",
+    "latinoamerica-y-el-caribe",
+    "vínculos"
+  ],
+  "text": "El canciller de China, Wang Yi enfatizó este viernes que las relaciones entre el gigante asiático y América Latina y el Caribe no se sustentan en cálculos geopolíticos ni persiguen esferas de influencia, en cambio constituyen una cooperación Sur-Sur.\nLas palabras del también miembro del buró político del Partido Comunista de China acontecieron en conferencia de prensa en el contexto de la tercera sesión de la Asamblea Popular Nacional donde apuntó que los intercambios entre ambas regiones son solo de apoyo mutuo y solidaridad.\nDe acuerdo con la prensa local que estableció contacto con la multiplataforma informativa teleSUR, el alto diplomático también aseguró que “lo que el pueblo de América Latina y el Caribe quiere construir es su propio hogar y no es el patio trasero de nadie”.\nAsimismo, el funcionario del Gobierno chino aclaró que “lo que los países de la región (ALC) esperan independencia y autodeterminación” (…) “no la doctrina Monroe”.\n“Ambas partes van a superar montañas y océanos y descartar las interferencias para elevar la cooperación a nuevas alturas”, añadió.\nAdemás, Wang Yi insistió en que “China va a ser la columna vertebral del sistema multilateral y la representante justa del sur global”, resaltando que el país “ha luchado contra el colonialismo y el hegemonismo en la historia y está comprometido con el objetivo común del desarrollo y la revitalización”.\n“China siempre va a tener en su corazón al Sur Global y mantenerse enraizada en él”, recalcó.\nSiguiendo esa línea, acotó que el Gobierno del dignatario Xi Jinping, de conjunto con los líderes de los países de América Latina y el Caribe, y con el impulso del Foro China-CELAC ha “producido resultados fructíferos en la construcción de la comunidad de destino China-LAC”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/canciller-chino-afirma-que-lazos-con-latinoamerica-se-basan-en-cooperacion-mutua/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1845,
+    "message_id": 88599,
+    "date": "2025-03-07T23:55:12+00:00",
+    "text": "teleSUR\nCanciller chino afirma que lazos con Latinoamérica se basan en cooperación mutua\nhttps://www.telesurtv.net/canciller-chino-afirma-que-lazos-con-latinoamerica-se-basan-en-cooperacion-mutua/",
+    "photo_path": null,
+    "views": 2332,
+    "reactions": {
+      "👍": 57,
+      "👏": 8,
+      "🤝": 5
+    },
+    "total_reactions": 70
+  },
+  "preprocessing": {
+    "cleaned": "el canciller de china, wang yi enfatizó este viernes que las relaciones entre el gigante asiático y américa latina y el caribe no se sustentan en cálculos geopolíticos ni persiguen esferas de influencia, en cambio constituyen una cooperación sur-sur. las palabras del también miembro del buró político del partido comunista de china acontecieron en conferencia de prensa en el contexto de la tercera sesión de la asamblea popular nacional donde apuntó que los intercambios entre ambas regiones son solo de apoyo mutuo y solidaridad. de acuerdo con la prensa local que estableció contacto con la multiplataforma informativa telesur, el alto diplomático también aseguró que “lo que el pueblo de américa latina y el caribe quiere construir es su propio hogar y no es el patio trasero de nadie”. asimismo, el funcionario del gobierno chino aclaró que “lo que los países de la región (alc) esperan independencia y autodeterminación” (…) “no la doctrina monroe”. “ambas partes van a superar montañas y océanos y descartar las interferencias para elevar la cooperación a nuevas alturas”, añadió. además, wang yi insistió en que “china va a ser la columna vertebral del sistema multilateral y la representante justa del sur global”, resaltando que el país “ha luchado contra el colonialismo y el hegemonismo en la historia y está comprometido con el objetivo común del desarrollo y la revitalización”. “china siempre va a tener en su corazón al sur global y mantenerse enraizada en él”, recalcó. siguiendo esa línea, acotó que el gobierno del dignatario xi jinping, de conjunto con los líderes de los países de américa latina y el caribe, y con el impulso del foro china-celac ha “producido resultados fructíferos en la construcción de la comunidad de destino china-lac”.",
+    "tokens": [
+      "canciller",
+      "china",
+      ",",
+      "wang",
+      "yi",
+      "enfatizó",
+      "viernes",
+      "relaciones",
+      "gigante",
+      "asiático",
+      "américa",
+      "latina",
+      "caribe",
+      "sustentan",
+      "cálculos",
+      "geopolíticos",
+      "persiguen",
+      "esferas",
+      "influencia",
+      ",",
+      "cambio",
+      "constituyen",
+      "cooperación",
+      "sur-sur",
+      ".",
+      "palabras",
+      "miembro",
+      "buró",
+      "político",
+      "partido",
+      "comunista",
+      "china",
+      "acontecieron",
+      "conferencia",
+      "prensa",
+      "contexto",
+      "tercera",
+      "sesión",
+      "asamblea",
+      "popular",
+      "nacional",
+      "apuntó",
+      "intercambios",
+      "ambas",
+      "regiones",
+      "solo",
+      "apoyo",
+      "mutuo",
+      "solidaridad",
+      ".",
+      "acuerdo",
+      "prensa",
+      "local",
+      "estableció",
+      "contacto",
+      "multiplataforma",
+      "informativa",
+      "telesur",
+      ",",
+      "alto",
+      "diplomático",
+      "aseguró",
+      "“",
+      "pueblo",
+      "américa",
+      "latina",
+      "caribe",
+      "quiere",
+      "construir",
+      "propio",
+      "hogar",
+      "patio",
+      "trasero",
+      "nadie",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "funcionario",
+      "gobierno",
+      "chino",
+      "aclaró",
+      "“",
+      "países",
+      "región",
+      "(",
+      "alc",
+      ")",
+      "esperan",
+      "independencia",
+      "autodeterminación",
+      "”",
+      "(",
+      "…",
+      ")",
+      "“",
+      "doctrina",
+      "monroe",
+      "”",
+      ".",
+      "“",
+      "ambas",
+      "partes",
+      "van",
+      "superar",
+      "montañas",
+      "océanos",
+      "descartar",
+      "interferencias",
+      "elevar",
+      "cooperación",
+      "nuevas",
+      "alturas",
+      "”",
+      ",",
+      "añadió",
+      ".",
+      "además",
+      ",",
+      "wang",
+      "yi",
+      "insistió",
+      "“",
+      "china",
+      "va",
+      "ser",
+      "columna",
+      "vertebral",
+      "sistema",
+      "multilateral",
+      "representante",
+      "justa",
+      "sur",
+      "global",
+      "”",
+      ",",
+      "resaltando",
+      "país",
+      "“",
+      "luchado",
+      "colonialismo",
+      "hegemonismo",
+      "historia",
+      "comprometido",
+      "objetivo",
+      "común",
+      "desarrollo",
+      "revitalización",
+      "”",
+      ".",
+      "“",
+      "china",
+      "siempre",
+      "va",
+      "tener",
+      "corazón",
+      "sur",
+      "global",
+      "mantenerse",
+      "enraizada",
+      "”",
+      ",",
+      "recalcó",
+      ".",
+      "siguiendo",
+      "línea",
+      ",",
+      "acotó",
+      "gobierno",
+      "dignatario",
+      "xi",
+      "jinping",
+      ",",
+      "conjunto",
+      "líderes",
+      "países",
+      "américa",
+      "latina",
+      "caribe",
+      ",",
+      "impulso",
+      "foro",
+      "china-celac",
+      "“",
+      "producido",
+      "resultados",
+      "fructíferos",
+      "construcción",
+      "comunidad",
+      "destino",
+      "china-lac",
+      "”",
+      "."
+    ],
+    "token_count": 193,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 43,
+      "NN": 107,
+      "IN": 13,
+      "VBZ": 6,
+      "NNS": 8,
+      "VBP": 5,
+      "JJ": 24,
+      "VBD": 4,
+      "DT": 3,
+      "FW": 49,
+      "RB": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-IN": 10,
+      "IN-NNP": 4,
+      "NNP-NNP": 16,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "JJ-NNS": 5,
+      "JJ-NN": 16,
+      "NN-NN": 65,
+      "NN-NNP": 8,
+      "NNP-VBD": 4,
+      "VBD-NNP": 3,
+      "NNP-DT": 1,
+      "DT-JJ": 1,
+      "IN-NN": 1,
+      "NN-JJ": 10,
+      "NN-FW": 6,
+      "FW-FW": 27,
+      "FW-NN": 11,
+      "NNP-FW": 7,
+      "NNP-IN": 1,
+      "IN-FW": 7,
+      "FW-NNP": 8,
+      "NNS-NN": 1,
+      "FW-JJ": 2,
+      "NNP-RB": 1,
+      "RB-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "NN-VBZ": 3,
+      "NNS-IN": 1,
+      "VBD-JJ": 1,
+      "VBZ-NNP": 1,
+      "VBZ-FW": 1,
+      "NN-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "VBP-NNP": 1,
+      "JJ-JJ": 2,
+      "JJ-NNP": 1,
+      "IN-JJ": 1,
+      "VBZ-IN": 1,
+      "FW-NNS": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-VBD": 3,
+      "NNP-VBD-NNP": 3,
+      "VBD-NNP-DT": 1,
+      "NNP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-JJ": 10,
+      "NN-JJ-NN": 5,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 17,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 7,
+      "JJ-NN-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NN-NN-NN": 38,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "NN-NN-IN": 5,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 4,
+      "FW-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-FW": 3,
+      "VBD-NNP-RB": 1,
+      "NNP-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "IN-FW-NNP": 1,
+      "NN-NNP-NN": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-DT": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "JJ-NN-MD": 1,
+      "NN-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 107,
+        "FW": 49,
+        "NNP": 43,
+        "JJ": 24,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 65,
+        "FW-FW": 27,
+        "NNP-NNP": 16,
+        "JJ-NN": 16,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 38,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 10,
+        "NN-NN-JJ": 10,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 70,
+      "PP": 7,
+      "VP": 19
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "VP -> ('entre', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('Caribe', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP PP (',', ',') NP VP VP VP VP PP NP ('esferas', 'FW') ('de', 'FW') ('influencia', 'FW') (',', ',') ('en', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('canciller', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('China', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Wang', 'NNP') ('Yi', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('enfatizó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El canciller"
+      },
+      {
+        "label": "PP",
+        "text": "de China"
+      },
+      {
+        "label": "NP",
+        "text": "China"
+      },
+      {
+        "label": "NP",
+        "text": "Wang Yi"
+      },
+      {
+        "label": "VP",
+        "text": "enfatizó este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "que las relaciones"
+      },
+      {
+        "label": "NP",
+        "text": "las relaciones"
+      },
+      {
+        "label": "VP",
+        "text": "entre el gigante asiático y América Latina y"
+      },
+      {
+        "label": "NP",
+        "text": "el gigante asiático y América Latina y"
+      },
+      {
+        "label": "VP",
+        "text": "el Caribe no se sustentan"
+      },
+      {
+        "label": "NP",
+        "text": "Caribe"
+      },
+      {
+        "label": "NP",
+        "text": "no se sustentan"
+      },
+      {
+        "label": "PP",
+        "text": "en cálculos geopolíticos"
+      },
+      {
+        "label": "NP",
+        "text": "cálculos geopolíticos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP canciller/NN)\n  (PP de/IN (NP China/NNP))\n  ,/,\n  (NP Wang/NNP Yi/NNP)\n  (VP enfatizó/VBZ (NP este/NN viernes/NNS))\n  (VP que/VBP (NP las/JJ relaciones/NNS))\n  (VP\n    entre/VBP\n    (NP\n      el/JJ\n      gigante/NN\n      asiático/NN\n      y/NN\n      América/NNP\n      Latina/NNP\n      y/NNP))\n  (VP el/VBD (NP Caribe/NNP) (NP no/DT se/JJ sustentan/NN))\n  (PP en/IN (NP cálculos/NN geopolíticos/NN))\n  (NP ni/JJ persiguen/NN)\n  esferas/FW\n  de/FW\n  influencia/FW\n  ,/,\n  en/FW\n  (NP cambio/NN constituyen/NN)\n  (NP una/JJ cooperación/NN Sur-Sur/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP palabras/NNS)\n  (VP\n    del/VBP\n    (NP\n      también/JJ\n      miembro/NN\n      del/NN\n      buró/NN\n      político/NN\n      del/NN\n      Partido/NNP\n      Comunista/NNP))\n  (PP de/IN (NP China/NNP acontecieron/NN))\n  en/FW\n  (NP conferencia/NN)\n  de/IN\n  prensa/FW\n  en/FW\n  el/FW\n  contexto/FW\n  de/FW\n  la/FW\n  tercera/FW\n  sesión/FW\n  de/FW\n  la/FW\n  (NP\n    Asamblea/NNP\n    Popular/NNP\n    Nacional/NNP\n    donde/NN\n    apuntó/NN\n    que/NN)\n  (NP los/JJ intercambios/NNS)\n  (VP entre/VBP (NP ambas/JJ regiones/NNS son/NN solo/NN))\n  de/IN\n  apoyo/FW\n  mutuo/FW\n  y/FW\n  (NP solidaridad/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  prensa/FW\n  (NP local/JJ que/NN estableció/NN contacto/NN con/NN la/NN)\n  multiplataforma/FW\n  (NP informativa/NN teleSUR/NN)\n  ,/,\n  el/FW\n  alto/FW\n  diplomático/FW\n  (NP también/NN aseguró/NN que/NN “/NNP lo/NN que/NN)\n  el/FW\n  (NP pueblo/NN)\n  (PP de/IN (NP América/NNP Latina/NNP y/NNP))\n  (VP el/VBD (NP Caribe/NNP) quiere/RB)\n  (VP construir/VBZ (NP es/JJ su/NN propio/NN hogar/NN))\n  (VP y/VBZ (NP no/DT es/NN))\n  (VP el/VBZ (NP patio/JJ trasero/NN))\n  de/IN\n  nadie/FW\n  (NP ”/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP\n      funcionario/NN\n      del/NN\n      Gobierno/NNP\n      chino/NN\n      aclaró/NN\n      que/NN\n      “/NNP\n      lo/NN\n      que/NN)\n    (NP los/JJ países/NNS))\n  de/IN\n  la/FW\n  región/FW\n  (/(\n  (NP ALC/NNP)\n  )/)\n  (VP\n    esperan/VBD\n    (NP independencia/JJ y/NN autodeterminación/NN ”/NNP))\n  (/(\n  (NP …/NNP)\n  )/)\n  (VP “/VBZ (NP no/DT la/NN))\n  (VP doctrina/VBZ (NP Monroe/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Ambas/NNP)\n  (VP partes/VBZ)\n  van/FW\n  (NP a/DT superar/NN montañas/NN y/NN)\n  (PP océanos/IN (NP y/JJ descartar/NN las/NNS))\n  (VP interferencias/VBP (NP para/JJ elevar/NN la/NN))\n  (VP cooperación/VBZ (NP a/DT nuevas/JJ alturas/NN ”/NNP))\n  ,/,\n  (NP añadió/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la prensa local que estableció contacto con la multiplataforma informativa telesur, el alto diplomático también aseguró que “lo que el pueblo de américa latina y el",
+        "position": [
+          536,
+          712
+        ],
+        "start": 536,
+        "end": 712
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          349,
+          370
+        ],
+        "start": 349,
+        "end": 370
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "aclaró",
+        "position": [
+          836,
+          842
+        ],
+        "start": 836,
+        "end": 842
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del dignatario xi",
+        "position": [
+          1522,
+          1548
+        ],
+        "start": 1522,
+        "end": 1548
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "celac",
+        "position": [
+          1663,
+          1668
+        ],
+        "start": 1663,
+        "end": 1668
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          16,
+          21
+        ],
+        "start": 16,
+        "end": 21
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          120,
+          126
+        ],
+        "start": 120,
+        "end": 126
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región (alc",
+        "position": [
+          872,
+          883
+        ],
+        "start": 872,
+        "end": 883
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Monroe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sur Global",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Partido Comunista de China",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno chino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Foro China-CELAC",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea Popular Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xi Jinping",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "China-LAC",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "América",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wang Yi",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Partido Comunista de China",
+        "relacion": "ACONTECER",
+        "objeto": "Asamblea Popular Nacional"
+      },
+      {
+        "sujeto": "el Caribe",
+        "relacion": "QUERER_ASEGURAR",
+        "objeto": "América"
+      },
+      {
+        "sujeto": "Gobierno chino",
+        "relacion": "ACLARAR",
+        "objeto": "Monroe"
+      },
+      {
+        "sujeto": "Wang Yi",
+        "relacion": "INSISTIR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "TENER_RECALCAR",
+        "objeto": "Sur Global"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2023,
+    "pos": 0.019,
+    "neu": 0.965,
+    "neg": 0.016,
+    "label": "positive"
+  }
+}

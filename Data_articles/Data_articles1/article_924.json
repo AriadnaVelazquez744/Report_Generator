@@ -1,0 +1,708 @@
+{
+  "url": "https://www.telesurtv.net/onu-afirma-israel-bloqueando-ayuda-gaza/",
+  "title": "ONU: Israel sigue bloqueando la entrada de ayuda a Gaza",
+  "section": "Mundo",
+  "tags": [
+    "Bloqueo Ayuda",
+    "Camiones Humanitarios",
+    "Franja de Gaza",
+    "ONU"
+  ],
+  "text": "En medio de la crisis humanitaria que atraviesa la Franja de Gaza debido al impedimento de las fuerzas israelíes para la entrada de ayuda al territorio palestina, la Organización de las Naciones Unidas reiteró el lunes la advertencia de que Israel continúa restringiendo y obstruyendo la entrada de convoyes a Gaza.\nAsí lo afirmó el portavoz del Secretario General de la ONU, Stéphane Dujarric, en una rueda de prensa celebrada en la ciudad de Nueva York.\n\n\nEl vocero de la ONU señaló que el personal de la Oficina de las Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) informó que Israel sigue obstruyendo los convoyes de ayuda humanitaria.\nEl impedimento de las fuerzas israelíes dificulta las operaciones para salvar la vida de millones de palestinos.\nDujarric agregó que las autoridades israelíes rechazaron el domingo pasado al menos ocho de las 15 misiones de ayuda humanitaria que requerían coordinación y bloquearon las siete restantes.\n\n\nAdemás confirmó que la OCHA advirtió que los ataques aéreos y las hostilidades en la Franja de Gaza, incluidos los ataques a hospitales e instalaciones sanitarias, están causando más víctimas civiles y dañando o destruyendo infraestructura vital.\nEl portavoz del Secretario General de la ONU, afirmó que el número de personas desplazadas por la fuerza en Gaza ha superado las 800.000 desde que terminó el alto el fuego en el territorio palestino a mediados de marzo.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/onu-afirma-israel-bloqueando-ayuda-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 426,
+    "message_id": 102863,
+    "date": "2025-08-26T07:55:07+00:00",
+    "text": "teleSUR\nLa ONU afirma que Israel sigue obstaculizando la entrada de ayuda humanitaria a Gaza\nhttps://www.telesurtv.net/onu-afirma-israel-bloqueando-ayuda-gaza/",
+    "photo_path": null,
+    "views": 1953,
+    "reactions": {
+      "🤬": 46,
+      "💩": 3,
+      "😭": 2,
+      "👎": 1,
+      "🤯": 1,
+      "🤡": 1
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "en medio de la crisis humanitaria que atraviesa la franja de gaza debido al impedimento de las fuerzas israelíes para la entrada de ayuda al territorio palestina, la organización de las naciones unidas reiteró el lunes la advertencia de que israel continúa restringiendo y obstruyendo la entrada de convoyes a gaza. así lo afirmó el portavoz del secretario general de la onu, stéphane dujarric, en una rueda de prensa celebrada en la ciudad de nueva york. el vocero de la onu señaló que el personal de la oficina de las naciones unidas para la coordinación de asuntos humanitarios (ocha) informó que israel sigue obstruyendo los convoyes de ayuda humanitaria. el impedimento de las fuerzas israelíes dificulta las operaciones para salvar la vida de millones de palestinos. dujarric agregó que las autoridades israelíes rechazaron el domingo pasado al menos ocho de las 15 misiones de ayuda humanitaria que requerían coordinación y bloquearon las siete restantes. además confirmó que la ocha advirtió que los ataques aéreos y las hostilidades en la franja de gaza, incluidos los ataques a hospitales e instalaciones sanitarias, están causando más víctimas civiles y dañando o destruyendo infraestructura vital. el portavoz del secretario general de la onu, afirmó que el número de personas desplazadas por la fuerza en gaza ha superado las 800.000 desde que terminó el alto el fuego en el territorio palestino a mediados de marzo.",
+    "tokens": [
+      "medio",
+      "crisis",
+      "humanitaria",
+      "atraviesa",
+      "franja",
+      "gaza",
+      "debido",
+      "impedimento",
+      "fuerzas",
+      "israelíes",
+      "entrada",
+      "ayuda",
+      "territorio",
+      "palestina",
+      ",",
+      "organización",
+      "naciones",
+      "unidas",
+      "reiteró",
+      "lunes",
+      "advertencia",
+      "israel",
+      "continúa",
+      "restringiendo",
+      "obstruyendo",
+      "entrada",
+      "convoyes",
+      "gaza",
+      ".",
+      "así",
+      "afirmó",
+      "portavoz",
+      "secretario",
+      "general",
+      "onu",
+      ",",
+      "stéphane",
+      "dujarric",
+      ",",
+      "rueda",
+      "prensa",
+      "celebrada",
+      "ciudad",
+      "nueva",
+      "york",
+      ".",
+      "vocero",
+      "onu",
+      "señaló",
+      "personal",
+      "oficina",
+      "naciones",
+      "unidas",
+      "coordinación",
+      "asuntos",
+      "humanitarios",
+      "(",
+      "ocha",
+      ")",
+      "informó",
+      "israel",
+      "sigue",
+      "obstruyendo",
+      "convoyes",
+      "ayuda",
+      "humanitaria",
+      ".",
+      "impedimento",
+      "fuerzas",
+      "israelíes",
+      "dificulta",
+      "operaciones",
+      "salvar",
+      "vida",
+      "millones",
+      "palestinos",
+      ".",
+      "dujarric",
+      "agregó",
+      "autoridades",
+      "israelíes",
+      "rechazaron",
+      "domingo",
+      "pasado",
+      "menos",
+      "ocho",
+      "15",
+      "misiones",
+      "ayuda",
+      "humanitaria",
+      "requerían",
+      "coordinación",
+      "bloquearon",
+      "siete",
+      "restantes",
+      ".",
+      "además",
+      "confirmó",
+      "ocha",
+      "advirtió",
+      "ataques",
+      "aéreos",
+      "hostilidades",
+      "franja",
+      "gaza",
+      ",",
+      "incluidos",
+      "ataques",
+      "hospitales",
+      "instalaciones",
+      "sanitarias",
+      ",",
+      "causando",
+      "víctimas",
+      "civiles",
+      "dañando",
+      "destruyendo",
+      "infraestructura",
+      "vital",
+      ".",
+      "portavoz",
+      "secretario",
+      "general",
+      "onu",
+      ",",
+      "afirmó",
+      "número",
+      "personas",
+      "desplazadas",
+      "fuerza",
+      "gaza",
+      "superado",
+      "800.000",
+      "terminó",
+      "alto",
+      "fuego",
+      "territorio",
+      "palestino",
+      "mediados",
+      "marzo",
+      "."
+    ],
+    "token_count": 141,
+    "sentence_count": 7
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 52,
+      "VP": 12,
+      "ADJP": 3,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.026
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 2,
+        "weight": 0.026
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('la', 'FW') NP VP ('la', 'FW') NP ('de', 'FW') NP ('de', 'IN') ('las', 'FW') NP ('la', 'FW') ('entrada', 'FW') ('de', 'FW') ('ayuda', 'FW') ('al', 'FW') NP (',', ',') ('la', 'FW') NP ('de', 'FW') ('las', 'FW') NP VP ('advertencia', 'FW') ('de', 'FW') ('que', 'FW') NP ('y', 'FW') NP ('la', 'FW') ('entrada', 'FW') ('de', 'FW') ('convoyes', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('medio', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('crisis', 'NN') ('humanitaria', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "VP -> ('atraviesa', 'VBP')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('debido', 'NN') ('al', 'NN') ('impedimento', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('fuerzas', 'JJ') ('israelíes', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('territorio', 'NN') ('palestina', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('Organización', 'NNP')",
+        "frequency": 1,
+        "weight": 0.013
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En medio"
+      },
+      {
+        "label": "NP",
+        "text": "crisis humanitaria que"
+      },
+      {
+        "label": "VP",
+        "text": "atraviesa"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza debido al impedimento"
+      },
+      {
+        "label": "NP",
+        "text": "fuerzas israelíes para"
+      },
+      {
+        "label": "NP",
+        "text": "territorio palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas reiteró el lunes"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "Israel continúa restringiendo"
+      },
+      {
+        "label": "NP",
+        "text": "obstruyendo"
+      },
+      {
+        "label": "NP",
+        "text": "a Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Así"
+      },
+      {
+        "label": "VP",
+        "text": "lo afirmó el portavoz del Secretario General de"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP medio/NN)\n  de/FW\n  la/FW\n  (NP crisis/NN humanitaria/NN que/NN)\n  (VP atraviesa/VBP)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP debido/NN al/NN impedimento/NN)\n  de/IN\n  las/FW\n  (NP fuerzas/JJ israelíes/NN para/NN)\n  la/FW\n  entrada/FW\n  de/FW\n  ayuda/FW\n  al/FW\n  (NP territorio/NN palestina/NN)\n  ,/,\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP reiteró/NN el/NN lunes/NNS)\n  (VP la/VBP)\n  advertencia/FW\n  de/FW\n  que/FW\n  (NP Israel/NNP continúa/NN restringiendo/NN)\n  y/FW\n  (NP obstruyendo/NN)\n  la/FW\n  entrada/FW\n  de/FW\n  convoyes/FW\n  (NP a/DT Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Así/NNP)\n  (VP\n    lo/VBZ\n    (NP\n      afirmó/JJ\n      el/JJ\n      portavoz/NN\n      del/NN\n      Secretario/NNP\n      General/NNP\n      de/NNP))\n  la/FW\n  (NP ONU/NNP)\n  ,/,\n  (NP Stéphane/NNP Dujarric/NNP)\n  ,/,\n  en/FW\n  (NP una/JJ rueda/NN)\n  de/IN\n  prensa/FW\n  (NP celebrada/NN)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Nueva/NNP York/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP vocero/NN)\n  de/IN\n  la/FW\n  (NP ONU/NNP señaló/NN que/NN)\n  (ADJP el/JJ)\n  (ADJP personal/JJ)\n  de/FW\n  la/FW\n  (NP Oficina/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN la/NN Coordinación/NNP)\n  (PP de/IN (NP Asuntos/NNP Humanitarios/NNP))\n  (/(\n  (NP OCHA/NNP)\n  )/)\n  (NP informó/NN que/NN Israel/NNP sigue/NN obstruyendo/NN)\n  (NP los/JJ convoyes/NN)\n  de/IN\n  ayuda/FW\n  (NP humanitaria/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP impedimento/NN)\n  de/FW\n  las/FW\n  fuerzas/FW\n  israelíes/FW\n  (NP dificulta/NN las/NN operaciones/NNS)\n  (VP para/VBP salvar/JJ)\n  la/FW\n  vida/FW\n  de/FW\n  millones/FW\n  de/FW\n  palestinos/FW\n  ./.)",
+      "(S\n  (NP Dujarric/NNP agregó/NN que/NN las/NNS)\n  (PP\n    autoridades/IN\n    (NP israelíes/JJ rechazaron/NN el/NN domingo/NN pasado/NN))\n  al/IN\n  (ADJP menos/JJ)\n  ocho/FW\n  de/FW\n  las/FW\n  15/CD\n  (NP misiones/NNS)\n  de/FW\n  ayuda/FW\n  (NP\n    humanitaria/NN\n    que/NN\n    requerían/NN\n    coordinación/NN\n    y/NN\n    bloquearon/NN)\n  (VP las/VBD (NP siete/JJ restantes/NNS))\n  ./.)"
+    ]
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NN": 72,
+      "FW": 59,
+      "VBP": 8,
+      "IN": 9,
+      "JJ": 15,
+      "NNS": 14,
+      "VBZ": 1,
+      "CD": 2,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-FW": 7,
+      "FW-FW": 31,
+      "FW-NN": 7,
+      "NN-NN": 41,
+      "NN-VBP": 1,
+      "VBP-FW": 3,
+      "FW-NNP": 15,
+      "NNP-FW": 9,
+      "NN-IN": 7,
+      "IN-FW": 5,
+      "FW-JJ": 2,
+      "JJ-NN": 8,
+      "NNP-NNP": 13,
+      "NN-NNS": 6,
+      "NNS-VBP": 7,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 2,
+      "NN-NNP": 5,
+      "NN-JJ": 3,
+      "JJ-FW": 3,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "FW-NNS": 2,
+      "NNS-NNP": 2,
+      "VBP-JJ": 4,
+      "NNS-IN": 1,
+      "IN-JJ": 2,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "JJ-NNS": 1,
+      "VBP-NNS": 1,
+      "NNS-NNS": 3,
+      "JJ-NNP": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 18,
+      "NN-NN-VBP": 1,
+      "NN-VBP-FW": 1,
+      "VBP-FW-NNP": 2,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 13,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-FW": 4,
+      "FW-FW-FW": 17,
+      "NN-FW-NNP": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-JJ-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NNS-VBP": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "FW": 59,
+        "NNP": 39,
+        "JJ": 15,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 31,
+        "NNP-NN": 15,
+        "FW-NNP": 15,
+        "NNP-NNP": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 18,
+        "FW-FW-FW": 17,
+        "NNP-NN-NN": 13,
+        "FW-FW-NNP": 8,
+        "NN-FW-FW": 6
+      }
+    }
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "víctimas civiles",
+        "position": [
+          1150,
+          1166
+        ],
+        "start": 1150,
+        "end": 1166
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "rueda de prensa",
+        "position": [
+          402,
+          417
+        ],
+        "start": 402,
+        "end": 417
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          323,
+          329
+        ],
+        "start": 323,
+        "end": 329
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          590,
+          597
+        ],
+        "start": 590,
+        "end": 597
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          995,
+          1003
+        ],
+        "start": 995,
+        "end": 1003
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis humanitaria que atraviesa la franja de gaza",
+        "position": [
+          15,
+          65
+        ],
+        "start": 15,
+        "end": 65
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          643,
+          660
+        ],
+        "start": 643,
+        "end": 660
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          166,
+          201
+        ],
+        "start": 166,
+        "end": 201
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          152,
+          161
+        ],
+        "start": 152,
+        "end": 161
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Secretario General de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Stéphane Dujarric",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dujarric",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "OCHA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nueva York",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Oficina de las Naciones Unidas para la Coordinación de Asuntos Humanitarios",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "ATRAVESAR_REITERAR",
+        "objeto": "Organización de las Naciones Unidas"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "ATRAVESAR_REITERAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "ATRAVESAR_REITERAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "REITERAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "REITERAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONTINUAR_REITERAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Secretario General de la ONU",
+        "relacion": "AFIRMAR",
+        "objeto": "Nueva York"
+      },
+      {
+        "sujeto": "Stéphane Dujarric",
+        "relacion": "AFIRMAR",
+        "objeto": "Nueva York"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "SE_ALAR",
+        "objeto": "Oficina de las Naciones Unidas para la Coordinación de Asuntos Humanitarios"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "SE_ALAR",
+        "objeto": "OCHA"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "SE_ALAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INFORMAR_SE_ALAR",
+        "objeto": "Oficina de las Naciones Unidas para la Coordinación de Asuntos Humanitarios"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INFORMAR_SE_ALAR",
+        "objeto": "OCHA"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "ADVERTIR_CONFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Secretario General de la ONU",
+        "relacion": "AFIRMAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.128,
+    "pos": 0.02,
+    "neu": 0.962,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

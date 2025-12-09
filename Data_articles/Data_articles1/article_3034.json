@@ -1,0 +1,649 @@
+{
+  "url": "https://www.telesurtv.net/oposicion-venezolana-celebra-liberacion-de-presos-politicos-y-rechaza-cualquier-gobierno-interino/",
+  "title": "Oposición venezolana celebra liberación de presos políticos y rechaza cualquier gobierno interino - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bancada"
+  ],
+  "text": "El bloque opositor celebró la reciente liberación de más de 1.500 manifestantes detenidos durante las protestas electorales del pasado 28J, pero advirtió que aún quedan ciudadanos encarcelados “solo por pensar distinto”, exigiendo una revisión expedita de estos casos.\n“El déficit democrático ha deteriorado en extremo las instituciones”, declaró el bloque parlamentario, señalando específicamente el colapso de los organismos encargados de la administración de justicia, que “han sucumbido a intereses particulares”.\nEn relación a la estrategia opositora extremista, el grupo parlamentario estableció una posición clara contra la figura del gobierno interino: “Es inaceptable un gobierno interino, pasado o futuro, que pretenda deslegitimar las instituciones del estado venezolano y se atribuya cualidades administrativas sobre los activos de la república en el extranjero”.\nLa declaración enfatiza la necesidad de una transformación política a través de medios pacíficos. “Rechazamos toda violencia que lejos de resolver los problemas los agrava”, afirmaron los legisladores, proponiendo “el diálogo, la negociación y la búsqueda de consensos” como única vía para resolver la crisis nacional.\nLos parlamentarios criticaron duramente la gestión gubernamental, señalando que “la revolución dejó de cumplir las expectativas que generó, sumiendo a la población en la pobreza y en una crisis sin precedentes”. Demandaron mayor transparencia en la administración pública y la implementación de controles efectivos sobre los recursos del Estado.\nLa bancada concluyó su declaración con un llamado a la acción ciudadana, instando a los venezolanos a “seguir luchando por el voto, la participación ciudadana, la igualdad, la libertad, el estado de derecho y el respeto a los derechos humanos”, mientras exigen a las autoridades “respetar a los ciudadanos y apegarse inexplicablemente a la constitución”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/oposicion-venezolana-celebra-liberacion-de-presos-politicos-y-rechaza-cualquier-gobierno-interino/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1828,
+    "message_id": 83809,
+    "date": "2025-01-07T19:55:13+00:00",
+    "text": "teleSUR\nOposición venezolana celebra liberación de presos políticos y rechaza cualquier gobierno interino\nhttps://www.telesurtv.net/oposicion-venezolana-celebra-liberacion-de-presos-politicos-y-rechaza-cualquier-gobierno-interino/",
+    "photo_path": null,
+    "views": 2587,
+    "reactions": {
+      "👍": 33,
+      "🤡": 4,
+      "🖕": 1
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "el bloque opositor celebró la reciente liberación de más de 1.500 manifestantes detenidos durante las protestas electorales del pasado 28j, pero advirtió que aún quedan ciudadanos encarcelados “solo por pensar distinto”, exigiendo una revisión expedita de estos casos. “el déficit democrático ha deteriorado en extremo las instituciones”, declaró el bloque parlamentario, señalando específicamente el colapso de los organismos encargados de la administración de justicia, que “han sucumbido a intereses particulares”. en relación a la estrategia opositora extremista, el grupo parlamentario estableció una posición clara contra la figura del gobierno interino: “es inaceptable un gobierno interino, pasado o futuro, que pretenda deslegitimar las instituciones del estado venezolano y se atribuya cualidades administrativas sobre los activos de la república en el extranjero”. la declaración enfatiza la necesidad de una transformación política a través de medios pacíficos. “rechazamos toda violencia que lejos de resolver los problemas los agrava”, afirmaron los legisladores, proponiendo “el diálogo, la negociación y la búsqueda de consensos” como única vía para resolver la crisis nacional. los parlamentarios criticaron duramente la gestión gubernamental, señalando que “la revolución dejó de cumplir las expectativas que generó, sumiendo a la población en la pobreza y en una crisis sin precedentes”. demandaron mayor transparencia en la administración pública y la implementación de controles efectivos sobre los recursos del estado. la bancada concluyó su declaración con un llamado a la acción ciudadana, instando a los venezolanos a “seguir luchando por el voto, la participación ciudadana, la igualdad, la libertad, el estado de derecho y el respeto a los derechos humanos”, mientras exigen a las autoridades “respetar a los ciudadanos y apegarse inexplicablemente a la constitución”.",
+    "tokens": [
+      "bloque",
+      "opositor",
+      "celebró",
+      "reciente",
+      "liberación",
+      "1.500",
+      "manifestantes",
+      "detenidos",
+      "protestas",
+      "electorales",
+      "pasado",
+      "28j",
+      ",",
+      "advirtió",
+      "aún",
+      "quedan",
+      "ciudadanos",
+      "encarcelados",
+      "“",
+      "solo",
+      "pensar",
+      "distinto",
+      "”",
+      ",",
+      "exigiendo",
+      "revisión",
+      "expedita",
+      "casos",
+      ".",
+      "“",
+      "déficit",
+      "democrático",
+      "deteriorado",
+      "extremo",
+      "instituciones",
+      "”",
+      ",",
+      "declaró",
+      "bloque",
+      "parlamentario",
+      ",",
+      "señalando",
+      "específicamente",
+      "colapso",
+      "organismos",
+      "encargados",
+      "administración",
+      "justicia",
+      ",",
+      "“",
+      "sucumbido",
+      "intereses",
+      "particulares",
+      "”",
+      ".",
+      "relación",
+      "estrategia",
+      "opositora",
+      "extremista",
+      ",",
+      "grupo",
+      "parlamentario",
+      "estableció",
+      "posición",
+      "clara",
+      "figura",
+      "gobierno",
+      "interino",
+      ":",
+      "“",
+      "inaceptable",
+      "gobierno",
+      "interino",
+      ",",
+      "pasado",
+      "futuro",
+      ",",
+      "pretenda",
+      "deslegitimar",
+      "instituciones",
+      "venezolano",
+      "atribuya",
+      "cualidades",
+      "administrativas",
+      "activos",
+      "república",
+      "extranjero",
+      "”",
+      ".",
+      "declaración",
+      "enfatiza",
+      "necesidad",
+      "transformación",
+      "política",
+      "través",
+      "medios",
+      "pacíficos",
+      ".",
+      "“",
+      "rechazamos",
+      "toda",
+      "violencia",
+      "lejos",
+      "resolver",
+      "problemas",
+      "agrava",
+      "”",
+      ",",
+      "afirmaron",
+      "legisladores",
+      ",",
+      "proponiendo",
+      "“",
+      "diálogo",
+      ",",
+      "negociación",
+      "búsqueda",
+      "consensos",
+      "”",
+      "única",
+      "vía",
+      "resolver",
+      "crisis",
+      "nacional",
+      ".",
+      "parlamentarios",
+      "criticaron",
+      "duramente",
+      "gestión",
+      "gubernamental",
+      ",",
+      "señalando",
+      "“",
+      "revolución",
+      "dejó",
+      "cumplir",
+      "expectativas",
+      "generó",
+      ",",
+      "sumiendo",
+      "población",
+      "pobreza",
+      "crisis",
+      "precedentes",
+      "”",
+      ".",
+      "demandaron",
+      "mayor",
+      "transparencia",
+      "administración",
+      "pública",
+      "implementación",
+      "controles",
+      "efectivos",
+      "recursos",
+      ".",
+      "bancada",
+      "concluyó",
+      "declaración",
+      "llamado",
+      "acción",
+      "ciudadana",
+      ",",
+      "instando",
+      "venezolanos",
+      "“",
+      "seguir",
+      "luchando",
+      "voto",
+      ",",
+      "participación",
+      "ciudadana",
+      ",",
+      "igualdad",
+      ",",
+      "libertad",
+      ",",
+      "derecho",
+      "respeto",
+      "derechos",
+      "humanos",
+      "”",
+      ",",
+      "mientras",
+      "exigen",
+      "autoridades",
+      "“",
+      "respetar",
+      "ciudadanos",
+      "apegarse",
+      "inexplicablemente",
+      "constitución",
+      "”",
+      "."
+    ],
+    "token_count": 194,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 12,
+      "NN": 98,
+      "FW": 80,
+      "CD": 2,
+      "NNS": 13,
+      "JJ": 29,
+      "VBP": 9,
+      "IN": 6,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-NN": 60,
+      "NN-FW": 13,
+      "FW-FW": 55,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 4,
+      "JJ-NNS": 2,
+      "NNS-VBP": 9,
+      "VBP-NNS": 2,
+      "VBP-JJ": 7,
+      "JJ-CD": 1,
+      "CD-NN": 1,
+      "NN-JJ": 9,
+      "JJ-NN": 17,
+      "NN-NNS": 3,
+      "FW-NN": 13,
+      "NN-NNP": 3,
+      "NN-IN": 6,
+      "IN-FW": 6,
+      "FW-NNS": 2,
+      "FW-JJ": 6,
+      "JJ-FW": 4,
+      "NN-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-JJ": 1,
+      "NNS-FW": 1,
+      "FW-NNP": 3,
+      "NNP-FW": 1,
+      "VBZ-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-NNS": 1,
+      "VBZ-NNP": 1,
+      "NNP-NNP": 2,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 34,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 40,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 13,
+      "JJ-NN-FW": 1,
+      "FW-FW-NN": 7,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 4,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-NN-NN": 5,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-NN-IN": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "FW-NNP-NN": 1,
+      "FW-FW-JJ": 3,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-FW": 2,
+      "IN-FW-NNS": 1,
+      "JJ-FW-NN": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "FW": 80,
+        "JJ": 29,
+        "NNS": 13,
+        "NNP": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 60,
+        "FW-FW": 55,
+        "JJ-NN": 17,
+        "NN-FW": 13,
+        "FW-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 40,
+        "NN-NN-NN": 34,
+        "JJ-NN-NN": 13,
+        "NN-NN-JJ": 9,
+        "NN-NN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 20,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('”', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "S -> NP ('reciente', 'FW') ('liberación', 'FW') ('de', 'FW') ('más', 'FW') ('de', 'FW') ('1.500', 'CD') NP NP VP VP ('28J', 'CD') (',', ',') NP NP VP (',', ',') NP NP ('expedita', 'FW') ('de', 'FW') ('estos', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('bloque', 'NN') ('opositor', 'NN') ('celebró', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('manifestantes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('detenidos', 'JJ') ('durante', 'JJ') ('las', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('protestas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('electorales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') ('pasado', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('pero', 'NN') ('advirtió', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El bloque opositor celebró la"
+      },
+      {
+        "label": "NP",
+        "text": "manifestantes"
+      },
+      {
+        "label": "NP",
+        "text": "detenidos durante las"
+      },
+      {
+        "label": "VP",
+        "text": "protestas electorales"
+      },
+      {
+        "label": "NP",
+        "text": "electorales"
+      },
+      {
+        "label": "VP",
+        "text": "del pasado"
+      },
+      {
+        "label": "NP",
+        "text": "pero advirtió que"
+      },
+      {
+        "label": "NP",
+        "text": "aún quedan ciudadanos"
+      },
+      {
+        "label": "VP",
+        "text": "encarcelados “ solo por pensar distinto ”"
+      },
+      {
+        "label": "NP",
+        "text": "“ solo por pensar distinto ”"
+      },
+      {
+        "label": "NP",
+        "text": "exigiendo"
+      },
+      {
+        "label": "NP",
+        "text": "una revisión"
+      },
+      {
+        "label": "NP",
+        "text": "casos"
+      },
+      {
+        "label": "NP",
+        "text": "“ El déficit democrático ha deteriorado"
+      },
+      {
+        "label": "NP",
+        "text": "instituciones ”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP bloque/NN opositor/NN celebró/NN la/NN)\n  reciente/FW\n  liberación/FW\n  de/FW\n  más/FW\n  de/FW\n  1.500/CD\n  (NP manifestantes/NNS)\n  (NP detenidos/JJ durante/JJ las/NNS)\n  (VP protestas/VBP (NP electorales/NNS))\n  (VP del/VBP pasado/JJ)\n  28J/CD\n  ,/,\n  (NP pero/NN advirtió/NN que/NN)\n  (NP aún/JJ quedan/NN ciudadanos/NNS)\n  (VP\n    encarcelados/VBP\n    (NP “/JJ solo/NN por/NN pensar/NN distinto/NN ”/NNP))\n  ,/,\n  (NP exigiendo/NN)\n  (NP una/JJ revisión/NN)\n  expedita/FW\n  de/FW\n  estos/FW\n  (NP casos/NN)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP déficit/NN democrático/NN ha/NN deteriorado/NN)\n  en/IN\n  extremo/FW\n  las/FW\n  (NP instituciones/NNS ”/NNP)\n  ,/,\n  (NP declaró/NN el/NN bloque/NN parlamentario/NN)\n  ,/,\n  (NP señalando/JJ específicamente/NN)\n  el/FW\n  (NP colapso/NN)\n  de/IN\n  los/FW\n  (ADJP organismos/JJ)\n  encargados/FW\n  de/FW\n  la/FW\n  administración/FW\n  de/FW\n  justicia/FW\n  ,/,\n  que/FW\n  “/FW\n  (NP han/NN)\n  (VP sucumbido/VBD (NP a/DT intereses/NNS))\n  (VP particulares/VBZ (NP ”/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP relación/VBZ (NP a/DT la/NN))\n  estrategia/FW\n  (NP opositora/NN extremista/NN)\n  ,/,\n  el/FW\n  grupo/FW\n  (NP parlamentario/NN estableció/NN)\n  (NP una/JJ posición/NN clara/NN)\n  (NP contra/JJ la/NN figura/NN del/NN gobierno/NN interino/NN)\n  :/:\n  (NP “/JJ Es/NNP)\n  (NP inaceptable/JJ un/JJ gobierno/NN interino/NN)\n  ,/,\n  (NP pasado/NN o/NN futuro/NN)\n  ,/,\n  (NP que/JJ pretenda/NN deslegitimar/NN)\n  (NP las/JJ instituciones/NNS)\n  del/FW\n  (NP estado/JJ venezolano/NN y/NN se/NN atribuya/NN cualidades/NNS)\n  (VP administrativas/VBP (NP sobre/JJ los/JJ activos/NN))\n  de/IN\n  la/FW\n  república/FW\n  en/FW\n  el/FW\n  extranjero/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP declaración/VBZ enfatiza/JJ)\n  la/FW\n  necesidad/FW\n  de/FW\n  una/FW\n  (NP transformación/NN)\n  (VP política/VBP (NP a/DT través/NN))\n  de/IN\n  medios/FW\n  (NP pacíficos/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Rechazamos/NNP toda/NN violencia/NN que/NN)\n  lejos/FW\n  de/FW\n  resolver/FW\n  los/FW\n  problemas/FW\n  los/FW\n  (NP agrava/JJ ”/NN)\n  ,/,\n  (VP afirmaron/VB (NP los/NN legisladores/NNS))\n  ,/,\n  (NP proponiendo/NN “/NNP el/NN diálogo/NN)\n  ,/,\n  la/FW\n  negociación/FW\n  y/FW\n  la/FW\n  búsqueda/FW\n  de/FW\n  consensos/FW\n  ”/FW\n  (NP como/NN única/NNP vía/NN para/NN resolver/NN la/NN crisis/NN)\n  (ADJP nacional/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "ACCIONES_LEGALES",
+      "LEYES_NORMATIVAS",
+      "JUSTICIA_SOCIAL",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "detenidos durante las protestas",
+        "position": [
+          80,
+          111
+        ],
+        "start": 80,
+        "end": 111
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          339,
+          346
+        ],
+        "start": 339,
+        "end": 346
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          145,
+          153
+        ],
+        "start": 145,
+        "end": 153
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "igualdad",
+        "position": [
+          1704,
+          1712
+        ],
+        "start": 1704,
+        "end": 1712
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "participación ciudadana",
+        "position": [
+          1676,
+          1699
+        ],
+        "start": 1676,
+        "end": 1699
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "demandaron",
+        "position": [
+          1407,
+          1417
+        ],
+        "start": 1407,
+        "end": 1417
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "constitución",
+        "position": [
+          1881,
+          1893
+        ],
+        "start": 1881,
+        "end": 1893
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado venezolano",
+        "position": [
+          764,
+          781
+        ],
+        "start": 764,
+        "end": 781
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1767,
+          1783
+        ],
+        "start": 1767,
+        "end": 1783
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500 manifestantes",
+        "position": [
+          62,
+          79
+        ],
+        "start": 62,
+        "end": 79
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 1.500",
+        "position": [
+          53,
+          65
+        ],
+        "start": 53,
+        "end": 65
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.8402,
+    "pos": 0.022,
+    "neu": 0.933,
+    "neg": 0.045,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,797 @@
+{
+  "url": "https://www.telesurtv.net/mexico-solicita-a-israel-garantizar-flotilla/",
+  "title": "México solicita a Israel garantizar la integridad de ciudadanos a bordo de flotilla humanitaria a Gaza - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "flotilla",
+    "Flotilla Global Sumud",
+    "Gaza",
+    "México"
+  ],
+  "text": "La Secretaría de Relaciones Exteriores de México informó este domingo que pidió al Gobierno de Israel respetar los derechos de los ciudadanos mexicanos que integran la flotilla internacional Global Sumud. Se trata de una misión civil que busca romper el bloqueo impuesto a la Franja de Gaza y entregar ayuda humanitaria a su población, dos de cuyas embarcaciones fueron bombardeadas la semana pasada por drones israelíes.\nLa flotilla Global Sumud forma parte de una iniciativa de alcance internacional impulsada por la Freedom Flotilla Coalition y el Movimiento Global a Gaza. En ella participan alrededor de 700 personas provenientes de más de 45 países, entre ellas legisladores, médicos, periodistas y representantes de organizaciones sociales.\nA través de un comunicado oficial, la Cancillería mexicana detalló que mantiene un acompañamiento consular desde el inicio de la travesía, el pasado 1 de septiembre, cuando las embarcaciones zarparon desde el puerto de Barcelona.\nSegún la información recabada, los participantes se encuentran a salvo y continúan su trayecto en diferentes embarcaciones de la flotilla luego de dos ataques con drones a embarcaciones de la misión solidaria, atribuidos a la entidad sionista.\n\n\nEl seguimiento ha sido coordinado por el Consulado de México en esa ciudad y la Embajada de México en Argelia, en contacto directo con los siete ciudadanos mexicanos que participan en la expedición.\nDurante la escala realizada en Túnez, representantes consulares visitaron a los integrantes mexicanos del convoy, con el objetivo de evaluar sus condiciones y ofrecer orientación sobre sus derechos, así como protocolos de actuación ante posibles contingencias. La cónsul honoraria sostuvo reuniones presenciales con los participantes y entregó documentación preventiva.\nEl comunicado también hace referencia a incidentes ocurridos los días 8 y 10 de septiembre, tras los cuales el embajador mexicano en Argelia estableció comunicación con los connacionales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-solicita-a-israel-garantizar-flotilla/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 71,
+    "message_id": 104629,
+    "date": "2025-09-15T13:55:07+00:00",
+    "text": "teleSUR\nMéxico solicita a Israel garantizar la integridad de ciudadanos a bordo de flotilla humanitaria a Gaza\nhttps://www.telesurtv.net/mexico-solicita-a-israel-garantizar-flotilla/",
+    "photo_path": null,
+    "views": 1770,
+    "reactions": {
+      "👍": 46,
+      "❤": 6
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "la secretaría de relaciones exteriores de méxico informó este domingo que pidió al gobierno de israel respetar los derechos de los ciudadanos mexicanos que integran la flotilla internacional global sumud. se trata de una misión civil que busca romper el bloqueo impuesto a la franja de gaza y entregar ayuda humanitaria a su población, dos de cuyas embarcaciones fueron bombardeadas la semana pasada por drones israelíes. la flotilla global sumud forma parte de una iniciativa de alcance internacional impulsada por la freedom flotilla coalition y el movimiento global a gaza. en ella participan alrededor de 700 personas provenientes de más de 45 países, entre ellas legisladores, médicos, periodistas y representantes de organizaciones sociales. a través de un comunicado oficial, la cancillería mexicana detalló que mantiene un acompañamiento consular desde el inicio de la travesía, el pasado 1 de septiembre, cuando las embarcaciones zarparon desde el puerto de barcelona. según la información recabada, los participantes se encuentran a salvo y continúan su trayecto en diferentes embarcaciones de la flotilla luego de dos ataques con drones a embarcaciones de la misión solidaria, atribuidos a la entidad sionista. el seguimiento ha sido coordinado por el consulado de méxico en esa ciudad y la embajada de méxico en argelia, en contacto directo con los siete ciudadanos mexicanos que participan en la expedición. durante la escala realizada en túnez, representantes consulares visitaron a los integrantes mexicanos del convoy, con el objetivo de evaluar sus condiciones y ofrecer orientación sobre sus derechos, así como protocolos de actuación ante posibles contingencias. la cónsul honoraria sostuvo reuniones presenciales con los participantes y entregó documentación preventiva. el comunicado también hace referencia a incidentes ocurridos los días 8 y 10 de septiembre, tras los cuales el embajador mexicano en argelia estableció comunicación con los connacionales.",
+    "tokens": [
+      "secretaría",
+      "relaciones",
+      "exteriores",
+      "méxico",
+      "informó",
+      "domingo",
+      "pidió",
+      "gobierno",
+      "israel",
+      "respetar",
+      "derechos",
+      "ciudadanos",
+      "mexicanos",
+      "integran",
+      "flotilla",
+      "internacional",
+      "global",
+      "sumud",
+      ".",
+      "trata",
+      "misión",
+      "civil",
+      "busca",
+      "romper",
+      "bloqueo",
+      "impuesto",
+      "franja",
+      "gaza",
+      "entregar",
+      "ayuda",
+      "humanitaria",
+      "población",
+      ",",
+      "dos",
+      "cuyas",
+      "embarcaciones",
+      "bombardeadas",
+      "semana",
+      "pasada",
+      "drones",
+      "israelíes",
+      ".",
+      "flotilla",
+      "global",
+      "sumud",
+      "forma",
+      "parte",
+      "iniciativa",
+      "alcance",
+      "internacional",
+      "impulsada",
+      "freedom",
+      "flotilla",
+      "coalition",
+      "movimiento",
+      "global",
+      "gaza",
+      ".",
+      "participan",
+      "alrededor",
+      "700",
+      "personas",
+      "provenientes",
+      "45",
+      "países",
+      ",",
+      "legisladores",
+      ",",
+      "médicos",
+      ",",
+      "periodistas",
+      "representantes",
+      "organizaciones",
+      "sociales",
+      ".",
+      "través",
+      "comunicado",
+      "oficial",
+      ",",
+      "cancillería",
+      "mexicana",
+      "detalló",
+      "mantiene",
+      "acompañamiento",
+      "consular",
+      "inicio",
+      "travesía",
+      ",",
+      "pasado",
+      "1",
+      "septiembre",
+      ",",
+      "embarcaciones",
+      "zarparon",
+      "puerto",
+      "barcelona",
+      ".",
+      "según",
+      "información",
+      "recabada",
+      ",",
+      "participantes",
+      "encuentran",
+      "salvo",
+      "continúan",
+      "trayecto",
+      "diferentes",
+      "embarcaciones",
+      "flotilla",
+      "luego",
+      "dos",
+      "ataques",
+      "drones",
+      "embarcaciones",
+      "misión",
+      "solidaria",
+      ",",
+      "atribuidos",
+      "entidad",
+      "sionista",
+      ".",
+      "seguimiento",
+      "sido",
+      "coordinado",
+      "consulado",
+      "méxico",
+      "ciudad",
+      "embajada",
+      "méxico",
+      "argelia",
+      ",",
+      "contacto",
+      "directo",
+      "siete",
+      "ciudadanos",
+      "mexicanos",
+      "participan",
+      "expedición",
+      ".",
+      "escala",
+      "realizada",
+      "túnez",
+      ",",
+      "representantes",
+      "consulares",
+      "visitaron",
+      "integrantes",
+      "mexicanos",
+      "convoy",
+      ",",
+      "objetivo",
+      "evaluar",
+      "condiciones",
+      "ofrecer",
+      "orientación",
+      "derechos",
+      ",",
+      "así",
+      "protocolos",
+      "actuación",
+      "posibles",
+      "contingencias",
+      ".",
+      "cónsul",
+      "honoraria",
+      "sostuvo",
+      "reuniones",
+      "presenciales",
+      "participantes",
+      "entregó",
+      "documentación",
+      "preventiva",
+      ".",
+      "comunicado",
+      "hace",
+      "referencia",
+      "incidentes",
+      "ocurridos",
+      "días",
+      "8",
+      "10",
+      "septiembre",
+      ",",
+      "tras",
+      "cuales",
+      "embajador",
+      "mexicano",
+      "argelia",
+      "estableció",
+      "comunicación",
+      "connacionales",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "IN": 22,
+      "VBP": 16,
+      "NN": 84,
+      "JJ": 31,
+      "FW": 47,
+      "NNS": 27,
+      "CC": 1,
+      "CD": 3,
+      "VBZ": 4,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 14,
+      "NNP-IN": 3,
+      "IN-NNP": 5,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NN": 46,
+      "NN-JJ": 5,
+      "JJ-NNP": 2,
+      "NNP-NN": 9,
+      "NN-IN": 11,
+      "IN-FW": 9,
+      "FW-JJ": 4,
+      "JJ-NN": 17,
+      "JJ-JJ": 4,
+      "NN-FW": 7,
+      "FW-FW": 21,
+      "NN-NNS": 8,
+      "NNS-VBP": 15,
+      "VBP-JJ": 10,
+      "FW-NNP": 10,
+      "NNP-FW": 9,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "IN-NN": 2,
+      "FW-NN": 9,
+      "VBP-NNP": 2,
+      "NN-NNP": 5,
+      "NNP-JJ": 1,
+      "IN-JJ": 3,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 2,
+      "FW-CD": 1,
+      "NNS-JJ": 1,
+      "JJ-NNS": 6,
+      "NNS-IN": 3,
+      "IN-NNS": 2,
+      "NNS-NNS": 4,
+      "VBP-IN": 1,
+      "JJ-IN": 1,
+      "NNS-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "FW-NNS": 2,
+      "VBP-NNS": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "VBZ-NNS": 1,
+      "NNS-FW": 1,
+      "NN-VBZ": 1,
+      "JJ-CD": 1,
+      "CD-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 26,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-IN": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 13,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 10,
+      "VBP-JJ-NN": 8,
+      "NN-NN-FW": 3,
+      "NN-FW-NNP": 3,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NNS": 4,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 5,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "FW-FW-NN": 4,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-IN-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NN-IN-NNS": 1,
+      "NNS-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-NNS": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-FW-FW": 2,
+      "FW-NN-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "FW-JJ-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "VBP-NNS-VBP": 1,
+      "IN-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "FW": 47,
+        "NNP": 40,
+        "JJ": 31,
+        "NNS": 27
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "FW-FW": 21,
+        "JJ-NN": 17,
+        "NNS-VBP": 15,
+        "NNP-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 13,
+        "NNS-VBP-JJ": 10,
+        "JJ-NN-NN": 8,
+        "VBP-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 76,
+      "PP": 12,
+      "VP": 22,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 8,
+        "weight": 0.0645
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0242
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('Argelia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "S -> NP PP PP VP PP ('de', 'IN') ('los', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Secretaría', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('Relaciones', 'NNP') ('Exteriores', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "VP -> ('informó', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('domingo', 'NN') ('que', 'NN') ('pidió', 'NN')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Secretaría"
+      },
+      {
+        "label": "PP",
+        "text": "de Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores"
+      },
+      {
+        "label": "PP",
+        "text": "de México"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "VP",
+        "text": "informó este domingo que pidió al Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo que pidió"
+      },
+      {
+        "label": "NP",
+        "text": "al Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel respetar los derechos"
+      },
+      {
+        "label": "NP",
+        "text": "Israel respetar los derechos"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos mexicanos que integran la"
+      },
+      {
+        "label": "NP",
+        "text": "flotilla internacional Global Sumud"
+      },
+      {
+        "label": "NP",
+        "text": "Se trata"
+      },
+      {
+        "label": "NP",
+        "text": "civil que busca"
+      },
+      {
+        "label": "VP",
+        "text": "romper el bloqueo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Secretaría/NNP)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  (PP de/IN (NP México/NNP))\n  (VP\n    informó/VBP\n    (NP este/NN domingo/NN que/NN pidió/NN)\n    (NP al/JJ Gobierno/NNP))\n  (PP de/IN (NP Israel/NNP respetar/NN los/NN derechos/NN))\n  de/IN\n  los/FW\n  (NP ciudadanos/JJ mexicanos/NN que/NN integran/NN la/NN)\n  (NP flotilla/JJ internacional/JJ Global/NNP Sumud/NNP)\n  ./.)",
+      "(S\n  (NP Se/NNP trata/NN)\n  de/FW\n  una/FW\n  misión/FW\n  (NP civil/JJ que/NN busca/NNS)\n  (VP romper/VBP (NP el/JJ bloqueo/NN))\n  (VP impuesto/VBZ (NP a/DT la/NN Franja/NNP))\n  (PP de/IN (NP Gaza/NNP))\n  y/CC\n  (NP entregar/JJ ayuda/NN)\n  (VP humanitaria/VBD (NP a/DT su/NN población/NN))\n  ,/,\n  dos/FW\n  de/FW\n  cuyas/FW\n  (NP embarcaciones/NNS)\n  (VP fueron/VBP (NP bombardeadas/JJ la/NN))\n  semana/FW\n  (NP pasada/NN por/NN drones/NNS israelíes/NN)\n  ./.)",
+      "(S\n  (NP La/NNP flotilla/NN Global/NNP Sumud/NNP)\n  (NP forma/JJ parte/NN)\n  (PP de/IN (NP una/JJ iniciativa/NN))\n  de/FW\n  (NP alcance/NN)\n  (NP\n    internacional/JJ\n    impulsada/NN\n    por/NN\n    la/NN\n    Freedom/NNP\n    Flotilla/NNP\n    Coalition/NNP\n    y/NNP\n    el/NN\n    Movimiento/NNP\n    Global/NNP)\n  (NP a/DT Gaza/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP ella/NN participan/NN alrededor/NN)\n  de/IN\n  700/CD\n  (NP personas/NNS)\n  (VP provenientes/VBZ)\n  de/IN\n  más/FW\n  de/FW\n  45/CD\n  (NP países/NNS)\n  ,/,\n  entre/FW\n  ellas/FW\n  (NP legisladores/NNS)\n  ,/,\n  (NP médicos/NN)\n  ,/,\n  (NP periodistas/JJ y/NN)\n  (VP representantes/VBZ)\n  (PP de/IN (NP organizaciones/NNS sociales/NNS))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN oficial/NN))\n  ,/,\n  la/FW\n  (NP Cancillería/NNP)\n  mexicana/FW\n  (NP detalló/NN que/NN mantiene/NN)\n  (ADJP un/JJ)\n  (PP acompañamiento/IN (NP consular/JJ desde/NN el/NN inicio/NN))\n  de/IN\n  la/FW\n  travesía/FW\n  ,/,\n  (VP el/VBP pasado/JJ)\n  1/CD\n  de/FW\n  septiembre/FW\n  ,/,\n  (VP\n    cuando/VBP\n    (NP\n      las/JJ\n      embarcaciones/NNS\n      zarparon/NNP\n      desde/NN\n      el/NN\n      puerto/NN))\n  (PP de/IN (NP Barcelona/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "FECHAS_HORAS",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          262,
+          270
+        ],
+        "start": 262,
+        "end": 270
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          1704,
+          1711
+        ],
+        "start": 1704,
+        "end": 1711
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          49,
+          56
+        ],
+        "start": 49,
+        "end": 56
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo impuesto a la franja de gaza",
+        "position": [
+          254,
+          290
+        ],
+        "start": 254,
+        "end": 290
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          302,
+          319
+        ],
+        "start": 302,
+        "end": 319
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo impuesto a la franja de gaza y entregar ayuda humanitaria a su población",
+        "position": [
+          254,
+          334
+        ],
+        "start": 254,
+        "end": 334
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de israel respetar",
+        "position": [
+          83,
+          110
+        ],
+        "start": 83,
+        "end": 110
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          957,
+          963
+        ],
+        "start": 957,
+        "end": 963
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          42,
+          48
+        ],
+        "start": 42,
+        "end": 48
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "días 8 y 10 de septiembre",
+        "position": [
+          1858,
+          1883
+        ],
+        "start": 1858,
+        "end": 1883
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          254,
+          261
+        ],
+        "start": 254,
+        "end": 261
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "700 personas",
+        "position": [
+          609,
+          621
+        ],
+        "start": 609,
+        "end": 621
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 700",
+        "position": [
+          596,
+          612
+        ],
+        "start": 596,
+        "end": 612
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 45",
+        "position": [
+          638,
+          647
+        ],
+        "start": 638,
+        "end": 647
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "semana pasada",
+        "position": [
+          386,
+          399
+        ],
+        "start": 386,
+        "end": 399
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Movimiento Global",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Embajada de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Argelia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Barcelona",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretaría de Relaciones Exteriores de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Túnez",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Freedom Flotilla Coalition",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Secretaría de Relaciones Exteriores de México",
+        "relacion": "INFORMAR",
+        "objeto": "Gobierno de Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.802,
+    "pos": 0.029,
+    "neu": 0.971,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

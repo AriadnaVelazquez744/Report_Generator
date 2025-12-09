@@ -1,0 +1,801 @@
+{
+  "url": "https://www.telesurtv.net/maduro-profundiza-modelo-comunal/",
+  "title": "Presidente Maduro sigue consolidando el Sistema de Gobierno Popular y Comunal - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "consulta nacional popular",
+    "Democracia",
+    "Gobierno comunal",
+    "Poder Popular",
+    "Soberanía",
+    "Venezuela"
+  ],
+  "text": "El Presidente de Venezuela, Nicolás Maduro Moros, encabezó una jornada de trabajo en el estado Miranda para fortalecer el Sistema de Gobierno Comunal, donde se evidenció el avance organizativo de las comunidades en Petare, municipio Sucre.\n\n\n\nMientras tanto, el Vicepresidente Sectorial para el Socialismo Social y Territorial, Héctor Rodríguez, destacó la capacidad de autogestión del Poder Popular, que ha logrado articular proyectos comunales en todos los circuitos del país.\nLEA TAMBIÉN\nVenezuela rechaza estigmatización de Marco Rubio contra misiones médicas cubanas\nEsta estructura de base permitirá desarrollar la próxima Consulta Nacional Popular, donde se demostrará la madurez política alcanzada por las organizaciones sociales en la construcción del socialismo territorial.\nLa iniciativa refuerza la participación protagónica de las comunidades, transformando las estructuras tradicionales de poder en modelos democráticos desde las bases.\n\n\nCon esta metodología, el pueblo organizado asume directamente la planificación de obras y servicios, garantizando respuestas efectivas a sus necesidades más urgentes. De esta manera, el proceso consolida una nueva geometría del poder donde las decisiones nacen en los sectores populares, fortaleciendo la soberanía y justicia social.\nLEA TAMBIÉN\nCilia Flores: Casa de Abuelos materializa justicia social en Venezuela\nAsimismo, el líder venezolano enfatizó que los Sistemas de Autogobierno Popular representan una innovación democrática sin precedentes, donde el 66,7% de avance nacional marca el camino hacia un nuevo modelo de gestión territorial. Subrayó que esta arquitectura del Poder Popular, operará mediante siete equipos de trabajo especializados, diseñados para materializar las Siete Transformaciones desde las bases comunitarias.\nEntre tanto, la Primera Dama de Venezuela, Cilia Flores, ratificó que este modelo de desarrollo endógeno prioriza la justicia distributiva, con lo cual se convertirán los recursos nacionales como el Lago de Asfalto en motores de soberanía económica para financiar proyectos sociales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/maduro-profundiza-modelo-comunal/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 257,
+    "message_id": 90427,
+    "date": "2025-03-27T23:55:12+00:00",
+    "text": "teleSUR\nMaduro profundiza modelo comunal en La Dolorita\nhttps://www.telesurtv.net/maduro-profundiza-modelo-comunal/",
+    "photo_path": null,
+    "views": 1388,
+    "reactions": {
+      "👏": 33,
+      "👍": 6
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro moros, encabezó una jornada de trabajo en el estado miranda para fortalecer el sistema de gobierno comunal, donde se evidenció el avance organizativo de las comunidades en petare, municipio sucre. mientras tanto, el vicepresidente sectorial para el socialismo social y territorial, héctor rodríguez, destacó la capacidad de autogestión del poder popular, que ha logrado articular proyectos comunales en todos los circuitos del país. esta estructura de base permitirá desarrollar la próxima consulta nacional popular, donde se demostrará la madurez política alcanzada por las organizaciones sociales en la construcción del socialismo territorial. la iniciativa refuerza la participación protagónica de las comunidades, transformando las estructuras tradicionales de poder en modelos democráticos desde las bases. con esta metodología, el pueblo organizado asume directamente la planificación de obras y servicios, garantizando respuestas efectivas a sus necesidades más urgentes. de esta manera, el proceso consolida una nueva geometría del poder donde las decisiones nacen en los sectores populares, fortaleciendo la soberanía y justicia social. asimismo, el líder venezolano enfatizó que los sistemas de autogobierno popular representan una innovación democrática sin precedentes, donde el 66,7% de avance nacional marca el camino hacia un nuevo modelo de gestión territorial. subrayó que esta arquitectura del poder popular, operará mediante siete equipos de trabajo especializados, diseñados para materializar las siete transformaciones desde las bases comunitarias. entre tanto, la primera dama de venezuela, cilia flores, ratificó que este modelo de desarrollo endógeno prioriza la justicia distributiva, con lo cual se convertirán los recursos nacionales como el lago de asfalto en motores de soberanía económica para financiar proyectos sociales.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      "moros",
+      ",",
+      "encabezó",
+      "jornada",
+      "trabajo",
+      "miranda",
+      "fortalecer",
+      "sistema",
+      "gobierno",
+      "comunal",
+      ",",
+      "evidenció",
+      "avance",
+      "organizativo",
+      "comunidades",
+      "petare",
+      ",",
+      "municipio",
+      "sucre",
+      ".",
+      "mientras",
+      ",",
+      "vicepresidente",
+      "sectorial",
+      "socialismo",
+      "social",
+      "territorial",
+      ",",
+      "héctor",
+      "rodríguez",
+      ",",
+      "destacó",
+      "capacidad",
+      "autogestión",
+      "poder",
+      "popular",
+      ",",
+      "logrado",
+      "articular",
+      "proyectos",
+      "comunales",
+      "circuitos",
+      "país",
+      ".",
+      "estructura",
+      "base",
+      "permitirá",
+      "desarrollar",
+      "próxima",
+      "consulta",
+      "nacional",
+      "popular",
+      ",",
+      "demostrará",
+      "madurez",
+      "política",
+      "alcanzada",
+      "organizaciones",
+      "sociales",
+      "construcción",
+      "socialismo",
+      "territorial",
+      ".",
+      "iniciativa",
+      "refuerza",
+      "participación",
+      "protagónica",
+      "comunidades",
+      ",",
+      "transformando",
+      "estructuras",
+      "tradicionales",
+      "poder",
+      "modelos",
+      "democráticos",
+      "bases",
+      ".",
+      "metodología",
+      ",",
+      "pueblo",
+      "organizado",
+      "asume",
+      "directamente",
+      "planificación",
+      "obras",
+      "servicios",
+      ",",
+      "garantizando",
+      "respuestas",
+      "efectivas",
+      "necesidades",
+      "urgentes",
+      ".",
+      "manera",
+      ",",
+      "proceso",
+      "consolida",
+      "nueva",
+      "geometría",
+      "poder",
+      "decisiones",
+      "nacen",
+      "sectores",
+      "populares",
+      ",",
+      "fortaleciendo",
+      "soberanía",
+      "justicia",
+      "social",
+      ".",
+      "asimismo",
+      ",",
+      "líder",
+      "venezolano",
+      "enfatizó",
+      "sistemas",
+      "autogobierno",
+      "popular",
+      "representan",
+      "innovación",
+      "democrática",
+      "precedentes",
+      ",",
+      "66,7",
+      "%",
+      "avance",
+      "nacional",
+      "marca",
+      "camino",
+      "hacia",
+      "nuevo",
+      "modelo",
+      "gestión",
+      "territorial",
+      ".",
+      "subrayó",
+      "arquitectura",
+      "poder",
+      "popular",
+      ",",
+      "operará",
+      "mediante",
+      "siete",
+      "equipos",
+      "trabajo",
+      "especializados",
+      ",",
+      "diseñados",
+      "materializar",
+      "siete",
+      "transformaciones",
+      "bases",
+      "comunitarias",
+      ".",
+      ",",
+      "primera",
+      "dama",
+      "venezuela",
+      ",",
+      "cilia",
+      "flores",
+      ",",
+      "ratificó",
+      "modelo",
+      "desarrollo",
+      "endógeno",
+      "prioriza",
+      "justicia",
+      "distributiva",
+      ",",
+      "convertirán",
+      "recursos",
+      "nacionales",
+      "lago",
+      "asfalto",
+      "motores",
+      "soberanía",
+      "económica",
+      "financiar",
+      "proyectos",
+      "sociales",
+      "."
+    ],
+    "token_count": 187,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 59,
+      "FW": 54,
+      "VBP": 12,
+      "JJ": 25,
+      "NN": 92,
+      "IN": 11,
+      "NNS": 19,
+      "RB": 2,
+      "VBZ": 5,
+      "JJR": 1,
+      "CD": 1,
+      "MD": 1,
+      "VB": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 29,
+      "NNP-FW": 9,
+      "FW-NNP": 10,
+      "NNP-VBP": 2,
+      "VBP-JJ": 6,
+      "JJ-NN": 11,
+      "NN-IN": 6,
+      "IN-FW": 4,
+      "FW-FW": 29,
+      "NNP-NN": 12,
+      "NN-NN": 56,
+      "NN-FW": 7,
+      "FW-NNS": 5,
+      "NNS-IN": 2,
+      "IN-NNP": 3,
+      "NNP-IN": 2,
+      "IN-JJ": 1,
+      "JJ-NNP": 6,
+      "NN-NNP": 5,
+      "NN-JJ": 6,
+      "NN-NNS": 8,
+      "NNS-VBP": 8,
+      "NNP-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-FW": 2,
+      "NNS-NNP": 3,
+      "IN-NN": 3,
+      "FW-NN": 7,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "FW-JJ": 3,
+      "JJ-JJ": 3,
+      "NN-VBP": 2,
+      "VBP-NN": 2,
+      "VBP-NNS": 2,
+      "NNS-RB": 1,
+      "RB-IN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 4,
+      "NNP-VBZ": 3,
+      "JJ-FW": 2,
+      "VBZ-JJR": 1,
+      "JJR-NN": 1,
+      "NN-VBZ": 1,
+      "JJ-RB": 1,
+      "RB-CD": 1,
+      "CD-NNS": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-NNP": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 11,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 19,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 11,
+      "NN-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-NNP-NN": 8,
+      "NN-NN-NN": 30,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 4,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 5,
+      "NN-NN-IN": 3,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 3,
+      "JJ-NN-NN": 8,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 5,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NNS-NNP-VBP": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-NNS-RB": 1,
+      "NNS-RB-IN": 1,
+      "RB-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-JJ-NNP": 2,
+      "NNP-IN-NNP": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-VBZ-JJR": 1,
+      "VBZ-JJR-NN": 1,
+      "JJR-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-RB": 1,
+      "JJ-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "NNP": 59,
+        "FW": 54,
+        "JJ": 25,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "NNP-NNP": 29,
+        "FW-FW": 29,
+        "NNP-NN": 12,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 19,
+        "NNP-NNP-NNP": 11,
+        "NNP-NN-NN": 11,
+        "NNP-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 75,
+      "VP": 10,
+      "PP": 5,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.03
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('comunidades', 'NNS')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') VP ('de', 'IN') ('trabajo', 'FW') ('en', 'FW') ('el', 'FW') ('estado', 'FW') NP ('el', 'FW') NP ('de', 'FW') NP (',', ',') NP ('organizativo', 'FW') ('de', 'FW') ('las', 'FW') NP PP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Presidente', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP') ('Moros', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('encabezó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('jornada', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Miranda', 'NNP') ('para', 'NN') ('fortalecer', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro Moros"
+      },
+      {
+        "label": "VP",
+        "text": "encabezó una jornada"
+      },
+      {
+        "label": "NP",
+        "text": "una jornada"
+      },
+      {
+        "label": "NP",
+        "text": "Miranda para fortalecer"
+      },
+      {
+        "label": "NP",
+        "text": "Sistema"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno Comunal"
+      },
+      {
+        "label": "NP",
+        "text": "donde se evidenció el avance"
+      },
+      {
+        "label": "NP",
+        "text": "comunidades"
+      },
+      {
+        "label": "PP",
+        "text": "en Petare"
+      },
+      {
+        "label": "NP",
+        "text": "Petare"
+      },
+      {
+        "label": "NP",
+        "text": "municipio Sucre"
+      },
+      {
+        "label": "NP",
+        "text": "Mientras tanto"
+      },
+      {
+        "label": "NP",
+        "text": "Vicepresidente Sectorial para el Socialismo Social y Territorial"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Presidente/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP Moros/NNP)\n  ,/,\n  (VP encabezó/VBZ (NP una/JJ jornada/NN))\n  de/IN\n  trabajo/FW\n  en/FW\n  el/FW\n  estado/FW\n  (NP Miranda/NNP para/NN fortalecer/NN)\n  el/FW\n  (NP Sistema/NNP)\n  de/FW\n  (NP Gobierno/NNP Comunal/NNP)\n  ,/,\n  (NP donde/NN se/NN evidenció/NN el/NN avance/NN)\n  organizativo/FW\n  de/FW\n  las/FW\n  (NP comunidades/NNS)\n  (PP en/IN (NP Petare/NNP))\n  ,/,\n  (NP municipio/NN Sucre/NNP)\n  ./.)",
+      "(S\n  (NP Mientras/NNP tanto/NN)\n  ,/,\n  el/FW\n  (NP\n    Vicepresidente/NNP\n    Sectorial/NNP\n    para/NN\n    el/NN\n    Socialismo/NNP\n    Social/NNP\n    y/NNP\n    Territorial/NNP)\n  ,/,\n  (NP Héctor/NNP Rodríguez/NNP)\n  ,/,\n  (NP destacó/NN)\n  la/FW\n  capacidad/FW\n  de/FW\n  autogestión/FW\n  del/FW\n  (NP Poder/NNP Popular/NNP)\n  ,/,\n  (NP que/NN ha/NN logrado/NN)\n  (NP articular/JJ proyectos/NN comunales/NNS)\n  (VP en/VBP (NP todos/JJ los/NN circuitos/NN del/NN país/NN))\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    Venezuela/NNP\n    rechaza/NN\n    estigmatización/NN)\n  (PP de/IN (NP Marco/NNP Rubio/NNP))\n  (NP contra/JJ misiones/NNS)\n  médicas/FW\n  (NP cubanas/NNS Esta/NNP estructura/NN)\n  (PP de/IN (NP base/NN permitirá/NN))\n  (NP\n    desarrollar/JJ\n    la/NN\n    próxima/NN\n    Consulta/NNP\n    Nacional/NNP\n    Popular/NNP)\n  ,/,\n  (NP donde/NN se/NN demostrará/NN la/NN)\n  madurez/FW\n  (NP\n    política/NN\n    alcanzada/NN\n    por/NN\n    las/NN\n    organizaciones/NNS\n    sociales/NNS)\n  (VP en/VBP)\n  la/FW\n  construcción/FW\n  del/FW\n  (NP socialismo/JJ territorial/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  iniciativa/FW\n  (NP refuerza/NN)\n  la/FW\n  participación/FW\n  protagónica/FW\n  de/FW\n  las/FW\n  (NP comunidades/NNS)\n  ,/,\n  transformando/EX\n  (NP las/NNS)\n  (VP estructuras/VBP (NP tradicionales/NNS))\n  de/FW\n  poder/FW\n  en/FW\n  modelos/FW\n  democráticos/FW\n  desde/FW\n  (NP las/NN bases/NNS)\n  ./.)",
+      "(S\n  (NP Con/NNP esta/NN metodología/NN)\n  ,/,\n  el/FW\n  pueblo/FW\n  organizado/FW\n  asume/FW\n  directamente/FW\n  la/FW\n  planificación/FW\n  de/FW\n  obras/FW\n  y/FW\n  (NP servicios/NNS)\n  ,/,\n  (NP garantizando/NN respuestas/NNS)\n  (VP efectivas/VBP (NP a/DT sus/NN))\n  (VP necesidades/VBZ (NP más/JJ urgentes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "JUSTICIA_SOCIAL",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          74,
+          81
+        ],
+        "start": 74,
+        "end": 81
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          1851,
+          1859
+        ],
+        "start": 1851,
+        "end": 1859
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          346,
+          353
+        ],
+        "start": 346,
+        "end": 353
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1602,
+          1609
+        ],
+        "start": 1602,
+        "end": 1609
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "sucre",
+        "position": [
+          233,
+          238
+        ],
+        "start": 233,
+        "end": 238
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado miranda",
+        "position": [
+          88,
+          102
+        ],
+        "start": 88,
+        "end": 102
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "justicia social",
+        "position": [
+          1270,
+          1285
+        ],
+        "start": 1270,
+        "end": 1285
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Héctor Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vicepresidente Sectorial para el Socialismo Social y Territorial",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Marco Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicolás Maduro Moros",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cilia Flores",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Poder Popular",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consulta Nacional Popular",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "estado Miranda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sucre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Casa de Abuelos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Petare",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lago de Asfalto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Poder Popular",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sistema de Gobierno Comunal",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "ENCABEZAR",
+        "objeto": "estado Miranda"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "ENCABEZAR",
+        "objeto": "Sistema de Gobierno Comunal"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "ENCABEZAR",
+        "objeto": "Petare"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "ENCABEZAR",
+        "objeto": "Sucre"
+      },
+      {
+        "sujeto": "Vicepresidente Sectorial para el Socialismo Social y Territorial",
+        "relacion": "DESTACAR",
+        "objeto": "Poder Popular"
+      },
+      {
+        "sujeto": "Héctor Rodríguez",
+        "relacion": "DESTACAR",
+        "objeto": "Poder Popular"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RECHAZAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RECHAZAR",
+        "objeto": "Consulta Nacional Popular"
+      },
+      {
+        "sujeto": "Marco Rubio",
+        "relacion": "RECHAZAR",
+        "objeto": "Consulta Nacional Popular"
+      },
+      {
+        "sujeto": "Cilia Flores",
+        "relacion": "ES",
+        "objeto": "Casa de Abuelos"
+      },
+      {
+        "sujeto": "Cilia Flores",
+        "relacion": "RATIFICAR",
+        "objeto": "Lago de Asfalto"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8402,
+    "pos": 0.046,
+    "neu": 0.942,
+    "neg": 0.012,
+    "label": "positive"
+  }
+}

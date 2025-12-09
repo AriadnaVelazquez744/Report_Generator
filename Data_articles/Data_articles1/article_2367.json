@@ -1,0 +1,619 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-y-colombia-acuerdan-estrategia-conjunta-para-combatir-grupos-armados-en-la-zona-fronteriza/",
+  "title": "Venezuela y Colombia acuerdan estrategia conjunta para combatir grupos armados en la zona fronteriza - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Catatumbo",
+    "Colombia",
+    "Gustavo Petro",
+    "Nicolás Maduro",
+    "Venezuela",
+    "Zona foronteriza"
+  ],
+  "text": "\nEn declaraciones públicas este jueves 23 de enero, Petro confirmó acciones directas para mitigar la violencia y el crimen transfronterizo.\nDesde Haití, donde actualmente se encuentra, el mandatario colombiano dijo haber mantenido comunicaciones directas con el gobierno venezolano, específicamente con el presidente Nicolás Maduro, para diseñar un plan conjunto de erradicación de bandas armadas. La estrategia se centra especialmente en la región del Catatumbo, un área históricamente conflictiva conocida por su complejidad geopolítica.\nEl presidente Petro tomó medidas concretas, instruyendo a su ministro de Defensa establecer contacto directo con su homólogo venezolano, Vladimir Padrino López, con el objetivo de desarrollar un protocolo de acción coordinada.\n“He dialogado con quien ejerce la presidencia en Venezuela para tapar los pasos ilegales, especialmente en el río Catatumbo, y coordinar acciones de vigilancia aérea en ambos lados de la frontera”, explicó.\nLa iniciativa busca cerrar espacios estratégicos a los grupos dedicados al narcotráfico, respondiendo a las críticas en los medios colombianos sobre la aparente inacción gubernamental.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-y-colombia-acuerdan-estrategia-conjunta-para-combatir-grupos-armados-en-la-zona-fronteriza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 583,
+    "message_id": 85246,
+    "date": "2025-01-23T20:55:13+00:00",
+    "text": "teleSUR\nVenezuela y Colombia acuerdan estrategia conjunta para combatir grupos armados en la zona fronteriza\nhttps://www.telesurtv.net/venezuela-y-colombia-acuerdan-estrategia-conjunta-para-combatir-grupos-armados-en-la-zona-fronteriza/",
+    "photo_path": null,
+    "views": 2657,
+    "reactions": {
+      "👍": 54,
+      "👏": 13,
+      "❤": 4,
+      "🍌": 2,
+      "🙈": 1
+    },
+    "total_reactions": 74
+  },
+  "preprocessing": {
+    "cleaned": "en declaraciones públicas este jueves 23 de enero, petro confirmó acciones directas para mitigar la violencia y el crimen transfronterizo. desde haití, donde actualmente se encuentra, el mandatario colombiano dijo haber mantenido comunicaciones directas con el gobierno venezolano, específicamente con el presidente nicolás maduro, para diseñar un plan conjunto de erradicación de bandas armadas. la estrategia se centra especialmente en la región del catatumbo, un área históricamente conflictiva conocida por su complejidad geopolítica. el presidente petro tomó medidas concretas, instruyendo a su ministro de defensa establecer contacto directo con su homólogo venezolano, vladimir padrino lópez, con el objetivo de desarrollar un protocolo de acción coordinada. “he dialogado con quien ejerce la presidencia en venezuela para tapar los pasos ilegales, especialmente en el río catatumbo, y coordinar acciones de vigilancia aérea en ambos lados de la frontera”, explicó. la iniciativa busca cerrar espacios estratégicos a los grupos dedicados al narcotráfico, respondiendo a las críticas en los medios colombianos sobre la aparente inacción gubernamental.",
+    "tokens": [
+      "declaraciones",
+      "públicas",
+      "jueves",
+      "23",
+      "enero",
+      ",",
+      "petro",
+      "confirmó",
+      "acciones",
+      "directas",
+      "mitigar",
+      "violencia",
+      "crimen",
+      "transfronterizo",
+      ".",
+      "haití",
+      ",",
+      "actualmente",
+      "encuentra",
+      ",",
+      "mandatario",
+      "colombiano",
+      "dijo",
+      "haber",
+      "mantenido",
+      "comunicaciones",
+      "directas",
+      "gobierno",
+      "venezolano",
+      ",",
+      "específicamente",
+      "presidente",
+      "nicolás",
+      "maduro",
+      ",",
+      "diseñar",
+      "plan",
+      "conjunto",
+      "erradicación",
+      "bandas",
+      "armadas",
+      ".",
+      "estrategia",
+      "centra",
+      "especialmente",
+      "región",
+      "catatumbo",
+      ",",
+      "área",
+      "históricamente",
+      "conflictiva",
+      "conocida",
+      "complejidad",
+      "geopolítica",
+      ".",
+      "presidente",
+      "petro",
+      "tomó",
+      "medidas",
+      "concretas",
+      ",",
+      "instruyendo",
+      "ministro",
+      "defensa",
+      "establecer",
+      "contacto",
+      "directo",
+      "homólogo",
+      "venezolano",
+      ",",
+      "vladimir",
+      "padrino",
+      "lópez",
+      ",",
+      "objetivo",
+      "desarrollar",
+      "protocolo",
+      "acción",
+      "coordinada",
+      ".",
+      "“",
+      "dialogado",
+      "ejerce",
+      "presidencia",
+      "venezuela",
+      "tapar",
+      "pasos",
+      "ilegales",
+      ",",
+      "especialmente",
+      "río",
+      "catatumbo",
+      ",",
+      "coordinar",
+      "acciones",
+      "vigilancia",
+      "aérea",
+      "ambos",
+      "lados",
+      "frontera",
+      "”",
+      ",",
+      "explicó",
+      ".",
+      "iniciativa",
+      "busca",
+      "cerrar",
+      "espacios",
+      "estratégicos",
+      "grupos",
+      "dedicados",
+      "narcotráfico",
+      ",",
+      "respondiendo",
+      "críticas",
+      "medios",
+      "colombianos",
+      "aparente",
+      "inacción",
+      "gubernamental",
+      "."
+    ],
+    "token_count": 121,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 18,
+      "NNS": 14,
+      "VBP": 10,
+      "NN": 57,
+      "CD": 1,
+      "IN": 4,
+      "FW": 35,
+      "JJ": 15,
+      "VBZ": 2,
+      "PRP": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBP": 9,
+      "VBP-NN": 2,
+      "NN-NNS": 8,
+      "NNS-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 3,
+      "FW-NNP": 6,
+      "NNP-NN": 9,
+      "NNS-NNS": 2,
+      "NN-NN": 32,
+      "NN-FW": 6,
+      "FW-FW": 19,
+      "FW-NNS": 2,
+      "VBP-NNP": 1,
+      "NNP-NNP": 4,
+      "FW-JJ": 4,
+      "JJ-NN": 10,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "VBP-JJ": 4,
+      "NN-JJ": 2,
+      "NN-NNP": 4,
+      "NN-VBP": 1,
+      "VBP-FW": 2,
+      "NNS-NNP": 1,
+      "NNP-FW": 3,
+      "NNP-JJ": 1,
+      "JJ-NNP": 1,
+      "JJ-FW": 2,
+      "FW-NN": 4,
+      "NN-IN": 1,
+      "NN-PRP": 1,
+      "PRP-VBZ": 1,
+      "NNS-IN": 1,
+      "JJ-JJ": 1,
+      "VBP-IN": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 6,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 17,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-FW": 1,
+      "VBP-FW-FW": 2,
+      "FW-FW-FW": 11,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "JJ-NN-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NNP-NNP-NNP": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-PRP": 1,
+      "NN-PRP-VBZ": 1,
+      "PRP-VBZ-JJ": 1,
+      "NN-FW-NNP": 1,
+      "NNS-VBP-FW": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 57,
+        "FW": 35,
+        "NNP": 18,
+        "JJ": 15,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 32,
+        "FW-FW": 19,
+        "JJ-NN": 10,
+        "NNS-VBP": 9,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 17,
+        "FW-FW-FW": 11,
+        "NNP-NN-NN": 6,
+        "JJ-NN-NN": 6,
+        "NN-NN-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 41,
+      "VP": 12,
+      "PP": 3,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0317
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0317
+      },
+      {
+        "rule": "S -> NP VP ('23', 'CD') PP (',', ',') NP VP ('violencia', 'FW') NP ('el', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('declaraciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('públicas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('enero', 'NN')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Petro', 'NNP') ('confirmó', 'NN') ('acciones', 'NNS') ('directas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('mitigar', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0159
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En declaraciones"
+      },
+      {
+        "label": "VP",
+        "text": "públicas este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "PP",
+        "text": "de enero"
+      },
+      {
+        "label": "NP",
+        "text": "enero"
+      },
+      {
+        "label": "NP",
+        "text": "Petro confirmó acciones directas"
+      },
+      {
+        "label": "VP",
+        "text": "para mitigar la"
+      },
+      {
+        "label": "NP",
+        "text": "mitigar la"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "crimen"
+      },
+      {
+        "label": "VP",
+        "text": "transfronterizo"
+      },
+      {
+        "label": "NP",
+        "text": "Desde Haití"
+      },
+      {
+        "label": "NP",
+        "text": "donde actualmente se encuentra"
+      },
+      {
+        "label": "NP",
+        "text": "mandatario colombiano"
+      },
+      {
+        "label": "VP",
+        "text": "dijo haber mantenido comunicaciones directas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP declaraciones/NNS)\n  (VP públicas/VBP (NP este/NN jueves/NNS))\n  23/CD\n  (PP de/IN (NP enero/NN))\n  ,/,\n  (NP Petro/NNP confirmó/NN acciones/NNS directas/NNS)\n  (VP para/VBP (NP mitigar/NN la/NN))\n  violencia/FW\n  (NP y/NN)\n  el/FW\n  (NP crimen/NNS)\n  (VP transfronterizo/VBP)\n  ./.)",
+      "(S\n  (NP Desde/NNP Haití/NNP)\n  ,/,\n  (NP donde/NN actualmente/NN se/NN encuentra/NN)\n  ,/,\n  el/FW\n  (NP mandatario/NN colombiano/NN)\n  (VP\n    dijo/VBZ\n    (NP haber/JJ mantenido/NN comunicaciones/NNS directas/NNS))\n  (VP con/VBP (NP el/JJ gobierno/NN venezolano/NN))\n  ,/,\n  (NP\n    específicamente/JJ\n    con/NN\n    el/NN\n    presidente/NN\n    Nicolás/NNP\n    Maduro/NNP)\n  ,/,\n  (NP para/NN diseñar/NN)\n  (NP un/JJ plan/NN)\n  (VP conjunto/VBP)\n  de/FW\n  erradicación/FW\n  de/FW\n  bandas/FW\n  (NP armadas/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  estrategia/FW\n  se/FW\n  (NP centra/JJ especialmente/NN)\n  en/FW\n  la/FW\n  región/FW\n  del/FW\n  (NP Catatumbo/NNP)\n  ,/,\n  (NP\n    un/JJ\n    área/NNP\n    históricamente/NN\n    conflictiva/NN\n    conocida/NN\n    por/NN\n    su/NN\n    complejidad/NN\n    geopolítica/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    presidente/NN\n    Petro/NNP\n    tomó/NN\n    medidas/NN\n    concretas/NNS)\n  ,/,\n  (VP instruyendo/VBP (NP a/DT su/JJ ministro/NN))\n  (PP de/IN (NP Defensa/NNP))\n  establecer/FW\n  (NP contacto/NN directo/NN con/NN su/NN homólogo/NN venezolano/NN)\n  ,/,\n  (NP Vladimir/NNP Padrino/NNP López/NNP)\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  desarrollar/FW\n  (NP un/JJ protocolo/NN)\n  de/IN\n  acción/FW\n  (NP coordinada/NN)\n  ./.)",
+      "(S\n  (NP “/NN)\n  He/PRP\n  (VP\n    dialogado/VBZ\n    (NP con/JJ quien/NN ejerce/NN la/NN presidencia/NN))\n  en/FW\n  (NP Venezuela/NNP para/NN tapar/NN los/NN pasos/NN ilegales/NNS)\n  ,/,\n  (VP especialmente/VBP)\n  en/FW\n  el/FW\n  (NP río/NN Catatumbo/NNP)\n  ,/,\n  (NP y/NNP coordinar/NN acciones/NNS)\n  de/IN\n  vigilancia/FW\n  (ADJP aérea/JJ)\n  en/FW\n  ambos/FW\n  lados/FW\n  de/FW\n  la/FW\n  (NP frontera/NN ”/NN)\n  ,/,\n  (NP explicó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "plan conjunto",
+        "position": [
+          349,
+          362
+        ],
+        "start": 349,
+        "end": 362
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          965,
+          972
+        ],
+        "start": 965,
+        "end": 972
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          613,
+          620
+        ],
+        "start": 613,
+        "end": 620
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          306,
+          331
+        ],
+        "start": 306,
+        "end": 331
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de defensa establecer",
+        "position": [
+          601,
+          631
+        ],
+        "start": 601,
+        "end": 631
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          877,
+          880
+        ],
+        "start": 877,
+        "end": 880
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          816,
+          825
+        ],
+        "start": 816,
+        "end": 825
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región del",
+        "position": [
+          442,
+          452
+        ],
+        "start": 442,
+        "end": 452
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "jueves 23 de enero",
+        "position": [
+          32,
+          50
+        ],
+        "start": 32,
+        "end": 50
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          159,
+          170
+        ],
+        "start": 159,
+        "end": 170
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vladimir Padrino López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Catatumbo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "río Catatumbo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Haití",
+        "relacion": "DECIR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Petro",
+        "relacion": "TOMAR",
+        "objeto": "Vladimir Padrino López"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "EJERCER_DIALOGAR_EXPLICAR",
+        "objeto": "río Catatumbo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

@@ -1,0 +1,930 @@
+{
+  "url": "https://www.telesurtv.net/autoridades-migratorias-mexicanas-se-prepararan-para-posibles-deportaciones-desde-ee-uu/",
+  "title": "Autoridades mexicanas se prepararán para posibles deportaciones desde EE.UU. - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "chihuahua",
+    "deportaciones",
+    "EE.UU.",
+    "México",
+    "Sucesos"
+  ],
+  "text": "Estas medidas obedecen a la política migratoria del nuevo presidente estadounidense, Donald Trump.\nLas autoridades del estado de Chihuahua, en la frontera de México con Texas, y las organizaciones religiosas mexicanas se encuentran en alerta debido a un posible aumento en las deportaciones de migrantes desde Estados Unidos.\nEnrique Serrano, coordinador del Consejo Estatal de Población, anunció que el Gobierno federal está trabajando en la instalación de un campamento temporal en Ciudad Juárez, que tendrá capacidad para 2,500 personas.\n“Se están instalando carpas cerca de la frontera y esperamos que estén listas para este fin de semana”, explicó Serrano a los medios. Aclaró que, hasta el momento, las deportaciones han mantenido niveles normales, con 56 casos registrados el lunes tras la decisión del presidente Donald Trump, sin que se hayan observado deportaciones masivas significativas.\nEl funcionario indicó que su organismo, aunque no tiene autoridad migratoria, colabora con instituciones responsables y se dedica a apoyar a las poblaciones desplazadas y migrantes en Chihuahua. Los servicios ofrecidos incluyen atención integral con alimentos, juegos para niños, acceso a servicios telefónicos e internet.\nPor su parte, el sacerdote Juan Carlos López Morales, vocero de la Diócesis de Ciudad Juárez, calificó la instalación de las carpas como una medida emergente necesaria, aunque reconoció sus limitaciones. “Un campamento temporal no es un lugar digno para vivir, pero entendemos que es una respuesta a una situación extraordinaria”, afirmó.\nLópez Morales también expresó su preocupación por posibles violaciones de derechos humanos tanto en Estados Unidos como en México, señalando que la reciente decisión de Trump de permitir redadas en templos podría comprometer la libertad religiosa.\nLa presidenta de México, Claudia Sheinbaum, rechazó la medida del presidente Trump, quien ha anunciado su intención de llevar a cabo una campaña de deportaciones sin precedentes en la historia de EE.UU.\nEsta decisión se conoce en un contexto donde los migrantes mexicanos representan cerca de la mitad de los 11 millones de indocumentados en Estados Unidos, y sus remesas son cruciales para la economía mexicana, representando casi el 4 % del PIB.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/autoridades-migratorias-mexicanas-se-prepararan-para-posibles-deportaciones-desde-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 633,
+    "message_id": 85189,
+    "date": "2025-01-23T07:55:18+00:00",
+    "text": "teleSUR\nAutoridades mexicanas se prepararán para posibles deportaciones desde EE.UU.\nhttps://www.telesurtv.net/autoridades-migratorias-mexicanas-se-prepararan-para-posibles-deportaciones-desde-ee-uu/",
+    "photo_path": null,
+    "views": 2277,
+    "reactions": {
+      "😱": 25,
+      "🤬": 11,
+      "👍": 3,
+      "🔥": 2
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "estas medidas obedecen a la política migratoria del nuevo presidente estadounidense, donald trump. las autoridades del estado de chihuahua, en la frontera de méxico con texas, y las organizaciones religiosas mexicanas se encuentran en alerta debido a un posible aumento en las deportaciones de migrantes desde estados unidos. enrique serrano, coordinador del consejo estatal de población, anunció que el gobierno federal está trabajando en la instalación de un campamento temporal en ciudad juárez, que tendrá capacidad para 2,500 personas. “se están instalando carpas cerca de la frontera y esperamos que estén listas para este fin de semana”, explicó serrano a los medios. aclaró que, hasta el momento, las deportaciones han mantenido niveles normales, con 56 casos registrados el lunes tras la decisión del presidente donald trump, sin que se hayan observado deportaciones masivas significativas. el funcionario indicó que su organismo, aunque no tiene autoridad migratoria, colabora con instituciones responsables y se dedica a apoyar a las poblaciones desplazadas y migrantes en chihuahua. los servicios ofrecidos incluyen atención integral con alimentos, juegos para niños, acceso a servicios telefónicos e internet. por su parte, el sacerdote juan carlos lópez morales, vocero de la diócesis de ciudad juárez, calificó la instalación de las carpas como una medida emergente necesaria, aunque reconoció sus limitaciones. “un campamento temporal no es un lugar digno para vivir, pero entendemos que es una respuesta a una situación extraordinaria”, afirmó. lópez morales también expresó su preocupación por posibles violaciones de derechos humanos tanto en estados unidos como en méxico, señalando que la reciente decisión de trump de permitir redadas en templos podría comprometer la libertad religiosa. la presidenta de méxico, claudia sheinbaum, rechazó la medida del presidente trump, quien ha anunciado su intención de llevar a cabo una campaña de deportaciones sin precedentes en la historia de ee.uu. esta decisión se conoce en un contexto donde los migrantes mexicanos representan cerca de la mitad de los 11 millones de indocumentados en estados unidos, y sus remesas son cruciales para la economía mexicana, representando casi el 4 % del pib.",
+    "tokens": [
+      "medidas",
+      "obedecen",
+      "política",
+      "migratoria",
+      "nuevo",
+      "presidente",
+      "estadounidense",
+      ",",
+      "donald",
+      "trump",
+      ".",
+      "autoridades",
+      "chihuahua",
+      ",",
+      "frontera",
+      "méxico",
+      "texas",
+      ",",
+      "organizaciones",
+      "religiosas",
+      "mexicanas",
+      "encuentran",
+      "alerta",
+      "debido",
+      "posible",
+      "aumento",
+      "deportaciones",
+      "migrantes",
+      "unidos",
+      ".",
+      "enrique",
+      "serrano",
+      ",",
+      "coordinador",
+      "consejo",
+      "estatal",
+      "población",
+      ",",
+      "anunció",
+      "gobierno",
+      "federal",
+      "trabajando",
+      "instalación",
+      "campamento",
+      "temporal",
+      "ciudad",
+      "juárez",
+      ",",
+      "capacidad",
+      "2,500",
+      "personas",
+      ".",
+      "“",
+      "instalando",
+      "carpas",
+      "cerca",
+      "frontera",
+      "esperamos",
+      "listas",
+      "fin",
+      "semana",
+      "”",
+      ",",
+      "explicó",
+      "serrano",
+      "medios",
+      ".",
+      "aclaró",
+      ",",
+      "momento",
+      ",",
+      "deportaciones",
+      "mantenido",
+      "niveles",
+      "normales",
+      ",",
+      "56",
+      "casos",
+      "registrados",
+      "lunes",
+      "tras",
+      "decisión",
+      "presidente",
+      "donald",
+      "trump",
+      ",",
+      "observado",
+      "deportaciones",
+      "masivas",
+      "significativas",
+      ".",
+      "funcionario",
+      "indicó",
+      "organismo",
+      ",",
+      "aunque",
+      "autoridad",
+      "migratoria",
+      ",",
+      "colabora",
+      "instituciones",
+      "responsables",
+      "dedica",
+      "apoyar",
+      "poblaciones",
+      "desplazadas",
+      "migrantes",
+      "chihuahua",
+      ".",
+      "servicios",
+      "ofrecidos",
+      "incluyen",
+      "atención",
+      "integral",
+      "alimentos",
+      ",",
+      "juegos",
+      "niños",
+      ",",
+      "acceso",
+      "servicios",
+      "telefónicos",
+      "internet",
+      ".",
+      "parte",
+      ",",
+      "sacerdote",
+      "juan",
+      "carlos",
+      "lópez",
+      "morales",
+      ",",
+      "vocero",
+      "diócesis",
+      "ciudad",
+      "juárez",
+      ",",
+      "calificó",
+      "instalación",
+      "carpas",
+      "medida",
+      "emergente",
+      "necesaria",
+      ",",
+      "aunque",
+      "reconoció",
+      "limitaciones",
+      ".",
+      "“",
+      "campamento",
+      "temporal",
+      "lugar",
+      "digno",
+      "vivir",
+      ",",
+      "entendemos",
+      "respuesta",
+      "situación",
+      "extraordinaria",
+      "”",
+      ",",
+      "afirmó",
+      ".",
+      "lópez",
+      "morales",
+      "expresó",
+      "preocupación",
+      "posibles",
+      "violaciones",
+      "derechos",
+      "humanos",
+      "unidos",
+      "méxico",
+      ",",
+      "señalando",
+      "reciente",
+      "decisión",
+      "trump",
+      "permitir",
+      "redadas",
+      "templos",
+      "podría",
+      "comprometer",
+      "libertad",
+      "religiosa",
+      ".",
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "rechazó",
+      "medida",
+      "presidente",
+      "trump",
+      ",",
+      "anunciado",
+      "intención",
+      "llevar",
+      "cabo",
+      "campaña",
+      "deportaciones",
+      "precedentes",
+      "historia",
+      "ee.uu.",
+      "decisión",
+      "conoce",
+      "contexto",
+      "migrantes",
+      "mexicanos",
+      "representan",
+      "cerca",
+      "mitad",
+      "11",
+      "millones",
+      "indocumentados",
+      "unidos",
+      ",",
+      "remesas",
+      "cruciales",
+      "economía",
+      "mexicana",
+      ",",
+      "representando",
+      "casi",
+      "4",
+      "%",
+      "pib",
+      "."
+    ],
+    "token_count": 230,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 29,
+      "VBP": 18,
+      "JJ": 41,
+      "NN": 106,
+      "NNP": 48,
+      "VBZ": 5,
+      "FW": 60,
+      "IN": 11,
+      "CD": 3,
+      "DT": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNS-VBP": 18,
+      "VBP-JJ": 11,
+      "JJ-NN": 20,
+      "NN-NN": 56,
+      "NN-JJ": 8,
+      "NN-NNP": 10,
+      "NNP-NNP": 19,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "FW-FW": 32,
+      "FW-NNP": 11,
+      "NNP-FW": 6,
+      "NNP-NN": 17,
+      "NN-NNS": 10,
+      "VBP-NNS": 4,
+      "JJ-FW": 3,
+      "FW-NN": 10,
+      "JJ-JJ": 9,
+      "NN-FW": 9,
+      "FW-NNS": 3,
+      "NNS-FW": 2,
+      "VBP-NNP": 1,
+      "NNP-JJ": 2,
+      "NN-IN": 8,
+      "IN-FW": 7,
+      "FW-JJ": 3,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "VBZ-JJ": 3,
+      "VBP-NN": 1,
+      "JJ-NNP": 4,
+      "NNS-NNP": 1,
+      "JJ-NNS": 3,
+      "NNS-NNS": 4,
+      "VBP-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "IN-JJ": 2,
+      "JJ-DT": 2,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NNS-IN": 3,
+      "IN-NNP": 1,
+      "NNP-NNS": 1,
+      "NN-VBZ": 2,
+      "VBZ-NNP": 1,
+      "DT-JJ": 1,
+      "IN-NNS": 1,
+      "FW-CD": 1
+    },
+    "trigram_freq": {
+      "NNS-VBP-JJ": 11,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 24,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 7,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 18,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 4,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 8,
+      "NNS-VBP-NNS": 4,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 7,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 13,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "FW-FW-NN": 4,
+      "NN-NN-NNS": 5,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 3,
+      "VBP-JJ-NNP": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NNS-NNS": 1,
+      "VBP-NNS-IN": 2,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-FW-NN": 4,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNS": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "IN-JJ-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 106,
+        "FW": 60,
+        "NNP": 48,
+        "JJ": 41,
+        "NNS": 29
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 32,
+        "JJ-NN": 20,
+        "NNP-NNP": 19,
+        "NNS-VBP": 18
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "FW-FW-FW": 18,
+        "NNP-NN-NN": 13,
+        "NNS-VBP-JJ": 11,
+        "JJ-NN-NN": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 94,
+      "VP": 24,
+      "PP": 4,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Chihuahua', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "NP -> ('deportaciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "ADJP -> ('temporal', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "NP -> ('Ciudad', 'NNP') ('Juárez', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0146
+      },
+      {
+        "rule": "S -> NP VP PP NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0073
+      },
+      {
+        "rule": "NP -> ('Estas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0073
+      },
+      {
+        "rule": "VP -> ('medidas', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0073
+      },
+      {
+        "rule": "PP -> ('obedecen', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0073
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Estas"
+      },
+      {
+        "label": "VP",
+        "text": "medidas"
+      },
+      {
+        "label": "PP",
+        "text": "obedecen a la política migratoria del"
+      },
+      {
+        "label": "NP",
+        "text": "a la política migratoria del"
+      },
+      {
+        "label": "NP",
+        "text": "nuevo presidente estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Chihuahua"
+      },
+      {
+        "label": "NP",
+        "text": "México con Texas"
+      },
+      {
+        "label": "NP",
+        "text": "y las organizaciones"
+      },
+      {
+        "label": "VP",
+        "text": "religiosas mexicanas"
+      },
+      {
+        "label": "NP",
+        "text": "mexicanas"
+      },
+      {
+        "label": "VP",
+        "text": "se encuentran"
+      },
+      {
+        "label": "NP",
+        "text": "alerta"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Estas/NNS)\n  (VP medidas/VBP)\n  (PP obedecen/IN (NP a/DT la/NN política/NN migratoria/NN del/NN))\n  (NP nuevo/JJ presidente/NN estadounidense/NN)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  del/FW\n  estado/FW\n  de/FW\n  (NP Chihuahua/NNP)\n  ,/,\n  en/FW\n  la/FW\n  frontera/FW\n  de/FW\n  (NP México/NNP con/NN Texas/NNP)\n  ,/,\n  (NP y/NN las/NNS organizaciones/NNS)\n  (VP religiosas/VBP (NP mexicanas/NNS))\n  (VP se/VBP encuentran/JJ)\n  en/FW\n  (NP alerta/NN)\n  (VP debido/VBZ (NP a/DT un/JJ posible/JJ aumento/NN))\n  en/FW\n  las/FW\n  (NP deportaciones/NNS)\n  de/FW\n  (NP migrantes/NNS)\n  (VP desde/VBP (NP Estados/NNP Unidos/NNP))\n  ./.)",
+      "(S\n  (NP Enrique/NNP Serrano/NNP)\n  ,/,\n  (NP coordinador/NN del/NN Consejo/NNP Estatal/NNP)\n  de/FW\n  (NP Población/NNP)\n  ,/,\n  (NP anunció/NN que/NN el/NN Gobierno/NNP)\n  (NP federal/JJ está/NN trabajando/NN)\n  en/IN\n  la/FW\n  instalación/FW\n  de/FW\n  un/FW\n  (ADJP campamento/JJ)\n  (ADJP temporal/JJ)\n  en/FW\n  (NP Ciudad/NNP Juárez/NNP)\n  ,/,\n  (NP que/NN tendrá/NN capacidad/NN para/NN)\n  2,500/CD\n  (NP personas/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Se/NNP están/NN instalando/NN carpas/NN cerca/NN)\n  de/IN\n  la/FW\n  frontera/FW\n  y/FW\n  esperamos/FW\n  (NP que/NN estén/NN listas/NNS)\n  (VP para/VBP (NP este/NN fin/NN))\n  de/IN\n  semana/FW\n  (NP ”/NNP)\n  ,/,\n  (VP explicó/VBZ (NP Serrano/NNP) (NP a/DT los/JJ medios/NNS))\n  ./.)",
+      "(S\n  (NP Aclaró/NNP que/NN)\n  ,/,\n  (NP hasta/NN el/NN momento/NN)\n  ,/,\n  (NP las/JJ deportaciones/NNS)\n  (VP han/VBP (NP mantenido/JJ niveles/NNS normales/NNS))\n  ,/,\n  (NP con/NN)\n  56/CD\n  (NP casos/NN registrados/NN el/NN lunes/NNS)\n  (VP tras/VBP la/JJ)\n  decisión/FW\n  del/FW\n  (NP presidente/NN Donald/NNP Trump/NNP)\n  ,/,\n  (NP sin/NN que/NN)\n  se/FW\n  (NP hayan/JJ observado/NN deportaciones/NNS)\n  (VP masivas/VBP (NP significativas/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "JUSTICIA_SOCIAL",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "rechazó la medida del presidente trump",
+        "position": [
+          1854,
+          1892
+        ],
+        "start": 1854,
+        "end": 1892
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1554,
+          1560
+        ],
+        "start": 1554,
+        "end": 1560
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          389,
+          396
+        ],
+        "start": 389,
+        "end": 396
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          645,
+          652
+        ],
+        "start": 645,
+        "end": 652
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente estadounidense",
+        "position": [
+          58,
+          83
+        ],
+        "start": 58,
+        "end": 83
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          1854,
+          1861
+        ],
+        "start": 1854,
+        "end": 1861
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          310,
+          324
+        ],
+        "start": 310,
+        "end": 324
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          158,
+          164
+        ],
+        "start": 158,
+        "end": 164
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          119,
+          128
+        ],
+        "start": 119,
+        "end": 128
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1636,
+          1652
+        ],
+        "start": 1636,
+        "end": 1652
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500 personas",
+        "position": [
+          527,
+          539
+        ],
+        "start": 527,
+        "end": 539
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "11 millones",
+        "position": [
+          2119,
+          2130
+        ],
+        "start": 2119,
+        "end": 2130
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2,500 personas",
+        "position": [
+          525,
+          539
+        ],
+        "start": 525,
+        "end": 539
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ciudad Juárez",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "en Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Diócesis de Ciudad Juárez",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "López Morales",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Juan Carlos López Morales",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno federal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Serrano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Texas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo Estatal de Población",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Chihuahua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estado de Chihuahua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Enrique Serrano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "estado de Chihuahua",
+        "relacion": "ENCONTRAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ENCONTRAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Texas",
+        "relacion": "ENCONTRAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Enrique Serrano",
+        "relacion": "ANUNCIAR",
+        "objeto": "Gobierno federal"
+      },
+      {
+        "sujeto": "Enrique Serrano",
+        "relacion": "ANUNCIAR",
+        "objeto": "Ciudad Juárez"
+      },
+      {
+        "sujeto": "Gobierno federal",
+        "relacion": "ANUNCIAR",
+        "objeto": "Consejo Estatal de Población"
+      },
+      {
+        "sujeto": "Consejo Estatal de Población",
+        "relacion": "ANUNCIAR",
+        "objeto": "Ciudad Juárez"
+      },
+      {
+        "sujeto": "Gobierno federal",
+        "relacion": "TRABAJAR_ANUNCIAR",
+        "objeto": "Ciudad Juárez"
+      },
+      {
+        "sujeto": "López Morales",
+        "relacion": "EXPRESAR",
+        "objeto": "en Estados Unidos"
+      },
+      {
+        "sujeto": "López Morales",
+        "relacion": "EXPRESAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "López Morales",
+        "relacion": "EXPRESAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "en Estados Unidos",
+        "relacion": "EXPRESAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "EXPRESAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "RECHAZAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "RECHAZAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "RECHAZAR",
+        "objeto": "en Estados Unidos"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "LLEVAR_ANUNCIAR_RECHAZAR",
+        "objeto": "en Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.007,
+    "neu": 0.958,
+    "neg": 0.035,
+    "label": "negative"
+  }
+}

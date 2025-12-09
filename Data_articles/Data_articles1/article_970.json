@@ -1,0 +1,794 @@
+{
+  "url": "https://www.telesurtv.net/gaza-unrwa-acusa-israel-negacion-hambruna/",
+  "title": "Gaza: Unrwa acusa a Israel y sus cómplices de negación de la hambruna - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Deshumanización",
+    "Emergencia",
+    "Franja de Gaza",
+    "Gaza",
+    "genocidio",
+    "hambre",
+    "Inanición",
+    "Israel",
+    "Muertos",
+    "Palestina",
+    "Philippe Lazzarini",
+    "Unrwa"
+  ],
+  "text": "El Comisionado General de la Agencia de Naciones Unidas para los Refugiados de Palestina (UNRWA), Philippe Lazzarini, advirtió que la hambruna se ha convertido en la última tragedia en golpear al pueblo palestino en Gaza, crisis de graves proporciones generada por el bloqueo israelí a productos vitales -ya provocó la muerte de 289 personas, entre ellas 115 niños-, y manifestó que negarla supone la forma más aborrecible de deshumanización.\nLazzarini describió la situación en Gaza como el “infierno manifestándose en todas sus formas”, subrayando que el eslogan global “nunca más” ha sido repetido deliberadamente y que “continuará persiguiendo al mundo”.\nEn sus declaraciones publicadas en X, Lazzarini afirmó que “la negación es la forma más aborrecible de deshumanización”, en alusión a líderes del sionismo y sus cómplices en otras naciones que intentan difundir que no hay hambruna y que la ocupación garantiza la llegada de alimentos a Gaza, algo que desmienten las cifras de muertes y de personas en riesgo por inanición.\nSiguiendo esta línea, hizo un llamado directo al Gobierno de ocupación israelí para que detenga la promoción y difusión de narrativas engañosas y permita que las organizaciones humanitarias entreguen ayuda sin restricciones.\nAdemás, solicitó que se otorgue permiso a los periodistas internacionales para cubrir la situación de forma independiente desde dentro de Gaza, enfatizando que “cada hora que pasa tiene un precio”.\nSus declaraciones tienen lugar en un contexto de una crisis alimentaria que ha alcanzado un nivel irreversible en la Franja de Gaza, ingresando en la Fase 5, la categoría que identifica a los territorios con el mayor índice de hambruna a nivel mundial.\nEl grupo de trabajo de emergencia ha advertido que el hambre se ha extendido como fuego descontrolado en los últimos días, y la desnutrición severa sigue el mismo camino.\nDesde el inicio de la campaña genocida israelí el 7 de octubre de 2023, el Ministerio de Salud de Gaza reportó al menos 62.622 palestinos fallecidos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gaza-unrwa-acusa-israel-negacion-hambruna/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 501,
+    "message_id": 102771,
+    "date": "2025-08-25T13:55:08+00:00",
+    "text": "teleSUR\nGaza: Unrwa acusa a Israel y sus cómplices de  negación de la hambruna\nhttps://www.telesurtv.net/gaza-unrwa-acusa-israel-negacion-hambruna/",
+    "photo_path": null,
+    "views": 2129,
+    "reactions": {
+      "🤬": 47,
+      "💩": 1,
+      "😭": 1
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "el comisionado general de la agencia de naciones unidas para los refugiados de palestina (unrwa), philippe lazzarini, advirtió que la hambruna se ha convertido en la última tragedia en golpear al pueblo palestino en gaza, crisis de graves proporciones generada por el bloqueo israelí a productos vitales -ya provocó la muerte de 289 personas, entre ellas 115 niños-, y manifestó que negarla supone la forma más aborrecible de deshumanización. lazzarini describió la situación en gaza como el “infierno manifestándose en todas sus formas”, subrayando que el eslogan global “nunca más” ha sido repetido deliberadamente y que “continuará persiguiendo al mundo”. en sus declaraciones publicadas en x, lazzarini afirmó que “la negación es la forma más aborrecible de deshumanización”, en alusión a líderes del sionismo y sus cómplices en otras naciones que intentan difundir que no hay hambruna y que la ocupación garantiza la llegada de alimentos a gaza, algo que desmienten las cifras de muertes y de personas en riesgo por inanición. siguiendo esta línea, hizo un llamado directo al gobierno de ocupación israelí para que detenga la promoción y difusión de narrativas engañosas y permita que las organizaciones humanitarias entreguen ayuda sin restricciones. además, solicitó que se otorgue permiso a los periodistas internacionales para cubrir la situación de forma independiente desde dentro de gaza, enfatizando que “cada hora que pasa tiene un precio”. sus declaraciones tienen lugar en un contexto de una crisis alimentaria que ha alcanzado un nivel irreversible en la franja de gaza, ingresando en la fase 5, la categoría que identifica a los territorios con el mayor índice de hambruna a nivel mundial. el grupo de trabajo de emergencia ha advertido que el hambre se ha extendido como fuego descontrolado en los últimos días, y la desnutrición severa sigue el mismo camino. desde el inicio de la campaña genocida israelí el 7 de octubre de 2023, el ministerio de salud de gaza reportó al menos 62.622 palestinos fallecidos.",
+    "tokens": [
+      "comisionado",
+      "general",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestina",
+      "(",
+      "unrwa",
+      ")",
+      ",",
+      "philippe",
+      "lazzarini",
+      ",",
+      "advirtió",
+      "hambruna",
+      "convertido",
+      "última",
+      "tragedia",
+      "golpear",
+      "pueblo",
+      "palestino",
+      "gaza",
+      ",",
+      "crisis",
+      "graves",
+      "proporciones",
+      "generada",
+      "bloqueo",
+      "israelí",
+      "productos",
+      "vitales",
+      "-ya",
+      "provocó",
+      "muerte",
+      "289",
+      "personas",
+      ",",
+      "115",
+      "niños-",
+      ",",
+      "manifestó",
+      "negarla",
+      "supone",
+      "forma",
+      "aborrecible",
+      "deshumanización",
+      ".",
+      "lazzarini",
+      "describió",
+      "situación",
+      "gaza",
+      "“",
+      "infierno",
+      "manifestándose",
+      "todas",
+      "formas",
+      "”",
+      ",",
+      "subrayando",
+      "eslogan",
+      "global",
+      "“",
+      "nunca",
+      "”",
+      "sido",
+      "repetido",
+      "deliberadamente",
+      "“",
+      "continuará",
+      "persiguiendo",
+      "mundo",
+      "”",
+      ".",
+      "declaraciones",
+      "publicadas",
+      "x",
+      ",",
+      "lazzarini",
+      "afirmó",
+      "“",
+      "negación",
+      "forma",
+      "aborrecible",
+      "deshumanización",
+      "”",
+      ",",
+      "alusión",
+      "líderes",
+      "sionismo",
+      "cómplices",
+      "naciones",
+      "intentan",
+      "difundir",
+      "hambruna",
+      "ocupación",
+      "garantiza",
+      "llegada",
+      "alimentos",
+      "gaza",
+      ",",
+      "desmienten",
+      "cifras",
+      "muertes",
+      "personas",
+      "riesgo",
+      "inanición",
+      ".",
+      "siguiendo",
+      "línea",
+      ",",
+      "hizo",
+      "llamado",
+      "directo",
+      "gobierno",
+      "ocupación",
+      "israelí",
+      "detenga",
+      "promoción",
+      "difusión",
+      "narrativas",
+      "engañosas",
+      "permita",
+      "organizaciones",
+      "humanitarias",
+      "entreguen",
+      "ayuda",
+      "restricciones",
+      ".",
+      "además",
+      ",",
+      "solicitó",
+      "otorgue",
+      "permiso",
+      "periodistas",
+      "internacionales",
+      "cubrir",
+      "situación",
+      "forma",
+      "independiente",
+      "dentro",
+      "gaza",
+      ",",
+      "enfatizando",
+      "“",
+      "cada",
+      "hora",
+      "pasa",
+      "precio",
+      "”",
+      ".",
+      "declaraciones",
+      "lugar",
+      "contexto",
+      "crisis",
+      "alimentaria",
+      "alcanzado",
+      "nivel",
+      "irreversible",
+      "franja",
+      "gaza",
+      ",",
+      "ingresando",
+      "fase",
+      "5",
+      ",",
+      "categoría",
+      "identifica",
+      "territorios",
+      "mayor",
+      "índice",
+      "hambruna",
+      "nivel",
+      "mundial",
+      ".",
+      "grupo",
+      "trabajo",
+      "emergencia",
+      "advertido",
+      "hambre",
+      "extendido",
+      "fuego",
+      "descontrolado",
+      "últimos",
+      "días",
+      ",",
+      "desnutrición",
+      "severa",
+      "sigue",
+      "mismo",
+      "camino",
+      ".",
+      "inicio",
+      "campaña",
+      "genocida",
+      "israelí",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "ministerio",
+      "salud",
+      "gaza",
+      "reportó",
+      "menos",
+      "62.622",
+      "palestinos",
+      "fallecidos",
+      "."
+    ],
+    "token_count": 209,
+    "sentence_count": 8
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 81,
+      "PP": 7,
+      "VP": 12,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.045
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.027
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('forma', 'JJ') ('más', 'NN')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "ADJP -> ('aborrecible', 'JJ')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') NP ('de', 'FW') NP PP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP ('hambruna', 'FW') NP ('en', 'IN') ('la', 'FW') NP NP PP (',', ',') NP ('de', 'FW') ('graves', 'FW') NP VP VP VP ('muerte', 'FW') ('de', 'FW') ('289', 'CD') NP (',', ',') VP ('115', 'CD') ADJP (',', ',') NP ('negarla', 'FW') NP NP ADJP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Comisionado', 'NNP') ('General', 'NNP') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Agencia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP') ('para', 'NN') ('los', 'NN') ('Refugiados', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Palestina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Comisionado General de"
+      },
+      {
+        "label": "NP",
+        "text": "Agencia"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para los Refugiados"
+      },
+      {
+        "label": "PP",
+        "text": "de Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "UNRWA"
+      },
+      {
+        "label": "NP",
+        "text": "Philippe Lazzarini"
+      },
+      {
+        "label": "NP",
+        "text": "advirtió que la"
+      },
+      {
+        "label": "NP",
+        "text": "se ha convertido"
+      },
+      {
+        "label": "NP",
+        "text": "última tragedia en"
+      },
+      {
+        "label": "NP",
+        "text": "golpear al pueblo palestino"
+      },
+      {
+        "label": "PP",
+        "text": "en Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "crisis"
+      },
+      {
+        "label": "NP",
+        "text": "proporciones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Comisionado/NNP General/NNP de/NNP)\n  la/FW\n  (NP Agencia/NNP)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP para/NN los/NN Refugiados/NNP)\n  (PP de/IN (NP Palestina/NNP))\n  (/(\n  (NP UNRWA/NNP)\n  )/)\n  ,/,\n  (NP Philippe/NNP Lazzarini/NNP)\n  ,/,\n  (NP advirtió/NN que/NN la/NN)\n  hambruna/FW\n  (NP se/NN ha/NN convertido/NN)\n  en/IN\n  la/FW\n  (NP última/NNP tragedia/NN en/NN)\n  (NP golpear/JJ al/NN pueblo/NN palestino/NN)\n  (PP en/IN (NP Gaza/NNP))\n  ,/,\n  (NP crisis/NN)\n  de/FW\n  graves/FW\n  (NP proporciones/NNS)\n  (VP generada/VBP (NP por/JJ el/NN bloqueo/NN))\n  (VP israelí/VBZ (NP a/DT productos/NN))\n  (VP vitales/VBZ (NP -ya/NNP provocó/NN la/NN))\n  muerte/FW\n  de/FW\n  289/CD\n  (NP personas/NNS)\n  ,/,\n  (VP entre/VBP ellas/JJ)\n  115/CD\n  (ADJP niños-/JJ)\n  ,/,\n  (NP y/JJ manifestó/NN que/NN)\n  negarla/FW\n  (NP supone/NN la/NN)\n  (NP forma/JJ más/NN)\n  (ADJP aborrecible/JJ)\n  de/FW\n  (NP deshumanización/NN)\n  ./.)",
+      "(S\n  (NP Lazzarini/NNP describió/NN la/NN situación/NN)\n  (PP\n    en/IN\n    (NP Gaza/NNP como/NN el/NN “/NNP infierno/NN manifestándose/NN))\n  (PP en/IN (NP todas/JJ sus/NN formas/NN ”/NNP))\n  ,/,\n  (NP subrayando/NN que/NN el/NN)\n  (NP eslogan/JJ global/JJ “/NN)\n  (NP\n    nunca/JJ\n    más/NN\n    ”/NNP\n    ha/NN\n    sido/NN\n    repetido/NN\n    deliberadamente/NN\n    y/NN\n    que/NN\n    “/NNP\n    continuará/NN\n    persiguiendo/NN)\n  al/FW\n  (NP mundo/NN ”/NN)\n  ./.)",
+      "(S\n  (NP En/NNP sus/NN declaraciones/NNS)\n  (VP publicadas/VBP (NP en/JJ X/NNP))\n  ,/,\n  (NP Lazzarini/NNP afirmó/NN que/NN “/NNP la/NNP)\n  negación/FW\n  (NP es/NN)\n  la/FW\n  (NP forma/JJ más/NN)\n  (ADJP aborrecible/JJ)\n  de/FW\n  deshumanización/FW\n  ”/FW\n  ,/,\n  en/FW\n  alusión/FW\n  (NP a/DT líderes/NNS)\n  del/FW\n  (NP sionismo/NN y/NN sus/NN cómplices/NNS)\n  (VP\n    en/VBP\n    (NP otras/JJ naciones/NNS)\n    (NP que/JJ intentan/JJ difundir/NN que/NN)\n    (NP no/DT hay/NN hambruna/NN y/NN que/NN la/NN))\n  ocupación/FW\n  (NP garantiza/NN)\n  la/FW\n  llegada/FW\n  de/FW\n  alimentos/FW\n  (NP a/DT Gaza/NNP)\n  ,/,\n  (NP algo/NN que/NN)\n  (VP desmienten/VBP (NP las/JJ cifras/NNS))\n  de/FW\n  muertes/FW\n  y/FW\n  de/FW\n  personas/FW\n  en/FW\n  riesgo/FW\n  (NP por/NN inanición/NN)\n  ./.)",
+      "(S\n  (NP Siguiendo/NNP esta/NN línea/NN)\n  ,/,\n  (NP hizo/NN)\n  (NP un/JJ llamado/NN directo/NN)\n  (NP al/JJ Gobierno/NNP)\n  de/FW\n  ocupación/FW\n  (NP israelí/NN para/NN que/NN detenga/NN la/NN)\n  promoción/FW\n  y/FW\n  difusión/FW\n  de/FW\n  narrativas/FW\n  engañosas/FW\n  y/FW\n  permita/FW\n  (NP que/NN las/NNS organizaciones/NNS)\n  (VP\n    humanitarias/VBP\n    (NP entreguen/JJ ayuda/NN sin/NN restricciones/NNS))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP solicitó/NN que/NN)\n  se/FW\n  (NP otorgue/NN permiso/NN)\n  (NP a/DT los/NN)\n  (NP periodistas/JJ internacionales/NNS)\n  (VP para/VBP cubrir/JJ)\n  la/FW\n  situación/FW\n  de/FW\n  forma/FW\n  independiente/FW\n  desde/FW\n  dentro/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP\n    enfatizando/NN\n    que/NN\n    “/NNP\n    cada/NN\n    hora/NN\n    que/NN\n    pasa/NN\n    tiene/NN)\n  (NP un/JJ precio/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "FW": 69,
+      "NN": 125,
+      "IN": 12,
+      "JJ": 33,
+      "NNS": 13,
+      "VBP": 10,
+      "CD": 4,
+      "VBZ": 2,
+      "DT": 1,
+      "CC": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 7,
+      "NNP-FW": 9,
+      "FW-NNP": 12,
+      "NNP-NN": 14,
+      "NN-NN": 77,
+      "NN-NNP": 5,
+      "NNP-IN": 2,
+      "IN-NNP": 4,
+      "NN-FW": 13,
+      "FW-NN": 13,
+      "NN-IN": 8,
+      "IN-FW": 3,
+      "NN-JJ": 12,
+      "JJ-NN": 17,
+      "FW-FW": 38,
+      "FW-NNS": 1,
+      "NNS-VBP": 8,
+      "VBP-JJ": 7,
+      "NN-NNS": 5,
+      "JJ-FW": 4,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "JJ-CD": 1,
+      "CD-JJ": 2,
+      "IN-JJ": 4,
+      "JJ-JJ": 3,
+      "VBP-IN": 1,
+      "FW-JJ": 3,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1,
+      "JJ-NNS": 4,
+      "NNS-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBP": 2,
+      "NNS-FW": 1,
+      "JJ-NNP": 4,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NNS-NN": 1,
+      "VBP-NN": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-FW": 5,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 11,
+      "NN-NN-NNP": 2,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-NN": 47,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 7,
+      "FW-NN-NN": 7,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 5,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 10,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 3,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 4,
+      "FW-FW-FW": 27,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 2,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-FW": 2,
+      "FW-FW-NNP": 4,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NN": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "JJ-NN-IN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "IN-JJ-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 125,
+        "FW": 69,
+        "NNP": 34,
+        "JJ": 33,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 77,
+        "FW-FW": 38,
+        "JJ-NN": 17,
+        "NNP-NN": 14,
+        "NN-FW": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 47,
+        "FW-FW-FW": 27,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 10,
+        "NN-NN-JJ": 9
+      }
+    }
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          369,
+          378
+        ],
+        "start": 369,
+        "end": 378
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocida israelí el 7 de octubre de 2023, el ministerio de salud de gaza",
+        "position": [
+          1909,
+          1981
+        ],
+        "start": 1909,
+        "end": 1981
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          899,
+          908
+        ],
+        "start": 899,
+        "end": 908
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          707,
+          713
+        ],
+        "start": 707,
+        "end": 713
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          118,
+          126
+        ],
+        "start": 118,
+        "end": 126
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambruna se ha convertido en la última tragedia en golpear al pueblo palestino en gaza",
+        "position": [
+          134,
+          220
+        ],
+        "start": 134,
+        "end": 220
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de ocupación israelí",
+        "position": [
+          1081,
+          1110
+        ],
+        "start": 1081,
+        "end": 1110
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          40,
+          55
+        ],
+        "start": 40,
+        "end": 55
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          79,
+          88
+        ],
+        "start": 79,
+        "end": 88
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1929,
+          1949
+        ],
+        "start": 1929,
+        "end": 1949
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          268,
+          275
+        ],
+        "start": 268,
+        "end": 275
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "289 personas",
+        "position": [
+          329,
+          341
+        ],
+        "start": 329,
+        "end": 341
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comisionado General de la Agencia de Naciones Unidas para los Refugiados de Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "UNRWA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lazzarini",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Philippe Lazzarini",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Comisionado General de la Agencia de Naciones Unidas para los Refugiados de Palestina",
+        "relacion": "ADVERTIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "UNRWA",
+        "relacion": "ADVERTIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Philippe Lazzarini",
+        "relacion": "ADVERTIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Lazzarini",
+        "relacion": "DESCRIBIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Lazzarini",
+        "relacion": "AFIRMAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7906,
+    "pos": 0.037,
+    "neu": 0.908,
+    "neg": 0.055,
+    "label": "negative"
+  }
+}

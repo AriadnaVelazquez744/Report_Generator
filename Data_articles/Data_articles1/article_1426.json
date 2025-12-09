@@ -1,0 +1,543 @@
+{
+  "url": "https://www.telesurtv.net/iran-anuncia-aumento-en-exportaciones-africa/",
+  "title": "Irán anuncia un aumento del 85 % en las exportaciones a África - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "África",
+    "Brics",
+    "exportaciones",
+    "Irán",
+    "TV BRICS"
+  ],
+  "text": "Según informó un alto funcionario, el valor total de las exportaciones al continente alcanzó los 260 millones de dólares en este período, informa Mehr News Agency, socio de TV BRICS.\nEl comercio con África ha experimentado un notable crecimiento, especialmente con Kenia, cuyas importaciones desde Irán sumaron 85 millones de dólares. El funcionario expresó su optimismo de que los volúmenes comerciales continúen aumentando a lo largo del año.\nLas autoridades recordaron que las exportaciones anuales a África suelen situarse en torno a los 1.000 millones de dólares, con algunas fluctuaciones en los últimos años. En el último ejercicio, el total ascendió a 850 millones de dólares.\nExpertos consideran que el aumento registrado en el primer trimestre, que llevó las exportaciones a 260 millones de dólares, refleja una aceleración significativa de la actividad comercial iraní en el continente africano, lo que apunta a un fortalecimiento de los lazos económicos y una mayor cooperación entre Irán y las naciones africanas.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/iran-anuncia-aumento-en-exportaciones-africa/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1270,
+    "message_id": 101805,
+    "date": "2025-08-14T19:55:12+00:00",
+    "text": "teleSUR\nIrán anuncia un aumento del 85 % en las exportaciones a África\nhttps://www.telesurtv.net/iran-anuncia-aumento-en-exportaciones-africa/",
+    "photo_path": null,
+    "views": 1650,
+    "reactions": {
+      "👍": 45,
+      "❤": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "según informó un alto funcionario, el valor total de las exportaciones al continente alcanzó los 260 millones de dólares en este período, informa mehr news agency, socio de tv brics. el comercio con áfrica ha experimentado un notable crecimiento, especialmente con kenia, cuyas importaciones desde irán sumaron 85 millones de dólares. el funcionario expresó su optimismo de que los volúmenes comerciales continúen aumentando a lo largo del año. las autoridades recordaron que las exportaciones anuales a áfrica suelen situarse en torno a los 1.000 millones de dólares, con algunas fluctuaciones en los últimos años. en el último ejercicio, el total ascendió a 850 millones de dólares. expertos consideran que el aumento registrado en el primer trimestre, que llevó las exportaciones a 260 millones de dólares, refleja una aceleración significativa de la actividad comercial iraní en el continente africano, lo que apunta a un fortalecimiento de los lazos económicos y una mayor cooperación entre irán y las naciones africanas.",
+    "tokens": [
+      "según",
+      "informó",
+      "alto",
+      "funcionario",
+      ",",
+      "valor",
+      "total",
+      "exportaciones",
+      "continente",
+      "alcanzó",
+      "260",
+      "millones",
+      "dólares",
+      "período",
+      ",",
+      "informa",
+      "mehr",
+      "news",
+      "agency",
+      ",",
+      "socio",
+      "tv",
+      "brics",
+      ".",
+      "comercio",
+      "áfrica",
+      "experimentado",
+      "notable",
+      "crecimiento",
+      ",",
+      "especialmente",
+      "kenia",
+      ",",
+      "cuyas",
+      "importaciones",
+      "irán",
+      "sumaron",
+      "85",
+      "millones",
+      "dólares",
+      ".",
+      "funcionario",
+      "expresó",
+      "optimismo",
+      "volúmenes",
+      "comerciales",
+      "continúen",
+      "aumentando",
+      "largo",
+      "año",
+      ".",
+      "autoridades",
+      "recordaron",
+      "exportaciones",
+      "anuales",
+      "áfrica",
+      "suelen",
+      "situarse",
+      "torno",
+      "1.000",
+      "millones",
+      "dólares",
+      ",",
+      "fluctuaciones",
+      "últimos",
+      "años",
+      ".",
+      "último",
+      "ejercicio",
+      ",",
+      "total",
+      "ascendió",
+      "850",
+      "millones",
+      "dólares",
+      ".",
+      "expertos",
+      "consideran",
+      "aumento",
+      "registrado",
+      "primer",
+      "trimestre",
+      ",",
+      "llevó",
+      "exportaciones",
+      "260",
+      "millones",
+      "dólares",
+      ",",
+      "refleja",
+      "aceleración",
+      "significativa",
+      "actividad",
+      "comercial",
+      "iraní",
+      "continente",
+      "africano",
+      ",",
+      "apunta",
+      "fortalecimiento",
+      "lazos",
+      "económicos",
+      "mayor",
+      "cooperación",
+      "irán",
+      "naciones",
+      "africanas",
+      "."
+    ],
+    "token_count": 108,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 16,
+      "NN": 48,
+      "JJ": 21,
+      "VBZ": 5,
+      "IN": 6,
+      "FW": 18,
+      "NNS": 21,
+      "VBP": 8,
+      "CD": 5,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-JJ": 6,
+      "JJ-NN": 12,
+      "NN-NN": 22,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NN-IN": 5,
+      "IN-FW": 4,
+      "FW-NNS": 6,
+      "NNS-VBP": 8,
+      "VBP-JJ": 5,
+      "JJ-NNS": 4,
+      "VBP-CD": 1,
+      "CD-NNS": 5,
+      "NNS-FW": 5,
+      "VBP-NN": 1,
+      "NN-NNP": 8,
+      "NNP-NNP": 3,
+      "NNP-FW": 1,
+      "FW-FW": 5,
+      "FW-NN": 3,
+      "JJ-JJ": 3,
+      "NN-NNS": 1,
+      "VBP-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "NNS-NNP": 2,
+      "FW-JJ": 4,
+      "NNS-NNS": 3,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NN-FW": 2,
+      "VBZ-CD": 1,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-CD": 1,
+      "IN-NN": 1,
+      "NN-VBD": 1,
+      "VBD-NNS": 1,
+      "NNS-CD": 1,
+      "JJ-FW": 1,
+      "VBZ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 5,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-FW": 5,
+      "NNS-FW-NNS": 5,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 10,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NNP-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-NN": 2,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NN": 2,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 48,
+        "JJ": 21,
+        "NNS": 21,
+        "FW": 18,
+        "NNP": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 22,
+        "JJ-NN": 12,
+        "NNP-NN": 8,
+        "NNS-VBP": 8,
+        "NN-NNP": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 10,
+        "JJ-NN-NN": 5,
+        "NNS-VBP-JJ": 5,
+        "CD-NNS-FW": 5,
+        "NNS-FW-NNS": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 49,
+      "ADJP": 3,
+      "VP": 12,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 5,
+        "weight": 0.0685
+      },
+      {
+        "rule": "NP -> ('dólares', 'NNS')",
+        "frequency": 5,
+        "weight": 0.0685
+      },
+      {
+        "rule": "S -> NP NP (',', ',') ('el', 'FW') ('valor', 'FW') ADJP ('de', 'FW') ('las', 'FW') NP VP VP ('260', 'CD') NP ('de', 'FW') NP VP (',', ',') NP (',', ',') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('Según', 'NNP') ('informó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('alto', 'NN') ('funcionario', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "ADJP -> ('total', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('exportaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('continente', 'JJ') ('alcanzó', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "VP -> ('los', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0137
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Según informó"
+      },
+      {
+        "label": "NP",
+        "text": "un alto funcionario"
+      },
+      {
+        "label": "ADJP",
+        "text": "total"
+      },
+      {
+        "label": "NP",
+        "text": "exportaciones"
+      },
+      {
+        "label": "VP",
+        "text": "al continente alcanzó"
+      },
+      {
+        "label": "NP",
+        "text": "continente alcanzó"
+      },
+      {
+        "label": "VP",
+        "text": "los"
+      },
+      {
+        "label": "NP",
+        "text": "millones"
+      },
+      {
+        "label": "NP",
+        "text": "dólares"
+      },
+      {
+        "label": "VP",
+        "text": "en este período"
+      },
+      {
+        "label": "NP",
+        "text": "este período"
+      },
+      {
+        "label": "NP",
+        "text": "informa Mehr News Agency"
+      },
+      {
+        "label": "NP",
+        "text": "socio"
+      },
+      {
+        "label": "NP",
+        "text": "TV BRICS"
+      },
+      {
+        "label": "NP",
+        "text": "El comercio con África ha experimentado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Según/NNP informó/NN)\n  (NP un/JJ alto/NN funcionario/NN)\n  ,/,\n  el/FW\n  valor/FW\n  (ADJP total/JJ)\n  de/FW\n  las/FW\n  (NP exportaciones/NNS)\n  (VP al/VBP (NP continente/JJ alcanzó/NNS))\n  (VP los/VBP)\n  260/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  (VP en/VBP (NP este/NN período/NN))\n  ,/,\n  (NP informa/JJ Mehr/NNP News/NNP Agency/NNP)\n  ,/,\n  (NP socio/NN)\n  de/FW\n  (NP TV/NN BRICS/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP comercio/NN con/NN África/NNP ha/NN experimentado/NN)\n  (NP un/JJ notable/JJ crecimiento/NN)\n  ,/,\n  (NP especialmente/JJ con/NN Kenia/NNP)\n  ,/,\n  (NP cuyas/NN importaciones/NNS)\n  (VP desde/VBP (NP Irán/NNP))\n  (VP sumaron/VBD)\n  85/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP funcionario/NN expresó/NN)\n  (NP su/JJ optimismo/NN)\n  de/IN\n  que/FW\n  (NP los/JJ volúmenes/NNS comerciales/NNS)\n  (VP continúen/VBP)\n  (PP aumentando/IN (NP a/DT lo/JJ largo/NN del/NN año/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP recordaron/NN que/NN)\n    (NP las/JJ exportaciones/NNS))\n  (VP anuales/VBZ (NP a/DT África/JJ suelen/JJ situarse/NN))\n  en/FW\n  (NP torno/NN)\n  (NP a/DT los/NN)\n  1.000/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  ,/,\n  (NP con/NN algunas/NNS fluctuaciones/NNS)\n  (PP en/IN (NP los/JJ últimos/JJ años/NN))\n  ./.)",
+      "(S\n  (NP En/NNP el/NN último/NNP ejercicio/NN)\n  ,/,\n  (NP el/JJ total/NN)\n  (VP ascendió/VBD)\n  a/DT\n  850/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "RELACIONES_INTERNACIONALES",
+      "MONETARIOS",
+      "CANTIDADES_NUMERICAS"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación entre irán y las naciones",
+        "position": [
+          978,
+          1015
+        ],
+        "start": 978,
+        "end": 1015
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          350,
+          357
+        ],
+        "start": 350,
+        "end": 357
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          6,
+          13
+        ],
+        "start": 6,
+        "end": 13
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "260 millones",
+        "position": [
+          97,
+          109
+        ],
+        "start": 97,
+        "end": 109
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "260 millones de dólares",
+        "position": [
+          97,
+          120
+        ],
+        "start": 97,
+        "end": 120
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Kenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "TV BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mehr News Agency",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "África",
+        "relacion": "EXPERIMENTAR",
+        "objeto": "Kenia"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "EXPERIMENTAR",
+        "objeto": "Irán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.016,
+    "neu": 0.984,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

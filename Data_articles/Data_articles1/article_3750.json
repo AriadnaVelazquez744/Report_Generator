@@ -1,0 +1,635 @@
+{
+  "url": "https://www.telesurtv.net/ee-uu-revoca-parole-humanitario-a-mas-de-medio-millon-de-migrantes/",
+  "title": "EE.UU. revoca “parole humanitario” a más de medio millón de migrantes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "deportaciones",
+    "MIgrantes",
+    "Parole Humaniatrio"
+  ],
+  "text": "El Gobierno de Estados Unidos (EE.UU.) anunció este viernes que el Gobierno del presidente Donald Trump revocó el estatus legal temporal (“parole humitario”) de más de medio millón de ciudadanos cubanos, nicaragüenses y venezolanos.\nDe acuerdo con el aviso del Registro Federal, la medida antimigratoria entrará en vigor a partir del próximo 24 de abril.Ello da paso a que se suspenda el permiso de entrada temporal por dos años otorgado a los migrantes por la administración anterior, que les posibilitaba entrar al país bajo el patrocinio de un ciudadano estadounidense que cumplía con los requisitos para aplicar al conocido como “parole humanitario”.\n\nEsta medida responde a lo prometido por el actual presidente Donald Trump durante su campaña, donde abogó por deportaciones masivas de migrantes que se encontraban “sin permiso” en territorio estadounidense.\nEl permiso migratorio aprobado en la administración Biden fue catalogado por Donald Trump como un traspaso a los límites de la legislación federal, por lo que solicitó su eliminación el propio día de su toma de posesión por medio de una orden ejecutiva.\nLa decisión de Biden ocurrió en medio de una crisis migratoria sin precedentes en esa nación norteamericana, pues el número de migrantes procedentes de diversas partes del mundo se registraba en millones.\nEl nuevo panorama coloca en situación irregular al más de medio millón que entró bajo ese amparo legal a los EE.UU., no obstante, habría que registrar todos los que pudieron consolidar otro estatus legal diferente al de su entrada, pues no entrarían en esta medida.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ee-uu-revoca-parole-humanitario-a-mas-de-medio-millon-de-migrantes/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 737,
+    "message_id": 89852,
+    "date": "2025-03-22T00:55:18+00:00",
+    "text": "teleSUR\nEE.UU. revoca “parole humanitario” a más de medio millón de migrantes\nhttps://www.telesurtv.net/ee-uu-revoca-parole-humanitario-a-mas-de-medio-millon-de-migrantes/",
+    "photo_path": null,
+    "views": 1899,
+    "reactions": {
+      "🔥": 19,
+      "🖕": 15,
+      "😁": 4
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de estados unidos (ee.uu.) anunció este viernes que el gobierno del presidente donald trump revocó el estatus legal temporal (“parole humitario”) de más de medio millón de ciudadanos cubanos, nicaragüenses y venezolanos. de acuerdo con el aviso del registro federal, la medida antimigratoria entrará en vigor a partir del próximo 24 de abril.ello da paso a que se suspenda el permiso de entrada temporal por dos años otorgado a los migrantes por la administración anterior, que les posibilitaba entrar al país bajo el patrocinio de un ciudadano estadounidense que cumplía con los requisitos para aplicar al conocido como “parole humanitario”. esta medida responde a lo prometido por el actual presidente donald trump durante su campaña, donde abogó por deportaciones masivas de migrantes que se encontraban “sin permiso” en territorio estadounidense. el permiso migratorio aprobado en la administración biden fue catalogado por donald trump como un traspaso a los límites de la legislación federal, por lo que solicitó su eliminación el propio día de su toma de posesión por medio de una orden ejecutiva. la decisión de biden ocurrió en medio de una crisis migratoria sin precedentes en esa nación norteamericana, pues el número de migrantes procedentes de diversas partes del mundo se registraba en millones. el nuevo panorama coloca en situación irregular al más de medio millón que entró bajo ese amparo legal a los ee.uu., no obstante, habría que registrar todos los que pudieron consolidar otro estatus legal diferente al de su entrada, pues no entrarían en esta medida.",
+    "tokens": [
+      "gobierno",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "anunció",
+      "viernes",
+      "gobierno",
+      "presidente",
+      "donald",
+      "trump",
+      "revocó",
+      "estatus",
+      "legal",
+      "temporal",
+      "(",
+      "“",
+      "parole",
+      "humitario",
+      "”",
+      ")",
+      "medio",
+      "millón",
+      "ciudadanos",
+      "cubanos",
+      ",",
+      "nicaragüenses",
+      "venezolanos",
+      ".",
+      "acuerdo",
+      "aviso",
+      "registro",
+      "federal",
+      ",",
+      "medida",
+      "antimigratoria",
+      "entrará",
+      "vigor",
+      "partir",
+      "próximo",
+      "24",
+      "abril.ello",
+      "da",
+      "paso",
+      "suspenda",
+      "permiso",
+      "entrada",
+      "temporal",
+      "dos",
+      "años",
+      "otorgado",
+      "migrantes",
+      "administración",
+      "anterior",
+      ",",
+      "posibilitaba",
+      "entrar",
+      "país",
+      "bajo",
+      "patrocinio",
+      "ciudadano",
+      "estadounidense",
+      "cumplía",
+      "requisitos",
+      "aplicar",
+      "conocido",
+      "“",
+      "parole",
+      "humanitario",
+      "”",
+      ".",
+      "medida",
+      "responde",
+      "prometido",
+      "actual",
+      "presidente",
+      "donald",
+      "trump",
+      "campaña",
+      ",",
+      "abogó",
+      "deportaciones",
+      "masivas",
+      "migrantes",
+      "encontraban",
+      "“",
+      "permiso",
+      "”",
+      "territorio",
+      "estadounidense",
+      ".",
+      "permiso",
+      "migratorio",
+      "aprobado",
+      "administración",
+      "biden",
+      "catalogado",
+      "donald",
+      "trump",
+      "traspaso",
+      "límites",
+      "legislación",
+      "federal",
+      ",",
+      "solicitó",
+      "eliminación",
+      "propio",
+      "día",
+      "toma",
+      "posesión",
+      "medio",
+      "orden",
+      "ejecutiva",
+      ".",
+      "decisión",
+      "biden",
+      "ocurrió",
+      "medio",
+      "crisis",
+      "migratoria",
+      "precedentes",
+      "nación",
+      "norteamericana",
+      ",",
+      "pues",
+      "número",
+      "migrantes",
+      "procedentes",
+      "diversas",
+      "partes",
+      "mundo",
+      "registraba",
+      "millones",
+      ".",
+      "nuevo",
+      "panorama",
+      "coloca",
+      "situación",
+      "irregular",
+      "medio",
+      "millón",
+      "entró",
+      "bajo",
+      "amparo",
+      "legal",
+      "ee.uu.",
+      ",",
+      "obstante",
+      ",",
+      "registrar",
+      "pudieron",
+      "consolidar",
+      "estatus",
+      "legal",
+      "diferente",
+      "entrada",
+      ",",
+      "pues",
+      "entrarían",
+      "medida",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "IN": 18,
+      "VBZ": 6,
+      "NN": 105,
+      "NNS": 9,
+      "VBP": 7,
+      "JJ": 25,
+      "FW": 47,
+      "VBD": 1,
+      "CD": 1,
+      "RB": 1,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 2,
+      "NN-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-JJ": 5,
+      "JJ-NNP": 1,
+      "NNP-FW": 4,
+      "FW-NN": 9,
+      "NN-NNP": 6,
+      "NNP-NN": 7,
+      "NN-NN": 66,
+      "NN-JJ": 6,
+      "JJ-JJ": 7,
+      "JJ-NN": 16,
+      "NN-IN": 13,
+      "IN-FW": 9,
+      "FW-FW": 27,
+      "FW-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-FW": 2,
+      "FW-NNP": 5,
+      "NN-FW": 4,
+      "IN-NN": 3,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "FW-JJ": 2,
+      "IN-JJ": 4,
+      "JJ-NNS": 1,
+      "NN-VBP": 1,
+      "NN-VBZ": 3,
+      "VBZ-IN": 2,
+      "FW-NNS": 2,
+      "VBP-FW": 1,
+      "NNS-IN": 1,
+      "IN-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-RB": 1,
+      "RB-VBZ": 1,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "VBZ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-JJ": 3,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 12,
+      "NN-NN-IN": 11,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 18,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 41,
+      "NN-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 2,
+      "NN-JJ-NN": 4,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "IN-JJ-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "FW-FW-JJ": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-RB": 1,
+      "NNP-RB-VBZ": 1,
+      "RB-VBZ-NN": 1,
+      "VBZ-NN-FW": 1,
+      "FW-NN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 105,
+        "FW": 47,
+        "JJ": 25,
+        "NNP": 23,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "FW-FW": 27,
+        "JJ-NN": 16,
+        "NN-IN": 13,
+        "FW-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 41,
+        "FW-FW-FW": 18,
+        "JJ-NN-NN": 12,
+        "NN-NN-IN": 11,
+        "NN-IN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 59,
+      "PP": 7,
+      "VP": 14,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.044
+      },
+      {
+        "rule": "VP -> ('en', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "S -> NP PP ('(', '(') NP (')', ')') VP VP ('del', 'FW') NP NP ('(', '(') NP (')', ')') ('de', 'FW') ('más', 'FW') ('de', 'FW') ('medio', 'FW') ('millón', 'FW') ('de', 'FW') ('ciudadanos', 'FW') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "VP -> ('anunció', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "VP",
+        "text": "anunció este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "que el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "presidente Donald Trump revocó el"
+      },
+      {
+        "label": "NP",
+        "text": "estatus legal temporal"
+      },
+      {
+        "label": "NP",
+        "text": "“ parole humitario ”"
+      },
+      {
+        "label": "NP",
+        "text": "cubanos"
+      },
+      {
+        "label": "NP",
+        "text": "nicaragüenses"
+      },
+      {
+        "label": "VP",
+        "text": "y venezolanos"
+      },
+      {
+        "label": "NP",
+        "text": "venezolanos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (VP anunció/VBP (NP este/NN viernes/NNS))\n  (VP que/VBP (NP el/JJ Gobierno/NNP))\n  del/FW\n  (NP presidente/NN Donald/NNP Trump/NNP revocó/NN el/NN)\n  (NP estatus/JJ legal/JJ temporal/NN)\n  (/(\n  (NP “/JJ parole/NN humitario/NN ”/NNP)\n  )/)\n  de/FW\n  más/FW\n  de/FW\n  medio/FW\n  millón/FW\n  de/FW\n  ciudadanos/FW\n  (NP cubanos/NNS)\n  ,/,\n  (NP nicaragüenses/NNS)\n  (VP y/VBP (NP venezolanos/NNS))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN aviso/NN)\n  del/FW\n  (NP Registro/NNP Federal/NNP)\n  ,/,\n  (NP la/NNP)\n  medida/FW\n  (NP antimigratoria/NN entrará/NN)\n  en/FW\n  vigor/FW\n  (NP a/DT partir/NN del/NN)\n  (VP próximo/VBD)\n  24/CD\n  de/IN\n  abril.Ello/FW\n  (NP da/NN paso/NN)\n  (NP a/DT que/NN se/NN suspenda/NN)\n  el/FW\n  (NP permiso/NN)\n  de/IN\n  entrada/FW\n  (NP temporal/JJ por/NN dos/NN años/NN)\n  (PP otorgado/IN (NP a/DT los/NN))\n  (VP migrantes/VBZ (NP por/JJ la/NN administración/NN) anterior/RB)\n  ,/,\n  (NP que/JJ les/NNS)\n  (VP posibilitaba/VBP (NP entrar/JJ al/NN país/NN bajo/NN))\n  el/FW\n  (NP patrocinio/NN)\n  (PP\n    de/IN\n    (NP\n      un/JJ\n      ciudadano/NN\n      estadounidense/NN\n      que/NN\n      cumplía/NN\n      con/NN\n      los/NN\n      requisitos/NN\n      para/NN\n      aplicar/NN\n      al/NN\n      conocido/NN\n      como/NN\n      “/NNP\n      parole/NN\n      humanitario/NN\n      ”/NNP))\n  ./.)",
+      "(S\n  (NP Esta/NNP medida/NN responde/NN)\n  (NP a/DT lo/JJ prometido/NN por/NN)\n  (VP\n    el/VBP\n    (NP\n      actual/JJ\n      presidente/NN\n      Donald/NNP\n      Trump/NNP\n      durante/NN\n      su/NN\n      campaña/NN))\n  ,/,\n  (NP donde/NN abogó/NN por/NN deportaciones/NNS)\n  masivas/FW\n  de/FW\n  migrantes/FW\n  que/FW\n  se/FW\n  encontraban/FW\n  “/FW\n  (NP sin/NN permiso/NN ”/NNP)\n  (VP en/VBZ (NP territorio/NN estadounidense/NN))\n  ./.)",
+      "(S\n  (NP El/NNP permiso/NN migratorio/NN aprobado/NN)\n  en/IN\n  la/FW\n  administración/FW\n  (NP\n    Biden/NNP\n    fue/NN\n    catalogado/NN\n    por/NN\n    Donald/NNP\n    Trump/NNP\n    como/NN)\n  (NP un/JJ traspaso/NN)\n  a/DT\n  (ADJP los/JJ)\n  (VP límites/VBZ)\n  de/IN\n  la/FW\n  legislación/FW\n  (ADJP federal/JJ)\n  ,/,\n  (NP\n    por/JJ\n    lo/NN\n    que/NN\n    solicitó/NN\n    su/NN\n    eliminación/NN\n    el/NN\n    propio/NN\n    día/NN)\n  de/IN\n  su/FW\n  toma/FW\n  de/FW\n  posesión/FW\n  por/FW\n  medio/FW\n  de/FW\n  una/FW\n  (NP orden/JJ ejecutiva/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  decisión/FW\n  de/FW\n  (NP Biden/NNP ocurrió/NN)\n  en/FW\n  (NP medio/NN)\n  (PP de/IN (NP una/JJ crisis/NN migratoria/NN sin/NN))\n  (VP precedentes/VBZ)\n  en/IN\n  esa/FW\n  nación/FW\n  norteamericana/FW\n  ,/,\n  (NP pues/NNS)\n  (VP el/VBP)\n  número/FW\n  de/FW\n  migrantes/FW\n  (NP procedentes/NNS)\n  (PP de/IN (NP diversas/NN partes/NNS))\n  (VP del/VBP (NP mundo/JJ se/NN registraba/NN))\n  (PP en/IN (NP millones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "PAISES",
+      "LEYES_NORMATIVAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          39,
+          46
+        ],
+        "start": 39,
+        "end": 46
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          3,
+          29
+        ],
+        "start": 3,
+        "end": 29
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente donald trump",
+        "position": [
+          80,
+          103
+        ],
+        "start": 80,
+        "end": 103
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con el aviso del registro federal, la medida antimigratoria entrará en vigor a partir del próximo 24",
+        "position": [
+          236,
+          344
+        ],
+        "start": 236,
+        "end": 344
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          15,
+          29
+        ],
+        "start": 15,
+        "end": 29
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobierno de Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Registro Federal",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno del presidente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Estados Unidos",
+        "relacion": "ANUNCIAR",
+        "objeto": "Gobierno del presidente"
+      },
+      {
+        "sujeto": "Gobierno de Estados Unidos",
+        "relacion": "ANUNCIAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Gobierno del presidente",
+        "relacion": "ANUNCIAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "ANUNCIAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Biden",
+        "relacion": "CATALOGAR",
+        "objeto": "Donald Trump"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8176,
+    "pos": 0.026,
+    "neu": 0.927,
+    "neg": 0.047,
+    "label": "negative"
+  }
+}

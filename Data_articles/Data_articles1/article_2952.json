@@ -1,0 +1,710 @@
+{
+  "url": "https://www.telesurtv.net/opep-respalda-a-venezuela-secretario-general-al-ghais-asiste-a-juramentacion-de-nicolas-maduro/",
+  "title": "OPEP respalda a Venezuela: Secretario General Al-Ghais asiste a juramentación de Nicolás Maduro - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Haitham Al-Ghais",
+    "Juramentación",
+    "Mohamed Hamel",
+    "Nicolás Maduro",
+    "OPEP",
+    "Países Exportadores Gas",
+    "Respaldo",
+    "Venezuela"
+  ],
+  "text": "\nUna delegación de alto nivel de la Organización de Países Exportadores de Petróleo (OPEP) arribó este jueves al aeropuerto internacional Simón Bolívar para participar en la ceremonia de juramentación del presidente Nicolás Maduro, quien asumirá su nuevo mandato constitucional para el periodo 2025-2031.\nEl secretario general de la OPEP, Haitham Al-Ghais, encabeza la comitiva junto a Mohamed Hamel, Secretario General del Foro de Países Exportadores de Gas. En sus primeras declaraciones tras pisar suelo venezolano, Al-Ghais expresó su “rotundo apoyo” al gobierno venezolano, al presidente Maduro y al pueblo venezolano.\n“Venezuela ha jugado un rol muy importante para la OPEP desde su creación, y por eso estamos aquí para apoyarlos“, declaró Al-Ghais durante el recibimiento oficial, donde fue atendido por el Vicepresidente sectorial de Planificación de Venezuela, Ricardo Menéndez.\nEn un gesto que refleja los estrechos vínculos entre la organización y el país sudamericano, el máximo representante de la OPEP manifestó su especial conexión con la nación al afirmar que considera a Venezuela como su “Patria”.\nLa presencia de esta delegación internacional subraya la relevancia continua de Venezuela en el mercado petrolero global y refuerza las relaciones estratégicas entre el país y la OPEP en vísperas del nuevo periodo presidencial.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/opep-respalda-a-venezuela-secretario-general-al-ghais-asiste-a-juramentacion-de-nicolas-maduro/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1669,
+    "message_id": 83994,
+    "date": "2025-01-09T17:55:23+00:00",
+    "text": "teleSUR\nOPEP respalda a Venezuela: Secretario General Al-Ghais asiste a juramentación de Nicolás Maduro\nhttps://www.telesurtv.net/opep-respalda-a-venezuela-secretario-general-al-ghais-asiste-a-juramentacion-de-nicolas-maduro/",
+    "photo_path": null,
+    "views": 2743,
+    "reactions": {
+      "👏": 82,
+      "👍": 13
+    },
+    "total_reactions": 95
+  },
+  "preprocessing": {
+    "cleaned": "una delegación de alto nivel de la organización de países exportadores de petróleo (opep) arribó este jueves al aeropuerto internacional simón bolívar para participar en la ceremonia de juramentación del presidente nicolás maduro, quien asumirá su nuevo mandato constitucional para el periodo 2025-2031. el secretario general de la opep, haitham al-ghais, encabeza la comitiva junto a mohamed hamel, secretario general del foro de países exportadores de gas. en sus primeras declaraciones tras pisar suelo venezolano, al-ghais expresó su “rotundo apoyo” al gobierno venezolano, al presidente maduro y al pueblo venezolano. “venezuela ha jugado un rol muy importante para la opep desde su creación, y por eso estamos aquí para apoyarlos“, declaró al-ghais durante el recibimiento oficial, donde fue atendido por el vicepresidente sectorial de planificación de venezuela, ricardo menéndez. en un gesto que refleja los estrechos vínculos entre la organización y el país sudamericano, el máximo representante de la opep manifestó su especial conexión con la nación al afirmar que considera a venezuela como su “patria”. la presencia de esta delegación internacional subraya la relevancia continua de venezuela en el mercado petrolero global y refuerza las relaciones estratégicas entre el país y la opep en vísperas del nuevo periodo presidencial.",
+    "tokens": [
+      "delegación",
+      "alto",
+      "nivel",
+      "organización",
+      "países",
+      "exportadores",
+      "petróleo",
+      "(",
+      "opep",
+      ")",
+      "arribó",
+      "jueves",
+      "aeropuerto",
+      "internacional",
+      "simón",
+      "bolívar",
+      "participar",
+      "ceremonia",
+      "juramentación",
+      "presidente",
+      "nicolás",
+      "maduro",
+      ",",
+      "asumirá",
+      "nuevo",
+      "mandato",
+      "constitucional",
+      "periodo",
+      "2025-2031.",
+      "secretario",
+      "general",
+      "opep",
+      ",",
+      "haitham",
+      "al-ghais",
+      ",",
+      "encabeza",
+      "comitiva",
+      "junto",
+      "mohamed",
+      "hamel",
+      ",",
+      "secretario",
+      "general",
+      "foro",
+      "países",
+      "exportadores",
+      "gas",
+      ".",
+      "primeras",
+      "declaraciones",
+      "tras",
+      "pisar",
+      "suelo",
+      "venezolano",
+      ",",
+      "al-ghais",
+      "expresó",
+      "“",
+      "rotundo",
+      "apoyo",
+      "”",
+      "gobierno",
+      "venezolano",
+      ",",
+      "presidente",
+      "maduro",
+      "pueblo",
+      "venezolano",
+      ".",
+      "“",
+      "venezuela",
+      "jugado",
+      "rol",
+      "importante",
+      "opep",
+      "creación",
+      ",",
+      "aquí",
+      "apoyarlos",
+      "“",
+      ",",
+      "declaró",
+      "al-ghais",
+      "recibimiento",
+      "oficial",
+      ",",
+      "atendido",
+      "vicepresidente",
+      "sectorial",
+      "planificación",
+      "venezuela",
+      ",",
+      "ricardo",
+      "menéndez",
+      ".",
+      "gesto",
+      "refleja",
+      "estrechos",
+      "vínculos",
+      "organización",
+      "país",
+      "sudamericano",
+      ",",
+      "máximo",
+      "representante",
+      "opep",
+      "manifestó",
+      "especial",
+      "conexión",
+      "nación",
+      "afirmar",
+      "considera",
+      "venezuela",
+      "“",
+      "patria",
+      "”",
+      ".",
+      "presencia",
+      "delegación",
+      "internacional",
+      "subraya",
+      "relevancia",
+      "continua",
+      "venezuela",
+      "mercado",
+      "petrolero",
+      "global",
+      "refuerza",
+      "relaciones",
+      "estratégicas",
+      "país",
+      "opep",
+      "vísperas",
+      "nuevo",
+      "periodo",
+      "presidencial",
+      "."
+    ],
+    "token_count": 138,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "NN": 79,
+      "FW": 40,
+      "VBZ": 2,
+      "NNS": 3,
+      "VBP": 5,
+      "JJ": 20,
+      "IN": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-FW": 7,
+      "FW-FW": 22,
+      "FW-NNP": 11,
+      "NNP-FW": 8,
+      "NNP-NNP": 15,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 3,
+      "VBP-JJ": 5,
+      "JJ-JJ": 6,
+      "JJ-NNP": 3,
+      "NN-NN": 51,
+      "NN-IN": 3,
+      "IN-FW": 2,
+      "NN-JJ": 5,
+      "JJ-NN": 10,
+      "IN-JJ": 1,
+      "NN-NNP": 9,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NN-VBP": 1,
+      "NNP-JJ": 1,
+      "FW-NN": 4,
+      "FW-JJ": 2,
+      "VBZ-FW": 1,
+      "FW-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 15,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-FW": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 11,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "NN-NN-NN": 30,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-NNS": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 6,
+      "NN-JJ-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "NNP": 40,
+        "FW": 40,
+        "JJ": 20,
+        "VBP": 5
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "FW-FW": 22,
+        "NNP-NNP": 15,
+        "NNP-NN": 13,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 15,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 9,
+        "NN-NN-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 46,
+      "VP": 7,
+      "ADJP": 1,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('OPEP', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0492
+      },
+      {
+        "rule": "NP -> ('Países', 'NNP') ('Exportadores', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0328
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0328
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('alto', 'FW') ('nivel', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') VP VP ('en', 'IN') ('la', 'FW') ('ceremonia', 'FW') ('de', 'FW') ('juramentación', 'FW') ('del', 'FW') ('presidente', 'FW') NP (',', ',') NP NP ('periodo', 'IN') ADJP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('delegación', 'NN')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Organización', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Petróleo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "VP -> ('arribó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0164
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una delegación"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Países Exportadores"
+      },
+      {
+        "label": "NP",
+        "text": "Petróleo"
+      },
+      {
+        "label": "NP",
+        "text": "OPEP"
+      },
+      {
+        "label": "VP",
+        "text": "arribó este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "al aeropuerto internacional Simón Bolívar para participar"
+      },
+      {
+        "label": "NP",
+        "text": "aeropuerto internacional Simón Bolívar para participar"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "quien asumirá su"
+      },
+      {
+        "label": "NP",
+        "text": "nuevo mandato constitucional para el"
+      },
+      {
+        "label": "ADJP",
+        "text": "2025-2031"
+      },
+      {
+        "label": "NP",
+        "text": "El secretario general"
+      },
+      {
+        "label": "NP",
+        "text": "OPEP"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP delegación/NN)\n  de/FW\n  alto/FW\n  nivel/FW\n  de/FW\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  (NP Países/NNP Exportadores/NNP)\n  de/FW\n  (NP Petróleo/NNP)\n  (/(\n  (NP OPEP/NNP)\n  )/)\n  (VP arribó/VBP (NP este/NN jueves/NNS))\n  (VP\n    al/VBP\n    (NP\n      aeropuerto/JJ\n      internacional/JJ\n      Simón/NNP\n      Bolívar/NNP\n      para/NN\n      participar/NN))\n  en/IN\n  la/FW\n  ceremonia/FW\n  de/FW\n  juramentación/FW\n  del/FW\n  presidente/FW\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP quien/NN asumirá/NN su/NN)\n  (NP nuevo/JJ mandato/JJ constitucional/JJ para/NN el/NN)\n  periodo/IN\n  (ADJP 2025-2031/JJ)\n  ./.)",
+      "(S\n  (NP El/NNP secretario/NN general/NN)\n  de/IN\n  la/FW\n  (NP OPEP/NNP)\n  ,/,\n  (NP Haitham/NNP Al-Ghais/NNP)\n  ,/,\n  (VP encabeza/VBZ)\n  la/FW\n  comitiva/FW\n  junto/FW\n  (NP a/DT Mohamed/NNP Hamel/NNP)\n  ,/,\n  (NP Secretario/NNP General/NNP)\n  del/FW\n  (NP Foro/NNP)\n  de/FW\n  (NP Países/NNP Exportadores/NNP)\n  (PP de/IN (NP Gas/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP sus/NN primeras/NN declaraciones/NNS)\n  (VP tras/VBP (NP pisar/JJ suelo/NN venezolano/NN))\n  ,/,\n  (NP\n    Al-Ghais/NNP\n    expresó/NN\n    su/NN\n    “/NNP\n    rotundo/NN\n    apoyo/NN\n    ”/NNP\n    al/NN\n    gobierno/NN\n    venezolano/NN)\n  ,/,\n  (NP\n    al/JJ\n    presidente/NN\n    Maduro/NNP\n    y/NN\n    al/NN\n    pueblo/NN\n    venezolano/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Venezuela/NNP ha/NN jugado/NN)\n  (NP\n    un/JJ\n    rol/NN\n    muy/NN\n    importante/NN\n    para/NN\n    la/NN\n    OPEP/NNP\n    desde/NN\n    su/NN\n    creación/NN)\n  ,/,\n  y/CC\n  (NP por/JJ eso/NN estamos/NN aquí/NN para/NN apoyarlos/NN “/NNP)\n  ,/,\n  (VP\n    declaró/VBZ\n    (NP Al-Ghais/NNP durante/NN el/NN recibimiento/NN)\n    oficial/JJ)\n  ,/,\n  (NP\n    donde/JJ\n    fue/NN\n    atendido/NN\n    por/NN\n    el/NN\n    Vicepresidente/NNP\n    sectorial/NN)\n  de/FW\n  (NP Planificación/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Ricardo/NNP Menéndez/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ gesto/NN que/NN refleja/NN los/NN)\n  (NP estrechos/JJ vínculos/NN entre/NN la/NN)\n  organización/FW\n  (NP y/NN el/NN país/NN sudamericano/NN)\n  ,/,\n  el/FW\n  máximo/FW\n  representante/FW\n  de/FW\n  la/FW\n  (NP OPEP/NNP)\n  manifestó/FW\n  (NP su/JJ especial/JJ conexión/NN con/NN la/NN)\n  nación/FW\n  (NP al/NN afirmar/NN que/NN considera/NN)\n  (NP a/DT Venezuela/NNP como/NN su/NN “/NNP Patria/NNP ”/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          1017,
+          1026
+        ],
+        "start": 1017,
+        "end": 1026
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo” al gobierno",
+        "position": [
+          548,
+          566
+        ],
+        "start": 548,
+        "end": 566
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          528,
+          535
+        ],
+        "start": 528,
+        "end": 535
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "delegación de alto nivel de la organización de países exportadores de petróleo (opep) arribó este jueves al aeropuerto internacional",
+        "position": [
+          5,
+          137
+        ],
+        "start": 5,
+        "end": 137
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          205,
+          230
+        ],
+        "start": 205,
+        "end": 230
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          113,
+          123
+        ],
+        "start": 113,
+        "end": 123
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          625,
+          634
+        ],
+        "start": 625,
+        "end": 634
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "OPEP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Foro de Países Exportadores de Gas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al-Ghais",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vicepresidente sectorial de Planificación de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Haitham Al-Ghais",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mohamed Hamel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Secretario General del",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ricardo Menéndez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "aeropuerto internacional Simón Bolívar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de Países Exportadores de Petróleo",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Organización de Países Exportadores de Petróleo",
+        "relacion": "ARRIBAR",
+        "objeto": "aeropuerto internacional Simón Bolívar"
+      },
+      {
+        "sujeto": "Organización de Países Exportadores de Petróleo",
+        "relacion": "ARRIBAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "ARRIBAR",
+        "objeto": "aeropuerto internacional Simón Bolívar"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "ARRIBAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "aeropuerto internacional Simón Bolívar",
+        "relacion": "ARRIBAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "ENCABEZAR",
+        "objeto": "Haitham Al-Ghais"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "ENCABEZAR",
+        "objeto": "Mohamed Hamel"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "ENCABEZAR",
+        "objeto": "Secretario General del"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "ENCABEZAR",
+        "objeto": "Foro de Países Exportadores de Gas"
+      },
+      {
+        "sujeto": "Haitham Al-Ghais",
+        "relacion": "AL_GHAIS_ENCABEZAR",
+        "objeto": "Mohamed Hamel"
+      },
+      {
+        "sujeto": "Haitham Al-Ghais",
+        "relacion": "AL_GHAIS_ENCABEZAR",
+        "objeto": "Secretario General del"
+      },
+      {
+        "sujeto": "Haitham Al-Ghais",
+        "relacion": "AL_GHAIS_ENCABEZAR",
+        "objeto": "Foro de Países Exportadores de Gas"
+      },
+      {
+        "sujeto": "Al-Ghais",
+        "relacion": "AL_GHAIS_EXPRESAR",
+        "objeto": "Maduro"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "JUGAR_DECLARAR",
+        "objeto": "OPEP"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "JUGAR_DECLARAR",
+        "objeto": "Al-Ghais"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "JUGAR_DECLARAR",
+        "objeto": "Vicepresidente sectorial de Planificación de Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "JUGAR_DECLARAR",
+        "objeto": "Ricardo Menéndez"
+      },
+      {
+        "sujeto": "Al-Ghais",
+        "relacion": "JUGAR_DECLARAR",
+        "objeto": "OPEP"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "JUGAR_DECLARAR",
+        "objeto": "Vicepresidente sectorial de Planificación de Venezuela"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "JUGAR_DECLARAR",
+        "objeto": "Ricardo Menéndez"
+      },
+      {
+        "sujeto": "Al-Ghais",
+        "relacion": "AL_GHAIS_DECLARAR",
+        "objeto": "Vicepresidente sectorial de Planificación de Venezuela"
+      },
+      {
+        "sujeto": "Al-Ghais",
+        "relacion": "AL_GHAIS_DECLARAR",
+        "objeto": "Ricardo Menéndez"
+      },
+      {
+        "sujeto": "Vicepresidente sectorial de Planificación de Venezuela",
+        "relacion": "ES",
+        "objeto": "Ricardo Menéndez"
+      },
+      {
+        "sujeto": "OPEP",
+        "relacion": "MANIFESTAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "SUBRAYAR",
+        "objeto": "OPEP"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.012,
+    "neu": 0.988,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

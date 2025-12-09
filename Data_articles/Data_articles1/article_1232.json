@@ -1,0 +1,611 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-vietnam-triunfo-revolucion-agosto/",
+  "title": "Venezuela extiende felicitaciones a Vietnam por 80 aniversario del triunfo de la Revolución de Agosto - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Felicitaciones",
+    "Revolución de Agosto",
+    "Triunfo",
+    "Venezuela",
+    "Vietnam"
+  ],
+  "text": "En un comunicado emitido por la cancillería venezolana, el Gobierno Bolivariano se refirió al 19 de agosto de 1945, como un hito de lucha y determinación en la historia de la nación vietnamita. Esta fecha es recordada como el día en que el “Pueblo de Vietnam demostró al mundo su espíritu indomable y su determinación inquebrantable de forjar su propio destino”.\nEl Gobierno de Venezuela destacó que “La Revolución de Agosto marcó el inicio del camino hacia la independencia, como un ejemplo de esperanza y resiliencia para las naciones que luchan por su soberanía y autodeterminación”.\nEn tal sentido, el documento añade que “el legado de su lucha se hace evidente en el vibrante y próspero Vietnam de hoy”, al ser considerado como “un país que inspira a la comunidad internacional por su dinamismo y capacidad de superación“.\n\n\n\n\nEn la misiva, la República Bolivariana de Venezuela reitera a la República Socialista de Vietnam “la voluntad de robustecer los vínculos de amistad y cooperación mutua, y desea un futuro de paz, tranquilidad y victorias a todo su Pueblo”.\nVenezuela y Vietnam, cuyas relaciones diplomáticas se establecieron el 18 de diciembre de 1989, mantienen encuentros e intercambios de manera frecuente.\nA principios de diciembre de 2024, los partidos gobernantes de ambas naciones, sostuvieron un encuentro celebrado en el país asiático, en el que las partes revisaron su mapa de cooperación, así como las acciones orientadas a fortalecer la relación mutua.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-vietnam-triunfo-revolucion-agosto/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 940,
+    "message_id": 102196,
+    "date": "2025-08-19T16:55:23+00:00",
+    "text": "teleSUR\nVenezuela extiende felicitaciones a Vietnam por 80 aniversario del triunfo de la Revolución de Agosto\nhttps://www.telesurtv.net/venezuela-vietnam-triunfo-revolucion-agosto/",
+    "photo_path": null,
+    "views": 2175,
+    "reactions": {
+      "❤": 40,
+      "👏": 14
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "en un comunicado emitido por la cancillería venezolana, el gobierno bolivariano se refirió al 19 de agosto de 1945, como un hito de lucha y determinación en la historia de la nación vietnamita. esta fecha es recordada como el día en que el “pueblo de vietnam demostró al mundo su espíritu indomable y su determinación inquebrantable de forjar su propio destino”. el gobierno de venezuela destacó que “la revolución de agosto marcó el inicio del camino hacia la independencia, como un ejemplo de esperanza y resiliencia para las naciones que luchan por su soberanía y autodeterminación”. en tal sentido, el documento añade que “el legado de su lucha se hace evidente en el vibrante y próspero vietnam de hoy”, al ser considerado como “un país que inspira a la comunidad internacional por su dinamismo y capacidad de superación“. en la misiva, la república bolivariana de venezuela reitera a la república socialista de vietnam “la voluntad de robustecer los vínculos de amistad y cooperación mutua, y desea un futuro de paz, tranquilidad y victorias a todo su pueblo”. venezuela y vietnam, cuyas relaciones diplomáticas se establecieron el 18 de diciembre de 1989, mantienen encuentros e intercambios de manera frecuente. a principios de diciembre de 2024, los partidos gobernantes de ambas naciones, sostuvieron un encuentro celebrado en el país asiático, en el que las partes revisaron su mapa de cooperación, así como las acciones orientadas a fortalecer la relación mutua.",
+    "tokens": [
+      "comunicado",
+      "emitido",
+      "cancillería",
+      "venezolana",
+      ",",
+      "gobierno",
+      "bolivariano",
+      "refirió",
+      "19",
+      "agosto",
+      "1945",
+      ",",
+      "hito",
+      "lucha",
+      "determinación",
+      "historia",
+      "nación",
+      "vietnamita",
+      ".",
+      "fecha",
+      "recordada",
+      "día",
+      "“",
+      "pueblo",
+      "vietnam",
+      "demostró",
+      "mundo",
+      "espíritu",
+      "indomable",
+      "determinación",
+      "inquebrantable",
+      "forjar",
+      "propio",
+      "destino",
+      "”",
+      ".",
+      "gobierno",
+      "venezuela",
+      "destacó",
+      "“",
+      "revolución",
+      "agosto",
+      "marcó",
+      "inicio",
+      "camino",
+      "hacia",
+      "independencia",
+      ",",
+      "ejemplo",
+      "esperanza",
+      "resiliencia",
+      "naciones",
+      "luchan",
+      "soberanía",
+      "autodeterminación",
+      "”",
+      ".",
+      "tal",
+      ",",
+      "documento",
+      "añade",
+      "“",
+      "legado",
+      "lucha",
+      "hace",
+      "evidente",
+      "vibrante",
+      "próspero",
+      "vietnam",
+      "hoy",
+      "”",
+      ",",
+      "ser",
+      "considerado",
+      "“",
+      "país",
+      "inspira",
+      "comunidad",
+      "internacional",
+      "dinamismo",
+      "capacidad",
+      "superación",
+      "“",
+      ".",
+      "misiva",
+      ",",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "reitera",
+      "república",
+      "socialista",
+      "vietnam",
+      "“",
+      "voluntad",
+      "robustecer",
+      "vínculos",
+      "amistad",
+      "cooperación",
+      "mutua",
+      ",",
+      "desea",
+      "futuro",
+      "paz",
+      ",",
+      "tranquilidad",
+      "victorias",
+      "pueblo",
+      "”",
+      ".",
+      "venezuela",
+      "vietnam",
+      ",",
+      "cuyas",
+      "relaciones",
+      "diplomáticas",
+      "establecieron",
+      "18",
+      "diciembre",
+      "1989",
+      ",",
+      "mantienen",
+      "encuentros",
+      "intercambios",
+      "manera",
+      "frecuente",
+      ".",
+      "principios",
+      "diciembre",
+      "2024",
+      ",",
+      "partidos",
+      "gobernantes",
+      "ambas",
+      "naciones",
+      ",",
+      "sostuvieron",
+      "encuentro",
+      "celebrado",
+      "país",
+      "asiático",
+      ",",
+      "partes",
+      "revisaron",
+      "mapa",
+      "cooperación",
+      ",",
+      "así",
+      "acciones",
+      "orientadas",
+      "fortalecer",
+      "relación",
+      "mutua",
+      "."
+    ],
+    "token_count": 154,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "JJ": 25,
+      "NN": 79,
+      "VBD": 3,
+      "CD": 5,
+      "FW": 56,
+      "IN": 15,
+      "NNS": 6,
+      "RB": 1,
+      "VBP": 5,
+      "JJR": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 16,
+      "NN-NN": 45,
+      "NN-NNP": 6,
+      "NNP-NNP": 8,
+      "NNP-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-JJ": 3,
+      "JJ-CD": 1,
+      "CD-FW": 2,
+      "FW-FW": 33,
+      "FW-IN": 3,
+      "IN-CD": 3,
+      "CD-NN": 2,
+      "NN-JJ": 8,
+      "NN-IN": 9,
+      "IN-FW": 8,
+      "FW-NNP": 9,
+      "NNP-NN": 6,
+      "IN-NN": 2,
+      "NN-FW": 3,
+      "NNP-FW": 8,
+      "JJ-FW": 2,
+      "FW-NN": 7,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "FW-JJ": 3,
+      "NN-NNS": 3,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 5,
+      "NN-VBD": 2,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "NN-VBP": 1,
+      "NNS-VBP": 2,
+      "VBD-CD": 1,
+      "JJ-NNS": 3,
+      "NNS-IN": 2,
+      "CD-JJ": 1,
+      "IN-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-VBP": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 25,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 2,
+      "JJ-JJ-CD": 1,
+      "JJ-CD-FW": 1,
+      "CD-FW-FW": 2,
+      "FW-FW-IN": 3,
+      "FW-IN-CD": 3,
+      "IN-CD-NN": 2,
+      "CD-NN-JJ": 2,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 4,
+      "NN-IN-NN": 2,
+      "IN-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 4,
+      "NN-NN-JJ": 4,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "JJ-NN-JJ": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 5,
+      "NN-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "FW-NN-JJ": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "FW-JJ-FW": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 56,
+        "NNP": 25,
+        "JJ": 25,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 33,
+        "JJ-NN": 16,
+        "NN-IN": 9,
+        "FW-NNP": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "FW-FW-FW": 23,
+        "JJ-NN-NN": 9,
+        "NN-IN-FW": 7,
+        "NN-JJ-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 56,
+      "VP": 10,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0625
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('como', 'NN')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('Vietnam', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "S -> NP NP (',', ',') ('el', 'FW') NP VP ('19', 'CD') ('de', 'FW') ('agosto', 'FW') ('de', 'IN') ('1945', 'CD') (',', ',') NP NP ('de', 'IN') ('lucha', 'FW') ('y', 'FW') ('determinación', 'FW') ('en', 'FW') ('la', 'FW') ('historia', 'FW') ('de', 'FW') ('la', 'FW') ('nación', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN') ('emitido', 'NN') ('por', 'NN') ('la', 'NN') ('cancillería', 'NN') ('venezolana', 'NN')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP') ('Bolivariano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') ('refirió', 'JJ') ('al', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('hito', 'NN')",
+        "frequency": 1,
+        "weight": 0.0125
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado emitido por la cancillería venezolana"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno Bolivariano"
+      },
+      {
+        "label": "VP",
+        "text": "se refirió al"
+      },
+      {
+        "label": "NP",
+        "text": "como"
+      },
+      {
+        "label": "NP",
+        "text": "un hito"
+      },
+      {
+        "label": "NP",
+        "text": "vietnamita"
+      },
+      {
+        "label": "NP",
+        "text": "Esta fecha es recordada como el día"
+      },
+      {
+        "label": "PP",
+        "text": "en que el “ Pueblo"
+      },
+      {
+        "label": "NP",
+        "text": "que el “ Pueblo"
+      },
+      {
+        "label": "PP",
+        "text": "de Vietnam demostró al mundo su espíritu"
+      },
+      {
+        "label": "NP",
+        "text": "Vietnam demostró al mundo su espíritu"
+      },
+      {
+        "label": "NP",
+        "text": "indomable y su determinación"
+      },
+      {
+        "label": "ADJP",
+        "text": "inquebrantable"
+      },
+      {
+        "label": "NP",
+        "text": "propio destino ”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP\n    un/JJ\n    comunicado/NN\n    emitido/NN\n    por/NN\n    la/NN\n    cancillería/NN\n    venezolana/NN)\n  ,/,\n  el/FW\n  (NP Gobierno/NNP Bolivariano/NNP)\n  (VP se/VBD refirió/JJ al/JJ)\n  19/CD\n  de/FW\n  agosto/FW\n  de/IN\n  1945/CD\n  ,/,\n  (NP como/NN)\n  (NP un/JJ hito/NN)\n  de/IN\n  lucha/FW\n  y/FW\n  determinación/FW\n  en/FW\n  la/FW\n  historia/FW\n  de/FW\n  la/FW\n  nación/FW\n  (NP vietnamita/NN)\n  ./.)",
+      "(S\n  (NP Esta/NNP fecha/NN es/NN recordada/NN como/NN el/NN día/NN)\n  (PP en/IN (NP que/NN el/NN “/NNP Pueblo/NNP))\n  (PP\n    de/IN\n    (NP Vietnam/NNP demostró/NN al/NN mundo/NN su/NN espíritu/NN))\n  (NP indomable/JJ y/NN su/NN determinación/NN)\n  (ADJP inquebrantable/JJ)\n  de/FW\n  forjar/FW\n  su/FW\n  (NP propio/NN destino/NN ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  de/FW\n  (NP Venezuela/NNP destacó/NN que/NN “/NNP La/NNP Revolución/NNP)\n  (PP de/IN (NP Agosto/NNP marcó/NNP))\n  el/FW\n  (NP inicio/NN del/NN camino/NN hacia/NN la/NN independencia/NN)\n  ,/,\n  (NP como/NN)\n  (NP un/JJ ejemplo/NN)\n  de/IN\n  esperanza/FW\n  y/FW\n  (NP resiliencia/NN para/NN las/NN naciones/NNS)\n  que/RB\n  (VP\n    luchan/VBP\n    (NP por/JJ su/NN soberanía/NN y/NN autodeterminación/NN ”/NN))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP tal/JJ sentido/NN)\n  ,/,\n  el/FW\n  documento/FW\n  (NP añade/NN que/NN “/NNP)\n  (VP el/VBZ)\n  legado/FW\n  de/FW\n  su/FW\n  lucha/FW\n  se/FW\n  (NP hace/NN evidente/NN)\n  en/FW\n  el/FW\n  vibrante/FW\n  y/FW\n  próspero/FW\n  (NP Vietnam/NNP)\n  de/FW\n  hoy/FW\n  ”/FW\n  ,/,\n  al/FW\n  (NP ser/JJR considerado/NN como/NN “/NNP)\n  (NP un/JJ país/NN que/NN)\n  (VP\n    inspira/VBZ\n    (NP a/DT la/NN)\n    (NP\n      comunidad/JJ\n      internacional/JJ\n      por/NN\n      su/NN\n      dinamismo/NN\n      y/NN\n      capacidad/NN))\n  de/IN\n  superación/FW\n  (NP “/NN)\n  ./.)",
+      "(S\n  (NP En/NNP la/NN misiva/NN)\n  ,/,\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  (VP reitera/VBZ (NP a/DT la/NN República/NNP Socialista/NNP))\n  de/FW\n  (NP Vietnam/NNP “/NNP la/NNP)\n  voluntad/FW\n  de/FW\n  robustecer/FW\n  los/FW\n  vínculos/FW\n  de/FW\n  amistad/FW\n  y/FW\n  (NP cooperación/NN mutua/NN)\n  ,/,\n  y/CC\n  (NP desea/NN)\n  (NP un/JJ futuro/NN)\n  (PP de/IN (NP paz/NN))\n  ,/,\n  (NP tranquilidad/JJ y/NN)\n  (VP victorias/VBD (NP a/DT todo/NN su/NN Pueblo/NNP ”/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "FECHAS_HORAS",
+      "APROBACION_RECHAZO",
+      "FECHAS_ESPECIFICAS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de venezuela destacó",
+        "position": [
+          366,
+          395
+        ],
+        "start": 366,
+        "end": 395
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          388,
+          395
+        ],
+        "start": 388,
+        "end": 395
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          378,
+          387
+        ],
+        "start": 378,
+        "end": 387
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "19 de agosto de 1945",
+        "position": [
+          94,
+          114
+        ],
+        "start": 94,
+        "end": 114
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          703,
+          706
+        ],
+        "start": 703,
+        "end": 706
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "18 de diciembre de 1989",
+        "position": [
+          1142,
+          1165
+        ],
+        "start": 1142,
+        "end": 1165
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Vietnam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno Bolivariano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Socialista de Vietnam",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "REITERAR",
+        "objeto": "República Socialista de Vietnam"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

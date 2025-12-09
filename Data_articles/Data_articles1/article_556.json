@@ -1,0 +1,858 @@
+{
+  "url": "https://www.telesurtv.net/organizaciones-africa-solidarias-venezuela-eeuu/",
+  "title": "Zona de paz: Organizaciones africanas se solidarizan con Venezuela ante amenaza militar de EE.UU. - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "África",
+    "amenaza militar",
+    "EE.UU.",
+    "Injerencismo",
+    "Internacional Antifascista",
+    "solidaridad",
+    "Venezuela",
+    "zona de paz"
+  ],
+  "text": "Partidos y organizaciones africanas, integrantes y cofundadores de la Internacional Antifascista, expresaron su firme solidaridad con el pueblo venezolano y su Gobierno legítimo, en defensa de la soberanía nacional y de los pueblos de América Latina, ante el anunciado despliegue militar de EE.UU. en el Caribe, considerado la mayor amenaza de ese tipo en la historia de la región.\nEl pronunciamiento denuncia las amenazas, sabotajes y maniobras de desestabilización impulsadas por Estados Unidos bajo el liderazgo del presidente Donald Trump y sus aliados. Según el texto, Venezuela representa una “alternativa política, social y económica creíble” que desafía la hegemonía de las potencias dominantes, razón por la cual es percibida como una amenaza por el imperialismo estadounidense.\nEl comunicado destaca que Venezuela ha logrado nacionalizar sus recursos y poner su riqueza petrolera al servicio del pueblo, construyendo un modelo de justicia social independiente de organismos como el FMI y el Banco Mundial. Además, se condena el intento de destruir el legado del comandante Hugo Chávez mediante bloqueos, campañas de desinformación, intentos de golpe de Estado y amenazas militares.\n“En este momento crítico, afirmamos que el pueblo venezolano no está solo. África antifascista y antimperialista los acompañan, defendiendo la soberanía de las naciones, la dignidad de los pueblos y el legado inmortal de Hugo Chávez”, concluye el comunicado.\nEn el marco de la campaña internacional “Venezuela no es una amenaza, es una esperanza”, jóvenes de Namibia y Zimbabue también se sumaron a la ola de solidaridad. A través de mensajes y videos difundidos en redes sociales, reafirmaron su compromiso con la paz y la autodeterminación de los pueblos, haciendo eco del llamado venezolano a resistir las presiones externas y defender su modelo soberano.\nEste respaldo internacional refuerza la narrativa del Gobierno venezolano sobre su papel como bastión de resistencia frente a las políticas intervencionistas, y evidencia el alcance global de las redes de apoyo antifascista y antimperialista.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/organizaciones-africa-solidarias-venezuela-eeuu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 895,
+    "message_id": 103675,
+    "date": "2025-09-03T12:55:07+00:00",
+    "text": "teleSUR\nZona de paz: Organizaciones africanas se solidarizan con Venezuela ante amenaza militar de EE.UU.\nhttps://www.telesurtv.net/organizaciones-africa-solidarias-venezuela-eeuu/",
+    "photo_path": null,
+    "views": 2343,
+    "reactions": {
+      "❤": 47,
+      "👍": 16,
+      "👏": 2
+    },
+    "total_reactions": 65
+  },
+  "preprocessing": {
+    "cleaned": "partidos y organizaciones africanas, integrantes y cofundadores de la internacional antifascista, expresaron su firme solidaridad con el pueblo venezolano y su gobierno legítimo, en defensa de la soberanía nacional y de los pueblos de américa latina, ante el anunciado despliegue militar de ee.uu. en el caribe, considerado la mayor amenaza de ese tipo en la historia de la región. el pronunciamiento denuncia las amenazas, sabotajes y maniobras de desestabilización impulsadas por estados unidos bajo el liderazgo del presidente donald trump y sus aliados. según el texto, venezuela representa una “alternativa política, social y económica creíble” que desafía la hegemonía de las potencias dominantes, razón por la cual es percibida como una amenaza por el imperialismo estadounidense. el comunicado destaca que venezuela ha logrado nacionalizar sus recursos y poner su riqueza petrolera al servicio del pueblo, construyendo un modelo de justicia social independiente de organismos como el fmi y el banco mundial. además, se condena el intento de destruir el legado del comandante hugo chávez mediante bloqueos, campañas de desinformación, intentos de golpe de estado y amenazas militares. “en este momento crítico, afirmamos que el pueblo venezolano no está solo. áfrica antifascista y antimperialista los acompañan, defendiendo la soberanía de las naciones, la dignidad de los pueblos y el legado inmortal de hugo chávez”, concluye el comunicado. en el marco de la campaña internacional “venezuela no es una amenaza, es una esperanza”, jóvenes de namibia y zimbabue también se sumaron a la ola de solidaridad. a través de mensajes y videos difundidos en redes sociales, reafirmaron su compromiso con la paz y la autodeterminación de los pueblos, haciendo eco del llamado venezolano a resistir las presiones externas y defender su modelo soberano. este respaldo internacional refuerza la narrativa del gobierno venezolano sobre su papel como bastión de resistencia frente a las políticas intervencionistas, y evidencia el alcance global de las redes de apoyo antifascista y antimperialista.",
+    "tokens": [
+      "partidos",
+      "organizaciones",
+      "africanas",
+      ",",
+      "integrantes",
+      "cofundadores",
+      "internacional",
+      "antifascista",
+      ",",
+      "expresaron",
+      "firme",
+      "solidaridad",
+      "pueblo",
+      "venezolano",
+      "gobierno",
+      "legítimo",
+      ",",
+      "defensa",
+      "soberanía",
+      "nacional",
+      "pueblos",
+      "américa",
+      "latina",
+      ",",
+      "anunciado",
+      "despliegue",
+      "militar",
+      "ee.uu.",
+      "caribe",
+      ",",
+      "considerado",
+      "mayor",
+      "amenaza",
+      "tipo",
+      "historia",
+      "región",
+      ".",
+      "pronunciamiento",
+      "denuncia",
+      "amenazas",
+      ",",
+      "sabotajes",
+      "maniobras",
+      "desestabilización",
+      "impulsadas",
+      "unidos",
+      "bajo",
+      "liderazgo",
+      "presidente",
+      "donald",
+      "trump",
+      "aliados",
+      ".",
+      "según",
+      "texto",
+      ",",
+      "venezuela",
+      "representa",
+      "“",
+      "alternativa",
+      "política",
+      ",",
+      "social",
+      "económica",
+      "creíble",
+      "”",
+      "desafía",
+      "hegemonía",
+      "potencias",
+      "dominantes",
+      ",",
+      "razón",
+      "percibida",
+      "amenaza",
+      "imperialismo",
+      "estadounidense",
+      ".",
+      "comunicado",
+      "destaca",
+      "venezuela",
+      "logrado",
+      "nacionalizar",
+      "recursos",
+      "poner",
+      "riqueza",
+      "petrolera",
+      "servicio",
+      "pueblo",
+      ",",
+      "construyendo",
+      "modelo",
+      "justicia",
+      "social",
+      "independiente",
+      "organismos",
+      "fmi",
+      "banco",
+      "mundial",
+      ".",
+      "además",
+      ",",
+      "condena",
+      "intento",
+      "destruir",
+      "legado",
+      "comandante",
+      "hugo",
+      "chávez",
+      "mediante",
+      "bloqueos",
+      ",",
+      "campañas",
+      "desinformación",
+      ",",
+      "intentos",
+      "golpe",
+      "amenazas",
+      "militares",
+      ".",
+      "“",
+      "momento",
+      "crítico",
+      ",",
+      "afirmamos",
+      "pueblo",
+      "venezolano",
+      "solo",
+      ".",
+      "áfrica",
+      "antifascista",
+      "antimperialista",
+      "acompañan",
+      ",",
+      "defendiendo",
+      "soberanía",
+      "naciones",
+      ",",
+      "dignidad",
+      "pueblos",
+      "legado",
+      "inmortal",
+      "hugo",
+      "chávez",
+      "”",
+      ",",
+      "concluye",
+      "comunicado",
+      ".",
+      "marco",
+      "campaña",
+      "internacional",
+      "“",
+      "venezuela",
+      "amenaza",
+      ",",
+      "esperanza",
+      "”",
+      ",",
+      "jóvenes",
+      "namibia",
+      "zimbabue",
+      "sumaron",
+      "ola",
+      "solidaridad",
+      ".",
+      "través",
+      "mensajes",
+      "videos",
+      "difundidos",
+      "redes",
+      "sociales",
+      ",",
+      "reafirmaron",
+      "compromiso",
+      "paz",
+      "autodeterminación",
+      "pueblos",
+      ",",
+      "haciendo",
+      "eco",
+      "llamado",
+      "venezolano",
+      "resistir",
+      "presiones",
+      "externas",
+      "defender",
+      "modelo",
+      "soberano",
+      ".",
+      "respaldo",
+      "internacional",
+      "refuerza",
+      "narrativa",
+      "gobierno",
+      "venezolano",
+      "papel",
+      "bastión",
+      "resistencia",
+      "frente",
+      "políticas",
+      "intervencionistas",
+      ",",
+      "evidencia",
+      "alcance",
+      "global",
+      "redes",
+      "apoyo",
+      "antifascista",
+      "antimperialista",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NNS": 10,
+      "VBP": 6,
+      "FW": 94,
+      "NN": 111,
+      "JJ": 23,
+      "IN": 8,
+      "VBZ": 3,
+      "VBD": 1,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "FW-NNP": 10,
+      "NNP-NNP": 10,
+      "NNP-NN": 16,
+      "NN-NN": 71,
+      "NN-JJ": 11,
+      "JJ-NN": 14,
+      "NN-NNP": 9,
+      "NN-FW": 10,
+      "FW-FW": 69,
+      "NN-IN": 6,
+      "IN-NNP": 2,
+      "NNP-FW": 4,
+      "IN-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-IN": 2,
+      "IN-FW": 5,
+      "JJ-FW": 3,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 2,
+      "NN-VBP": 1,
+      "VBP-JJ": 4,
+      "FW-VBZ": 1,
+      "VBZ-VBP": 1,
+      "FW-JJ": 4,
+      "FW-NN": 7,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "NN-NNS": 1,
+      "NNS-NNP": 1,
+      "NN-DT": 1,
+      "DT-NN": 2,
+      "FW-NNS": 3,
+      "NNS-FW": 2,
+      "NNP-DT": 1,
+      "JJ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 14,
+      "NN-NN-NN": 43,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 8,
+      "JJ-NN-NN": 11,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 54,
+      "FW-FW-NNP": 7,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-NNP-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "NN-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "NN-NNP-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-NN-FW": 5,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-FW": 2,
+      "NNS-FW-FW": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "NNS-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "VBZ-JJ-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 111,
+        "FW": 94,
+        "NNP": 35,
+        "JJ": 23,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 71,
+        "FW-FW": 69,
+        "NNP-NN": 16,
+        "JJ-NN": 14,
+        "NN-JJ": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 54,
+        "NN-NN-NN": 43,
+        "NNP-NN-NN": 14,
+        "JJ-NN-NN": 11,
+        "NN-NN-JJ": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 9,
+      "PP": 2,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP ('y', 'PRP') VP (',', ',') NP VP ('de', 'FW') ('la', 'FW') NP (',', ',') NP NP (',', ',') ('en', 'FW') ('defensa', 'FW') ('de', 'FW') ('la', 'FW') ('soberanía', 'FW') NP ('de', 'IN') ('los', 'FW') ('pueblos', 'FW') ('de', 'FW') NP (',', ',') NP ('el', 'FW') NP PP ('en', 'FW') NP (',', ',') NP PP ('en', 'IN') ('la', 'FW') ('historia', 'FW') ('de', 'FW') ('la', 'FW') ('región', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Partidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('organizaciones', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('africanas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('integrantes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('cofundadores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Internacional', 'NNP') ('Antifascista', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Partidos"
+      },
+      {
+        "label": "VP",
+        "text": "organizaciones africanas"
+      },
+      {
+        "label": "NP",
+        "text": "africanas"
+      },
+      {
+        "label": "NP",
+        "text": "integrantes"
+      },
+      {
+        "label": "VP",
+        "text": "y cofundadores"
+      },
+      {
+        "label": "NP",
+        "text": "cofundadores"
+      },
+      {
+        "label": "NP",
+        "text": "Internacional Antifascista"
+      },
+      {
+        "label": "NP",
+        "text": "expresaron su firme"
+      },
+      {
+        "label": "NP",
+        "text": "solidaridad con el pueblo venezolano y su Gobierno legítimo"
+      },
+      {
+        "label": "NP",
+        "text": "nacional y"
+      },
+      {
+        "label": "NP",
+        "text": "América Latina"
+      },
+      {
+        "label": "NP",
+        "text": "ante"
+      },
+      {
+        "label": "NP",
+        "text": "anunciado despliegue militar"
+      },
+      {
+        "label": "PP",
+        "text": "de EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Partidos/NNP)\n  y/PRP\n  (VP organizaciones/VBZ (NP africanas/NNS))\n  ,/,\n  (NP integrantes/NNS)\n  (VP y/VBP (NP cofundadores/NNS))\n  de/FW\n  la/FW\n  (NP Internacional/NNP Antifascista/NNP)\n  ,/,\n  (NP expresaron/NN su/NN firme/NN)\n  (NP\n    solidaridad/JJ\n    con/NN\n    el/NN\n    pueblo/NN\n    venezolano/NN\n    y/NN\n    su/NN\n    Gobierno/NNP\n    legítimo/NN)\n  ,/,\n  en/FW\n  defensa/FW\n  de/FW\n  la/FW\n  soberanía/FW\n  (NP nacional/JJ y/NN)\n  de/IN\n  los/FW\n  pueblos/FW\n  de/FW\n  (NP América/NNP Latina/NNP)\n  ,/,\n  (NP ante/NN)\n  el/FW\n  (NP anunciado/NN despliegue/NN militar/NN)\n  (PP de/IN (NP EE.UU./NNP))\n  en/FW\n  (NP el/NN Caribe/NNP)\n  ,/,\n  (NP considerado/NN la/NN mayor/NN amenaza/NN)\n  (PP de/IN (NP ese/JJ tipo/NNS))\n  en/IN\n  la/FW\n  historia/FW\n  de/FW\n  la/FW\n  región/FW\n  ./.)",
+      "(S\n  (NP El/NNP pronunciamiento/NN denuncia/NN las/NN amenazas/NN)\n  ,/,\n  (NP sabotajes/JJ y/NN)\n  maniobras/FW\n  de/FW\n  desestabilización/FW\n  impulsadas/FW\n  por/FW\n  (NP\n    Estados/NNP\n    Unidos/NNP\n    bajo/NN\n    el/NN\n    liderazgo/NN\n    del/NN\n    presidente/NN\n    Donald/NNP\n    Trump/NNP\n    y/NNP\n    sus/NN\n    aliados/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP el/NN texto/NN)\n  ,/,\n  (NP Venezuela/NNP)\n  (VP representa/VBZ (NP una/JJ “/NNP alternativa/NN política/NN))\n  ,/,\n  (NP social/JJ y/NN)\n  económica/RBR\n  (NP creíble/JJ ”/NN que/NN desafía/NN)\n  la/FW\n  hegemonía/FW\n  de/FW\n  las/FW\n  (NP potencias/NN dominantes/NNS)\n  ,/,\n  (NP razón/NN por/NN)\n  la/FW\n  (NP cual/JJ es/NN percibida/NN como/NN)\n  (NP\n    una/JJ\n    amenaza/NN\n    por/NN\n    el/NN\n    imperialismo/NN\n    estadounidense/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    comunicado/NN\n    destaca/NN\n    que/NN\n    Venezuela/NNP\n    ha/NN\n    logrado/NN)\n  (NP nacionalizar/JJ sus/NN recursos/NN y/NN poner/NN)\n  (NP\n    su/JJ\n    riqueza/NN\n    petrolera/NN\n    al/NN\n    servicio/NN\n    del/NN\n    pueblo/NN)\n  ,/,\n  (NP construyendo/NN)\n  (NP un/JJ modelo/NN)\n  de/IN\n  justicia/FW\n  (NP social/JJ independiente/NN)\n  de/IN\n  organismos/FW\n  (NP como/NN el/NN FMI/NNP y/NNP)\n  (VP el/VBZ (NP Banco/NNP Mundial/NNP))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  se/FW\n  (NP condena/NN)\n  el/FW\n  (NP intento/NN)\n  de/FW\n  destruir/FW\n  el/FW\n  legado/FW\n  del/FW\n  (NP comandante/NN Hugo/NNP Chávez/NNP mediante/NN bloqueos/NN)\n  ,/,\n  (NP campañas/NN)\n  de/FW\n  (NP desinformación/NN)\n  ,/,\n  (NP intentos/NN)\n  de/FW\n  golpe/FW\n  de/FW\n  (NP Estado/NNP)\n  y/CC\n  (NP amenazas/JJ militares/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "JUSTICIA_SOCIAL",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defensa de la soberanía nacional y de los pueblos de américa latina, ante",
+        "position": [
+          182,
+          255
+        ],
+        "start": 182,
+        "end": 255
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "fmi",
+        "position": [
+          992,
+          995
+        ],
+        "start": 992,
+        "end": 995
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con el pueblo venezolano y su gobierno legítimo, en defensa de la soberanía nacional y de los pueblos de américa latina, ante",
+        "position": [
+          118,
+          255
+        ],
+        "start": 118,
+        "end": 255
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con el pueblo venezolano y su gobierno",
+        "position": [
+          118,
+          168
+        ],
+        "start": 118,
+        "end": 168
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          182,
+          189
+        ],
+        "start": 182,
+        "end": 189
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente donald trump",
+        "position": [
+          519,
+          542
+        ],
+        "start": 519,
+        "end": 542
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "banco mundial",
+        "position": [
+          1001,
+          1014
+        ],
+        "start": 1001,
+        "end": 1014
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          1540,
+          1547
+        ],
+        "start": 1540,
+        "end": 1547
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          482,
+          496
+        ],
+        "start": 482,
+        "end": 496
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          574,
+          583
+        ],
+        "start": 574,
+        "end": 583
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1704,
+          1710
+        ],
+        "start": 1704,
+        "end": 1710
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          304,
+          310
+        ],
+        "start": 304,
+        "end": 310
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado y amenazas",
+        "position": [
+          1163,
+          1180
+        ],
+        "start": 1163,
+        "end": 1180
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "imperialismo",
+        "position": [
+          759,
+          771
+        ],
+        "start": 759,
+        "end": 771
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          196,
+          214
+        ],
+        "start": 196,
+        "end": 214
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "justicia social",
+        "position": [
+          940,
+          955
+        ],
+        "start": 940,
+        "end": 955
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FMI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Banco Mundial",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Internacional Antifascista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zimbabue",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Namibia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "América",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno venezolano",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Internacional Antifascista",
+        "relacion": "EXPRESAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Internacional Antifascista",
+        "relacion": "EXPRESAR",
+        "objeto": "América"
+      },
+      {
+        "sujeto": "Internacional Antifascista",
+        "relacion": "EXPRESAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Internacional Antifascista",
+        "relacion": "EXPRESAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "EXPRESAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "EXPRESAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "América",
+        "relacion": "EXPRESAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "América",
+        "relacion": "EXPRESAR",
+        "objeto": "Caribe"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "LOGRAR_DESTACAR",
+        "objeto": "FMI"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "LOGRAR_DESTACAR",
+        "objeto": "Banco Mundial"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "ACOMPA_AR_CONCLUIR",
+        "objeto": "Hugo Chávez"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.1531,
+    "pos": 0.013,
+    "neu": 0.972,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

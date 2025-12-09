@@ -1,0 +1,923 @@
+{
+  "url": "https://www.telesurtv.net/ee-uu-exige-a-israel-respetar-la-tregua/",
+  "title": "EE.UU. exige a Israel respetar la tregua tras decisión del Líbano sobre desarme de Hezbolá - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "conflicto destacado",
+    "EE.UU.",
+    "Hezbolá",
+    "Israel",
+    "Líbano"
+  ],
+  "text": "El enviado estadounidense Thomas Barrack visitó Beirut este lunes 18 de agosto y sostuvo un encuentro con el presidente libanés, Joseph Aoun. Allí resaltó que el Gobierno libanés “ha dado el primer paso” con una hoja de ruta para el desarme del movimiento de resistencia islámica Hezbolá y recalcó que ahora corresponde a Israel cumplir el acuerdo de alto el fuego.\n\nAcompañado por la enviada adjunta Morgan Ortagus, Barrack aseguró que Washington no impuso condiciones ni amenazas, pues considera que el desarme es “una decisión soberana del Estado libanés”. Según dijo, la prioridad es “la prosperidad futura, no el miedo”, con beneficios tanto para el Líbano como para Israel.\nEl plan aprobado por el Gabinete de Beirut prevé que, antes de fin de año, las armas queden bajo control del Estado. La primera etapa incluye un compromiso formal de desarme, mientras que la entidad sionista debe detener sus operaciones militares en suelo libanés. El Ejército libanés entregará un plan operativo final al Consejo de Ministros antes del 31 de agosto.\nLa tregua vigente desde noviembre puso fin a dos meses de bombardeos e invasión israelí que dejaron más de 3.800 libaneses asesinados y destruyeron 100.000 viviendas. Sin embargo, Israel mantiene ataques aéreos y posiciones en cinco enclaves libaneses, lo que eleva la tensión.\n\n\nEl líder de Hezbolá, Naim Qassem, advirtió que el movimiento no entregará las armas mientras continúe la ocupación sionista y responsabilizó al Gobierno libanés de cualquier conflicto interno derivado de su decisión. “La resistencia no se rendirá”, afirmó Qassem, quien ha reiterado que cualquier decisión de desarmar a la milicia chií respalda los planes expansionistas del sionismo.\nMientras tanto, el primer ministro israelí, Benjamín Netanyahu, reafirmó su compromiso con la “misión histórica” de un “Gran Israel”, una visión que incluye hacerse con el control de territorios de países vecinos en una ampliación de su plan colonial, y que profundiza la incertidumbre sobre el futuro de la tregua.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ee-uu-exige-a-israel-respetar-la-tregua/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 1014,
+    "message_id": 102106,
+    "date": "2025-08-18T18:55:07+00:00",
+    "text": "teleSUR\nEE.UU. exige a Israel respetar la tregua tras decisión del Líbano sobre desarme de Hezbolá\nhttps://www.telesurtv.net/ee-uu-exige-a-israel-respetar-la-tregua/",
+    "photo_path": null,
+    "views": 1579,
+    "reactions": {
+      "👍": 17,
+      "🙏": 4,
+      "😐": 3,
+      "💩": 2,
+      "❤": 1
+    },
+    "total_reactions": 27
+  },
+  "preprocessing": {
+    "cleaned": "el enviado estadounidense thomas barrack visitó beirut este lunes 18 de agosto y sostuvo un encuentro con el presidente libanés, joseph aoun. allí resaltó que el gobierno libanés “ha dado el primer paso” con una hoja de ruta para el desarme del movimiento de resistencia islámica hezbolá y recalcó que ahora corresponde a israel cumplir el acuerdo de alto el fuego. acompañado por la enviada adjunta morgan ortagus, barrack aseguró que washington no impuso condiciones ni amenazas, pues considera que el desarme es “una decisión soberana del estado libanés”. según dijo, la prioridad es “la prosperidad futura, no el miedo”, con beneficios tanto para el líbano como para israel. el plan aprobado por el gabinete de beirut prevé que, antes de fin de año, las armas queden bajo control del estado. la primera etapa incluye un compromiso formal de desarme, mientras que la entidad sionista debe detener sus operaciones militares en suelo libanés. el ejército libanés entregará un plan operativo final al consejo de ministros antes del 31 de agosto. la tregua vigente desde noviembre puso fin a dos meses de bombardeos e invasión israelí que dejaron más de 3.800 libaneses asesinados y destruyeron 100.000 viviendas. sin embargo, israel mantiene ataques aéreos y posiciones en cinco enclaves libaneses, lo que eleva la tensión. el líder de hezbolá, naim qassem, advirtió que el movimiento no entregará las armas mientras continúe la ocupación sionista y responsabilizó al gobierno libanés de cualquier conflicto interno derivado de su decisión. “la resistencia no se rendirá”, afirmó qassem, quien ha reiterado que cualquier decisión de desarmar a la milicia chií respalda los planes expansionistas del sionismo. mientras tanto, el primer ministro israelí, benjamín netanyahu, reafirmó su compromiso con la “misión histórica” de un “gran israel”, una visión que incluye hacerse con el control de territorios de países vecinos en una ampliación de su plan colonial, y que profundiza la incertidumbre sobre el futuro de la tregua.",
+    "tokens": [
+      "enviado",
+      "estadounidense",
+      "thomas",
+      "barrack",
+      "visitó",
+      "beirut",
+      "lunes",
+      "18",
+      "agosto",
+      "sostuvo",
+      "encuentro",
+      "presidente",
+      "libanés",
+      ",",
+      "joseph",
+      "aoun",
+      ".",
+      "allí",
+      "resaltó",
+      "gobierno",
+      "libanés",
+      "“",
+      "dado",
+      "primer",
+      "paso",
+      "”",
+      "hoja",
+      "ruta",
+      "desarme",
+      "movimiento",
+      "resistencia",
+      "islámica",
+      "hezbolá",
+      "recalcó",
+      "ahora",
+      "corresponde",
+      "israel",
+      "cumplir",
+      "acuerdo",
+      "alto",
+      "fuego",
+      ".",
+      "acompañado",
+      "enviada",
+      "adjunta",
+      "morgan",
+      "ortagus",
+      ",",
+      "barrack",
+      "aseguró",
+      "washington",
+      "impuso",
+      "condiciones",
+      "amenazas",
+      ",",
+      "pues",
+      "considera",
+      "desarme",
+      "“",
+      "decisión",
+      "soberana",
+      "libanés",
+      "”",
+      ".",
+      "según",
+      "dijo",
+      ",",
+      "prioridad",
+      "“",
+      "prosperidad",
+      "futura",
+      ",",
+      "miedo",
+      "”",
+      ",",
+      "beneficios",
+      "líbano",
+      "israel",
+      ".",
+      "plan",
+      "aprobado",
+      "gabinete",
+      "beirut",
+      "prevé",
+      ",",
+      "fin",
+      "año",
+      ",",
+      "armas",
+      "queden",
+      "bajo",
+      "control",
+      ".",
+      "primera",
+      "etapa",
+      "incluye",
+      "compromiso",
+      "formal",
+      "desarme",
+      ",",
+      "mientras",
+      "entidad",
+      "sionista",
+      "debe",
+      "detener",
+      "operaciones",
+      "militares",
+      "suelo",
+      "libanés",
+      ".",
+      "ejército",
+      "libanés",
+      "entregará",
+      "plan",
+      "operativo",
+      "final",
+      "consejo",
+      "ministros",
+      "31",
+      "agosto",
+      ".",
+      "tregua",
+      "vigente",
+      "noviembre",
+      "puso",
+      "fin",
+      "dos",
+      "meses",
+      "bombardeos",
+      "invasión",
+      "israelí",
+      "dejaron",
+      "3.800",
+      "libaneses",
+      "asesinados",
+      "destruyeron",
+      "100.000",
+      "viviendas",
+      ".",
+      "embargo",
+      ",",
+      "israel",
+      "mantiene",
+      "ataques",
+      "aéreos",
+      "posiciones",
+      "cinco",
+      "enclaves",
+      "libaneses",
+      ",",
+      "eleva",
+      "tensión",
+      ".",
+      "líder",
+      "hezbolá",
+      ",",
+      "naim",
+      "qassem",
+      ",",
+      "advirtió",
+      "movimiento",
+      "entregará",
+      "armas",
+      "mientras",
+      "continúe",
+      "ocupación",
+      "sionista",
+      "responsabilizó",
+      "gobierno",
+      "libanés",
+      "cualquier",
+      "conflicto",
+      "interno",
+      "derivado",
+      "decisión",
+      ".",
+      "“",
+      "resistencia",
+      "rendirá",
+      "”",
+      ",",
+      "afirmó",
+      "qassem",
+      ",",
+      "reiterado",
+      "cualquier",
+      "decisión",
+      "desarmar",
+      "milicia",
+      "chií",
+      "respalda",
+      "planes",
+      "expansionistas",
+      "sionismo",
+      ".",
+      "mientras",
+      ",",
+      "primer",
+      "ministro",
+      "israelí",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "reafirmó",
+      "compromiso",
+      "“",
+      "misión",
+      "histórica",
+      "”",
+      "“",
+      "gran",
+      "israel",
+      "”",
+      ",",
+      "visión",
+      "incluye",
+      "hacerse",
+      "control",
+      "territorios",
+      "países",
+      "vecinos",
+      "ampliación",
+      "plan",
+      "colonial",
+      ",",
+      "profundiza",
+      "incertidumbre",
+      "futuro",
+      "tregua",
+      "."
+    ],
+    "token_count": 231,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "NN": 126,
+      "VBZ": 15,
+      "CD": 4,
+      "IN": 16,
+      "FW": 48,
+      "JJ": 29,
+      "NNS": 11,
+      "VBP": 8,
+      "DT": 4,
+      "RB": 2,
+      "JJR": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 21,
+      "NN-NN": 64,
+      "NN-NNP": 20,
+      "NNP-NNP": 14,
+      "NN-VBZ": 7,
+      "VBZ-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 9,
+      "FW-JJ": 5,
+      "JJ-JJ": 3,
+      "JJ-NN": 18,
+      "NNP-VBZ": 6,
+      "VBZ-JJ": 5,
+      "NN-JJ": 8,
+      "NN-IN": 8,
+      "FW-NN": 16,
+      "NN-FW": 12,
+      "FW-FW": 20,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-NNP": 1,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNS": 4,
+      "VBP-JJ": 4,
+      "VBZ-NNP": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 2,
+      "NNS-IN": 3,
+      "IN-NN": 3,
+      "JJ-NNP": 2,
+      "NNP-FW": 2,
+      "FW-NNP": 4,
+      "VBZ-IN": 2,
+      "JJ-FW": 2,
+      "VBZ-NNS": 1,
+      "VBZ-FW": 2,
+      "NN-VBP": 2,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "NNS-NNP": 1,
+      "NNS-VBZ": 1,
+      "VBP-IN": 1,
+      "IN-DT": 1,
+      "DT-JJ": 2,
+      "VBP-NNS": 1,
+      "FW-JJR": 1,
+      "JJR-NN": 2,
+      "NN-JJR": 1,
+      "IN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 15,
+      "NN-NN-NNP": 12,
+      "NN-NNP-NNP": 7,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NN": 8,
+      "NNP-NN-VBZ": 2,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 12,
+      "NN-NN-NN": 30,
+      "NNP-NNP-NNP": 4,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 7,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 4,
+      "FW-NN-FW": 5,
+      "NN-FW-NN": 5,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 11,
+      "FW-FW-NN": 5,
+      "FW-NN-NNP": 4,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-IN": 4,
+      "IN-FW-FW": 3,
+      "NN-NN-FW": 5,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NN": 3,
+      "IN-NN-NN": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NN": 4,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-JJ": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBZ": 1,
+      "VBZ-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "NNP-NN-FW": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-IN": 1,
+      "VBP-IN-DT": 1,
+      "IN-DT-JJ": 1,
+      "DT-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-NN": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-JJR": 1,
+      "NN-JJR-NN": 1,
+      "JJR-NN-IN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 126,
+        "FW": 48,
+        "NNP": 45,
+        "JJ": 29,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 64,
+        "NNP-NN": 21,
+        "NN-NNP": 20,
+        "FW-FW": 20,
+        "JJ-NN": 18
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "NNP-NN-NN": 15,
+        "NN-NN-NNP": 12,
+        "JJ-NN-NN": 12,
+        "FW-FW-FW": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 80,
+      "VP": 22,
+      "ADJP": 2,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0246
+      },
+      {
+        "rule": "VP -> ('antes', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP VP ('18', 'CD') ('de', 'IN') ('agosto', 'FW') ('y', 'FW') ('sostuvo', 'FW') ADJP ('encuentro', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('enviado', 'NN') ('estadounidense', 'NN') ('Thomas', 'NNP') ('Barrack', 'NNP') ('visitó', 'NN') ('Beirut', 'NNP') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('lunes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('con', 'NN') ('el', 'NN') ('presidente', 'NN') ('libanés', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Joseph', 'NNP') ('Aoun', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "S -> NP VP ('el', 'FW') NP NP ('de', 'IN') ('ruta', 'FW') NP ('el', 'FW') NP ('del', 'FW') ('movimiento', 'FW') ('de', 'FW') ('resistencia', 'FW') NP VP VP ('de', 'IN') ('alto', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El enviado estadounidense Thomas Barrack visitó Beirut este"
+      },
+      {
+        "label": "VP",
+        "text": "lunes"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "con el presidente libanés"
+      },
+      {
+        "label": "NP",
+        "text": "Joseph Aoun"
+      },
+      {
+        "label": "NP",
+        "text": "Allí resaltó que el Gobierno"
+      },
+      {
+        "label": "VP",
+        "text": "libanés “ ha dado"
+      },
+      {
+        "label": "NP",
+        "text": "“ ha dado"
+      },
+      {
+        "label": "NP",
+        "text": "primer paso ” con"
+      },
+      {
+        "label": "NP",
+        "text": "una hoja"
+      },
+      {
+        "label": "NP",
+        "text": "para"
+      },
+      {
+        "label": "NP",
+        "text": "desarme"
+      },
+      {
+        "label": "NP",
+        "text": "islámica Hezbolá y recalcó que"
+      },
+      {
+        "label": "VP",
+        "text": "ahora"
+      },
+      {
+        "label": "VP",
+        "text": "corresponde a Israel cumplir el acuerdo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    enviado/NN\n    estadounidense/NN\n    Thomas/NNP\n    Barrack/NNP\n    visitó/NN\n    Beirut/NNP\n    este/NN)\n  (VP lunes/VBZ)\n  18/CD\n  de/IN\n  agosto/FW\n  y/FW\n  sostuvo/FW\n  (ADJP un/JJ)\n  encuentro/FW\n  (NP con/NN el/NN presidente/NN libanés/NN)\n  ,/,\n  (NP Joseph/NNP Aoun/NNP)\n  ./.)",
+      "(S\n  (NP Allí/NNP resaltó/NN que/NN el/NN Gobierno/NNP)\n  (VP libanés/VBZ (NP “/NNP ha/NN dado/NN))\n  el/FW\n  (NP primer/NN paso/NN ”/NNP con/NN)\n  (NP una/JJ hoja/NN)\n  de/IN\n  ruta/FW\n  (NP para/NN)\n  el/FW\n  (NP desarme/NN)\n  del/FW\n  movimiento/FW\n  de/FW\n  resistencia/FW\n  (NP islámica/NN Hezbolá/NNP y/NNP recalcó/NN que/NN)\n  (VP ahora/VBP)\n  (VP\n    corresponde/VBZ\n    (NP a/DT Israel/NNP cumplir/NN el/NN acuerdo/NN))\n  de/IN\n  alto/FW\n  el/FW\n  (NP fuego/NN)\n  ./.)",
+      "(S\n  (NP Acompañado/NNP por/NN la/NN)\n  enviada/FW\n  (NP adjunta/NN Morgan/NNP Ortagus/NNP)\n  ,/,\n  (NP Barrack/NNP aseguró/NN que/NN Washington/NNP)\n  (NP no/DT impuso/NN)\n  (VP condiciones/VBZ ni/RB amenazas/JJ)\n  ,/,\n  (NP pues/NNS)\n  (VP\n    considera/VBP\n    (NP que/JJ el/JJ desarme/NN es/NN “/NNP)\n    (NP\n      una/JJ\n      decisión/NN\n      soberana/NN\n      del/NN\n      Estado/NNP\n      libanés/NN\n      ”/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP dijo/NN)\n  ,/,\n  la/FW\n  prioridad/FW\n  es/FW\n  “/FW\n  la/FW\n  prosperidad/FW\n  (NP futura/NN)\n  ,/,\n  (NP no/DT el/NN miedo/NN ”/NNP)\n  ,/,\n  (NP con/NN beneficios/NNS)\n  (VP\n    tanto/VBP\n    (NP para/JJ el/JJ Líbano/NNP como/NN para/NN Israel/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP plan/NN)\n  (VP aprobado/VBZ (NP por/JJ el/JJ Gabinete/NNP))\n  de/FW\n  (NP Beirut/NNP prevé/NN que/NN)\n  ,/,\n  (VP antes/VBZ)\n  de/FW\n  fin/FW\n  de/FW\n  año/FW\n  ,/,\n  las/FW\n  armas/FW\n  (NP queden/JJ bajo/NN control/NN del/NN Estado/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "responsabilizó al",
+        "position": [
+          1453,
+          1470
+        ],
+        "start": 1453,
+        "end": 1470
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1432,
+          1441
+        ],
+        "start": 1432,
+        "end": 1441
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          81,
+          88
+        ],
+        "start": 81,
+        "end": 88
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1361,
+          1369
+        ],
+        "start": 1361,
+        "end": 1369
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente libanés",
+        "position": [
+          109,
+          127
+        ],
+        "start": 109,
+        "end": 127
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          1776,
+          1784
+        ],
+        "start": 1776,
+        "end": 1784
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "ruta",
+        "position": [
+          220,
+          224
+        ],
+        "start": 220,
+        "end": 224
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          655,
+          661
+        ],
+        "start": 655,
+        "end": 661
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado libanés",
+        "position": [
+          543,
+          557
+        ],
+        "start": 543,
+        "end": 557
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 18 de agosto",
+        "position": [
+          60,
+          78
+        ],
+        "start": 60,
+        "end": 78
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1218,
+          1225
+        ],
+        "start": 1218,
+        "end": 1225
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 3.800",
+        "position": [
+          1147,
+          1159
+        ],
+        "start": 1147,
+        "end": 1159
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Naim Qassem",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado libanés",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno libanés",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Barrack",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gran Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Morgan Ortagus",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gabinete de Beirut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Thomas Barrack",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo de Ministros",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Joseph Aoun",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qassem",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Thomas Barrack",
+        "relacion": "VISITAR",
+        "objeto": "Beirut"
+      },
+      {
+        "sujeto": "Thomas Barrack",
+        "relacion": "VISITAR",
+        "objeto": "Joseph Aoun"
+      },
+      {
+        "sujeto": "Beirut",
+        "relacion": "VISITAR",
+        "objeto": "Joseph Aoun"
+      },
+      {
+        "sujeto": "Gobierno libanés",
+        "relacion": "DAR_RESALTAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Gobierno libanés",
+        "relacion": "DAR_RESALTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "DAR_RESALTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "ASEGURAR",
+        "objeto": "Morgan Ortagus"
+      },
+      {
+        "sujeto": "Morgan Ortagus",
+        "relacion": "ASEGURAR",
+        "objeto": "Estado libanés"
+      },
+      {
+        "sujeto": "Barrack",
+        "relacion": "ASEGURAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Barrack",
+        "relacion": "ASEGURAR",
+        "objeto": "Estado libanés"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "IMPONER_ASEGURAR",
+        "objeto": "Estado libanés"
+      },
+      {
+        "sujeto": "Gabinete de Beirut",
+        "relacion": "PREVER",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ADVERTIR",
+        "objeto": "Gobierno libanés"
+      },
+      {
+        "sujeto": "Naim Qassem",
+        "relacion": "ADVERTIR",
+        "objeto": "Gobierno libanés"
+      },
+      {
+        "sujeto": "Benjamín Netanyahu",
+        "relacion": "REAFIRMAR",
+        "objeto": "Gran Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8402,
+    "pos": 0.008,
+    "neu": 0.954,
+    "neg": 0.039,
+    "label": "negative"
+  }
+}

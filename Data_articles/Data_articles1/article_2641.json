@@ -1,0 +1,737 @@
+{
+  "url": "https://www.telesurtv.net/mandatario-de-ecuador-encarga-a-cynthia-gellibert-la-presidencia-temporal-del-pais/",
+  "title": "Mandatario de Ecuador encarga a Cynthia Gellibert la Presidencia temporal del país - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Daniel Noboa",
+    "Ecuador",
+    "infracciones electorales",
+    "presidencia",
+    "vicepresidencia"
+  ],
+  "text": "El presidente de Ecuador, Daniel Noboa, encargó este jueves la Presidencia de la República a la designada como vicepresidenta, Cynthia Gellibert, en medio de críticas al mandatario y causas que investigan infracciones electorales.\n“Encargar la Presidencia de la República del Ecuador a la economista Cynthia Natalie Gellibert Mora, vicepresidenta Constitucional de la República por efecto del artículo”, refirió el decreto presentado por Noboa, al tiempo de señalar que será hasta el 19 de enero.\nEl decreto se establece “desde las 18H00 del día jueves 16 de enero de 2025 hasta las 22H00 del día domingo 19 de enero de 2025; en razón de la ausencia temporal del presidente de la República por las razones expuestas en la parte considerativa de este Decreto Ejecutivo”.\nDe igual manera, el decreto establece que “esa fecha en la que se configure una ausencia temporal, se encuentre ejerciendo las funciones de la Vicepresidencia de la República, con el objeto de evitar una acefalia en la institucionalidad”.\nLa intención de Noboa es participar en el debate presidencial que tendrá lugar  como parte de las actividades obligatorias de la contienda electoral en Ecuador.\nDe acuerdo a Primicias Ecuador, “el mandatario, enfrentado con la vicepresidenta electa, Verónica Abad, acarrea por lo menos cuatro denuncias en el Tribunal Contencioso Electoral (TCE) por no haberse acogido a la licencia sin sueldo para la campaña”.\nEste jueves tuvo lugar la admisión de la causa número 008-2025 en contra del presidente Daniel Noboa por infracciones electorales.\nPor otra parte, es la segunda vez que Daniel Noboa designa a Gellibert para presentarse a actividades de la campaña electoral.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mandatario-de-ecuador-encarga-a-cynthia-gellibert-la-presidencia-temporal-del-pais/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1094,
+    "message_id": 84668,
+    "date": "2025-01-17T01:55:12+00:00",
+    "text": "teleSUR\nMandatario de Ecuador encarga a Cynthia Gellibert la Presidencia temporal del país\nhttps://www.telesurtv.net/mandatario-de-ecuador-encarga-a-cynthia-gellibert-la-presidencia-temporal-del-pais/",
+    "photo_path": null,
+    "views": 2404,
+    "reactions": {
+      "👎": 20,
+      "💩": 16,
+      "👍": 4
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de ecuador, daniel noboa, encargó este jueves la presidencia de la república a la designada como vicepresidenta, cynthia gellibert, en medio de críticas al mandatario y causas que investigan infracciones electorales. “encargar la presidencia de la república del ecuador a la economista cynthia natalie gellibert mora, vicepresidenta constitucional de la república por efecto del artículo”, refirió el decreto presentado por noboa, al tiempo de señalar que será hasta el 19 de enero. el decreto se establece “desde las 18h00 del día jueves 16 de enero de 2025 hasta las 22h00 del día domingo 19 de enero de 2025; en razón de la ausencia temporal del presidente de la república por las razones expuestas en la parte considerativa de este decreto ejecutivo”. de igual manera, el decreto establece que “esa fecha en la que se configure una ausencia temporal, se encuentre ejerciendo las funciones de la vicepresidencia de la república, con el objeto de evitar una acefalia en la institucionalidad”. la intención de noboa es participar en el debate presidencial que tendrá lugar como parte de las actividades obligatorias de la contienda electoral en ecuador. de acuerdo a primicias ecuador, “el mandatario, enfrentado con la vicepresidenta electa, verónica abad, acarrea por lo menos cuatro denuncias en el tribunal contencioso electoral (tce) por no haberse acogido a la licencia sin sueldo para la campaña”. este jueves tuvo lugar la admisión de la causa número 008-2025 en contra del presidente daniel noboa por infracciones electorales. por otra parte, es la segunda vez que daniel noboa designa a gellibert para presentarse a actividades de la campaña electoral.",
+    "tokens": [
+      "presidente",
+      "ecuador",
+      ",",
+      "daniel",
+      "noboa",
+      ",",
+      "encargó",
+      "jueves",
+      "presidencia",
+      "república",
+      "designada",
+      "vicepresidenta",
+      ",",
+      "cynthia",
+      "gellibert",
+      ",",
+      "medio",
+      "críticas",
+      "mandatario",
+      "causas",
+      "investigan",
+      "infracciones",
+      "electorales",
+      ".",
+      "“",
+      "encargar",
+      "presidencia",
+      "república",
+      "ecuador",
+      "economista",
+      "cynthia",
+      "natalie",
+      "gellibert",
+      "mora",
+      ",",
+      "vicepresidenta",
+      "constitucional",
+      "república",
+      "efecto",
+      "artículo",
+      "”",
+      ",",
+      "refirió",
+      "decreto",
+      "presentado",
+      "noboa",
+      ",",
+      "tiempo",
+      "señalar",
+      "19",
+      "enero",
+      ".",
+      "decreto",
+      "establece",
+      "“",
+      "18h00",
+      "día",
+      "jueves",
+      "16",
+      "enero",
+      "2025",
+      "22h00",
+      "día",
+      "domingo",
+      "19",
+      "enero",
+      "2025",
+      ";",
+      "razón",
+      "ausencia",
+      "temporal",
+      "presidente",
+      "república",
+      "razones",
+      "expuestas",
+      "parte",
+      "considerativa",
+      "decreto",
+      "ejecutivo",
+      "”",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "decreto",
+      "establece",
+      "“",
+      "fecha",
+      "configure",
+      "ausencia",
+      "temporal",
+      ",",
+      "encuentre",
+      "ejerciendo",
+      "funciones",
+      "vicepresidencia",
+      "república",
+      ",",
+      "objeto",
+      "evitar",
+      "acefalia",
+      "institucionalidad",
+      "”",
+      ".",
+      "intención",
+      "noboa",
+      "participar",
+      "debate",
+      "presidencial",
+      "lugar",
+      "parte",
+      "actividades",
+      "obligatorias",
+      "contienda",
+      "electoral",
+      "ecuador",
+      ".",
+      "acuerdo",
+      "primicias",
+      "ecuador",
+      ",",
+      "“",
+      "mandatario",
+      ",",
+      "enfrentado",
+      "vicepresidenta",
+      "electa",
+      ",",
+      "verónica",
+      "abad",
+      ",",
+      "acarrea",
+      "menos",
+      "cuatro",
+      "denuncias",
+      "tribunal",
+      "contencioso",
+      "electoral",
+      "(",
+      "tce",
+      ")",
+      "haberse",
+      "acogido",
+      "licencia",
+      "sueldo",
+      "campaña",
+      "”",
+      ".",
+      "jueves",
+      "lugar",
+      "admisión",
+      "causa",
+      "número",
+      "008-2025",
+      "presidente",
+      "daniel",
+      "noboa",
+      "infracciones",
+      "electorales",
+      ".",
+      "parte",
+      ",",
+      "segunda",
+      "vez",
+      "daniel",
+      "noboa",
+      "designa",
+      "gellibert",
+      "presentarse",
+      "actividades",
+      "campaña",
+      "electoral",
+      "."
+    ],
+    "token_count": 173,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "NN": 75,
+      "FW": 71,
+      "VBZ": 7,
+      "NNS": 9,
+      "VBP": 5,
+      "IN": 10,
+      "JJ": 22,
+      "VBD": 4,
+      "CD": 7,
+      "CC": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-FW": 7,
+      "FW-NNP": 17,
+      "NNP-NNP": 18,
+      "NNP-VBZ": 5,
+      "VBZ-NN": 2,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-NNP": 1,
+      "NNP-FW": 12,
+      "FW-FW": 38,
+      "FW-NN": 7,
+      "NN-NN": 43,
+      "NN-NNP": 7,
+      "NN-IN": 6,
+      "IN-FW": 7,
+      "NN-JJ": 4,
+      "JJ-NNS": 3,
+      "NNS-NNS": 2,
+      "NNS-NNP": 1,
+      "IN-JJ": 1,
+      "JJ-NN": 11,
+      "NN-VBD": 4,
+      "VBD-CD": 4,
+      "CD-IN": 1,
+      "CD-NN": 3,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-FW": 2,
+      "FW-IN": 2,
+      "IN-CD": 2,
+      "CD-JJ": 1,
+      "JJ-FW": 3,
+      "FW-JJ": 5,
+      "JJ-JJ": 4,
+      "NNP-VBP": 1,
+      "VBP-JJ": 2,
+      "VBP-FW": 1,
+      "NNP-JJ": 2,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "FW-NNS": 2,
+      "NNS-IN": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNS-FW": 1,
+      "VBZ-JJ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBZ": 4,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 8,
+      "FW-FW-NNP": 9,
+      "FW-NNP-FW": 7,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "NN-NN-NN": 23,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-FW-FW": 18,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBD": 3,
+      "NN-VBD-CD": 4,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "VBD-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-FW": 1,
+      "CD-FW-FW": 2,
+      "FW-FW-IN": 2,
+      "FW-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "VBD-CD-FW": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-JJ": 4,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "VBZ-NN-JJ": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 75,
+        "FW": 71,
+        "NNP": 46,
+        "JJ": 22,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 43,
+        "FW-FW": 38,
+        "NNP-NNP": 18,
+        "FW-NNP": 17,
+        "NNP-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "FW-FW-FW": 18,
+        "FW-FW-NNP": 9,
+        "JJ-NN-NN": 9,
+        "NNP-NNP-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 17,
+      "PP": 3,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('República', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0521
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0312
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('del', 'NN') ('día', 'NN')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "ADJP -> ('electoral', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') ('la', 'FW') NP NP (',', ',') NP (',', ',') ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('críticas', 'FW') ('al', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('Daniel', 'NNP') ('Noboa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0104
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Daniel Noboa"
+      },
+      {
+        "label": "NP",
+        "text": "encargó este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "la Presidencia"
+      },
+      {
+        "label": "NP",
+        "text": "Presidencia"
+      },
+      {
+        "label": "NP",
+        "text": "República"
+      },
+      {
+        "label": "NP",
+        "text": "a la designada como vicepresidenta"
+      },
+      {
+        "label": "NP",
+        "text": "Cynthia Gellibert"
+      },
+      {
+        "label": "NP",
+        "text": "mandatario y causas que"
+      },
+      {
+        "label": "NP",
+        "text": "investigan infracciones electorales"
+      },
+      {
+        "label": "NP",
+        "text": "“ Encargar la Presidencia"
+      },
+      {
+        "label": "NP",
+        "text": "República"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "a la economista Cynthia Natalie Gellibert Mora"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Ecuador/NNP)\n  ,/,\n  (NP Daniel/NNP Noboa/NNP)\n  ,/,\n  (NP encargó/JJ este/NN jueves/NNS)\n  (VP la/VBP (NP Presidencia/NNP))\n  de/FW\n  la/FW\n  (NP República/NNP)\n  (NP a/DT la/NN designada/NN como/NN vicepresidenta/NN)\n  ,/,\n  (NP Cynthia/NNP Gellibert/NNP)\n  ,/,\n  en/FW\n  medio/FW\n  de/FW\n  críticas/FW\n  al/FW\n  (NP mandatario/NN y/NN causas/NN que/NN)\n  (NP investigan/JJ infracciones/NNS electorales/NNS)\n  ./.)",
+      "(S\n  (NP “/NN Encargar/NNP la/NNP Presidencia/NNP)\n  de/IN\n  la/FW\n  (NP República/NNP)\n  del/FW\n  (NP Ecuador/NNP)\n  (NP\n    a/DT\n    la/NN\n    economista/NN\n    Cynthia/NNP\n    Natalie/NNP\n    Gellibert/NNP\n    Mora/NNP)\n  ,/,\n  (NP vicepresidenta/JJ Constitucional/NNP)\n  de/FW\n  la/FW\n  (NP República/NNP)\n  por/FW\n  efecto/FW\n  del/FW\n  (NP artículo/NN ”/NN)\n  ,/,\n  (VP\n    refirió/VB\n    (NP el/JJ decreto/NN presentado/NN por/NN Noboa/NNP))\n  ,/,\n  (NP al/JJ tiempo/NN)\n  (PP de/IN (NP señalar/JJ que/NN será/NN hasta/NN))\n  (VP el/VBD)\n  19/CD\n  (PP de/IN (NP enero/NN))\n  ./.)",
+      "(S\n  (NP El/NNP decreto/NN se/NN establece/NN “/NNP)\n  (VP desde/VBZ)\n  las/$\n  18H00/CD\n  (NP del/NN día/NN)\n  (VP jueves/VBZ)\n  16/CD\n  de/FW\n  enero/FW\n  de/IN\n  2025/CD\n  (NP hasta/NN)\n  (VP las/VBD)\n  22H00/CD\n  (NP del/NN día/NN)\n  (VP domingo/VBD)\n  19/CD\n  de/FW\n  enero/FW\n  de/IN\n  2025/CD\n  ;/:\n  en/CC\n  razón/FW\n  de/FW\n  la/FW\n  (NP ausencia/JJ temporal/JJ del/NN presidente/NN)\n  de/IN\n  la/FW\n  (NP República/NNP)\n  (VP por/VBP (NP las/JJ razones/NNS expuestas/NNS))\n  (VP en/VBP)\n  la/FW\n  parte/FW\n  considerativa/FW\n  de/FW\n  este/FW\n  (NP Decreto/NNP Ejecutivo/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  (NP el/JJ decreto/NN establece/NN que/NN “/NNP)\n  (VP esa/VBZ fecha/JJ)\n  (PP en/IN (NP la/NN))\n  que/FW\n  (NP se/JJ configure/NN)\n  (NP una/JJ ausencia/JJ temporal/NN)\n  ,/,\n  se/FW\n  encuentre/FW\n  ejerciendo/FW\n  las/FW\n  (NP funciones/NNS)\n  de/IN\n  la/FW\n  (NP Vicepresidencia/NNP)\n  de/FW\n  la/FW\n  (NP República/NNP)\n  ,/,\n  (NP con/NN)\n  (NP el/JJ objeto/NN)\n  de/IN\n  evitar/FW\n  (NP una/JJ acefalia/NN)\n  en/IN\n  la/FW\n  (NP institucionalidad/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  intención/FW\n  de/FW\n  (NP Noboa/NNP)\n  es/CC\n  (NP participar/JJ en/NN el/NN debate/NN)\n  (NP presidencial/JJ que/NN tendrá/NN lugar/NN como/NN parte/NN)\n  de/IN\n  las/FW\n  (NP actividades/NNS)\n  obligatorias/FW\n  de/FW\n  la/FW\n  contienda/FW\n  (ADJP electoral/JJ)\n  en/FW\n  (NP Ecuador/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "FECHAS_HORAS",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "sueldo",
+        "position": [
+          1396,
+          1402
+        ],
+        "start": 1396,
+        "end": 1402
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "campaña electoral",
+        "position": [
+          1660,
+          1677
+        ],
+        "start": 1660,
+        "end": 1677
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de ecuador",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "decreto presentado por noboa, al tiempo de señalar que será hasta el 19",
+        "position": [
+          415,
+          486
+        ],
+        "start": 415,
+        "end": 486
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          17,
+          24
+        ],
+        "start": 17,
+        "end": 24
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "16 de enero de 2025",
+        "position": [
+          553,
+          572
+        ],
+        "start": 553,
+        "end": 572
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "jueves 16 de enero",
+        "position": [
+          546,
+          564
+        ],
+        "start": 546,
+        "end": 564
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2025 en contra",
+        "position": [
+          1479,
+          1493
+        ],
+        "start": 1479,
+        "end": 1493
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "19 de enero de 2025",
+        "position": [
+          605,
+          624
+        ],
+        "start": 605,
+        "end": 624
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cynthia Natalie Gellibert Mora",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Encargar la Presidencia de la República del Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vicepresidencia de la República",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Verónica Abad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gellibert",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cynthia Gellibert",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ecuador",
+        "relacion": "ENCARGAR",
+        "objeto": "Cynthia Gellibert"
+      },
+      {
+        "sujeto": "Daniel Noboa",
+        "relacion": "ENCARGAR",
+        "objeto": "Cynthia Gellibert"
+      },
+      {
+        "sujeto": "Encargar la Presidencia de la República del Ecuador",
+        "relacion": "ENCARGAR_REFERIR",
+        "objeto": "Cynthia Natalie Gellibert Mora"
+      },
+      {
+        "sujeto": "Encargar la Presidencia de la República del Ecuador",
+        "relacion": "ENCARGAR_REFERIR",
+        "objeto": "Noboa"
+      },
+      {
+        "sujeto": "Cynthia Natalie Gellibert Mora",
+        "relacion": "ENCARGAR_REFERIR",
+        "objeto": "Noboa"
+      },
+      {
+        "sujeto": "Noboa",
+        "relacion": "SER",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Daniel Noboa",
+        "relacion": "DESIGNAR",
+        "objeto": "Gellibert"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7003,
+    "pos": 0.0,
+    "neu": 0.978,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

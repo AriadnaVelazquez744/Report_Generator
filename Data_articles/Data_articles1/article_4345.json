@@ -1,0 +1,812 @@
+{
+  "url": "https://www.telesurtv.net/ataque-ucraniano-en-velikie-kopani-deja-muertos-y-heridos-en-un-mercado-civil-de-jerson/",
+  "title": "Ataque ucraniano en Velíkie Kopaní deja muertos y heridos en un mercado civil de Jersón - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "HIMARS",
+    "Jersón",
+    "Velíkie Kopaní",
+    "Vladímir Saldo"
+  ],
+  "text": "\nEl gobernador de la región, Vladímir Saldo, informó a través de su cuenta de Telegram que el ataque, calificado como “bárbaro”, fue dirigido contra un mercado lleno de civiles, donde se encontraban decenas de personas en ese momento. Según los primeros reportes, al menos una persona ha muerto y seis han resultado heridas.\nLEA TAMBIÉN\nONU alerta de posible accidente nuclear “incontrolable” tras ataque ucraniano contra planta en Chernóbil\nEl ataque se llevó a cabo con el lanzamiento de dos misiles HIMARS (de fabricación estadounidense), según indicó Saldo. Para él, no se trató de un accidente, sino de un “golpe deliberado” contra civiles que estaban realizando actividades cotidianas.\nEste tipo de ataques ucranianos contra objetivos no militares ha suscitado una creciente preocupación sobre la seguridad de la población civil en medio del conflicto entre Rusia y Ucrania, que data desde 2022.\nSaldo destacó que los afectados son simples agricultores que estaban vendiendo sus productos. “La gente se dedicaba pacíficamente a sus asuntos, y el enemigo les disparó a sangre fría”, agregó, mientras los servicios de emergencia siguen trabajando en el lugar.\n\n\nSin embargo, el gobernador también advirtió sobre el alto riesgo de nuevos bombardeos en la zona, lo que aumenta la tensión y el miedo entre los residentes locales. La situación en Velíkie Kopaní es un reflejo del contexto más amplio del conflicto.\nDesde el inicio de la operación militar especial por parte de Rusia en el este de Ucrania en febrero de 2022, se han multiplicado las acusaciones sobre violaciones a los derechos humanos y ataques indiscriminados por parte del régimen de Kiev contra la población civil.\nA medida que continúan los enfrentamientos y las pérdidas humanas aumentan, la comunidad internacional se enfrenta al desafío urgente de buscar soluciones efectivas para detener los enfrentamientos y proteger a los civiles.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-ucraniano-en-velikie-kopani-deja-muertos-y-heridos-en-un-mercado-civil-de-jerson/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 1734,
+    "message_id": 88721,
+    "date": "2025-03-09T19:55:13+00:00",
+    "text": "teleSUR\nAtaque ucraniano en Velíkie Kopaní deja muertos y heridos en un mercado civil de Jersón\nhttps://www.telesurtv.net/ataque-ucraniano-en-velikie-kopani-deja-muertos-y-heridos-en-un-mercado-civil-de-jerson/",
+    "photo_path": null,
+    "views": 2172,
+    "reactions": {
+      "🤬": 45,
+      "👍": 4
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "el gobernador de la región, vladímir saldo, informó a través de su cuenta de telegram que el ataque, calificado como “bárbaro”, fue dirigido contra un mercado lleno de civiles, donde se encontraban decenas de personas en ese momento. según los primeros reportes, al menos una persona ha muerto y seis han resultado heridas. el ataque se llevó a cabo con el lanzamiento de dos misiles himars (de fabricación estadounidense), según indicó saldo. para él, no se trató de un accidente, sino de un “golpe deliberado” contra civiles que estaban realizando actividades cotidianas. este tipo de ataques ucranianos contra objetivos no militares ha suscitado una creciente preocupación sobre la seguridad de la población civil en medio del conflicto entre rusia y ucrania, que data desde 2022. saldo destacó que los afectados son simples agricultores que estaban vendiendo sus productos. “la gente se dedicaba pacíficamente a sus asuntos, y el enemigo les disparó a sangre fría”, agregó, mientras los servicios de emergencia siguen trabajando en el lugar. sin embargo, el gobernador también advirtió sobre el alto riesgo de nuevos bombardeos en la zona, lo que aumenta la tensión y el miedo entre los residentes locales. la situación en velíkie kopaní es un reflejo del contexto más amplio del conflicto. desde el inicio de la operación militar especial por parte de rusia en el este de ucrania en febrero de 2022, se han multiplicado las acusaciones sobre violaciones a los derechos humanos y ataques indiscriminados por parte del régimen de kiev contra la población civil. a medida que continúan los enfrentamientos y las pérdidas humanas aumentan, la comunidad internacional se enfrenta al desafío urgente de buscar soluciones efectivas para detener los enfrentamientos y proteger a los civiles.",
+    "tokens": [
+      "gobernador",
+      "región",
+      ",",
+      "vladímir",
+      "saldo",
+      ",",
+      "informó",
+      "través",
+      "cuenta",
+      "telegram",
+      "ataque",
+      ",",
+      "calificado",
+      "“",
+      "bárbaro",
+      "”",
+      ",",
+      "dirigido",
+      "mercado",
+      "lleno",
+      "civiles",
+      ",",
+      "encontraban",
+      "decenas",
+      "personas",
+      "momento",
+      ".",
+      "según",
+      "primeros",
+      "reportes",
+      ",",
+      "menos",
+      "persona",
+      "muerto",
+      "seis",
+      "resultado",
+      "heridas",
+      ".",
+      "ataque",
+      "llevó",
+      "cabo",
+      "lanzamiento",
+      "dos",
+      "misiles",
+      "himars",
+      "(",
+      "fabricación",
+      "estadounidense",
+      ")",
+      ",",
+      "según",
+      "indicó",
+      "saldo",
+      ".",
+      ",",
+      "trató",
+      "accidente",
+      ",",
+      "sino",
+      "“",
+      "golpe",
+      "deliberado",
+      "”",
+      "civiles",
+      "realizando",
+      "actividades",
+      "cotidianas",
+      ".",
+      "tipo",
+      "ataques",
+      "ucranianos",
+      "objetivos",
+      "militares",
+      "suscitado",
+      "creciente",
+      "preocupación",
+      "seguridad",
+      "población",
+      "civil",
+      "medio",
+      "conflicto",
+      "rusia",
+      "ucrania",
+      ",",
+      "data",
+      "2022.",
+      "saldo",
+      "destacó",
+      "afectados",
+      "simples",
+      "agricultores",
+      "vendiendo",
+      "productos",
+      ".",
+      "“",
+      "gente",
+      "dedicaba",
+      "pacíficamente",
+      "asuntos",
+      ",",
+      "enemigo",
+      "disparó",
+      "sangre",
+      "fría",
+      "”",
+      ",",
+      "agregó",
+      ",",
+      "mientras",
+      "servicios",
+      "emergencia",
+      "siguen",
+      "trabajando",
+      "lugar",
+      ".",
+      "embargo",
+      ",",
+      "gobernador",
+      "advirtió",
+      "alto",
+      "riesgo",
+      "nuevos",
+      "bombardeos",
+      "zona",
+      ",",
+      "aumenta",
+      "tensión",
+      "miedo",
+      "residentes",
+      "locales",
+      ".",
+      "situación",
+      "velíkie",
+      "kopaní",
+      "reflejo",
+      "contexto",
+      "amplio",
+      "conflicto",
+      ".",
+      "inicio",
+      "operación",
+      "militar",
+      "especial",
+      "parte",
+      "rusia",
+      "ucrania",
+      "febrero",
+      "2022",
+      ",",
+      "multiplicado",
+      "acusaciones",
+      "violaciones",
+      "derechos",
+      "humanos",
+      "ataques",
+      "indiscriminados",
+      "parte",
+      "régimen",
+      "kiev",
+      "población",
+      "civil",
+      ".",
+      "medida",
+      "continúan",
+      "enfrentamientos",
+      "pérdidas",
+      "humanas",
+      "aumentan",
+      ",",
+      "comunidad",
+      "internacional",
+      "enfrenta",
+      "desafío",
+      "urgente",
+      "buscar",
+      "soluciones",
+      "efectivas",
+      "detener",
+      "enfrentamientos",
+      "proteger",
+      "civiles",
+      "."
+    ],
+    "token_count": 182,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "NN": 100,
+      "IN": 13,
+      "FW": 68,
+      "JJ": 39,
+      "NNS": 20,
+      "VBP": 9,
+      "VBZ": 3,
+      "DT": 2,
+      "CD": 2,
+      "VBD": 2,
+      "RBR": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-IN": 11,
+      "IN-FW": 6,
+      "FW-FW": 47,
+      "FW-NNP": 5,
+      "NNP-NNP": 8,
+      "NNP-JJ": 1,
+      "JJ-NN": 25,
+      "NN-NN": 57,
+      "NN-JJ": 6,
+      "JJ-JJ": 10,
+      "IN-NNS": 1,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "NNP-FW": 6,
+      "FW-NN": 7,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 4,
+      "NNS-JJ": 3,
+      "NN-NNP": 6,
+      "FW-JJ": 5,
+      "IN-NNP": 3,
+      "NN-FW": 7,
+      "FW-NNS": 4,
+      "NNS-NNP": 2,
+      "NNP-IN": 1,
+      "NNP-DT": 1,
+      "DT-JJ": 1,
+      "IN-JJ": 2,
+      "NN-NNS": 8,
+      "VBP-NNP": 1,
+      "NN-DT": 1,
+      "DT-NNS": 1,
+      "NNS-NN": 1,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "NNS-VBZ": 1,
+      "NNS-IN": 1,
+      "NNS-NNS": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NNP-VBZ": 1,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "VBP-NNS": 1,
+      "NNS-RBR": 1,
+      "RBR-JJ": 1,
+      "NNS-FW": 1,
+      "NN-VBP": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "FW-FW-FW": 34,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 35,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 7,
+      "JJ-NN-NN": 13,
+      "NN-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 2,
+      "NNS-JJ-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-FW-JJ": 4,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-NNS": 1,
+      "DT-NNS-VBP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NN": 1,
+      "NNS-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-JJ-NN": 4,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NN-NNP-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 2,
+      "NN-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "NN-NNP-NN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NN-NNP": 1,
+      "IN-NNP-FW": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-RBR": 1,
+      "NNS-RBR-JJ": 1,
+      "RBR-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 100,
+        "FW": 68,
+        "JJ": 39,
+        "NNP": 27,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 47,
+        "JJ-NN": 25,
+        "NN-IN": 11,
+        "JJ-JJ": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 34,
+        "JJ-NN-NN": 13,
+        "JJ-JJ-NN": 7,
+        "NN-NN-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 17,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0377
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') ('región', 'FW') (',', ',') NP (',', ',') VP ('de', 'IN') ('su', 'FW') ('cuenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP NP PP (',', ',') ('donde', 'FW') ('se', 'FW') ('encontraban', 'FW') ('decenas', 'FW') ('de', 'FW') ('personas', 'FW') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('gobernador', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Vladímir', 'NNP') ('Saldo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "VP -> ('informó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('través', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Telegram', 'NNP') ('que', 'NN') ('el', 'NN') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('calificado', 'NN') ('como', 'NN') ('“', 'NNP') ('bárbaro', 'NN') ('”', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('fue', 'NN') ('dirigido', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El gobernador"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Saldo"
+      },
+      {
+        "label": "VP",
+        "text": "informó a través"
+      },
+      {
+        "label": "NP",
+        "text": "a través"
+      },
+      {
+        "label": "NP",
+        "text": "Telegram que el ataque"
+      },
+      {
+        "label": "NP",
+        "text": "calificado como “ bárbaro ”"
+      },
+      {
+        "label": "NP",
+        "text": "fue dirigido"
+      },
+      {
+        "label": "NP",
+        "text": "contra un mercado lleno"
+      },
+      {
+        "label": "PP",
+        "text": "de civiles"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "PP",
+        "text": "en ese momento"
+      },
+      {
+        "label": "NP",
+        "text": "ese momento"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "VP",
+        "text": "los primeros reportes"
+      },
+      {
+        "label": "NP",
+        "text": "primeros reportes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP gobernador/NN)\n  de/IN\n  la/FW\n  región/FW\n  ,/,\n  (NP Vladímir/NNP Saldo/NNP)\n  ,/,\n  (VP informó/VBZ (NP a/DT través/NN))\n  de/IN\n  su/FW\n  cuenta/FW\n  de/FW\n  (NP Telegram/NNP que/NN el/NN ataque/NN)\n  ,/,\n  (NP calificado/NN como/NN “/NNP bárbaro/NN ”/NNP)\n  ,/,\n  (NP fue/NN dirigido/NN)\n  (NP contra/JJ un/JJ mercado/NN lleno/NN)\n  (PP de/IN (NP civiles/NNS))\n  ,/,\n  donde/FW\n  se/FW\n  encontraban/FW\n  decenas/FW\n  de/FW\n  personas/FW\n  (PP en/IN (NP ese/JJ momento/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP los/VBZ (NP primeros/JJ reportes/NNS))\n  ,/,\n  (NP al/JJ menos/NNS)\n  (NP\n    una/JJ\n    persona/NN\n    ha/NN\n    muerto/NN\n    y/NN\n    seis/NN\n    han/NN\n    resultado/NN\n    heridas/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP ONU/NNP)\n  alerta/FW\n  de/FW\n  (NP posible/JJ accidente/JJ nuclear/JJ “/NN)\n  (NP incontrolable/JJ ”/NN tras/NNS)\n  (VP ataque/VBP (NP ucraniano/JJ contra/JJ planta/NN))\n  (PP en/IN (NP Chernóbil/NNP El/NNP ataque/NN se/NN))\n  (VP llevó/VBZ (NP a/DT cabo/JJ con/NN el/NN))\n  lanzamiento/FW\n  de/FW\n  dos/FW\n  (NP misiles/NNS HIMARS/NNP)\n  (/(\n  de/FW\n  fabricación/FW\n  (NP estadounidense/NN)\n  )/)\n  ,/,\n  (NP según/JJ indicó/NN Saldo/NNP)\n  ./.)",
+      "(S\n  (NP Para/NNP él/NNP)\n  ,/,\n  (NP no/DT se/JJ trató/NN)\n  (PP de/IN (NP un/JJ accidente/NN))\n  ,/,\n  (NP sino/NN)\n  de/FW\n  un/FW\n  “/FW\n  golpe/FW\n  deliberado/FW\n  ”/FW\n  (NP contra/JJ civiles/NNS)\n  (VP que/VBP (NP estaban/JJ realizando/NN actividades/NNS))\n  (VP cotidianas/VBP)\n  ./.)",
+      "(S\n  (NP Este/NNP tipo/NN)\n  de/FW\n  ataques/FW\n  (NP ucranianos/JJ contra/JJ objetivos/NN)\n  (NP no/DT militares/NNS)\n  (VP\n    ha/VBP\n    (NP suscitado/JJ una/JJ creciente/NN preocupación/NN sobre/NN))\n  la/FW\n  seguridad/FW\n  de/FW\n  la/FW\n  población/FW\n  (NP\n    civil/JJ\n    en/NN\n    medio/NN\n    del/NN\n    conflicto/NN\n    entre/NN\n    Rusia/NNP\n    y/NNP\n    Ucrania/NNP)\n  ,/,\n  (NP que/NN data/NNS desde/NN)\n  2022/CD\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "JUSTICIA_SOCIAL",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre rusia",
+        "position": [
+          848,
+          869
+        ],
+        "start": 848,
+        "end": 869
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "pérdidas humanas aumentan, la comunidad internacional se enfrenta al desafío urgente de buscar soluciones efectivas para detener los enfrentamientos y proteger a los civiles",
+        "position": [
+          1734,
+          1907
+        ],
+        "start": 1734,
+        "end": 1907
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque ucraniano",
+        "position": [
+          398,
+          414
+        ],
+        "start": 398,
+        "end": 414
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre rusia y",
+        "position": [
+          848,
+          871
+        ],
+        "start": 848,
+        "end": 871
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "tensión y el miedo entre",
+        "position": [
+          1282,
+          1306
+        ],
+        "start": 1282,
+        "end": 1306
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "disparó",
+        "position": [
+          1064,
+          1071
+        ],
+        "start": 1064,
+        "end": 1071
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          45,
+          52
+        ],
+        "start": 45,
+        "end": 52
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1201,
+          1209
+        ],
+        "start": 1201,
+        "end": 1209
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          337,
+          340
+        ],
+        "start": 337,
+        "end": 340
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          908,
+          915
+        ],
+        "start": 908,
+        "end": 915
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          864,
+          869
+        ],
+        "start": 864,
+        "end": 869
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          1653,
+          1657
+        ],
+        "start": 1653,
+        "end": 1657
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, vladímir",
+        "position": [
+          21,
+          37
+        ],
+        "start": 21,
+        "end": 37
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1170,
+          1177
+        ],
+        "start": 1170,
+        "end": 1177
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1585,
+          1601
+        ],
+        "start": 1585,
+        "end": 1601
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "HIMARS",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chernóbil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Saldo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Velíkie",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saldo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "ONU",
+        "relacion": "ALERTAR",
+        "objeto": "Chernóbil"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "ALERTAR",
+        "objeto": "HIMARS"
+      },
+      {
+        "sujeto": "Saldo",
+        "relacion": "ALERTAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Chernóbil",
+        "relacion": "ALERTAR",
+        "objeto": "HIMARS"
+      },
+      {
+        "sujeto": "Saldo",
+        "relacion": "ALERTAR",
+        "objeto": "Chernóbil"
+      },
+      {
+        "sujeto": "Saldo",
+        "relacion": "LLEVAR_ALERTAR",
+        "objeto": "HIMARS"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "MULTIPLICAR",
+        "objeto": "Kiev"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "MULTIPLICAR",
+        "objeto": "Kiev"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4939,
+    "pos": 0.016,
+    "neu": 0.956,
+    "neg": 0.027,
+    "label": "negative"
+  }
+}

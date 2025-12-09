@@ -1,0 +1,707 @@
+{
+  "url": "https://www.telesurtv.net/movimiento-yemeni-condena-nuevo-ataque-a-gaza-por-las-fuerzas-israelies/",
+  "title": "Movimiento yemení condena nuevo ataque a Gaza por las fuerzas israelíes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Gaza",
+    "genocidio",
+    "Yemen"
+  ],
+  "text": "Ante el último ataque a la Franja de Gaza como parte del genocidio israelí, que ha dejado hasta el momento más de 400 asesinados, el líder del movimiento Ansar Allah de Yemen, Sayyed Abdul Malik al-Houthi, condenó este martes el ataque contra el pueblo palestino y dijo que Israel pondera su exterminio masivo.\nAl insistir que Israel no respeta ninguna consideración en su proceder de exterminio masivo, destrucción total y asesinatos atroces, el líder remarcó los incumplimientos del régimen sionista al romper el acuerdo de alto al fuego.\nDe igual manera observó la postura genocida de no levantar el asedio y no poner fin del hambre e impedir, desde hace más de dos semanas, la entrada de ayuda humanitaria.\n“Si el enemigo israelí lograra eliminar la causa palestina, llevaría su criminalidad al resto de los países sin tener en cuenta a nadie en absoluto”, puntualizó Sayyed Abdul Malik al-Houthi.\nA esto, sumó que Israel no respeta los acuerdos con los países árabes, incluso si estos vienen con garantías estadounidenses.\n“Con toda desfachatez intentan presionar a Hamas para completar el intercambio de prisioneros fuera del marco del acuerdo”, externó.\nAsimismo, agregó que “los sionistas están tranquilos porque no existe ningún movimiento serio para hacerles rendir cuentas por sus crímenes, empezando por el mundo islámico y extendiéndose al resto del mundo”.\nIsrael ya ha asesinado a más de 120 niños desde que rompió el alto el fuego. Ante esta realidad la organización yemení refirió que “vamos a reanudar la escalada contra el enemigo israelí y decimos a nuestros hermanos en Palestina que no están solos”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/movimiento-yemeni-condena-nuevo-ataque-a-gaza-por-las-fuerzas-israelies/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 997,
+    "message_id": 89546,
+    "date": "2025-03-19T07:55:12+00:00",
+    "text": "teleSUR\nMovimiento yemení condena nuevo ataque a Gaza por las fuerzas israelíes\nhttps://www.telesurtv.net/movimiento-yemeni-condena-nuevo-ataque-a-gaza-por-las-fuerzas-israelies/",
+    "photo_path": null,
+    "views": 1626,
+    "reactions": {
+      "👏": 43,
+      "👍": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "ante el último ataque a la franja de gaza como parte del genocidio israelí, que ha dejado hasta el momento más de 400 asesinados, el líder del movimiento ansar allah de yemen, sayyed abdul malik al-houthi, condenó este martes el ataque contra el pueblo palestino y dijo que israel pondera su exterminio masivo. al insistir que israel no respeta ninguna consideración en su proceder de exterminio masivo, destrucción total y asesinatos atroces, el líder remarcó los incumplimientos del régimen sionista al romper el acuerdo de alto al fuego. de igual manera observó la postura genocida de no levantar el asedio y no poner fin del hambre e impedir, desde hace más de dos semanas, la entrada de ayuda humanitaria. “si el enemigo israelí lograra eliminar la causa palestina, llevaría su criminalidad al resto de los países sin tener en cuenta a nadie en absoluto”, puntualizó sayyed abdul malik al-houthi. a esto, sumó que israel no respeta los acuerdos con los países árabes, incluso si estos vienen con garantías estadounidenses. “con toda desfachatez intentan presionar a hamas para completar el intercambio de prisioneros fuera del marco del acuerdo”, externó. asimismo, agregó que “los sionistas están tranquilos porque no existe ningún movimiento serio para hacerles rendir cuentas por sus crímenes, empezando por el mundo islámico y extendiéndose al resto del mundo”. israel ya ha asesinado a más de 120 niños desde que rompió el alto el fuego. ante esta realidad la organización yemení refirió que “vamos a reanudar la escalada contra el enemigo israelí y decimos a nuestros hermanos en palestina que no están solos”.",
+    "tokens": [
+      "último",
+      "ataque",
+      "franja",
+      "gaza",
+      "parte",
+      "genocidio",
+      "israelí",
+      ",",
+      "dejado",
+      "momento",
+      "400",
+      "asesinados",
+      ",",
+      "líder",
+      "movimiento",
+      "ansar",
+      "allah",
+      "yemen",
+      ",",
+      "sayyed",
+      "abdul",
+      "malik",
+      "al-houthi",
+      ",",
+      "condenó",
+      "martes",
+      "ataque",
+      "pueblo",
+      "palestino",
+      "dijo",
+      "israel",
+      "pondera",
+      "exterminio",
+      "masivo",
+      ".",
+      "insistir",
+      "israel",
+      "respeta",
+      "ninguna",
+      "consideración",
+      "proceder",
+      "exterminio",
+      "masivo",
+      ",",
+      "destrucción",
+      "total",
+      "asesinatos",
+      "atroces",
+      ",",
+      "líder",
+      "remarcó",
+      "incumplimientos",
+      "régimen",
+      "sionista",
+      "romper",
+      "acuerdo",
+      "alto",
+      "fuego",
+      ".",
+      "igual",
+      "manera",
+      "observó",
+      "postura",
+      "genocida",
+      "levantar",
+      "asedio",
+      "poner",
+      "fin",
+      "hambre",
+      "impedir",
+      ",",
+      "hace",
+      "dos",
+      "semanas",
+      ",",
+      "entrada",
+      "ayuda",
+      "humanitaria",
+      ".",
+      "“",
+      "si",
+      "enemigo",
+      "israelí",
+      "lograra",
+      "eliminar",
+      "causa",
+      "palestina",
+      ",",
+      "llevaría",
+      "criminalidad",
+      "resto",
+      "países",
+      "tener",
+      "cuenta",
+      "nadie",
+      "absoluto",
+      "”",
+      ",",
+      "puntualizó",
+      "sayyed",
+      "abdul",
+      "malik",
+      "al-houthi",
+      ".",
+      ",",
+      "sumó",
+      "israel",
+      "respeta",
+      "acuerdos",
+      "países",
+      "árabes",
+      ",",
+      "incluso",
+      "si",
+      "vienen",
+      "garantías",
+      "estadounidenses",
+      ".",
+      "“",
+      "toda",
+      "desfachatez",
+      "intentan",
+      "presionar",
+      "hamas",
+      "completar",
+      "intercambio",
+      "prisioneros",
+      "marco",
+      "acuerdo",
+      "”",
+      ",",
+      "externó",
+      ".",
+      "asimismo",
+      ",",
+      "agregó",
+      "“",
+      "sionistas",
+      "tranquilos",
+      "existe",
+      "ningún",
+      "movimiento",
+      "serio",
+      "hacerles",
+      "rendir",
+      "cuentas",
+      "crímenes",
+      ",",
+      "empezando",
+      "mundo",
+      "islámico",
+      "extendiéndose",
+      "resto",
+      "mundo",
+      "”",
+      ".",
+      "israel",
+      "asesinado",
+      "120",
+      "niños",
+      "rompió",
+      "alto",
+      "fuego",
+      ".",
+      "realidad",
+      "organización",
+      "yemení",
+      "refirió",
+      "“",
+      "vamos",
+      "reanudar",
+      "escalada",
+      "enemigo",
+      "israelí",
+      "decimos",
+      "hermanos",
+      "palestina",
+      "solos",
+      "”",
+      "."
+    ],
+    "token_count": 180,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "CC": 1,
+      "VBP": 11,
+      "JJ": 24,
+      "FW": 31,
+      "NN": 119,
+      "IN": 9,
+      "CD": 2,
+      "NNS": 9,
+      "JJR": 2,
+      "VBZ": 7,
+      "DT": 6,
+      "RB": 2
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "NNP-VBP": 2,
+      "VBP-JJ": 5,
+      "JJ-NNP": 1,
+      "NNP-FW": 1,
+      "FW-NNP": 2,
+      "NNP-NN": 10,
+      "NN-NN": 72,
+      "NN-IN": 8,
+      "IN-CD": 2,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJR": 1,
+      "JJR-NN": 2,
+      "NN-NNP": 11,
+      "NNP-NNP": 7,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-JJ": 3,
+      "JJ-NN": 16,
+      "NN-VBZ": 6,
+      "VBZ-JJ": 3,
+      "JJ-JJ": 2,
+      "NNP-DT": 2,
+      "DT-NN": 6,
+      "NN-RB": 2,
+      "RB-JJ": 1,
+      "JJ-FW": 3,
+      "FW-JJ": 4,
+      "IN-FW": 5,
+      "FW-FW": 13,
+      "NN-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-JJR": 1,
+      "NN-JJ": 4,
+      "NN-FW": 7,
+      "FW-DT": 1,
+      "JJ-DT": 1,
+      "VBZ-FW": 1,
+      "FW-NN": 8,
+      "FW-NNS": 3,
+      "VBP-FW": 1,
+      "NNS-NNP": 1,
+      "NN-VBP": 2,
+      "VBP-NN": 3,
+      "IN-NN": 1,
+      "VBZ-NNP": 2,
+      "NN-DT": 2,
+      "RB-VBZ": 1,
+      "VBZ-NN": 1,
+      "VBP-NNS": 1,
+      "CD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-NNP": 1,
+      "CC-NNP-VBP": 1,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 43,
+      "NN-NN-IN": 4,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJR": 1,
+      "JJ-JJR-NN": 1,
+      "JJR-NN-NN": 2,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNP-NN": 5,
+      "NN-NNP-DT": 2,
+      "NNP-DT-NN": 2,
+      "DT-NN-RB": 2,
+      "NN-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 8,
+      "FW-FW-JJ": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJR": 1,
+      "VBP-JJR-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 2,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-VBZ": 3,
+      "VBZ-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-NN": 5,
+      "VBZ-JJ-NN": 1,
+      "NN-VBZ-NNP": 2,
+      "VBZ-NNP-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "NN-RB-VBZ": 1,
+      "RB-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 1,
+      "NNP-NN-DT": 1,
+      "DT-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 119,
+        "FW": 31,
+        "NNP": 27,
+        "JJ": 24,
+        "VBP": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 72,
+        "JJ-NN": 16,
+        "FW-FW": 13,
+        "NN-NNP": 11,
+        "NNP-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 43,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 9,
+        "NN-NN-NNP": 8,
+        "FW-FW-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 17,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('respeta', 'NN')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('resto', 'NN')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "S -> NP ('el', 'CC') NP VP PP (',', ',') NP ('de', 'IN') ('400', 'CD') NP (',', ',') NP PP (',', ',') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Ante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('último', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "VP -> ('ataque', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('Franja', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('como', 'NN') ('parte', 'NN') ('del', 'NN') ('genocidio', 'NN') ('israelí', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('ha', 'NN') ('dejado', 'NN') ('hasta', 'NN') ('el', 'NN') ('momento', 'NN') ('más', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Ante"
+      },
+      {
+        "label": "NP",
+        "text": "último"
+      },
+      {
+        "label": "VP",
+        "text": "ataque a la Franja"
+      },
+      {
+        "label": "NP",
+        "text": "a la Franja"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza como parte del genocidio israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza como parte del genocidio israelí"
+      },
+      {
+        "label": "NP",
+        "text": "que ha dejado hasta el momento más"
+      },
+      {
+        "label": "NP",
+        "text": "asesinados"
+      },
+      {
+        "label": "NP",
+        "text": "el líder del movimiento Ansar Allah"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Sayyed Abdul Malik al-Houthi"
+      },
+      {
+        "label": "NP",
+        "text": "condenó este martes"
+      },
+      {
+        "label": "VP",
+        "text": "el ataque contra el pueblo palestino y dijo que Israel pondera su exterminio masivo"
+      },
+      {
+        "label": "NP",
+        "text": "ataque contra el pueblo palestino y dijo que Israel pondera su exterminio masivo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Ante/NNP)\n  el/CC\n  (NP último/NNP)\n  (VP ataque/VBP (NP a/DT la/NN Franja/NNP))\n  (PP\n    de/IN\n    (NP Gaza/NNP como/NN parte/NN del/NN genocidio/NN israelí/NN))\n  ,/,\n  (NP que/JJ ha/NN dejado/NN hasta/NN el/NN momento/NN más/NN)\n  de/IN\n  400/CD\n  (NP asesinados/NNS)\n  ,/,\n  (NP el/JJ líder/NN del/NN movimiento/NN Ansar/NNP Allah/NNP)\n  (PP de/IN (NP Yemen/NNP))\n  ,/,\n  (NP Sayyed/NNP Abdul/NNP Malik/NNP al-Houthi/NN)\n  ,/,\n  (NP condenó/JJ este/NN martes/NNS)\n  (VP\n    el/VBP\n    (NP\n      ataque/JJ\n      contra/JJ\n      el/NN\n      pueblo/NN\n      palestino/NN\n      y/NN\n      dijo/NN\n      que/NN\n      Israel/NNP\n      pondera/NN\n      su/NN\n      exterminio/NN\n      masivo/NN))\n  ./.)",
+      "(S\n  (NP Al/NNP insistir/NN que/NN Israel/NNP)\n  (NP no/DT respeta/NN)\n  (ADJP ninguna/RB consideración/JJ)\n  en/FW\n  (NP su/JJ proceder/NN)\n  de/IN\n  exterminio/FW\n  (NP masivo/NN)\n  ,/,\n  (NP destrucción/JJ total/JJ y/NN asesinatos/NN atroces/NNS)\n  ,/,\n  (NP el/JJ líder/NN remarcó/NN los/NN)\n  (NP incumplimientos/JJ del/NN régimen/NNS)\n  (VP sionista/VBP (NP al/JJ romper/NN el/NN acuerdo/NN))\n  de/IN\n  alto/FW\n  (NP al/JJ fuego/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN observó/NN la/NN)\n  postura/FW\n  genocida/FW\n  de/FW\n  (NP no/DT levantar/NN)\n  (VP el/VBZ (NP asedio/JJ y/NN) (NP no/DT poner/NN))\n  (VP fin/VBZ)\n  del/FW\n  (NP hambre/NN e/NN impedir/NN)\n  ,/,\n  (NP desde/JJ hace/NN más/NN)\n  de/IN\n  dos/FW\n  (NP semanas/NNS)\n  ,/,\n  la/FW\n  entrada/FW\n  de/FW\n  ayuda/FW\n  (NP humanitaria/NNS)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Si/NNP\n    el/NN\n    enemigo/NN\n    israelí/NN\n    lograra/NN\n    eliminar/NN\n    la/NN\n    causa/NN\n    palestina/NN)\n  ,/,\n  (NP llevaría/JJ su/NN criminalidad/NN)\n  (NP al/JJ resto/NN)\n  de/IN\n  los/FW\n  (NP países/NNS)\n  (VP sin/VBP (NP tener/NN))\n  en/FW\n  (NP cuenta/NN)\n  (NP a/DT nadie/JJ en/JJ absoluto/NN ”/NNP)\n  ,/,\n  (NP puntualizó/NN Sayyed/NNP Abdul/NNP Malik/NNP al-Houthi/NN)\n  ./.)",
+      "(S\n  (NP A/DT esto/NN)\n  ,/,\n  (NP sumó/NN que/NN Israel/NNP)\n  (NP no/DT respeta/NN)\n  (VP los/VBZ (NP acuerdos/JJ con/NN los/NN))\n  (VP países/VBZ (NP árabes/NNP))\n  ,/,\n  (NP\n    incluso/NN\n    si/NN\n    estos/NN\n    vienen/NN\n    con/NN\n    garantías/NN\n    estadounidenses/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque a la franja de gaza como parte del genocidio israelí, que ha dejado hasta el momento más de 400 asesinados, el líder",
+        "position": [
+          15,
+          138
+        ],
+        "start": 15,
+        "end": 138
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "genocidio israelí, que ha dejado hasta el momento más de 400 asesinados, el líder del movimiento ansar allah de yemen, sayyed abdul malik al-houthi, condenó este martes el ataque contra el pueblo",
+        "position": [
+          57,
+          252
+        ],
+        "start": 57,
+        "end": 252
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          692,
+          709
+        ],
+        "start": 692,
+        "end": 709
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          206,
+          213
+        ],
+        "start": 206,
+        "end": 213
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          67,
+          74
+        ],
+        "start": 67,
+        "end": 74
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 400",
+        "position": [
+          107,
+          117
+        ],
+        "start": 107,
+        "end": 117
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 120",
+        "position": [
+          1396,
+          1406
+        ],
+        "start": 1396,
+        "end": 1406
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ansar Allah de",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sayyed Abdul Malik al-Houthi",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CONDENAR",
+        "objeto": "Ansar Allah de"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CONDENAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CONDENAR",
+        "objeto": "Sayyed Abdul Malik al-Houthi"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONDENAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONDENAR",
+        "objeto": "Ansar Allah de"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONDENAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONDENAR",
+        "objeto": "Sayyed Abdul Malik al-Houthi"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.875,
+    "pos": 0.018,
+    "neu": 0.918,
+    "neg": 0.064,
+    "label": "negative"
+  }
+}

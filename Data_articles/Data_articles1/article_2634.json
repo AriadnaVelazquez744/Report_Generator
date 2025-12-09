@@ -1,0 +1,603 @@
+{
+  "url": "https://www.telesurtv.net/en-argentina-realizan-caravana-por-la-libertad-de-la-lideresa-social-milagro-sala/",
+  "title": "En Argentina realizan caravana por la libertad de la lideresa social Milagro Sala - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "Manifestaciones",
+    "Milagro Sala"
+  ],
+  "text": "En la ciudad de La Plata, se llevó a cabo una manifestación en reclamo del cese del hostigamiento contra Milagro Sala, quien cumple prisión domiciliaria. Los manifestantes recordaron el noveno aniversario de su injusto encarcelamiento y expresaron su decepción por la falta de indulto durante el gobierno de Alberto Fernández.\nLa persecución, iniciada en 2016 bajo el gobierno de Mauricio Macri, continúa con la administración actual, afectando a luchadores sociales.\nLa lideresa de la organización Tupac Amaru, Milagro Sala, es vista como un símbolo de resistencia popular. Durante las actividades en todo el país, activistas denunciaron irregularidades en los procesos judiciales y sentencias contra Sala. Subrayaron la importancia de visibilizar su situación y evitar que sea olvidada en prisión.\nLos manifestantes destacaron que, tras nueve años de encarcelamiento, Sala ha sido sometida a una justicia amañada, sin derecho a una defensa adecuada ni respeto al principio de inocencia. Las causas fabricadas y exhumadas bloquean su libertad, a pesar de que ninguna justifica su detención actual.\nEl encarcelamiento de Sala se fundamenta en su trabajo en obras sociales, como viviendas, escuelas y centros de salud. Los manifestantes consideran absurdo su encarcelamiento y resaltan la importancia de continuar la lucha por su liberación. La salud de Sala, agravada por la falta de atención médica adecuada, y la pérdida de su esposo e hijo, subrayan la urgencia de su liberación.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/en-argentina-realizan-caravana-por-la-libertad-de-la-lideresa-social-milagro-sala/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1085,
+    "message_id": 84677,
+    "date": "2025-01-17T10:55:07+00:00",
+    "text": "teleSUR\nEn Argentina realizan caravana por la libertad de la lideresa social Milagro Sala\nhttps://www.telesurtv.net/en-argentina-realizan-caravana-por-la-libertad-de-la-lideresa-social-milagro-sala/",
+    "photo_path": null,
+    "views": 2117,
+    "reactions": {
+      "👍": 32,
+      "❤": 14,
+      "🤔": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "en la ciudad de la plata, se llevó a cabo una manifestación en reclamo del cese del hostigamiento contra milagro sala, quien cumple prisión domiciliaria. los manifestantes recordaron el noveno aniversario de su injusto encarcelamiento y expresaron su decepción por la falta de indulto durante el gobierno de alberto fernández. la persecución, iniciada en 2016 bajo el gobierno de mauricio macri, continúa con la administración actual, afectando a luchadores sociales. la lideresa de la organización tupac amaru, milagro sala, es vista como un símbolo de resistencia popular. durante las actividades en todo el país, activistas denunciaron irregularidades en los procesos judiciales y sentencias contra sala. subrayaron la importancia de visibilizar su situación y evitar que sea olvidada en prisión. los manifestantes destacaron que, tras nueve años de encarcelamiento, sala ha sido sometida a una justicia amañada, sin derecho a una defensa adecuada ni respeto al principio de inocencia. las causas fabricadas y exhumadas bloquean su libertad, a pesar de que ninguna justifica su detención actual. el encarcelamiento de sala se fundamenta en su trabajo en obras sociales, como viviendas, escuelas y centros de salud. los manifestantes consideran absurdo su encarcelamiento y resaltan la importancia de continuar la lucha por su liberación. la salud de sala, agravada por la falta de atención médica adecuada, y la pérdida de su esposo e hijo, subrayan la urgencia de su liberación.",
+    "tokens": [
+      "ciudad",
+      "plata",
+      ",",
+      "llevó",
+      "cabo",
+      "manifestación",
+      "reclamo",
+      "cese",
+      "hostigamiento",
+      "milagro",
+      "sala",
+      ",",
+      "cumple",
+      "prisión",
+      "domiciliaria",
+      ".",
+      "manifestantes",
+      "recordaron",
+      "noveno",
+      "aniversario",
+      "injusto",
+      "encarcelamiento",
+      "expresaron",
+      "decepción",
+      "falta",
+      "indulto",
+      "gobierno",
+      "alberto",
+      "fernández",
+      ".",
+      "persecución",
+      ",",
+      "iniciada",
+      "2016",
+      "bajo",
+      "gobierno",
+      "mauricio",
+      "macri",
+      ",",
+      "continúa",
+      "administración",
+      "actual",
+      ",",
+      "afectando",
+      "luchadores",
+      "sociales",
+      ".",
+      "lideresa",
+      "organización",
+      "tupac",
+      "amaru",
+      ",",
+      "milagro",
+      "sala",
+      ",",
+      "vista",
+      "símbolo",
+      "resistencia",
+      "popular",
+      ".",
+      "actividades",
+      "país",
+      ",",
+      "activistas",
+      "denunciaron",
+      "irregularidades",
+      "procesos",
+      "judiciales",
+      "sentencias",
+      "sala",
+      ".",
+      "subrayaron",
+      "importancia",
+      "visibilizar",
+      "situación",
+      "evitar",
+      "olvidada",
+      "prisión",
+      ".",
+      "manifestantes",
+      "destacaron",
+      ",",
+      "tras",
+      "nueve",
+      "años",
+      "encarcelamiento",
+      ",",
+      "sala",
+      "sido",
+      "sometida",
+      "justicia",
+      "amañada",
+      ",",
+      "derecho",
+      "defensa",
+      "adecuada",
+      "respeto",
+      "principio",
+      "inocencia",
+      ".",
+      "causas",
+      "fabricadas",
+      "exhumadas",
+      "bloquean",
+      "libertad",
+      ",",
+      "pesar",
+      "ninguna",
+      "justifica",
+      "detención",
+      "actual",
+      ".",
+      "encarcelamiento",
+      "sala",
+      "fundamenta",
+      "trabajo",
+      "obras",
+      "sociales",
+      ",",
+      "viviendas",
+      ",",
+      "escuelas",
+      "centros",
+      "salud",
+      ".",
+      "manifestantes",
+      "consideran",
+      "absurdo",
+      "encarcelamiento",
+      "resaltan",
+      "importancia",
+      "continuar",
+      "lucha",
+      "liberación",
+      ".",
+      "salud",
+      "sala",
+      ",",
+      "agravada",
+      "falta",
+      "atención",
+      "médica",
+      "adecuada",
+      ",",
+      "pérdida",
+      "esposo",
+      "hijo",
+      ",",
+      "subrayan",
+      "urgencia",
+      "liberación",
+      "."
+    ],
+    "token_count": 152,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "FW": 65,
+      "NN": 67,
+      "JJ": 20,
+      "IN": 12,
+      "VBZ": 5,
+      "VBP": 8,
+      "CD": 1,
+      "CC": 1,
+      "NNS": 8
+    },
+    "bigram_freq": {
+      "NNP-FW": 7,
+      "FW-FW": 44,
+      "FW-NNP": 11,
+      "NNP-NNP": 9,
+      "NNP-NN": 7,
+      "NN-NN": 33,
+      "NN-JJ": 8,
+      "JJ-NN": 11,
+      "NN-IN": 9,
+      "IN-NN": 4,
+      "JJ-NNP": 4,
+      "NN-NNP": 1,
+      "NNP-VBZ": 3,
+      "VBZ-VBP": 1,
+      "VBP-JJ": 5,
+      "JJ-JJ": 2,
+      "IN-FW": 5,
+      "FW-NN": 8,
+      "NN-FW": 8,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "NN-CC": 1,
+      "CC-NN": 1,
+      "NN-VBP": 2,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 1,
+      "FW-JJ": 2,
+      "NNP-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-NNS": 1,
+      "NNS-IN": 1,
+      "VBZ-NN": 1,
+      "VBP-NN": 1,
+      "IN-JJ": 2,
+      "JJ-NNS": 2,
+      "VBP-IN": 1,
+      "VBZ-JJ": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 4,
+      "FW-FW-FW": 33,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 13,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNP": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 4,
+      "IN-FW-FW": 1,
+      "FW-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-NNP-NN": 2,
+      "IN-FW-NNP": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NNP-FW": 3,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 67,
+        "FW": 65,
+        "NNP": 27,
+        "JJ": 20,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "FW-FW": 44,
+        "NN-NN": 33,
+        "FW-NNP": 11,
+        "JJ-NN": 11,
+        "NNP-NNP": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 13,
+        "NN-NN-JJ": 8,
+        "FW-FW-NNP": 7,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 14,
+      "PP": 7,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0392
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0294
+      },
+      {
+        "rule": "NP -> ('Sala', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0294
+      },
+      {
+        "rule": "PP -> ('encarcelamiento', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "ADJP -> ('actual', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('manifestantes', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') VP VP PP NP NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "La Plata"
+      },
+      {
+        "label": "VP",
+        "text": "se"
+      },
+      {
+        "label": "VP",
+        "text": "llevó a cabo una manifestación"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo"
+      },
+      {
+        "label": "NP",
+        "text": "una manifestación"
+      },
+      {
+        "label": "PP",
+        "text": "en reclamo del"
+      },
+      {
+        "label": "NP",
+        "text": "reclamo del"
+      },
+      {
+        "label": "NP",
+        "text": "cese del hostigamiento"
+      },
+      {
+        "label": "NP",
+        "text": "contra Milagro Sala"
+      },
+      {
+        "label": "NP",
+        "text": "quien cumple prisión domiciliaria"
+      },
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "VP",
+        "text": "manifestantes"
+      },
+      {
+        "label": "VP",
+        "text": "recordaron el noveno aniversario"
+      },
+      {
+        "label": "NP",
+        "text": "el noveno aniversario"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP La/NNP Plata/NNP)\n  ,/,\n  (VP se/VBZ)\n  (VP llevó/VBP (NP a/DT cabo/NN) (NP una/JJ manifestación/NN))\n  (PP en/IN (NP reclamo/NN del/NN))\n  (NP cese/JJ del/NN hostigamiento/NN)\n  (NP contra/JJ Milagro/NNP Sala/NNP)\n  ,/,\n  (NP quien/JJ cumple/NN prisión/NN domiciliaria/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP manifestantes/VBZ)\n  (VP recordaron/VBP (NP el/JJ noveno/JJ aniversario/NN))\n  de/IN\n  su/FW\n  (NP injusto/NN)\n  (PP\n    encarcelamiento/IN\n    (NP y/NN expresaron/NN su/NN decepción/NN por/NN))\n  la/FW\n  falta/FW\n  de/FW\n  indulto/FW\n  durante/FW\n  el/FW\n  gobierno/FW\n  de/FW\n  (NP Alberto/NNP Fernández/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP persecución/NN)\n  ,/,\n  (NP iniciada/NN)\n  en/IN\n  2016/CD\n  (NP bajo/NN)\n  el/CC\n  (NP gobierno/NN)\n  de/FW\n  (NP Mauricio/NNP Macri/NNP)\n  ,/,\n  (NP continúa/NN con/NN la/NN)\n  administración/FW\n  (ADJP actual/JJ)\n  ,/,\n  (VP afectando/VB (NP a/DT luchadores/NNS sociales/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  lideresa/FW\n  de/FW\n  la/FW\n  organización/FW\n  (NP Tupac/NNP Amaru/NNP)\n  ,/,\n  (NP Milagro/NNP Sala/NNP)\n  ,/,\n  (NP es/NN vista/NN como/NN)\n  (NP un/JJ símbolo/NN)\n  de/IN\n  resistencia/FW\n  (ADJP popular/JJ)\n  ./.)",
+      "(S\n  (NP Durante/NNP las/NNS)\n  (VP actividades/VBZ)\n  (PP en/IN (NP todo/NN el/NN país/NN))\n  ,/,\n  (NP activistas/JJ denunciaron/NN irregularidades/NNS)\n  (PP en/IN (NP los/NN procesos/NN judiciales/NNS))\n  (VP y/VBP (NP sentencias/JJ contra/JJ Sala/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "ACCIONES_LEGALES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CULTURA_DEPORTE_SOCIEDAD"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestación en reclamo del cese del hostigamiento contra milagro sala, quien cumple prisión domiciliaria. los manifestantes recordaron el noveno aniversario de su injusto encarcelamiento y expresaron su decepción por la falta de indulto durante el gobierno",
+        "position": [
+          46,
+          304
+        ],
+        "start": 46,
+        "end": 304
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1146,
+          1153
+        ],
+        "start": 1146,
+        "end": 1153
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "prisión domiciliaria",
+        "position": [
+          132,
+          152
+        ],
+        "start": 132,
+        "end": 152
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          934,
+          941
+        ],
+        "start": 934,
+        "end": 941
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "organización tupac amaru, milagro sala, es vista como un símbolo de resistencia popular",
+        "position": [
+          486,
+          573
+        ],
+        "start": 486,
+        "end": 573
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de alberto fernández",
+        "position": [
+          296,
+          325
+        ],
+        "start": 296,
+        "end": 325
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunciaron",
+        "position": [
+          627,
+          638
+        ],
+        "start": 627,
+        "end": 638
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "La Plata",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alberto Fernández",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tupac Amaru",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sala",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mauricio Macri",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.1531,
+    "pos": 0.024,
+    "neu": 0.96,
+    "neg": 0.016,
+    "label": "positive"
+  }
+}

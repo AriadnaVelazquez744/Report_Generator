@@ -1,0 +1,975 @@
+{
+  "url": "https://www.telesurtv.net/india-condena-asesinato-periodistas-gaza/",
+  "title": "La India condena el asesinato de periodistas en Gaza",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "Cancillería India",
+    "Franja de Gaza",
+    "Periodistas Asesinados"
+  ],
+  "text": "La India condenó este miércoles la reciente muerte de cinco periodistas en la Franja de Gaza como resultado del ataque de Israel contra el hospital Nasser en el sur del territorio palestino.\n“El asesinato de periodistas es impactante y profundamente lamentable. La India siempre ha condenado la muerte de civiles en los conflictos. Según nuestra información, las autoridades israelíes ya han iniciado una investigación” comunicó el portavoz del Ministerio de Exteriores indio, Randhir Jaiswal.\nMedios palestinos y árabes informaron el lunes pasado que cinco periodistas fallecieron en un ataque israelí contra la sala de emergencias del hospital Nasser.\n\n\nDe acuerdo a las autoridades del territorio palestino, al menos 20 personas perdieron la vida, entre los que se encontraban Hossam Al Masri (camarógrafo de la agencia de noticias Reuters), Mohamed Salama (camarógrafo de la cadena catarí Al Jazeera), Mariam Abu Daqqa (informadora de la agencia estadounidense AP), Moaz Abu Taha (reportero de la cadena estadounidense NBC) y Ahmed Abu Aziz (periodista para la Red Quds Feed).\nTras el ataque, el número de periodistas muertos en la Franja de Gaza desde el inicio de la operación genocida israelí contra el territorio palestino ascendió a 245.\nEl director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, confirmó la cifra de muertos y heridos en el ataque contra el hospital Nasser. Según la OMS, el blanco fue el edificio principal, donde funcionan las unidades de urgencias, hospitalización y cirugía.\nPor su parte, el comisionado general de la Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente Próximo (UNRWA), Philippe Lazzarini, calificó de “chocante” la pasividad y la falta de acción de la comunidad internacional ante los ataques de Israel contra la Franja de Gaza.\nLa India ha abogado por una solución pacífica al conflicto palestino-israelí. Nueva Delhi ha sido un defensor histórico de la causa de Palestina, a quien reconoce como estado desde 1988.\nDesde el recrudecimiento del conflicto en Gaza, el primer ministro de la India, Narendra Modi, ha reiterado a su par israelí, Benjamín Netanyahu, su petición de un alto el fuego en la zona.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/india-condena-asesinato-periodistas-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 350,
+    "message_id": 102944,
+    "date": "2025-08-27T08:55:07+00:00",
+    "text": "teleSUR\nLa India condena la muerte de periodistas tras ataque israelí en la Franja de Gaza\nhttps://www.telesurtv.net/india-condena-asesinato-periodistas-gaza/",
+    "photo_path": null,
+    "views": 2192,
+    "reactions": {
+      "😢": 30,
+      "👍": 10,
+      "🤬": 8,
+      "❤": 3,
+      "😭": 2,
+      "🤔": 1
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "la india condenó este miércoles la reciente muerte de cinco periodistas en la franja de gaza como resultado del ataque de israel contra el hospital nasser en el sur del territorio palestino. “el asesinato de periodistas es impactante y profundamente lamentable. la india siempre ha condenado la muerte de civiles en los conflictos. según nuestra información, las autoridades israelíes ya han iniciado una investigación” comunicó el portavoz del ministerio de exteriores indio, randhir jaiswal. medios palestinos y árabes informaron el lunes pasado que cinco periodistas fallecieron en un ataque israelí contra la sala de emergencias del hospital nasser. de acuerdo a las autoridades del territorio palestino, al menos 20 personas perdieron la vida, entre los que se encontraban hossam al masri (camarógrafo de la agencia de noticias reuters), mohamed salama (camarógrafo de la cadena catarí al jazeera), mariam abu daqqa (informadora de la agencia estadounidense ap), moaz abu taha (reportero de la cadena estadounidense nbc) y ahmed abu aziz (periodista para la red quds feed). tras el ataque, el número de periodistas muertos en la franja de gaza desde el inicio de la operación genocida israelí contra el territorio palestino ascendió a 245. el director general de la organización mundial de la salud (oms), tedros adhanom ghebreyesus, confirmó la cifra de muertos y heridos en el ataque contra el hospital nasser. según la oms, el blanco fue el edificio principal, donde funcionan las unidades de urgencias, hospitalización y cirugía. por su parte, el comisionado general de la agencia de naciones unidas para los refugiados de palestina en oriente próximo (unrwa), philippe lazzarini, calificó de “chocante” la pasividad y la falta de acción de la comunidad internacional ante los ataques de israel contra la franja de gaza. la india ha abogado por una solución pacífica al conflicto palestino-israelí. nueva delhi ha sido un defensor histórico de la causa de palestina, a quien reconoce como estado desde 1988. desde el recrudecimiento del conflicto en gaza, el primer ministro de la india, narendra modi, ha reiterado a su par israelí, benjamín netanyahu, su petición de un alto el fuego en la zona.",
+    "tokens": [
+      "india",
+      "condenó",
+      "miércoles",
+      "reciente",
+      "muerte",
+      "cinco",
+      "periodistas",
+      "franja",
+      "gaza",
+      "resultado",
+      "ataque",
+      "israel",
+      "hospital",
+      "nasser",
+      "sur",
+      "territorio",
+      "palestino",
+      ".",
+      "“",
+      "asesinato",
+      "periodistas",
+      "impactante",
+      "profundamente",
+      "lamentable",
+      ".",
+      "india",
+      "siempre",
+      "condenado",
+      "muerte",
+      "civiles",
+      "conflictos",
+      ".",
+      "según",
+      "información",
+      ",",
+      "autoridades",
+      "israelíes",
+      "iniciado",
+      "investigación",
+      "”",
+      "comunicó",
+      "portavoz",
+      "ministerio",
+      "exteriores",
+      "indio",
+      ",",
+      "randhir",
+      "jaiswal",
+      ".",
+      "medios",
+      "palestinos",
+      "árabes",
+      "informaron",
+      "lunes",
+      "pasado",
+      "cinco",
+      "periodistas",
+      "fallecieron",
+      "ataque",
+      "israelí",
+      "sala",
+      "emergencias",
+      "hospital",
+      "nasser",
+      ".",
+      "acuerdo",
+      "autoridades",
+      "territorio",
+      "palestino",
+      ",",
+      "menos",
+      "20",
+      "personas",
+      "perdieron",
+      "vida",
+      ",",
+      "encontraban",
+      "hossam",
+      "masri",
+      "(",
+      "camarógrafo",
+      "agencia",
+      "noticias",
+      "reuters",
+      ")",
+      ",",
+      "mohamed",
+      "salama",
+      "(",
+      "camarógrafo",
+      "cadena",
+      "catarí",
+      "jazeera",
+      ")",
+      ",",
+      "mariam",
+      "abu",
+      "daqqa",
+      "(",
+      "informadora",
+      "agencia",
+      "estadounidense",
+      "ap",
+      ")",
+      ",",
+      "moaz",
+      "abu",
+      "taha",
+      "(",
+      "reportero",
+      "cadena",
+      "estadounidense",
+      "nbc",
+      ")",
+      "ahmed",
+      "abu",
+      "aziz",
+      "(",
+      "periodista",
+      "red",
+      "quds",
+      "feed",
+      ")",
+      ".",
+      "tras",
+      "ataque",
+      ",",
+      "número",
+      "periodistas",
+      "muertos",
+      "franja",
+      "gaza",
+      "inicio",
+      "operación",
+      "genocida",
+      "israelí",
+      "territorio",
+      "palestino",
+      "ascendió",
+      "245.",
+      "director",
+      "general",
+      "organización",
+      "mundial",
+      "salud",
+      "(",
+      "oms",
+      ")",
+      ",",
+      "tedros",
+      "adhanom",
+      "ghebreyesus",
+      ",",
+      "confirmó",
+      "cifra",
+      "muertos",
+      "heridos",
+      "ataque",
+      "hospital",
+      "nasser",
+      ".",
+      "según",
+      "oms",
+      ",",
+      "blanco",
+      "edificio",
+      "principal",
+      ",",
+      "funcionan",
+      "unidades",
+      "urgencias",
+      ",",
+      "hospitalización",
+      "cirugía",
+      ".",
+      "parte",
+      ",",
+      "comisionado",
+      "general",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestina",
+      "oriente",
+      "próximo",
+      "(",
+      "unrwa",
+      ")",
+      ",",
+      "philippe",
+      "lazzarini",
+      ",",
+      "calificó",
+      "“",
+      "chocante",
+      "”",
+      "pasividad",
+      "falta",
+      "acción",
+      "comunidad",
+      "internacional",
+      "ataques",
+      "israel",
+      "franja",
+      "gaza",
+      ".",
+      "india",
+      "abogado",
+      "solución",
+      "pacífica",
+      "conflicto",
+      "palestino-israelí",
+      ".",
+      "nueva",
+      "delhi",
+      "sido",
+      "defensor",
+      "histórico",
+      "causa",
+      "palestina",
+      ",",
+      "reconoce",
+      "1988.",
+      "recrudecimiento",
+      "conflicto",
+      "gaza",
+      ",",
+      "primer",
+      "ministro",
+      "india",
+      ",",
+      "narendra",
+      "modi",
+      ",",
+      "reiterado",
+      "par",
+      "israelí",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "petición",
+      "alto",
+      "fuego",
+      "zona",
+      "."
+    ],
+    "token_count": 247,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 83,
+      "NN": 97,
+      "NNS": 9,
+      "VBP": 9,
+      "JJ": 26,
+      "FW": 94,
+      "IN": 13,
+      "VBZ": 3,
+      "$": 1,
+      "CD": 3,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 41,
+      "NNP-NN": 21,
+      "NN-NN": 48,
+      "NN-NNS": 5,
+      "NNS-VBP": 4,
+      "VBP-JJ": 4,
+      "JJ-FW": 2,
+      "FW-FW": 58,
+      "FW-NNS": 4,
+      "NNS-IN": 4,
+      "IN-FW": 8,
+      "FW-NNP": 19,
+      "NNP-FW": 13,
+      "NN-IN": 8,
+      "IN-NNP": 3,
+      "NNP-VBP": 2,
+      "JJ-NN": 17,
+      "NN-NNP": 12,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "FW-JJ": 5,
+      "NN-FW": 10,
+      "JJ-NNP": 3,
+      "NNS-NNP": 1,
+      "NNP-JJ": 1,
+      "IN-JJ": 1,
+      "NN-JJ": 9,
+      "VBP-NNP": 1,
+      "JJ-JJ": 4,
+      "FW-NN": 8,
+      "IN-NN": 1,
+      "NN-VBP": 3,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "VBZ-JJ": 2,
+      "VBP-FW": 1,
+      "VBP-CD": 1,
+      "CD-NNP": 2,
+      "VBP-NN": 1,
+      "NNP-IN": 1,
+      "NN-CD": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 13,
+      "NNP-NN-NN": 13,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 41,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 9,
+      "FW-NNP-NN": 4,
+      "NN-NN-NN": 22,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NN-NN-FW": 4,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 6,
+      "NN-FW-NNP": 2,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 7,
+      "NNP-NNP-NNP": 21,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-NNP": 4,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNS": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 9,
+      "NNP-NN-IN": 3,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 6,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "FW-JJ-JJ": 1,
+      "NN-VBP-CD": 1,
+      "VBP-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "FW": 94,
+        "NNP": 83,
+        "JJ": 26,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 58,
+        "NN-NN": 48,
+        "NNP-NNP": 41,
+        "NNP-NN": 21,
+        "FW-NNP": 19
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 41,
+        "NN-NN-NN": 22,
+        "NNP-NNP-NNP": 21,
+        "NNP-NNP-NN": 13,
+        "NNP-NN-NN": 13
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 89,
+      "VP": 16,
+      "PP": 6,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0312
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "NP -> ('hospital', 'NN') ('Nasser', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('Palestina', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "S -> NP VP ('muerte', 'FW') ('de', 'FW') ('cinco', 'FW') NP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP PP VP VP ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('India', 'NNP') ('condenó', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "VP -> ('la', 'VBP') ('reciente', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('periodistas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La India condenó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "la reciente"
+      },
+      {
+        "label": "NP",
+        "text": "periodistas"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza como resultado del ataque"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "VP",
+        "text": "contra el hospital Nasser"
+      },
+      {
+        "label": "NP",
+        "text": "el hospital Nasser"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "sur del territorio palestino"
+      },
+      {
+        "label": "NP",
+        "text": "“ El asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "profundamente lamentable"
+      },
+      {
+        "label": "NP",
+        "text": "La India siempre ha condenado"
+      },
+      {
+        "label": "NP",
+        "text": "conflictos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP India/NNP condenó/NN este/NN miércoles/NNS)\n  (VP la/VBP reciente/JJ)\n  muerte/FW\n  de/FW\n  cinco/FW\n  (NP periodistas/NNS)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP como/NN resultado/NN del/NN ataque/NN)\n  (PP de/IN (NP Israel/NNP))\n  (VP contra/VBP (NP el/JJ hospital/NN Nasser/NNP))\n  (VP en/VBZ)\n  el/FW\n  (NP sur/JJ del/NN territorio/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP asesinato/NN)\n  de/FW\n  periodistas/FW\n  es/FW\n  impactante/FW\n  y/FW\n  (NP profundamente/NN lamentable/NN)\n  ./.)",
+      "(S\n  (NP La/NNP India/NNP siempre/NN ha/NN condenado/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  civiles/FW\n  en/FW\n  los/FW\n  (NP conflictos/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (NP nuestra/JJ información/NN)\n  ,/,\n  las/FW\n  (NP autoridades/NNS)\n  (VP\n    israelíes/VBP\n    (NP ya/JJR han/NN iniciado/NN)\n    (NP una/JJ investigación/NN ”/NNP comunicó/NN el/NN portavoz/NN))\n  del/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Exteriores/NNP indio/NN)\n  ,/,\n  (NP Randhir/NNP Jaiswal/NNP)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    palestinos/VBP\n    (NP y/JJ árabes/NNP informaron/NN el/NN lunes/NNS))\n  (VP pasado/VBP (NP que/JJ cinco/NN periodistas/NNS))\n  (VP\n    fallecieron/VBP\n    (NP en/JJ un/JJ ataque/NN israelí/NN)\n    (NP contra/JJ la/NN))\n  sala/FW\n  de/FW\n  emergencias/FW\n  del/FW\n  (NP hospital/NN Nasser/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "LEYES_NORMATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en gaza",
+        "position": [
+          2048,
+          2065
+        ],
+        "start": 2048,
+        "end": 2065
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo a las autoridades del territorio palestino, al menos 20 personas perdieron la vida, entre los que se encontraban hossam al masri (camarógrafo de la agencia de noticias reuters), mohamed salama (camarógrafo de la cadena catarí al jazeera), mariam abu daqqa (informadora de la agencia estadounidense ap), moaz abu taha (reportero de la cadena estadounidense nbc) y ahmed",
+        "position": [
+          659,
+          1035
+        ],
+        "start": 659,
+        "end": 1035
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          420,
+          428
+        ],
+        "start": 420,
+        "end": 428
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de la india",
+        "position": [
+          2077,
+          2097
+        ],
+        "start": 2077,
+        "end": 2097
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1595,
+          1610
+        ],
+        "start": 1595,
+        "end": 1610
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oms",
+        "position": [
+          1307,
+          1310
+        ],
+        "start": 1307,
+        "end": 1310
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "reportero de la",
+        "position": [
+          985,
+          1000
+        ],
+        "start": 985,
+        "end": 1000
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          9,
+          16
+        ],
+        "start": 9,
+        "end": 16
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo a las autoridades del territorio palestino, al menos 20",
+        "position": [
+          659,
+          722
+        ],
+        "start": 659,
+        "end": 722
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          139,
+          147
+        ],
+        "start": 139,
+        "end": 147
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          595,
+          602
+        ],
+        "start": 595,
+        "end": 602
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado desde",
+        "position": [
+          2000,
+          2012
+        ],
+        "start": 2000,
+        "end": 2012
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio principal",
+        "position": [
+          1451,
+          1469
+        ],
+        "start": 1451,
+        "end": 1469
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital nasser",
+        "position": [
+          139,
+          154
+        ],
+        "start": 139,
+        "end": 154
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "20 personas",
+        "position": [
+          720,
+          731
+        ],
+        "start": 720,
+        "end": 731
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Randhir Jaiswal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al Jazeera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mohamed Salama",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Red Quds Feed",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ahmed Abu Aziz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hossam Al Masri",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Agencia de Naciones Unidas para los Refugiados de Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "hospital Nasser",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Moaz Abu Taha",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "NBC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Narendra Modi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "AP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Exteriores indio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNRWA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tedros Adhanom Ghebreyesus",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nueva Delhi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mariam Abu Daqqa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Philippe Lazzarini",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "OMS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Reuters",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "La India",
+        "relacion": "CONDENAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "La India",
+        "relacion": "CONDENAR",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CONDENAR",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Organización Mundial de la Salud",
+        "relacion": "CONFIRMAR",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "OMS",
+        "relacion": "CONFIRMAR",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Tedros Adhanom Ghebreyesus",
+        "relacion": "CONFIRMAR",
+        "objeto": "hospital Nasser"
+      },
+      {
+        "sujeto": "Agencia de Naciones Unidas para los Refugiados de Palestina",
+        "relacion": "CALIFICAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Agencia de Naciones Unidas para los Refugiados de Palestina",
+        "relacion": "CALIFICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "UNRWA",
+        "relacion": "CALIFICAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "UNRWA",
+        "relacion": "CALIFICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Philippe Lazzarini",
+        "relacion": "CALIFICAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Philippe Lazzarini",
+        "relacion": "CALIFICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REITERAR",
+        "objeto": "Narendra Modi"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "REITERAR",
+        "objeto": "Benjamín Netanyahu"
+      },
+      {
+        "sujeto": "Narendra Modi",
+        "relacion": "REITERAR",
+        "objeto": "Benjamín Netanyahu"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7269,
+    "pos": 0.028,
+    "neu": 0.965,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

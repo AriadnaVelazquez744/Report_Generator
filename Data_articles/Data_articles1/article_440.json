@@ -1,0 +1,952 @@
+{
+  "url": "https://www.telesurtv.net/puerto-rico-denuncian-planes-remilitarizacion/",
+  "title": "Denuncian en Puerto Rico planes estadounidenses de \"remilitarización\"",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Despliegue militar EE.UU. en el Caribe",
+    "Estados Unidos",
+    "Independencia",
+    "Puerto Rico"
+  ],
+  "text": "El Partido Independentista Puertorriqueño (PIP) exigió a la Asamblea Legislativa local que se cancele “cualquier plan dirigido a remilitarizar al país” según el comunicado difundido por la portavoz alterna de esa organización en la Cámara de Representantes local, Adriana Gutiérrez.\n\nLa solicitud, dirigida en última instancia a la Administración Trump y al Congreso estadounidense, se produce en el contexto de las maniobras de la Armada en el sur de ese archipiélago caribeño y tras la orden del Pentágono de situar diez aviones de combate F-35 a una base aérea de Puerto Rico. El despliegue se da en paralelo a las crecientes amenazas de EE.UU. contra la soberanía de Venezuela.\n“Es el saldo de ser una colonia de Estados Unidos” en palabras del senador del PIP Adrián González, quien consideró que guardar silencio o respaldar las operaciones militares es “dar la espalda a nuestros compatriotas y legitimar el sistema colonial que nos lleva oprimiendo por tantos años”.\n\n\nEl documento presentado por el PIP reclama el inicio de un proceso de descolonización de Puerto Rico y la limpieza de terrenos contaminados en décadas pasadas durante los ejercicios de guerra desarrollados por EE.UU.\nEl pasado martes, la Guardia Nacional de Puerto Rico pidió calma a la ciudadanía, en tanto la gobernadora Jenniffer Gonnzález dijo recientemente que no existe ninguna declaración oficial para reactivar alguna base o prácticas militares en las islas boricuas de Vieques y Culebra.\nAunque el estatus político de Puerto Rico como Estado Libre Asociado permite cierta autonomía, un Gobierno y Parlamento locales, ámbitos como la defensa, fronteras y relaciones diplomáticas permanecen bajo el control de Washington.\nEl despliegue militar de la Marina de EE.UU. —bajo el pretexto de combatir el narcotráfico— en aguas del Caribe y frente a las costas de Venezuela, ha sido rechazado por la Comunidad de Estados Latinoamericanos y Caribeños por poner en peligro la paz y la seguridad de la región.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/puerto-rico-denuncian-planes-remilitarizacion/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 725,
+    "message_id": 103884,
+    "date": "2025-09-05T23:55:12+00:00",
+    "text": "teleSUR\nDenuncian en Puerto Rico planes estadounidenses de “remilitarización”\nhttps://www.telesurtv.net/puerto-rico-denuncian-planes-remilitarizacion/",
+    "photo_path": null,
+    "views": 2607,
+    "reactions": {
+      "👎": 48,
+      "👍": 9,
+      "❤": 7,
+      "😁": 3,
+      "🤬": 3
+    },
+    "total_reactions": 70
+  },
+  "preprocessing": {
+    "cleaned": "el partido independentista puertorriqueño (pip) exigió a la asamblea legislativa local que se cancele “cualquier plan dirigido a remilitarizar al país” según el comunicado difundido por la portavoz alterna de esa organización en la cámara de representantes local, adriana gutiérrez. la solicitud, dirigida en última instancia a la administración trump y al congreso estadounidense, se produce en el contexto de las maniobras de la armada en el sur de ese archipiélago caribeño y tras la orden del pentágono de situar diez aviones de combate f-35 a una base aérea de puerto rico. el despliegue se da en paralelo a las crecientes amenazas de ee.uu. contra la soberanía de venezuela. “es el saldo de ser una colonia de estados unidos” en palabras del senador del pip adrián gonzález, quien consideró que guardar silencio o respaldar las operaciones militares es “dar la espalda a nuestros compatriotas y legitimar el sistema colonial que nos lleva oprimiendo por tantos años”. el documento presentado por el pip reclama el inicio de un proceso de descolonización de puerto rico y la limpieza de terrenos contaminados en décadas pasadas durante los ejercicios de guerra desarrollados por ee.uu. el pasado martes, la guardia nacional de puerto rico pidió calma a la ciudadanía, en tanto la gobernadora jenniffer gonnzález dijo recientemente que no existe ninguna declaración oficial para reactivar alguna base o prácticas militares en las islas boricuas de vieques y culebra. aunque el estatus político de puerto rico como estado libre asociado permite cierta autonomía, un gobierno y parlamento locales, ámbitos como la defensa, fronteras y relaciones diplomáticas permanecen bajo el control de washington. el despliegue militar de la marina de ee.uu. —bajo el pretexto de combatir el narcotráfico— en aguas del caribe y frente a las costas de venezuela, ha sido rechazado por la comunidad de estados latinoamericanos y caribeños por poner en peligro la paz y la seguridad de la región.",
+    "tokens": [
+      "partido",
+      "independentista",
+      "puertorriqueño",
+      "(",
+      "pip",
+      ")",
+      "exigió",
+      "asamblea",
+      "legislativa",
+      "local",
+      "cancele",
+      "“",
+      "cualquier",
+      "plan",
+      "dirigido",
+      "remilitarizar",
+      "país",
+      "”",
+      "según",
+      "comunicado",
+      "difundido",
+      "portavoz",
+      "alterna",
+      "organización",
+      "cámara",
+      "representantes",
+      "local",
+      ",",
+      "adriana",
+      "gutiérrez",
+      ".",
+      "solicitud",
+      ",",
+      "dirigida",
+      "última",
+      "instancia",
+      "administración",
+      "trump",
+      "congreso",
+      "estadounidense",
+      ",",
+      "produce",
+      "contexto",
+      "maniobras",
+      "armada",
+      "sur",
+      "archipiélago",
+      "caribeño",
+      "tras",
+      "orden",
+      "pentágono",
+      "situar",
+      "diez",
+      "aviones",
+      "combate",
+      "f-35",
+      "base",
+      "aérea",
+      "puerto",
+      "rico",
+      ".",
+      "despliegue",
+      "da",
+      "paralelo",
+      "crecientes",
+      "amenazas",
+      "ee.uu.",
+      "soberanía",
+      "venezuela",
+      ".",
+      "“",
+      "saldo",
+      "ser",
+      "colonia",
+      "unidos",
+      "”",
+      "palabras",
+      "senador",
+      "pip",
+      "adrián",
+      "gonzález",
+      ",",
+      "consideró",
+      "guardar",
+      "silencio",
+      "respaldar",
+      "operaciones",
+      "militares",
+      "“",
+      "dar",
+      "espalda",
+      "compatriotas",
+      "legitimar",
+      "sistema",
+      "colonial",
+      "lleva",
+      "oprimiendo",
+      "tantos",
+      "años",
+      "”",
+      ".",
+      "documento",
+      "presentado",
+      "pip",
+      "reclama",
+      "inicio",
+      "proceso",
+      "descolonización",
+      "puerto",
+      "rico",
+      "limpieza",
+      "terrenos",
+      "contaminados",
+      "décadas",
+      "pasadas",
+      "ejercicios",
+      "guerra",
+      "desarrollados",
+      "ee.uu.",
+      "pasado",
+      "martes",
+      ",",
+      "guardia",
+      "nacional",
+      "puerto",
+      "rico",
+      "pidió",
+      "calma",
+      "ciudadanía",
+      ",",
+      "gobernadora",
+      "jenniffer",
+      "gonnzález",
+      "dijo",
+      "recientemente",
+      "existe",
+      "ninguna",
+      "declaración",
+      "oficial",
+      "reactivar",
+      "alguna",
+      "base",
+      "prácticas",
+      "militares",
+      "islas",
+      "boricuas",
+      "vieques",
+      "culebra",
+      ".",
+      "aunque",
+      "estatus",
+      "político",
+      "puerto",
+      "rico",
+      "libre",
+      "asociado",
+      "permite",
+      "cierta",
+      "autonomía",
+      ",",
+      "gobierno",
+      "parlamento",
+      "locales",
+      ",",
+      "ámbitos",
+      "defensa",
+      ",",
+      "fronteras",
+      "relaciones",
+      "diplomáticas",
+      "permanecen",
+      "bajo",
+      "control",
+      "washington",
+      ".",
+      "despliegue",
+      "militar",
+      "marina",
+      "ee.uu.",
+      "—bajo",
+      "pretexto",
+      "combatir",
+      "narcotráfico—",
+      "aguas",
+      "caribe",
+      "frente",
+      "costas",
+      "venezuela",
+      ",",
+      "sido",
+      "rechazado",
+      "comunidad",
+      "latinoamericanos",
+      "caribeños",
+      "poner",
+      "peligro",
+      "paz",
+      "seguridad",
+      "región",
+      "."
+    ],
+    "token_count": 200,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 62,
+      "VBZ": 5,
+      "FW": 77,
+      "JJ": 19,
+      "NN": 97,
+      "VBP": 8,
+      "VBD": 1,
+      "IN": 16,
+      "NNS": 8,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 29,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 3,
+      "FW-NNP": 18,
+      "NNP-JJ": 3,
+      "JJ-NN": 11,
+      "NN-NN": 56,
+      "NN-VBP": 2,
+      "VBP-JJ": 4,
+      "NN-FW": 9,
+      "FW-FW": 45,
+      "NNP-FW": 10,
+      "JJ-NNP": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 2,
+      "FW-NN": 9,
+      "NN-NNP": 6,
+      "NNP-NN": 16,
+      "VBP-IN": 1,
+      "IN-FW": 7,
+      "NN-IN": 12,
+      "FW-IN": 1,
+      "IN-NN": 3,
+      "NN-NNS": 4,
+      "NNS-VBP": 6,
+      "FW-JJ": 3,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "IN-JJ": 2,
+      "IN-NNP": 4,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "NNS-NNS": 1,
+      "VBP-NN": 1,
+      "NN-JJ": 3,
+      "VBP-NNP": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "JJ-JJ": 1,
+      "VBZ-JJ": 1,
+      "FW-NNS": 1,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-NNP": 9,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 30,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 31,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 10,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NN": 12,
+      "NN-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "NNP-FW-FW": 4,
+      "FW-FW-IN": 1,
+      "FW-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NN-NN-IN": 6,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 4,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-NN-FW": 2,
+      "NNP-NN-NNS": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NN-FW-NN": 1,
+      "NN-FW-NNP": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-JJ-NNP": 1,
+      "VBZ-FW-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "FW": 77,
+        "NNP": 62,
+        "JJ": 19,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 45,
+        "NNP-NNP": 29,
+        "FW-NNP": 18,
+        "NNP-NN": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 31,
+        "NN-NN-NN": 30,
+        "NNP-NN-NN": 12,
+        "NNP-NNP-NN": 10,
+        "NNP-NNP-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 16,
+      "ADJP": 2,
+      "PP": 10
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0667
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP ('(', '(') NP (')', ')') VP VP ('portavoz', 'FW') ('alterna', 'FW') ('de', 'FW') ('esa', 'FW') ('organización', 'FW') ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP ADJP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Partido', 'NNP') ('Independentista', 'NNP') ('Puertorriqueño', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('PIP', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('exigió', 'VBZ') NP NP",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('Asamblea', 'NNP') ('Legislativa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('local', 'JJ') ('que', 'NN') ('se', 'NN') ('cancele', 'NN') ('“', 'NNP') ('cualquier', 'NN') ('plan', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('dirigido', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('remilitarizar', 'NN') ('al', 'NN') ('país', 'NN') ('”', 'NNP') ('según', 'NN') ('el', 'NN') ('comunicado', 'NN') ('difundido', 'NN') ('por', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Partido Independentista Puertorriqueño"
+      },
+      {
+        "label": "NP",
+        "text": "PIP"
+      },
+      {
+        "label": "VP",
+        "text": "exigió a la Asamblea Legislativa local que se cancele “ cualquier plan"
+      },
+      {
+        "label": "NP",
+        "text": "a la Asamblea Legislativa"
+      },
+      {
+        "label": "NP",
+        "text": "local que se cancele “ cualquier plan"
+      },
+      {
+        "label": "VP",
+        "text": "dirigido a remilitarizar al país ” según el comunicado difundido por la"
+      },
+      {
+        "label": "NP",
+        "text": "a remilitarizar al país ” según el comunicado difundido por la"
+      },
+      {
+        "label": "NP",
+        "text": "Cámara"
+      },
+      {
+        "label": "NP",
+        "text": "Representantes"
+      },
+      {
+        "label": "ADJP",
+        "text": "local"
+      },
+      {
+        "label": "NP",
+        "text": "Adriana Gutiérrez"
+      },
+      {
+        "label": "NP",
+        "text": "La solicitud"
+      },
+      {
+        "label": "NP",
+        "text": "dirigida"
+      },
+      {
+        "label": "NP",
+        "text": "última"
+      },
+      {
+        "label": "VP",
+        "text": "instancia a la Administración Trump y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Partido/NNP Independentista/NNP Puertorriqueño/NNP)\n  (/(\n  (NP PIP/NNP)\n  )/)\n  (VP\n    exigió/VBZ\n    (NP a/DT la/NN Asamblea/NNP Legislativa/NNP)\n    (NP local/JJ que/NN se/NN cancele/NN “/NNP cualquier/NN plan/NN))\n  (VP\n    dirigido/VBZ\n    (NP\n      a/DT\n      remilitarizar/NN\n      al/NN\n      país/NN\n      ”/NNP\n      según/NN\n      el/NN\n      comunicado/NN\n      difundido/NN\n      por/NN\n      la/NN))\n  portavoz/FW\n  alterna/FW\n  de/FW\n  esa/FW\n  organización/FW\n  en/FW\n  la/FW\n  (NP Cámara/NNP)\n  de/FW\n  (NP Representantes/NNP)\n  (ADJP local/JJ)\n  ,/,\n  (NP Adriana/NNP Gutiérrez/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP solicitud/NN)\n  ,/,\n  (NP dirigida/NN)\n  en/FW\n  (NP última/NNP)\n  (VP\n    instancia/VBZ\n    (NP a/DT la/NN Administración/NNP Trump/NNP y/NNP))\n  (VP al/VBZ (NP Congreso/NNP estadounidense/NN))\n  ,/,\n  se/FW\n  (VP produce/VBP)\n  en/FW\n  el/FW\n  contexto/FW\n  de/FW\n  las/FW\n  maniobras/FW\n  de/FW\n  la/FW\n  (NP Armada/NNP)\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  ese/FW\n  (PP archipiélago/IN (NP caribeño/NN y/NN tras/NNS))\n  (VP la/VBP orden/JJ)\n  del/FW\n  (NP Pentágono/NNP)\n  de/FW\n  situar/FW\n  (NP diez/JJ aviones/NNS)\n  (PP de/IN (NP combate/JJ F-35/NNP))\n  (NP a/DT una/JJ base/NN aérea/NN)\n  (PP de/IN (NP Puerto/NNP Rico/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP despliegue/NN se/NN da/NN en/NN)\n  (VP paralelo/VBZ (NP a/DT las/JJ crecientes/NNS))\n  (VP amenazas/VBP)\n  (PP de/IN (NP EE.UU./NNP))\n  (ADJP contra/JJ)\n  la/FW\n  soberanía/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Es/NNP el/NN saldo/NN)\n  de/IN\n  ser/FW\n  (NP una/JJ colonia/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP ”/NNP))\n  en/FW\n  palabras/FW\n  del/FW\n  (NP senador/NN del/NN PIP/NNP Adrián/NNP González/NNP)\n  ,/,\n  (NP quien/NN consideró/NN que/NN guardar/NN silencio/NN)\n  (PP o/IN (NP respaldar/NN las/NN operaciones/NNS militares/NNS))\n  (VP es/VBP (NP “/JJ dar/NN la/NN))\n  (VP\n    espalda/VBZ\n    (NP a/DT nuestros/JJ compatriotas/NN y/NN legitimar/NN el/NN))\n  (VP sistema/VBP (NP colonial/JJ que/NN nos/NNS))\n  (VP lleva/VBP (NP oprimiendo/JJ por/NN tantos/NN años/NN ”/NN))\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    documento/NN\n    presentado/NN\n    por/NN\n    el/NN\n    PIP/NNP\n    reclama/NN\n    el/NN\n    inicio/NN)\n  (PP de/IN (NP un/JJ proceso/NN))\n  de/IN\n  descolonización/FW\n  de/FW\n  (NP Puerto/NNP Rico/NNP y/NNP la/NNP)\n  limpieza/FW\n  de/FW\n  terrenos/FW\n  (NP contaminados/NN)\n  en/FW\n  décadas/FW\n  pasadas/FW\n  durante/FW\n  los/FW\n  ejercicios/FW\n  de/FW\n  guerra/FW\n  desarrollados/FW\n  (NP por/NN EE.UU/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CIUDADES_CAPITALES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1619,
+          1626
+        ],
+        "start": 1619,
+        "end": 1626
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          567,
+          573
+        ],
+        "start": 567,
+        "end": 573
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          717,
+          731
+        ],
+        "start": 717,
+        "end": 731
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "puerto rico",
+        "position": [
+          567,
+          578
+        ],
+        "start": 567,
+        "end": 578
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          671,
+          680
+        ],
+        "start": 671,
+        "end": 680
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1950,
+          1956
+        ],
+        "start": 1950,
+        "end": 1956
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          1811,
+          1817
+        ],
+        "start": 1811,
+        "end": 1817
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado libre",
+        "position": [
+          1521,
+          1533
+        ],
+        "start": 1521,
+        "end": 1533
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          1325,
+          1338
+        ],
+        "start": 1325,
+        "end": 1338
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Cámara de Representantes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guardia Nacional de Puerto Rico",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pentágono",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Armada",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jenniffer Gonnzález",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Partido Independentista Puertorriqueño",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Puerto Rico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea Legislativa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Parlamento",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marina de EE.UU.",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comunidad de Estados Latinoamericanos y Caribeños",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Administración Trump",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Adriana Gutiérrez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso estadounidense",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vieques",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Adrián González",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado Libre Asociado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Culebra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Partido Independentista Puertorriqueño",
+        "relacion": "EXIGIR",
+        "objeto": "Asamblea Legislativa"
+      },
+      {
+        "sujeto": "Partido Independentista Puertorriqueño",
+        "relacion": "EXIGIR",
+        "objeto": "Cámara de Representantes"
+      },
+      {
+        "sujeto": "Partido Independentista Puertorriqueño",
+        "relacion": "EXIGIR",
+        "objeto": "Adriana Gutiérrez"
+      },
+      {
+        "sujeto": "Asamblea Legislativa",
+        "relacion": "EXIGIR",
+        "objeto": "Cámara de Representantes"
+      },
+      {
+        "sujeto": "Asamblea Legislativa",
+        "relacion": "EXIGIR",
+        "objeto": "Adriana Gutiérrez"
+      },
+      {
+        "sujeto": "Administración Trump",
+        "relacion": "PRODUCIR",
+        "objeto": "Armada"
+      },
+      {
+        "sujeto": "Administración Trump",
+        "relacion": "PRODUCIR",
+        "objeto": "Pentágono"
+      },
+      {
+        "sujeto": "Administración Trump",
+        "relacion": "PRODUCIR",
+        "objeto": "Puerto Rico"
+      },
+      {
+        "sujeto": "Congreso estadounidense",
+        "relacion": "PRODUCIR",
+        "objeto": "Armada"
+      },
+      {
+        "sujeto": "Congreso estadounidense",
+        "relacion": "PRODUCIR",
+        "objeto": "Pentágono"
+      },
+      {
+        "sujeto": "Congreso estadounidense",
+        "relacion": "PRODUCIR",
+        "objeto": "Puerto Rico"
+      },
+      {
+        "sujeto": "Armada",
+        "relacion": "PRODUCIR",
+        "objeto": "Pentágono"
+      },
+      {
+        "sujeto": "Armada",
+        "relacion": "PRODUCIR",
+        "objeto": "Puerto Rico"
+      },
+      {
+        "sujeto": "Guardia Nacional de Puerto Rico",
+        "relacion": "RECLAMAR_PEDIR",
+        "objeto": "Puerto Rico"
+      },
+      {
+        "sujeto": "Puerto Rico",
+        "relacion": "RECLAMAR_PEDIR",
+        "objeto": "Jenniffer Gonnzález"
+      },
+      {
+        "sujeto": "Puerto Rico",
+        "relacion": "RECLAMAR_PEDIR",
+        "objeto": "Vieques"
+      },
+      {
+        "sujeto": "Puerto Rico",
+        "relacion": "RECLAMAR_PEDIR",
+        "objeto": "Culebra"
+      },
+      {
+        "sujeto": "Guardia Nacional de Puerto Rico",
+        "relacion": "RECLAMAR_PEDIR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "RECLAMAR_PEDIR",
+        "objeto": "Jenniffer Gonnzález"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "RECLAMAR_PEDIR",
+        "objeto": "Vieques"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "RECLAMAR_PEDIR",
+        "objeto": "Culebra"
+      },
+      {
+        "sujeto": "Guardia Nacional de Puerto Rico",
+        "relacion": "PEDIR",
+        "objeto": "Jenniffer Gonnzález"
+      },
+      {
+        "sujeto": "Guardia Nacional de Puerto Rico",
+        "relacion": "PEDIR",
+        "objeto": "Vieques"
+      },
+      {
+        "sujeto": "Guardia Nacional de Puerto Rico",
+        "relacion": "PEDIR",
+        "objeto": "Culebra"
+      },
+      {
+        "sujeto": "Jenniffer Gonnzález",
+        "relacion": "DECIR_PEDIR",
+        "objeto": "Vieques"
+      },
+      {
+        "sujeto": "Jenniffer Gonnzález",
+        "relacion": "DECIR_PEDIR",
+        "objeto": "Culebra"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PERMITIR_PERMANECER",
+        "objeto": "Puerto Rico"
+      },
+      {
+        "sujeto": "Puerto Rico",
+        "relacion": "PERMITIR_PERMANECER",
+        "objeto": "Parlamento"
+      },
+      {
+        "sujeto": "Puerto Rico",
+        "relacion": "PERMITIR_PERMANECER",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PERMITIR_PERMANECER",
+        "objeto": "Estado Libre Asociado"
+      },
+      {
+        "sujeto": "Estado Libre Asociado",
+        "relacion": "PERMITIR_PERMANECER",
+        "objeto": "Parlamento"
+      },
+      {
+        "sujeto": "Estado Libre Asociado",
+        "relacion": "PERMITIR_PERMANECER",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PERMITIR_PERMANECER",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Parlamento",
+        "relacion": "PERMITIR_PERMANECER",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Marina de EE.UU.",
+        "relacion": "RECHAZAR",
+        "objeto": "Comunidad de Estados Latinoamericanos y Caribeños"
+      },
+      {
+        "sujeto": "Caribe",
+        "relacion": "RECHAZAR",
+        "objeto": "Comunidad de Estados Latinoamericanos y Caribeños"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RECHAZAR",
+        "objeto": "Comunidad de Estados Latinoamericanos y Caribeños"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.985,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

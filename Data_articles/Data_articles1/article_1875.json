@@ -1,0 +1,818 @@
+{
+  "url": "https://www.telesurtv.net/unicef-alerta-propagacion-colera-sudan/",
+  "title": "UNICEF alerta sobre propagación del cólera en Sudán - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "cólera",
+    "desplazamiento",
+    "Hambruna",
+    "Sudán",
+    "Unicef"
+  ],
+  "text": "El Fondo de las Naciones Unidas para la Infancia (UNICEF), precisó que la enfermedad amenaza a los menores que ya están debilitados por el hambre y el desplazamiento masivo, mientras los convoyes de ayuda humanitaria luchan por acceder a las comunidades aisladas en medio de un conflicto cada vez más intenso en la región.\nEl brote escaló rápidamente, en la ciudad de Tawila, que acoge a más de medio millón de personas que huyen de la violencia, donde se han registrado más de 1.180 casos de cólera, de los cuales unos 300 corresponden a niños, y al menos 20 muertes.\n\n\nA nivel regional, las cifras son aún más alarmantes: hasta el 30 de julio se contabilizaron casi 2.140 casos y al menos 80 fallecimientos en toda la región de Darfur. El representante de UNICEF en Sudán, Sheldon Yett, lamentó que una enfermedad prevenible se esté cobrando la vida de los más jóvenes y vulnerables.\nLa propagación de la enfermedad se ve agravada por una catástrofe humanitaria de grandes proporciones. Con los hospitales bombardeados y muchos centros de salud cerrados, el acceso a la atención médica es prácticamente inexistente.\n\n\n\n\nLa falta de agua potable, las malas condiciones sanitarias y los campamentos sobrepoblados han creado el caldo de cultivo ideal para la enfermedad. UNICEF señaló que la situación es tan grave que la hambruna ya fue declarada en al menos 10 localidades, incluido el campamento de Zamzam, y se teme que más de una docena de áreas estén en riesgo inminente.\nDesde que se declaró el brote de cólera oficialmente en agosto de 2024, se han reportado más de 94.000 casos y más de 2.370 muertes en 17 de los 18 estados sudaneses. Ante este escenario de crisis superpuestas, UNICEF hace un llamado urgente a la comunidad internacional para que garantice un acceso humanitario sostenido, seguro y sin obstáculos. Solo de esta manera se podrá llevar ayuda vital a los niños y familias que se encuentran atrapados en un ciclo de violencia, desplazamiento y enfermedad.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/unicef-alerta-propagacion-colera-sudan/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-08.json",
+    "message_index": 2012,
+    "message_id": 100882,
+    "date": "2025-08-04T22:55:24+00:00",
+    "text": "teleSUR\nUNICEF alerta sobre propagación del cólera en Sudán\nhttps://www.telesurtv.net/unicef-alerta-propagacion-colera-sudan/",
+    "photo_path": null,
+    "views": 1413,
+    "reactions": {
+      "😱": 21,
+      "🤬": 5,
+      "😢": 2,
+      "👍": 1
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "el fondo de las naciones unidas para la infancia (unicef), precisó que la enfermedad amenaza a los menores que ya están debilitados por el hambre y el desplazamiento masivo, mientras los convoyes de ayuda humanitaria luchan por acceder a las comunidades aisladas en medio de un conflicto cada vez más intenso en la región. el brote escaló rápidamente, en la ciudad de tawila, que acoge a más de medio millón de personas que huyen de la violencia, donde se han registrado más de 1.180 casos de cólera, de los cuales unos 300 corresponden a niños, y al menos 20 muertes. a nivel regional, las cifras son aún más alarmantes: hasta el 30 de julio se contabilizaron casi 2.140 casos y al menos 80 fallecimientos en toda la región de darfur. el representante de unicef en sudán, sheldon yett, lamentó que una enfermedad prevenible se esté cobrando la vida de los más jóvenes y vulnerables. la propagación de la enfermedad se ve agravada por una catástrofe humanitaria de grandes proporciones. con los hospitales bombardeados y muchos centros de salud cerrados, el acceso a la atención médica es prácticamente inexistente. la falta de agua potable, las malas condiciones sanitarias y los campamentos sobrepoblados han creado el caldo de cultivo ideal para la enfermedad. unicef señaló que la situación es tan grave que la hambruna ya fue declarada en al menos 10 localidades, incluido el campamento de zamzam, y se teme que más de una docena de áreas estén en riesgo inminente. desde que se declaró el brote de cólera oficialmente en agosto de 2024, se han reportado más de 94.000 casos y más de 2.370 muertes en 17 de los 18 estados sudaneses. ante este escenario de crisis superpuestas, unicef hace un llamado urgente a la comunidad internacional para que garantice un acceso humanitario sostenido, seguro y sin obstáculos. solo de esta manera se podrá llevar ayuda vital a los niños y familias que se encuentran atrapados en un ciclo de violencia, desplazamiento y enfermedad.",
+    "tokens": [
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      ",",
+      "precisó",
+      "enfermedad",
+      "amenaza",
+      "menores",
+      "debilitados",
+      "hambre",
+      "desplazamiento",
+      "masivo",
+      ",",
+      "mientras",
+      "convoyes",
+      "ayuda",
+      "humanitaria",
+      "luchan",
+      "acceder",
+      "comunidades",
+      "aisladas",
+      "medio",
+      "conflicto",
+      "cada",
+      "vez",
+      "intenso",
+      "región",
+      ".",
+      "brote",
+      "escaló",
+      "rápidamente",
+      ",",
+      "ciudad",
+      "tawila",
+      ",",
+      "acoge",
+      "medio",
+      "millón",
+      "personas",
+      "huyen",
+      "violencia",
+      ",",
+      "registrado",
+      "1.180",
+      "casos",
+      "cólera",
+      ",",
+      "cuales",
+      "300",
+      "corresponden",
+      "niños",
+      ",",
+      "menos",
+      "20",
+      "muertes",
+      ".",
+      "nivel",
+      "regional",
+      ",",
+      "cifras",
+      "aún",
+      "alarmantes",
+      ":",
+      "30",
+      "julio",
+      "contabilizaron",
+      "casi",
+      "2.140",
+      "casos",
+      "menos",
+      "80",
+      "fallecimientos",
+      "toda",
+      "región",
+      "darfur",
+      ".",
+      "representante",
+      "unicef",
+      "sudán",
+      ",",
+      "sheldon",
+      "yett",
+      ",",
+      "lamentó",
+      "enfermedad",
+      "prevenible",
+      "cobrando",
+      "vida",
+      "jóvenes",
+      "vulnerables",
+      ".",
+      "propagación",
+      "enfermedad",
+      "ve",
+      "agravada",
+      "catástrofe",
+      "humanitaria",
+      "grandes",
+      "proporciones",
+      ".",
+      "hospitales",
+      "bombardeados",
+      "centros",
+      "salud",
+      "cerrados",
+      ",",
+      "acceso",
+      "atención",
+      "médica",
+      "prácticamente",
+      "inexistente",
+      ".",
+      "falta",
+      "agua",
+      "potable",
+      ",",
+      "malas",
+      "condiciones",
+      "sanitarias",
+      "campamentos",
+      "sobrepoblados",
+      "creado",
+      "caldo",
+      "cultivo",
+      "ideal",
+      "enfermedad",
+      ".",
+      "unicef",
+      "señaló",
+      "situación",
+      "tan",
+      "grave",
+      "hambruna",
+      "declarada",
+      "menos",
+      "10",
+      "localidades",
+      ",",
+      "incluido",
+      "campamento",
+      "zamzam",
+      ",",
+      "teme",
+      "docena",
+      "áreas",
+      "riesgo",
+      "inminente",
+      ".",
+      "declaró",
+      "brote",
+      "cólera",
+      "oficialmente",
+      "agosto",
+      "2024",
+      ",",
+      "reportado",
+      "94.000",
+      "casos",
+      "2.370",
+      "muertes",
+      "17",
+      "18",
+      "sudaneses",
+      ".",
+      "escenario",
+      "crisis",
+      "superpuestas",
+      ",",
+      "unicef",
+      "hace",
+      "llamado",
+      "urgente",
+      "comunidad",
+      "internacional",
+      "garantice",
+      "acceso",
+      "humanitario",
+      "sostenido",
+      ",",
+      "seguro",
+      "obstáculos",
+      ".",
+      "solo",
+      "manera",
+      "podrá",
+      "llevar",
+      "ayuda",
+      "vital",
+      "niños",
+      "familias",
+      "encuentran",
+      "atrapados",
+      "ciclo",
+      "violencia",
+      ",",
+      "desplazamiento",
+      "enfermedad",
+      "."
+    ],
+    "token_count": 202,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "IN": 17,
+      "FW": 75,
+      "NN": 109,
+      "JJ": 33,
+      "NNS": 25,
+      "VBP": 12,
+      "RB": 2,
+      "CD": 12,
+      "VBD": 5,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 6,
+      "NNP-IN": 1,
+      "IN-FW": 8,
+      "FW-NNP": 9,
+      "NNP-NN": 12,
+      "NN-NN": 57,
+      "NN-NNP": 2,
+      "NN-FW": 15,
+      "FW-JJ": 6,
+      "JJ-NN": 22,
+      "NN-NNS": 6,
+      "NNS-VBP": 10,
+      "VBP-RB": 1,
+      "RB-JJ": 2,
+      "JJ-NNS": 6,
+      "VBP-JJ": 7,
+      "NNS-JJ": 3,
+      "NNS-IN": 2,
+      "FW-NNS": 4,
+      "NNS-NNS": 3,
+      "NN-IN": 13,
+      "FW-NN": 9,
+      "FW-FW": 46,
+      "IN-CD": 5,
+      "CD-NN": 4,
+      "VBP-CD": 1,
+      "CD-JJ": 2,
+      "NN-VBD": 5,
+      "VBD-CD": 2,
+      "CD-NNS": 5,
+      "JJ-JJ": 3,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 3,
+      "NN-CD": 1,
+      "NNS-FW": 2,
+      "NNP-FW": 4,
+      "NN-JJ": 7,
+      "NNS-NNP": 4,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "VBP-NNS": 1,
+      "IN-JJ": 1,
+      "NNS-CD": 1,
+      "JJ-VBP": 1,
+      "FW-CD": 1,
+      "VBD-JJ": 1,
+      "VBD-NNP": 1,
+      "VBD-RB": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NN-NN-NN": 29,
+      "NN-NN-FW": 8,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 7,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-IN": 6,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 4,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 35,
+      "FW-FW-NN": 1,
+      "NN-IN-CD": 4,
+      "IN-CD-NN": 2,
+      "CD-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-JJ": 1,
+      "CD-JJ-NN": 2,
+      "NN-NN-VBD": 4,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "CD-NNS-FW": 2,
+      "NNS-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 7,
+      "JJ-NN-JJ": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 4,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNP-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-IN-NN": 2,
+      "IN-CD-JJ": 1,
+      "IN-CD-NNS": 2,
+      "CD-NNS-IN": 1,
+      "NNS-IN-CD": 1,
+      "NNS-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-NNP": 2,
+      "IN-NN-NNS": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-FW": 1,
+      "NN-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 109,
+        "FW": 75,
+        "JJ": 33,
+        "NNS": 25,
+        "NNP": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 46,
+        "JJ-NN": 22,
+        "NN-FW": 15,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 29,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 8,
+        "NN-NN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 86,
+      "VP": 15,
+      "PP": 7,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0325
+      },
+      {
+        "rule": "NP -> ('UNICEF', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0163
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0163
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('menos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0163
+      },
+      {
+        "rule": "NP -> ('muertes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0163
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('las', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP ('enfermedad', 'FW') VP VP VP (',', ',') ('mientras', 'FW') NP ('de', 'IN') ('ayuda', 'FW') NP VP VP ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('un', 'FW') ('conflicto', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Fondo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP') ('para', 'NN') ('la', 'NN') ('Infancia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('precisó', 'JJ') ('que', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "VP -> ('amenaza', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0081
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Fondo"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para la Infancia"
+      },
+      {
+        "label": "NP",
+        "text": "UNICEF"
+      },
+      {
+        "label": "NP",
+        "text": "precisó que la"
+      },
+      {
+        "label": "VP",
+        "text": "amenaza a los menores"
+      },
+      {
+        "label": "NP",
+        "text": "a los menores"
+      },
+      {
+        "label": "VP",
+        "text": "que ya están debilitados"
+      },
+      {
+        "label": "NP",
+        "text": "están debilitados"
+      },
+      {
+        "label": "VP",
+        "text": "por el hambre y el desplazamiento masivo"
+      },
+      {
+        "label": "NP",
+        "text": "el hambre y el desplazamiento masivo"
+      },
+      {
+        "label": "NP",
+        "text": "los convoyes"
+      },
+      {
+        "label": "NP",
+        "text": "humanitaria"
+      },
+      {
+        "label": "VP",
+        "text": "luchan por acceder a las"
+      },
+      {
+        "label": "NP",
+        "text": "por acceder"
+      },
+      {
+        "label": "NP",
+        "text": "a las"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Fondo/NNP)\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN la/NN Infancia/NNP)\n  (/(\n  (NP UNICEF/NNP)\n  )/)\n  ,/,\n  (NP precisó/JJ que/NN la/NN)\n  enfermedad/FW\n  (VP amenaza/VBZ (NP a/DT los/JJ menores/NNS))\n  (VP que/VBP ya/RB (NP están/JJ debilitados/NNS))\n  (VP\n    por/VBP\n    (NP el/JJ hambre/NN y/NN el/NN desplazamiento/NN masivo/NN))\n  ,/,\n  mientras/FW\n  (NP los/JJ convoyes/NNS)\n  de/IN\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (VP luchan/VBP (NP por/JJ acceder/NN) (NP a/DT las/NN))\n  (VP comunidades/VBZ aisladas/JJ)\n  en/FW\n  medio/FW\n  de/FW\n  un/FW\n  conflicto/FW\n  (NP cada/NN vez/NN más/NN intenso/NN)\n  (PP en/IN (NP la/NN región/NN))\n  ./.)",
+      "(S\n  (NP El/NNP brote/NN escaló/NN rápidamente/NN)\n  ,/,\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Tawila/NNP)\n  ,/,\n  (NP que/NN)\n  (VP acoge/VBD (NP a/DT más/NN))\n  de/IN\n  medio/FW\n  millón/FW\n  de/FW\n  personas/FW\n  que/FW\n  huyen/FW\n  de/FW\n  la/FW\n  violencia/FW\n  ,/,\n  donde/FW\n  se/FW\n  (NP han/NN registrado/NN más/NN)\n  de/IN\n  1.180/CD\n  (NP casos/NN)\n  de/FW\n  (NP cólera/NN)\n  ,/,\n  de/FW\n  los/FW\n  (NP cuales/NNS)\n  (VP unos/VBP)\n  300/CD\n  (NP corresponden/NN)\n  (NP a/DT niños/NN)\n  ,/,\n  y/CC\n  (NP al/JJ menos/NNS)\n  20/CD\n  (NP muertes/NNS)\n  ./.)",
+      "(S\n  A/DT\n  (ADJP nivel/JJ)\n  (ADJP regional/JJ)\n  ,/,\n  (NP las/JJ cifras/NNS)\n  (VP son/VBP (NP aún/JJ más/NN alarmantes/NNS))\n  :/:\n  (NP hasta/NN)\n  (VP el/VBZ)\n  30/CD\n  (PP de/IN (NP julio/NN se/NN contabilizaron/NN casi/NN))\n  2.140/CD\n  (NP casos/NN y/NN)\n  (VP al/VBD)\n  menos/$\n  80/CD\n  (NP fallecimientos/NN)\n  en/FW\n  (NP toda/NN)\n  la/FW\n  región/FW\n  de/FW\n  (NP Darfur/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP representante/NN)\n  de/FW\n  (NP UNICEF/NNP)\n  en/FW\n  (NP Sudán/NNP)\n  ,/,\n  (NP Sheldon/NNP Yett/NNP)\n  ,/,\n  (NP lamentó/NN que/NN)\n  (NP una/JJ enfermedad/NN)\n  (NP prevenible/JJ se/NN)\n  esté/FW\n  (NP cobrando/NN)\n  la/FW\n  vida/FW\n  de/FW\n  los/FW\n  (NP más/JJ jóvenes/NNS y/NN vulnerables/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  propagación/FW\n  de/FW\n  la/FW\n  enfermedad/FW\n  se/FW\n  ve/FW\n  agravada/FW\n  por/FW\n  (NP una/JJ catástrofe/NN humanitaria/NN)\n  de/FW\n  grandes/FW\n  (NP proporciones/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CIENCIA_TECNOLOGIA_SALUD",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto cada vez más intenso en la",
+        "position": [
+          278,
+          314
+        ],
+        "start": 278,
+        "end": 314
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1277,
+          1283
+        ],
+        "start": 1277,
+        "end": 1283
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          59,
+          66
+        ],
+        "start": 59,
+        "end": 66
+      },
+      {
+        "category": "CIENCIA_TECNOLOGIA_SALUD",
+        "matched_text": "acceso humanitario sostenido, seguro",
+        "position": [
+          1770,
+          1806
+        ],
+        "start": 1770,
+        "end": 1806
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "salud cerrados, el acceso",
+        "position": [
+          1041,
+          1066
+        ],
+        "start": 1041,
+        "end": 1066
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          199,
+          216
+        ],
+        "start": 199,
+        "end": 216
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "catástrofe humanitaria",
+        "position": [
+          941,
+          963
+        ],
+        "start": 941,
+        "end": 963
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "falta de agua",
+        "position": [
+          1125,
+          1138
+        ],
+        "start": 1125,
+        "end": 1138
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "campamentos sobrepoblados",
+        "position": [
+          1187,
+          1212
+        ],
+        "start": 1187,
+        "end": 1212
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          16,
+          31
+        ],
+        "start": 16,
+        "end": 31
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unicef",
+        "position": [
+          50,
+          56
+        ],
+        "start": 50,
+        "end": 56
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          863,
+          870
+        ],
+        "start": 863,
+        "end": 870
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1134,
+          1138
+        ],
+        "start": 1134,
+        "end": 1138
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          1134,
+          1146
+        ],
+        "start": 1134,
+        "end": 1146
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          720,
+          729
+        ],
+        "start": 720,
+        "end": 729
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 1.180",
+        "position": [
+          471,
+          483
+        ],
+        "start": 471,
+        "end": 483
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 94.000",
+        "position": [
+          1566,
+          1579
+        ],
+        "start": 1566,
+        "end": 1579
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Zamzam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNICEF",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tawila",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Darfur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo de las Naciones Unidas para la Infancia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sheldon Yett",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "UNICEF",
+        "relacion": "SE_ALAR",
+        "objeto": "Zamzam"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6908,
+    "pos": 0.017,
+    "neu": 0.951,
+    "neg": 0.032,
+    "label": "negative"
+  }
+}

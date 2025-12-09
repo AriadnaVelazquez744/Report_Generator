@@ -1,0 +1,683 @@
+{
+  "url": "https://www.telesurtv.net/israel-asesina-a-tres-palestinos-y-deja-una-serie-de-heridos-tras-ataques-con-drones-en-gaza/",
+  "title": "Israel asesina a tres palestinos y deja una serie de heridos tras ataques con drones en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "israelíes",
+    "Palestina"
+  ],
+  "text": "La unidad no tripulada fue usada por las fuerzas israelíes para atacar blanco civiles, dejando varios heridos.\nUn ataque con drones israelíes se registró el viernes por la noche resultando en la muerte de tres civiles palestinos en el barrio de At-Tuffah, al este de la ciudad de Gaza.\nEste ataque se produce en el contexto de una intensa ofensiva militar israelí en la Franja de Gaza, que ha sido objeto de críticas internacionales por la violación al alto el fuego .\nA pesar de una decisión de la Corte Internacional de Justicia (CIJ) que ordenó a Israel detener su ofensiva en Rafah, las fuerzas israelíes han continuado sus ataques, lo que podría constituir una violación de sus obligaciones bajo la Convención contra el Genocidio.\nDesde el 7 de octubre, la situación en Gaza ha sido devastadora, reportando al menos 46,876 palestinos muertos y más de 110,642 heridos. Se estima que al menos 10,000 personas están desaparecidas, presumiblemente bajo los escombros de sus hogares.\nOrganizaciones palestinas e internacionales indican que la mayoría de las víctimas son mujeres y niños.\nLa agresión israelí también ha generado el desplazamiento forzado de cerca de dos millones de personas en Gaza, con muchos desplazados buscando refugio en la densamente poblada Rafah, cerca de la frontera con Egipto.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-asesina-a-tres-palestinos-y-deja-una-serie-de-heridos-tras-ataques-con-drones-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1013,
+    "message_id": 84760,
+    "date": "2025-01-18T06:55:07+00:00",
+    "text": "teleSUR\nIsrael asesina a tres palestinos y deja una serie de heridos tras ataques con drones en Gaza\nhttps://www.telesurtv.net/israel-asesina-a-tres-palestinos-y-deja-una-serie-de-heridos-tras-ataques-con-drones-en-gaza/",
+    "photo_path": null,
+    "views": 2047,
+    "reactions": {
+      "🤬": 52
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "la unidad no tripulada fue usada por las fuerzas israelíes para atacar blanco civiles, dejando varios heridos. un ataque con drones israelíes se registró el viernes por la noche resultando en la muerte de tres civiles palestinos en el barrio de at-tuffah, al este de la ciudad de gaza. este ataque se produce en el contexto de una intensa ofensiva militar israelí en la franja de gaza, que ha sido objeto de críticas internacionales por la violación al alto el fuego . a pesar de una decisión de la corte internacional de justicia (cij) que ordenó a israel detener su ofensiva en rafah, las fuerzas israelíes han continuado sus ataques, lo que podría constituir una violación de sus obligaciones bajo la convención contra el genocidio. desde el 7 de octubre, la situación en gaza ha sido devastadora, reportando al menos 46,876 palestinos muertos y más de 110,642 heridos. se estima que al menos 10,000 personas están desaparecidas, presumiblemente bajo los escombros de sus hogares. organizaciones palestinas e internacionales indican que la mayoría de las víctimas son mujeres y niños. la agresión israelí también ha generado el desplazamiento forzado de cerca de dos millones de personas en gaza, con muchos desplazados buscando refugio en la densamente poblada rafah, cerca de la frontera con egipto.",
+    "tokens": [
+      "unidad",
+      "tripulada",
+      "usada",
+      "fuerzas",
+      "israelíes",
+      "atacar",
+      "blanco",
+      "civiles",
+      ",",
+      "dejando",
+      "varios",
+      "heridos",
+      ".",
+      "ataque",
+      "drones",
+      "israelíes",
+      "registró",
+      "viernes",
+      "noche",
+      "resultando",
+      "muerte",
+      "tres",
+      "civiles",
+      "palestinos",
+      "barrio",
+      "at-tuffah",
+      ",",
+      "ciudad",
+      "gaza",
+      ".",
+      "ataque",
+      "produce",
+      "contexto",
+      "intensa",
+      "ofensiva",
+      "militar",
+      "israelí",
+      "franja",
+      "gaza",
+      ",",
+      "sido",
+      "objeto",
+      "críticas",
+      "internacionales",
+      "violación",
+      "alto",
+      "fuego",
+      ".",
+      "pesar",
+      "decisión",
+      "corte",
+      "internacional",
+      "justicia",
+      "(",
+      "cij",
+      ")",
+      "ordenó",
+      "israel",
+      "detener",
+      "ofensiva",
+      "rafah",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "continuado",
+      "ataques",
+      ",",
+      "podría",
+      "constituir",
+      "violación",
+      "obligaciones",
+      "bajo",
+      "convención",
+      "genocidio",
+      ".",
+      "7",
+      "octubre",
+      ",",
+      "situación",
+      "gaza",
+      "sido",
+      "devastadora",
+      ",",
+      "reportando",
+      "menos",
+      "46,876",
+      "palestinos",
+      "muertos",
+      "110,642",
+      "heridos",
+      ".",
+      "estima",
+      "menos",
+      "10,000",
+      "personas",
+      "desaparecidas",
+      ",",
+      "presumiblemente",
+      "bajo",
+      "escombros",
+      "hogares",
+      ".",
+      "organizaciones",
+      "palestinas",
+      "internacionales",
+      "indican",
+      "mayoría",
+      "víctimas",
+      "mujeres",
+      "niños",
+      ".",
+      "agresión",
+      "israelí",
+      "generado",
+      "desplazamiento",
+      "forzado",
+      "cerca",
+      "dos",
+      "millones",
+      "personas",
+      "gaza",
+      ",",
+      "desplazados",
+      "buscando",
+      "refugio",
+      "densamente",
+      "poblada",
+      "rafah",
+      ",",
+      "cerca",
+      "frontera",
+      "egipto",
+      "."
+    ],
+    "token_count": 133,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "JJ": 22,
+      "DT": 1,
+      "NN": 61,
+      "VBZ": 3,
+      "NNS": 20,
+      "VBP": 12,
+      "FW": 47,
+      "IN": 14,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NN": 10,
+      "NN-NNS": 6,
+      "NNS-VBP": 10,
+      "VBP-JJ": 7,
+      "NN-NN": 31,
+      "VBP-NNS": 1,
+      "VBP-NNP": 2,
+      "NNP-NN": 9,
+      "JJ-FW": 4,
+      "FW-NN": 9,
+      "NN-FW": 4,
+      "FW-FW": 24,
+      "FW-NNS": 4,
+      "NNS-NNS": 2,
+      "VBP-IN": 2,
+      "IN-FW": 10,
+      "NN-IN": 11,
+      "IN-NNP": 1,
+      "FW-NNP": 9,
+      "NNP-NNP": 4,
+      "NN-VBP": 1,
+      "IN-JJ": 2,
+      "NNP-FW": 5,
+      "NN-JJ": 2,
+      "IN-NN": 1,
+      "NN-NNP": 3,
+      "JJ-NNP": 1,
+      "JJ-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-CD": 2,
+      "CD-NNS": 3,
+      "NNS-JJ": 3,
+      "FW-CD": 1,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "NNP-NNS": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 3,
+      "NN-NN-NN": 16,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 13,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 2,
+      "IN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "NN-NN-IN": 4,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNP-NNP-FW": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NN-NN-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-NN-VBZ": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-FW": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-CD": 2,
+      "NNS-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-JJ": 2,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-JJ-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-NN-IN": 1,
+      "FW-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 61,
+        "FW": 47,
+        "NNP": 23,
+        "JJ": 22,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 31,
+        "FW-FW": 24,
+        "NN-IN": 11,
+        "JJ-NN": 10,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 16,
+        "FW-FW-FW": 13,
+        "NNP-NN-NN": 8,
+        "NN-IN-FW": 7,
+        "NN-NNS-VBP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 60,
+      "ADJP": 2,
+      "VP": 16,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0444
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "VP -> ('por', 'VBP') ('la', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Rafah', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP ADJP NP VP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "ADJP -> ('unidad', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('tripulada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('fue', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('usada', 'JJ') ('por', 'NN') ('las', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "ADJP",
+        "text": "unidad"
+      },
+      {
+        "label": "NP",
+        "text": "no tripulada"
+      },
+      {
+        "label": "VP",
+        "text": "fue usada por las"
+      },
+      {
+        "label": "NP",
+        "text": "usada por las"
+      },
+      {
+        "label": "VP",
+        "text": "fuerzas israelíes para atacar blanco civiles"
+      },
+      {
+        "label": "NP",
+        "text": "israelíes para atacar blanco civiles"
+      },
+      {
+        "label": "NP",
+        "text": "dejando varios heridos"
+      },
+      {
+        "label": "NP",
+        "text": "Un ataque con drones"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes se registró el viernes"
+      },
+      {
+        "label": "NP",
+        "text": "se registró el viernes"
+      },
+      {
+        "label": "VP",
+        "text": "por la"
+      },
+      {
+        "label": "NP",
+        "text": "resultando"
+      },
+      {
+        "label": "NP",
+        "text": "tres civiles"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (ADJP unidad/JJ)\n  (NP no/DT tripulada/NN)\n  (VP fue/VBZ (NP usada/JJ por/NN las/NNS))\n  (VP\n    fuerzas/VBP\n    (NP israelíes/JJ para/NN atacar/NN blanco/NN civiles/NNS))\n  ,/,\n  (NP dejando/JJ varios/NNS heridos/NN)\n  ./.)",
+      "(S\n  (NP Un/NNP ataque/NN con/NN drones/NNS)\n  (VP israelíes/VBP (NP se/JJ registró/NN el/NN viernes/NNS))\n  (VP por/VBP la/JJ)\n  noche/FW\n  (NP resultando/NN)\n  en/FW\n  la/FW\n  muerte/FW\n  de/FW\n  (NP tres/NNS civiles/NNS)\n  (VP palestinos/VBP)\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP At-Tuffah/NNP))\n  ,/,\n  (NP al/JJ este/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Este/NN ataque/NN se/NN)\n  (VP produce/VBP)\n  en/IN\n  el/FW\n  (NP contexto/NN)\n  (PP de/IN (NP una/JJ intensa/NN))\n  ofensiva/FW\n  (NP militar/NN israelí/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP que/NN ha/NN)\n  (NP sido/JJ objeto/NN)\n  (PP de/IN (NP críticas/NN internacionales/NNS))\n  (VP por/VBP la/JJ)\n  violación/FW\n  (NP al/NN alto/NN el/NN fuego/NN)\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  (PP de/IN (NP una/JJ decisión/NN))\n  de/IN\n  la/FW\n  (NP Corte/NNP Internacional/NNP)\n  de/FW\n  (NP Justicia/NNP)\n  (/(\n  (NP CIJ/NNP)\n  )/)\n  (NP que/NN)\n  (VP ordenó/VBZ (NP a/DT Israel/NNP detener/NN su/NN))\n  ofensiva/FW\n  en/FW\n  (NP Rafah/NNP)\n  ,/,\n  (VP\n    las/VBZ\n    (NP\n      fuerzas/JJ\n      israelíes/NN\n      han/NN\n      continuado/NN\n      sus/NN\n      ataques/NNS))\n  ,/,\n  (NP lo/JJ que/NN podría/NN constituir/NN)\n  (NP una/JJ violación/NN)\n  de/IN\n  sus/FW\n  (NP obligaciones/NNS)\n  (VP\n    bajo/VBP\n    (NP la/JJ Convención/NNP contra/NN el/NN Genocidio/NNP))\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  ,/,\n  la/FW\n  situación/FW\n  en/FW\n  (NP Gaza/NNP ha/NN sido/NN devastadora/NN)\n  ,/,\n  (NP reportando/NN al/NN)\n  (VP menos/VBD)\n  46,876/CD\n  (NP palestinos/NNS)\n  (NP muertos/JJ y/JJ más/NN)\n  de/IN\n  110,642/CD\n  (NP heridos/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque se produce en el contexto de una intensa ofensiva militar",
+        "position": [
+          291,
+          355
+        ],
+        "start": 291,
+        "end": 355
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque con drones israelíes",
+        "position": [
+          114,
+          141
+        ],
+        "start": 114,
+        "end": 141
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1071,
+          1078
+        ],
+        "start": 1071,
+        "end": 1078
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          356,
+          363
+        ],
+        "start": 356,
+        "end": 363
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          235,
+          244
+        ],
+        "start": 235,
+        "end": 244
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          899,
+          911
+        ],
+        "start": 899,
+        "end": 911
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10,000 personas",
+        "position": [
+          896,
+          911
+        ],
+        "start": 896,
+        "end": 911
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 110",
+        "position": [
+          849,
+          859
+        ],
+        "start": 849,
+        "end": 859
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "At-Tuffah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organizaciones palestinas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Genocidio",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Convención",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "CIJ",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "At-Tuffah",
+        "relacion": "RESULTAR_REGISTRAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Corte Internacional de Justicia",
+        "relacion": "CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "Corte Internacional de Justicia",
+        "relacion": "CONTINUAR",
+        "objeto": "Genocidio"
+      },
+      {
+        "sujeto": "CIJ",
+        "relacion": "CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "CIJ",
+        "relacion": "CONTINUAR",
+        "objeto": "Genocidio"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ORDENAR_CONTINUAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ORDENAR_CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ORDENAR_CONTINUAR",
+        "objeto": "Genocidio"
+      },
+      {
+        "sujeto": "Rafah",
+        "relacion": "DETENER_ORDENAR_CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "Rafah",
+        "relacion": "DETENER_ORDENAR_CONTINUAR",
+        "objeto": "Genocidio"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "GENERAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "GENERAR",
+        "objeto": "Egipto"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6124,
+    "pos": 0.034,
+    "neu": 0.956,
+    "neg": 0.01,
+    "label": "positive"
+  }
+}

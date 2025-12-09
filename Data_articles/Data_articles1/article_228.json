@@ -1,0 +1,971 @@
+{
+  "url": "https://www.telesurtv.net/35-asesinados-ataques-israel-contra-yemen/",
+  "title": "Al menos 35 asesinados tras ataques de Israel contra Yemen",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Israel",
+    "Yemen"
+  ],
+  "text": "El régimen genocida de Israel perpetró este miércoles una nueva ola de ataques contra Yemen, asesinando al menos 35 personas tras impactar en Saná, la capital del país, y en la Gobernación nororiental de Al-Jawf.\n\nDe acuerdo con la prensa árabe, específicamente fueron alcanzados el complejo gubernamental en el distrito de Al-Hazm, Al-Jawf, y un puesto médico del sector salud en la calle Al-Sitteen, al suroeste de Saná.\nEl complejo gubernamental en Al-Jawf, según la declaración, está destinado al servicio ciudadano y carece de propósito militar.\nDe acuerdo con el Ministerio de Salud yemení, los bombardeos dejaron al menos 35 personas muertas y otras 131 heridas.\n\n\nEl general de brigada Yahya Saree, portavoz de las Fuerzas Armadas de Yemen, informó que las defensas aéreas respondieron con misiles tierra-aire.\n“Algunas formaciones de combate israelíes se retiraron antes de ejecutar por completo la operación, lo que permitió frustrar gran parte del ataque”, afirmó Saree en redes sociales. Asimismo, una fuente militar de alto rango, citada por Al Mayadeen, confirmó que un escuadrón de aeronaves enemigas fue repelido mientras se dirigía a otras gobernaciones yemenitas.\nLa misma fuente calificó la ofensiva como una muestra de “incompetencia y fracaso” de las fuerzas israelíes. A pesar de los ataques, subrayó el compromiso de Yemen con su postura regional: “Todos estos sacrificios no impedirán que Yemen continúe con su apoyo a Gaza ni que enfrente a la entidad israelí”.\nPor otro lado, el Ministerio de Asuntos Exteriores declaró que “la entidad sionista usurpadora pagará un alto precio por su continua agresión”.\nLos bombardeos en Saná y Al-Jawf se dan en medio del genocidio perpetrado por Israel en la Franja de Gaza y tras los ataques israelíes de este martes 9 de septiembre contra el edificio donde se encontraba la delegación negociadora del movimiento de resistencia islámica palestina Hamás, en Doha, capital de Qatar.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/35-asesinados-ataques-israel-contra-yemen/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 376,
+    "message_id": 104287,
+    "date": "2025-09-10T21:55:07+00:00",
+    "text": "teleSUR\nAl menos 35 personas asesinadas tras nueva ola de ataques de Israel contra Yemen\nhttps://www.telesurtv.net/35-asesinados-ataques-israel-contra-yemen/",
+    "photo_path": null,
+    "views": 2265,
+    "reactions": {
+      "🤬": 45,
+      "😭": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "el régimen genocida de israel perpetró este miércoles una nueva ola de ataques contra yemen, asesinando al menos 35 personas tras impactar en saná, la capital del país, y en la gobernación nororiental de al-jawf. de acuerdo con la prensa árabe, específicamente fueron alcanzados el complejo gubernamental en el distrito de al-hazm, al-jawf, y un puesto médico del sector salud en la calle al-sitteen, al suroeste de saná. el complejo gubernamental en al-jawf, según la declaración, está destinado al servicio ciudadano y carece de propósito militar. de acuerdo con el ministerio de salud yemení, los bombardeos dejaron al menos 35 personas muertas y otras 131 heridas. el general de brigada yahya saree, portavoz de las fuerzas armadas de yemen, informó que las defensas aéreas respondieron con misiles tierra-aire. “algunas formaciones de combate israelíes se retiraron antes de ejecutar por completo la operación, lo que permitió frustrar gran parte del ataque”, afirmó saree en redes sociales. asimismo, una fuente militar de alto rango, citada por al mayadeen, confirmó que un escuadrón de aeronaves enemigas fue repelido mientras se dirigía a otras gobernaciones yemenitas. la misma fuente calificó la ofensiva como una muestra de “incompetencia y fracaso” de las fuerzas israelíes. a pesar de los ataques, subrayó el compromiso de yemen con su postura regional: “todos estos sacrificios no impedirán que yemen continúe con su apoyo a gaza ni que enfrente a la entidad israelí”. por otro lado, el ministerio de asuntos exteriores declaró que “la entidad sionista usurpadora pagará un alto precio por su continua agresión”. los bombardeos en saná y al-jawf se dan en medio del genocidio perpetrado por israel en la franja de gaza y tras los ataques israelíes de este martes 9 de septiembre contra el edificio donde se encontraba la delegación negociadora del movimiento de resistencia islámica palestina hamás, en doha, capital de qatar.",
+    "tokens": [
+      "régimen",
+      "genocida",
+      "israel",
+      "perpetró",
+      "miércoles",
+      "nueva",
+      "ola",
+      "ataques",
+      "yemen",
+      ",",
+      "asesinando",
+      "menos",
+      "35",
+      "personas",
+      "tras",
+      "impactar",
+      "saná",
+      ",",
+      "capital",
+      "país",
+      ",",
+      "gobernación",
+      "nororiental",
+      "al-jawf",
+      ".",
+      "acuerdo",
+      "prensa",
+      "árabe",
+      ",",
+      "específicamente",
+      "alcanzados",
+      "complejo",
+      "gubernamental",
+      "distrito",
+      "al-hazm",
+      ",",
+      "al-jawf",
+      ",",
+      "puesto",
+      "médico",
+      "sector",
+      "salud",
+      "calle",
+      "al-sitteen",
+      ",",
+      "suroeste",
+      "saná",
+      ".",
+      "complejo",
+      "gubernamental",
+      "al-jawf",
+      ",",
+      "según",
+      "declaración",
+      ",",
+      "destinado",
+      "servicio",
+      "ciudadano",
+      "carece",
+      "propósito",
+      "militar",
+      ".",
+      "acuerdo",
+      "ministerio",
+      "salud",
+      "yemení",
+      ",",
+      "bombardeos",
+      "dejaron",
+      "menos",
+      "35",
+      "personas",
+      "muertas",
+      "131",
+      "heridas",
+      ".",
+      "general",
+      "brigada",
+      "yahya",
+      "saree",
+      ",",
+      "portavoz",
+      "fuerzas",
+      "armadas",
+      "yemen",
+      ",",
+      "informó",
+      "defensas",
+      "aéreas",
+      "respondieron",
+      "misiles",
+      "tierra-aire",
+      ".",
+      "“",
+      "formaciones",
+      "combate",
+      "israelíes",
+      "retiraron",
+      "ejecutar",
+      "completo",
+      "operación",
+      ",",
+      "permitió",
+      "frustrar",
+      "gran",
+      "parte",
+      "ataque",
+      "”",
+      ",",
+      "afirmó",
+      "saree",
+      "redes",
+      "sociales",
+      ".",
+      "asimismo",
+      ",",
+      "fuente",
+      "militar",
+      "alto",
+      "rango",
+      ",",
+      "citada",
+      "mayadeen",
+      ",",
+      "confirmó",
+      "escuadrón",
+      "aeronaves",
+      "enemigas",
+      "repelido",
+      "mientras",
+      "dirigía",
+      "gobernaciones",
+      "yemenitas",
+      ".",
+      "misma",
+      "fuente",
+      "calificó",
+      "ofensiva",
+      "muestra",
+      "“",
+      "incompetencia",
+      "fracaso",
+      "”",
+      "fuerzas",
+      "israelíes",
+      ".",
+      "pesar",
+      "ataques",
+      ",",
+      "subrayó",
+      "compromiso",
+      "yemen",
+      "postura",
+      "regional",
+      ":",
+      "“",
+      "sacrificios",
+      "impedirán",
+      "yemen",
+      "continúe",
+      "apoyo",
+      "gaza",
+      "enfrente",
+      "entidad",
+      "israelí",
+      "”",
+      ".",
+      "lado",
+      ",",
+      "ministerio",
+      "asuntos",
+      "exteriores",
+      "declaró",
+      "“",
+      "entidad",
+      "sionista",
+      "usurpadora",
+      "pagará",
+      "alto",
+      "precio",
+      "continua",
+      "agresión",
+      "”",
+      ".",
+      "bombardeos",
+      "saná",
+      "al-jawf",
+      "dan",
+      "medio",
+      "genocidio",
+      "perpetrado",
+      "israel",
+      "franja",
+      "gaza",
+      "tras",
+      "ataques",
+      "israelíes",
+      "martes",
+      "9",
+      "septiembre",
+      "edificio",
+      "encontraba",
+      "delegación",
+      "negociadora",
+      "movimiento",
+      "resistencia",
+      "islámica",
+      "palestina",
+      "hamás",
+      ",",
+      "doha",
+      ",",
+      "capital",
+      "qatar",
+      "."
+    ],
+    "token_count": 215,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "NNS": 19,
+      "FW": 67,
+      "IN": 19,
+      "CC": 3,
+      "NN": 89,
+      "JJ": 27,
+      "VBD": 2,
+      "CD": 3,
+      "VBP": 11,
+      "VBZ": 6,
+      "DT": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 3,
+      "NNS-FW": 2,
+      "FW-IN": 1,
+      "IN-NNP": 8,
+      "NNP-CC": 2,
+      "CC-NN": 1,
+      "NN-NNS": 4,
+      "NNS-JJ": 3,
+      "JJ-JJ": 2,
+      "JJ-NN": 14,
+      "NN-IN": 13,
+      "IN-NNS": 1,
+      "JJ-NNP": 5,
+      "NNP-NN": 12,
+      "NN-NN": 47,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 3,
+      "NN-FW": 8,
+      "FW-NNP": 15,
+      "NNP-FW": 11,
+      "FW-NN": 10,
+      "IN-FW": 8,
+      "FW-FW": 35,
+      "NNP-NNP": 9,
+      "NN-JJ": 7,
+      "NNP-JJ": 3,
+      "JJ-IN": 1,
+      "CC-JJ": 2,
+      "NNS-NNS": 2,
+      "NNS-VBP": 7,
+      "VBP-CD": 1,
+      "NNS-NNP": 3,
+      "JJ-FW": 3,
+      "NNP-IN": 1,
+      "NNP-VBP": 1,
+      "VBP-JJ": 5,
+      "JJ-NNS": 2,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "FW-VBP": 1,
+      "VBP-NNS": 2,
+      "VBP-NN": 1,
+      "NNS-IN": 2,
+      "NN-VBP": 2,
+      "VBP-NNP": 1,
+      "FW-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NN-NNP": 4,
+      "VBZ-CC": 1,
+      "FW-JJ": 2,
+      "FW-NNS": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "IN-NN": 2,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-FW": 2,
+      "NNS-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 26,
+      "NN-NN-IN": 8,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 22,
+      "FW-FW-NN": 5,
+      "FW-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 6,
+      "NN-IN-NNP": 5,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "IN-FW-FW": 5,
+      "FW-NNP-NN": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "IN-NNP-NN": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 2,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-JJ": 2,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "NNP-NN-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 3,
+      "NN-NN-JJ": 2,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-CC": 1,
+      "VBZ-CC-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-JJ-NNP": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-NN-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "NNP-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 89,
+        "FW": 67,
+        "NNP": 46,
+        "JJ": 27,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "FW-FW": 35,
+        "FW-NNP": 15,
+        "JJ-NN": 14,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 22,
+        "NNP-NN-NN": 8,
+        "NN-NN-IN": 8,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 94,
+      "PP": 13,
+      "VP": 20,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 10,
+        "weight": 0.0694
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Al-Jawf', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0139
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('Saná', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('Ministerio', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0139
+      },
+      {
+        "rule": "S -> NP ('genocida', 'FW') PP ('perpetró', 'CC') NP NP PP NP (',', ',') NP VP ('35', 'CD') NP NP PP (',', ',') NP (',', ',') ('y', 'CC') ('en', 'FW') ('la', 'FW') NP ('nororiental', 'FW') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0069
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El régimen"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva ola"
+      },
+      {
+        "label": "PP",
+        "text": "de ataques"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "NP",
+        "text": "contra Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "asesinando al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "tras impactar"
+      },
+      {
+        "label": "PP",
+        "text": "en Saná"
+      },
+      {
+        "label": "NP",
+        "text": "Saná"
+      },
+      {
+        "label": "NP",
+        "text": "la capital del país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP régimen/NNS)\n  genocida/FW\n  (PP de/IN (NP Israel/NNP))\n  perpetró/CC\n  (NP este/NN miércoles/NNS)\n  (NP una/JJ nueva/JJ ola/NN)\n  (PP de/IN (NP ataques/NNS))\n  (NP contra/JJ Yemen/NNS)\n  ,/,\n  (NP asesinando/JJ al/NN)\n  (VP menos/VBD)\n  35/CD\n  (NP personas/NNS)\n  (NP tras/JJ impactar/NN)\n  (PP en/IN (NP Saná/NNP))\n  ,/,\n  (NP la/JJ capital/NN del/NN país/NN)\n  ,/,\n  y/CC\n  en/FW\n  la/FW\n  (NP Gobernación/NNP)\n  nororiental/FW\n  (PP de/IN (NP Al-Jawf/NNP))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  prensa/FW\n  árabe/FW\n  ,/,\n  específicamente/FW\n  fueron/FW\n  alcanzados/FW\n  el/FW\n  (NP complejo/NN)\n  (NP gubernamental/JJ en/NN el/NN distrito/NN)\n  (PP de/IN (NP Al-Hazm/NNP))\n  ,/,\n  (NP Al-Jawf/NNP)\n  ,/,\n  (NP y/NNP)\n  (NP un/JJ puesto/NN médico/NN del/NN sector/NN salud/NN)\n  en/IN\n  la/FW\n  calle/FW\n  (NP Al-Sitteen/NNP)\n  ,/,\n  (NP al/JJ suroeste/NN)\n  (PP de/IN (NP Saná/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP complejo/NN)\n  (ADJP gubernamental/JJ)\n  (PP en/IN (NP Al-Jawf/NNP))\n  ,/,\n  (NP según/NN la/NN declaración/NN)\n  ,/,\n  (NP está/JJ destinado/NN al/NN servicio/NN ciudadano/NN)\n  (NP y/JJ carece/NN)\n  de/IN\n  propósito/FW\n  (NP militar/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP yemení/NN)\n  ,/,\n  (NP los/JJ bombardeos/NN dejaron/NN al/NN)\n  (VP menos/VBD)\n  35/CD\n  (NP personas/NNS muertas/NNS)\n  (VP y/VBP otras/RB)\n  131/CD\n  (NP heridas/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (ADJP general/JJ)\n  de/FW\n  brigada/FW\n  (NP Yahya/NNP Saree/NNP)\n  ,/,\n  (NP portavoz/NN)\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Yemen/NNP))\n  ,/,\n  (NP informó/NN que/NN las/NNS)\n  (VP defensas/VBP (NP aéreas/JJ respondieron/NN con/NN))\n  (VP misiles/VBZ (NP tierra-aire/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque”, afirmó saree en redes sociales. asimismo, una fuente militar",
+        "position": [
+          959,
+          1028
+        ],
+        "start": 959,
+        "end": 1028
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeos en saná y al-jawf se dan en medio del genocidio perpetrado por israel en la franja de gaza y tras los ataques israelíes",
+        "position": [
+          1635,
+          1765
+        ],
+        "start": 1635,
+        "end": 1765
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocidio perpetrado por israel en la franja de gaza",
+        "position": [
+          1684,
+          1736
+        ],
+        "start": 1684,
+        "end": 1736
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          151,
+          158
+        ],
+        "start": 151,
+        "end": 158
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la prensa árabe, específicamente fueron alcanzados el complejo gubernamental en el distrito de al-hazm, al-jawf, y un",
+        "position": [
+          217,
+          346
+        ],
+        "start": 217,
+        "end": 346
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          968,
+          974
+        ],
+        "start": 968,
+        "end": 974
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          749,
+          756
+        ],
+        "start": 749,
+        "end": 756
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1315,
+          1322
+        ],
+        "start": 1315,
+        "end": 1322
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con el ministerio de salud yemení, los bombardeos dejaron al menos 35",
+        "position": [
+          554,
+          631
+        ],
+        "start": 554,
+        "end": 631
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "calle",
+        "position": [
+          384,
+          389
+        ],
+        "start": 384,
+        "end": 389
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          1477,
+          1484
+        ],
+        "start": 1477,
+        "end": 1484
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "calle al",
+        "position": [
+          384,
+          392
+        ],
+        "start": 384,
+        "end": 392
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "complejo gubernamental",
+        "position": [
+          283,
+          305
+        ],
+        "start": 283,
+        "end": 305
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "martes 9 de septiembre",
+        "position": [
+          1774,
+          1796
+        ],
+        "start": 1774,
+        "end": 1796
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "35 personas",
+        "position": [
+          113,
+          124
+        ],
+        "start": 113,
+        "end": 124
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud yemení",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "calle Al-Sitteen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Yemen",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobernación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Asuntos Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yahya Saree",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "distrito de Al-Hazm",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Doha",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Jawf",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Mayadeen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Qatar",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "PERPETRAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PERPETRAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PERPETRAR",
+        "objeto": "Gobernación"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PERPETRAR",
+        "objeto": "Al-Jawf"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "PERPETRAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "PERPETRAR",
+        "objeto": "Gobernación"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "PERPETRAR",
+        "objeto": "Al-Jawf"
+      },
+      {
+        "sujeto": "distrito de Al-Hazm",
+        "relacion": "ES",
+        "objeto": "Al-Jawf"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "SUBRAYAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "CONTINUAR_IMPEDIR_SUBRAYAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "DAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "DAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "DAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "DAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "DAR",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "Al-Jawf",
+        "relacion": "DAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Al-Jawf",
+        "relacion": "DAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Al-Jawf",
+        "relacion": "DAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Al-Jawf",
+        "relacion": "DAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Al-Jawf",
+        "relacion": "DAR",
+        "objeto": "Qatar"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.993,
+    "neg": 0.007,
+    "label": "negative"
+  }
+}

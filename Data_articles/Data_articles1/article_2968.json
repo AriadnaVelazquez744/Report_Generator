@@ -1,0 +1,953 @@
+{
+  "url": "https://www.telesurtv.net/egipto-hace-un-llamado-de-atencion-sobre-una-guerra-total-en-el-oriente-medio/",
+  "title": "Egipto hace un llamado de atención sobre una guerra total en el Oriente Medio - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Abdel Fattah El-Sisi",
+    "Agresión a Gaza",
+    "Guerra",
+    "Líbano"
+  ],
+  "text": "El miércoles, Egipto, Grecia y Chipre realizaron una cumbre tripartita en El Cairo con el objetivo de tratar los eventos en la región, en particular en Palestina, Siria, Libia, Sudán y Somalia.\nEl presidente egipcio, Abdel Fattah El-Sisi, resaltó la importancia de incrementar los esfuerzos para alcanzar un equilibrio en la región y enfrentar sus crisis, en particular la guerra en Gaza y Líbano, así como garantizar la estabilidad en Siria, Libia, Yemen y Sudán.\nLEA TAMBIÉN: Egipto e Irán exigen detener los crímenes israelíes en Gaza y Líbano\nAsimismo, enfatizó la relevancia de “evitar una escalada del conflicto regional que puede desembocar en una guerra total con consecuencias catastróficas, ya sean económicas, políticas o de seguridad, así como oleadas de desplazados sin precedentes”.\nPor otra parte, “la región no puede tolerar más aventuras que pueda hacer tambalear su estabilidad, sacudir sus Estados y afectar negativamente a los destinos de sus pueblos”, expresó El-Siri en una conferencia de prensa compartida con su homólogo de Chipre, Nikos Christodoulides, y el primer ministro de Grecia, Kyriakos Mitsotakis, en el Palacio Federal.\nSegún sus afirmaciones, es momento de emplear el sentido común, tomar las decisiones acertadas y prevenir más conflictos, devastación y odio.\nEl miércoles, Egipto, Grecia y Chipre realizaron una cumbre tripartita en El Cairo con el objetivo de tratar los eventos en la región, en particular en Palestina, Siria, Libia, Sudán y Somalia.\n“La cooperación entre los tres países es un paso estratégico vital, no sólo por su contribución al crecimiento, sino también como paso fundamental para promover la integración económica regional a la que aspiramos”, sentenció el mandatario de Egipto.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/egipto-hace-un-llamado-de-atencion-sobre-una-guerra-total-en-el-oriente-medio/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1703,
+    "message_id": 83953,
+    "date": "2025-01-09T09:55:08+00:00",
+    "text": "teleSUR\nEgipto hace un llamado de atención sobre una guerra total en el Oriente Medio\nhttps://www.telesurtv.net/egipto-hace-un-llamado-de-atencion-sobre-una-guerra-total-en-el-oriente-medio/",
+    "photo_path": null,
+    "views": 2744,
+    "reactions": {
+      "🙏": 23,
+      "💩": 7,
+      "👍": 2
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "el miércoles, egipto, grecia y chipre realizaron una cumbre tripartita en el cairo con el objetivo de tratar los eventos en la región, en particular en palestina, siria, libia, sudán y somalia. el presidente egipcio, abdel fattah el-sisi, resaltó la importancia de incrementar los esfuerzos para alcanzar un equilibrio en la región y enfrentar sus crisis, en particular la guerra en gaza y líbano, así como garantizar la estabilidad en siria, libia, yemen y sudán. asimismo, enfatizó la relevancia de “evitar una escalada del conflicto regional que puede desembocar en una guerra total con consecuencias catastróficas, ya sean económicas, políticas o de seguridad, así como oleadas de desplazados sin precedentes”. por otra parte, “la región no puede tolerar más aventuras que pueda hacer tambalear su estabilidad, sacudir sus estados y afectar negativamente a los destinos de sus pueblos”, expresó el-siri en una conferencia de prensa compartida con su homólogo de chipre, nikos christodoulides, y el primer ministro de grecia, kyriakos mitsotakis, en el palacio federal. según sus afirmaciones, es momento de emplear el sentido común, tomar las decisiones acertadas y prevenir más conflictos, devastación y odio. el miércoles, egipto, grecia y chipre realizaron una cumbre tripartita en el cairo con el objetivo de tratar los eventos en la región, en particular en palestina, siria, libia, sudán y somalia. “la cooperación entre los tres países es un paso estratégico vital, no sólo por su contribución al crecimiento, sino también como paso fundamental para promover la integración económica regional a la que aspiramos”, sentenció el mandatario de egipto.",
+    "tokens": [
+      "miércoles",
+      ",",
+      "egipto",
+      ",",
+      "grecia",
+      "chipre",
+      "realizaron",
+      "cumbre",
+      "tripartita",
+      "cairo",
+      "objetivo",
+      "tratar",
+      "eventos",
+      "región",
+      ",",
+      "particular",
+      "palestina",
+      ",",
+      "siria",
+      ",",
+      "libia",
+      ",",
+      "sudán",
+      "somalia",
+      ".",
+      "presidente",
+      "egipcio",
+      ",",
+      "abdel",
+      "fattah",
+      "el-sisi",
+      ",",
+      "resaltó",
+      "importancia",
+      "incrementar",
+      "esfuerzos",
+      "alcanzar",
+      "equilibrio",
+      "región",
+      "enfrentar",
+      "crisis",
+      ",",
+      "particular",
+      "guerra",
+      "gaza",
+      "líbano",
+      ",",
+      "así",
+      "garantizar",
+      "estabilidad",
+      "siria",
+      ",",
+      "libia",
+      ",",
+      "yemen",
+      "sudán",
+      ".",
+      "asimismo",
+      ",",
+      "enfatizó",
+      "relevancia",
+      "“",
+      "evitar",
+      "escalada",
+      "conflicto",
+      "regional",
+      "puede",
+      "desembocar",
+      "guerra",
+      "total",
+      "consecuencias",
+      "catastróficas",
+      ",",
+      "económicas",
+      ",",
+      "políticas",
+      "seguridad",
+      ",",
+      "así",
+      "oleadas",
+      "desplazados",
+      "precedentes",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "“",
+      "región",
+      "puede",
+      "tolerar",
+      "aventuras",
+      "pueda",
+      "hacer",
+      "tambalear",
+      "estabilidad",
+      ",",
+      "sacudir",
+      "afectar",
+      "negativamente",
+      "destinos",
+      "pueblos",
+      "”",
+      ",",
+      "expresó",
+      "el-siri",
+      "conferencia",
+      "prensa",
+      "compartida",
+      "homólogo",
+      "chipre",
+      ",",
+      "nikos",
+      "christodoulides",
+      ",",
+      "primer",
+      "ministro",
+      "grecia",
+      ",",
+      "kyriakos",
+      "mitsotakis",
+      ",",
+      "palacio",
+      "federal",
+      ".",
+      "según",
+      "afirmaciones",
+      ",",
+      "momento",
+      "emplear",
+      "común",
+      ",",
+      "tomar",
+      "decisiones",
+      "acertadas",
+      "prevenir",
+      "conflictos",
+      ",",
+      "devastación",
+      "odio",
+      ".",
+      "miércoles",
+      ",",
+      "egipto",
+      ",",
+      "grecia",
+      "chipre",
+      "realizaron",
+      "cumbre",
+      "tripartita",
+      "cairo",
+      "objetivo",
+      "tratar",
+      "eventos",
+      "región",
+      ",",
+      "particular",
+      "palestina",
+      ",",
+      "siria",
+      ",",
+      "libia",
+      ",",
+      "sudán",
+      "somalia",
+      ".",
+      "“",
+      "cooperación",
+      "tres",
+      "países",
+      "paso",
+      "estratégico",
+      "vital",
+      ",",
+      "sólo",
+      "contribución",
+      "crecimiento",
+      ",",
+      "sino",
+      "paso",
+      "fundamental",
+      "promover",
+      "integración",
+      "económica",
+      "regional",
+      "aspiramos",
+      "”",
+      ",",
+      "sentenció",
+      "mandatario",
+      "egipto",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 53,
+      "NNS": 6,
+      "NN": 88,
+      "IN": 9,
+      "FW": 60,
+      "JJ": 24,
+      "VBZ": 6,
+      "VBP": 6,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-NNP": 34,
+      "NNP-NN": 10,
+      "NN-NN": 52,
+      "NN-IN": 9,
+      "IN-NNP": 5,
+      "NN-FW": 10,
+      "FW-FW": 40,
+      "FW-JJ": 8,
+      "JJ-FW": 2,
+      "FW-NNP": 7,
+      "FW-NN": 5,
+      "NN-JJ": 8,
+      "JJ-NN": 16,
+      "IN-FW": 3,
+      "IN-JJ": 1,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "JJ-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-NNP": 1,
+      "VBZ-FW": 1,
+      "JJ-JJ": 3,
+      "NN-NNS": 4,
+      "NNP-VBP": 1,
+      "VBP-NN": 2,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "NN-NNP": 2,
+      "NNP-FW": 3,
+      "VBP-FW": 1,
+      "VBZ-NNP": 1,
+      "VBZ-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-DT": 1,
+      "NN-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-NNP": 21,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 25,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 5,
+      "IN-NNP-NNP": 4,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 29,
+      "FW-FW-JJ": 3,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NNP": 2,
+      "FW-NNP-NNP": 6,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-FW-NNP": 4,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-JJ-NN": 6,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "NN-FW-JJ": 2,
+      "JJ-NN-JJ": 2,
+      "IN-FW-JJ": 2,
+      "JJ-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NN-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 60,
+        "NNP": 53,
+        "JJ": 24,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 40,
+        "NNP-NNP": 34,
+        "JJ-NN": 16,
+        "NNP-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 25,
+        "NNP-NNP-NNP": 21,
+        "JJ-NN-NN": 11,
+        "NNP-NNP-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 71,
+      "PP": 5,
+      "ADJP": 3,
+      "VP": 13
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Egipto', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0404
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Siria', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Libia', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP PP ('objetivo', 'FW') ('de', 'FW') ('tratar', 'FW') ('los', 'FW') ('eventos', 'FW') ('en', 'FW') ('la', 'FW') ('región', 'FW') (',', ',') ('en', 'FW') ADJP ('en', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') NP ('.', '.')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('miércoles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Grecia', 'NNP') ('y', 'NNP') ('Chipre', 'NNP') ('realizaron', 'NN') ('una', 'NN') ('cumbre', 'NN') ('tripartita', 'NN')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Cairo', 'NNP') ('con', 'NN') ('el', 'NN')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "ADJP -> ('particular', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Palestina', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "Egipto"
+      },
+      {
+        "label": "NP",
+        "text": "Grecia y Chipre realizaron una cumbre tripartita"
+      },
+      {
+        "label": "PP",
+        "text": "en El Cairo con el"
+      },
+      {
+        "label": "NP",
+        "text": "El Cairo con el"
+      },
+      {
+        "label": "ADJP",
+        "text": "particular"
+      },
+      {
+        "label": "NP",
+        "text": "Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Siria"
+      },
+      {
+        "label": "NP",
+        "text": "Libia"
+      },
+      {
+        "label": "NP",
+        "text": "Sudán y Somalia"
+      },
+      {
+        "label": "NP",
+        "text": "El presidente egipcio"
+      },
+      {
+        "label": "NP",
+        "text": "Abdel Fattah El-Sisi"
+      },
+      {
+        "label": "NP",
+        "text": "resaltó"
+      },
+      {
+        "label": "NP",
+        "text": "para alcanzar"
+      },
+      {
+        "label": "NP",
+        "text": "un equilibrio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP miércoles/NNS)\n  ,/,\n  (NP Egipto/NNP)\n  ,/,\n  (NP\n    Grecia/NNP\n    y/NNP\n    Chipre/NNP\n    realizaron/NN\n    una/NN\n    cumbre/NN\n    tripartita/NN)\n  (PP en/IN (NP El/NNP Cairo/NNP con/NN el/NN))\n  objetivo/FW\n  de/FW\n  tratar/FW\n  los/FW\n  eventos/FW\n  en/FW\n  la/FW\n  región/FW\n  ,/,\n  en/FW\n  (ADJP particular/JJ)\n  en/FW\n  (NP Palestina/NNP)\n  ,/,\n  (NP Siria/NNP)\n  ,/,\n  (NP Libia/NNP)\n  ,/,\n  (NP Sudán/NNP y/NNP Somalia/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN egipcio/NN)\n  ,/,\n  (NP Abdel/NNP Fattah/NNP El-Sisi/NNP)\n  ,/,\n  (NP resaltó/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  incrementar/FW\n  los/FW\n  esfuerzos/FW\n  (NP para/NN alcanzar/NN)\n  (NP un/JJ equilibrio/NN)\n  en/IN\n  la/FW\n  región/FW\n  y/FW\n  enfrentar/FW\n  (NP sus/NN crisis/NN)\n  ,/,\n  en/FW\n  (NP particular/JJ la/NN guerra/NN)\n  (PP en/IN (NP Gaza/NNP y/NNP Líbano/NNP))\n  ,/,\n  (NP así/NN como/NN garantizar/NN la/NN)\n  estabilidad/FW\n  en/FW\n  (NP Siria/NNP)\n  ,/,\n  (NP Libia/NNP)\n  ,/,\n  (NP Yemen/NNP y/NNP Sudán/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Egipto/NNP)\n  (VP\n    e/VBZ\n    (NP Irán/NNP exigen/NN detener/NN)\n    (NP los/JJ crímenes/NNS))\n  (VP israelíes/VBP (NP en/JJ Gaza/NNP y/NN Líbano/NNP Asimismo/NNP))\n  ,/,\n  (VP enfatizó/VBZ la/JJ)\n  relevancia/FW\n  de/FW\n  “/FW\n  evitar/FW\n  (NP una/JJ escalada/NN del/NN)\n  (NP conflicto/JJ regional/JJ que/NN puede/NN desembocar/NN)\n  en/FW\n  (NP una/JJ guerra/NN)\n  (NP total/JJ con/NN consecuencias/NN catastróficas/NN)\n  ,/,\n  (NP ya/JJ sean/JJ económicas/NN)\n  ,/,\n  (ADJP políticas/JJ)\n  o/FW\n  de/FW\n  seguridad/FW\n  ,/,\n  así/FW\n  (NP como/NN)\n  oleadas/FW\n  de/FW\n  desplazados/FW\n  (NP sin/NN precedentes/NNS)\n  (VP ”/VBP)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  (NP “/NNP la/NNP)\n  (VP región/VBZ (NP no/DT puede/NN tolerar/NN más/NN aventuras/NNS))\n  (VP\n    que/VBP\n    (NP pueda/JJ hacer/NN)\n    (NP tambalear/JJ su/NN estabilidad/NN))\n  ,/,\n  (NP sacudir/JJ sus/NN Estados/NNP y/NNP afectar/NN)\n  (VP negativamente/VBD (NP a/DT los/JJ destinos/NN))\n  de/IN\n  sus/FW\n  (NP pueblos/NN ”/NN)\n  ,/,\n  (NP expresó/JJ El-Siri/NNP en/NN)\n  (NP una/JJ conferencia/NN)\n  de/IN\n  prensa/FW\n  (NP compartida/JJ con/NN su/NN homólogo/NN)\n  (PP de/IN (NP Chipre/NNP))\n  ,/,\n  (NP Nikos/NNP Christodoulides/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP el/VBZ primer/JJ)\n  ministro/FW\n  de/FW\n  (NP Grecia/NNP)\n  ,/,\n  (NP Kyriakos/NNP Mitsotakis/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (NP Palacio/NNP Federal/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP sus/NN afirmaciones/NNS)\n  ,/,\n  es/FW\n  momento/FW\n  de/FW\n  emplear/FW\n  el/FW\n  (NP sentido/NN común/NN)\n  ,/,\n  (NP tomar/NN las/NNS decisiones/NNS)\n  acertadas/RB\n  (VP y/VBP (NP prevenir/JJ más/NN conflictos/NN))\n  ,/,\n  (NP devastación/NN y/NN odio/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INTEGRACION_LATINOAMERICANA",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra en gaza",
+        "position": [
+          373,
+          387
+        ],
+        "start": 373,
+        "end": 387
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "contribución",
+        "position": [
+          1574,
+          1586
+        ],
+        "start": 1574,
+        "end": 1586
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación entre los tres países",
+        "position": [
+          1495,
+          1528
+        ],
+        "start": 1495,
+        "end": 1528
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          996,
+          1017
+        ],
+        "start": 996,
+        "end": 1017
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          973,
+          980
+        ],
+        "start": 973,
+        "end": 980
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente egipcio",
+        "position": [
+          197,
+          215
+        ],
+        "start": 197,
+        "end": 215
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de grecia",
+        "position": [
+          1091,
+          1109
+        ],
+        "start": 1091,
+        "end": 1109
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          152,
+          161
+        ],
+        "start": 152,
+        "end": 161
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, en",
+        "position": [
+          127,
+          137
+        ],
+        "start": 127,
+        "end": 137
+      },
+      {
+        "category": "INTEGRACION_LATINOAMERICANA",
+        "matched_text": "cooperación entre los tres países es un paso estratégico vital, no sólo por su contribución al crecimiento, sino también como paso fundamental para promover la integración económica regional",
+        "position": [
+          1495,
+          1685
+        ],
+        "start": 1495,
+        "end": 1685
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Kyriakos Mitsotakis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Libia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nikos Christodoulides",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Cairo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "sus Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abdel Fattah El-Sisi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chipre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palacio Federal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Grecia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Somalia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano\nAsimismo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Egipto",
+        "relacion": "REALIZAR",
+        "objeto": "El Cairo"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "REALIZAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "REALIZAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "REALIZAR",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "REALIZAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "REALIZAR",
+        "objeto": "Somalia"
+      },
+      {
+        "sujeto": "Grecia",
+        "relacion": "REALIZAR",
+        "objeto": "El Cairo"
+      },
+      {
+        "sujeto": "Grecia",
+        "relacion": "REALIZAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Grecia",
+        "relacion": "REALIZAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Grecia",
+        "relacion": "REALIZAR",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "Grecia",
+        "relacion": "REALIZAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Grecia",
+        "relacion": "REALIZAR",
+        "objeto": "Somalia"
+      },
+      {
+        "sujeto": "Chipre",
+        "relacion": "REALIZAR",
+        "objeto": "El Cairo"
+      },
+      {
+        "sujeto": "Chipre",
+        "relacion": "REALIZAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Chipre",
+        "relacion": "REALIZAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Chipre",
+        "relacion": "REALIZAR",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "Chipre",
+        "relacion": "REALIZAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Chipre",
+        "relacion": "REALIZAR",
+        "objeto": "Somalia"
+      },
+      {
+        "sujeto": "El Cairo",
+        "relacion": "REALIZAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "El Cairo",
+        "relacion": "REALIZAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "El Cairo",
+        "relacion": "REALIZAR",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "El Cairo",
+        "relacion": "REALIZAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "El Cairo",
+        "relacion": "REALIZAR",
+        "objeto": "Somalia"
+      },
+      {
+        "sujeto": "Abdel Fattah El-Sisi",
+        "relacion": "RESALTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Abdel Fattah El-Sisi",
+        "relacion": "RESALTAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Abdel Fattah El-Sisi",
+        "relacion": "RESALTAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Abdel Fattah El-Sisi",
+        "relacion": "RESALTAR",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "Abdel Fattah El-Sisi",
+        "relacion": "RESALTAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Abdel Fattah El-Sisi",
+        "relacion": "RESALTAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ENFRENTAR_ALCANZAR_INCREMENTAR_RESALTAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ENFRENTAR_ALCANZAR_INCREMENTAR_RESALTAR",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ENFRENTAR_ALCANZAR_INCREMENTAR_RESALTAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ENFRENTAR_ALCANZAR_INCREMENTAR_RESALTAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "ENFRENTAR_ALCANZAR_INCREMENTAR_RESALTAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "ENFRENTAR_ALCANZAR_INCREMENTAR_RESALTAR",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "ENFRENTAR_ALCANZAR_INCREMENTAR_RESALTAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "ENFRENTAR_ALCANZAR_INCREMENTAR_RESALTAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "EXIGIR_ENFATIZAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "EXIGIR_ENFATIZAR",
+        "objeto": "Líbano\nAsimismo"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "EXIGIR_ENFATIZAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "EXIGIR_ENFATIZAR",
+        "objeto": "Líbano\nAsimismo"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "DETENER_EXIGIR_ENFATIZAR",
+        "objeto": "Líbano\nAsimismo"
+      },
+      {
+        "sujeto": "sus Estados",
+        "relacion": "SACUDIR_HACER_TOLERAR_EXPRESAR",
+        "objeto": "Chipre"
+      },
+      {
+        "sujeto": "sus Estados",
+        "relacion": "SACUDIR_HACER_TOLERAR_EXPRESAR",
+        "objeto": "Nikos Christodoulides"
+      },
+      {
+        "sujeto": "sus Estados",
+        "relacion": "SACUDIR_HACER_TOLERAR_EXPRESAR",
+        "objeto": "Grecia"
+      },
+      {
+        "sujeto": "sus Estados",
+        "relacion": "SACUDIR_HACER_TOLERAR_EXPRESAR",
+        "objeto": "Kyriakos Mitsotakis"
+      },
+      {
+        "sujeto": "sus Estados",
+        "relacion": "SACUDIR_HACER_TOLERAR_EXPRESAR",
+        "objeto": "Palacio Federal"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.872,
+    "pos": 0.008,
+    "neu": 0.946,
+    "neg": 0.046,
+    "label": "negative"
+  }
+}

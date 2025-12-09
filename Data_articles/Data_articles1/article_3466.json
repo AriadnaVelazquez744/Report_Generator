@@ -1,0 +1,950 @@
+{
+  "url": "https://www.telesurtv.net/panama-trabajadores-protestas-css/",
+  "title": "Trabajadores panameños continúan movilizándose contra la Ley 462 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "CSS",
+    "Ley 462",
+    "Movilización",
+    "Panamá",
+    "Trabajadores"
+  ],
+  "text": "La caminata, que partirá desde el parque Belisario Porras y culminará frente a la Asamblea Nacional, busca rechazar la Ley 462 de reformas a la Caja de Seguro Social, recientemente promulgada por el presidente José Raúl Mulino.\nSegún los manifestantes, esta normativa perjudica gravemente a los trabajadores y sus familias.\nLEER TAMBIÉN\nReprimen a trabajadores de Panamá en protestas contra reformas a la Caja de Seguro Social\nEl secretario general de la Confederación Nacional de Unidad Sindical Independiente (Conusi), Marco Andrade, denunció que la ley fue aprobada sin considerar las propuestas de los gremios. Entre las críticas principales, destaca el modelo de cuentas individuales que establece la normativa, considerándose obsoleto y contrario al sistema solidario. Estudios de la Organización Internacional del Trabajo (OIT) señalan que este modelo fracasó en más de 30 países.\nAdemás del rechazo a la Ley 462, las protestas incluirán demandas contra la minería metálica a cielo abierto, el alto costo de vida y la construcción de un embalse en el río Indio para abastecer al Canal de Panamá. Estas acciones se suman a las manifestaciones realizadas en años anteriores, cuando se reactivaron los debates sobre el impacto ambiental y social de proyectos mineros, como la mina de cobre en Donoso.\n\n\nEn paralelo, los abogados de los colectivos presentaron una demanda de inconstitucionalidad parcial ante la Corte Suprema de Justicia. El recurso busca invalidar el numeral 11 del artículo 48 de la Ley, que impone un descuento del 6.75% a las pensiones de jubilados. Según los demandantes, esta disposición viola normas internacionales ratificadas por Panamá.\nEl presidente Mulino defendió en conferencia de prensa el derecho a manifestarse como parte del sistema democrático, pero advirtió que garantizará el libre tránsito en las calles. Mientras tanto, los líderes sindicales preparan más acciones, incluida una posible huelga nacional indefinida, para presionar por cambios legislativos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/panama-trabajadores-protestas-css/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 277,
+    "message_id": 90407,
+    "date": "2025-03-27T20:55:23+00:00",
+    "text": "teleSUR\nTrabajadores panameños continúan movilizándose contra la Ley 462\nhttps://www.telesurtv.net/panama-trabajadores-protestas-css/",
+    "photo_path": null,
+    "views": 1610,
+    "reactions": {
+      "👏": 26,
+      "👍": 5,
+      "❤": 1
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "la caminata, que partirá desde el parque belisario porras y culminará frente a la asamblea nacional, busca rechazar la ley 462 de reformas a la caja de seguro social, recientemente promulgada por el presidente josé raúl mulino. según los manifestantes, esta normativa perjudica gravemente a los trabajadores y sus familias. leer también reprimen a trabajadores de panamá en protestas contra reformas a la caja de seguro social el secretario general de la confederación nacional de unidad sindical independiente (conusi), marco andrade, denunció que la ley fue aprobada sin considerar las propuestas de los gremios. entre las críticas principales, destaca el modelo de cuentas individuales que establece la normativa, considerándose obsoleto y contrario al sistema solidario. estudios de la organización internacional del trabajo (oit) señalan que este modelo fracasó en más de 30 países. además del rechazo a la ley 462, las protestas incluirán demandas contra la minería metálica a cielo abierto, el alto costo de vida y la construcción de un embalse en el río indio para abastecer al canal de panamá. estas acciones se suman a las manifestaciones realizadas en años anteriores, cuando se reactivaron los debates sobre el impacto ambiental y social de proyectos mineros, como la mina de cobre en donoso. en paralelo, los abogados de los colectivos presentaron una demanda de inconstitucionalidad parcial ante la corte suprema de justicia. el recurso busca invalidar el numeral 11 del artículo 48 de la ley, que impone un descuento del 6.75% a las pensiones de jubilados. según los demandantes, esta disposición viola normas internacionales ratificadas por panamá. el presidente mulino defendió en conferencia de prensa el derecho a manifestarse como parte del sistema democrático, pero advirtió que garantizará el libre tránsito en las calles. mientras tanto, los líderes sindicales preparan más acciones, incluida una posible huelga nacional indefinida, para presionar por cambios legislativos.",
+    "tokens": [
+      "caminata",
+      ",",
+      "partirá",
+      "parque",
+      "belisario",
+      "porras",
+      "culminará",
+      "frente",
+      "asamblea",
+      "nacional",
+      ",",
+      "busca",
+      "rechazar",
+      "ley",
+      "462",
+      "reformas",
+      "caja",
+      "seguro",
+      "social",
+      ",",
+      "recientemente",
+      "promulgada",
+      "presidente",
+      "josé",
+      "raúl",
+      "mulino",
+      ".",
+      "según",
+      "manifestantes",
+      ",",
+      "normativa",
+      "perjudica",
+      "gravemente",
+      "trabajadores",
+      "familias",
+      ".",
+      "leer",
+      "reprimen",
+      "trabajadores",
+      "panamá",
+      "protestas",
+      "reformas",
+      "caja",
+      "seguro",
+      "social",
+      "secretario",
+      "general",
+      "confederación",
+      "nacional",
+      "unidad",
+      "sindical",
+      "independiente",
+      "(",
+      "conusi",
+      ")",
+      ",",
+      "marco",
+      "andrade",
+      ",",
+      "denunció",
+      "ley",
+      "aprobada",
+      "considerar",
+      "propuestas",
+      "gremios",
+      ".",
+      "críticas",
+      "principales",
+      ",",
+      "destaca",
+      "modelo",
+      "cuentas",
+      "individuales",
+      "establece",
+      "normativa",
+      ",",
+      "considerándose",
+      "obsoleto",
+      "contrario",
+      "sistema",
+      "solidario",
+      ".",
+      "estudios",
+      "organización",
+      "internacional",
+      "trabajo",
+      "(",
+      "oit",
+      ")",
+      "señalan",
+      "modelo",
+      "fracasó",
+      "30",
+      "países",
+      ".",
+      "además",
+      "rechazo",
+      "ley",
+      "462",
+      ",",
+      "protestas",
+      "incluirán",
+      "demandas",
+      "minería",
+      "metálica",
+      "cielo",
+      "abierto",
+      ",",
+      "alto",
+      "costo",
+      "vida",
+      "construcción",
+      "embalse",
+      "río",
+      "indio",
+      "abastecer",
+      "canal",
+      "panamá",
+      ".",
+      "acciones",
+      "suman",
+      "manifestaciones",
+      "realizadas",
+      "años",
+      "anteriores",
+      ",",
+      "reactivaron",
+      "debates",
+      "impacto",
+      "ambiental",
+      "social",
+      "proyectos",
+      "mineros",
+      ",",
+      "mina",
+      "cobre",
+      "donoso",
+      ".",
+      "paralelo",
+      ",",
+      "abogados",
+      "colectivos",
+      "presentaron",
+      "demanda",
+      "inconstitucionalidad",
+      "parcial",
+      "corte",
+      "suprema",
+      "justicia",
+      ".",
+      "recurso",
+      "busca",
+      "invalidar",
+      "numeral",
+      "11",
+      "artículo",
+      "48",
+      "ley",
+      ",",
+      "impone",
+      "descuento",
+      "6.75",
+      "%",
+      "pensiones",
+      "jubilados",
+      ".",
+      "según",
+      "demandantes",
+      ",",
+      "disposición",
+      "viola",
+      "normas",
+      "internacionales",
+      "ratificadas",
+      "panamá",
+      ".",
+      "presidente",
+      "mulino",
+      "defendió",
+      "conferencia",
+      "prensa",
+      "derecho",
+      "manifestarse",
+      "parte",
+      "sistema",
+      "democrático",
+      ",",
+      "advirtió",
+      "garantizará",
+      "libre",
+      "tránsito",
+      "calles",
+      ".",
+      "mientras",
+      ",",
+      "líderes",
+      "sindicales",
+      "preparan",
+      "acciones",
+      ",",
+      "incluida",
+      "posible",
+      "huelga",
+      "nacional",
+      "indefinida",
+      ",",
+      "presionar",
+      "cambios",
+      "legislativos",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 54,
+      "NN": 99,
+      "FW": 50,
+      "CD": 6,
+      "NNS": 17,
+      "VBP": 11,
+      "JJ": 33,
+      "VBZ": 5,
+      "VBD": 1,
+      "IN": 12,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-NN": 58,
+      "NN-NNP": 9,
+      "NNP-NNP": 24,
+      "NN-FW": 6,
+      "FW-NNP": 13,
+      "NNP-CD": 2,
+      "CD-FW": 1,
+      "FW-FW": 25,
+      "NNP-FW": 8,
+      "NN-NNS": 8,
+      "NNS-VBP": 10,
+      "VBP-JJ": 7,
+      "JJ-NN": 16,
+      "JJ-NNP": 3,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 3,
+      "FW-NN": 7,
+      "NN-JJ": 7,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "FW-NNS": 1,
+      "NNS-NNP": 3,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "FW-JJ": 3,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-JJ": 6,
+      "VBZ-JJ": 4,
+      "VBP-IN": 1,
+      "IN-NN": 2,
+      "NNP-IN": 2,
+      "IN-NNP": 1,
+      "NN-VBZ": 2,
+      "JJ-CD": 1,
+      "CD-NN": 1,
+      "NN-CD": 2,
+      "CD-IN": 1,
+      "CD-JJ": 1,
+      "JJ-NNS": 4,
+      "NNS-IN": 1,
+      "IN-JJ": 2,
+      "NNS-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 10,
+      "NN-NN-NN": 35,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NN": 9,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 9,
+      "NN-NNP-CD": 2,
+      "NNP-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-FW": 17,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 6,
+      "NNP-NNP-NNP": 8,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 8,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-NN-NNS": 3,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-FW": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-NN-IN": 2,
+      "IN-FW-JJ": 2,
+      "JJ-NN-JJ": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-CD": 2,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 99,
+        "NNP": 54,
+        "FW": 50,
+        "JJ": 33,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 25,
+        "NNP-NNP": 24,
+        "JJ-NN": 16,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 17,
+        "NNP-NN-NN": 10,
+        "NNP-NNP-NN": 9,
+        "FW-NNP-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 82,
+      "VP": 18,
+      "ADJP": 2,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('Caja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Panamá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP (',', ',') NP VP (',', ',') NP ('462', 'CD') ('de', 'FW') ('reformas', 'FW') ('a', 'DT') ('la', 'FW') NP ('de', 'FW') NP (',', ',') VP ('promulgada', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('caminata', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('partirá', 'NN') ('desde', 'NN') ('el', 'NN') ('parque', 'NN') ('Belisario', 'NNP') ('Porras', 'NNP') ('y', 'NNP') ('culminará', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('frente', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('Asamblea', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('busca', 'NN') ('rechazar', 'NN') ('la', 'NN') ('Ley', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La caminata"
+      },
+      {
+        "label": "NP",
+        "text": "que partirá desde el parque Belisario Porras y culminará"
+      },
+      {
+        "label": "VP",
+        "text": "frente a la Asamblea Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "a la Asamblea Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "busca rechazar la Ley"
+      },
+      {
+        "label": "NP",
+        "text": "Caja"
+      },
+      {
+        "label": "NP",
+        "text": "Seguro Social"
+      },
+      {
+        "label": "VP",
+        "text": "recientemente"
+      },
+      {
+        "label": "NP",
+        "text": "por el presidente José Raúl Mulino"
+      },
+      {
+        "label": "NP",
+        "text": "Según los manifestantes"
+      },
+      {
+        "label": "ADJP",
+        "text": "esta"
+      },
+      {
+        "label": "NP",
+        "text": "perjudica"
+      },
+      {
+        "label": "VP",
+        "text": "gravemente a los"
+      },
+      {
+        "label": "NP",
+        "text": "a los"
+      },
+      {
+        "label": "VP",
+        "text": "trabajadores y sus familias"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP caminata/NN)\n  ,/,\n  (NP\n    que/JJ\n    partirá/NN\n    desde/NN\n    el/NN\n    parque/NN\n    Belisario/NNP\n    Porras/NNP\n    y/NNP\n    culminará/NN)\n  (VP frente/VBD (NP a/DT la/NN Asamblea/NNP Nacional/NNP))\n  ,/,\n  (NP busca/NN rechazar/NN la/NN Ley/NNP)\n  462/CD\n  de/FW\n  reformas/FW\n  a/DT\n  la/FW\n  (NP Caja/NNP)\n  de/FW\n  (NP Seguro/NNP Social/NNP)\n  ,/,\n  (VP recientemente/VBZ)\n  promulgada/FW\n  (NP por/NN el/NN presidente/NN José/NNP Raúl/NNP Mulino/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP los/NN manifestantes/NNS)\n  ,/,\n  (ADJP esta/JJ)\n  normativa/FW\n  (NP perjudica/NN)\n  (VP gravemente/VBP (NP a/DT los/NN))\n  (VP trabajadores/VBZ (NP y/JJ sus/NN familias/NN))\n  ./.)",
+      "(S\n  (NP LEER/NNP TAMBIÉN/NNP Reprimen/NNP)\n  (NP a/DT trabajadores/NNS)\n  (PP de/IN (NP Panamá/NNP))\n  en/FW\n  protestas/FW\n  (ADJP contra/JJ)\n  reformas/FW\n  a/DT\n  la/FW\n  (NP Caja/NNP)\n  de/FW\n  (NP Seguro/NNP Social/NNP El/NNP)\n  (VP secretario/VBD general/JJ)\n  de/FW\n  la/FW\n  (NP Confederación/NNP Nacional/NNP)\n  de/FW\n  (NP Unidad/NNP Sindical/NNP Independiente/NNP)\n  (/(\n  (NP Conusi/NNP)\n  )/)\n  ,/,\n  (NP Marco/NNP Andrade/NNP)\n  ,/,\n  (NP denunció/NN que/NN la/NN)\n  ley/FW\n  (NP fue/NN aprobada/NN sin/NN considerar/NN)\n  (NP las/JJ propuestas/NN)\n  de/IN\n  los/FW\n  (NP gremios/NNS)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP las/VBZ (NP críticas/NN principales/NNS))\n  ,/,\n  (NP destaca/NN el/NN modelo/NN)\n  (PP de/IN (NP cuentas/NNS individuales/NNS))\n  (VP que/VBP establece/RB la/JJ)\n  normativa/FW\n  ,/,\n  (NP\n    considerándose/JJ\n    obsoleto/NN\n    y/NN\n    contrario/NN\n    al/NN\n    sistema/NN\n    solidario/NN)\n  ./.)",
+      "(S\n  (NP Estudios/NNP de/NNP)\n  la/FW\n  (NP Organización/NNP Internacional/NNP)\n  del/FW\n  (NP Trabajo/NNP)\n  (/(\n  (NP OIT/NNP)\n  )/)\n  (NP señalan/NN)\n  (NP que/JJ este/NN modelo/NN fracasó/NN)\n  en/FW\n  más/FW\n  de/FW\n  30/CD\n  (NP países/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "ACCIONES_LEGALES",
+      "LEYES_NORMATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que la ley fue aprobada sin considerar las propuestas de los gremios. entre las críticas principales, destaca el modelo de cuentas individuales que establece la normativa, considerándose obsoleto y contrario al",
+        "position": [
+          536,
+          755
+        ],
+        "start": 536,
+        "end": 755
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          1688,
+          1696
+        ],
+        "start": 1688,
+        "end": 1696
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "costo de vida",
+        "position": [
+          1006,
+          1019
+        ],
+        "start": 1006,
+        "end": 1019
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          821,
+          828
+        ],
+        "start": 821,
+        "end": 828
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "rechazo a la ley 462, las protestas incluirán demandas contra la minería metálica a cielo abierto, el alto costo de vida y la construcción de un embalse en el río indio para abastecer al canal de panamá. estas acciones",
+        "position": [
+          899,
+          1117
+        ],
+        "start": 899,
+        "end": 1117
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          1700,
+          1721
+        ],
+        "start": 1700,
+        "end": 1721
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1789,
+          1797
+        ],
+        "start": 1789,
+        "end": 1797
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente josé raúl",
+        "position": [
+          199,
+          219
+        ],
+        "start": 199,
+        "end": 219
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          82,
+          99
+        ],
+        "start": 82,
+        "end": 99
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "suprema de justicia",
+        "position": [
+          1421,
+          1440
+        ],
+        "start": 1421,
+        "end": 1440
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oit",
+        "position": [
+          830,
+          833
+        ],
+        "start": 830,
+        "end": 833
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de panamá",
+        "position": [
+          1086,
+          1101
+        ],
+        "start": 1086,
+        "end": 1101
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          536,
+          544
+        ],
+        "start": 536,
+        "end": 544
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "ley 462",
+        "position": [
+          119,
+          126
+        ],
+        "start": 119,
+        "end": 126
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "normativa",
+        "position": [
+          258,
+          267
+        ],
+        "start": 258,
+        "end": 267
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          1058,
+          1061
+        ],
+        "start": 1058,
+        "end": 1061
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "panamá",
+        "position": [
+          364,
+          370
+        ],
+        "start": 364,
+        "end": 370
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque belisario",
+        "position": [
+          34,
+          50
+        ],
+        "start": 34,
+        "end": 50
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          167,
+          180
+        ],
+        "start": 167,
+        "end": 180
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 30",
+        "position": [
+          870,
+          879
+        ],
+        "start": 870,
+        "end": 879
+      }
+    ],
+    "match_count": 20
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Caja de Seguro Social\nEl secretario general de la",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Marco Andrade",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "río Indio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Conusi",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Donoso",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte Suprema de Justicia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OIT",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "la Ley",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Confederación Nacional de Unidad Sindical Independiente",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Asamblea Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mulino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caja de Seguro Social",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Belisario Porras",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estudios de la Organización Internacional del Trabajo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Canal de Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "José Raúl Mulino",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Belisario Porras",
+        "relacion": "PARTIR_BUSCAR",
+        "objeto": "Asamblea Nacional"
+      },
+      {
+        "sujeto": "Belisario Porras",
+        "relacion": "PARTIR_BUSCAR",
+        "objeto": "la Ley"
+      },
+      {
+        "sujeto": "Belisario Porras",
+        "relacion": "PARTIR_BUSCAR",
+        "objeto": "Caja de Seguro Social"
+      },
+      {
+        "sujeto": "Belisario Porras",
+        "relacion": "PARTIR_BUSCAR",
+        "objeto": "José Raúl Mulino"
+      },
+      {
+        "sujeto": "Asamblea Nacional",
+        "relacion": "CULMINAR_PARTIR_BUSCAR",
+        "objeto": "la Ley"
+      },
+      {
+        "sujeto": "Asamblea Nacional",
+        "relacion": "CULMINAR_PARTIR_BUSCAR",
+        "objeto": "Caja de Seguro Social"
+      },
+      {
+        "sujeto": "Asamblea Nacional",
+        "relacion": "CULMINAR_PARTIR_BUSCAR",
+        "objeto": "José Raúl Mulino"
+      },
+      {
+        "sujeto": "la Ley",
+        "relacion": "RECHAZAR_BUSCAR",
+        "objeto": "Caja de Seguro Social"
+      },
+      {
+        "sujeto": "la Ley",
+        "relacion": "RECHAZAR_BUSCAR",
+        "objeto": "José Raúl Mulino"
+      },
+      {
+        "sujeto": "Caja de Seguro Social",
+        "relacion": "RECHAZAR_BUSCAR",
+        "objeto": "José Raúl Mulino"
+      },
+      {
+        "sujeto": "Caja de Seguro Social\nEl secretario general de la",
+        "relacion": "ES",
+        "objeto": "Marco Andrade"
+      },
+      {
+        "sujeto": "la Ley",
+        "relacion": "INCLUIR",
+        "objeto": "río Indio"
+      },
+      {
+        "sujeto": "la Ley",
+        "relacion": "INCLUIR",
+        "objeto": "Canal de Panamá"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.988,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "url": "https://www.telesurtv.net/sheinbaum-mexico-medicos-cubanos/",
+  "title": "Sheinbaum confirmó continuidad de convenio para recibir a médicos cubanos en México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Claudia Sheinbaum",
+    "convenio",
+    "Cuba",
+    "diabetes",
+    "médicos cubanos",
+    "México",
+    "salud publica"
+  ],
+  "text": "La presidenta de México, Claudia Sheinbaum, anunció este lunes ocho de septiembre que su Gobierno continuará con el convenio de colaboración con Cuba para que profesionales de la salud de la isla presten servicio en el sistema de salud pública mexicano.\n\n\nDurante su conferencia de prensa matutina, Sheinbaum aseguró que el programa “tiene todo en regla” y es un convenio establecido que se mantendrá. La mandataria defendió la necesidad de esta colaboración, explicando que en México existe una carencia de médicos especialistas, una situación que, según ella, es consecuencia de decisiones de Gobiernos anteriores.\n“No se sustituye a ningún médico mexicano, a ninguno”, afirmó Sheinbaum, “el problema es que México dejó de graduar médicos especialistas durante demasiados años”.\n\n\n\nLa presidenta mexicana también adelantó que su Administración impulsará junto a Cuba, un programa médico para atender el pie diabético, una de las principales causas de amputación en México. Sheinbaum destacó que Cuba cuenta con un medicamento y un esquema de atención que demuestra resultados exitosos en el tratamiento de esta afección.\n“En particular en este tema vamos a tener mayor colaboración con Cuba porque es el único país que tiene este medicamento y que tiene muchísimos resultados”, señaló.\n\n\n\n\nSheinbaum también refirió que Cuba es uno de los pocos países dispuestos a enviar médicos a las zonas más apartadas de México, donde se necesita atención médica urgente. En este sentido, la mandataria reafirmó que el objetivo de su Gobierno es garantizar la atención a todos los ciudadanos, especialmente a los más vulnerables.\nSegún datos oficiales, en julio de 2024 llegaron a México 2.700 médicos cubanos como parte de este acuerdo. De acuerdo con la mandataria mexicana, el número de residentes médicos en México aumentó considerablemente en los últimos años.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/sheinbaum-mexico-medicos-cubanos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 542,
+    "message_id": 104102,
+    "date": "2025-09-08T18:55:13+00:00",
+    "text": "teleSUR\nSheinbaum confirmó continuidad de convenio para recibir a médicos cubanos en México\nhttps://www.telesurtv.net/sheinbaum-mexico-medicos-cubanos/",
+    "photo_path": null,
+    "views": 1647,
+    "reactions": {
+      "👍": 42,
+      "❤": 11,
+      "👏": 2
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de méxico, claudia sheinbaum, anunció este lunes ocho de septiembre que su gobierno continuará con el convenio de colaboración con cuba para que profesionales de la salud de la isla presten servicio en el sistema de salud pública mexicano. durante su conferencia de prensa matutina, sheinbaum aseguró que el programa “tiene todo en regla” y es un convenio establecido que se mantendrá. la mandataria defendió la necesidad de esta colaboración, explicando que en méxico existe una carencia de médicos especialistas, una situación que, según ella, es consecuencia de decisiones de gobiernos anteriores. “no se sustituye a ningún médico mexicano, a ninguno”, afirmó sheinbaum, “el problema es que méxico dejó de graduar médicos especialistas durante demasiados años”. la presidenta mexicana también adelantó que su administración impulsará junto a cuba, un programa médico para atender el pie diabético, una de las principales causas de amputación en méxico. sheinbaum destacó que cuba cuenta con un medicamento y un esquema de atención que demuestra resultados exitosos en el tratamiento de esta afección. “en particular en este tema vamos a tener mayor colaboración con cuba porque es el único país que tiene este medicamento y que tiene muchísimos resultados”, señaló. sheinbaum también refirió que cuba es uno de los pocos países dispuestos a enviar médicos a las zonas más apartadas de méxico, donde se necesita atención médica urgente. en este sentido, la mandataria reafirmó que el objetivo de su gobierno es garantizar la atención a todos los ciudadanos, especialmente a los más vulnerables. según datos oficiales, en julio de 2024 llegaron a méxico 2.700 médicos cubanos como parte de este acuerdo. de acuerdo con la mandataria mexicana, el número de residentes médicos en méxico aumentó considerablemente en los últimos años.",
+    "tokens": [
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "anunció",
+      "lunes",
+      "ocho",
+      "septiembre",
+      "gobierno",
+      "continuará",
+      "convenio",
+      "colaboración",
+      "cuba",
+      "profesionales",
+      "salud",
+      "isla",
+      "presten",
+      "servicio",
+      "sistema",
+      "salud",
+      "pública",
+      "mexicano",
+      ".",
+      "conferencia",
+      "prensa",
+      "matutina",
+      ",",
+      "sheinbaum",
+      "aseguró",
+      "programa",
+      "“",
+      "regla",
+      "”",
+      "convenio",
+      "establecido",
+      "mantendrá",
+      ".",
+      "mandataria",
+      "defendió",
+      "necesidad",
+      "colaboración",
+      ",",
+      "explicando",
+      "méxico",
+      "existe",
+      "carencia",
+      "médicos",
+      "especialistas",
+      ",",
+      "situación",
+      ",",
+      "según",
+      ",",
+      "consecuencia",
+      "decisiones",
+      "gobiernos",
+      "anteriores",
+      ".",
+      "“",
+      "sustituye",
+      "ningún",
+      "médico",
+      "mexicano",
+      ",",
+      "ninguno",
+      "”",
+      ",",
+      "afirmó",
+      "sheinbaum",
+      ",",
+      "“",
+      "problema",
+      "méxico",
+      "dejó",
+      "graduar",
+      "médicos",
+      "especialistas",
+      "demasiados",
+      "años",
+      "”",
+      ".",
+      "presidenta",
+      "mexicana",
+      "adelantó",
+      "administración",
+      "impulsará",
+      "junto",
+      "cuba",
+      ",",
+      "programa",
+      "médico",
+      "atender",
+      "pie",
+      "diabético",
+      ",",
+      "principales",
+      "causas",
+      "amputación",
+      "méxico",
+      ".",
+      "sheinbaum",
+      "destacó",
+      "cuba",
+      "cuenta",
+      "medicamento",
+      "esquema",
+      "atención",
+      "demuestra",
+      "resultados",
+      "exitosos",
+      "tratamiento",
+      "afección",
+      ".",
+      "“",
+      "particular",
+      "tema",
+      "vamos",
+      "tener",
+      "mayor",
+      "colaboración",
+      "cuba",
+      "único",
+      "país",
+      "medicamento",
+      "muchísimos",
+      "resultados",
+      "”",
+      ",",
+      "señaló",
+      ".",
+      "sheinbaum",
+      "refirió",
+      "cuba",
+      "pocos",
+      "países",
+      "dispuestos",
+      "enviar",
+      "médicos",
+      "zonas",
+      "apartadas",
+      "méxico",
+      ",",
+      "necesita",
+      "atención",
+      "médica",
+      "urgente",
+      ".",
+      ",",
+      "mandataria",
+      "reafirmó",
+      "objetivo",
+      "gobierno",
+      "garantizar",
+      "atención",
+      "ciudadanos",
+      ",",
+      "especialmente",
+      "vulnerables",
+      ".",
+      "según",
+      "datos",
+      "oficiales",
+      ",",
+      "julio",
+      "2024",
+      "llegaron",
+      "méxico",
+      "2.700",
+      "médicos",
+      "cubanos",
+      "parte",
+      "acuerdo",
+      ".",
+      "acuerdo",
+      "mandataria",
+      "mexicana",
+      ",",
+      "número",
+      "residentes",
+      "médicos",
+      "méxico",
+      "aumentó",
+      "considerablemente",
+      "últimos",
+      "años",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "FW": 84,
+      "VBZ": 4,
+      "NN": 106,
+      "NNS": 8,
+      "IN": 13,
+      "VBP": 6,
+      "JJ": 18,
+      "DT": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-FW": 6,
+      "FW-FW": 53,
+      "FW-NNP": 12,
+      "NNP-NNP": 4,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 2,
+      "NN-NNS": 4,
+      "NNS-FW": 1,
+      "FW-NN": 14,
+      "NN-NN": 56,
+      "NN-NNP": 13,
+      "NNP-NN": 17,
+      "NN-FW": 11,
+      "NN-IN": 12,
+      "IN-FW": 10,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "IN-NN": 1,
+      "NN-JJ": 7,
+      "JJ-NN": 12,
+      "FW-NNS": 3,
+      "NNS-JJ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NNP-JJ": 2,
+      "NNS-VBP": 5,
+      "VBP-IN": 1,
+      "FW-JJ": 2,
+      "JJ-JJ": 1,
+      "JJ-FW": 2,
+      "JJ-NNS": 1,
+      "VBP-JJ": 3,
+      "JJ-NNP": 2,
+      "NNS-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-CD": 1,
+      "CD-NN": 2,
+      "NNP-CD": 1,
+      "IN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 11,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 38,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 9,
+      "NN-NNP-NN": 9,
+      "NNP-NN-NN": 13,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "NN-IN-FW": 9,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 2,
+      "NN-FW-FW": 7,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NN": 5,
+      "IN-FW-FW": 5,
+      "FW-NNP-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 31,
+      "NN-NN-IN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 5,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "FW-NN-FW": 5,
+      "NN-FW-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-NNS": 2,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-NN-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "JJ-NN-JJ": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "FW-FW-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 106,
+        "FW": 84,
+        "NNP": 33,
+        "JJ": 18,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 53,
+        "NNP-NN": 17,
+        "FW-NN": 14,
+        "NN-NNP": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 38,
+        "NN-NN-NN": 31,
+        "NNP-NN-NN": 13,
+        "FW-FW-NNP": 11,
+        "NN-NN-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 10,
+      "PP": 4,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP ('ocho', 'FW') ('de', 'FW') ('septiembre', 'FW') NP ('el', 'FW') NP ('de', 'IN') ('colaboración', 'FW') NP ('profesionales', 'FW') ('de', 'FW') ('la', 'FW') ('salud', 'FW') ('de', 'FW') ('la', 'FW') ('isla', 'FW') ('presten', 'FW') ('servicio', 'FW') ('en', 'FW') ('el', 'FW') ('sistema', 'FW') ('de', 'FW') ('salud', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('anunció', 'JJ') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('que', 'NN') ('su', 'NN') ('Gobierno', 'NNP') ('continuará', 'NN') ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('convenio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('con', 'NN') ('Cuba', 'NNP') ('para', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('pública', 'NN') ('mexicano', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "anunció este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "que su Gobierno continuará con"
+      },
+      {
+        "label": "NP",
+        "text": "convenio"
+      },
+      {
+        "label": "NP",
+        "text": "con Cuba para que"
+      },
+      {
+        "label": "NP",
+        "text": "pública mexicano"
+      },
+      {
+        "label": "NP",
+        "text": "Durante"
+      },
+      {
+        "label": "VP",
+        "text": "su conferencia"
+      },
+      {
+        "label": "NP",
+        "text": "conferencia"
+      },
+      {
+        "label": "NP",
+        "text": "matutina"
+      },
+      {
+        "label": "NP",
+        "text": "Sheinbaum"
+      },
+      {
+        "label": "VP",
+        "text": "aseguró que el programa “ tiene todo"
+      },
+      {
+        "label": "NP",
+        "text": "que el programa “ tiene todo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP anunció/JJ este/NN lunes/NNS)\n  ocho/FW\n  de/FW\n  septiembre/FW\n  (NP que/NN su/NN Gobierno/NNP continuará/NN con/NN)\n  el/FW\n  (NP convenio/NN)\n  de/IN\n  colaboración/FW\n  (NP con/NN Cuba/NNP para/NN que/NN)\n  profesionales/FW\n  de/FW\n  la/FW\n  salud/FW\n  de/FW\n  la/FW\n  isla/FW\n  presten/FW\n  servicio/FW\n  en/FW\n  el/FW\n  sistema/FW\n  de/FW\n  salud/FW\n  (NP pública/NN mexicano/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  (VP su/VBD (NP conferencia/NN))\n  de/IN\n  prensa/FW\n  (NP matutina/NN)\n  ,/,\n  (NP Sheinbaum/NNP)\n  (VP\n    aseguró/VBZ\n    (NP que/JJ el/JJ programa/NN “/NNP tiene/NN todo/NN))\n  (PP en/IN (NP regla/NN ”/NNP y/NNP))\n  (VP\n    es/VBZ\n    (NP un/JJ convenio/NN establecido/NN que/NN se/NN mantendrá/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  mandataria/FW\n  (NP defendió/NN)\n  la/FW\n  necesidad/FW\n  de/FW\n  esta/FW\n  (NP colaboración/NN)\n  ,/,\n  (NP explicando/JJ que/NN)\n  (PP en/IN (NP México/NNP existe/NN))\n  (NP una/JJ carencia/NN)\n  de/IN\n  médicos/FW\n  (NP especialistas/NNS)\n  ,/,\n  (NP una/JJ situación/NN que/NN)\n  ,/,\n  (NP según/JJ ella/NN)\n  ,/,\n  (NP es/JJ consecuencia/NN)\n  de/IN\n  decisiones/FW\n  de/FW\n  (NP Gobiernos/NNP anteriores/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ No/NNP se/NN)\n  (VP sustituye/VBD (NP a/DT ningún/JJ médico/NN mexicano/NN))\n  ,/,\n  (NP a/DT ninguno/JJ ”/NN)\n  ,/,\n  (NP afirmó/NN Sheinbaum/NNP)\n  ,/,\n  (NP “/NNP)\n  (VP el/VBZ (NP problema/NN es/NN que/NN México/NNP dejó/NN))\n  de/IN\n  graduar/FW\n  médicos/FW\n  especialistas/FW\n  durante/FW\n  demasiados/FW\n  (NP años/NN ”/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  (NP\n    mexicana/NN\n    también/NN\n    adelantó/NN\n    que/NN\n    su/NN\n    Administración/NNP\n    impulsará/NN\n    junto/NN)\n  (NP a/DT Cuba/NNP)\n  ,/,\n  (NP\n    un/JJ\n    programa/NN\n    médico/NN\n    para/NN\n    atender/NN\n    el/NN\n    pie/NN\n    diabético/NN)\n  ,/,\n  (ADJP una/JJ)\n  de/FW\n  las/FW\n  (NP principales/NNS)\n  (VP causas/VBP)\n  de/IN\n  amputación/FW\n  en/FW\n  (NP México/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "APROBACION_RECHAZO",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          416,
+          424
+        ],
+        "start": 416,
+        "end": 424
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          267,
+          288
+        ],
+        "start": 267,
+        "end": 288
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          672,
+          678
+        ],
+        "start": 672,
+        "end": 678
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          44,
+          51
+        ],
+        "start": 44,
+        "end": 51
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          985,
+          992
+        ],
+        "start": 985,
+        "end": 992
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          1493,
+          1501
+        ],
+        "start": 1493,
+        "end": 1501
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          145,
+          149
+        ],
+        "start": 145,
+        "end": 149
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Administración",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno",
+        "relacion": "ANUNCIAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ANUNCIAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "ANUNCIAR",
+        "objeto": "Claudia Sheinbaum"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "ANUNCIAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "CONTINUAR_ANUNCIAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "AFIRMAR_SER",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Administración",
+        "relacion": "IMPULSAR_ADELANTAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Administración",
+        "relacion": "IMPULSAR_ADELANTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "DESTACAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "REFERIR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Sheinbaum",
+        "relacion": "REFERIR",
+        "objeto": "México"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

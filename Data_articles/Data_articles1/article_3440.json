@@ -1,0 +1,601 @@
+{
+  "url": "https://www.telesurtv.net/rusia-fuerzas-armadas-liberan-lugansk/",
+  "title": "Rusia: Fuerzas Armadas liberan el 99% de Lugansk y otros territorios - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Donetsk y Lugansk",
+    "Ejército",
+    "liberación de territorios",
+    "Lugansk",
+    "Rusia"
+  ],
+  "text": "El presidente de Rusia, Vladimir Putin informó este jueves que las Fuerzas Armadas de ese país lograron liberar el 99 por ciento del territorio de la República de Lugansk.\nAdicionalmente, el mandatario aseguró que, más del 70 por ciento del territorio perteneciente a la República de Donetsk también fue liberado de la presencia de tropas ucranianas.\nA ello se suma, según el dignatario, las provincias de Jersón y Zaporozhie.\n\nLas declaraciones del dignatario sucedieron durante una reunión con marineros en la ciudad rusa de Múrmansk.\nEn ese contexto, Putin indicó que las Fuerzas Armadas del país “actúan cada vez con mayor eficacia en la zona de la operación militar en Ucrania”.\n“Nuestras tropas, nuestros hombres, avanzan y liberan un territorio tras otro, un asentamiento tras otro cada día”, subrayó.\nSiguiendo esa línea, resaltó que el país eslavo “avanza de forma gradual, pero persistente y segura, hacia el logro de todos los objetivos de la operación militar rusa”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/rusia-fuerzas-armadas-liberan-lugansk/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 241,
+    "message_id": 90444,
+    "date": "2025-03-28T02:55:13+00:00",
+    "text": "teleSUR\nRusia: Fuerzas Armadas liberan el 99% de Lugansk y otros territorios\nhttps://www.telesurtv.net/rusia-fuerzas-armadas-liberan-lugansk/",
+    "photo_path": null,
+    "views": 1860,
+    "reactions": {
+      "👍": 50,
+      "👏": 11,
+      "🫡": 2
+    },
+    "total_reactions": 63
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de rusia, vladimir putin informó este jueves que las fuerzas armadas de ese país lograron liberar el 99 por ciento del territorio de la república de lugansk. adicionalmente, el mandatario aseguró que, más del 70 por ciento del territorio perteneciente a la república de donetsk también fue liberado de la presencia de tropas ucranianas. a ello se suma, según el dignatario, las provincias de jersón y zaporozhie. las declaraciones del dignatario sucedieron durante una reunión con marineros en la ciudad rusa de múrmansk. en ese contexto, putin indicó que las fuerzas armadas del país “actúan cada vez con mayor eficacia en la zona de la operación militar en ucrania”. “nuestras tropas, nuestros hombres, avanzan y liberan un territorio tras otro, un asentamiento tras otro cada día”, subrayó. siguiendo esa línea, resaltó que el país eslavo “avanza de forma gradual, pero persistente y segura, hacia el logro de todos los objetivos de la operación militar rusa”.",
+    "tokens": [
+      "presidente",
+      "rusia",
+      ",",
+      "vladimir",
+      "putin",
+      "informó",
+      "jueves",
+      "fuerzas",
+      "armadas",
+      "país",
+      "lograron",
+      "liberar",
+      "99",
+      "ciento",
+      "territorio",
+      "república",
+      "lugansk",
+      ".",
+      "adicionalmente",
+      ",",
+      "mandatario",
+      "aseguró",
+      ",",
+      "70",
+      "ciento",
+      "territorio",
+      "perteneciente",
+      "república",
+      "donetsk",
+      "liberado",
+      "presencia",
+      "tropas",
+      "ucranianas",
+      ".",
+      "ello",
+      "suma",
+      ",",
+      "según",
+      "dignatario",
+      ",",
+      "provincias",
+      "jersón",
+      "zaporozhie",
+      ".",
+      "declaraciones",
+      "dignatario",
+      "sucedieron",
+      "reunión",
+      "marineros",
+      "ciudad",
+      "rusa",
+      "múrmansk",
+      ".",
+      "contexto",
+      ",",
+      "putin",
+      "indicó",
+      "fuerzas",
+      "armadas",
+      "país",
+      "“",
+      "actúan",
+      "cada",
+      "vez",
+      "mayor",
+      "eficacia",
+      "zona",
+      "operación",
+      "militar",
+      "ucrania",
+      "”",
+      ".",
+      "“",
+      "tropas",
+      ",",
+      "hombres",
+      ",",
+      "avanzan",
+      "liberan",
+      "territorio",
+      "tras",
+      ",",
+      "asentamiento",
+      "tras",
+      "cada",
+      "día",
+      "”",
+      ",",
+      "subrayó",
+      ".",
+      "siguiendo",
+      "línea",
+      ",",
+      "resaltó",
+      "país",
+      "eslavo",
+      "“",
+      "avanza",
+      "forma",
+      "gradual",
+      ",",
+      "persistente",
+      "segura",
+      ",",
+      "hacia",
+      "logro",
+      "objetivos",
+      "operación",
+      "militar",
+      "rusa",
+      "”",
+      "."
+    ],
+    "token_count": 112,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "NN": 55,
+      "FW": 36,
+      "JJ": 13,
+      "NNS": 5,
+      "VBP": 4,
+      "IN": 9,
+      "$": 1,
+      "CD": 2,
+      "VBD": 1,
+      "RB": 1,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 4,
+      "NN-FW": 4,
+      "FW-NNP": 7,
+      "NNP-NNP": 9,
+      "NNP-JJ": 2,
+      "JJ-NN": 6,
+      "NN-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-NNP": 1,
+      "NNP-IN": 1,
+      "IN-JJ": 2,
+      "JJ-NNS": 1,
+      "JJ-$": 1,
+      "$-CD": 1,
+      "CD-NN": 2,
+      "NN-NN": 34,
+      "NN-IN": 6,
+      "IN-FW": 5,
+      "NNP-FW": 4,
+      "FW-NN": 7,
+      "NN-VBD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "FW-FW": 19,
+      "FW-JJ": 3,
+      "JJ-FW": 3,
+      "VBP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "NN-JJ": 2,
+      "NN-NNP": 2,
+      "NNS-NNP": 1,
+      "IN-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-IN": 1,
+      "VBZ-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-$": 1,
+      "JJ-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NN": 20,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-VBD": 1,
+      "NN-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "NN-NN-FW": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-FW-FW": 1,
+      "FW-FW-FW": 14,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NN-FW": 1,
+      "NNP-NNP-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "VBP-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 55,
+        "FW": 36,
+        "NNP": 22,
+        "JJ": 13,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 19,
+        "NNP-NNP": 9,
+        "FW-NNP": 7,
+        "FW-NN": 7
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 20,
+        "FW-FW-FW": 14,
+        "NN-IN-FW": 5,
+        "FW-NNP-NNP": 4,
+        "NN-NN-IN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 41,
+      "VP": 5,
+      "PP": 2,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0328
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN') ('del', 'NN') ('territorio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0328
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP NP VP PP VP ('el', '$') ('99', 'CD') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Vladimir', 'NNP') ('Putin', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('informó', 'JJ') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('ese', 'JJ') ('país', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0164
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "Vladimir Putin"
+      },
+      {
+        "label": "NP",
+        "text": "informó este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "que las Fuerzas Armadas"
+      },
+      {
+        "label": "NP",
+        "text": "las Fuerzas Armadas"
+      },
+      {
+        "label": "PP",
+        "text": "de ese país"
+      },
+      {
+        "label": "NP",
+        "text": "ese país"
+      },
+      {
+        "label": "VP",
+        "text": "lograron liberar"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento del territorio"
+      },
+      {
+        "label": "NP",
+        "text": "República"
+      },
+      {
+        "label": "NP",
+        "text": "Lugansk"
+      },
+      {
+        "label": "NP",
+        "text": "Adicionalmente"
+      },
+      {
+        "label": "VP",
+        "text": "el mandatario aseguró que"
+      },
+      {
+        "label": "NP",
+        "text": "mandatario aseguró que"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP Vladimir/NNP Putin/NNP)\n  (NP informó/JJ este/NN jueves/NNS)\n  (VP que/VBP (NP las/JJ Fuerzas/NNP Armadas/NNP))\n  (PP de/IN (NP ese/JJ país/NNS))\n  (VP lograron/VBP liberar/JJ)\n  el/$\n  99/CD\n  (NP por/NN ciento/NN del/NN territorio/NN)\n  de/IN\n  la/FW\n  (NP República/NNP)\n  de/FW\n  (NP Lugansk/NNP)\n  ./.)",
+      "(S\n  (NP Adicionalmente/NNP)\n  ,/,\n  (VP el/VBZ (NP mandatario/NN aseguró/NN que/NN))\n  ,/,\n  (ADJP más/JJ)\n  del/FW\n  70/CD\n  (NP por/NN ciento/NN del/NN territorio/NN)\n  (VP perteneciente/VBZ (NP a/DT la/NN República/NNP))\n  (PP de/IN (NP Donetsk/NNP también/NN fue/NN))\n  liberado/FW\n  de/FW\n  la/FW\n  presencia/FW\n  de/FW\n  tropas/FW\n  (NP ucranianas/NNS)\n  ./.)",
+      "(S\n  (NP A/DT ello/JJ se/NN suma/NN)\n  ,/,\n  (NP según/JJ el/NN dignatario/NN)\n  ,/,\n  (ADJP las/JJ)\n  provincias/FW\n  de/FW\n  (NP Jersón/NNP)\n  y/CC\n  (NP Zaporozhie/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP declaraciones/NNS)\n  del/FW\n  (NP dignatario/NN sucedieron/NN durante/NN)\n  (NP una/JJ reunión/NN con/NN marineros/NN)\n  en/IN\n  la/FW\n  ciudad/FW\n  rusa/FW\n  de/FW\n  (NP Múrmansk/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ contexto/NN)\n  ,/,\n  (NP Putin/NNP indicó/NN que/NN las/NNS Fuerzas/NNP Armadas/NNP)\n  del/FW\n  (NP país/NN “/NNP)\n  (VP actúan/VBZ (NP cada/JJ vez/NN con/NN mayor/NN eficacia/NN))\n  en/IN\n  la/FW\n  zona/FW\n  de/FW\n  la/FW\n  operación/FW\n  (NP militar/NN)\n  en/FW\n  (NP Ucrania/NNP ”/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          39,
+          46
+        ],
+        "start": 39,
+        "end": 46
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de rusia",
+        "position": [
+          3,
+          22
+        ],
+        "start": 3,
+        "end": 22
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          800,
+          807
+        ],
+        "start": 800,
+        "end": 807
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          17,
+          22
+        ],
+        "start": 17,
+        "end": 22
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          642,
+          649
+        ],
+        "start": 642,
+        "end": 649
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República de Lugansk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Zaporozhie",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Múrmansk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas del país",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República de Donetsk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jersón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladimir Putin",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Vladimir Putin",
+        "relacion": "INFORMAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "INFORMAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "INFORMAR",
+        "objeto": "República de Lugansk"
+      },
+      {
+        "sujeto": "Vladimir Putin",
+        "relacion": "INFORMAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Vladimir Putin",
+        "relacion": "INFORMAR",
+        "objeto": "República de Lugansk"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "LOGRAR_INFORMAR",
+        "objeto": "República de Lugansk"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "INDICAR",
+        "objeto": "Fuerzas Armadas del país"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "INDICAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Fuerzas Armadas del país",
+        "relacion": "ACTUAR_INDICAR",
+        "objeto": "Ucrania"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

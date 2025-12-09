@@ -1,0 +1,699 @@
+{
+  "url": "https://www.telesurtv.net/comienza-nuevo-curso-escolar-en-cuba/",
+  "title": "Comienza nuevo curso escolar en Cuba - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ciclo escolar",
+    "Cuba",
+    "educación",
+    "fidel"
+  ],
+  "text": "Septiembre marca, como es tradición, el inicio de una nueva etapa educativa en Cuba, un momento que también sirve para rendir tributo al Comandante en Jefe Fidel Castro y a las múltiples conquistas alcanzadas por la Revolución a lo largo de su historia.\nEste año, la Escuela Pedagógica Tania la Guerrillera, ubicada en Pinar del Río y fundada por el líder histórico de la nación, fue seleccionada como sede del acto central que dio apertura al calendario escolar 2025-2026.\nDurante la ceremonia, se destacó la importancia de la capacitación integral del personal docente, la formación de profesionales altamente calificados y el fortalecimiento de habilidades digitales. Estos ejes forman parte del tercer proceso de perfeccionamiento del sistema educativo, una tarea que, según expresó Naima Trujillo Barreto, ministra de Educación, representa una lucha constante y comprometida por parte del magisterio cubano.\nEl presidente Miguel Díaz-Canel, quien realiza una gira por Asia, compartió a través de la red social X su visión sobre el significado de esta jornada, declarando a la misma como “es un día de alegrías y expectativas para la familia. Reabren nuestras aulas; se encuentran maestros y estudiantes en un universo primordial, y que es una de las más hermosas y vitales conquistas de la Revolución: la enseñanza”.\nPosteriormente, otros funcionarios se pronunciaron sobre el acontecimiento. El vicepresidente Salvador Valdés enfatizó el valor simbólico de este regreso a clases resaltando que “esta es la semilla del futuro de la Patria“, refiriéndose a los espacios de superación educacional.\nEste lunes, más de un millón quinientos treinta mil alumnos regresaron a las aulas en todos los niveles de enseñanza, reafirmando el compromiso del país caribeño con una educación pública, inclusiva y transformadora.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/comienza-nuevo-curso-escolar-en-cuba/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 1007,
+    "message_id": 103543,
+    "date": "2025-09-02T10:55:07+00:00",
+    "text": "teleSUR\nComienza nuevo curso escolar en Cuba\nhttps://www.telesurtv.net/comienza-nuevo-curso-escolar-en-cuba/",
+    "photo_path": null,
+    "views": 1851,
+    "reactions": {
+      "👍": 44,
+      "❤": 15,
+      "👏": 3
+    },
+    "total_reactions": 62
+  },
+  "preprocessing": {
+    "cleaned": "septiembre marca, como es tradición, el inicio de una nueva etapa educativa en cuba, un momento que también sirve para rendir tributo al comandante en jefe fidel castro y a las múltiples conquistas alcanzadas por la revolución a lo largo de su historia. este año, la escuela pedagógica tania la guerrillera, ubicada en pinar del río y fundada por el líder histórico de la nación, fue seleccionada como sede del acto central que dio apertura al calendario escolar 2025-2026. durante la ceremonia, se destacó la importancia de la capacitación integral del personal docente, la formación de profesionales altamente calificados y el fortalecimiento de habilidades digitales. estos ejes forman parte del tercer proceso de perfeccionamiento del sistema educativo, una tarea que, según expresó naima trujillo barreto, ministra de educación, representa una lucha constante y comprometida por parte del magisterio cubano. el presidente miguel díaz-canel, quien realiza una gira por asia, compartió a través de la red social x su visión sobre el significado de esta jornada, declarando a la misma como “es un día de alegrías y expectativas para la familia. reabren nuestras aulas; se encuentran maestros y estudiantes en un universo primordial, y que es una de las más hermosas y vitales conquistas de la revolución: la enseñanza”. posteriormente, otros funcionarios se pronunciaron sobre el acontecimiento. el vicepresidente salvador valdés enfatizó el valor simbólico de este regreso a clases resaltando que “esta es la semilla del futuro de la patria“, refiriéndose a los espacios de superación educacional. este lunes, más de un millón quinientos treinta mil alumnos regresaron a las aulas en todos los niveles de enseñanza, reafirmando el compromiso del país caribeño con una educación pública, inclusiva y transformadora.",
+    "tokens": [
+      "septiembre",
+      "marca",
+      ",",
+      "tradición",
+      ",",
+      "inicio",
+      "nueva",
+      "etapa",
+      "educativa",
+      "cuba",
+      ",",
+      "momento",
+      "sirve",
+      "rendir",
+      "tributo",
+      "comandante",
+      "jefe",
+      "fidel",
+      "castro",
+      "múltiples",
+      "conquistas",
+      "alcanzadas",
+      "revolución",
+      "largo",
+      "historia",
+      ".",
+      "año",
+      ",",
+      "escuela",
+      "pedagógica",
+      "tania",
+      "guerrillera",
+      ",",
+      "ubicada",
+      "pinar",
+      "río",
+      "fundada",
+      "líder",
+      "histórico",
+      "nación",
+      ",",
+      "seleccionada",
+      "sede",
+      "acto",
+      "central",
+      "dio",
+      "apertura",
+      "calendario",
+      "escolar",
+      "2025-2026.",
+      "ceremonia",
+      ",",
+      "destacó",
+      "importancia",
+      "capacitación",
+      "integral",
+      "personal",
+      "docente",
+      ",",
+      "formación",
+      "profesionales",
+      "altamente",
+      "calificados",
+      "fortalecimiento",
+      "habilidades",
+      "digitales",
+      ".",
+      "ejes",
+      "forman",
+      "parte",
+      "tercer",
+      "proceso",
+      "perfeccionamiento",
+      "sistema",
+      "educativo",
+      ",",
+      "tarea",
+      ",",
+      "según",
+      "expresó",
+      "naima",
+      "trujillo",
+      "barreto",
+      ",",
+      "ministra",
+      "educación",
+      ",",
+      "representa",
+      "lucha",
+      "constante",
+      "comprometida",
+      "parte",
+      "magisterio",
+      "cubano",
+      ".",
+      "presidente",
+      "miguel",
+      "díaz-canel",
+      ",",
+      "realiza",
+      "gira",
+      "asia",
+      ",",
+      "compartió",
+      "través",
+      "red",
+      "social",
+      "x",
+      "visión",
+      "significado",
+      "jornada",
+      ",",
+      "declarando",
+      "misma",
+      "“",
+      "día",
+      "alegrías",
+      "expectativas",
+      "familia",
+      ".",
+      "reabren",
+      "aulas",
+      ";",
+      "encuentran",
+      "maestros",
+      "estudiantes",
+      "universo",
+      "primordial",
+      ",",
+      "hermosas",
+      "vitales",
+      "conquistas",
+      "revolución",
+      ":",
+      "enseñanza",
+      "”",
+      ".",
+      "posteriormente",
+      ",",
+      "funcionarios",
+      "pronunciaron",
+      "acontecimiento",
+      ".",
+      "vicepresidente",
+      "salvador",
+      "valdés",
+      "enfatizó",
+      "valor",
+      "simbólico",
+      "regreso",
+      "clases",
+      "resaltando",
+      "“",
+      "semilla",
+      "futuro",
+      "patria",
+      "“",
+      ",",
+      "refiriéndose",
+      "espacios",
+      "superación",
+      "educacional",
+      ".",
+      "lunes",
+      ",",
+      "millón",
+      "quinientos",
+      "treinta",
+      "mil",
+      "alumnos",
+      "regresaron",
+      "aulas",
+      "niveles",
+      "enseñanza",
+      ",",
+      "reafirmando",
+      "compromiso",
+      "país",
+      "caribeño",
+      "educación",
+      "pública",
+      ",",
+      "inclusiva",
+      "transformadora",
+      "."
+    ],
+    "token_count": 185,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 96,
+      "JJ": 30,
+      "IN": 16,
+      "FW": 62,
+      "VBD": 1,
+      "NNS": 12,
+      "VBP": 9,
+      "VBZ": 2,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-NN": 58,
+      "NN-JJ": 9,
+      "JJ-NN": 16,
+      "NN-IN": 12,
+      "IN-JJ": 2,
+      "JJ-JJ": 7,
+      "IN-NNP": 2,
+      "NNP-JJ": 2,
+      "NN-NNP": 6,
+      "NNP-FW": 7,
+      "FW-NNP": 9,
+      "NNP-NNP": 11,
+      "NNP-VBD": 1,
+      "VBD-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-JJ": 4,
+      "IN-FW": 10,
+      "FW-NNS": 4,
+      "NNS-NNP": 2,
+      "NNP-VBP": 3,
+      "VBP-FW": 1,
+      "JJ-FW": 2,
+      "VBP-NN": 2,
+      "FW-FW": 33,
+      "FW-NN": 11,
+      "JJ-NNP": 3,
+      "NN-FW": 7,
+      "FW-JJ": 5,
+      "JJ-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-NNS": 3,
+      "VBP-IN": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNP-VB": 1,
+      "VB-JJ": 1,
+      "NNS-IN": 1,
+      "NNP-NNS": 1,
+      "NNS-FW": 1,
+      "IN-NN": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 32,
+      "NN-NN-IN": 9,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 2,
+      "JJ-JJ-NN": 4,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNS": 1,
+      "VBD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-IN-FW": 8,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 21,
+      "FW-FW-NN": 8,
+      "FW-NN-NN": 6,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "IN-FW-JJ": 2,
+      "FW-NN-FW": 2,
+      "JJ-NN-IN": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "NNS-VBP-NN": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "IN-FW-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-NNP-VB": 1,
+      "NNP-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 62,
+        "NNP": 34,
+        "JJ": 30,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 33,
+        "JJ-NN": 16,
+        "NN-IN": 12,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 21,
+        "JJ-NN-NN": 11,
+        "NN-NN-IN": 9,
+        "NN-NN-JJ": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 64,
+      "VP": 18,
+      "ADJP": 5,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') ('el', 'FW') ('inicio', 'FW') ('de', 'FW') ('una', 'FW') ('nueva', 'FW') ('etapa', 'FW') ('educativa', 'FW') ('en', 'FW') NP (',', ',') NP NP ('en', 'FW') NP VP VP ('de', 'IN') ('su', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Septiembre', 'NNP') ('marca', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('como', 'NN') ('es', 'NN') ('tradición', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('momento', 'NN') ('que', 'NN') ('también', 'NN') ('sirve', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('rendir', 'JJ') ('tributo', 'NN') ('al', 'NN') ('Comandante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Jefe', 'NNP') ('Fidel', 'NNP') ('Castro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('y', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('las', 'JJ') ('múltiples', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Septiembre marca"
+      },
+      {
+        "label": "NP",
+        "text": "como es tradición"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "un momento que también sirve para"
+      },
+      {
+        "label": "NP",
+        "text": "rendir tributo al Comandante"
+      },
+      {
+        "label": "NP",
+        "text": "Jefe Fidel Castro"
+      },
+      {
+        "label": "VP",
+        "text": "y a las múltiples"
+      },
+      {
+        "label": "NP",
+        "text": "a las múltiples"
+      },
+      {
+        "label": "VP",
+        "text": "conquistas alcanzadas por la Revolución a lo largo"
+      },
+      {
+        "label": "NP",
+        "text": "alcanzadas por la Revolución"
+      },
+      {
+        "label": "NP",
+        "text": "a lo largo"
+      },
+      {
+        "label": "NP",
+        "text": "historia"
+      },
+      {
+        "label": "NP",
+        "text": "Este año"
+      },
+      {
+        "label": "NP",
+        "text": "Escuela Pedagógica Tania la Guerrillera"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicada"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Septiembre/NNP marca/NN)\n  ,/,\n  (NP como/NN es/NN tradición/NN)\n  ,/,\n  el/FW\n  inicio/FW\n  de/FW\n  una/FW\n  nueva/FW\n  etapa/FW\n  educativa/FW\n  en/FW\n  (NP Cuba/NNP)\n  ,/,\n  (NP un/JJ momento/NN que/NN también/NN sirve/NN para/NN)\n  (NP rendir/JJ tributo/NN al/NN Comandante/NNP)\n  en/FW\n  (NP Jefe/NNP Fidel/NNP Castro/NNP)\n  (VP y/VBZ (NP a/DT las/JJ múltiples/NNS))\n  (VP\n    conquistas/VBP\n    (NP alcanzadas/JJ por/NN la/NN Revolución/NNP)\n    (NP a/DT lo/JJ largo/NN))\n  de/IN\n  su/FW\n  (NP historia/NNS)\n  ./.)",
+      "(S\n  (NP Este/NN año/NN)\n  ,/,\n  la/FW\n  (NP Escuela/NNP Pedagógica/NNP Tania/NNP la/NNP Guerrillera/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  (NP Pinar/NNP)\n  del/FW\n  (NP Río/NNP)\n  y/CC\n  (NP fundada/JJ por/NN el/NN líder/NN histórico/NN)\n  de/IN\n  la/FW\n  nación/FW\n  ,/,\n  (VP\n    fue/VBP\n    (NP seleccionada/JJ como/NN sede/NN del/NN)\n    (NP\n      acto/JJ\n      central/JJ\n      que/NN\n      dio/NN\n      apertura/NN\n      al/NN\n      calendario/NN)\n    escolar/JJ\n    2025-2026/JJ)\n  ./.)",
+      "(S\n  (NP Durante/NNP la/NNP ceremonia/NN)\n  ,/,\n  se/FW\n  (NP destacó/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  la/FW\n  (ADJP capacitación/JJ)\n  (ADJP integral/JJ)\n  del/FW\n  (NP personal/JJ docente/NN)\n  ,/,\n  la/FW\n  formación/FW\n  de/FW\n  profesionales/FW\n  altamente/FW\n  calificados/FW\n  y/FW\n  el/FW\n  fortalecimiento/FW\n  de/FW\n  habilidades/FW\n  (NP digitales/NNS)\n  ./.)",
+      "(S\n  (NP Estos/NNP)\n  (VP ejes/VBZ (NP forman/JJ parte/NN del/NN tercer/NN proceso/NN))\n  de/IN\n  perfeccionamiento/FW\n  del/FW\n  (NP sistema/NN educativo/NN)\n  ,/,\n  (NP una/JJ tarea/NN que/NN)\n  ,/,\n  (NP según/JJ expresó/NN Naima/NNP Trujillo/NNP Barreto/NNP)\n  ,/,\n  ministra/FW\n  de/FW\n  (NP Educación/NNP)\n  ,/,\n  (NP representa/NN)\n  (NP\n    una/JJ\n    lucha/NN\n    constante/NN\n    y/NN\n    comprometida/NN\n    por/NN\n    parte/NN\n    del/NN\n    magisterio/NN\n    cubano/NN)\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN Miguel/NNP Díaz-Canel/NNP)\n  ,/,\n  (NP quien/JJ realiza/NN)\n  (NP una/JJ gira/NN por/NN Asia/NNP)\n  ,/,\n  (VP compartió/VBZ (NP a/DT través/NN))\n  de/IN\n  la/FW\n  (NP red/JJ social/JJ X/NNP su/NN visión/NN sobre/NN)\n  el/FW\n  significado/FW\n  de/FW\n  esta/FW\n  (NP jornada/NN)\n  ,/,\n  (VP declarando/VBZ (NP a/DT la/NN misma/NN como/NN “/NNP))\n  (VP es/VBZ (NP un/JJ día/NN))\n  de/IN\n  alegrías/FW\n  y/FW\n  expectativas/FW\n  (NP para/NN la/NN familia/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "PAISES",
+      "APROBACION_RECHAZO",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          779,
+          786
+        ],
+        "start": 779,
+        "end": 786
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente miguel díaz",
+        "position": [
+          916,
+          938
+        ],
+        "start": 916,
+        "end": 938
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de educación",
+        "position": [
+          811,
+          832
+        ],
+        "start": 811,
+        "end": 832
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "docente",
+        "position": [
+          563,
+          570
+        ],
+        "start": 563,
+        "end": 570
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela pedagógica tania",
+        "position": [
+          267,
+          291
+        ],
+        "start": 267,
+        "end": 291
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          499,
+          506
+        ],
+        "start": 499,
+        "end": 506
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          329,
+          332
+        ],
+        "start": 329,
+        "end": 332
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          267,
+          274
+        ],
+        "start": 267,
+        "end": 274
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          79,
+          83
+        ],
+        "start": 79,
+        "end": 83
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela pedagógica",
+        "position": [
+          267,
+          285
+        ],
+        "start": 267,
+        "end": 285
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Naima Trujillo Barreto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comandante en Jefe Fidel Castro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Reabren",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pinar del Río",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Escuela Pedagógica Tania la Guerrillera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Educación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Miguel Díaz-Canel",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

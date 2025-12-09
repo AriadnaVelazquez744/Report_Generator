@@ -1,0 +1,642 @@
+{
+  "url": "https://www.telesurtv.net/inicia-nueva-huelga-en-aeropuertos-portugal/",
+  "title": "Trabajadores de aeropuertos en Portugal inician huelga intermitente por mejoras salariales - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Aeropuertos",
+    "Europa",
+    "Huelga",
+    "Portugal"
+  ],
+  "text": "Los trabajadores de servicios de asistencia en tierra en los aeropuertos de Portugal iniciaron este miércoles 3 de septiembre una huelga intermitente que se prolongará durante 76 días hasta enero de 2026. La medida busca presionar por la mejora de las condiciones laborales y salariales en el sector.\n\nLa primera fase comenzó en la medianoche de este miércoles y se extenderá hasta el 9 de septiembre. A partir del 12 de octubre, los paros se repetirán cada semana de viernes a lunes. En diciembre, las movilizaciones se llevarán a cabo del 5 al 8 y del 12 al 15, para culminar con un paro ininterrumpido del 19 de diciembre al 2 de enero.\nEl Sindicato de Industrias Metalúrgicas y Afines (SIMA), organizador de la protesta, recordó que los trabajadores están obligados a cumplir con los servicios mínimos establecidos por la empresa Serviços Portugueses de Handling Menzies (SPDH/Menzies), en particular para los vuelos internacionales de salida. Las llegadas internacionales no están incluidas en esa obligación.\nSegún la información del aeropuerto de Lisboa, en las primeras horas de la huelga se registraron retrasos significativos tanto en partidas como en llegadas.\n\n\nEntre sus demandas, los trabajadores reclaman la eliminación de salarios por debajo del mínimo nacional, incrementos generales de sueldo y el cumplimiento efectivo del pago de las horas nocturnas.\nEsta nueva protesta sigue a las huelgas convocadas entre julio y septiembre, también en periodos de fin de semana, que afectaron a aeropuertos en todo el país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/inicia-nueva-huelga-en-aeropuertos-portugal/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 890,
+    "message_id": 103680,
+    "date": "2025-09-03T15:55:13+00:00",
+    "text": "teleSUR\nTrabajadores de aeropuertos en Portugal inician huelga intermitente por mejoras salariales\nhttps://www.telesurtv.net/inicia-nueva-huelga-en-aeropuertos-portugal/",
+    "photo_path": null,
+    "views": 1746,
+    "reactions": {
+      "👍": 24,
+      "😁": 3,
+      "❤": 1,
+      "🤔": 1
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "los trabajadores de servicios de asistencia en tierra en los aeropuertos de portugal iniciaron este miércoles 3 de septiembre una huelga intermitente que se prolongará durante 76 días hasta enero de 2026. la medida busca presionar por la mejora de las condiciones laborales y salariales en el sector. la primera fase comenzó en la medianoche de este miércoles y se extenderá hasta el 9 de septiembre. a partir del 12 de octubre, los paros se repetirán cada semana de viernes a lunes. en diciembre, las movilizaciones se llevarán a cabo del 5 al 8 y del 12 al 15, para culminar con un paro ininterrumpido del 19 de diciembre al 2 de enero. el sindicato de industrias metalúrgicas y afines (sima), organizador de la protesta, recordó que los trabajadores están obligados a cumplir con los servicios mínimos establecidos por la empresa serviços portugueses de handling menzies (spdh/menzies), en particular para los vuelos internacionales de salida. las llegadas internacionales no están incluidas en esa obligación. según la información del aeropuerto de lisboa, en las primeras horas de la huelga se registraron retrasos significativos tanto en partidas como en llegadas. entre sus demandas, los trabajadores reclaman la eliminación de salarios por debajo del mínimo nacional, incrementos generales de sueldo y el cumplimiento efectivo del pago de las horas nocturnas. esta nueva protesta sigue a las huelgas convocadas entre julio y septiembre, también en periodos de fin de semana, que afectaron a aeropuertos en todo el país.",
+    "tokens": [
+      "trabajadores",
+      "servicios",
+      "asistencia",
+      "tierra",
+      "aeropuertos",
+      "portugal",
+      "iniciaron",
+      "miércoles",
+      "3",
+      "septiembre",
+      "huelga",
+      "intermitente",
+      "prolongará",
+      "76",
+      "días",
+      "enero",
+      "2026.",
+      "medida",
+      "busca",
+      "presionar",
+      "mejora",
+      "condiciones",
+      "laborales",
+      "salariales",
+      "sector",
+      ".",
+      "primera",
+      "fase",
+      "comenzó",
+      "medianoche",
+      "miércoles",
+      "extenderá",
+      "9",
+      "septiembre",
+      ".",
+      "partir",
+      "12",
+      "octubre",
+      ",",
+      "paros",
+      "repetirán",
+      "cada",
+      "semana",
+      "viernes",
+      "lunes",
+      ".",
+      "diciembre",
+      ",",
+      "movilizaciones",
+      "llevarán",
+      "cabo",
+      "5",
+      "8",
+      "12",
+      "15",
+      ",",
+      "culminar",
+      "paro",
+      "ininterrumpido",
+      "19",
+      "diciembre",
+      "2",
+      "enero",
+      ".",
+      "sindicato",
+      "industrias",
+      "metalúrgicas",
+      "afines",
+      "(",
+      "sima",
+      ")",
+      ",",
+      "organizador",
+      "protesta",
+      ",",
+      "recordó",
+      "trabajadores",
+      "obligados",
+      "cumplir",
+      "servicios",
+      "mínimos",
+      "establecidos",
+      "empresa",
+      "serviços",
+      "portugueses",
+      "handling",
+      "menzies",
+      "(",
+      "spdh/menzies",
+      ")",
+      ",",
+      "particular",
+      "vuelos",
+      "internacionales",
+      "salida",
+      ".",
+      "llegadas",
+      "internacionales",
+      "incluidas",
+      "obligación",
+      ".",
+      "según",
+      "información",
+      "aeropuerto",
+      "lisboa",
+      ",",
+      "primeras",
+      "horas",
+      "huelga",
+      "registraron",
+      "retrasos",
+      "significativos",
+      "partidas",
+      "llegadas",
+      ".",
+      "demandas",
+      ",",
+      "trabajadores",
+      "reclaman",
+      "eliminación",
+      "salarios",
+      "debajo",
+      "mínimo",
+      "nacional",
+      ",",
+      "incrementos",
+      "generales",
+      "sueldo",
+      "cumplimiento",
+      "efectivo",
+      "pago",
+      "horas",
+      "nocturnas",
+      ".",
+      "nueva",
+      "protesta",
+      "sigue",
+      "huelgas",
+      "convocadas",
+      "julio",
+      "septiembre",
+      ",",
+      "periodos",
+      "fin",
+      "semana",
+      ",",
+      "afectaron",
+      "aeropuertos",
+      "país",
+      "."
+    ],
+    "token_count": 150,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "VBZ": 6,
+      "FW": 79,
+      "NN": 68,
+      "IN": 12,
+      "JJ": 15,
+      "NNS": 12,
+      "CD": 6,
+      "VBP": 6,
+      "CC": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-FW": 56,
+      "FW-NN": 8,
+      "NN-IN": 6,
+      "IN-JJ": 2,
+      "JJ-NN": 10,
+      "IN-NNP": 3,
+      "NNP-NN": 4,
+      "NN-NN": 41,
+      "NN-NNS": 4,
+      "NNS-IN": 3,
+      "IN-FW": 6,
+      "FW-JJ": 3,
+      "NN-VBZ": 4,
+      "VBZ-CD": 2,
+      "CD-NN": 3,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-FW": 4,
+      "NN-FW": 7,
+      "FW-NNS": 4,
+      "NNS-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-NN": 1,
+      "NN-NNP": 1,
+      "VBP-JJ": 4,
+      "JJ-FW": 3,
+      "FW-CD": 2,
+      "CD-FW": 2,
+      "NNS-NNP": 1,
+      "NN-CD": 1,
+      "NN-JJ": 3,
+      "FW-NNP": 6,
+      "NNP-NNP": 7,
+      "NNP-IN": 3,
+      "JJ-NNS": 2,
+      "NNP-CC": 1,
+      "CC-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-JJ": 2,
+      "VBP-NNP": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 41,
+      "FW-FW-NN": 6,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 2,
+      "NNS-IN-FW": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 20,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-CD": 2,
+      "VBZ-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 4,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "FW-JJ-FW": 1,
+      "JJ-FW-CD": 1,
+      "FW-CD-FW": 2,
+      "CD-FW-FW": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NNS-VBP": 2,
+      "CD-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 1,
+      "NN-FW-CD": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NN-FW-NNP": 1,
+      "NNP-IN-JJ": 1,
+      "JJ-NNS-IN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-VBZ": 1,
+      "CC-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-NNP-FW": 2,
+      "FW-NN-FW": 1,
+      "FW-NNP-NN": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 79,
+        "NN": 68,
+        "NNP": 21,
+        "JJ": 15,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "FW-FW": 56,
+        "NN-NN": 41,
+        "JJ-NN": 10,
+        "FW-NN": 8,
+        "NN-FW": 7
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 41,
+        "NN-NN-NN": 20,
+        "JJ-NN-NN": 8,
+        "FW-FW-NN": 6,
+        "FW-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 59,
+      "VP": 16,
+      "PP": 11,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 8,
+        "weight": 0.0808
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('al', 'NN')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') ('servicios', 'FW') ('de', 'FW') ('asistencia', 'FW') ('en', 'FW') NP PP PP VP ('3', 'CD') ('de', 'IN') ('septiembre', 'FW') NP VP ('76', 'CD') NP ('de', 'IN') ('2026', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "VP -> ('trabajadores', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('tierra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('aeropuertos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Portugal', 'NNP') ('iniciaron', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "VP",
+        "text": "trabajadores"
+      },
+      {
+        "label": "NP",
+        "text": "tierra"
+      },
+      {
+        "label": "PP",
+        "text": "en los aeropuertos"
+      },
+      {
+        "label": "NP",
+        "text": "los aeropuertos"
+      },
+      {
+        "label": "PP",
+        "text": "de Portugal iniciaron este"
+      },
+      {
+        "label": "NP",
+        "text": "Portugal iniciaron este"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "una huelga intermitente que se prolongará"
+      },
+      {
+        "label": "VP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "días hasta enero"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "busca presionar por la"
+      },
+      {
+        "label": "NP",
+        "text": "presionar por la"
+      },
+      {
+        "label": "NP",
+        "text": "condiciones laborales"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP)\n  (VP trabajadores/VBZ)\n  de/FW\n  servicios/FW\n  de/FW\n  asistencia/FW\n  en/FW\n  (NP tierra/NN)\n  (PP en/IN (NP los/JJ aeropuertos/NN))\n  (PP de/IN (NP Portugal/NNP iniciaron/NN este/NN))\n  (VP miércoles/VBZ)\n  3/CD\n  de/IN\n  septiembre/FW\n  (NP una/JJ huelga/NN intermitente/NN que/NN se/NN prolongará/NN)\n  (VP durante/VBZ)\n  76/CD\n  (NP días/NN hasta/NN enero/NN)\n  de/IN\n  2026/CD\n  ./.)",
+      "(S\n  (NP La/NNP)\n  medida/PRP\n  (VP busca/VBP (NP presionar/JJ por/NN la/NN))\n  mejora/FW\n  de/FW\n  las/FW\n  (NP condiciones/NNS laborales/NNS)\n  (VP y/VBP (NP salariales/NNS))\n  en/FW\n  (NP el/NN sector/NN)\n  ./.)",
+      "(S\n  (NP La/NNP primera/NN fase/NN comenzó/NN)\n  en/IN\n  la/FW\n  medianoche/FW\n  de/FW\n  este/FW\n  (NP miércoles/NNS)\n  (VP y/VBP (NP se/JJ extenderá/NN hasta/NN))\n  (VP el/VBD)\n  9/CD\n  (PP de/IN (NP septiembre/NN))\n  ./.)",
+      "(S\n  (NP A/DT partir/NN del/NN)\n  12/CD\n  (PP de/IN (NP octubre/NN))\n  ,/,\n  (ADJP los/JJ)\n  paros/FW\n  se/FW\n  repetirán/FW\n  cada/FW\n  semana/FW\n  de/FW\n  viernes/FW\n  (NP a/DT lunes/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP diciembre/NN)\n  ,/,\n  (NP las/JJ movilizaciones/NNS)\n  (VP se/VBP)\n  (VP llevarán/VBZ (NP a/DT cabo/NN del/NN))\n  5/CD\n  (NP al/NN)\n  8/CD\n  (NP y/NN del/NN)\n  12/CD\n  (NP al/NN)\n  15/CD\n  ,/,\n  (NP para/NN culminar/NN con/NN)\n  (NP un/JJ paro/NN ininterrumpido/NN)\n  del/FW\n  19/CD\n  de/FW\n  diciembre/FW\n  al/FW\n  2/CD\n  (PP de/IN (NP enero/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "FECHAS_HORAS",
+      "ORGANIZACIONES_SOCIALES",
+      "FECHAS_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protesta, recordó que los trabajadores",
+        "position": [
+          715,
+          753
+        ],
+        "start": 715,
+        "end": 753
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "huelga intermitente que se prolongará durante 76 días hasta enero de 2026. la medida busca presionar por la mejora de las condiciones laborales y salariales en el sector",
+        "position": [
+          130,
+          299
+        ],
+        "start": 130,
+        "end": 299
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "sueldo",
+        "position": [
+          1304,
+          1310
+        ],
+        "start": 1304,
+        "end": 1310
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "sindicato de industrias metalúrgicas y afines (sima), organizador de la protesta, recordó que los trabajadores",
+        "position": [
+          643,
+          753
+        ],
+        "start": 643,
+        "end": 753
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          1040,
+          1050
+        ],
+        "start": 1040,
+        "end": 1050
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "miércoles 3 de septiembre",
+        "position": [
+          100,
+          125
+        ],
+        "start": 100,
+        "end": 125
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "durante 76 días",
+        "position": [
+          168,
+          183
+        ],
+        "start": 168,
+        "end": 183
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Portugal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SIMA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "SPDH",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Serviços Portugueses",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Menzies",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "aeropuerto de Lisboa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Sindicato de Industrias Metalúrgicas y Afines",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "El Sindicato de Industrias Metalúrgicas y Afines",
+        "relacion": "RECORDAR",
+        "objeto": "Serviços Portugueses"
+      },
+      {
+        "sujeto": "El Sindicato de Industrias Metalúrgicas y Afines",
+        "relacion": "RECORDAR",
+        "objeto": "SPDH"
+      },
+      {
+        "sujeto": "El Sindicato de Industrias Metalúrgicas y Afines",
+        "relacion": "RECORDAR",
+        "objeto": "Menzies"
+      },
+      {
+        "sujeto": "SIMA",
+        "relacion": "RECORDAR",
+        "objeto": "Serviços Portugueses"
+      },
+      {
+        "sujeto": "SIMA",
+        "relacion": "RECORDAR",
+        "objeto": "SPDH"
+      },
+      {
+        "sujeto": "SIMA",
+        "relacion": "RECORDAR",
+        "objeto": "Menzies"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "url": "https://www.telesurtv.net/boluarte-enfrenta-investigacion-en-peru-por-cirugia-oculta/",
+  "title": "Boluarte enfrenta investigación en Perú por cirugía oculta - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Dina Bolaurte",
+    "Fiscalía",
+    "Perú"
+  ],
+  "text": "La fiscalía peruana ha dado un plazo de 24 horas a la presidenta designada Dina Boluarte para que entregue la documentación relativa a una cirugía a la que se sometió hace dos años y que mantuvo en reserva.\nLa investigación se centra en la posible omisión de información sobre su estado de salud y la firma de normas durante el periodo postoperatorio.\nDe acuerdo con la autoridad judicial, Boluarte debe “remitir las 91 normas en original que asegura suscribió entre el 28 de junio y 9 de julio de 2023, y los documentos sobre su estado de salud que motivaron la intervención quirúrgica”.\nEste requerimiento se produce tras la comparecencia de Boluarte ante la fiscal general, Delia Espinoza, para declarar sobre la operación de nariz que mantuvo oculta al Congreso.\nDicha ocultación ha motivado una investigación del Ministerio Público, después de que el 12 de diciembre del año pasado, la mandataria declarara sobre la intervención y que la misma no fue estética y que no la incapacitó para ejercer sus funciones.\nTanto Boluarte como su abogado, Juan Carlos Portugal, deben presentar la documentación solicitada, a lo que el representante legal afirmó que “no existe omisión del cargo”, ya que la presidenta designada se mantuvo al tanto de los asuntos del país en todo momento.\nLa investigación se centra en la posibilidad de que Boluarte haya abandonado sus funciones por horas o días sin justificación y sin la debida comunicación al Congreso.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/boluarte-enfrenta-investigacion-en-peru-por-cirugia-oculta/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 1083,
+    "message_id": 84679,
+    "date": "2025-01-17T10:55:18+00:00",
+    "text": "teleSUR\nBoluarte enfrenta investigación en Perú por cirugía oculta\nhttps://www.telesurtv.net/boluarte-enfrenta-investigacion-en-peru-por-cirugia-oculta/",
+    "photo_path": null,
+    "views": 2229,
+    "reactions": {
+      "🤔": 15,
+      "🤡": 13,
+      "👍": 7,
+      "🤮": 2
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "la fiscalía peruana ha dado un plazo de 24 horas a la presidenta designada dina boluarte para que entregue la documentación relativa a una cirugía a la que se sometió hace dos años y que mantuvo en reserva. la investigación se centra en la posible omisión de información sobre su estado de salud y la firma de normas durante el periodo postoperatorio. de acuerdo con la autoridad judicial, boluarte debe “remitir las 91 normas en original que asegura suscribió entre el 28 de junio y 9 de julio de 2023, y los documentos sobre su estado de salud que motivaron la intervención quirúrgica”. este requerimiento se produce tras la comparecencia de boluarte ante la fiscal general, delia espinoza, para declarar sobre la operación de nariz que mantuvo oculta al congreso. dicha ocultación ha motivado una investigación del ministerio público, después de que el 12 de diciembre del año pasado, la mandataria declarara sobre la intervención y que la misma no fue estética y que no la incapacitó para ejercer sus funciones. tanto boluarte como su abogado, juan carlos portugal, deben presentar la documentación solicitada, a lo que el representante legal afirmó que “no existe omisión del cargo”, ya que la presidenta designada se mantuvo al tanto de los asuntos del país en todo momento. la investigación se centra en la posibilidad de que boluarte haya abandonado sus funciones por horas o días sin justificación y sin la debida comunicación al congreso.",
+    "tokens": [
+      "fiscalía",
+      "peruana",
+      "dado",
+      "plazo",
+      "24",
+      "horas",
+      "presidenta",
+      "designada",
+      "dina",
+      "boluarte",
+      "entregue",
+      "documentación",
+      "relativa",
+      "cirugía",
+      "sometió",
+      "hace",
+      "dos",
+      "años",
+      "mantuvo",
+      "reserva",
+      ".",
+      "investigación",
+      "centra",
+      "posible",
+      "omisión",
+      "información",
+      "salud",
+      "firma",
+      "normas",
+      "periodo",
+      "postoperatorio",
+      ".",
+      "acuerdo",
+      "autoridad",
+      "judicial",
+      ",",
+      "boluarte",
+      "debe",
+      "“",
+      "remitir",
+      "91",
+      "normas",
+      "original",
+      "asegura",
+      "suscribió",
+      "28",
+      "junio",
+      "9",
+      "julio",
+      "2023",
+      ",",
+      "documentos",
+      "salud",
+      "motivaron",
+      "intervención",
+      "quirúrgica",
+      "”",
+      ".",
+      "requerimiento",
+      "produce",
+      "tras",
+      "comparecencia",
+      "boluarte",
+      "fiscal",
+      "general",
+      ",",
+      "delia",
+      "espinoza",
+      ",",
+      "declarar",
+      "operación",
+      "nariz",
+      "mantuvo",
+      "oculta",
+      "congreso",
+      ".",
+      "dicha",
+      "ocultación",
+      "motivado",
+      "investigación",
+      "ministerio",
+      "público",
+      ",",
+      "después",
+      "12",
+      "diciembre",
+      "año",
+      "pasado",
+      ",",
+      "mandataria",
+      "declarara",
+      "intervención",
+      "misma",
+      "estética",
+      "incapacitó",
+      "ejercer",
+      "funciones",
+      ".",
+      "boluarte",
+      "abogado",
+      ",",
+      "juan",
+      "carlos",
+      "portugal",
+      ",",
+      "deben",
+      "presentar",
+      "documentación",
+      "solicitada",
+      ",",
+      "representante",
+      "legal",
+      "afirmó",
+      "“",
+      "existe",
+      "omisión",
+      "cargo",
+      "”",
+      ",",
+      "presidenta",
+      "designada",
+      "mantuvo",
+      "asuntos",
+      "país",
+      "momento",
+      ".",
+      "investigación",
+      "centra",
+      "posibilidad",
+      "boluarte",
+      "abandonado",
+      "funciones",
+      "horas",
+      "días",
+      "justificación",
+      "debida",
+      "comunicación",
+      "congreso",
+      "."
+    ],
+    "token_count": 139,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "VBD": 2,
+      "JJ": 17,
+      "NN": 81,
+      "IN": 5,
+      "CD": 5,
+      "NNS": 5,
+      "RB": 3,
+      "VBP": 5,
+      "FW": 73,
+      "$": 1,
+      "MD": 1,
+      "VB": 1,
+      "VBZ": 4,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NN": 9,
+      "NN-NN": 44,
+      "NN-JJ": 5,
+      "NN-IN": 4,
+      "IN-CD": 2,
+      "CD-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 1,
+      "JJ-NNP": 3,
+      "NNP-NNP": 7,
+      "NNP-NN": 8,
+      "NN-FW": 11,
+      "FW-FW": 50,
+      "FW-NN": 13,
+      "NN-NNP": 7,
+      "NNP-FW": 4,
+      "FW-JJ": 4,
+      "JJ-FW": 2,
+      "JJ-JJ": 3,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-JJ": 1,
+      "NN-VBP": 2,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-FW": 2,
+      "FW-IN": 1,
+      "CD-NN": 1,
+      "IN-FW": 2,
+      "FW-NNP": 3,
+      "VBP-NNS": 2,
+      "NNS-FW": 1,
+      "NN-RB": 2,
+      "RB-JJ": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "FW-CD": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 2,
+      "DT-NN": 3,
+      "RB-VBZ": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NN-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-DT": 1,
+      "VBZ-FW": 1,
+      "IN-NN": 1,
+      "NNS-VBP": 2,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 22,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 39,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 6,
+      "NN-FW-NN": 5,
+      "FW-NN-NNP": 2,
+      "NN-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 4,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-FW": 1,
+      "CD-FW-FW": 2,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-JJ": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 2,
+      "DT-NN-RB": 1,
+      "NN-RB-VBZ": 1,
+      "RB-VBZ-DT": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 73,
+        "NNP": 22,
+        "JJ": 17,
+        "IN": 5
+      },
+      "top_bigrams": {
+        "FW-FW": 50,
+        "NN-NN": 44,
+        "FW-NN": 13,
+        "NN-FW": 11,
+        "JJ-NN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 39,
+        "NN-NN-NN": 22,
+        "JJ-NN-NN": 7,
+        "NNP-NN-NN": 6,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 49,
+      "VP": 15,
+      "PP": 3,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 3,
+        "weight": 0.038
+      },
+      {
+        "rule": "NP -> ('horas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP VP ('de', 'IN') ('24', 'CD') NP NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('fiscalía', 'VBD') NP NP",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('peruana', 'JJ') ('ha', 'NN') ('dado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('plazo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('presidenta', 'NN') ('designada', 'NN') ('Dina', 'NNP') ('Boluarte', 'NNP') ('para', 'NN') ('que', 'NN') ('entregue', 'NN') ('la', 'NN') ('documentación', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('relativa', 'VBZ') NP NP NP",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('una', 'JJ') ('cirugía', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "fiscalía peruana ha dado un plazo"
+      },
+      {
+        "label": "NP",
+        "text": "peruana ha dado"
+      },
+      {
+        "label": "NP",
+        "text": "un plazo"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "a la presidenta designada Dina Boluarte para que entregue la documentación"
+      },
+      {
+        "label": "VP",
+        "text": "relativa a una cirugía a la que se sometió hace dos años y que mantuvo"
+      },
+      {
+        "label": "NP",
+        "text": "a una cirugía"
+      },
+      {
+        "label": "NP",
+        "text": "a la que se"
+      },
+      {
+        "label": "NP",
+        "text": "sometió hace dos años y que mantuvo"
+      },
+      {
+        "label": "PP",
+        "text": "en reserva"
+      },
+      {
+        "label": "NP",
+        "text": "reserva"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "ADJP",
+        "text": "posible"
+      },
+      {
+        "label": "NP",
+        "text": "periodo postoperatorio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP fiscalía/VBD (NP peruana/JJ ha/NN dado/NN) (NP un/JJ plazo/NN))\n  de/IN\n  24/CD\n  (NP horas/NNS)\n  (NP\n    a/DT\n    la/NN\n    presidenta/NN\n    designada/NN\n    Dina/NNP\n    Boluarte/NNP\n    para/NN\n    que/NN\n    entregue/NN\n    la/NN\n    documentación/NN)\n  (VP\n    relativa/VBZ\n    (NP a/DT una/JJ cirugía/NN)\n    (NP a/DT la/NN que/NN se/NN)\n    (NP sometió/JJ hace/NN dos/NN años/NN y/NN que/NN mantuvo/NN))\n  (PP en/IN (NP reserva/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  investigación/FW\n  se/FW\n  centra/FW\n  en/FW\n  la/FW\n  (ADJP posible/JJ)\n  omisión/FW\n  de/FW\n  información/FW\n  sobre/FW\n  su/FW\n  estado/FW\n  de/FW\n  salud/FW\n  y/CC\n  la/FW\n  firma/FW\n  de/FW\n  normas/FW\n  durante/FW\n  el/FW\n  (NP periodo/NN postoperatorio/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  (NP autoridad/JJ judicial/NN)\n  ,/,\n  (NP Boluarte/NNP)\n  (VP debe/VBZ (NP “/NNP remitir/NN))\n  (VP las/VBD)\n  91/CD\n  (ADJP normas/JJ)\n  en/FW\n  (NP original/JJ que/NN asegura/NN suscribió/NN)\n  (VP entre/VBP)\n  el/$\n  28/CD\n  (PP de/IN (NP junio/NN))\n  y/CC\n  9/CD\n  de/FW\n  julio/FW\n  de/IN\n  2023/CD\n  ,/,\n  y/CC\n  (NP los/JJ documentos/NN sobre/NN)\n  (NP su/JJ estado/NN)\n  de/IN\n  salud/FW\n  que/FW\n  motivaron/FW\n  la/FW\n  intervención/FW\n  quirúrgica/FW\n  ”/FW\n  ./.)",
+      "(S\n  (NP Este/NN requerimiento/NN se/NN)\n  (VP produce/VBP (NP tras/NNS))\n  la/FW\n  comparecencia/FW\n  de/FW\n  (NP Boluarte/NNP ante/NN)\n  (ADJP la/RB fiscal/JJ)\n  (ADJP general/JJ)\n  ,/,\n  (NP Delia/NNP Espinoza/NNP)\n  ,/,\n  (NP para/NN declarar/NN sobre/NN)\n  la/FW\n  operación/FW\n  de/FW\n  nariz/FW\n  (NP que/NN mantuvo/NN oculta/NN al/NN Congreso/NNP)\n  ./.)",
+      "(S\n  (NP Dicha/NNP)\n  ocultación/MD\n  (VP\n    ha/VB\n    (NP motivado/NN)\n    (NP una/JJ investigación/NN del/NN Ministerio/NNP Público/NNP))\n  ,/,\n  (NP después/NN)\n  de/FW\n  que/FW\n  el/FW\n  12/CD\n  de/FW\n  diciembre/FW\n  del/FW\n  (NP año/NN pasado/NN)\n  ,/,\n  la/FW\n  mandataria/FW\n  declarara/FW\n  sobre/FW\n  la/FW\n  intervención/FW\n  y/FW\n  (NP que/NN)\n  la/FW\n  (VP misma/VBZ (NP no/DT fue/NN))\n  (VP estética/VBZ)\n  y/CC\n  (ADJP que/JJ)\n  (NP no/DT la/NN)\n  (VP incapacitó/VBZ (NP para/JJ ejercer/NN sus/NN funciones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la autoridad judicial, boluarte debe “remitir las 91 normas en original que asegura suscribió entre el 28 de junio y 9 de",
+        "position": [
+          355,
+          488
+        ],
+        "start": 355,
+        "end": 488
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1147,
+          1153
+        ],
+        "start": 1147,
+        "end": 1153
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta designada dina",
+        "position": [
+          54,
+          79
+        ],
+        "start": 54,
+        "end": 79
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la autoridad judicial, boluarte debe “remitir las 91",
+        "position": [
+          355,
+          419
+        ],
+        "start": 355,
+        "end": 419
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          280,
+          289
+        ],
+        "start": 280,
+        "end": 289
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "9 de julio de 2023",
+        "position": [
+          484,
+          502
+        ],
+        "start": 484,
+        "end": 502
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Congreso",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio Público",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dina Boluarte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Delia Espinoza",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Boluarte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Juan Carlos Portugal",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Boluarte",
+        "relacion": "ABANDONAR_CENTRAR",
+        "objeto": "Congreso"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6124,
+    "pos": 0.036,
+    "neu": 0.916,
+    "neg": 0.048,
+    "label": "negative"
+  }
+}

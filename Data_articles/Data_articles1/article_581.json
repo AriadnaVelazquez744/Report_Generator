@@ -1,0 +1,925 @@
+{
+  "url": "https://www.telesurtv.net/yemen-ataca-estado-mayor-ejercito-de-israel/",
+  "title": "Yemen ataca el Estado Mayor del ejército de Israel",
+  "section": "Mundo",
+  "tags": [
+    "Drones",
+    "Fuerzas Armadas",
+    "Gaza",
+    "Israel",
+    "Palestina",
+    "Yemen"
+  ],
+  "text": "Las Fuerzas Armadas de Yemen ejecutaron este martes cuatro operaciones militares con drones contra objetivos en Israel, en respuesta a los “crímenes de genocidio y hambruna” que perpetra el ejército sonista contra el pueblo palestino en la Franja de Gaza.\n\nLas acciones, que incluyeron ataques al edificio del Estado Mayor israelí en Yafo, la central eléctrica de Al-Khadira, el aeropuerto de Lod y el puerto de Ashdod, se llevaron a cabo con drones Samada-4, alcanzando sus objetivos con éxito, según el comunicado.\nEn un contexto de creciente tensión, las Fuerzas Armadas yemeníes también atacaron el buque MSC ABY en el Mar Rojo por violar la prohibición de ingreso a puertos de la Palestina ocupada.\n\n\nLa operación conjunta utilizó dos drones y un misil de crucero, logrando un impacto directo. Estas acciones reafirman la postura de Yemen de bloquear el tráfico marítimo israelí en los mares Rojo y Arábigo, en solidaridad con Gaza.\nEl comunicado destaca el compromiso de Yemen con la causa palestina. “Nosotros, los yemeníes, oh Mensajero de Dios, somos personas de fe y sabiduría. Te apoyamos ayer, te apoyamos hoy y te apoyaremos mañana”, señala el texto, subrayando la determinación de continuar las operaciones hasta que cese la campaña genocida que Israel lleva adelante contra el pueblo palestino en Gaza.\n\n\nEstas acciones ocurren tras el reciente asesinato del primer ministro yemení, Ahmed Ghaleb al-Rahawi, en un ataque israelí el 28 de agosto en Saná, que dejó cuatro muertos y 67 heridos, según el movimiento Ansarollah.\nEl Consejo Político Supremo nombró a Mohammed Ahmed Ahmed Miftah como nuevo jefe de Gobierno. El movimiento yemení Ansarollah denunció que los bombardeos israelíes tuvieron como objetivo instalaciones civiles y la sede del Poder Ejecutivo, calificándolos como una escalada en el conflicto.\n“Que los ojos de los cobardes nunca duerman”, concluye el comunicado.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/yemen-ataca-estado-mayor-ejercito-de-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 963,
+    "message_id": 103593,
+    "date": "2025-09-02T21:55:18+00:00",
+    "text": "teleSUR\nYemen ataca el Estado Mayor del ejército de Israel\nhttps://www.telesurtv.net/yemen-ataca-estado-mayor-ejercito-de-israel/",
+    "photo_path": null,
+    "views": 2440,
+    "reactions": {
+      "❤": 57,
+      "👍": 31,
+      "👏": 8,
+      "🔥": 4,
+      "😁": 1
+    },
+    "total_reactions": 101
+  },
+  "preprocessing": {
+    "cleaned": "las fuerzas armadas de yemen ejecutaron este martes cuatro operaciones militares con drones contra objetivos en israel, en respuesta a los “crímenes de genocidio y hambruna” que perpetra el ejército sonista contra el pueblo palestino en la franja de gaza. las acciones, que incluyeron ataques al edificio del estado mayor israelí en yafo, la central eléctrica de al-khadira, el aeropuerto de lod y el puerto de ashdod, se llevaron a cabo con drones samada-4, alcanzando sus objetivos con éxito, según el comunicado. en un contexto de creciente tensión, las fuerzas armadas yemeníes también atacaron el buque msc aby en el mar rojo por violar la prohibición de ingreso a puertos de la palestina ocupada. la operación conjunta utilizó dos drones y un misil de crucero, logrando un impacto directo. estas acciones reafirman la postura de yemen de bloquear el tráfico marítimo israelí en los mares rojo y arábigo, en solidaridad con gaza. el comunicado destaca el compromiso de yemen con la causa palestina. “nosotros, los yemeníes, oh mensajero de dios, somos personas de fe y sabiduría. te apoyamos ayer, te apoyamos hoy y te apoyaremos mañana”, señala el texto, subrayando la determinación de continuar las operaciones hasta que cese la campaña genocida que israel lleva adelante contra el pueblo palestino en gaza. estas acciones ocurren tras el reciente asesinato del primer ministro yemení, ahmed ghaleb al-rahawi, en un ataque israelí el 28 de agosto en saná, que dejó cuatro muertos y 67 heridos, según el movimiento ansarollah. el consejo político supremo nombró a mohammed ahmed ahmed miftah como nuevo jefe de gobierno. el movimiento yemení ansarollah denunció que los bombardeos israelíes tuvieron como objetivo instalaciones civiles y la sede del poder ejecutivo, calificándolos como una escalada en el conflicto. “que los ojos de los cobardes nunca duerman”, concluye el comunicado.",
+    "tokens": [
+      "fuerzas",
+      "armadas",
+      "yemen",
+      "ejecutaron",
+      "martes",
+      "cuatro",
+      "operaciones",
+      "militares",
+      "drones",
+      "objetivos",
+      "israel",
+      ",",
+      "respuesta",
+      "“",
+      "crímenes",
+      "genocidio",
+      "hambruna",
+      "”",
+      "perpetra",
+      "ejército",
+      "sonista",
+      "pueblo",
+      "palestino",
+      "franja",
+      "gaza",
+      ".",
+      "acciones",
+      ",",
+      "incluyeron",
+      "ataques",
+      "edificio",
+      "mayor",
+      "israelí",
+      "yafo",
+      ",",
+      "central",
+      "eléctrica",
+      "al-khadira",
+      ",",
+      "aeropuerto",
+      "lod",
+      "puerto",
+      "ashdod",
+      ",",
+      "llevaron",
+      "cabo",
+      "drones",
+      "samada-4",
+      ",",
+      "alcanzando",
+      "objetivos",
+      "éxito",
+      ",",
+      "según",
+      "comunicado",
+      ".",
+      "contexto",
+      "creciente",
+      "tensión",
+      ",",
+      "fuerzas",
+      "armadas",
+      "yemeníes",
+      "atacaron",
+      "buque",
+      "msc",
+      "aby",
+      "mar",
+      "rojo",
+      "violar",
+      "prohibición",
+      "ingreso",
+      "puertos",
+      "palestina",
+      "ocupada",
+      ".",
+      "operación",
+      "conjunta",
+      "utilizó",
+      "dos",
+      "drones",
+      "misil",
+      "crucero",
+      ",",
+      "logrando",
+      "impacto",
+      "directo",
+      ".",
+      "acciones",
+      "reafirman",
+      "postura",
+      "yemen",
+      "bloquear",
+      "tráfico",
+      "marítimo",
+      "israelí",
+      "mares",
+      "rojo",
+      "arábigo",
+      ",",
+      "solidaridad",
+      "gaza",
+      ".",
+      "comunicado",
+      "destaca",
+      "compromiso",
+      "yemen",
+      "causa",
+      "palestina",
+      ".",
+      "“",
+      ",",
+      "yemeníes",
+      ",",
+      "oh",
+      "mensajero",
+      "dios",
+      ",",
+      "personas",
+      "fe",
+      "sabiduría",
+      ".",
+      "apoyamos",
+      "ayer",
+      ",",
+      "apoyamos",
+      "hoy",
+      "apoyaremos",
+      "mañana",
+      "”",
+      ",",
+      "señala",
+      "texto",
+      ",",
+      "subrayando",
+      "determinación",
+      "continuar",
+      "operaciones",
+      "cese",
+      "campaña",
+      "genocida",
+      "israel",
+      "lleva",
+      "adelante",
+      "pueblo",
+      "palestino",
+      "gaza",
+      ".",
+      "acciones",
+      "ocurren",
+      "tras",
+      "reciente",
+      "asesinato",
+      "primer",
+      "ministro",
+      "yemení",
+      ",",
+      "ahmed",
+      "ghaleb",
+      "al-rahawi",
+      ",",
+      "ataque",
+      "israelí",
+      "28",
+      "agosto",
+      "saná",
+      ",",
+      "dejó",
+      "cuatro",
+      "muertos",
+      "67",
+      "heridos",
+      ",",
+      "según",
+      "movimiento",
+      "ansarollah",
+      ".",
+      "consejo",
+      "político",
+      "supremo",
+      "nombró",
+      "mohammed",
+      "ahmed",
+      "ahmed",
+      "miftah",
+      "nuevo",
+      "jefe",
+      "gobierno",
+      ".",
+      "movimiento",
+      "yemení",
+      "ansarollah",
+      "denunció",
+      "bombardeos",
+      "israelíes",
+      "objetivo",
+      "instalaciones",
+      "civiles",
+      "sede",
+      "poder",
+      "ejecutivo",
+      ",",
+      "calificándolos",
+      "escalada",
+      "conflicto",
+      ".",
+      "“",
+      "ojos",
+      "cobardes",
+      "nunca",
+      "duerman",
+      "”",
+      ",",
+      "concluye",
+      "comunicado",
+      "."
+    ],
+    "token_count": 216,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 57,
+      "IN": 14,
+      "CC": 1,
+      "NN": 97,
+      "NNS": 15,
+      "VBP": 10,
+      "JJ": 33,
+      "FW": 46,
+      "VBZ": 8,
+      "MD": 1,
+      "VB": 1,
+      "VBD": 3,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 21,
+      "NNP-IN": 1,
+      "IN-NNP": 8,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-NNS": 2,
+      "NNS-NNS": 3,
+      "NNS-JJ": 3,
+      "JJ-JJ": 5,
+      "JJ-IN": 1,
+      "NNP-FW": 7,
+      "FW-NN": 7,
+      "NN-JJ": 10,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NN": 2,
+      "NN-NN": 52,
+      "JJ-NN": 19,
+      "NN-IN": 9,
+      "IN-FW": 4,
+      "FW-NNP": 8,
+      "NNP-VBZ": 7,
+      "VBZ-JJ": 5,
+      "VBP-JJ": 6,
+      "NN-NNP": 14,
+      "NNP-NN": 13,
+      "JJ-FW": 3,
+      "FW-IN": 1,
+      "NNP-JJ": 3,
+      "NN-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-FW": 27,
+      "NN-FW": 3,
+      "NNP-MD": 1,
+      "MD-NNP": 1,
+      "NNP-VB": 1,
+      "VB-NN": 1,
+      "FW-JJ": 1,
+      "NNS-NNP": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "JJ-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NNP-VBP": 1,
+      "FW-NNS": 2,
+      "VBZ-NNS": 1,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-IN": 1,
+      "CD-NNS": 1,
+      "JJ-VBP": 1,
+      "VBZ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "IN-NNP-FW": 3,
+      "NNP-FW-NN": 4,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NN": 27,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 9,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 5,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 11,
+      "NN-NN-NNP": 8,
+      "NN-NNP-VBZ": 5,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 5,
+      "FW-NN-IN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NNP-NN": 2,
+      "NN-NNP-JJ": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 18,
+      "FW-FW-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "FW-NNP-MD": 1,
+      "NNP-MD-NNP": 1,
+      "MD-NNP-VB": 1,
+      "NNP-VB-NN": 1,
+      "VB-NN-JJ": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-FW-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-FW-NN": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNP-NNP-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-NNP-NN": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "NNP": 57,
+        "FW": 46,
+        "JJ": 33,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 27,
+        "NNP-NNP": 21,
+        "JJ-NN": 19,
+        "NN-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 18,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 9,
+        "NNP-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 11,
+      "VP": 17,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 9,
+        "weight": 0.0726
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('Estas', 'NNP') ('acciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "S -> NP PP ('ejecutaron', 'CC') NP VP VP (',', ',') ('en', 'FW') ('respuesta', 'FW') NP NP PP NP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "VP -> ('cuatro', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('operaciones', 'NNS') ('militares', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0081
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las Fuerzas Armadas"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "cuatro operaciones militares"
+      },
+      {
+        "label": "NP",
+        "text": "operaciones militares"
+      },
+      {
+        "label": "VP",
+        "text": "con drones contra objetivos en Israel"
+      },
+      {
+        "label": "NP",
+        "text": "drones"
+      },
+      {
+        "label": "NP",
+        "text": "contra objetivos en Israel"
+      },
+      {
+        "label": "NP",
+        "text": "a los"
+      },
+      {
+        "label": "NP",
+        "text": "“ crímenes"
+      },
+      {
+        "label": "PP",
+        "text": "de genocidio y hambruna ” que perpetra el ejército"
+      },
+      {
+        "label": "NP",
+        "text": "genocidio y hambruna ” que perpetra el ejército"
+      },
+      {
+        "label": "NP",
+        "text": "sonista contra el pueblo palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Yemen/NNP))\n  ejecutaron/CC\n  (NP este/NN martes/NNS)\n  (VP cuatro/VBP (NP operaciones/NNS militares/NNS))\n  (VP\n    con/VBP\n    (NP drones/NNS)\n    (NP contra/JJ objetivos/JJ en/NN Israel/NNP))\n  ,/,\n  en/FW\n  respuesta/FW\n  (NP a/DT los/NN)\n  (NP “/JJ crímenes/NNS)\n  (PP\n    de/IN\n    (NP\n      genocidio/NN\n      y/NN\n      hambruna/NN\n      ”/NNP\n      que/NN\n      perpetra/NN\n      el/NN\n      ejército/NN))\n  (NP sonista/JJ contra/JJ el/NN pueblo/NN palestino/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP acciones/NNS)\n  ,/,\n  (NP que/NN incluyeron/NN ataques/NNS)\n  (VP\n    al/VBP\n    (NP\n      edificio/JJ\n      del/NN\n      Estado/NNP\n      Mayor/NNP\n      israelí/NN\n      en/NN\n      Yafo/NNP))\n  ,/,\n  (NP la/JJ central/JJ eléctrica/NN)\n  (PP de/IN (NP Al-Khadira/NNP))\n  ,/,\n  (NP el/JJ aeropuerto/NN)\n  (PP de/IN (NP Lod/NNP y/NNP))\n  el/FW\n  (NP puerto/NN)\n  (PP de/IN (NP Ashdod/NNP))\n  ,/,\n  (VP se/VBZ)\n  (VP llevaron/VBP (NP a/DT cabo/NN con/NN))\n  (VP drones/VBZ (NP Samada-4/NNP))\n  ,/,\n  (VP alcanzando/VBZ (NP sus/NN) (NP objetivos/JJ con/NN éxito/NN))\n  ,/,\n  (NP según/JJ el/NN comunicado/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ contexto/NN)\n  (PP de/IN (NP creciente/NN tensión/NN))\n  ,/,\n  (NP\n    las/JJ\n    Fuerzas/NNP\n    Armadas/NNP\n    yemeníes/NNP\n    también/NN\n    atacaron/NN\n    el/NN\n    buque/NN\n    MSC/NNP\n    ABY/NNP)\n  en/FW\n  el/FW\n  (NP Mar/NNP Rojo/NNP por/NN violar/NN la/NN)\n  prohibición/FW\n  de/FW\n  ingreso/FW\n  (NP a/DT puertos/NN)\n  de/IN\n  la/FW\n  (NP Palestina/NNP ocupada/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  operación/MD\n  (VP\n    conjunta/VB\n    (NP utilizó/JJ dos/NN drones/NNS)\n    y/RB\n    (NP un/JJ misil/NN))\n  (PP de/IN (NP crucero/NN))\n  ,/,\n  (NP logrando/JJ un/JJ impacto/NN directo/NN)\n  ./.)",
+      "(S\n  (NP Estas/NNP acciones/NNS)\n  (VP reafirman/VBP la/JJ)\n  postura/FW\n  de/FW\n  Yemen/FW\n  de/FW\n  bloquear/FW\n  el/FW\n  (NP tráfico/NN marítimo/NN israelí/NN)\n  (PP en/IN (NP los/NN mares/NNS Rojo/NNP y/NN Arábigo/NNP))\n  ,/,\n  en/FW\n  solidaridad/FW\n  (NP con/NN Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "REGIONES_PROVINCIAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ACCIONES_LEGALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeos israelíes",
+        "position": [
+          1681,
+          1701
+        ],
+        "start": 1681,
+        "end": 1701
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocida que israel lleva adelante contra el pueblo palestino en gaza",
+        "position": [
+          1247,
+          1316
+        ],
+        "start": 1247,
+        "end": 1316
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          661,
+          668
+        ],
+        "start": 661,
+        "end": 668
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con gaza",
+        "position": [
+          916,
+          936
+        ],
+        "start": 916,
+        "end": 936
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "genocidio y hambruna” que perpetra el ejército sonista contra el pueblo",
+        "position": [
+          152,
+          223
+        ],
+        "start": 152,
+        "end": 223
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio y hambruna” que perpetra el ejército sonista contra el pueblo palestino en la franja de gaza",
+        "position": [
+          152,
+          254
+        ],
+        "start": 152,
+        "end": 254
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1664,
+          1672
+        ],
+        "start": 1664,
+        "end": 1672
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          623,
+          626
+        ],
+        "start": 623,
+        "end": 626
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          379,
+          389
+        ],
+        "start": 379,
+        "end": 389
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          323,
+          330
+        ],
+        "start": 323,
+        "end": 330
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado mayor",
+        "position": [
+          310,
+          322
+        ],
+        "start": 310,
+        "end": 322
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio del",
+        "position": [
+          297,
+          309
+        ],
+        "start": 297,
+        "end": 309
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "ayer",
+        "position": [
+          1100,
+          1104
+        ],
+        "start": 1100,
+        "end": 1104
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Yemen",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ahmed Ghaleb al-Rahawi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mar Rojo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado Mayor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rojo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "oh Mensajero de Dios",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Arábigo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yafo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Poder Ejecutivo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ansarollah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo Político Supremo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ashdod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "aeropuerto de Lod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mohammed Ahmed Ahmed Miftah",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "EJECUTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Yemen",
+        "relacion": "EJECUTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "EJECUTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Yafo",
+        "relacion": "ES",
+        "objeto": "aeropuerto de Lod"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "ATACAR",
+        "objeto": "Mar Rojo"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "ATACAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Mar Rojo",
+        "relacion": "ATACAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LLEVAR_CESAR_CONTINUAR_SUBRAYAR_SE_ALAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Ahmed Ghaleb al-Rahawi",
+        "relacion": "OCURRIR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Ahmed Ghaleb al-Rahawi",
+        "relacion": "OCURRIR",
+        "objeto": "Ansarollah"
+      },
+      {
+        "sujeto": "Consejo Político Supremo",
+        "relacion": "NOMBRAR",
+        "objeto": "Mohammed Ahmed Ahmed Miftah"
+      },
+      {
+        "sujeto": "Consejo Político Supremo",
+        "relacion": "NOMBRAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Mohammed Ahmed Ahmed Miftah",
+        "relacion": "NOMBRAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Ansarollah",
+        "relacion": "DENUNCIAR",
+        "objeto": "Poder Ejecutivo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4404,
+    "pos": 0.01,
+    "neu": 0.99,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

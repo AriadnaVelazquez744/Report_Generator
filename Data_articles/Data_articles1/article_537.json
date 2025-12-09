@@ -1,0 +1,835 @@
+{
+  "url": "https://www.telesurtv.net/ataques-israel-estudiantes-palestinos-asesinados/",
+  "title": "Ataques israelíes dejan más de 18.000 estudiantes palestinos asesinados en Gaza y Cisjordania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Cisjordania",
+    "Conflicto",
+    "conflicto destacado",
+    "escuelas",
+    "Estudiantes",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "El Ministerio de Educación de Palestina reportó este miércoles que la agresión israelí, iniciada en octubre de 2023, ha dejado 18.651 estudiantes muertos y otros 29.114 heridos en Gaza y Cisjordania.\nLEA TAMBIÉN\nCientos de reservistas israelíes se niegan a participar en ofensiva contra Gaza\nSegún cifras difundidas por la Agencia de Noticias Palestina (WAFA), solo en la Franja de Gaza el número de escolares asesinados por la ocupación supera los 18.508 y los lesionados alcanzan los 28.142. En Cisjordania, en tanto, se registraron 142 estudiantes muertos y 972 heridos.\nEl balance oficial también señala que al menos 972 docentes y trabajadores del sector educativo perdieron la vida, mientras que otros 4.538 resultaron heridos y 199 fueron detenidos en los dos territorios.\nEn cuanto a la infraestructura, 172 escuelas públicas fueron reducidas a escombros en Gaza, junto con 63 instalaciones universitarias. Otras 218 instituciones educativas, entre ellas un centenar administradas por la Agencia de Naciones Unidas para los Refugiados Palestinos (OOPS), sufrieron daños severos a causa de los bombardeos.\nEn Cisjordania, la situación no difiere mucho: 152 escuelas fueron objeto de actos vandálicos por los ocupantes y ocho universidades o institutos superiores sufrieron múltiples allanamientos y daños. Debido al bloqueo israelí y la consecuente crisis financiera, el inicio del ciclo escolar tuvo que posponerse.\nLa ONU, a través de su Comisión Internacional Independiente para los territorios palestinos ocupados, acusó recientemente a la entidad sionista de Israel de destruir deliberadamente el sistema educativo en Gaza.\nPor su parte, Khaled Abu Nada, subsecretario del Ministerio de Educación allí, denunció que las fuerzas de ocupación ejecutan una política sistemática contra la enseñanza.\n“El ejército destruye de manera intencional las instituciones educativas con el objetivo de borrar la identidad palestina y quebrar la voluntad de nuestro pueblo”, declaró a Al Jazeera.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-israel-estudiantes-palestinos-asesinados/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-09.json",
+    "message_index": 873,
+    "message_id": 103702,
+    "date": "2025-09-03T18:55:23+00:00",
+    "text": "teleSUR\nAtaques israelíes dejan más de 18.000 estudiantes palestinos asesinados en Gaza y Cisjordania\nhttps://www.telesurtv.net/ataques-israel-estudiantes-palestinos-asesinados/",
+    "photo_path": null,
+    "views": 1857,
+    "reactions": {
+      "🤬": 38,
+      "❤": 3,
+      "😭": 2,
+      "😢": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de educación de palestina reportó este miércoles que la agresión israelí, iniciada en octubre de 2023, ha dejado 18.651 estudiantes muertos y otros 29.114 heridos en gaza y cisjordania. según cifras difundidas por la agencia de noticias palestina (wafa), solo en la franja de gaza el número de escolares asesinados por la ocupación supera los 18.508 y los lesionados alcanzan los 28.142. en cisjordania, en tanto, se registraron 142 estudiantes muertos y 972 heridos. el balance oficial también señala que al menos 972 docentes y trabajadores del sector educativo perdieron la vida, mientras que otros 4.538 resultaron heridos y 199 fueron detenidos en los dos territorios. en cuanto a la infraestructura, 172 escuelas públicas fueron reducidas a escombros en gaza, junto con 63 instalaciones universitarias. otras 218 instituciones educativas, entre ellas un centenar administradas por la agencia de naciones unidas para los refugiados palestinos (oops), sufrieron daños severos a causa de los bombardeos. en cisjordania, la situación no difiere mucho: 152 escuelas fueron objeto de actos vandálicos por los ocupantes y ocho universidades o institutos superiores sufrieron múltiples allanamientos y daños. debido al bloqueo israelí y la consecuente crisis financiera, el inicio del ciclo escolar tuvo que posponerse. la onu, a través de su comisión internacional independiente para los territorios palestinos ocupados, acusó recientemente a la entidad sionista de israel de destruir deliberadamente el sistema educativo en gaza. por su parte, khaled abu nada, subsecretario del ministerio de educación allí, denunció que las fuerzas de ocupación ejecutan una política sistemática contra la enseñanza. “el ejército destruye de manera intencional las instituciones educativas con el objetivo de borrar la identidad palestina y quebrar la voluntad de nuestro pueblo”, declaró a al jazeera.",
+    "tokens": [
+      "ministerio",
+      "educación",
+      "palestina",
+      "reportó",
+      "miércoles",
+      "agresión",
+      "israelí",
+      ",",
+      "iniciada",
+      "octubre",
+      "2023",
+      ",",
+      "dejado",
+      "18.651",
+      "estudiantes",
+      "muertos",
+      "29.114",
+      "heridos",
+      "gaza",
+      "cisjordania",
+      ".",
+      "según",
+      "cifras",
+      "difundidas",
+      "agencia",
+      "noticias",
+      "palestina",
+      "(",
+      "wafa",
+      ")",
+      ",",
+      "solo",
+      "franja",
+      "gaza",
+      "número",
+      "escolares",
+      "asesinados",
+      "ocupación",
+      "supera",
+      "18.508",
+      "lesionados",
+      "alcanzan",
+      "28.142.",
+      "cisjordania",
+      ",",
+      ",",
+      "registraron",
+      "142",
+      "estudiantes",
+      "muertos",
+      "972",
+      "heridos",
+      ".",
+      "balance",
+      "oficial",
+      "señala",
+      "menos",
+      "972",
+      "docentes",
+      "trabajadores",
+      "sector",
+      "educativo",
+      "perdieron",
+      "vida",
+      ",",
+      "mientras",
+      "4.538",
+      "resultaron",
+      "heridos",
+      "199",
+      "detenidos",
+      "dos",
+      "territorios",
+      ".",
+      "cuanto",
+      "infraestructura",
+      ",",
+      "172",
+      "escuelas",
+      "públicas",
+      "reducidas",
+      "escombros",
+      "gaza",
+      ",",
+      "junto",
+      "63",
+      "instalaciones",
+      "universitarias",
+      ".",
+      "218",
+      "instituciones",
+      "educativas",
+      ",",
+      "centenar",
+      "administradas",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestinos",
+      "(",
+      "oops",
+      ")",
+      ",",
+      "sufrieron",
+      "daños",
+      "severos",
+      "causa",
+      "bombardeos",
+      ".",
+      "cisjordania",
+      ",",
+      "situación",
+      "difiere",
+      ":",
+      "152",
+      "escuelas",
+      "objeto",
+      "actos",
+      "vandálicos",
+      "ocupantes",
+      "ocho",
+      "universidades",
+      "institutos",
+      "superiores",
+      "sufrieron",
+      "múltiples",
+      "allanamientos",
+      "daños",
+      ".",
+      "debido",
+      "bloqueo",
+      "israelí",
+      "consecuente",
+      "crisis",
+      "financiera",
+      ",",
+      "inicio",
+      "ciclo",
+      "escolar",
+      "posponerse",
+      ".",
+      "onu",
+      ",",
+      "través",
+      "comisión",
+      "internacional",
+      "independiente",
+      "territorios",
+      "palestinos",
+      "ocupados",
+      ",",
+      "acusó",
+      "recientemente",
+      "entidad",
+      "sionista",
+      "israel",
+      "destruir",
+      "deliberadamente",
+      "sistema",
+      "educativo",
+      "gaza",
+      ".",
+      "parte",
+      ",",
+      "khaled",
+      "abu",
+      ",",
+      "subsecretario",
+      "ministerio",
+      "educación",
+      "allí",
+      ",",
+      "denunció",
+      "fuerzas",
+      "ocupación",
+      "ejecutan",
+      "política",
+      "sistemática",
+      "enseñanza",
+      ".",
+      "“",
+      "ejército",
+      "destruye",
+      "manera",
+      "intencional",
+      "instituciones",
+      "educativas",
+      "objetivo",
+      "borrar",
+      "identidad",
+      "palestina",
+      "quebrar",
+      "voluntad",
+      "pueblo",
+      "”",
+      ",",
+      "declaró",
+      "jazeera",
+      "."
+    ],
+    "token_count": 200,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "IN": 10,
+      "FW": 58,
+      "NN": 80,
+      "NNS": 17,
+      "VBP": 11,
+      "JJ": 26,
+      "CD": 14,
+      "VBD": 5,
+      "RB": 3,
+      "$": 1,
+      "VBZ": 4,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 21,
+      "NNP-IN": 3,
+      "IN-NNP": 5,
+      "NNP-FW": 9,
+      "FW-NNP": 8,
+      "NNP-NN": 10,
+      "NN-NN": 41,
+      "NN-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "JJ-JJ": 2,
+      "JJ-NN": 14,
+      "NN-FW": 8,
+      "FW-FW": 37,
+      "FW-CD": 1,
+      "CD-NN": 5,
+      "NN-VBD": 3,
+      "VBD-CD": 3,
+      "CD-NNS": 8,
+      "VBP-RB": 1,
+      "RB-CD": 2,
+      "NNS-JJ": 4,
+      "JJ-NNP": 6,
+      "FW-JJ": 5,
+      "NNP-VBP": 2,
+      "NN-NNP": 5,
+      "FW-NN": 6,
+      "NN-CD": 4,
+      "NN-JJ": 6,
+      "CD-NNP": 1,
+      "NNS-VBD": 1,
+      "NNS-NNP": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "NNS-NNS": 1,
+      "VBP-NN": 3,
+      "NN-RB": 1,
+      "NN-IN": 7,
+      "IN-JJ": 1,
+      "JJ-NNS": 3,
+      "NN-VBZ": 2,
+      "VBZ-CD": 2,
+      "NNP-CD": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NNS": 1,
+      "IN-FW": 4,
+      "NNP-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-VBZ": 1,
+      "FW-NNS": 1,
+      "VBZ-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 27,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-NNP": 2,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-IN": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 5,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-CD": 4,
+      "NN-CD-NN": 2,
+      "CD-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-VBD": 1,
+      "VBD-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-FW-NN": 2,
+      "NN-NN-NN": 17,
+      "NN-CD-NNS": 2,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-CD": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 3,
+      "FW-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "NNS-JJ-NN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "JJ-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NN-NN-JJ": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-VBZ": 1,
+      "JJ-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNP": 3,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "FW-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 80,
+        "FW": 58,
+        "NNP": 49,
+        "JJ": 26,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 37,
+        "NNP-NNP": 21,
+        "JJ-NN": 14,
+        "NNP-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 17,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NNP": 8,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 83,
+      "PP": 6,
+      "VP": 21,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0317
+      },
+      {
+        "rule": "NP -> ('estudiantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('Cisjordania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('escuelas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP VP (',', ',') ADJP ('en', 'FW') ('octubre', 'FW') ('de', 'FW') ('2023', 'CD') (',', ',') VP ('18.651', 'CD') NP VP ('29.114', 'CD') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Educación', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Palestina', 'NNP') ('reportó', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Educación"
+      },
+      {
+        "label": "NP",
+        "text": "Educación"
+      },
+      {
+        "label": "NP",
+        "text": "Palestina reportó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que la agresión israelí"
+      },
+      {
+        "label": "NP",
+        "text": "la agresión israelí"
+      },
+      {
+        "label": "ADJP",
+        "text": "iniciada"
+      },
+      {
+        "label": "VP",
+        "text": "ha dejado"
+      },
+      {
+        "label": "NP",
+        "text": "estudiantes"
+      },
+      {
+        "label": "VP",
+        "text": "muertos y otros"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "en Gaza y Cisjordania"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Cientos"
+      },
+      {
+        "label": "NP",
+        "text": "a participar"
+      },
+      {
+        "label": "NP",
+        "text": "contra Gaza Según"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Educación/NNP))\n  de/FW\n  (NP Palestina/NNP reportó/NN este/NN miércoles/NNS)\n  (VP que/VBP (NP la/JJ agresión/NN israelí/NN))\n  ,/,\n  (ADJP iniciada/JJ)\n  en/FW\n  octubre/FW\n  de/FW\n  2023/CD\n  ,/,\n  (VP ha/VBD dejado/JJ)\n  18.651/CD\n  (NP estudiantes/NNS)\n  (VP muertos/VBP y/RB otros/RB)\n  29.114/CD\n  (NP heridos/NNS)\n  (NP en/JJ Gaza/NNP y/NN Cisjordania/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Cientos/NNP)\n  de/FW\n  reservistas/FW\n  israelíes/FW\n  se/FW\n  niegan/FW\n  (NP a/DT participar/NN)\n  en/IN\n  ofensiva/FW\n  (NP contra/JJ Gaza/NNP Según/NNP)\n  (VP cifras/VBP (NP difundidas/JJ por/NN la/NN Agencia/NNP))\n  (PP de/IN (NP Noticias/NNP Palestina/NNP))\n  (/(\n  (NP WAFA/NNP)\n  )/)\n  ,/,\n  (ADJP solo/JJ)\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  el/FW\n  número/FW\n  de/FW\n  escolares/FW\n  asesinados/FW\n  (NP por/NN)\n  la/FW\n  ocupación/FW\n  (NP supera/NN los/NN)\n  18.508/CD\n  (NP y/NN los/NN)\n  (NP lesionados/JJ alcanzan/NN)\n  (VP los/VBD)\n  28.142/CD\n  ./.)",
+      "(S\n  (NP En/NNP Cisjordania/NNP)\n  ,/,\n  en/FW\n  (NP tanto/NN)\n  ,/,\n  (NP se/JJ registraron/NN)\n  142/CD\n  (NP estudiantes/NNS)\n  (VP muertos/VBP y/RB)\n  972/CD\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP El/NNP balance/NN)\n  (NP oficial/JJ también/NN señala/NN que/NN)\n  (VP al/VBD)\n  menos/$\n  972/CD\n  (NP docentes/NNS)\n  (NP y/JJ trabajadores/NNS)\n  (VP del/VBP (NP sector/NN educativo/NN perdieron/NN la/NN vida/NN))\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  otros/RB\n  4.538/CD\n  (NP resultaron/NN heridos/NN)\n  y/$\n  199/CD\n  (NP fueron/NN detenidos/NN)\n  (PP en/IN (NP los/JJ dos/JJ territorios/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP cuanto/VBZ (NP a/DT la/NN infraestructura/NN))\n  ,/,\n  172/CD\n  (NP escuelas/NNS)\n  (NP públicas/JJ fueron/NN)\n  (VP reducidas/VBZ (NP a/DT escombros/JJ en/NN Gaza/NNP))\n  ,/,\n  (NP junto/NN con/NN)\n  63/CD\n  (NP instalaciones/NNS)\n  (ADJP universitarias/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "ACCIONES_LEGALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "TIEMPO_RELATIVO",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "acusó recientemente a",
+        "position": [
+          1526,
+          1547
+        ],
+        "start": 1526,
+        "end": 1547
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajadores del sector educativo perdieron",
+        "position": [
+          636,
+          679
+        ],
+        "start": 636,
+        "end": 679
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          428,
+          437
+        ],
+        "start": 428,
+        "end": 437
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1972,
+          1979
+        ],
+        "start": 1972,
+        "end": 1979
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1007,
+          1022
+        ],
+        "start": 1007,
+        "end": 1022
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "estudiantes",
+        "position": [
+          134,
+          145
+        ],
+        "start": 134,
+        "end": 145
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusó",
+        "position": [
+          1526,
+          1531
+        ],
+        "start": 1526,
+        "end": 1531
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          30,
+          39
+        ],
+        "start": 30,
+        "end": 39
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          1532,
+          1545
+        ],
+        "start": 1532,
+        "end": 1545
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1323,
+          1330
+        ],
+        "start": 1323,
+        "end": 1330
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "651 estudiantes",
+        "position": [
+          130,
+          145
+        ],
+        "start": 130,
+        "end": 145
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OOPS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia de Naciones Unidas para los Refugiados Palestinos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Khaled Abu Nada",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al Jazeera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Educación de Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia de Noticias Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comisión Internacional Independiente",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Educación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Educación de Palestina",
+        "relacion": "REPORTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Ministerio de Educación de Palestina",
+        "relacion": "REPORTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "PARTICIPAR_NEGAR",
+        "objeto": "Agencia de Noticias Palestina"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "PARTICIPAR_NEGAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Agencia de Noticias Palestina",
+        "relacion": "PARTICIPAR_NEGAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "ACUSAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "ACUSAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Comisión Internacional Independiente",
+        "relacion": "ACUSAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Comisión Internacional Independiente",
+        "relacion": "ACUSAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ACUSAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5994,
+    "pos": 0.008,
+    "neu": 0.969,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

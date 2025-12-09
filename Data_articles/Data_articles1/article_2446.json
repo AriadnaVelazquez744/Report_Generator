@@ -1,0 +1,855 @@
+{
+  "url": "https://www.telesurtv.net/ascienden-a-32-000-los-desplazados-en-medio-del-conflicto-en-catatumbo-colombia/",
+  "title": "Ascienden a 32.000 los desplazados en medio del conflicto en Catatumbo, Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Desplazados",
+    "El Catatumbo"
+  ],
+  "text": "El alarmante aumento de la violencia en la región colombiana del Catatumbo, en el nororiente del país, ha llevado a que el número de desplazados ascienda a unos 32.000, este martes, como resultado de los enfrentamientos entre el Ejército de Liberación Nacional (ELN) y una disidencia de las antiguas Fuerzas Armadas Revolucionarias de Colombia (FARC).\nLa crisis humanitaria y de seguridad en el Catatumbo ha sido ampliamente documentada por diversos medios y organismos.\nLa Defensoría del Pueblo, en noviembre del año pasado, advirtió sobre el riesgo inminente para los civiles debido a la proliferación de amenazas por parte de grupos armados en la mencionada región.\nLa gravedad de la situación se evidencia en el hecho de que, desde el jueves pasado, alrededor de 80 personas han perdido la vida, entre ellas seis firmantes del acuerdo de paz de 2016, según informes de la Gobernación de Norte de Santander.\nSin embargo, hasta el momento, solo se han recibido 35 cuerpos sin identificar en el Instituto de Medicina Legal.\nIris Marín, defensora del pueblo, declaró que “se mantiene el confinamiento en varias zonas y continúa la operación de la Fuerza Pública y Naciones Unidas para la extracción de personas en riesgo extremo”, agregando que 32.000 individuos se vieron obligados a buscar refugio en Cúcuta, Ocaña y Tibú.\nAdemás, este martes fue liberado el exalcalde municipal de San Cayetano, quien había estado en manos del ELN desde diciembre pasado.\nSin embargo, el ELN contradijo esta información, afirmando que en realidad había rescatado a Marín de sus secuestradores, el Frente 33 de las disidencias de las FARC; a lo cual la defensora Iris Marín respondió que dicho grupo había liderado dos misiones humanitarias que incluyeron la liberación de 31 personas detenidas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ascienden-a-32-000-los-desplazados-en-medio-del-conflicto-en-catatumbo-colombia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 716,
+    "message_id": 85099,
+    "date": "2025-01-22T06:55:07+00:00",
+    "text": "teleSUR\nAscienden a 32.000 los desplazados en medio del conflicto en Catatumbo, Colombia\nhttps://www.telesurtv.net/ascienden-a-32-000-los-desplazados-en-medio-del-conflicto-en-catatumbo-colombia/",
+    "photo_path": null,
+    "views": 2786,
+    "reactions": {
+      "🤬": 45,
+      "👍": 3,
+      "😱": 2
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "el alarmante aumento de la violencia en la región colombiana del catatumbo, en el nororiente del país, ha llevado a que el número de desplazados ascienda a unos 32.000, este martes, como resultado de los enfrentamientos entre el ejército de liberación nacional (eln) y una disidencia de las antiguas fuerzas armadas revolucionarias de colombia (farc). la crisis humanitaria y de seguridad en el catatumbo ha sido ampliamente documentada por diversos medios y organismos. la defensoría del pueblo, en noviembre del año pasado, advirtió sobre el riesgo inminente para los civiles debido a la proliferación de amenazas por parte de grupos armados en la mencionada región. la gravedad de la situación se evidencia en el hecho de que, desde el jueves pasado, alrededor de 80 personas han perdido la vida, entre ellas seis firmantes del acuerdo de paz de 2016, según informes de la gobernación de norte de santander. sin embargo, hasta el momento, solo se han recibido 35 cuerpos sin identificar en el instituto de medicina legal. iris marín, defensora del pueblo, declaró que “se mantiene el confinamiento en varias zonas y continúa la operación de la fuerza pública y naciones unidas para la extracción de personas en riesgo extremo”, agregando que 32.000 individuos se vieron obligados a buscar refugio en cúcuta, ocaña y tibú. además, este martes fue liberado el exalcalde municipal de san cayetano, quien había estado en manos del eln desde diciembre pasado. sin embargo, el eln contradijo esta información, afirmando que en realidad había rescatado a marín de sus secuestradores, el frente 33 de las disidencias de las farc; a lo cual la defensora iris marín respondió que dicho grupo había liderado dos misiones humanitarias que incluyeron la liberación de 31 personas detenidas.",
+    "tokens": [
+      "alarmante",
+      "aumento",
+      "violencia",
+      "región",
+      "colombiana",
+      "catatumbo",
+      ",",
+      "nororiente",
+      "país",
+      ",",
+      "llevado",
+      "número",
+      "desplazados",
+      "ascienda",
+      "32.000",
+      ",",
+      "martes",
+      ",",
+      "resultado",
+      "enfrentamientos",
+      "ejército",
+      "liberación",
+      "nacional",
+      "(",
+      "eln",
+      ")",
+      "disidencia",
+      "antiguas",
+      "fuerzas",
+      "armadas",
+      "revolucionarias",
+      "colombia",
+      "(",
+      "farc",
+      ")",
+      ".",
+      "crisis",
+      "humanitaria",
+      "seguridad",
+      "catatumbo",
+      "sido",
+      "ampliamente",
+      "documentada",
+      "diversos",
+      "medios",
+      "organismos",
+      ".",
+      "defensoría",
+      "pueblo",
+      ",",
+      "noviembre",
+      "año",
+      "pasado",
+      ",",
+      "advirtió",
+      "riesgo",
+      "inminente",
+      "civiles",
+      "debido",
+      "proliferación",
+      "amenazas",
+      "parte",
+      "grupos",
+      "armados",
+      "mencionada",
+      "región",
+      ".",
+      "gravedad",
+      "situación",
+      "evidencia",
+      "hecho",
+      ",",
+      "jueves",
+      "pasado",
+      ",",
+      "alrededor",
+      "80",
+      "personas",
+      "perdido",
+      "vida",
+      ",",
+      "seis",
+      "firmantes",
+      "acuerdo",
+      "paz",
+      "2016",
+      ",",
+      "según",
+      "informes",
+      "gobernación",
+      "norte",
+      "santander",
+      ".",
+      "embargo",
+      ",",
+      "momento",
+      ",",
+      "solo",
+      "recibido",
+      "35",
+      "cuerpos",
+      "identificar",
+      "instituto",
+      "medicina",
+      "legal",
+      ".",
+      "iris",
+      "marín",
+      ",",
+      "defensora",
+      "pueblo",
+      ",",
+      "declaró",
+      "“",
+      "mantiene",
+      "confinamiento",
+      "varias",
+      "zonas",
+      "continúa",
+      "operación",
+      "fuerza",
+      "pública",
+      "naciones",
+      "unidas",
+      "extracción",
+      "personas",
+      "riesgo",
+      "extremo",
+      "”",
+      ",",
+      "agregando",
+      "32.000",
+      "individuos",
+      "vieron",
+      "obligados",
+      "buscar",
+      "refugio",
+      "cúcuta",
+      ",",
+      "ocaña",
+      "tibú",
+      ".",
+      "además",
+      ",",
+      "martes",
+      "liberado",
+      "exalcalde",
+      "municipal",
+      "san",
+      "cayetano",
+      ",",
+      "manos",
+      "eln",
+      "diciembre",
+      "pasado",
+      ".",
+      "embargo",
+      ",",
+      "eln",
+      "contradijo",
+      "información",
+      ",",
+      "afirmando",
+      "realidad",
+      "rescatado",
+      "marín",
+      "secuestradores",
+      ",",
+      "frente",
+      "33",
+      "disidencias",
+      "farc",
+      ";",
+      "defensora",
+      "iris",
+      "marín",
+      "respondió",
+      "dicho",
+      "grupo",
+      "liderado",
+      "dos",
+      "misiones",
+      "humanitarias",
+      "incluyeron",
+      "liberación",
+      "31",
+      "personas",
+      "detenidas",
+      "."
+    ],
+    "token_count": 189,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "VBD": 1,
+      "FW": 94,
+      "NN": 82,
+      "IN": 13,
+      "JJ": 12,
+      "CD": 7,
+      "NNS": 11,
+      "VBP": 8,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "FW-FW": 65,
+      "FW-NN": 9,
+      "NN-FW": 9,
+      "FW-NNP": 12,
+      "NNP-FW": 8,
+      "NN-NN": 49,
+      "NN-IN": 9,
+      "IN-FW": 8,
+      "FW-JJ": 4,
+      "JJ-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NN": 4,
+      "NN-NNS": 6,
+      "NNS-VBP": 7,
+      "VBP-NN": 2,
+      "JJ-NN": 7,
+      "NN-NNP": 5,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NNP-NNP": 19,
+      "NNP-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-NN": 10,
+      "IN-NN": 1,
+      "VBP-NNP": 2,
+      "VBP-JJ": 3,
+      "JJ-FW": 1,
+      "FW-NNS": 2,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-VBP": 1,
+      "VBP-FW": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "FW-CD": 2,
+      "VBZ-CD": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-JJ": 1,
+      "NN-CD": 1,
+      "NNP-CD": 1,
+      "CD-IN": 1,
+      "NNS-NNP": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-FW": 48,
+      "FW-FW-NN": 7,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 6,
+      "NNP-FW-FW": 3,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 3,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-NNP": 4,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 9,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 4,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 7,
+      "FW-NNP-NNP": 4,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-FW": 6,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "NN-IN-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NNP-NN": 2,
+      "NN-FW-NN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "VBP-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 94,
+        "NN": 82,
+        "NNP": 44,
+        "IN": 13,
+        "JJ": 12
+      },
+      "top_bigrams": {
+        "FW-FW": 65,
+        "NN-NN": 49,
+        "NNP-NNP": 19,
+        "FW-NNP": 12,
+        "NNP-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 48,
+        "NN-NN-NN": 28,
+        "NNP-NNP-NNP": 9,
+        "NNP-NN-NN": 9,
+        "FW-FW-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 16,
+      "ADJP": 3,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "NP -> ('FARC', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "NP -> ('Sin', 'NNP') ('embargo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "S -> NP VP ('aumento', 'FW') ('de', 'FW') ('la', 'FW') ('violencia', 'FW') ('en', 'FW') ('la', 'FW') ('región', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('nororiente', 'FW') ('del', 'FW') NP (',', ',') NP VP ('de', 'IN') ('desplazados', 'FW') ('ascienda', 'FW') ('a', 'DT') ADJP ('32.000', 'CD') (',', ',') NP (',', ',') NP ('de', 'IN') ('los', 'FW') NP PP ('(', '(') NP (')', ')') NP NP ('de', 'IN') ('las', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "VP -> ('alarmante', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('colombiana', 'NN') ('del', 'NN') ('Catatumbo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('país', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('ha', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "alarmante"
+      },
+      {
+        "label": "NP",
+        "text": "colombiana del Catatumbo"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "ha"
+      },
+      {
+        "label": "VP",
+        "text": "llevado a que el número"
+      },
+      {
+        "label": "NP",
+        "text": "a que el número"
+      },
+      {
+        "label": "ADJP",
+        "text": "unos"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "NP",
+        "text": "como resultado"
+      },
+      {
+        "label": "NP",
+        "text": "enfrentamientos entre el Ejército"
+      },
+      {
+        "label": "PP",
+        "text": "de Liberación Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Liberación Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "ELN"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  (VP alarmante/VBD)\n  aumento/FW\n  de/FW\n  la/FW\n  violencia/FW\n  en/FW\n  la/FW\n  región/FW\n  (NP colombiana/NN del/NN Catatumbo/NNP)\n  ,/,\n  en/FW\n  el/FW\n  nororiente/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP ha/NN)\n  (VP llevado/VBD (NP a/DT que/NN el/NN número/NN))\n  de/IN\n  desplazados/FW\n  ascienda/FW\n  a/DT\n  (ADJP unos/JJ)\n  32.000/CD\n  ,/,\n  (NP este/NN martes/NNS)\n  ,/,\n  (NP como/NN resultado/NN)\n  de/IN\n  los/FW\n  (NP enfrentamientos/JJ entre/NN el/NN Ejército/NNP)\n  (PP de/IN (NP Liberación/NNP Nacional/NNP))\n  (/(\n  (NP ELN/NNP)\n  )/)\n  (NP y/NN)\n  (NP una/JJ disidencia/NN)\n  de/IN\n  las/FW\n  (NP antiguas/JJ Fuerzas/NNP Armadas/NNP Revolucionarias/NNP)\n  de/FW\n  (NP Colombia/NNP)\n  (/(\n  (NP FARC/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP La/NNP crisis/NN humanitaria/NN y/NN)\n  de/IN\n  seguridad/FW\n  en/FW\n  el/FW\n  (NP Catatumbo/NNP ha/NN sido/NN)\n  (PP\n    ampliamente/IN\n    (NP documentada/NN por/NN diversos/NN medios/NNS))\n  (VP y/VBP (NP organismos/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP Defensoría/NNP)\n  del/FW\n  (NP Pueblo/NNP)\n  ,/,\n  en/FW\n  noviembre/FW\n  del/FW\n  (NP año/NN pasado/NN)\n  ,/,\n  (NP\n    advirtió/JJ\n    sobre/NN\n    el/NN\n    riesgo/NN\n    inminente/NN\n    para/NN\n    los/NN\n    civiles/NNS)\n  (VP debido/VBP (NP a/DT la/NN))\n  proliferación/FW\n  de/FW\n  amenazas/FW\n  por/FW\n  parte/FW\n  de/FW\n  grupos/FW\n  armados/FW\n  en/FW\n  la/FW\n  mencionada/FW\n  (NP región/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  gravedad/FW\n  de/FW\n  la/FW\n  situación/FW\n  se/FW\n  evidencia/FW\n  en/FW\n  el/FW\n  hecho/FW\n  de/FW\n  que/FW\n  ,/,\n  desde/FW\n  el/FW\n  (NP jueves/NNS)\n  (VP pasado/VBP)\n  ,/,\n  (VP alrededor/VBP)\n  de/FW\n  80/CD\n  (NP personas/NNS)\n  (ADJP han/JJ)\n  (VP perdido/VBP)\n  la/FW\n  vida/FW\n  ,/,\n  entre/FW\n  ellas/FW\n  (NP seis/NN)\n  (VP firmantes/VBZ (NP del/JJ acuerdo/NN))\n  de/IN\n  paz/FW\n  de/FW\n  2016/CD\n  ,/,\n  (ADJP según/JJ)\n  informes/FW\n  de/FW\n  la/FW\n  (NP Gobernación/NNP)\n  de/FW\n  (NP Norte/NNP)\n  (PP de/IN (NP Santander/NNP))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP hasta/NN el/NN momento/NN)\n  ,/,\n  solo/FW\n  se/FW\n  (NP han/NN recibido/NN)\n  35/CD\n  (NP cuerpos/NN sin/NN identificar/NN)\n  en/FW\n  el/FW\n  (NP Instituto/NNP)\n  de/FW\n  (NP Medicina/NNP Legal/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "REGIONES_PROVINCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "PAISES",
+      "LEYES_NORMATIVAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ANTIIMPERIALISMO_SOBERANIA"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "enfrentamientos entre el ejército de liberación nacional (eln) y una disidencia de las antiguas fuerzas",
+        "position": [
+          204,
+          307
+        ],
+        "start": 204,
+        "end": 307
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1059,
+          1066
+        ],
+        "start": 1059,
+        "end": 1066
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          526,
+          534
+        ],
+        "start": 526,
+        "end": 534
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensoría del pueblo, en noviembre del año pasado, advirtió sobre el riesgo",
+        "position": [
+          474,
+          550
+        ],
+        "start": 474,
+        "end": 550
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1164,
+          1179
+        ],
+        "start": 1164,
+        "end": 1179
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto de medicina",
+        "position": [
+          996,
+          1017
+        ],
+        "start": 996,
+        "end": 1017
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo de paz de 2016",
+        "position": [
+          831,
+          853
+        ],
+        "start": 831,
+        "end": 853
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          335,
+          343
+        ],
+        "start": 335,
+        "end": 343
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región colombiana",
+        "position": [
+          43,
+          60
+        ],
+        "start": 43,
+        "end": 60
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          915,
+          922
+        ],
+        "start": 915,
+        "end": 922
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "80 personas",
+        "position": [
+          767,
+          778
+        ],
+        "start": 767,
+        "end": 778
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "31 personas",
+        "position": [
+          1758,
+          1769
+        ],
+        "start": 1758,
+        "end": 1769
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 80",
+        "position": [
+          754,
+          769
+        ],
+        "start": 754,
+        "end": 769
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Tibú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobernación de Norte de Santander",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FARC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Catatumbo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ELN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Marín",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Frente 33",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "San Cayetano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Iris Marín",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerza Pública y Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Instituto de Medicina Legal",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cúcuta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército de Liberación Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Armadas Revolucionarias de Colombia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ocaña",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Catatumbo",
+        "relacion": "LLEVAR",
+        "objeto": "Ejército de Liberación Nacional"
+      },
+      {
+        "sujeto": "Catatumbo",
+        "relacion": "LLEVAR",
+        "objeto": "ELN"
+      },
+      {
+        "sujeto": "Catatumbo",
+        "relacion": "LLEVAR",
+        "objeto": "Fuerzas Armadas Revolucionarias de Colombia"
+      },
+      {
+        "sujeto": "Catatumbo",
+        "relacion": "LLEVAR",
+        "objeto": "FARC"
+      },
+      {
+        "sujeto": "Iris Marín",
+        "relacion": "DECLARAR",
+        "objeto": "Fuerza Pública y Naciones Unidas"
+      },
+      {
+        "sujeto": "Iris Marín",
+        "relacion": "DECLARAR",
+        "objeto": "Cúcuta"
+      },
+      {
+        "sujeto": "Iris Marín",
+        "relacion": "DECLARAR",
+        "objeto": "Ocaña"
+      },
+      {
+        "sujeto": "Iris Marín",
+        "relacion": "DECLARAR",
+        "objeto": "Tibú"
+      },
+      {
+        "sujeto": "Fuerza Pública y Naciones Unidas",
+        "relacion": "CONTINUAR_MANTENER_DECLARAR",
+        "objeto": "Cúcuta"
+      },
+      {
+        "sujeto": "Fuerza Pública y Naciones Unidas",
+        "relacion": "CONTINUAR_MANTENER_DECLARAR",
+        "objeto": "Ocaña"
+      },
+      {
+        "sujeto": "Fuerza Pública y Naciones Unidas",
+        "relacion": "CONTINUAR_MANTENER_DECLARAR",
+        "objeto": "Tibú"
+      },
+      {
+        "sujeto": "ELN",
+        "relacion": "CONTRADECIR",
+        "objeto": "Marín"
+      },
+      {
+        "sujeto": "ELN",
+        "relacion": "CONTRADECIR",
+        "objeto": "Frente 33"
+      },
+      {
+        "sujeto": "ELN",
+        "relacion": "CONTRADECIR",
+        "objeto": "FARC"
+      },
+      {
+        "sujeto": "ELN",
+        "relacion": "CONTRADECIR",
+        "objeto": "Iris Marín"
+      },
+      {
+        "sujeto": "Marín",
+        "relacion": "RESCATAR_AFIRMAR_CONTRADECIR",
+        "objeto": "Frente 33"
+      },
+      {
+        "sujeto": "Marín",
+        "relacion": "RESCATAR_AFIRMAR_CONTRADECIR",
+        "objeto": "FARC"
+      },
+      {
+        "sujeto": "Marín",
+        "relacion": "RESCATAR_AFIRMAR_CONTRADECIR",
+        "objeto": "Iris Marín"
+      },
+      {
+        "sujeto": "Frente 33",
+        "relacion": "RESCATAR_AFIRMAR_CONTRADECIR",
+        "objeto": "Iris Marín"
+      },
+      {
+        "sujeto": "FARC",
+        "relacion": "RESCATAR_AFIRMAR_CONTRADECIR",
+        "objeto": "Iris Marín"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.891,
+    "pos": 0.022,
+    "neu": 0.927,
+    "neg": 0.052,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "url": "https://www.telesurtv.net/agresion-genocida-israeli-deja-128-palestinos-muertos-en-gaza/",
+  "title": "Agresión genocida israelí deja 128 palestinos muertos en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Genocidio israelí",
+    "Palestina"
+  ],
+  "text": "\nAl menos 128 palestinos fueron asesinados en las últimas 24 horas en la Franja de Gaza, en medio de una nueva escalada de la agresión genocida perpetrada por el régimen israelí, informaron este sábado medios locales de comunicación.\nLas fuentes señalaron que durante la jornada, asimismo, 260 personas resultaron heridas.\nEstas víctimas se suman al balance de mártires palestinos a manos del régimen sionista tras más de 15 meses consecutivos de escalada genocida.\nSuman un total de 49.747 palestinos asesinados y 113.213 heridos desde que dieron inicio las agresiones israelíes contra la Franja de Gaza, el 7 de octubre de 2023.\nLas autoridades palestinas condenaron la nueva escalada de ofensiva israeli que comenzó el martes pasado, enfatizando que es una flagrante violacion al acuerdo de alto al fuego establecido con el movimiento palestino de resistencia islámica Hamas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/agresion-genocida-israeli-deja-128-palestinos-muertos-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 670,
+    "message_id": 89928,
+    "date": "2025-03-23T08:55:12+00:00",
+    "text": "teleSUR\nAgresión genocida israelí deja 128 palestinos muertos en Gaza\nhttps://www.telesurtv.net/agresion-genocida-israeli-deja-128-palestinos-muertos-en-gaza/",
+    "photo_path": null,
+    "views": 1894,
+    "reactions": {
+      "🤬": 53,
+      "💩": 7,
+      "👍": 2,
+      "😭": 2,
+      "😈": 1
+    },
+    "total_reactions": 65
+  },
+  "preprocessing": {
+    "cleaned": "al menos 128 palestinos fueron asesinados en las últimas 24 horas en la franja de gaza, en medio de una nueva escalada de la agresión genocida perpetrada por el régimen israelí, informaron este sábado medios locales de comunicación. las fuentes señalaron que durante la jornada, asimismo, 260 personas resultaron heridas. estas víctimas se suman al balance de mártires palestinos a manos del régimen sionista tras más de 15 meses consecutivos de escalada genocida. suman un total de 49.747 palestinos asesinados y 113.213 heridos desde que dieron inicio las agresiones israelíes contra la franja de gaza, el 7 de octubre de 2023. las autoridades palestinas condenaron la nueva escalada de ofensiva israeli que comenzó el martes pasado, enfatizando que es una flagrante violacion al acuerdo de alto al fuego establecido con el movimiento palestino de resistencia islámica hamas.",
+    "tokens": [
+      "menos",
+      "128",
+      "palestinos",
+      "asesinados",
+      "últimas",
+      "24",
+      "horas",
+      "franja",
+      "gaza",
+      ",",
+      "medio",
+      "nueva",
+      "escalada",
+      "agresión",
+      "genocida",
+      "perpetrada",
+      "régimen",
+      "israelí",
+      ",",
+      "informaron",
+      "sábado",
+      "medios",
+      "locales",
+      "comunicación",
+      ".",
+      "fuentes",
+      "señalaron",
+      "jornada",
+      ",",
+      "asimismo",
+      ",",
+      "260",
+      "personas",
+      "resultaron",
+      "heridas",
+      ".",
+      "víctimas",
+      "suman",
+      "balance",
+      "mártires",
+      "palestinos",
+      "manos",
+      "régimen",
+      "sionista",
+      "tras",
+      "15",
+      "meses",
+      "consecutivos",
+      "escalada",
+      "genocida",
+      ".",
+      "suman",
+      "total",
+      "49.747",
+      "palestinos",
+      "asesinados",
+      "113.213",
+      "heridos",
+      "dieron",
+      "inicio",
+      "agresiones",
+      "israelíes",
+      "franja",
+      "gaza",
+      ",",
+      "7",
+      "octubre",
+      "2023.",
+      "autoridades",
+      "palestinas",
+      "condenaron",
+      "nueva",
+      "escalada",
+      "ofensiva",
+      "israeli",
+      "comenzó",
+      "martes",
+      "pasado",
+      ",",
+      "enfatizando",
+      "flagrante",
+      "violacion",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "establecido",
+      "movimiento",
+      "palestino",
+      "resistencia",
+      "islámica",
+      "hamas",
+      "."
+    ],
+    "token_count": 92,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 10,
+      "VBD": 2,
+      "CD": 7,
+      "NNS": 12,
+      "VBP": 9,
+      "JJ": 19,
+      "FW": 30,
+      "RB": 2,
+      "NN": 32,
+      "IN": 8,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-VBD": 1,
+      "VBD-CD": 2,
+      "CD-NNS": 6,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "JJ-FW": 4,
+      "FW-FW": 14,
+      "FW-CD": 1,
+      "NNS-RB": 2,
+      "RB-FW": 1,
+      "FW-NNP": 5,
+      "NNP-FW": 4,
+      "FW-NN": 3,
+      "NN-IN": 5,
+      "IN-JJ": 1,
+      "JJ-JJ": 4,
+      "FW-NNS": 3,
+      "JJ-NN": 9,
+      "NN-NN": 17,
+      "NN-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-FW": 4,
+      "NNP-VBZ": 1,
+      "VBZ-VBP": 1,
+      "VBP-NN": 2,
+      "NN-FW": 3,
+      "NN-VBD": 1,
+      "JJ-NNP": 2,
+      "NNP-NN": 1,
+      "NN-JJ": 2,
+      "IN-CD": 3,
+      "VBP-IN": 1,
+      "FW-JJ": 3,
+      "NNP-JJ": 1,
+      "RB-CD": 1,
+      "NNS-JJ": 1,
+      "FW-IN": 1,
+      "CD-NNP": 1,
+      "NNP-NNS": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 10,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-RB": 2,
+      "NNS-RB-FW": 1,
+      "RB-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "JJ-FW-NNS": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NN-NN": 8,
+      "NN-NNS-VBP": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 32,
+        "FW": 30,
+        "JJ": 19,
+        "NNS": 12,
+        "NNP": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 17,
+        "FW-FW": 14,
+        "JJ-NN": 9,
+        "NNS-VBP": 8,
+        "CD-NNS": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 10,
+        "NN-NN-NN": 8,
+        "NNS-VBP-JJ": 6,
+        "JJ-NN-NN": 6,
+        "FW-NNP-FW": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 35,
+      "VP": 16,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0351
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0351
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0351
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0351
+      },
+      {
+        "rule": "S -> NP VP ('128', 'CD') NP VP ('en', 'FW') ('las', 'FW') ('últimas', 'FW') ('24', 'CD') NP ('en', 'RB') ('la', 'FW') NP ('de', 'FW') NP (',', ',') ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('una', 'FW') ('nueva', 'FW') ('escalada', 'FW') ('de', 'FW') ('la', 'FW') ('agresión', 'FW') ('genocida', 'FW') ('perpetrada', 'FW') ('por', 'FW') ('el', 'FW') NP VP (',', ',') VP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('fueron', 'VBP') ('asesinados', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('horas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('régimen', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0175
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "fueron asesinados"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "régimen"
+      },
+      {
+        "label": "VP",
+        "text": "israelí"
+      },
+      {
+        "label": "VP",
+        "text": "informaron este sábado medios"
+      },
+      {
+        "label": "NP",
+        "text": "este sábado medios"
+      },
+      {
+        "label": "VP",
+        "text": "locales"
+      },
+      {
+        "label": "PP",
+        "text": "de comunicación"
+      },
+      {
+        "label": "NP",
+        "text": "comunicación"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD)\n  128/CD\n  (NP palestinos/NNS)\n  (VP fueron/VBP asesinados/JJ)\n  en/FW\n  las/FW\n  últimas/FW\n  24/CD\n  (NP horas/NNS)\n  en/RB\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  en/FW\n  medio/FW\n  de/FW\n  una/FW\n  nueva/FW\n  escalada/FW\n  de/FW\n  la/FW\n  agresión/FW\n  genocida/FW\n  perpetrada/FW\n  por/FW\n  el/FW\n  (NP régimen/NNS)\n  (VP israelí/VBP)\n  ,/,\n  (VP informaron/VBP (NP este/NN sábado/NN medios/NNS))\n  (VP locales/VBZ)\n  (PP de/IN (NP comunicación/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP fuentes/VBZ)\n  (VP señalaron/VBP (NP que/NN durante/NN))\n  la/FW\n  (NP jornada/NN)\n  ,/,\n  (NP asimismo/NN)\n  ,/,\n  260/CD\n  (NP personas/NNS resultaron/NN heridas/NN)\n  ./.)",
+      "(S\n  (NP Estas/NNP víctimas/NN se/NN)\n  (NP suman/JJ al/JJ balance/NN)\n  de/FW\n  (NP mártires/NNS)\n  (VP palestinos/VBP (NP a/DT manos/JJ del/NN régimen/NNS))\n  (VP sionista/VBP (NP tras/JJ más/NN))\n  de/IN\n  15/CD\n  (NP meses/NNS)\n  (VP consecutivos/VBP)\n  de/IN\n  escalada/FW\n  (NP genocida/NN)\n  ./.)",
+      "(S\n  (NP Suman/NNP)\n  (NP un/JJ total/NN)\n  de/IN\n  49.747/CD\n  (NP palestinos/NNS)\n  (VP asesinados/VBP y/RB)\n  113.213/CD\n  (NP heridos/NNS)\n  (NP desde/JJ que/JJ dieron/NN inicio/NN las/NN agresiones/NNS)\n  (VP israelíes/VBP contra/JJ)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP palestinas/JJ condenaron/NN la/NN))\n  nueva/FW\n  escalada/FW\n  de/FW\n  ofensiva/FW\n  (NP israeli/JJ que/NN comenzó/NN el/NN)\n  (VP martes/VBZ (NP pasado/NNS))\n  ,/,\n  (VP\n    enfatizando/VBP\n    (NP que/JJ es/NN)\n    (NP una/JJ flagrante/JJ violacion/NN al/NN acuerdo/NN))\n  de/IN\n  alto/FW\n  (NP\n    al/JJ\n    fuego/NN\n    establecido/NN\n    con/NN\n    el/NN\n    movimiento/NN\n    palestino/NN)\n  de/IN\n  resistencia/FW\n  (NP islámica/JJ Hamas/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresiones israelíes",
+        "position": [
+          559,
+          579
+        ],
+        "start": 559,
+        "end": 579
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "medio de una nueva escalada de la agresión genocida perpetrada por el régimen israelí, informaron este sábado medios locales de comunicación",
+        "position": [
+          92,
+          232
+        ],
+        "start": 92,
+        "end": 232
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          170,
+          177
+        ],
+        "start": 170,
+        "end": 177
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          609,
+          629
+        ],
+        "start": 609,
+        "end": 629
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "260 personas",
+        "position": [
+          290,
+          302
+        ],
+        "start": 290,
+        "end": 302
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 15",
+        "position": [
+          415,
+          424
+        ],
+        "start": 415,
+        "end": 424
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

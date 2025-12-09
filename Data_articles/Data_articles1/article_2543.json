@@ -1,0 +1,822 @@
+{
+  "url": "https://www.telesurtv.net/122260-2/",
+  "title": "Salvadoreños exigen la derogación de la Ley General de Minería - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "El Salvador",
+    "Minería metálica",
+    "Nayib Bukele",
+    "Protesta",
+    "recolección de firmas"
+  ],
+  "text": "Centenares de personas se congregaron este domingo en San Salvador en rechazo a la minería metálica que promueve el presidente Nayib Bukele y en defensa de la vida.\nLos movilizados acudieron a la plaza Gerardo Barrios, en el centro histórico de la capital salvadoreña, y protagonizaron un plantón. Desde allí exigieron la derogación de la Ley General de Minería, recientemente aprobada por la Asamblea Legislativa.\nLa protesta fue convocada por la Iglesia Católica. Los manifestantes corearon “Sí a la vida, no a la minería”.\nSegún reportes de medios, el presidente del Centro Salvadoreño de Tecnología Apropiada (Cesta), Ricardo Navarro, trasmitió a los manifestantes: “Es un día de esperanza porque la juventud salvadoreña ha dicho basta. Tenemos un país pobre, contaminado y Bukele no tiene derecho a contaminarlo más“.\nPor su parte, una de las dirigentes del movimiento Voces del Futuro, Daniela Ferrufino, exigió a los diputados de la Asamblea Legislativa -que casi en su totalidad pertenecen al partido de Bukele, Nuevas Ideas- la derogación de la Ley General de Minería.\nEn estos momentos la Arquidiócesis de San Salvador lleva adelante una campaña de recolección de firmas para exigir a Bukele la derogación de la ley, cuyo principal impulsor es precisamente el mandatario.\nDurante la protesta, el sacerdote Neftalí Ruiz informó que ya se han registrado más de 30.000 firmas. La recolección de estas se desarrolla en las 175 parroquias de la Arquidiócesis de San Salvador, informó el padre Santos Belisario Hernández. Dicha campaña también es respaldada por la organización no gubernamental Cristosal.\nDe acuerdo con el fraile, trabajan para “presentar un documento a la Asamblea Legislativa de anticonstitucionalidad de esta Ley general de la minería metálica”.\nEl 23 de diciembre pasado, el Legislativo aprobó la Ley de la Minería Metálica. Durante esa misma fecha fue firmada por Bukele, quien la mandó a publicar en el Diario Oficial.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/122260-2/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-01.json",
+    "message_index": 922,
+    "message_id": 84864,
+    "date": "2025-01-20T01:55:07+00:00",
+    "text": "teleSUR\nSalvadoreños exigen la derogación de la Ley General de Minería\nhttps://www.telesurtv.net/122260-2/",
+    "photo_path": null,
+    "views": 3123,
+    "reactions": {
+      "🤔": 20,
+      "👍": 13,
+      "🙏": 6,
+      "😁": 3,
+      "❤": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "centenares de personas se congregaron este domingo en san salvador en rechazo a la minería metálica que promueve el presidente nayib bukele y en defensa de la vida. los movilizados acudieron a la plaza gerardo barrios, en el centro histórico de la capital salvadoreña, y protagonizaron un plantón. desde allí exigieron la derogación de la ley general de minería, recientemente aprobada por la asamblea legislativa. la protesta fue convocada por la iglesia católica. los manifestantes corearon “sí a la vida, no a la minería”. según reportes de medios, el presidente del centro salvadoreño de tecnología apropiada (cesta), ricardo navarro, trasmitió a los manifestantes: “es un día de esperanza porque la juventud salvadoreña ha dicho basta. tenemos un país pobre, contaminado y bukele no tiene derecho a contaminarlo más“. por su parte, una de las dirigentes del movimiento voces del futuro, daniela ferrufino, exigió a los diputados de la asamblea legislativa -que casi en su totalidad pertenecen al partido de bukele, nuevas ideas- la derogación de la ley general de minería. en estos momentos la arquidiócesis de san salvador lleva adelante una campaña de recolección de firmas para exigir a bukele la derogación de la ley, cuyo principal impulsor es precisamente el mandatario. durante la protesta, el sacerdote neftalí ruiz informó que ya se han registrado más de 30.000 firmas. la recolección de estas se desarrolla en las 175 parroquias de la arquidiócesis de san salvador, informó el padre santos belisario hernández. dicha campaña también es respaldada por la organización no gubernamental cristosal. de acuerdo con el fraile, trabajan para “presentar un documento a la asamblea legislativa de anticonstitucionalidad de esta ley general de la minería metálica”. el 23 de diciembre pasado, el legislativo aprobó la ley de la minería metálica. durante esa misma fecha fue firmada por bukele, quien la mandó a publicar en el diario oficial.",
+    "tokens": [
+      "centenares",
+      "personas",
+      "congregaron",
+      "domingo",
+      "san",
+      "salvador",
+      "rechazo",
+      "minería",
+      "metálica",
+      "promueve",
+      "presidente",
+      "nayib",
+      "bukele",
+      "defensa",
+      "vida",
+      ".",
+      "movilizados",
+      "acudieron",
+      "plaza",
+      "gerardo",
+      "barrios",
+      ",",
+      "centro",
+      "histórico",
+      "capital",
+      "salvadoreña",
+      ",",
+      "protagonizaron",
+      "plantón",
+      ".",
+      "allí",
+      "exigieron",
+      "derogación",
+      "ley",
+      "general",
+      "minería",
+      ",",
+      "recientemente",
+      "aprobada",
+      "asamblea",
+      "legislativa",
+      ".",
+      "protesta",
+      "convocada",
+      "iglesia",
+      "católica",
+      ".",
+      "manifestantes",
+      "corearon",
+      "“",
+      "vida",
+      ",",
+      "minería",
+      "”",
+      ".",
+      "según",
+      "reportes",
+      "medios",
+      ",",
+      "presidente",
+      "centro",
+      "salvadoreño",
+      "tecnología",
+      "apropiada",
+      "(",
+      "cesta",
+      ")",
+      ",",
+      "ricardo",
+      "navarro",
+      ",",
+      "trasmitió",
+      "manifestantes",
+      ":",
+      "“",
+      "día",
+      "esperanza",
+      "juventud",
+      "salvadoreña",
+      "dicho",
+      "basta",
+      ".",
+      "país",
+      "pobre",
+      ",",
+      "contaminado",
+      "bukele",
+      "derecho",
+      "contaminarlo",
+      "“",
+      ".",
+      "parte",
+      ",",
+      "dirigentes",
+      "movimiento",
+      "voces",
+      "futuro",
+      ",",
+      "daniela",
+      "ferrufino",
+      ",",
+      "exigió",
+      "diputados",
+      "asamblea",
+      "legislativa",
+      "-que",
+      "casi",
+      "totalidad",
+      "pertenecen",
+      "partido",
+      "bukele",
+      ",",
+      "nuevas",
+      "ideas-",
+      "derogación",
+      "ley",
+      "general",
+      "minería",
+      ".",
+      "momentos",
+      "arquidiócesis",
+      "san",
+      "salvador",
+      "lleva",
+      "adelante",
+      "campaña",
+      "recolección",
+      "firmas",
+      "exigir",
+      "bukele",
+      "derogación",
+      "ley",
+      ",",
+      "cuyo",
+      "principal",
+      "impulsor",
+      "precisamente",
+      "mandatario",
+      ".",
+      "protesta",
+      ",",
+      "sacerdote",
+      "neftalí",
+      "ruiz",
+      "informó",
+      "registrado",
+      "30.000",
+      "firmas",
+      ".",
+      "recolección",
+      "desarrolla",
+      "175",
+      "parroquias",
+      "arquidiócesis",
+      "san",
+      "salvador",
+      ",",
+      "informó",
+      "padre",
+      "santos",
+      "belisario",
+      "hernández",
+      ".",
+      "dicha",
+      "campaña",
+      "respaldada",
+      "organización",
+      "gubernamental",
+      "cristosal",
+      ".",
+      "acuerdo",
+      "fraile",
+      ",",
+      "trabajan",
+      "“",
+      "presentar",
+      "documento",
+      "asamblea",
+      "legislativa",
+      "anticonstitucionalidad",
+      "ley",
+      "general",
+      "minería",
+      "metálica",
+      "”",
+      ".",
+      "23",
+      "diciembre",
+      "pasado",
+      ",",
+      "legislativo",
+      "aprobó",
+      "ley",
+      "minería",
+      "metálica",
+      ".",
+      "misma",
+      "fecha",
+      "firmada",
+      "bukele",
+      ",",
+      "mandó",
+      "publicar",
+      "diario",
+      "oficial",
+      "."
+    ],
+    "token_count": 206,
+    "sentence_count": 15
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 3,
+      "VBP": 6,
+      "FW": 83,
+      "NN": 89,
+      "IN": 10,
+      "NNP": 76,
+      "JJ": 13,
+      "VBZ": 7,
+      "DT": 3,
+      "CD": 3,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNS-VBP": 2,
+      "VBP-FW": 1,
+      "FW-FW": 45,
+      "FW-NN": 14,
+      "NN-NN": 51,
+      "NN-IN": 7,
+      "IN-NNP": 3,
+      "NNP-NNP": 35,
+      "NNP-FW": 19,
+      "NN-FW": 10,
+      "FW-VBP": 1,
+      "VBP-NN": 2,
+      "NN-NNP": 13,
+      "FW-NNP": 20,
+      "NN-JJ": 4,
+      "JJ-NN": 9,
+      "NNP-NN": 10,
+      "NNP-VBP": 1,
+      "VBP-JJ": 2,
+      "NNP-VBZ": 4,
+      "VBZ-VBP": 1,
+      "VBP-NNP": 1,
+      "VBZ-DT": 2,
+      "DT-NN": 2,
+      "VBZ-FW": 1,
+      "NNP-IN": 2,
+      "NN-VBZ": 3,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 2,
+      "IN-FW": 5,
+      "FW-JJ": 2,
+      "JJ-FW": 2,
+      "NNP-DT": 1,
+      "VBZ-JJ": 2,
+      "FW-NNS": 1,
+      "JJ-NNP": 2,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-NNP": 1,
+      "IN-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "NN-VBP": 1,
+      "DT-JJ": 1,
+      "NNP-CD": 1,
+      "CD-IN": 1
+    },
+    "trigram_freq": {
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 9,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 12,
+      "NNP-FW-NN": 6,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 29,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNP": 9,
+      "NN-NNP-NNP": 7,
+      "NNP-FW-FW": 7,
+      "FW-FW-NNP": 11,
+      "FW-NNP-FW": 5,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 11,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NN": 9,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NNP-NNP-NNP": 12,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NNP-NN": 6,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NNP-JJ": 1,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 3,
+      "IN-FW-FW": 2,
+      "FW-NN-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-$": 1,
+      "IN-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 89,
+        "FW": 83,
+        "NNP": 76,
+        "JJ": 13,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "FW-FW": 45,
+        "NNP-NNP": 35,
+        "FW-NNP": 20,
+        "NNP-FW": 19
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 28,
+        "NNP-NNP-FW": 12,
+        "NNP-NNP-NNP": 12,
+        "FW-FW-NNP": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 15,
+    "chunk_counts": {
+      "NP": 78,
+      "VP": 16,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "NP -> ('San', 'NNP') ('Salvador', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Arquidiócesis', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP VP ('personas', 'FW') ('se', 'FW') NP PP ('en', 'FW') ('rechazo', 'FW') NP VP ('en', 'FW') ('defensa', 'FW') ('de', 'FW') ('la', 'FW') ('vida', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Centenares', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('de', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('congregaron', 'NN') ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('minería', 'NN') ('metálica', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('promueve', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Centenares"
+      },
+      {
+        "label": "VP",
+        "text": "de"
+      },
+      {
+        "label": "NP",
+        "text": "congregaron este domingo"
+      },
+      {
+        "label": "PP",
+        "text": "en San Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "San Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "a la minería metálica que"
+      },
+      {
+        "label": "VP",
+        "text": "promueve el presidente Nayib Bukele y"
+      },
+      {
+        "label": "NP",
+        "text": "el presidente Nayib Bukele y"
+      },
+      {
+        "label": "NP",
+        "text": "Los movilizados"
+      },
+      {
+        "label": "VP",
+        "text": "acudieron a la plaza Gerardo Barrios"
+      },
+      {
+        "label": "NP",
+        "text": "a la plaza Gerardo Barrios"
+      },
+      {
+        "label": "NP",
+        "text": "capital salvadoreña"
+      },
+      {
+        "label": "NP",
+        "text": "protagonizaron"
+      },
+      {
+        "label": "NP",
+        "text": "un plantón"
+      },
+      {
+        "label": "NP",
+        "text": "Desde allí exigieron la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Centenares/NNS)\n  (VP de/VBP)\n  personas/FW\n  se/FW\n  (NP congregaron/NN este/NN domingo/NN)\n  (PP en/IN (NP San/NNP Salvador/NNP))\n  en/FW\n  rechazo/FW\n  (NP a/DT la/NN minería/NN metálica/NN que/NN)\n  (VP\n    promueve/VBP\n    (NP el/NN presidente/NN Nayib/NNP Bukele/NNP y/NNP))\n  en/FW\n  defensa/FW\n  de/FW\n  la/FW\n  vida/FW\n  ./.)",
+      "(S\n  (NP Los/NNP movilizados/NNP)\n  (VP acudieron/VBZ (NP a/DT la/NN plaza/NN Gerardo/NNP Barrios/NNP))\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  histórico/FW\n  de/FW\n  la/FW\n  (NP capital/NN salvadoreña/NN)\n  ,/,\n  y/CC\n  (NP protagonizaron/NN)\n  (NP un/JJ plantón/NN)\n  ./.)",
+      "(S\n  (NP Desde/NNP allí/NN exigieron/NN la/NN)\n  derogación/FW\n  de/FW\n  la/FW\n  (NP Ley/NNP General/NNP de/NNP Minería/NNP)\n  ,/,\n  (NP recientemente/NN aprobada/NN por/NN)\n  la/FW\n  (NP Asamblea/NNP Legislativa/NNP)\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    protesta/NN\n    fue/NN\n    convocada/NN\n    por/NN\n    la/NN\n    Iglesia/NNP\n    Católica/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP manifestantes/VBZ)\n  (VP corearon/VBP (NP “/NNP Sí/NNP) (NP a/DT la/NN vida/NN))\n  ,/,\n  no/DT\n  (NP a/DT la/NN minería/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "MEDIOS_COMUNICACION",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "CANTIDADES_NUMERICAS",
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "ORGANIZACIONES_SOCIALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          248,
+          255
+        ],
+        "start": 248,
+        "end": 255
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1329,
+          1336
+        ],
+        "start": 1329,
+        "end": 1336
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "aprobó la ley",
+        "position": [
+          1813,
+          1826
+        ],
+        "start": 1813,
+        "end": 1826
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          145,
+          152
+        ],
+        "start": 145,
+        "end": 152
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nayib bukele",
+        "position": [
+          116,
+          139
+        ],
+        "start": 116,
+        "end": 139
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "organización no gubernamental",
+        "position": [
+          1569,
+          1598
+        ],
+        "start": 1569,
+        "end": 1598
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario oficial",
+        "position": [
+          1931,
+          1945
+        ],
+        "start": 1931,
+        "end": 1945
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          1813,
+          1819
+        ],
+        "start": 1813,
+        "end": 1819
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "san salvador",
+        "position": [
+          54,
+          66
+        ],
+        "start": 54,
+        "end": 66
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza gerardo",
+        "position": [
+          196,
+          209
+        ],
+        "start": 196,
+        "end": 209
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro histórico",
+        "position": [
+          225,
+          241
+        ],
+        "start": 225,
+        "end": 241
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          363,
+          376
+        ],
+        "start": 363,
+        "end": 376
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 30.000",
+        "position": [
+          1362,
+          1375
+        ],
+        "start": 1362,
+        "end": 1375
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nuevas Ideas-",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nayib Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cristosal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Legislativo aprobó la Ley de la Minería Metálica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Daniela Ferrufino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gerardo Barrios",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Santos Belisario Hernández",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ricardo Navarro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Iglesia Católica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Neftalí Ruiz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "San Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea Legislativa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Arquidiócesis de San Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro Salvadoreño de Tecnología Apropiada",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "San Salvador",
+        "relacion": "CONGREGAR",
+        "objeto": "Nayib Bukele"
+      },
+      {
+        "sujeto": "Daniela Ferrufino",
+        "relacion": "EXIGIR",
+        "objeto": "Asamblea Legislativa"
+      },
+      {
+        "sujeto": "Daniela Ferrufino",
+        "relacion": "EXIGIR",
+        "objeto": "Bukele"
+      },
+      {
+        "sujeto": "Daniela Ferrufino",
+        "relacion": "EXIGIR",
+        "objeto": "Nuevas Ideas-"
+      },
+      {
+        "sujeto": "Asamblea Legislativa",
+        "relacion": "EXIGIR",
+        "objeto": "Bukele"
+      },
+      {
+        "sujeto": "Asamblea Legislativa",
+        "relacion": "EXIGIR",
+        "objeto": "Nuevas Ideas-"
+      },
+      {
+        "sujeto": "Arquidiócesis de San Salvador",
+        "relacion": "LLEVAR",
+        "objeto": "Bukele"
+      },
+      {
+        "sujeto": "Arquidiócesis de San Salvador",
+        "relacion": "DESARROLLAR_INFORMAR",
+        "objeto": "Santos Belisario Hernández"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4939,
+    "pos": 0.008,
+    "neu": 0.97,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

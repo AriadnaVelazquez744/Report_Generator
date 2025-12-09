@@ -1,0 +1,595 @@
+{
+  "url": "https://www.telesurtv.net/presidente-nicolas-maduro-denuncia-sanciones-y-aranceles-de-ee-uu-contra-venezuela/",
+  "title": "Presidente Nicolás Maduro denuncia sanciones y aranceles de EE.UU. contra Venezuela - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "EE.UU.",
+    "ExpoMetal 2025",
+    "Nicolás Maduro",
+    "Sanciones",
+    "Venezuela"
+  ],
+  "text": "El presidente de Venezuela denunció este lunes las sanciones y la presión ejercida por el Gobierno de Estados Unidos, quien impuso aranceles del 25 por ciento a quienes comercien con su petróleo.\n\nAsimismo recalcó que “si ayer la batalla fue con espadas, lanzas y fusiles a caballo, hoy la batalla es producir, abastecer, exportar y desarrollar”.\n\nAl reconocer que “Venezuela lo tiene todo, no nos hace falta nada; Nicolás Maduro puntualizó: “lo que necesitamos lo tenemos aquí: tierra, sol, agua, riqueza, y es venezolana. Jamás será colonia nuestra Patria”.\nLa decisión fue adoptada un día después de la llegada de 199 migrantes desde EE.UU., a través de Honduras y después de la rechazada deportación y secuestro de más de 230 venezolanos a una cárcel de El Salvador.\nEn este contexto, el presidente manifestó que “los anuncios imperiales nos confirman que estamos en el camino hacia la independencia absoluta de nuestra economía”.\nLa medida arancelaria entrará en vigencia el 2 de abril.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-nicolas-maduro-denuncia-sanciones-y-aranceles-de-ee-uu-contra-venezuela/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-03.json",
+    "message_index": 540,
+    "message_id": 90110,
+    "date": "2025-03-24T23:55:07+00:00",
+    "text": "teleSUR\nPresidente Nicolás Maduro denuncia sanciones y aranceles de EE.UU. contra Venezuela\nhttps://www.telesurtv.net/presidente-nicolas-maduro-denuncia-sanciones-y-aranceles-de-ee-uu-contra-venezuela/",
+    "photo_path": null,
+    "views": 1973,
+    "reactions": {
+      "🤬": 33,
+      "👍": 10,
+      "😐": 2,
+      "😈": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela denunció este lunes las sanciones y la presión ejercida por el gobierno de estados unidos, quien impuso aranceles del 25 por ciento a quienes comercien con su petróleo. asimismo recalcó que “si ayer la batalla fue con espadas, lanzas y fusiles a caballo, hoy la batalla es producir, abastecer, exportar y desarrollar”. al reconocer que “venezuela lo tiene todo, no nos hace falta nada; nicolás maduro puntualizó: “lo que necesitamos lo tenemos aquí: tierra, sol, agua, riqueza, y es venezolana. jamás será colonia nuestra patria”. la decisión fue adoptada un día después de la llegada de 199 migrantes desde ee.uu., a través de honduras y después de la rechazada deportación y secuestro de más de 230 venezolanos a una cárcel de el salvador. en este contexto, el presidente manifestó que “los anuncios imperiales nos confirman que estamos en el camino hacia la independencia absoluta de nuestra economía”. la medida arancelaria entrará en vigencia el 2 de abril.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      "denunció",
+      "lunes",
+      "sanciones",
+      "presión",
+      "ejercida",
+      "gobierno",
+      "unidos",
+      ",",
+      "impuso",
+      "aranceles",
+      "25",
+      "ciento",
+      "comercien",
+      "petróleo",
+      ".",
+      "asimismo",
+      "recalcó",
+      "“",
+      "si",
+      "ayer",
+      "batalla",
+      "espadas",
+      ",",
+      "lanzas",
+      "fusiles",
+      "caballo",
+      ",",
+      "hoy",
+      "batalla",
+      "producir",
+      ",",
+      "abastecer",
+      ",",
+      "exportar",
+      "desarrollar",
+      "”",
+      ".",
+      "reconocer",
+      "“",
+      "venezuela",
+      ",",
+      "hace",
+      "falta",
+      ";",
+      "nicolás",
+      "maduro",
+      "puntualizó",
+      ":",
+      "“",
+      "necesitamos",
+      "aquí",
+      ":",
+      "tierra",
+      ",",
+      "sol",
+      ",",
+      "agua",
+      ",",
+      "riqueza",
+      ",",
+      "venezolana",
+      ".",
+      "jamás",
+      "colonia",
+      "patria",
+      "”",
+      ".",
+      "decisión",
+      "adoptada",
+      "día",
+      "después",
+      "llegada",
+      "199",
+      "migrantes",
+      "ee.uu.",
+      ",",
+      "través",
+      "honduras",
+      "después",
+      "rechazada",
+      "deportación",
+      "secuestro",
+      "230",
+      "venezolanos",
+      "cárcel",
+      "salvador",
+      ".",
+      "contexto",
+      ",",
+      "presidente",
+      "manifestó",
+      "“",
+      "anuncios",
+      "imperiales",
+      "confirman",
+      "camino",
+      "hacia",
+      "independencia",
+      "absoluta",
+      "economía",
+      "”",
+      ".",
+      "medida",
+      "arancelaria",
+      "entrará",
+      "vigencia",
+      "2",
+      "abril",
+      "."
+    ],
+    "token_count": 111,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 19,
+      "NN": 61,
+      "FW": 28,
+      "NNS": 9,
+      "VBP": 5,
+      "VBZ": 2,
+      "RB": 2,
+      "CD": 3,
+      "JJ": 15,
+      "DT": 1,
+      "IN": 5
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-FW": 4,
+      "FW-NNP": 5,
+      "NN-NN": 37,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "FW-FW": 16,
+      "FW-NN": 4,
+      "NNP-FW": 4,
+      "NNP-NNP": 5,
+      "NN-VBZ": 1,
+      "VBZ-RB": 1,
+      "RB-CD": 1,
+      "CD-NN": 1,
+      "VBP-NN": 1,
+      "NN-NNP": 3,
+      "NN-VBP": 1,
+      "VBP-JJ": 3,
+      "JJ-NNS": 3,
+      "JJ-NN": 8,
+      "NN-JJ": 8,
+      "JJ-NNP": 4,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "NN-IN": 4,
+      "IN-FW": 3,
+      "FW-CD": 2,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "IN-NNP": 1,
+      "NNS-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNS-IN": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 11,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 19,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NN-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NNP": 3,
+      "JJ-NNP-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NNP-NNP": 2,
+      "NN-JJ-NN": 4,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 61,
+        "FW": 28,
+        "NNP": 19,
+        "JJ": 15,
+        "NNS": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 16,
+        "NNP-NN": 9,
+        "JJ-NN": 8,
+        "NN-JJ": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 19,
+        "FW-FW-FW": 11,
+        "NN-NN-JJ": 8,
+        "NNP-NN-NN": 7,
+        "JJ-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 51,
+      "VP": 8,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0423
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0282
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0282
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP VP VP ('el', 'FW') NP ('de', 'FW') NP (',', ',') NP VP ('25', 'CD') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP') ('denunció', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "VP -> ('las', 'VBP') NP ('y', 'RB')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('sanciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "VP -> ('la', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('presión', 'JJ') ('ejercida', 'NN') ('por', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela denunció este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "las sanciones y"
+      },
+      {
+        "label": "NP",
+        "text": "sanciones"
+      },
+      {
+        "label": "VP",
+        "text": "la presión ejercida por"
+      },
+      {
+        "label": "NP",
+        "text": "presión ejercida por"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "quien impuso"
+      },
+      {
+        "label": "VP",
+        "text": "aranceles del"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento"
+      },
+      {
+        "label": "NP",
+        "text": "a quienes comercien con su petróleo"
+      },
+      {
+        "label": "NP",
+        "text": "Asimismo recalcó que “ si ayer"
+      },
+      {
+        "label": "NP",
+        "text": "batalla fue con espadas"
+      },
+      {
+        "label": "NP",
+        "text": "lanzas y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP denunció/NN este/NN lunes/NNS)\n  (VP las/VBP (NP sanciones/NNS) y/RB)\n  (VP la/VBP (NP presión/JJ ejercida/NN por/NN))\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP quien/NN impuso/NN)\n  (VP aranceles/VBZ del/RB)\n  25/CD\n  (NP por/NN ciento/NN)\n  (NP a/DT quienes/JJ comercien/NN con/NN su/NN petróleo/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP recalcó/NN que/NN “/NNP si/NN ayer/NN)\n  la/FW\n  (NP batalla/NN fue/NN con/NN espadas/NN)\n  ,/,\n  (NP lanzas/JJ y/NN)\n  (VP fusiles/VBZ (NP a/DT caballo/NN))\n  ,/,\n  (NP hoy/NN la/NN batalla/NN es/NN producir/NN)\n  ,/,\n  (NP abastecer/NN)\n  ,/,\n  (NP exportar/NN y/NN)\n  (NP desarrollar/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP reconocer/NN que/NN “/NNP Venezuela/NNP)\n  (VP lo/VBZ (NP tiene/JJ todo/NN))\n  ,/,\n  (NP no/DT nos/JJ hace/NN falta/NN nada/NN)\n  ;/:\n  (NP Nicolás/NNP Maduro/NNP puntualizó/NN)\n  :/:\n  (NP “/JJ lo/NN que/NN)\n  (NP necesitamos/JJ lo/NN tenemos/NN aquí/NN)\n  :/:\n  (NP tierra/NN)\n  ,/,\n  (NP sol/NN)\n  ,/,\n  (NP agua/NN)\n  ,/,\n  (NP riqueza/NN)\n  ,/,\n  y/CC\n  (NP es/JJ venezolana/NN)\n  ./.)",
+      "(S\n  (NP Jamás/NNP será/NN colonia/NN)\n  (NP nuestra/JJ Patria/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    decisión/VBZ\n    (NP fue/JJ adoptada/NN)\n    (NP un/JJ día/NN después/NN))\n  de/IN\n  la/FW\n  llegada/FW\n  de/FW\n  199/CD\n  (NP migrantes/NNS)\n  (NP desde/JJ EE.UU./NNP)\n  ,/,\n  (NP a/DT través/NN)\n  (PP de/IN (NP Honduras/NNP y/NNP))\n  después/FW\n  de/FW\n  la/FW\n  rechazada/FW\n  deportación/FW\n  y/FW\n  secuestro/FW\n  de/FW\n  más/FW\n  de/FW\n  230/CD\n  (NP venezolanos/NNS)\n  (NP a/DT una/JJ cárcel/NN)\n  (PP de/IN (NP El/NNP Salvador/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "ACCIONES_LEGALES",
+      "RECURSOS_NATURALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "GOBIERNOS_OFICIALES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          803,
+          812
+        ],
+        "start": 803,
+        "end": 812
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció este lunes las sanciones y la presión ejercida por el gobierno de estados unidos, quien impuso aranceles del 25 por ciento a",
+        "position": [
+          27,
+          160
+        ],
+        "start": 27,
+        "end": 160
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          90,
+          116
+        ],
+        "start": 90,
+        "end": 116
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          27,
+          35
+        ],
+        "start": 27,
+        "end": 35
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          492,
+          496
+        ],
+        "start": 492,
+        "end": 496
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          102,
+          116
+        ],
+        "start": 102,
+        "end": 116
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "ayer",
+        "position": [
+          222,
+          226
+        ],
+        "start": 222,
+        "end": 226
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 230",
+        "position": [
+          719,
+          729
+        ],
+        "start": 719,
+        "end": 729
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jamás",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gobierno de Estados Unidos"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "TENER_RECONOCER_HACER",
+        "objeto": "Nicolás Maduro"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.985,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}
