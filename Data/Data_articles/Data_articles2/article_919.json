@@ -1,0 +1,930 @@
+{
+  "url": "https://www.telesurtv.net/turkiye-e-israel-se-reunen-en-azerbaiyan-para-evitar-enfrentamientos-en-siria/",
+  "title": "Türkiye e Israel se reúnen en Azerbaiyán para evitar enfrentamientos en Siria - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conversaciones",
+    "Ejército",
+    "Encuentro",
+    "Gaza",
+    "Israel",
+    "Palestina",
+    "Siria",
+    "Türkiye"
+  ],
+  "text": "Representantes de Türkiye e Israel mantuvieron un encuentro este miércoles en Azerbaiyán con el objetivo de establecer mecanismos para prevenir cualquier conflicto entre sus fuerzas militares en Siria, territorio donde ambos países mantienen presencia.\n\nLEA TAMBIÉN\nEE.UU. y Rusia sostienen segunda ronda de pláticas en Estambul, Türkiye\n\nA través de un comunicado, el Ministerio de Defensa turco destacó que “para garantizar la seguridad regional, Israel debe abandonar su postura expansionista y ocupante y la comunidad internacional debe impedir esta ilegalidad”.\nLa Agencia Anadolu reportó que las conversaciones continuarán durante los próximos días para evaluar la situación en Siria. Además, dio a conocer que Türkiye defendió su presencia militar en el país árabe bajo el argumento de que responden a una solicitud oficial de la administración de facto de Damasco.\n\n\nLas autoridades turcas acusaron a Israel de lanzar “falsas acusaciones” y reiteraron su compromiso con el diálogo con Damasco, incluyendo planes para establecer bases de entrenamiento militar.\nEn ese sentido, subrayaron que “las conversaciones con la parte siria continúan con el objetivo de establecer bases de entrenamiento militar turcas. Israel está lanzando falsas acusaciones contra Turquía debido a su política exterior agresiva”.\nPor su parte, el canciller turco, Hakan Fidan, afirmó que su país no busca confrontaciones en Siria con ningún país, pero advirtió que responderá ante cualquier amenaza a su seguridad nacional.\nFidan criticó duramente la estrategia israelí de debilitar la infraestructura militar siria y descartó una mediación estadounidense en el conflicto. A la par, vinculó cualquier avance en las relaciones bilaterales al cese de las operaciones israelíes en Gaza.\nEl canciller turco descartó la idea de una mediación estadounidense y afirmó que una mayor mejora de las relaciones entre Türkiye e Israel depende de que Tel Aviv detenga sus políticas en Gaza, las cuales se basan en “muertes y destrucción de civiles”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/turkiye-e-israel-se-reunen-en-azerbaiyan-para-evitar-enfrentamientos-en-siria/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1360,
+    "message_id": 91544,
+    "date": "2025-04-10T16:55:07+00:00",
+    "text": "teleSUR\nTürkiye e Israel se reúnen en Azerbaiyán para evitar enfrentamientos en Siria\nhttps://www.telesurtv.net/turkiye-e-israel-se-reunen-en-azerbaiyan-para-evitar-enfrentamientos-en-siria/",
+    "photo_path": null,
+    "views": 1509,
+    "reactions": {
+      "💩": 28,
+      "🔥": 4,
+      "🤮": 4,
+      "🤔": 2,
+      "👍": 1
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "representantes de türkiye e israel mantuvieron un encuentro este miércoles en azerbaiyán con el objetivo de establecer mecanismos para prevenir cualquier conflicto entre sus fuerzas militares en siria, territorio donde ambos países mantienen presencia. a través de un comunicado, el ministerio de defensa turco destacó que “para garantizar la seguridad regional, israel debe abandonar su postura expansionista y ocupante y la comunidad internacional debe impedir esta ilegalidad”. la agencia anadolu reportó que las conversaciones continuarán durante los próximos días para evaluar la situación en siria. además, dio a conocer que türkiye defendió su presencia militar en el país árabe bajo el argumento de que responden a una solicitud oficial de la administración de facto de damasco. las autoridades turcas acusaron a israel de lanzar “falsas acusaciones” y reiteraron su compromiso con el diálogo con damasco, incluyendo planes para establecer bases de entrenamiento militar. en ese sentido, subrayaron que “las conversaciones con la parte siria continúan con el objetivo de establecer bases de entrenamiento militar turcas. israel está lanzando falsas acusaciones contra turquía debido a su política exterior agresiva”. por su parte, el canciller turco, hakan fidan, afirmó que su país no busca confrontaciones en siria con ningún país, pero advirtió que responderá ante cualquier amenaza a su seguridad nacional. fidan criticó duramente la estrategia israelí de debilitar la infraestructura militar siria y descartó una mediación estadounidense en el conflicto. a la par, vinculó cualquier avance en las relaciones bilaterales al cese de las operaciones israelíes en gaza. el canciller turco descartó la idea de una mediación estadounidense y afirmó que una mayor mejora de las relaciones entre türkiye e israel depende de que tel aviv detenga sus políticas en gaza, las cuales se basan en “muertes y destrucción de civiles”.",
+    "tokens": [
+      "representantes",
+      "türkiye",
+      "israel",
+      "mantuvieron",
+      "encuentro",
+      "miércoles",
+      "azerbaiyán",
+      "objetivo",
+      "establecer",
+      "mecanismos",
+      "prevenir",
+      "cualquier",
+      "conflicto",
+      "fuerzas",
+      "militares",
+      "siria",
+      ",",
+      "territorio",
+      "ambos",
+      "países",
+      "mantienen",
+      "presencia",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "ministerio",
+      "defensa",
+      "turco",
+      "destacó",
+      "“",
+      "garantizar",
+      "seguridad",
+      "regional",
+      ",",
+      "israel",
+      "debe",
+      "abandonar",
+      "postura",
+      "expansionista",
+      "ocupante",
+      "comunidad",
+      "internacional",
+      "debe",
+      "impedir",
+      "ilegalidad",
+      "”",
+      ".",
+      "agencia",
+      "anadolu",
+      "reportó",
+      "conversaciones",
+      "continuarán",
+      "próximos",
+      "días",
+      "evaluar",
+      "situación",
+      "siria",
+      ".",
+      "además",
+      ",",
+      "dio",
+      "conocer",
+      "türkiye",
+      "defendió",
+      "presencia",
+      "militar",
+      "país",
+      "árabe",
+      "bajo",
+      "argumento",
+      "responden",
+      "solicitud",
+      "oficial",
+      "administración",
+      "facto",
+      "damasco",
+      ".",
+      "autoridades",
+      "turcas",
+      "acusaron",
+      "israel",
+      "lanzar",
+      "“",
+      "falsas",
+      "acusaciones",
+      "”",
+      "reiteraron",
+      "compromiso",
+      "diálogo",
+      "damasco",
+      ",",
+      "incluyendo",
+      "planes",
+      "establecer",
+      "bases",
+      "entrenamiento",
+      "militar",
+      ".",
+      ",",
+      "subrayaron",
+      "“",
+      "conversaciones",
+      "parte",
+      "siria",
+      "continúan",
+      "objetivo",
+      "establecer",
+      "bases",
+      "entrenamiento",
+      "militar",
+      "turcas",
+      ".",
+      "israel",
+      "lanzando",
+      "falsas",
+      "acusaciones",
+      "turquía",
+      "debido",
+      "política",
+      "exterior",
+      "agresiva",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "canciller",
+      "turco",
+      ",",
+      "hakan",
+      "fidan",
+      ",",
+      "afirmó",
+      "país",
+      "busca",
+      "confrontaciones",
+      "siria",
+      "ningún",
+      "país",
+      ",",
+      "advirtió",
+      "responderá",
+      "cualquier",
+      "amenaza",
+      "seguridad",
+      "nacional",
+      ".",
+      "fidan",
+      "criticó",
+      "duramente",
+      "estrategia",
+      "israelí",
+      "debilitar",
+      "infraestructura",
+      "militar",
+      "siria",
+      "descartó",
+      "mediación",
+      "estadounidense",
+      "conflicto",
+      ".",
+      "par",
+      ",",
+      "vinculó",
+      "cualquier",
+      "avance",
+      "relaciones",
+      "bilaterales",
+      "cese",
+      "operaciones",
+      "israelíes",
+      "gaza",
+      ".",
+      "canciller",
+      "turco",
+      "descartó",
+      "idea",
+      "mediación",
+      "estadounidense",
+      "afirmó",
+      "mayor",
+      "mejora",
+      "relaciones",
+      "türkiye",
+      "israel",
+      "depende",
+      "tel",
+      "aviv",
+      "detenga",
+      "políticas",
+      "gaza",
+      ",",
+      "cuales",
+      "basan",
+      "“",
+      "muertes",
+      "destrucción",
+      "civiles",
+      "”",
+      "."
+    ],
+    "token_count": 200,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "FW": 59,
+      "JJ": 27,
+      "NN": 109,
+      "NNS": 16,
+      "VBP": 12,
+      "JJR": 2,
+      "VBZ": 6,
+      "IN": 10,
+      "VBD": 4,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 3,
+      "FW-NNP": 7,
+      "NNP-NNP": 15,
+      "NNP-JJ": 2,
+      "JJ-NN": 11,
+      "NN-NN": 68,
+      "NN-NNS": 4,
+      "NNS-VBP": 11,
+      "VBP-NNP": 4,
+      "NNP-NN": 17,
+      "NN-FW": 8,
+      "FW-FW": 36,
+      "FW-JJR": 1,
+      "JJR-NN": 2,
+      "FW-NN": 8,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "NN-NNP": 8,
+      "NN-IN": 8,
+      "IN-FW": 4,
+      "NN-VBD": 3,
+      "VBD-JJ": 3,
+      "JJ-NNP": 3,
+      "NN-JJ": 5,
+      "JJ-NNS": 5,
+      "VBP-JJ": 6,
+      "IN-NNP": 3,
+      "FW-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-FW": 4,
+      "NNP-VBZ": 3,
+      "JJ-IN": 1,
+      "NNS-FW": 3,
+      "FW-NNS": 4,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-FW": 1,
+      "NN-JJR": 1,
+      "IN-JJ": 2,
+      "NNS-NNS": 1,
+      "VBZ-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNP": 4,
+      "VBP-NNP-NN": 3,
+      "NNP-NN-NN": 14,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 25,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 40,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 7,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "NNP-NN-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 3,
+      "VBD-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 3,
+      "JJ-NN-VBD": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NN-NNP-NN": 3,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-JJ-NN": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-JJR": 1,
+      "NN-JJR-NN": 1,
+      "JJR-NN-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NN-IN": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-NNS": 1,
+      "VBD-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 109,
+        "FW": 59,
+        "NNP": 41,
+        "JJ": 27,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 68,
+        "FW-FW": 36,
+        "NNP-NN": 17,
+        "NNP-NNP": 15,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 40,
+        "FW-FW-FW": 25,
+        "NNP-NN-NN": 14,
+        "JJ-NN-NN": 8,
+        "NNP-NNP-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 25,
+      "PP": 8,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0328
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0246
+      },
+      {
+        "rule": "NP -> ('Siria', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP NP VP ('objetivo', 'FW') ('de', 'FW') ('establecer', 'FW') ('mecanismos', 'FW') ('para', 'FW') ('prevenir', 'FW') NP ('entre', 'FW') NP PP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Representantes', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Türkiye', 'NNP') ('e', 'NN') ('Israel', 'NNP') ('mantuvieron', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('encuentro', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Azerbaiyán', 'NNP') ('con', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Representantes"
+      },
+      {
+        "label": "NP",
+        "text": "Türkiye e Israel mantuvieron"
+      },
+      {
+        "label": "NP",
+        "text": "un encuentro este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "en Azerbaiyán con el"
+      },
+      {
+        "label": "NP",
+        "text": "Azerbaiyán con el"
+      },
+      {
+        "label": "NP",
+        "text": "cualquier conflicto"
+      },
+      {
+        "label": "NP",
+        "text": "sus fuerzas militares"
+      },
+      {
+        "label": "PP",
+        "text": "en Siria"
+      },
+      {
+        "label": "NP",
+        "text": "Siria"
+      },
+      {
+        "label": "NP",
+        "text": "territorio donde ambos"
+      },
+      {
+        "label": "VP",
+        "text": "países mantienen presencia"
+      },
+      {
+        "label": "NP",
+        "text": "mantienen presencia"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN EE.UU. y Rusia sostienen segunda ronda"
+      },
+      {
+        "label": "NP",
+        "text": "Estambul"
+      },
+      {
+        "label": "NP",
+        "text": "Türkiye A través"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Representantes/NNP)\n  de/FW\n  (NP Türkiye/NNP e/NN Israel/NNP mantuvieron/NNP)\n  (NP un/JJ encuentro/NN este/NN miércoles/NNS)\n  (VP en/VBP (NP Azerbaiyán/NNP con/NN el/NN))\n  objetivo/FW\n  de/FW\n  establecer/FW\n  mecanismos/FW\n  para/FW\n  prevenir/FW\n  (NP cualquier/JJR conflicto/NN)\n  entre/FW\n  (NP sus/NN fuerzas/NN militares/NNS)\n  (PP en/IN (NP Siria/NNP))\n  ,/,\n  (NP territorio/NN donde/NN ambos/NN)\n  (VP países/VBZ (NP mantienen/JJ presencia/NN))\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    EE.UU./NNP\n    y/NNP\n    Rusia/NNP\n    sostienen/NN\n    segunda/NN\n    ronda/NN)\n  de/IN\n  pláticas/FW\n  en/FW\n  (NP Estambul/NNP)\n  ,/,\n  (NP Türkiye/NNP A/NNP través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP\n    Defensa/NNP\n    turco/NN\n    destacó/NN\n    que/NN\n    “/NNP\n    para/NN\n    garantizar/NN\n    la/NN)\n  (ADJP seguridad/JJ)\n  (ADJP regional/JJ)\n  ,/,\n  (NP Israel/NNP)\n  (VP\n    debe/VBZ\n    (NP\n      abandonar/JJ\n      su/NN\n      postura/NN\n      expansionista/NN\n      y/NN\n      ocupante/NN\n      y/NNP\n      la/NNP))\n  (VP\n    comunidad/VBD\n    (NP\n      internacional/JJ\n      debe/NN\n      impedir/NN\n      esta/NN\n      ilegalidad/NN\n      ”/NN))\n  ./.)",
+      "(S\n  (NP La/NNP Agencia/NNP Anadolu/NNP reportó/NN que/NN)\n  (NP las/JJ conversaciones/NNS)\n  (VP\n    continuarán/VBP\n    (NP\n      durante/JJ\n      los/NN\n      próximos/NN\n      días/NN\n      para/NN\n      evaluar/NN\n      la/NN\n      situación/NN))\n  (PP en/IN (NP Siria/NNP))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP\n    dio/VBZ\n    (NP\n      a/DT\n      conocer/NN\n      que/NN\n      Türkiye/NNP\n      defendió/NN\n      su/NN\n      presencia/NN\n      militar/NN))\n  en/IN\n  el/FW\n  país/FW\n  árabe/FW\n  bajo/FW\n  el/FW\n  argumento/FW\n  de/FW\n  que/FW\n  (VP responden/VB)\n  a/DT\n  (ADJP una/JJ)\n  (ADJP solicitud/JJ)\n  (ADJP oficial/JJ)\n  de/FW\n  la/FW\n  administración/FW\n  de/FW\n  facto/FW\n  de/FW\n  (NP Damasco/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ turcas/JJ)\n  (PP acusaron/IN (NP a/DT Israel/NNP))\n  de/FW\n  lanzar/FW\n  “/FW\n  (NP\n    falsas/NN\n    acusaciones/NNS\n    ”/NNP\n    y/NN\n    reiteraron/NN\n    su/NN\n    compromiso/NN\n    con/NN\n    el/NN\n    diálogo/NN\n    con/NN\n    Damasco/NNP)\n  ,/,\n  (NP incluyendo/NN planes/NNS)\n  (VP para/VBP (NP establecer/JJ bases/NNS))\n  de/FW\n  entrenamiento/FW\n  (NP militar/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre sus",
+        "position": [
+          154,
+          173
+        ],
+        "start": 154,
+        "end": 173
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          725,
+          733
+        ],
+        "start": 725,
+        "end": 733
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "relaciones bilaterales",
+        "position": [
+          1698,
+          1720
+        ],
+        "start": 1698,
+        "end": 1720
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1360,
+          1366
+        ],
+        "start": 1360,
+        "end": 1366
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1435,
+          1443
+        ],
+        "start": 1435,
+        "end": 1443
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          383,
+          390
+        ],
+        "start": 383,
+        "end": 390
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "criticó",
+        "position": [
+          1513,
+          1520
+        ],
+        "start": 1513,
+        "end": 1520
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          397,
+          404
+        ],
+        "start": 397,
+        "end": 404
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusaron",
+        "position": [
+          898,
+          906
+        ],
+        "start": 898,
+        "end": 906
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          275,
+          280
+        ],
+        "start": 275,
+        "end": 280
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ministerio de Defensa turco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Damasco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Azerbaiyán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Türkiye\n\nA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fidan",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Agencia Anadolu",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hakan Fidan",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Representantes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Türkiye",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Turquía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estambul",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Representantes",
+        "relacion": "MANTENER",
+        "objeto": "Azerbaiyán"
+      },
+      {
+        "sujeto": "Representantes",
+        "relacion": "MANTENER",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "MANTENER",
+        "objeto": "Azerbaiyán"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "MANTENER",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Azerbaiyán"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Azerbaiyán",
+        "relacion": "MANTENER",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "SOSTENER",
+        "objeto": "Estambul"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "SOSTENER",
+        "objeto": "Türkiye\n\nA"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "SOSTENER",
+        "objeto": "Ministerio de Defensa turco"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "SOSTENER",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "SOSTENER",
+        "objeto": "Estambul"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "SOSTENER",
+        "objeto": "Türkiye\n\nA"
+      },
+      {
+        "sujeto": "Ministerio de Defensa turco",
+        "relacion": "SOSTENER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "SOSTENER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Estambul",
+        "relacion": "ES",
+        "objeto": "Türkiye\n\nA"
+      },
+      {
+        "sujeto": "Ministerio de Defensa turco",
+        "relacion": "SOSTENER",
+        "objeto": "Estambul"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "SOSTENER",
+        "objeto": "Estambul"
+      },
+      {
+        "sujeto": "Ministerio de Defensa turco",
+        "relacion": "SOSTENER",
+        "objeto": "Türkiye\n\nA"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "SOSTENER",
+        "objeto": "Türkiye\n\nA"
+      },
+      {
+        "sujeto": "Ministerio de Defensa turco",
+        "relacion": "DESTACAR_SOSTENER",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Agencia Anadolu",
+        "relacion": "REPORTAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "DEFENDER_DAR",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ACUSAR",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR",
+        "objeto": "Turquía"
+      },
+      {
+        "sujeto": "Hakan Fidan",
+        "relacion": "AFIRMAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Fidan",
+        "relacion": "CRITICAR",
+        "objeto": "siria"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "DEPENDER_AFIRMAR_DESCARTAR",
+        "objeto": "Türkiye"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "DEPENDER_AFIRMAR_DESCARTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "DEPENDER_AFIRMAR_DESCARTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEPENDER_AFIRMAR_DESCARTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "DETENER_DEPENDER_AFIRMAR_DESCARTAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.992,
+    "neg": 0.008,
+    "label": "negative"
+  }
+}

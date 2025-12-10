@@ -1,0 +1,707 @@
+{
+  "url": "https://www.telesurtv.net/claudia-sheinbaum-apoya-a-presidente-de-colombia-ante-golpismo/",
+  "title": "Claudia Sheinbaum apoya a presidente de Colombia ante golpismo - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Claudia Sheinbaum",
+    "Consejo Nacional Electoral",
+    "Golpe de Estado",
+    "Gustavo Petro"
+  ],
+  "text": "En la habitual conferencia matutina que realiza en Palacio Nacional, la presidenta de México, Claudia Sheinbaum Pardo, se solidarizó este miércoles con su par colombiano, Gustavo Petro, quien denunció un golpe de Estado, y calificó como una injusticia la investigación aprobada en su contra.\nLa jefa del Ejecutivo mexicano resaltó: “nuestra solidaridad con el presidente Petro, es el único presidente progresista que ha tenido Colombia”.\nY agregó: “Lo llaman golpe de Estado porque se da fuera de las leyes de Colombia”.\nCuestionó que la investigación se abra dos años después de la elección en la cual Petro ganó la presidencia por voto popular. Al mandatario colombiano se le acusa por presunta financiación prohibida y por exceder los gastos de campaña hasta en 1.2 millones de dólares.\nLa investigación fue aprobada en la jornada del martes 8 de octubre, y unos minutos más tarde el presidente Petro anunciaba el inicio del golpe de Estado.\n“Todas las organizaciones populares del país deben entrar en asamblea permanente. La hora de la movilización generalizada del pueblo colombiano ha llegado. El presidente constitucional de Colombia elegido por el voto popular ordena a la fuerza pública no levantar una sola arma contra el pueblo”, mencionó el presidente de Colombia a poco de haberse anunciado el resultado del Consejo Nacional Electoral (CNE).",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/claudia-sheinbaum-apoya-a-presidente-de-colombia-ante-golpismo/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1440,
+    "message_id": 78073,
+    "date": "2024-10-09T14:55:07+00:00",
+    "text": "teleSUR\nClaudia Sheinbaum apoya a presidente de Colombia ante golpismo\nhttps://www.telesurtv.net/claudia-sheinbaum-apoya-a-presidente-de-colombia-ante-golpismo/",
+    "photo_path": null,
+    "views": 2537,
+    "reactions": {
+      "❤": 53,
+      "👍": 15,
+      "👏": 5
+    },
+    "total_reactions": 73
+  },
+  "preprocessing": {
+    "cleaned": "en la habitual conferencia matutina que realiza en palacio nacional, la presidenta de méxico, claudia sheinbaum pardo, se solidarizó este miércoles con su par colombiano, gustavo petro, quien denunció un golpe de estado, y calificó como una injusticia la investigación aprobada en su contra. la jefa del ejecutivo mexicano resaltó: “nuestra solidaridad con el presidente petro, es el único presidente progresista que ha tenido colombia”. y agregó: “lo llaman golpe de estado porque se da fuera de las leyes de colombia”. cuestionó que la investigación se abra dos años después de la elección en la cual petro ganó la presidencia por voto popular. al mandatario colombiano se le acusa por presunta financiación prohibida y por exceder los gastos de campaña hasta en 1.2 millones de dólares. la investigación fue aprobada en la jornada del martes 8 de octubre, y unos minutos más tarde el presidente petro anunciaba el inicio del golpe de estado. “todas las organizaciones populares del país deben entrar en asamblea permanente. la hora de la movilización generalizada del pueblo colombiano ha llegado. el presidente constitucional de colombia elegido por el voto popular ordena a la fuerza pública no levantar una sola arma contra el pueblo”, mencionó el presidente de colombia a poco de haberse anunciado el resultado del consejo nacional electoral (cne).",
+    "tokens": [
+      "habitual",
+      "conferencia",
+      "matutina",
+      "realiza",
+      "palacio",
+      "nacional",
+      ",",
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      "pardo",
+      ",",
+      "solidarizó",
+      "miércoles",
+      "par",
+      "colombiano",
+      ",",
+      "gustavo",
+      "petro",
+      ",",
+      "denunció",
+      "golpe",
+      ",",
+      "calificó",
+      "injusticia",
+      "investigación",
+      "aprobada",
+      ".",
+      "jefa",
+      "ejecutivo",
+      "mexicano",
+      "resaltó",
+      ":",
+      "“",
+      "solidaridad",
+      "presidente",
+      "petro",
+      ",",
+      "único",
+      "presidente",
+      "progresista",
+      "colombia",
+      "”",
+      ".",
+      "agregó",
+      ":",
+      "“",
+      "llaman",
+      "golpe",
+      "da",
+      "leyes",
+      "colombia",
+      "”",
+      ".",
+      "cuestionó",
+      "investigación",
+      "abra",
+      "dos",
+      "años",
+      "después",
+      "elección",
+      "petro",
+      "ganó",
+      "presidencia",
+      "voto",
+      "popular",
+      ".",
+      "mandatario",
+      "colombiano",
+      "acusa",
+      "presunta",
+      "financiación",
+      "prohibida",
+      "exceder",
+      "gastos",
+      "campaña",
+      "1.2",
+      "millones",
+      "dólares",
+      ".",
+      "investigación",
+      "aprobada",
+      "jornada",
+      "martes",
+      "8",
+      "octubre",
+      ",",
+      "minutos",
+      "tarde",
+      "presidente",
+      "petro",
+      "anunciaba",
+      "inicio",
+      "golpe",
+      ".",
+      "“",
+      "todas",
+      "organizaciones",
+      "populares",
+      "país",
+      "deben",
+      "entrar",
+      "asamblea",
+      "permanente",
+      ".",
+      "hora",
+      "movilización",
+      "generalizada",
+      "pueblo",
+      "colombiano",
+      "llegado",
+      ".",
+      "presidente",
+      "constitucional",
+      "colombia",
+      "elegido",
+      "voto",
+      "popular",
+      "ordena",
+      "fuerza",
+      "pública",
+      "levantar",
+      "sola",
+      "arma",
+      "pueblo",
+      "”",
+      ",",
+      "mencionó",
+      "presidente",
+      "colombia",
+      "haberse",
+      "anunciado",
+      "resultado",
+      "consejo",
+      "nacional",
+      "electoral",
+      "(",
+      "cne",
+      ")",
+      "."
+    ],
+    "token_count": 142,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "FW": 49,
+      "JJ": 21,
+      "NN": 76,
+      "VBD": 1,
+      "NNS": 6,
+      "VBP": 5,
+      "IN": 8,
+      "VBZ": 6,
+      "CD": 1,
+      "CC": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 4,
+      "FW-JJ": 4,
+      "JJ-NN": 14,
+      "NN-NN": 45,
+      "NN-FW": 6,
+      "FW-NNP": 6,
+      "NNP-NNP": 10,
+      "FW-FW": 32,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 4,
+      "NN-NNP": 8,
+      "NNP-NN": 9,
+      "NN-JJ": 7,
+      "NN-IN": 7,
+      "IN-NNP": 4,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "FW-NN": 5,
+      "JJ-JJ": 2,
+      "NNP-VBZ": 5,
+      "VBZ-FW": 2,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 1,
+      "IN-FW": 3,
+      "JJ-NNP": 2,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "FW-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "JJ-NNS": 1,
+      "JJ-FW": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 1,
+      "IN-NN": 1,
+      "VBZ-JJ": 1,
+      "JJ-IN": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 23,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 25,
+      "FW-FW-NNP": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 4,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NNP-NN": 2,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-NNP-VBZ": 4,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "NN-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-JJ-NNP": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NN-IN": 1,
+      "IN-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 76,
+        "FW": 49,
+        "NNP": 33,
+        "JJ": 21,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 32,
+        "JJ-NN": 14,
+        "NNP-NNP": 10,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 25,
+        "NN-NN-NN": 23,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 9,
+        "NN-NN-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 52,
+      "VP": 10,
+      "PP": 5,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0506
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "ADJP -> ('popular', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') NP ('en', 'FW') NP (',', ',') ('la', 'FW') ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') VP VP (',', ',') NP (',', ',') NP NP PP (',', ',') NP NP VP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('habitual', 'JJ') ('conferencia', 'NN') ('matutina', 'NN') ('que', 'NN') ('realiza', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Palacio', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "habitual conferencia matutina que realiza"
+      },
+      {
+        "label": "NP",
+        "text": "Palacio Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum Pardo"
+      },
+      {
+        "label": "VP",
+        "text": "se solidarizó este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "solidarizó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "con su par colombiano"
+      },
+      {
+        "label": "NP",
+        "text": "su par colombiano"
+      },
+      {
+        "label": "NP",
+        "text": "Gustavo Petro"
+      },
+      {
+        "label": "NP",
+        "text": "quien denunció"
+      },
+      {
+        "label": "NP",
+        "text": "un golpe"
+      },
+      {
+        "label": "PP",
+        "text": "de Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      },
+      {
+        "label": "NP",
+        "text": "y calificó como"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  la/FW\n  (NP habitual/JJ conferencia/NN matutina/NN que/NN realiza/NN)\n  en/FW\n  (NP Palacio/NNP Nacional/NNP)\n  ,/,\n  la/FW\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP Pardo/NNP)\n  ,/,\n  (VP se/VBD (NP solidarizó/JJ este/NN miércoles/NNS))\n  (VP con/VBP (NP su/JJ par/NN colombiano/NN))\n  ,/,\n  (NP Gustavo/NNP Petro/NNP)\n  ,/,\n  (NP quien/NN denunció/NN)\n  (NP un/JJ golpe/NN)\n  (PP de/IN (NP Estado/NNP))\n  ,/,\n  (NP y/NNP calificó/NN como/NN)\n  (NP una/JJ injusticia/NN la/NN)\n  (VP investigación/VBP (NP aprobada/NN))\n  en/FW\n  (NP su/NN contra/NN)\n  ./.)",
+      "(S\n  (NP La/NNP jefa/NN del/NN Ejecutivo/NNP mexicano/NN resaltó/NN)\n  :/:\n  (NP\n    “/JJ\n    nuestra/JJ\n    solidaridad/NN\n    con/NN\n    el/NN\n    presidente/NN\n    Petro/NNP)\n  ,/,\n  (VP\n    es/VBZ\n    (NP\n      el/JJ\n      único/NNP\n      presidente/NN\n      progresista/NN\n      que/NN\n      ha/NN\n      tenido/NN\n      Colombia/NNP\n      ”/NNP))\n  ./.)",
+      "(S\n  (NP Y/JJ agregó/NN)\n  :/:\n  (NP “/JJ Lo/NNP llaman/NN golpe/NN)\n  (PP de/IN (NP Estado/NNP porque/NN se/NN da/NN fuera/NN))\n  de/IN\n  las/FW\n  leyes/FW\n  de/FW\n  (NP Colombia/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Cuestionó/NNP que/NN la/NN)\n  investigación/FW\n  se/FW\n  abra/FW\n  dos/FW\n  años/FW\n  después/FW\n  de/FW\n  la/FW\n  elección/FW\n  en/FW\n  la/FW\n  (NP cual/JJ Petro/NNP ganó/NN la/NN)\n  presidencia/FW\n  (NP por/NN voto/NN)\n  (ADJP popular/JJ)\n  ./.)",
+      "(S\n  (NP\n    Al/NNP\n    mandatario/NN\n    colombiano/NN\n    se/NN\n    le/NN\n    acusa/NN\n    por/NN\n    presunta/NN\n    financiación/NN\n    prohibida/NN\n    y/NN\n    por/NN\n    exceder/NN\n    los/NN\n    gastos/NN)\n  de/IN\n  campaña/FW\n  (NP hasta/NN)\n  en/FW\n  1.2/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "FECHAS_ESPECIFICAS",
+      "MONETARIOS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "movilización generalizada del pueblo colombiano ha llegado. el presidente",
+        "position": [
+          1041,
+          1114
+        ],
+        "start": 1041,
+        "end": 1114
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          72,
+          92
+        ],
+        "start": 72,
+        "end": 92
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "cuestionó",
+        "position": [
+          521,
+          530
+        ],
+        "start": 521,
+        "end": 530
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          192,
+          200
+        ],
+        "start": 192,
+        "end": 200
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          427,
+          435
+        ],
+        "start": 427,
+        "end": 435
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          86,
+          92
+        ],
+        "start": 86,
+        "end": 92
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, y calificó",
+        "position": [
+          213,
+          231
+        ],
+        "start": 213,
+        "end": 231
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "martes 8 de octubre",
+        "position": [
+          838,
+          857
+        ],
+        "start": 838,
+        "end": 857
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "más tarde",
+        "position": [
+          874,
+          883
+        ],
+        "start": 874,
+        "end": 883
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2 millones",
+        "position": [
+          767,
+          777
+        ],
+        "start": 767,
+        "end": 777
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "1.2 millones de dólares",
+        "position": [
+          765,
+          788
+        ],
+        "start": 765,
+        "end": 788
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Palacio Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Claudia Sheinbaum Pardo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ejecutivo mexicano",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Palacio Nacional",
+        "relacion": "REALIZAR_SOLIDARIZAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Palacio Nacional",
+        "relacion": "REALIZAR_SOLIDARIZAR",
+        "objeto": "Claudia Sheinbaum Pardo"
+      },
+      {
+        "sujeto": "Palacio Nacional",
+        "relacion": "REALIZAR_SOLIDARIZAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "SOLIDARIZAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum Pardo",
+        "relacion": "SOLIDARIZAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Ejecutivo mexicano",
+        "relacion": "RESALTAR",
+        "objeto": "Petro"
+      },
+      {
+        "sujeto": "Ejecutivo mexicano",
+        "relacion": "RESALTAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "MENCIONAR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "MENCIONAR",
+        "objeto": "CNE"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.802,
+    "pos": 0.048,
+    "neu": 0.942,
+    "neg": 0.01,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,697 @@
+{
+  "url": "https://www.telesurtv.net/camara-de-representantes-de-colombia-aprueba-reforma-laboral/",
+  "title": "Cámara de Representantes de Colombia aprueba Reforma Laboral - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cámara",
+    "Colombia",
+    "trabajo"
+  ],
+  "text": "La Cámara de Representante de Colombia aprobó este jueves la Reforma Laboral que permitirá, de acuerdo al Gobierno, asegurar un sistema de trabajo justo.\nEn este sentido, el presidente de Colombia, Gustavo Petro refirió que “estamos un paso más cerca de construir un sistema laboral justo, enfocado en proteger los derechos de los trabajadores”.\nDe igual manera, la vicepresidencia del país argumentó que esta propuesta busca dignificar el trabajo de millones de colombianos y colombianas, avanza ahora en el Senado de la República. Estamos construyendo una Colombia donde se respeten y protejan los derechos de los trabajadores, como debe ser.\nAl reconocer que es un histórico avance para Colombia, el Ministerio de Trabajo recalcó que este paso nos acerca a un país más justo y con derechos laborales para los y las trabajadoras, al tiempo de asegurar que continúan construyendo un futuro con trabajo digno, como debe ser.\nPor su parte, la ministra de Trabajo, Gloria Inés Ramírez, puntualizó que “es importante destacar que empezamos con 80 artículos, de los cuales seis fueron eliminados, pero llegaron ocho artículos nuevos”.\nTenemos una reforma con 84 artículos y bajo los principios donde la estabilidad laboral es el primer enfoque de esta base, y la contratación es por tiempo indefinido, mientras hay unos contratos especiales de plataforma, de periodistas y para trabajo doméstico.\nQueda un desafío sobre el trabajo en el campo, dijo la ministra, al tiempo de señalar que se aprobó el artículo 49 sobre la licencia de Paternidad, el artículo 52 programa de convenios laborales para las víctimas del conflicto armado, y el artículo 67 con la prohibición de contratos sindicales con organizaciones sindicales para la prestación de servicios o ejecución de obras.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/camara-de-representantes-de-colombia-aprueba-reforma-laboral/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 932,
+    "message_id": 78616,
+    "date": "2024-10-18T01:55:13+00:00",
+    "text": "teleSUR\nCámara de Representantes de Colombia aprueba Reforma Laboral\nhttps://www.telesurtv.net/camara-de-representantes-de-colombia-aprueba-reforma-laboral/",
+    "photo_path": null,
+    "views": 2387,
+    "reactions": {
+      "👏": 33,
+      "🤔": 4
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "la cámara de representante de colombia aprobó este jueves la reforma laboral que permitirá, de acuerdo al gobierno, asegurar un sistema de trabajo justo. en este sentido, el presidente de colombia, gustavo petro refirió que “estamos un paso más cerca de construir un sistema laboral justo, enfocado en proteger los derechos de los trabajadores”. de igual manera, la vicepresidencia del país argumentó que esta propuesta busca dignificar el trabajo de millones de colombianos y colombianas, avanza ahora en el senado de la república. estamos construyendo una colombia donde se respeten y protejan los derechos de los trabajadores, como debe ser. al reconocer que es un histórico avance para colombia, el ministerio de trabajo recalcó que este paso nos acerca a un país más justo y con derechos laborales para los y las trabajadoras, al tiempo de asegurar que continúan construyendo un futuro con trabajo digno, como debe ser. por su parte, la ministra de trabajo, gloria inés ramírez, puntualizó que “es importante destacar que empezamos con 80 artículos, de los cuales seis fueron eliminados, pero llegaron ocho artículos nuevos”. tenemos una reforma con 84 artículos y bajo los principios donde la estabilidad laboral es el primer enfoque de esta base, y la contratación es por tiempo indefinido, mientras hay unos contratos especiales de plataforma, de periodistas y para trabajo doméstico. queda un desafío sobre el trabajo en el campo, dijo la ministra, al tiempo de señalar que se aprobó el artículo 49 sobre la licencia de paternidad, el artículo 52 programa de convenios laborales para las víctimas del conflicto armado, y el artículo 67 con la prohibición de contratos sindicales con organizaciones sindicales para la prestación de servicios o ejecución de obras.",
+    "tokens": [
+      "cámara",
+      "representante",
+      "colombia",
+      "aprobó",
+      "jueves",
+      "reforma",
+      "laboral",
+      "permitirá",
+      ",",
+      "acuerdo",
+      "gobierno",
+      ",",
+      "asegurar",
+      "sistema",
+      "trabajo",
+      "justo",
+      ".",
+      ",",
+      "presidente",
+      "colombia",
+      ",",
+      "gustavo",
+      "petro",
+      "refirió",
+      "“",
+      "paso",
+      "cerca",
+      "construir",
+      "sistema",
+      "laboral",
+      "justo",
+      ",",
+      "enfocado",
+      "proteger",
+      "derechos",
+      "trabajadores",
+      "”",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "vicepresidencia",
+      "país",
+      "argumentó",
+      "propuesta",
+      "busca",
+      "dignificar",
+      "trabajo",
+      "millones",
+      "colombianos",
+      "colombianas",
+      ",",
+      "avanza",
+      "ahora",
+      "senado",
+      "república",
+      ".",
+      "construyendo",
+      "colombia",
+      "respeten",
+      "protejan",
+      "derechos",
+      "trabajadores",
+      ",",
+      "debe",
+      "ser",
+      ".",
+      "reconocer",
+      "histórico",
+      "avance",
+      "colombia",
+      ",",
+      "ministerio",
+      "trabajo",
+      "recalcó",
+      "paso",
+      "acerca",
+      "país",
+      "justo",
+      "derechos",
+      "laborales",
+      "trabajadoras",
+      ",",
+      "tiempo",
+      "asegurar",
+      "continúan",
+      "construyendo",
+      "futuro",
+      "trabajo",
+      "digno",
+      ",",
+      "debe",
+      "ser",
+      ".",
+      "parte",
+      ",",
+      "ministra",
+      "trabajo",
+      ",",
+      "gloria",
+      "inés",
+      "ramírez",
+      ",",
+      "puntualizó",
+      "“",
+      "importante",
+      "destacar",
+      "empezamos",
+      "80",
+      "artículos",
+      ",",
+      "cuales",
+      "seis",
+      "eliminados",
+      ",",
+      "llegaron",
+      "ocho",
+      "artículos",
+      "nuevos",
+      "”",
+      ".",
+      "reforma",
+      "84",
+      "artículos",
+      "bajo",
+      "principios",
+      "estabilidad",
+      "laboral",
+      "primer",
+      "enfoque",
+      "base",
+      ",",
+      "contratación",
+      "tiempo",
+      "indefinido",
+      ",",
+      "mientras",
+      "contratos",
+      "especiales",
+      "plataforma",
+      ",",
+      "periodistas",
+      "trabajo",
+      "doméstico",
+      ".",
+      "queda",
+      "desafío",
+      "trabajo",
+      "campo",
+      ",",
+      "dijo",
+      "ministra",
+      ",",
+      "tiempo",
+      "señalar",
+      "aprobó",
+      "artículo",
+      "49",
+      "licencia",
+      "paternidad",
+      ",",
+      "artículo",
+      "52",
+      "programa",
+      "convenios",
+      "laborales",
+      "víctimas",
+      "conflicto",
+      "armado",
+      ",",
+      "artículo",
+      "67",
+      "prohibición",
+      "contratos",
+      "sindicales",
+      "organizaciones",
+      "sindicales",
+      "prestación",
+      "servicios",
+      "ejecución",
+      "obras",
+      "."
+    ],
+    "token_count": 182,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "FW": 45,
+      "CC": 2,
+      "NN": 109,
+      "NNS": 13,
+      "VBP": 14,
+      "IN": 13,
+      "JJ": 33,
+      "VBZ": 5,
+      "VB": 1,
+      "RB": 4,
+      "CD": 5
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-FW": 3,
+      "FW-NNP": 6,
+      "NNP-CC": 2,
+      "CC-NN": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 10,
+      "VBP-NNP": 1,
+      "NNP-NN": 10,
+      "NN-NN": 64,
+      "NN-IN": 12,
+      "IN-FW": 9,
+      "FW-JJ": 4,
+      "JJ-NNP": 2,
+      "NN-JJ": 10,
+      "JJ-NN": 20,
+      "FW-NN": 7,
+      "NN-NNP": 6,
+      "NN-FW": 7,
+      "IN-NNP": 2,
+      "NN-VBP": 4,
+      "VBP-JJ": 7,
+      "JJ-JJ": 5,
+      "IN-NN": 1,
+      "FW-NNS": 6,
+      "NNS-NNP": 1,
+      "NNP-JJ": 2,
+      "FW-FW": 20,
+      "JJ-FW": 3,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 2,
+      "FW-VB": 1,
+      "VB-JJ": 1,
+      "VBZ-NNP": 1,
+      "NNP-IN": 1,
+      "NN-VBZ": 2,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNS": 3,
+      "VBP-NN": 2,
+      "NN-CD": 2,
+      "CD-NN": 4,
+      "IN-JJ": 1,
+      "VBP-RB": 2,
+      "RB-CD": 3,
+      "CD-JJ": 1,
+      "CC-RB": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 1,
+      "VBP-FW": 1,
+      "VBP-NNS": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "FW-NNP-CC": 2,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 9,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 5,
+      "IN-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NN-NN-VBP": 4,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 37,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "FW-NN-NN": 5,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 11,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNP": 4,
+      "NNP-FW-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-VB": 1,
+      "FW-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NN-JJ": 5,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "JJ-NN-JJ": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "FW-JJ-NN": 2,
+      "NN-JJ-JJ": 2,
+      "NN-FW-FW": 3,
+      "NN-VBP-NN": 1,
+      "VBP-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-FW": 2,
+      "NN-JJ-NNP": 1,
+      "NN-NN-CD": 1,
+      "CD-NN-NN": 2,
+      "NN-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-NN-NNS": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NN": 1,
+      "NN-NNP-JJ": 1,
+      "NN-FW-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-VBP-RB": 2,
+      "VBP-RB-CD": 2,
+      "RB-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "NNP-CC-RB": 1,
+      "CC-RB-CD": 1,
+      "RB-CD-NN": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 109,
+        "FW": 45,
+        "JJ": 33,
+        "NNP": 28,
+        "VBP": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 64,
+        "JJ-NN": 20,
+        "FW-FW": 20,
+        "NN-IN": 12,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 37,
+        "JJ-NN-NN": 11,
+        "FW-FW-FW": 11,
+        "NNP-NN-NN": 9,
+        "NN-IN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 19,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('trabajadores', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('como', 'NN') ('debe', 'NN') ('ser', 'NN')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('de', 'FW') NP ('aprobó', 'CC') NP VP (',', ',') ('de', 'FW') ('acuerdo', 'FW') NP (',', ',') NP NP ('de', 'IN') ('trabajo', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Cámara', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Representante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('la', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Reforma', 'NNP') ('Laboral', 'NNP') ('que', 'NN') ('permitirá', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Cámara"
+      },
+      {
+        "label": "NP",
+        "text": "Representante"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "la Reforma Laboral que permitirá"
+      },
+      {
+        "label": "NP",
+        "text": "Reforma Laboral que permitirá"
+      },
+      {
+        "label": "NP",
+        "text": "al Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "asegurar"
+      },
+      {
+        "label": "NP",
+        "text": "un sistema"
+      },
+      {
+        "label": "NP",
+        "text": "justo"
+      },
+      {
+        "label": "NP",
+        "text": "En este sentido"
+      },
+      {
+        "label": "NP",
+        "text": "el presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Gustavo Petro refirió que “"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Cámara/NNP)\n  de/FW\n  (NP Representante/NNP)\n  de/FW\n  (NP Colombia/NNP)\n  aprobó/CC\n  (NP este/NN jueves/NNS)\n  (VP la/VBP (NP Reforma/NNP Laboral/NNP que/NN permitirá/NN))\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP al/NN Gobierno/NNP)\n  ,/,\n  (NP asegurar/NN)\n  (NP un/JJ sistema/NN)\n  de/IN\n  trabajo/FW\n  (NP justo/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (NP el/JJ presidente/NN)\n  (PP de/IN (NP Colombia/NNP))\n  ,/,\n  (NP Gustavo/NNP Petro/NNP refirió/NN que/NN “/NNP)\n  (VP estamos/VBZ (NP un/JJ paso/NN más/NN cerca/NN))\n  de/IN\n  construir/FW\n  (NP un/JJ sistema/JJ laboral/JJ justo/NN)\n  ,/,\n  enfocado/FW\n  en/FW\n  proteger/FW\n  los/FW\n  derechos/FW\n  de/FW\n  los/FW\n  (NP trabajadores/NNS)\n  (VP ”/VBP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  la/FW\n  vicepresidencia/FW\n  del/FW\n  país/FW\n  argumentó/FW\n  (NP\n    que/NN\n    esta/NN\n    propuesta/NN\n    busca/NN\n    dignificar/NN\n    el/NN\n    trabajo/NN)\n  de/IN\n  millones/FW\n  de/FW\n  colombianos/FW\n  y/FW\n  (NP colombianas/NNS)\n  ,/,\n  (NP avanza/JJ ahora/NNS)\n  (PP en/IN (NP el/JJ Senado/NNP))\n  de/FW\n  la/FW\n  (NP República/NNP)\n  ./.)",
+      "(S\n  (NP Estamos/NNP construyendo/NN una/NN Colombia/NNP)\n  (VP donde/VBZ)\n  se/FW\n  (VP respeten/VB (NP y/NNP))\n  (VP protejan/VB (NP los/JJ derechos/NN))\n  de/IN\n  los/FW\n  (NP trabajadores/NNS)\n  ,/,\n  (NP como/NN debe/NN ser/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP reconocer/NN que/NN es/NN)\n  (NP un/JJ histórico/NN avance/NN para/NN Colombia/NNP)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Trabajo/NNP recalcó/NN que/NN este/NN paso/NN)\n  (ADJP nos/JJ)\n  (VP\n    acerca/VBZ\n    (NP a/DT un/JJ país/NN más/NN justo/NN y/NN con/NN derechos/NN))\n  (VP laborales/VBZ para/RB (NP los/JJ y/JJ las/NN trabajadoras/NNS))\n  ,/,\n  (NP al/JJ tiempo/NN)\n  de/IN\n  asegurar/FW\n  (NP que/JJ continúan/NN construyendo/NN)\n  (NP un/JJ futuro/JJ con/NN trabajo/NN digno/NN)\n  ,/,\n  (NP como/NN debe/NN ser/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          139,
+          146
+        ],
+        "start": 139,
+        "end": 146
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "aprobó este jueves la reforma",
+        "position": [
+          39,
+          68
+        ],
+        "start": 39,
+        "end": 68
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "cámara de representante de colombia aprobó",
+        "position": [
+          3,
+          45
+        ],
+        "start": 3,
+        "end": 45
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de colombia",
+        "position": [
+          174,
+          196
+        ],
+        "start": 174,
+        "end": 196
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de trabajo",
+        "position": [
+          942,
+          961
+        ],
+        "start": 942,
+        "end": 961
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          39,
+          45
+        ],
+        "start": 39,
+        "end": 45
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          30,
+          38
+        ],
+        "start": 30,
+        "end": 38
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "80 artículos",
+        "position": [
+          1041,
+          1053
+        ],
+        "start": 1041,
+        "end": 1053
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ministerio de Trabajo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cámara de Representante de Colombia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Senado de la República",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gloria Inés Ramírez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cámara de Representante de Colombia",
+        "relacion": "APROBAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Ministerio de Trabajo",
+        "relacion": "RECONOCER_RECALCAR",
+        "objeto": "Colombia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

@@ -1,0 +1,647 @@
+{
+  "url": "https://www.telesurtv.net/rusia-apoya-el-deseo-de-venezuela-de-unirse-a-los-brics/",
+  "title": "Rusia apoya el deseo de Venezuela de unirse a los BRICS - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Brics",
+    "Rusia",
+    "Venezuela"
+  ],
+  "text": "Este miércoles, los presidentes de Venezuela y Rusia mantuvieron reunión bilateral en el marco de la Cumbre BRICS que se desarrolla en Kazán, Rusia, hasta el día 24 de octubre.\nVenezuela camina con los BRICS por convicción y porque está en el camino del equilibrio del mundo: “Estamos a favor de la igualdad en el mundo”, afirmó Nicolás Maduro.\nEn sus palabras añadió: “Aplicamos los principios de los BRICS porque estas son nuestras creencias. El Sur Global solo podrá existir con el derecho a tener el futuro, a tener igualdad y libertad“.\nPor su parte, el presidente Putin aseveró: “Nuestros amigos venezolanos están cerca de nuestros valores: el respeto a la soberanía de cada Estado, la cooperación mutuamente ventajosa y honesta”.\nCelebró que Rusia y Venezuela juntos aspiren a un nuevo orden mundial, así como reconoció que Venezuela contribuye a la lucha contra la guerra híbrida y la rusofobia desplegada contra Rusia.\n“Rusia y Venezuela formaron unos lazos que no se pueden destruir” comentó también el presidente de Venezuela, quien calificó a la cumbre como histórica y que constituye “un gran mensaje de esperanza a los pueblos del mundo”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/rusia-apoya-el-deseo-de-venezuela-de-unirse-a-los-brics/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 590,
+    "message_id": 78980,
+    "date": "2024-10-23T14:55:07+00:00",
+    "text": "teleSUR\nRusia apoya el deseo de Venezuela de unirse a los BRICS\nhttps://www.telesurtv.net/rusia-apoya-el-deseo-de-venezuela-de-unirse-a-los-brics/",
+    "photo_path": null,
+    "views": 2257,
+    "reactions": {
+      "👍": 79,
+      "👏": 16,
+      "❤": 13,
+      "🙏": 2
+    },
+    "total_reactions": 110
+  },
+  "preprocessing": {
+    "cleaned": "este miércoles, los presidentes de venezuela y rusia mantuvieron reunión bilateral en el marco de la cumbre brics que se desarrolla en kazán, rusia, hasta el día 24 de octubre. venezuela camina con los brics por convicción y porque está en el camino del equilibrio del mundo: “estamos a favor de la igualdad en el mundo”, afirmó nicolás maduro. en sus palabras añadió: “aplicamos los principios de los brics porque estas son nuestras creencias. el sur global solo podrá existir con el derecho a tener el futuro, a tener igualdad y libertad“. por su parte, el presidente putin aseveró: “nuestros amigos venezolanos están cerca de nuestros valores: el respeto a la soberanía de cada estado, la cooperación mutuamente ventajosa y honesta”. celebró que rusia y venezuela juntos aspiren a un nuevo orden mundial, así como reconoció que venezuela contribuye a la lucha contra la guerra híbrida y la rusofobia desplegada contra rusia. “rusia y venezuela formaron unos lazos que no se pueden destruir” comentó también el presidente de venezuela, quien calificó a la cumbre como histórica y que constituye “un gran mensaje de esperanza a los pueblos del mundo”.",
+    "tokens": [
+      "miércoles",
+      ",",
+      "presidentes",
+      "venezuela",
+      "rusia",
+      "mantuvieron",
+      "reunión",
+      "bilateral",
+      "marco",
+      "cumbre",
+      "brics",
+      "desarrolla",
+      "kazán",
+      ",",
+      "rusia",
+      ",",
+      "día",
+      "24",
+      "octubre",
+      ".",
+      "venezuela",
+      "camina",
+      "brics",
+      "convicción",
+      "camino",
+      "equilibrio",
+      "mundo",
+      ":",
+      "“",
+      "favor",
+      "igualdad",
+      "mundo",
+      "”",
+      ",",
+      "afirmó",
+      "nicolás",
+      "maduro",
+      ".",
+      "palabras",
+      "añadió",
+      ":",
+      "“",
+      "aplicamos",
+      "principios",
+      "brics",
+      "creencias",
+      ".",
+      "sur",
+      "global",
+      "solo",
+      "podrá",
+      "existir",
+      "derecho",
+      "tener",
+      "futuro",
+      ",",
+      "tener",
+      "igualdad",
+      "libertad",
+      "“",
+      ".",
+      "parte",
+      ",",
+      "presidente",
+      "putin",
+      "aseveró",
+      ":",
+      "“",
+      "amigos",
+      "venezolanos",
+      "cerca",
+      "valores",
+      ":",
+      "respeto",
+      "soberanía",
+      "cada",
+      ",",
+      "cooperación",
+      "mutuamente",
+      "ventajosa",
+      "honesta",
+      "”",
+      ".",
+      "celebró",
+      "rusia",
+      "venezuela",
+      "juntos",
+      "aspiren",
+      "nuevo",
+      "orden",
+      "mundial",
+      ",",
+      "así",
+      "reconoció",
+      "venezuela",
+      "contribuye",
+      "lucha",
+      "guerra",
+      "híbrida",
+      "rusofobia",
+      "desplegada",
+      "rusia",
+      ".",
+      "“",
+      "rusia",
+      "venezuela",
+      "formaron",
+      "lazos",
+      "pueden",
+      "destruir",
+      "”",
+      "comentó",
+      "presidente",
+      "venezuela",
+      ",",
+      "calificó",
+      "cumbre",
+      "histórica",
+      "constituye",
+      "“",
+      "gran",
+      "mensaje",
+      "esperanza",
+      "pueblos",
+      "mundo",
+      "”",
+      "."
+    ],
+    "token_count": 127,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 74,
+      "NNS": 7,
+      "VBP": 6,
+      "FW": 29,
+      "NNP": 30,
+      "VBZ": 2,
+      "JJ": 15,
+      "IN": 7,
+      "VBD": 1,
+      "CD": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NN-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "FW-NNP": 7,
+      "NNP-NNP": 11,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-FW": 2,
+      "FW-FW": 12,
+      "NNP-NN": 14,
+      "NN-NN": 42,
+      "NN-IN": 5,
+      "IN-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 5,
+      "NN-NNP": 8,
+      "IN-NN": 1,
+      "NN-FW": 6,
+      "FW-NN": 6,
+      "VBP-NNP": 2,
+      "NNP-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "NNS-NN": 1,
+      "NN-JJ": 4,
+      "JJ-NN": 8,
+      "NN-VBP": 2,
+      "VBP-JJ": 2,
+      "VBZ-FW": 1,
+      "FW-JJ": 3,
+      "FW-NNS": 1,
+      "VBP-NN": 1,
+      "NNP-FW": 2,
+      "JJ-JJ": 3,
+      "JJ-NNP": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 8,
+      "FW-FW-NNP": 3,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 22,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 6,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 1,
+      "NNP-NN-NNS": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-NNS-NN": 1,
+      "NNS-NN-NNS": 1,
+      "VBP-NNP-NNP": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-FW-FW": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NNP-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-FW-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "IN-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 74,
+        "NNP": 30,
+        "FW": 29,
+        "JJ": 15,
+        "NNS": 7
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "NNP-NN": 14,
+        "FW-FW": 12,
+        "NNP-NNP": 11,
+        "NN-NNP": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 8,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 7,
+        "NNP-NNP-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 46,
+      "PP": 4,
+      "VP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0303
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.0303
+      },
+      {
+        "rule": "S -> NP (',', ',') NP PP ('y', 'CC') NP VP ('en', 'FW') ('el', 'FW') ('marco', 'FW') ('de', 'FW') ('la', 'FW') NP PP (',', ',') NP (',', ',') NP VP ('24', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('presidentes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP') ('mantuvieron', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "VP -> ('reunión', 'VBZ') ('bilateral', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('Cumbre', 'NNP') ('BRICS', 'NNP') ('que', 'NN') ('se', 'NN') ('desarrolla', 'NN')",
+        "frequency": 1,
+        "weight": 0.0152
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "los presidentes"
+      },
+      {
+        "label": "PP",
+        "text": "de Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia mantuvieron"
+      },
+      {
+        "label": "VP",
+        "text": "reunión bilateral"
+      },
+      {
+        "label": "NP",
+        "text": "Cumbre BRICS que se desarrolla"
+      },
+      {
+        "label": "PP",
+        "text": "en Kazán"
+      },
+      {
+        "label": "NP",
+        "text": "Kazán"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "hasta el"
+      },
+      {
+        "label": "VP",
+        "text": "día"
+      },
+      {
+        "label": "PP",
+        "text": "de octubre"
+      },
+      {
+        "label": "NP",
+        "text": "octubre"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela camina con los BRICS por convicción y porque está"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN miércoles/NNS)\n  ,/,\n  (NP los/JJ presidentes/NNS)\n  (PP de/IN (NP Venezuela/NNP))\n  y/CC\n  (NP Rusia/NNP mantuvieron/NNP)\n  (VP reunión/VBZ bilateral/JJ)\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  (NP Cumbre/NNP BRICS/NNP que/NN se/NN desarrolla/NN)\n  (PP en/IN (NP Kazán/NNP))\n  ,/,\n  (NP Rusia/NNP)\n  ,/,\n  (NP hasta/NN el/NN)\n  (VP día/VBD)\n  24/CD\n  (PP de/IN (NP octubre/NN))\n  ./.)",
+      "(S\n  (NP\n    Venezuela/NNP\n    camina/NN\n    con/NN\n    los/NN\n    BRICS/NNP\n    por/NN\n    convicción/NN\n    y/NN\n    porque/NN\n    está/NN)\n  (PP en/IN (NP el/NN camino/NN del/NN equilibrio/NN))\n  del/FW\n  (NP mundo/NN)\n  :/:\n  (NP “/JJ Estamos/NNP)\n  (NP a/DT favor/NN)\n  de/IN\n  la/FW\n  igualdad/FW\n  en/FW\n  el/FW\n  mundo/FW\n  ”/FW\n  ,/,\n  afirmó/FW\n  (NP Nicolás/NNP Maduro/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP sus/NN palabras/NNS añadió/NN)\n  :/:\n  (NP “/JJ Aplicamos/NNP los/NN principios/NNS)\n  de/IN\n  los/FW\n  (NP BRICS/NNP porque/NN estas/NNS son/NN)\n  nuestras/RB\n  (NP creencias/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Sur/NNP Global/NNP solo/NN podrá/NN)\n  (NP existir/JJ con/NN el/NN)\n  (VP derecho/VBZ (NP a/DT tener/NN el/NN futuro/NN))\n  ,/,\n  (NP a/DT tener/NN igualdad/NN y/NN libertad/NN “/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  presidente/FW\n  (NP Putin/NNP aseveró/NN)\n  :/:\n  (NP “/JJ Nuestros/NNP amigos/NN venezolanos/NNS)\n  (VP están/VBP (NP cerca/NN))\n  de/FW\n  nuestros/FW\n  (NP valores/NNS)\n  :/:\n  (NP el/NN)\n  (VP respeto/VBZ (NP a/DT la/NN))\n  soberanía/FW\n  de/FW\n  cada/FW\n  (NP Estado/NNP)\n  ,/,\n  (NP\n    la/NN\n    cooperación/NN\n    mutuamente/NN\n    ventajosa/NN\n    y/NN\n    honesta/NN\n    ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra híbrida y la rusofobia desplegada contra rusia",
+        "position": [
+          873,
+          926
+        ],
+        "start": 873,
+        "end": 926
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra híbrida",
+        "position": [
+          873,
+          887
+        ],
+        "start": 873,
+        "end": 887
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          322,
+          328
+        ],
+        "start": 322,
+        "end": 328
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "igualdad",
+        "position": [
+          299,
+          307
+        ],
+        "start": 299,
+        "end": 307
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente putin aseveró",
+        "position": [
+          559,
+          583
+        ],
+        "start": 559,
+        "end": 583
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          35,
+          44
+        ],
+        "start": 35,
+        "end": 44
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, la",
+        "position": [
+          681,
+          691
+        ],
+        "start": 681,
+        "end": 691
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kazán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cumbre BRICS",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "MANTENER",
+        "objeto": "Cumbre BRICS"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "MANTENER",
+        "objeto": "Kazán"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "MANTENER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "MANTENER",
+        "objeto": "Cumbre BRICS"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "MANTENER",
+        "objeto": "Kazán"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CAMINAR_AFIRMAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CAMINAR_AFIRMAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "CAMINAR_AFIRMAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "ASEVERAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "ASPIRAR_CELEBRAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ASPIRAR_CELEBRAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONTRIBUIR_RECONOCER_CELEBRAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "FORMAR_COMENTAR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.128,
+    "pos": 0.015,
+    "neu": 0.972,
+    "neg": 0.013,
+    "label": "positive"
+  }
+}

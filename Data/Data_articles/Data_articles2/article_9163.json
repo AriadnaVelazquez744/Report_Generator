@@ -1,0 +1,772 @@
+{
+  "url": "https://www.telesurtv.net/aumentan-de-8-a-14-diarias-los-cortes-de-energia-electrica-en-ecuador/",
+  "title": "Aumentan de 8 a 14 horas diarias los cortes de energía eléctrica en Ecuador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Apagones",
+    "Ecuador",
+    "sequía"
+  ],
+  "text": "Autoridades de Ecuador anunciaron este jueves que los cortes de energía eléctrica aumentarán de ocho a 14 horas diarias, pese a que el Gobierno del presidente Daniel Noboa prometió que los apagones bajarían en forma paulatina.\nEste nuevo periodo de apagones comenzará a regir a partir de este viernes, informó la ministra de Ambiente, Agua y Transición Ecológica, Inés Manzano.\nLas autoridades ecuatorianas argumentan que el racionamiento eléctrico se debe a una histórica sequía en las principales centrales hidroeléctricas del país suramericano.\n“El presidente y todos los miembros del gobierno comprendemos la situación que viven los ecuatorianos. Reconocemos el esfuerzo y sacrificio que están haciendo en el marco de esta grave crisis eléctrica”, planteó la funcionaria en un mensaje publicado en sus redes sociales.\nExplicó que la gestión de esa crisis tiene dos partes: “la coyuntural, con medidas extremas debido a un clima extremo e impredecible. Al mismo tiempo estamos trabajando en la recuperación de nuestro parque generador y en la compra de nueva generación”.\nResaltó que el país enfrenta una crisis dinámica y sin precedentes, “que nos obliga a adaptarnos a escenarios cambiantes”.\n“Por ello, hemos tomado la dolorosa, pero responsable decisión, de modificar el plan de racionamientos, aumentando de ocho a 14 horas diarias, y que tendrá una evaluación el día domingo (27)”, externó.\n“Basados en la difícil situación climática, toda Suramérica enfrenta una sequía sin precedentes y Ecuador no es la excepción”, dijo la funcionaria, quien está a cargo del Ministerio de Energía y Minas tras la dimisión de su predecesor, Antonio Gonçalves.\nLa ministra puntualizó que el principal problema son los caudales deprimidos, en límites históricos, de los ríos del país, y remarcó que la nueva decisión tomada es “transparente y responsable” en este momento que vive Ecuador.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/aumentan-de-8-a-14-diarias-los-cortes-de-energia-electrica-en-ecuador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 447,
+    "message_id": 79138,
+    "date": "2024-10-25T06:55:07+00:00",
+    "text": "teleSUR\nAumentan de 8 a 14 diarias los cortes de energía eléctrica en Ecuador\nhttps://www.telesurtv.net/aumentan-de-8-a-14-diarias-los-cortes-de-energia-electrica-en-ecuador/",
+    "photo_path": null,
+    "views": 3318,
+    "reactions": {
+      "😁": 36,
+      "👎": 7,
+      "😢": 6,
+      "🙏": 5,
+      "👍": 3,
+      "👏": 3
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "autoridades de ecuador anunciaron este jueves que los cortes de energía eléctrica aumentarán de ocho a 14 horas diarias, pese a que el gobierno del presidente daniel noboa prometió que los apagones bajarían en forma paulatina. este nuevo periodo de apagones comenzará a regir a partir de este viernes, informó la ministra de ambiente, agua y transición ecológica, inés manzano. las autoridades ecuatorianas argumentan que el racionamiento eléctrico se debe a una histórica sequía en las principales centrales hidroeléctricas del país suramericano. “el presidente y todos los miembros del gobierno comprendemos la situación que viven los ecuatorianos. reconocemos el esfuerzo y sacrificio que están haciendo en el marco de esta grave crisis eléctrica”, planteó la funcionaria en un mensaje publicado en sus redes sociales. explicó que la gestión de esa crisis tiene dos partes: “la coyuntural, con medidas extremas debido a un clima extremo e impredecible. al mismo tiempo estamos trabajando en la recuperación de nuestro parque generador y en la compra de nueva generación”. resaltó que el país enfrenta una crisis dinámica y sin precedentes, “que nos obliga a adaptarnos a escenarios cambiantes”. “por ello, hemos tomado la dolorosa, pero responsable decisión, de modificar el plan de racionamientos, aumentando de ocho a 14 horas diarias, y que tendrá una evaluación el día domingo (27)”, externó. “basados en la difícil situación climática, toda suramérica enfrenta una sequía sin precedentes y ecuador no es la excepción”, dijo la funcionaria, quien está a cargo del ministerio de energía y minas tras la dimisión de su predecesor, antonio gonçalves. la ministra puntualizó que el principal problema son los caudales deprimidos, en límites históricos, de los ríos del país, y remarcó que la nueva decisión tomada es “transparente y responsable” en este momento que vive ecuador.",
+    "tokens": [
+      "autoridades",
+      "ecuador",
+      "anunciaron",
+      "jueves",
+      "cortes",
+      "energía",
+      "eléctrica",
+      "aumentarán",
+      "ocho",
+      "14",
+      "horas",
+      "diarias",
+      ",",
+      "pese",
+      "gobierno",
+      "presidente",
+      "daniel",
+      "noboa",
+      "prometió",
+      "apagones",
+      "bajarían",
+      "forma",
+      "paulatina",
+      ".",
+      "nuevo",
+      "periodo",
+      "apagones",
+      "comenzará",
+      "regir",
+      "partir",
+      "viernes",
+      ",",
+      "informó",
+      "ministra",
+      "ambiente",
+      ",",
+      "agua",
+      "transición",
+      "ecológica",
+      ",",
+      "inés",
+      "manzano",
+      ".",
+      "autoridades",
+      "ecuatorianas",
+      "argumentan",
+      "racionamiento",
+      "eléctrico",
+      "debe",
+      "histórica",
+      "sequía",
+      "principales",
+      "centrales",
+      "hidroeléctricas",
+      "país",
+      "suramericano",
+      ".",
+      "“",
+      "presidente",
+      "miembros",
+      "gobierno",
+      "comprendemos",
+      "situación",
+      "viven",
+      "ecuatorianos",
+      ".",
+      "reconocemos",
+      "esfuerzo",
+      "sacrificio",
+      "haciendo",
+      "marco",
+      "grave",
+      "crisis",
+      "eléctrica",
+      "”",
+      ",",
+      "planteó",
+      "funcionaria",
+      "mensaje",
+      "publicado",
+      "redes",
+      "sociales",
+      ".",
+      "explicó",
+      "gestión",
+      "crisis",
+      "dos",
+      "partes",
+      ":",
+      "“",
+      "coyuntural",
+      ",",
+      "medidas",
+      "extremas",
+      "debido",
+      "clima",
+      "extremo",
+      "impredecible",
+      ".",
+      "mismo",
+      "tiempo",
+      "trabajando",
+      "recuperación",
+      "parque",
+      "generador",
+      "compra",
+      "nueva",
+      "generación",
+      "”",
+      ".",
+      "resaltó",
+      "país",
+      "enfrenta",
+      "crisis",
+      "dinámica",
+      "precedentes",
+      ",",
+      "“",
+      "obliga",
+      "adaptarnos",
+      "escenarios",
+      "cambiantes",
+      "”",
+      ".",
+      "“",
+      "ello",
+      ",",
+      "tomado",
+      "dolorosa",
+      ",",
+      "responsable",
+      "decisión",
+      ",",
+      "modificar",
+      "plan",
+      "racionamientos",
+      ",",
+      "aumentando",
+      "ocho",
+      "14",
+      "horas",
+      "diarias",
+      ",",
+      "evaluación",
+      "día",
+      "domingo",
+      "(",
+      "27",
+      ")",
+      "”",
+      ",",
+      "externó",
+      ".",
+      "“",
+      "basados",
+      "difícil",
+      "situación",
+      "climática",
+      ",",
+      "toda",
+      "suramérica",
+      "enfrenta",
+      "sequía",
+      "precedentes",
+      "ecuador",
+      "excepción",
+      "”",
+      ",",
+      "dijo",
+      "funcionaria",
+      ",",
+      "cargo",
+      "ministerio",
+      "energía",
+      "minas",
+      "tras",
+      "dimisión",
+      "predecesor",
+      ",",
+      "antonio",
+      "gonçalves",
+      ".",
+      "ministra",
+      "puntualizó",
+      "principal",
+      "problema",
+      "caudales",
+      "deprimidos",
+      ",",
+      "límites",
+      "históricos",
+      ",",
+      "ríos",
+      "país",
+      ",",
+      "remarcó",
+      "nueva",
+      "decisión",
+      "tomada",
+      "“",
+      "transparente",
+      "responsable",
+      "”",
+      "momento",
+      "vive",
+      "ecuador",
+      "."
+    ],
+    "token_count": 207,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "FW": 57,
+      "NN": 99,
+      "VBZ": 9,
+      "JJ": 36,
+      "NNS": 17,
+      "IN": 9,
+      "CD": 3,
+      "VBP": 9,
+      "RB": 1,
+      "DT": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 4,
+      "FW-NNP": 5,
+      "NNP-NN": 8,
+      "NN-NN": 54,
+      "NN-VBZ": 5,
+      "VBZ-JJ": 5,
+      "JJ-JJ": 7,
+      "JJ-NNS": 5,
+      "NNS-IN": 1,
+      "IN-FW": 5,
+      "FW-FW": 33,
+      "FW-CD": 2,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "JJ-NN": 20,
+      "NN-NNP": 7,
+      "FW-NN": 12,
+      "NNP-NNP": 11,
+      "NN-NNS": 6,
+      "NNS-VBP": 8,
+      "VBP-IN": 2,
+      "IN-JJ": 2,
+      "NNP-JJ": 1,
+      "NN-IN": 6,
+      "IN-NNS": 1,
+      "NNS-NNS": 3,
+      "VBP-NN": 2,
+      "NN-FW": 11,
+      "VBP-JJ": 5,
+      "JJ-FW": 2,
+      "NNP-VBZ": 3,
+      "FW-JJ": 4,
+      "NN-JJ": 8,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNP": 2,
+      "FW-VBP": 1,
+      "IN-NN": 1,
+      "NNS-NNP": 2,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "VBZ-CD": 1,
+      "CD-NN": 1,
+      "VBZ-FW": 2,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 21,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-NN": 13,
+      "NN-NN-NNP": 3,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-NN-NN": 27,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 6,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 6,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "FW-NN-FW": 4,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NN-IN-FW": 3,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "IN-FW-JJ": 2,
+      "JJ-NN-JJ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "VBP-IN-FW": 1,
+      "NN-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 99,
+        "FW": 57,
+        "JJ": 36,
+        "NNP": 29,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 54,
+        "FW-FW": 33,
+        "JJ-NN": 20,
+        "FW-NN": 12,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 21,
+        "JJ-NN-NN": 13,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 76,
+      "VP": 19,
+      "PP": 8,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0424
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0254
+      },
+      {
+        "rule": "NP -> ('horas', 'NN') ('diarias', 'NN')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP VP ('de', 'IN') ('energía', 'FW') ('eléctrica', 'FW') ('aumentarán', 'FW') ('de', 'FW') ('ocho', 'FW') ('a', 'DT') ('14', 'CD') NP (',', ',') VP ('del', 'FW') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP') ('anunciaron', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('jueves', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('los', 'JJ') ('cortes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('pese', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('que', 'NN') ('el', 'NN') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador anunciaron este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves que los cortes"
+      },
+      {
+        "label": "NP",
+        "text": "que los cortes"
+      },
+      {
+        "label": "NP",
+        "text": "horas diarias"
+      },
+      {
+        "label": "VP",
+        "text": "pese a que el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "a que el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "presidente Daniel Noboa prometió que los apagones"
+      },
+      {
+        "label": "VP",
+        "text": "bajarían"
+      },
+      {
+        "label": "PP",
+        "text": "en forma paulatina"
+      },
+      {
+        "label": "NP",
+        "text": "forma paulatina"
+      },
+      {
+        "label": "NP",
+        "text": "Este"
+      },
+      {
+        "label": "NP",
+        "text": "nuevo periodo"
+      },
+      {
+        "label": "PP",
+        "text": "de apagones"
+      },
+      {
+        "label": "NP",
+        "text": "apagones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  de/FW\n  (NP Ecuador/NNP anunciaron/NN este/NN)\n  (VP jueves/VBZ (NP que/JJ los/JJ cortes/NNS))\n  de/IN\n  energía/FW\n  eléctrica/FW\n  aumentarán/FW\n  de/FW\n  ocho/FW\n  a/DT\n  14/CD\n  (NP horas/NN diarias/NN)\n  ,/,\n  (VP pese/VBZ (NP a/DT que/NN el/NN Gobierno/NNP))\n  del/FW\n  (NP\n    presidente/NN\n    Daniel/NNP\n    Noboa/NNP\n    prometió/NN\n    que/NN\n    los/NN\n    apagones/NNS)\n  (VP bajarían/VBP)\n  (PP en/IN (NP forma/JJ paulatina/NN))\n  ./.)",
+      "(S\n  (NP Este/NN)\n  (NP nuevo/JJ periodo/NN)\n  (PP de/IN (NP apagones/NNS))\n  (VP comenzará/VBP (NP a/DT regir/NN) (NP a/DT partir/NN))\n  (PP de/IN (NP este/NN viernes/NNS))\n  ,/,\n  (ADJP informó/JJ)\n  la/FW\n  ministra/FW\n  de/FW\n  (NP Ambiente/NNP)\n  ,/,\n  (NP Agua/NNP y/NNP Transición/NNP Ecológica/NNP)\n  ,/,\n  (NP Inés/NNP Manzano/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP ecuatorianas/JJ argumentan/NN que/NN el/NN racionamiento/NN))\n  eléctrico/FW\n  se/FW\n  debe/FW\n  (NP a/DT una/JJ histórica/NN sequía/NN)\n  (PP en/IN (NP las/JJ principales/NNS centrales/NNS))\n  (VP hidroeléctricas/VBP (NP del/JJ país/NN suramericano/NN))\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP presidente/NN y/NNP)\n  (VP todos/VBZ (NP los/JJ miembros/NNS))\n  (VP\n    del/VBP\n    (NP gobierno/JJ comprendemos/NN la/NN situación/NN que/NN)\n    viven/RB\n    (NP los/JJ ecuatorianos/NNS))\n  ./.)",
+      "(S\n  (NP Reconocemos/NNP)\n  el/CC\n  (NP esfuerzo/JJ y/NN sacrificio/NN que/NN)\n  están/FW\n  (NP haciendo/NN)\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  esta/FW\n  (VP grave/VBP (NP crisis/NN eléctrica/NN ”/NNP))\n  ,/,\n  (NP planteó/NN la/NN funcionaria/NN)\n  (PP en/IN (NP un/JJ mensaje/NN publicado/NN))\n  (PP en/IN (NP sus/NN redes/NNS sociales/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          302,
+          309
+        ],
+        "start": 302,
+        "end": 309
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          822,
+          829
+        ],
+        "start": 822,
+        "end": 829
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "apagones",
+        "position": [
+          189,
+          197
+        ],
+        "start": 189,
+        "end": 197
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente daniel",
+        "position": [
+          135,
+          165
+        ],
+        "start": 135,
+        "end": 165
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente daniel noboa",
+        "position": [
+          148,
+          171
+        ],
+        "start": 148,
+        "end": 171
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de ambiente",
+        "position": [
+          313,
+          333
+        ],
+        "start": 313,
+        "end": 333
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          335,
+          339
+        ],
+        "start": 335,
+        "end": 339
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          64,
+          71
+        ],
+        "start": 64,
+        "end": 71
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          15,
+          22
+        ],
+        "start": 15,
+        "end": 22
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque generador",
+        "position": [
+          1021,
+          1037
+        ],
+        "start": 1021,
+        "end": 1037
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Inés Manzano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Transición Ecológica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno del presidente Daniel Noboa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ministra de Ambiente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antonio Gonçalves",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Suramérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Energía y Minas",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno del presidente Daniel Noboa",
+        "relacion": "ANUNCIAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "ministra de Ambiente",
+        "relacion": "ES",
+        "objeto": "Inés Manzano"
+      },
+      {
+        "sujeto": "Suramérica",
+        "relacion": "ENFRENTAR_DECIR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Suramérica",
+        "relacion": "ENFRENTAR_DECIR",
+        "objeto": "Ministerio de Energía y Minas"
+      },
+      {
+        "sujeto": "Suramérica",
+        "relacion": "ENFRENTAR_DECIR",
+        "objeto": "Antonio Gonçalves"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "ENFRENTAR_DECIR",
+        "objeto": "Ministerio de Energía y Minas"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "ENFRENTAR_DECIR",
+        "objeto": "Antonio Gonçalves"
+      },
+      {
+        "sujeto": "Ministerio de Energía y Minas",
+        "relacion": "DECIR",
+        "objeto": "Antonio Gonçalves"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9758,
+    "pos": 0.0,
+    "neu": 0.916,
+    "neg": 0.084,
+    "label": "negative"
+  }
+}

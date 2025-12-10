@@ -1,0 +1,718 @@
+{
+  "url": "https://www.telesurtv.net/el-gobierno-mexicano-informa-sobre-nuevos-programas-de-salud/",
+  "title": "El Gobierno mexicano informa sobre nuevos programas de salud - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "adultos mayores",
+    "medicamentos",
+    "México",
+    "salud"
+  ],
+  "text": "En México, la presidenta Claudia Sheinbaum anunció el martes la implementación de una serie de nuevos programas centrados en el cuidado de la salud, especialmente de las personas de edad avanzada para mejorarles el suministro de medicamentos y la visita a domicilio de los mismos.\nUno de los desafíos que la nueva gestión de la presidenta Claudia Sheinbaum tiene es la falta de fármacos en los centros hospitalarios públicos.\nEl déficit se ha arrastrado desde gobiernos anteriores, intensificado por la pandemia de covid-19 y la batalla contra el monopolio en las ventas que estaba en manos de cuatro compañías, según la versión oficial.\n“Cuando llegó el presidente López Obrador acabó con este monopolio y desencadenó una serie de problemas que venimos arrastrando y hay que ser autocríticos, hasta el día de hoy no se han podido resolver”, expresó Juan Manuel Lira, doctor en Gobernabilidad y Gestión Pública.\n\nEn aras de contrarrestar el problema, se presentó un plan para distribuir los fármacos en las comunidades en beneficio de los adultos mayores.\nLa presidenta de México Claudia Sheinbaum declaró con respecto al tema: “a un lado de los bancos de bienestar vamos a poner farmacias del bienestar para todos los adultos mayores para que ahí puedan recoger sus medicamentos”.\nPor otra parte, “a partir de febrero del próximo año van a recibir ustedes una visita, siempre, de aquí hasta siempre, para que cada mes o cada dos meses, dependiendo de la salud de la persona, los visite siempre una enfermera o un médico. Ahí les van a tomar los signos vitales, si es necesario les van a recetar el medicamento que requiera”, añadió Sheinbaum.\nSegún una organización o un grupo de ciudadanos denominado “Cero Desabasto”, se ha progresado en potenciar el suministro a las instituciones públicas.\nLa recuperación se incrementó en un 55 por ciento al pasar del 1.022 al 1.023; no obstante, aún existen algunos desafíos por resolver, incluyendo los fármacos para el tratamiento de enfermedades mentales y cáncer.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/el-gobierno-mexicano-informa-sobre-nuevos-programas-de-salud/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 615,
+    "message_id": 78953,
+    "date": "2024-10-23T06:55:07+00:00",
+    "text": "teleSUR\nEl Gobierno mexicano informa sobre nuevos programas de salud\nhttps://www.telesurtv.net/el-gobierno-mexicano-informa-sobre-nuevos-programas-de-salud/",
+    "photo_path": null,
+    "views": 2646,
+    "reactions": {
+      "👍": 69,
+      "❤": 8,
+      "👏": 2,
+      "😁": 1,
+      "🤔": 1,
+      "💊": 1
+    },
+    "total_reactions": 82
+  },
+  "preprocessing": {
+    "cleaned": "en méxico, la presidenta claudia sheinbaum anunció el martes la implementación de una serie de nuevos programas centrados en el cuidado de la salud, especialmente de las personas de edad avanzada para mejorarles el suministro de medicamentos y la visita a domicilio de los mismos. uno de los desafíos que la nueva gestión de la presidenta claudia sheinbaum tiene es la falta de fármacos en los centros hospitalarios públicos. el déficit se ha arrastrado desde gobiernos anteriores, intensificado por la pandemia de covid-19 y la batalla contra el monopolio en las ventas que estaba en manos de cuatro compañías, según la versión oficial. “cuando llegó el presidente lópez obrador acabó con este monopolio y desencadenó una serie de problemas que venimos arrastrando y hay que ser autocríticos, hasta el día de hoy no se han podido resolver”, expresó juan manuel lira, doctor en gobernabilidad y gestión pública. en aras de contrarrestar el problema, se presentó un plan para distribuir los fármacos en las comunidades en beneficio de los adultos mayores. la presidenta de méxico claudia sheinbaum declaró con respecto al tema: “a un lado de los bancos de bienestar vamos a poner farmacias del bienestar para todos los adultos mayores para que ahí puedan recoger sus medicamentos”. por otra parte, “a partir de febrero del próximo año van a recibir ustedes una visita, siempre, de aquí hasta siempre, para que cada mes o cada dos meses, dependiendo de la salud de la persona, los visite siempre una enfermera o un médico. ahí les van a tomar los signos vitales, si es necesario les van a recetar el medicamento que requiera”, añadió sheinbaum. según una organización o un grupo de ciudadanos denominado “cero desabasto”, se ha progresado en potenciar el suministro a las instituciones públicas. la recuperación se incrementó en un 55 por ciento al pasar del 1.022 al 1.023; no obstante, aún existen algunos desafíos por resolver, incluyendo los fármacos para el tratamiento de enfermedades mentales y cáncer.",
+    "tokens": [
+      "méxico",
+      ",",
+      "presidenta",
+      "claudia",
+      "sheinbaum",
+      "anunció",
+      "martes",
+      "implementación",
+      "serie",
+      "nuevos",
+      "programas",
+      "centrados",
+      "cuidado",
+      "salud",
+      ",",
+      "especialmente",
+      "personas",
+      "edad",
+      "avanzada",
+      "mejorarles",
+      "suministro",
+      "medicamentos",
+      "visita",
+      "domicilio",
+      "mismos",
+      ".",
+      "desafíos",
+      "nueva",
+      "gestión",
+      "presidenta",
+      "claudia",
+      "sheinbaum",
+      "falta",
+      "fármacos",
+      "centros",
+      "hospitalarios",
+      "públicos",
+      ".",
+      "déficit",
+      "arrastrado",
+      "gobiernos",
+      "anteriores",
+      ",",
+      "intensificado",
+      "pandemia",
+      "covid-19",
+      "batalla",
+      "monopolio",
+      "ventas",
+      "manos",
+      "cuatro",
+      "compañías",
+      ",",
+      "según",
+      "versión",
+      "oficial",
+      ".",
+      "“",
+      "llegó",
+      "presidente",
+      "lópez",
+      "obrador",
+      "acabó",
+      "monopolio",
+      "desencadenó",
+      "serie",
+      "problemas",
+      "venimos",
+      "arrastrando",
+      "ser",
+      "autocríticos",
+      ",",
+      "día",
+      "hoy",
+      "podido",
+      "resolver",
+      "”",
+      ",",
+      "expresó",
+      "juan",
+      "manuel",
+      "lira",
+      ",",
+      "doctor",
+      "gobernabilidad",
+      "gestión",
+      "pública",
+      ".",
+      "aras",
+      "contrarrestar",
+      "problema",
+      ",",
+      "presentó",
+      "plan",
+      "distribuir",
+      "fármacos",
+      "comunidades",
+      "beneficio",
+      "adultos",
+      "mayores",
+      ".",
+      "presidenta",
+      "méxico",
+      "claudia",
+      "sheinbaum",
+      "declaró",
+      "respecto",
+      "tema",
+      ":",
+      "“",
+      "lado",
+      "bancos",
+      "bienestar",
+      "vamos",
+      "poner",
+      "farmacias",
+      "bienestar",
+      "adultos",
+      "mayores",
+      "ahí",
+      "puedan",
+      "recoger",
+      "medicamentos",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "“",
+      "partir",
+      "febrero",
+      "próximo",
+      "año",
+      "van",
+      "recibir",
+      "ustedes",
+      "visita",
+      ",",
+      "siempre",
+      ",",
+      "aquí",
+      "siempre",
+      ",",
+      "cada",
+      "mes",
+      "cada",
+      "dos",
+      "meses",
+      ",",
+      "dependiendo",
+      "salud",
+      "persona",
+      ",",
+      "visite",
+      "siempre",
+      "enfermera",
+      "médico",
+      ".",
+      "ahí",
+      "van",
+      "tomar",
+      "signos",
+      "vitales",
+      ",",
+      "si",
+      "necesario",
+      "van",
+      "recetar",
+      "medicamento",
+      "requiera",
+      "”",
+      ",",
+      "añadió",
+      "sheinbaum",
+      ".",
+      "según",
+      "organización",
+      "grupo",
+      "ciudadanos",
+      "denominado",
+      "“",
+      "cero",
+      "desabasto",
+      "”",
+      ",",
+      "progresado",
+      "potenciar",
+      "suministro",
+      "instituciones",
+      "públicas",
+      ".",
+      "recuperación",
+      "incrementó",
+      "55",
+      "ciento",
+      "pasar",
+      "1.022",
+      "1.023",
+      ";",
+      "obstante",
+      ",",
+      "aún",
+      "existen",
+      "desafíos",
+      "resolver",
+      ",",
+      "incluyendo",
+      "fármacos",
+      "tratamiento",
+      "enfermedades",
+      "mentales",
+      "cáncer",
+      "."
+    ],
+    "token_count": 212,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "VBZ": 12,
+      "JJ": 37,
+      "FW": 95,
+      "NNS": 13,
+      "VBP": 11,
+      "NN": 95,
+      "IN": 12,
+      "DT": 2,
+      "VBD": 1,
+      "CD": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 13,
+      "NNP-VBZ": 6,
+      "VBZ-JJ": 7,
+      "JJ-NNP": 3,
+      "VBZ-FW": 3,
+      "FW-NNS": 5,
+      "NNS-VBP": 10,
+      "VBP-FW": 2,
+      "FW-FW": 64,
+      "FW-NN": 12,
+      "NN-FW": 7,
+      "NN-NNS": 2,
+      "NN-IN": 11,
+      "IN-FW": 10,
+      "FW-JJ": 10,
+      "NNP-FW": 4,
+      "FW-NNP": 3,
+      "NNP-NN": 4,
+      "NN-NN": 50,
+      "JJ-NNS": 5,
+      "VBP-NNP": 2,
+      "NN-VBZ": 6,
+      "JJ-NN": 24,
+      "NN-JJ": 10,
+      "VBP-JJ": 5,
+      "JJ-FW": 4,
+      "NN-NNP": 6,
+      "FW-DT": 1,
+      "DT-NN": 2,
+      "NN-VBP": 1,
+      "NNS-FW": 1,
+      "NNS-NNP": 1,
+      "VBZ-NN": 1,
+      "VBP-IN": 1,
+      "NNP-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "IN-JJ": 2,
+      "NNS-NNS": 1,
+      "JJ-CD": 1,
+      "CD-NN": 2,
+      "VBZ-CD": 1,
+      "NN-CD": 1,
+      "CD-DT": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-VBZ": 4,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNS": 1,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-FW-FW": 48,
+      "FW-FW-NN": 7,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 9,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 3,
+      "NN-NN-FW": 4,
+      "FW-FW-JJ": 5,
+      "FW-JJ-NNS": 3,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NN": 30,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-JJ": 4,
+      "VBZ-JJ-NN": 6,
+      "JJ-NN-NN": 10,
+      "FW-JJ-NN": 4,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 8,
+      "NN-NN-IN": 2,
+      "IN-FW-NNS": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NN": 5,
+      "NN-FW-JJ": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "JJ-NN-IN": 7,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "IN-FW-FW": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "NN-NNP-VBZ": 2,
+      "FW-FW-NNS": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "JJ-NN-JJ": 3,
+      "JJ-NN-NNP": 1,
+      "VBZ-FW-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-NNP-FW": 1,
+      "IN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-DT": 1,
+      "CD-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 95,
+        "NN": 95,
+        "JJ": 37,
+        "NNP": 29,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 64,
+        "NN-NN": 50,
+        "JJ-NN": 24,
+        "NNP-NNP": 13,
+        "FW-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 48,
+        "NN-NN-NN": 30,
+        "JJ-NN-NN": 10,
+        "NN-IN-FW": 9,
+        "NN-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 80,
+      "VP": 20,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('“', 'VB') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('les', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP (',', ',') VP VP ('el', 'FW') NP VP ('implementación', 'FW') ('de', 'FW') ('una', 'FW') ('serie', 'FW') ('de', 'FW') ('nuevos', 'FW') ('programas', 'FW') NP ('en', 'FW') ('el', 'FW') ('cuidado', 'FW') ('de', 'FW') ('la', 'FW') ('salud', 'FW') (',', ',') ('especialmente', 'FW') ('de', 'FW') ('las', 'FW') ('personas', 'FW') ('de', 'FW') ('edad', 'FW') ('avanzada', 'FW') NP VP ('suministro', 'FW') ('de', 'FW') ('medicamentos', 'FW') ('y', 'CC') ('la', 'FW') ('visita', 'FW') NP ('de', 'IN') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('la', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('presidenta', 'JJ') ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('anunció', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('la', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En México"
+      },
+      {
+        "label": "VP",
+        "text": "la presidenta Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "presidenta Claudia Sheinbaum"
+      },
+      {
+        "label": "VP",
+        "text": "anunció"
+      },
+      {
+        "label": "NP",
+        "text": "martes"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "centrados"
+      },
+      {
+        "label": "NP",
+        "text": "para mejorarles"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "a domicilio"
+      },
+      {
+        "label": "NP",
+        "text": "mismos"
+      },
+      {
+        "label": "NP",
+        "text": "Uno"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum tiene es"
+      },
+      {
+        "label": "NP",
+        "text": "centros hospitalarios públicos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP México/NNP)\n  ,/,\n  (VP la/VBZ (NP presidenta/JJ Claudia/NNP Sheinbaum/NNP))\n  (VP anunció/VBZ)\n  el/FW\n  (NP martes/NNS)\n  (VP la/VBP)\n  implementación/FW\n  de/FW\n  una/FW\n  serie/FW\n  de/FW\n  nuevos/FW\n  programas/FW\n  (NP centrados/NN)\n  en/FW\n  el/FW\n  cuidado/FW\n  de/FW\n  la/FW\n  salud/FW\n  ,/,\n  especialmente/FW\n  de/FW\n  las/FW\n  personas/FW\n  de/FW\n  edad/FW\n  avanzada/FW\n  (NP para/NN mejorarles/NNS)\n  (VP el/VBP)\n  suministro/FW\n  de/FW\n  medicamentos/FW\n  y/CC\n  la/FW\n  visita/FW\n  (NP a/DT domicilio/NN)\n  de/IN\n  los/FW\n  (NP mismos/NNS)\n  ./.)",
+      "(S\n  (NP Uno/NNP)\n  de/FW\n  los/FW\n  desafíos/FW\n  (NP que/NN)\n  la/FW\n  nueva/FW\n  gestión/FW\n  de/FW\n  la/FW\n  presidenta/FW\n  (NP Claudia/NNP Sheinbaum/NNP tiene/NN es/NN)\n  la/FW\n  falta/FW\n  de/FW\n  fármacos/FW\n  en/FW\n  los/FW\n  (NP centros/JJ hospitalarios/NNS públicos/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    déficit/NN\n    se/NN\n    ha/NN\n    arrastrado/NN\n    desde/NN\n    gobiernos/NN\n    anteriores/NNS)\n  ,/,\n  (NP intensificado/NN por/NN)\n  la/FW\n  pandemia/FW\n  de/FW\n  covid-19/FW\n  (NP y/NN)\n  la/FW\n  (NP batalla/NN contra/NN el/NN monopolio/NN)\n  en/IN\n  las/FW\n  (NP ventas/NNS)\n  (VP que/VBP estaba/JJ)\n  en/FW\n  manos/FW\n  de/FW\n  cuatro/FW\n  (NP compañías/NN)\n  ,/,\n  (NP según/JJ la/NN)\n  (NP versión/JJ oficial/NN)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Cuando/NNP\n    llegó/NN\n    el/NN\n    presidente/NN\n    López/NNP\n    Obrador/NNP)\n  (VP\n    acabó/VBZ\n    (NP con/JJ este/NN monopolio/NN y/NN desencadenó/NN)\n    (NP una/JJ serie/NN))\n  de/IN\n  problemas/FW\n  (ADJP que/JJ)\n  venimos/FW\n  (NP arrastrando/NN y/NN hay/NN que/NN ser/NN autocríticos/NN)\n  ,/,\n  (NP hasta/NN)\n  (NP el/JJ día/NN)\n  de/IN\n  hoy/FW\n  (NP no/DT se/NN)\n  (VP han/VBZ (NP podido/JJ resolver/NN ”/NNP))\n  ,/,\n  (NP expresó/JJ Juan/NNP Manuel/NNP Lira/NNP)\n  ,/,\n  (NP doctor/NN)\n  en/FW\n  (NP Gobernabilidad/NNP)\n  y/CC\n  (NP Gestión/NNP Pública/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  aras/FW\n  de/FW\n  contrarrestar/FW\n  el/FW\n  (NP problema/NN)\n  ,/,\n  se/FW\n  presentó/FW\n  (NP un/JJ plan/NN)\n  (VP para/VBP (NP distribuir/JJ los/NN fármacos/NN))\n  en/IN\n  las/FW\n  (NP comunidades/NNS)\n  en/FW\n  beneficio/FW\n  de/FW\n  los/FW\n  (NP adultos/JJ mayores/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PERIODOS_TEMPORALES",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          842,
+          849
+        ],
+        "start": 842,
+        "end": 849
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          43,
+          50
+        ],
+        "start": 43,
+        "end": 50
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta claudia sheinbaum",
+        "position": [
+          14,
+          42
+        ],
+        "start": 14,
+        "end": 42
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "adultos mayores",
+        "position": [
+          1039,
+          1054
+        ],
+        "start": 1039,
+        "end": 1054
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          3,
+          9
+        ],
+        "start": 3,
+        "end": 9
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "próximo año",
+        "position": [
+          1323,
+          1334
+        ],
+        "start": 1323,
+        "end": 1334
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          810,
+          813
+        ],
+        "start": 810,
+        "end": 813
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "López Obrador",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gestión Pública",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juan Manuel Lira",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobernabilidad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "México",
+        "relacion": "ANUNCIAR",
+        "objeto": "Claudia Sheinbaum"
+      },
+      {
+        "sujeto": "Juan Manuel Lira",
+        "relacion": "LLEGAR_ACABAR_EXPRESAR",
+        "objeto": "López Obrador"
+      },
+      {
+        "sujeto": "López Obrador",
+        "relacion": "LLEGAR_ACABAR_EXPRESAR",
+        "objeto": "Gobernabilidad"
+      },
+      {
+        "sujeto": "López Obrador",
+        "relacion": "LLEGAR_ACABAR_EXPRESAR",
+        "objeto": "Gestión Pública"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2732,
+    "pos": 0.02,
+    "neu": 0.966,
+    "neg": 0.014,
+    "label": "positive"
+  }
+}

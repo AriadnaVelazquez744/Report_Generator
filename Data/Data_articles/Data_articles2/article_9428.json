@@ -1,0 +1,639 @@
+{
+  "url": "https://www.telesurtv.net/autoridades-palestinas-rechazan-el-ataque-de-colonos-israelies-a-una-ambulancia-en-cisjordania/",
+  "title": "Autoridades palestinas rechazan el ataque de colonos israelíes a una ambulancia en Cisjordania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Cisjordania",
+    "genocidio",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "En un comunicado oficial, el ministerio denunció el ataque, que incluyó agresiones físicas contra el conductor y el médico que acompañaban la ambulancia.\nEl Ministerio de Salud palestino ha expresado su enérgica condena ante el asalto a una ambulancia del Hospital Gubernamental de Salfit, ocurrido la noche del jueves, mientras su equipo transportaba a un paciente en las cercanías de Qalqilya, en el norte de la Cisjordania ocupada.\nEste incidente se inscribe dentro de un patrón alarmante de agresiones diarias y en aumento por parte de las fuerzas israelíes y colonos hacia el sistema de salud palestino en Cisjordania y la Franja de Gaza.\nEl Ministerio subrayó que tales actos de violencia no solo vulneran la integridad física de los profesionales de la salud, sino que también privan a los pacientes y heridos de la atención médica necesaria.\nEl ministerio enfatizó que estas acciones constituyen una grave violación a las leyes y convenios internacionales sobre derechos humanos y humanitarios.\nAsimismo, el Ministerio de Salud ha reiterado su llamado urgente a la comunidad internacional y a organizaciones de salud para que tomen medidas inmediatas. Se requiere una respuesta coordinada para brindar protección adecuada al sector de la salud palestina y asegurar el acceso a la asistencia médica esencial para los ciudadanos que enfrentan una agresión sin precedentes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/autoridades-palestinas-rechazan-el-ataque-de-colonos-israelies-a-una-ambulancia-en-cisjordania/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 923,
+    "message_id": 78625,
+    "date": "2024-10-18T05:55:07+00:00",
+    "text": "teleSUR\nAutoridades palestinas rechazan el ataque de colonos israelíes a una ambulancia en Cisjordania\nhttps://www.telesurtv.net/autoridades-palestinas-rechazan-el-ataque-de-colonos-israelies-a-una-ambulancia-en-cisjordania/",
+    "photo_path": null,
+    "views": 2313,
+    "reactions": {
+      "🤬": 44,
+      "👍": 3,
+      "👎": 1
+    },
+    "total_reactions": 48
+  },
+  "preprocessing": {
+    "cleaned": "en un comunicado oficial, el ministerio denunció el ataque, que incluyó agresiones físicas contra el conductor y el médico que acompañaban la ambulancia. el ministerio de salud palestino ha expresado su enérgica condena ante el asalto a una ambulancia del hospital gubernamental de salfit, ocurrido la noche del jueves, mientras su equipo transportaba a un paciente en las cercanías de qalqilya, en el norte de la cisjordania ocupada. este incidente se inscribe dentro de un patrón alarmante de agresiones diarias y en aumento por parte de las fuerzas israelíes y colonos hacia el sistema de salud palestino en cisjordania y la franja de gaza. el ministerio subrayó que tales actos de violencia no solo vulneran la integridad física de los profesionales de la salud, sino que también privan a los pacientes y heridos de la atención médica necesaria. el ministerio enfatizó que estas acciones constituyen una grave violación a las leyes y convenios internacionales sobre derechos humanos y humanitarios. asimismo, el ministerio de salud ha reiterado su llamado urgente a la comunidad internacional y a organizaciones de salud para que tomen medidas inmediatas. se requiere una respuesta coordinada para brindar protección adecuada al sector de la salud palestina y asegurar el acceso a la asistencia médica esencial para los ciudadanos que enfrentan una agresión sin precedentes.",
+    "tokens": [
+      "comunicado",
+      "oficial",
+      ",",
+      "ministerio",
+      "denunció",
+      "ataque",
+      ",",
+      "incluyó",
+      "agresiones",
+      "físicas",
+      "conductor",
+      "médico",
+      "acompañaban",
+      "ambulancia",
+      ".",
+      "ministerio",
+      "salud",
+      "palestino",
+      "expresado",
+      "enérgica",
+      "condena",
+      "asalto",
+      "ambulancia",
+      "hospital",
+      "gubernamental",
+      "salfit",
+      ",",
+      "ocurrido",
+      "noche",
+      "jueves",
+      ",",
+      "mientras",
+      "equipo",
+      "transportaba",
+      "paciente",
+      "cercanías",
+      "qalqilya",
+      ",",
+      "norte",
+      "cisjordania",
+      "ocupada",
+      ".",
+      "incidente",
+      "inscribe",
+      "dentro",
+      "patrón",
+      "alarmante",
+      "agresiones",
+      "diarias",
+      "aumento",
+      "parte",
+      "fuerzas",
+      "israelíes",
+      "colonos",
+      "hacia",
+      "sistema",
+      "salud",
+      "palestino",
+      "cisjordania",
+      "franja",
+      "gaza",
+      ".",
+      "ministerio",
+      "subrayó",
+      "tales",
+      "actos",
+      "violencia",
+      "solo",
+      "vulneran",
+      "integridad",
+      "física",
+      "profesionales",
+      "salud",
+      ",",
+      "sino",
+      "privan",
+      "pacientes",
+      "heridos",
+      "atención",
+      "médica",
+      "necesaria",
+      ".",
+      "ministerio",
+      "enfatizó",
+      "acciones",
+      "constituyen",
+      "grave",
+      "violación",
+      "leyes",
+      "convenios",
+      "internacionales",
+      "derechos",
+      "humanos",
+      "humanitarios",
+      ".",
+      "asimismo",
+      ",",
+      "ministerio",
+      "salud",
+      "reiterado",
+      "llamado",
+      "urgente",
+      "comunidad",
+      "internacional",
+      "organizaciones",
+      "salud",
+      "tomen",
+      "medidas",
+      "inmediatas",
+      ".",
+      "requiere",
+      "respuesta",
+      "coordinada",
+      "brindar",
+      "protección",
+      "adecuada",
+      "sector",
+      "salud",
+      "palestina",
+      "asegurar",
+      "acceso",
+      "asistencia",
+      "médica",
+      "esencial",
+      "ciudadanos",
+      "enfrentan",
+      "agresión",
+      "precedentes",
+      "."
+    ],
+    "token_count": 129,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "JJ": 26,
+      "NN": 72,
+      "NNS": 14,
+      "VBP": 10,
+      "IN": 10,
+      "FW": 43,
+      "MD": 1,
+      "VB": 1,
+      "DT": 1,
+      "VBZ": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 17,
+      "NN-JJ": 9,
+      "NN-NN": 41,
+      "NN-NNS": 6,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "JJ-NNS": 5,
+      "NNS-NN": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NNP": 2,
+      "NNP-NNP": 4,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-NN": 5,
+      "NN-FW": 5,
+      "FW-NN": 6,
+      "NNP-FW": 6,
+      "FW-NNP": 8,
+      "FW-FW": 24,
+      "NNP-MD": 1,
+      "MD-NNP": 1,
+      "NNP-VB": 1,
+      "VB-FW": 1,
+      "FW-JJ": 4,
+      "NN-IN": 6,
+      "IN-JJ": 2,
+      "JJ-JJ": 3,
+      "IN-NNS": 1,
+      "NNS-NNS": 2,
+      "VBP-IN": 2,
+      "IN-FW": 6,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-IN": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 22,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-JJ": 7,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "FW-NN-JJ": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NN": 3,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-FW": 19,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-NNP": 1,
+      "MD-NNP-VB": 1,
+      "NNP-VB-FW": 1,
+      "VB-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-IN": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "FW": 43,
+        "JJ": 26,
+        "NNP": 20,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 24,
+        "JJ-NN": 17,
+        "NN-JJ": 9,
+        "NNS-VBP": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 19,
+        "JJ-NN-NN": 9,
+        "NN-JJ-NN": 7,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 53,
+      "ADJP": 1,
+      "VP": 14,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0494
+      },
+      {
+        "rule": "S -> NP NP ADJP (',', ',') NP (',', ',') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "ADJP -> ('oficial', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('ministerio', 'NN') ('denunció', 'NN') ('el', 'NN') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('incluyó', 'NN') ('agresiones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "VP -> ('físicas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('el', 'NNS') ('conductor', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0123
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado"
+      },
+      {
+        "label": "ADJP",
+        "text": "oficial"
+      },
+      {
+        "label": "NP",
+        "text": "el ministerio denunció el ataque"
+      },
+      {
+        "label": "NP",
+        "text": "que incluyó agresiones"
+      },
+      {
+        "label": "VP",
+        "text": "físicas contra el conductor"
+      },
+      {
+        "label": "NP",
+        "text": "contra el conductor"
+      },
+      {
+        "label": "VP",
+        "text": "y el médico que acompañaban la ambulancia"
+      },
+      {
+        "label": "NP",
+        "text": "el médico que"
+      },
+      {
+        "label": "NP",
+        "text": "acompañaban la ambulancia"
+      },
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud palestino ha expresado su"
+      },
+      {
+        "label": "NP",
+        "text": "Salud palestino ha expresado su"
+      },
+      {
+        "label": "NP",
+        "text": "condena ante"
+      },
+      {
+        "label": "VP",
+        "text": "asalto a una ambulancia del Hospital Gubernamental"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP un/JJ comunicado/NN)\n  (ADJP oficial/JJ)\n  ,/,\n  (NP el/JJ ministerio/NN denunció/NN el/NN ataque/NN)\n  ,/,\n  (NP que/JJ incluyó/NN agresiones/NNS)\n  (VP físicas/VBP (NP contra/JJ el/NNS conductor/NN))\n  (VP\n    y/VBP\n    (NP el/NN médico/NN que/NN)\n    (NP acompañaban/JJ la/NN ambulancia/NN))\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP palestino/NN ha/NN expresado/NN su/NN))\n  enérgica/FW\n  (NP condena/NN ante/NN)\n  el/FW\n  (VP\n    asalto/VBZ\n    (NP\n      a/DT\n      una/JJ\n      ambulancia/NN\n      del/NN\n      Hospital/NNP\n      Gubernamental/NNP))\n  de/FW\n  (NP Salfit/NNP)\n  ,/,\n  (NP ocurrido/NN la/NN)\n  noche/FW\n  (NP del/NN jueves/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP\n    su/VBP\n    (NP equipo/JJ transportaba/NN)\n    (NP a/DT un/JJ paciente/NN))\n  en/FW\n  las/FW\n  cercanías/FW\n  de/FW\n  (NP Qalqilya/NNP)\n  ,/,\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  la/FW\n  (NP Cisjordania/NNP ocupada/NN)\n  ./.)",
+      "(S\n  (NP Este/NN incidente/NN)\n  se/FW\n  (NP inscribe/JJ dentro/NN)\n  (PP de/IN (NP un/JJ patrón/JJ alarmante/NN))\n  (PP de/IN (NP agresiones/NNS diarias/NNS))\n  (VP y/VBP)\n  (PP en/IN (NP aumento/NN por/NN parte/NN))\n  de/IN\n  las/FW\n  (NP fuerzas/JJ israelíes/NN y/NN colonos/NNS)\n  (VP hacia/VBP (NP el/JJ sistema/NN))\n  de/IN\n  salud/FW\n  (NP palestino/NN)\n  en/FW\n  (NP Cisjordania/NNP y/NNP la/NNP Franja/NNP)\n  (PP de/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP subrayó/NN que/NN tales/NNS)\n  (VP actos/VBP)\n  de/IN\n  violencia/FW\n  (NP no/DT solo/NN vulneran/NN la/NN integridad/NN física/NN)\n  de/IN\n  los/FW\n  profesionales/FW\n  de/FW\n  la/FW\n  salud/FW\n  ,/,\n  (NP sino/NN que/NN también/NN)\n  (VP privan/VBZ (NP a/DT los/NN))\n  (VP pacientes/VBZ (NP y/JJ heridos/NN))\n  de/IN\n  la/FW\n  atención/FW\n  médica/FW\n  (NP necesaria/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP ministerio/NN enfatizó/NN que/NN)\n  (NP estas/JJ acciones/NNS)\n  (VP constituyen/VBP una/JJ)\n  (VP grave/VBP)\n  violación/FW\n  (NP a/DT las/JJ leyes/NN y/NN convenios/NNS)\n  (VP internacionales/VBZ (NP sobre/JJ derechos/NN humanos/NNS))\n  (VP y/VBP (NP humanitarios/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresiones diarias y en aumento por parte de las fuerzas israelíes",
+        "position": [
+          495,
+          561
+        ],
+        "start": 495,
+        "end": 561
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "integridad física",
+        "position": [
+          715,
+          732
+        ],
+        "start": 715,
+        "end": 732
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "salud ha reiterado su llamado urgente a la comunidad internacional y a organizaciones de salud para que tomen medidas inmediatas. se requiere una respuesta coordinada para brindar protección adecuada al sector de la salud palestina y asegurar el acceso",
+        "position": [
+          1030,
+          1282
+        ],
+        "start": 1030,
+        "end": 1282
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          658,
+          665
+        ],
+        "start": 658,
+        "end": 665
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          40,
+          48
+        ],
+        "start": 40,
+        "end": 48
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          256,
+          264
+        ],
+        "start": 256,
+        "end": 264
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          1252,
+          1261
+        ],
+        "start": 1252,
+        "end": 1261
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital gubernamental",
+        "position": [
+          256,
+          278
+        ],
+        "start": 256,
+        "end": 278
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          970,
+          986
+        ],
+        "start": 970,
+        "end": 986
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Gubernamental de Salfit",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qalqilya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "EXPRESAR",
+        "objeto": "Hospital Gubernamental de Salfit"
+      },
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "EXPRESAR",
+        "objeto": "Qalqilya"
+      },
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "EXPRESAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Hospital Gubernamental de Salfit",
+        "relacion": "EXPRESAR",
+        "objeto": "Qalqilya"
+      },
+      {
+        "sujeto": "Hospital Gubernamental de Salfit",
+        "relacion": "EXPRESAR",
+        "objeto": "Cisjordania"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.023,
+    "neu": 0.937,
+    "neg": 0.04,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,895 @@
+{
+  "url": "https://www.telesurtv.net/onu-denuncia-los-ataques-y-violaciones-de-ddhh-provocadas-por-las-far-en-sudan/",
+  "title": "ONU denuncia los ataques y \"violaciones de DDHH\" provocadas por las FAR en Sudán - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "civiles",
+    "Desplazados",
+    "ONU",
+    "Sudán",
+    "Violaciones DDHH"
+  ],
+  "text": "La Oficina de la ONU para la Coordinación de Asuntos Humanitarios (OCHA) comunicó, en un informe, que la agresión de las FAR en el centro-este de Sudán causó “graves violaciones de los derechos humanos (DDHH)”.\nSegún la organización, los combatientes de las FAR saquearon mercados y viviendas, incendiaron granjas y agredieron a los habitantes de los pueblos de Safita Ghanoubab, Al Hilaliya y Al Aziba, lo que los obligó a huir en busca de seguridad.\nLa OCHA afirmó que, entre el 20 y el 25 de octubre, las FAR lanzaron un ataque en el este de Al Jazirah, en el que “dispararon a civiles y cometieron actos de violencia sexual contra mujeres y niñas”, lo que provocó una “devastación generalizada”.\nPor su parte, la coordinadora de la OCHA en Sudán, Clementine Nkweta-Salami, manifestó su “profunda preocupación” por la escalada de violencia y la muerte de decenas de personas en los últimos ataques paramilitares que afectaron a estas localidades.\nLa funcionaria afirmó también que “el derecho internacional humanitario prohíbe atacar a civiles, bienes civiles e infraestructuras públicas. Es inaceptable y debe cesar de inmediato. Los civiles deben recibir protección dondequiera que se encuentren”.\nAsimismo, el alto representante de la Unión Europea (UE) para Seguridad y Asuntos Exteriores, Josep Borrell, expresó que “las masacres contra civiles deben cesar y los perpetradores deben rendir cuentas”, y concluyó diciendo que “la UE seguirá actuando para que se haga justicia”.\nDe acuerdo con la ONU, Sudán se ha convertido en el país con la mayor crisis de desplazamiento interno del mundo, debido a que el Ejército sudanés y las FAR se encuentran en un violento conflicto que, desde el 15 de abril de 2023, ha causado miles de fallecidos y ha forzado a más de 10 millones de personas a abandonar sus hogares.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/onu-denuncia-los-ataques-y-violaciones-de-ddhh-provocadas-por-las-far-en-sudan/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 251,
+    "message_id": 79345,
+    "date": "2024-10-28T16:55:28+00:00",
+    "text": "teleSUR\nONU denuncia los ataques y «violaciones de DDHH» provocadas por las FAR en Sudán\nhttps://www.telesurtv.net/onu-denuncia-los-ataques-y-violaciones-de-ddhh-provocadas-por-las-far-en-sudan/",
+    "photo_path": null,
+    "views": 2531,
+    "reactions": {
+      "🙏": 14,
+      "💩": 9,
+      "🤔": 1,
+      "😡": 1
+    },
+    "total_reactions": 25
+  },
+  "preprocessing": {
+    "cleaned": "la oficina de la onu para la coordinación de asuntos humanitarios (ocha) comunicó, en un informe, que la agresión de las far en el centro-este de sudán causó “graves violaciones de los derechos humanos (ddhh)”. según la organización, los combatientes de las far saquearon mercados y viviendas, incendiaron granjas y agredieron a los habitantes de los pueblos de safita ghanoubab, al hilaliya y al aziba, lo que los obligó a huir en busca de seguridad. la ocha afirmó que, entre el 20 y el 25 de octubre, las far lanzaron un ataque en el este de al jazirah, en el que “dispararon a civiles y cometieron actos de violencia sexual contra mujeres y niñas”, lo que provocó una “devastación generalizada”. por su parte, la coordinadora de la ocha en sudán, clementine nkweta-salami, manifestó su “profunda preocupación” por la escalada de violencia y la muerte de decenas de personas en los últimos ataques paramilitares que afectaron a estas localidades. la funcionaria afirmó también que “el derecho internacional humanitario prohíbe atacar a civiles, bienes civiles e infraestructuras públicas. es inaceptable y debe cesar de inmediato. los civiles deben recibir protección dondequiera que se encuentren”. asimismo, el alto representante de la unión europea (ue) para seguridad y asuntos exteriores, josep borrell, expresó que “las masacres contra civiles deben cesar y los perpetradores deben rendir cuentas”, y concluyó diciendo que “la ue seguirá actuando para que se haga justicia”. de acuerdo con la onu, sudán se ha convertido en el país con la mayor crisis de desplazamiento interno del mundo, debido a que el ejército sudanés y las far se encuentran en un violento conflicto que, desde el 15 de abril de 2023, ha causado miles de fallecidos y ha forzado a más de 10 millones de personas a abandonar sus hogares.",
+    "tokens": [
+      "oficina",
+      "onu",
+      "coordinación",
+      "asuntos",
+      "humanitarios",
+      "(",
+      "ocha",
+      ")",
+      "comunicó",
+      ",",
+      "informe",
+      ",",
+      "agresión",
+      "far",
+      "centro-este",
+      "sudán",
+      "causó",
+      "“",
+      "graves",
+      "violaciones",
+      "derechos",
+      "humanos",
+      "(",
+      "ddhh",
+      ")",
+      "”",
+      ".",
+      "según",
+      "organización",
+      ",",
+      "combatientes",
+      "far",
+      "saquearon",
+      "mercados",
+      "viviendas",
+      ",",
+      "incendiaron",
+      "granjas",
+      "agredieron",
+      "habitantes",
+      "pueblos",
+      "safita",
+      "ghanoubab",
+      ",",
+      "hilaliya",
+      "aziba",
+      ",",
+      "obligó",
+      "huir",
+      "busca",
+      "seguridad",
+      ".",
+      "ocha",
+      "afirmó",
+      ",",
+      "20",
+      "25",
+      "octubre",
+      ",",
+      "far",
+      "lanzaron",
+      "ataque",
+      "jazirah",
+      ",",
+      "“",
+      "dispararon",
+      "civiles",
+      "cometieron",
+      "actos",
+      "violencia",
+      "sexual",
+      "mujeres",
+      "niñas",
+      "”",
+      ",",
+      "provocó",
+      "“",
+      "devastación",
+      "generalizada",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "coordinadora",
+      "ocha",
+      "sudán",
+      ",",
+      "clementine",
+      "nkweta-salami",
+      ",",
+      "manifestó",
+      "“",
+      "profunda",
+      "preocupación",
+      "”",
+      "escalada",
+      "violencia",
+      "muerte",
+      "decenas",
+      "personas",
+      "últimos",
+      "ataques",
+      "paramilitares",
+      "afectaron",
+      "localidades",
+      ".",
+      "funcionaria",
+      "afirmó",
+      "“",
+      "derecho",
+      "internacional",
+      "humanitario",
+      "prohíbe",
+      "atacar",
+      "civiles",
+      ",",
+      "bienes",
+      "civiles",
+      "infraestructuras",
+      "públicas",
+      ".",
+      "inaceptable",
+      "debe",
+      "cesar",
+      "inmediato",
+      ".",
+      "civiles",
+      "deben",
+      "recibir",
+      "protección",
+      "dondequiera",
+      "encuentren",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "alto",
+      "representante",
+      "unión",
+      "europea",
+      "(",
+      "ue",
+      ")",
+      "seguridad",
+      "asuntos",
+      "exteriores",
+      ",",
+      "josep",
+      "borrell",
+      ",",
+      "expresó",
+      "“",
+      "masacres",
+      "civiles",
+      "deben",
+      "cesar",
+      "perpetradores",
+      "deben",
+      "rendir",
+      "cuentas",
+      "”",
+      ",",
+      "concluyó",
+      "diciendo",
+      "“",
+      "ue",
+      "seguirá",
+      "actuando",
+      "haga",
+      "justicia",
+      "”",
+      ".",
+      "acuerdo",
+      "onu",
+      ",",
+      "sudán",
+      "convertido",
+      "país",
+      "mayor",
+      "crisis",
+      "desplazamiento",
+      "interno",
+      "mundo",
+      ",",
+      "debido",
+      "ejército",
+      "sudanés",
+      "far",
+      "encuentran",
+      "violento",
+      "conflicto",
+      ",",
+      "15",
+      "abril",
+      "2023",
+      ",",
+      "causado",
+      "miles",
+      "fallecidos",
+      "forzado",
+      "10",
+      "millones",
+      "personas",
+      "abandonar",
+      "hogares",
+      "."
+    ],
+    "token_count": 206,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "IN": 13,
+      "FW": 64,
+      "NN": 77,
+      "JJ": 29,
+      "NNS": 19,
+      "VBZ": 3,
+      "VBP": 12,
+      "$": 1,
+      "CD": 5,
+      "RB": 3,
+      "VBD": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 21,
+      "NNP-IN": 2,
+      "IN-FW": 9,
+      "FW-NNP": 12,
+      "NNP-NN": 12,
+      "NN-NN": 37,
+      "NN-NNP": 7,
+      "IN-NNP": 2,
+      "NN-FW": 11,
+      "FW-JJ": 5,
+      "JJ-NN": 18,
+      "FW-FW": 37,
+      "NNP-FW": 5,
+      "NN-IN": 6,
+      "NN-NNS": 7,
+      "NNS-FW": 1,
+      "JJ-NNS": 6,
+      "NNS-NNP": 3,
+      "FW-NN": 8,
+      "NN-VBZ": 2,
+      "VBZ-IN": 2,
+      "NN-JJ": 5,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-IN": 2,
+      "NNS-VBP": 8,
+      "VBP-NN": 1,
+      "VBP-JJ": 9,
+      "FW-NNS": 1,
+      "NNS-NNS": 3,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "NNP-VBP": 2,
+      "JJ-JJ": 2,
+      "JJ-NNP": 1,
+      "NNP-JJ": 1,
+      "NNP-NNS": 1,
+      "NNP-RB": 1,
+      "RB-VBD": 1,
+      "VBD-JJ": 2,
+      "NNS-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-VBD": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 4,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 6,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 11,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 9,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 24,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNP": 3,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 15,
+      "NN-NN-VBZ": 1,
+      "IN-FW-FW": 4,
+      "FW-NNP-NNP": 6,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-FW": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "NNP-NN-JJ": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "JJ-NN-NNS": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 6,
+      "NN-NNP-NN": 3,
+      "NNP-FW-NNP": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-JJ-NNS": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-RB": 1,
+      "NNP-RB-VBD": 1,
+      "RB-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-FW-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "FW": 64,
+        "NNP": 47,
+        "JJ": 29,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 37,
+        "NNP-NNP": 21,
+        "JJ-NN": 18,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "NN-NN-NN": 15,
+        "NNP-NNP-NNP": 11,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 81,
+      "PP": 5,
+      "ADJP": 3,
+      "VP": 20
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0254
+      },
+      {
+        "rule": "NP -> ('OCHA', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('civiles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('Sudán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP PP ('(', '(') NP (')', ')') NP (',', ',') ('en', 'FW') NP (',', ',') ADJP ('la', 'FW') ('agresión', 'FW') ('de', 'FW') ('las', 'FW') NP ('en', 'FW') NP PP VP ('de', 'IN') ('los', 'FW') NP ('(', '(') NP (')', ')') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Oficina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP') ('para', 'NN') ('la', 'NN') ('Coordinación', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Asuntos', 'NNP') ('Humanitarios', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('comunicó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('informe', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Oficina"
+      },
+      {
+        "label": "NP",
+        "text": "ONU para la Coordinación"
+      },
+      {
+        "label": "PP",
+        "text": "de Asuntos Humanitarios"
+      },
+      {
+        "label": "NP",
+        "text": "Asuntos Humanitarios"
+      },
+      {
+        "label": "NP",
+        "text": "OCHA"
+      },
+      {
+        "label": "NP",
+        "text": "comunicó"
+      },
+      {
+        "label": "NP",
+        "text": "un informe"
+      },
+      {
+        "label": "ADJP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "FAR"
+      },
+      {
+        "label": "NP",
+        "text": "el centro-este"
+      },
+      {
+        "label": "PP",
+        "text": "de Sudán causó “"
+      },
+      {
+        "label": "NP",
+        "text": "Sudán causó “"
+      },
+      {
+        "label": "VP",
+        "text": "graves violaciones"
+      },
+      {
+        "label": "NP",
+        "text": "violaciones"
+      },
+      {
+        "label": "NP",
+        "text": "derechos humanos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Oficina/NNP)\n  de/IN\n  la/FW\n  (NP ONU/NNP para/NN la/NN Coordinación/NNP)\n  (PP de/IN (NP Asuntos/NNP Humanitarios/NNP))\n  (/(\n  (NP OCHA/NNP)\n  )/)\n  (NP comunicó/NN)\n  ,/,\n  en/FW\n  (NP un/JJ informe/NN)\n  ,/,\n  (ADJP que/JJ)\n  la/FW\n  agresión/FW\n  de/FW\n  las/FW\n  (NP FAR/NNP)\n  en/FW\n  (NP el/JJ centro-este/NN)\n  (PP de/IN (NP Sudán/NNP causó/NN “/NNP))\n  (VP graves/VBZ (NP violaciones/NNS))\n  de/IN\n  los/FW\n  (NP derechos/JJ humanos/NN)\n  (/(\n  (NP DDHH/NNP)\n  )/)\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP la/NN organización/NN)\n  ,/,\n  (NP los/JJ combatientes/NNS)\n  de/IN\n  las/FW\n  (NP FAR/NNP saquearon/NN mercados/NN y/NN viviendas/NN)\n  ,/,\n  (NP incendiaron/NN granjas/NN y/NN)\n  (VP agredieron/VBZ (NP a/DT los/JJ habitantes/NNS))\n  de/IN\n  los/FW\n  pueblos/FW\n  de/FW\n  (NP Safita/NNP Ghanoubab/NNP)\n  ,/,\n  (NP Al/NNP Hilaliya/NNP y/NNP Al/NNP Aziba/NNP)\n  ,/,\n  (NP lo/NN que/NN los/NN)\n  (PP obligó/IN (NP a/DT huir/NN))\n  en/FW\n  busca/FW\n  de/FW\n  seguridad/FW\n  ./.)",
+      "(S\n  (NP La/NNP OCHA/NNP afirmó/NN que/NN)\n  ,/,\n  (VP entre/VBP el/RB)\n  20/CD\n  (NP y/NNS)\n  (ADJP el/JJ)\n  25/CD\n  de/FW\n  octubre/FW\n  ,/,\n  las/FW\n  (NP FAR/NNP lanzaron/NN)\n  (NP un/JJ ataque/NN)\n  en/FW\n  el/FW\n  este/FW\n  de/FW\n  (NP Al/NNP Jazirah/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (NP que/NN “/NNP)\n  (VP dispararon/VBZ (NP a/DT civiles/NNS))\n  y/CC\n  (NP cometieron/NN actos/NN)\n  de/IN\n  violencia/FW\n  (NP sexual/JJ contra/NN mujeres/NNS)\n  (VP y/VBP (NP niñas/JJ ”/NNP))\n  ,/,\n  (NP lo/NN que/NN provocó/NN)\n  (NP una/JJ “/NNP devastación/NN generalizada/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  la/FW\n  coordinadora/FW\n  de/FW\n  la/FW\n  (NP OCHA/NNP)\n  en/FW\n  (NP Sudán/NNP)\n  ,/,\n  (NP Clementine/NNP Nkweta-Salami/NNP)\n  ,/,\n  (NP\n    manifestó/NN\n    su/NN\n    “/NNP\n    profunda/NN\n    preocupación/NN\n    ”/NNP\n    por/NN\n    la/NN)\n  escalada/FW\n  de/FW\n  violencia/FW\n  y/CC\n  la/FW\n  muerte/FW\n  de/FW\n  decenas/FW\n  de/FW\n  personas/FW\n  en/FW\n  los/FW\n  últimos/FW\n  (NP ataques/NNS paramilitares/NNS)\n  (VP que/VBP)\n  (PP afectaron/IN (NP a/DT estas/JJ localidades/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP funcionaria/NNS)\n  (VP afirmó/VBP (NP también/JJ que/NN “/NNP))\n  (VP\n    el/VBZ\n    (NP\n      derecho/JJ\n      internacional/JJ\n      humanitario/NN\n      prohíbe/NN\n      atacar/NN)\n    (NP a/DT civiles/NNS))\n  ,/,\n  (NP bienes/NNS civiles/NNS)\n  (VP e/VBP (NP infraestructuras/JJ públicas/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "JUSTICIA_SOCIAL",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          777,
+          786
+        ],
+        "start": 777,
+        "end": 786
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la onu, sudán se ha convertido en el país con la mayor crisis de desplazamiento interno del mundo, debido a que el ejército sudanés y las",
+        "position": [
+          1487,
+          1636
+        ],
+        "start": 1487,
+        "end": 1636
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          460,
+          466
+        ],
+        "start": 460,
+        "end": 466
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          73,
+          81
+        ],
+        "start": 73,
+        "end": 81
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          17,
+          20
+        ],
+        "start": 17,
+        "end": 20
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unión europea",
+        "position": [
+          1241,
+          1254
+        ],
+        "start": 1241,
+        "end": 1254
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          635,
+          642
+        ],
+        "start": 635,
+        "end": 642
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la onu, sudán se ha convertido en el país con la mayor crisis de desplazamiento interno del mundo, debido a que el ejército sudanés y las far se encuentran en un violento conflicto que, desde el 15",
+        "position": [
+          1487,
+          1696
+        ],
+        "start": 1487,
+        "end": 1696
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro-este",
+        "position": [
+          131,
+          142
+        ],
+        "start": 131,
+        "end": 142
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "15 de abril de 2023",
+        "position": [
+          1694,
+          1713
+        ],
+        "start": 1694,
+        "end": 1713
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          185,
+          201
+        ],
+        "start": 185,
+        "end": 201
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10 millones",
+        "position": [
+          1768,
+          1779
+        ],
+        "start": 1768,
+        "end": 1779
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10",
+        "position": [
+          1761,
+          1770
+        ],
+        "start": 1761,
+        "end": 1770
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Al Jazirah",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unión Europea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "UE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Aziba",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Seguridad y Asuntos Exteriores",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "OCHA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Coordinación de Asuntos Humanitarios",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Oficina de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Clementine Nkweta-Salami",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Josep Borrell",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Safita Ghanoubab",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FAR",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Oficina de la ONU",
+        "relacion": "COMUNICAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Oficina de la ONU",
+        "relacion": "COMUNICAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Coordinación de Asuntos Humanitarios",
+        "relacion": "COMUNICAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Coordinación de Asuntos Humanitarios",
+        "relacion": "COMUNICAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "COMUNICAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "COMUNICAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "SAQUEAR",
+        "objeto": "Safita Ghanoubab"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "SAQUEAR",
+        "objeto": "Al Aziba"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "AFIRMAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "AFIRMAR",
+        "objeto": "Al Jazirah"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "LANZAR_AFIRMAR",
+        "objeto": "Al Jazirah"
+      },
+      {
+        "sujeto": "UE",
+        "relacion": "EXPRESAR",
+        "objeto": "Unión Europea"
+      },
+      {
+        "sujeto": "UE",
+        "relacion": "EXPRESAR",
+        "objeto": "Seguridad y Asuntos Exteriores"
+      },
+      {
+        "sujeto": "UE",
+        "relacion": "EXPRESAR",
+        "objeto": "Josep Borrell"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "CONVERTIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "CONVERTIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "CONVERTIR",
+        "objeto": "FAR"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2732,
+    "pos": 0.025,
+    "neu": 0.96,
+    "neg": 0.014,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "url": "https://www.telesurtv.net/personas-atrapadas-bajo-los-escombros-tras-derrumbe-de-edificio-en-una-ciudad-argentina/",
+  "title": "Personas atrapadas bajo los escombros tras derrumbe de edificio en una ciudad argentina - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "Buenos Aires",
+    "Derrumbe",
+    "edificio"
+  ],
+  "text": "El edificio de diez pisos Apart Hotel Dubrovnik se derrumbó este martes en la ciudad balnearia de Villa Gesell, Buenos Aires, y ha dejado entre 7 y 9 desaparecidos de acuerdo con las primeras informaciones. El derrumbe repercutió en otro edificio de tres pisos.\nEl hecho ocurrió alrededor de la una de la madrugada.\nDe acuerdo con un comunicado de la municipalidad de Villa Gesell, se trata de una “obra que se estaba realizando en forma clandestina, sin cumplir con la normativa municipal, ni contaba con la autorización municipal correspondiente”.\nDicha obra había sido paralizada por el Municipio en agosto de este año, según informa el comunicado.\nSe calcula que más del 80 por ciento del edificio está afectado, mientras que, Higo Piriz, jefe de Bomberos de Villa Gesell, señaló: “se calcula que entre 7 y 9 personas se encontraban en el Hotel al momento del derrumbe”.\n“Estamos en contacto con una persona y los canes marcaron otra más a la que estamos tratando de alcanzar, pero estaría a 4 o 5 metros de profundidad”, declaró en las primeras horas de la jornada de martes.\nLa situación es complicada ya que “hay mucho escombro”, afirmó el bombero jefe.\nPor su parte, el ministro de Seguridad bonaerense, Javier Alonso, señaló que en estos momentos “todo el esfuerzo está puesto en el rescate de los sobrevivientes” atrapados bajo los escombros.\n“Los vecinos nos dicen que en ese lugar se estaba haciendo una obra. El edificio implosionó. Se derrumbó sobre sí mismo. Es un edificio de 10 pisos, y los últimos pisos cayeron hacia la derecha, sobre el edificio de al lado”, mencionó el jefe de la cartera.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/personas-atrapadas-bajo-los-escombros-tras-derrumbe-de-edificio-en-una-ciudad-argentina/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 188,
+    "message_id": 79411,
+    "date": "2024-10-29T13:55:18+00:00",
+    "text": "teleSUR\nPersonas atrapadas bajo los escombros tras derrumbe de edificio en una ciudad argentina\nhttps://www.telesurtv.net/personas-atrapadas-bajo-los-escombros-tras-derrumbe-de-edificio-en-una-ciudad-argentina/",
+    "photo_path": null,
+    "views": 2180,
+    "reactions": {
+      "😱": 34,
+      "🙏": 7,
+      "👍": 3
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "el edificio de diez pisos apart hotel dubrovnik se derrumbó este martes en la ciudad balnearia de villa gesell, buenos aires, y ha dejado entre 7 y 9 desaparecidos de acuerdo con las primeras informaciones. el derrumbe repercutió en otro edificio de tres pisos. el hecho ocurrió alrededor de la una de la madrugada. de acuerdo con un comunicado de la municipalidad de villa gesell, se trata de una “obra que se estaba realizando en forma clandestina, sin cumplir con la normativa municipal, ni contaba con la autorización municipal correspondiente”. dicha obra había sido paralizada por el municipio en agosto de este año, según informa el comunicado. se calcula que más del 80 por ciento del edificio está afectado, mientras que, higo piriz, jefe de bomberos de villa gesell, señaló: “se calcula que entre 7 y 9 personas se encontraban en el hotel al momento del derrumbe”. “estamos en contacto con una persona y los canes marcaron otra más a la que estamos tratando de alcanzar, pero estaría a 4 o 5 metros de profundidad”, declaró en las primeras horas de la jornada de martes. la situación es complicada ya que “hay mucho escombro”, afirmó el bombero jefe. por su parte, el ministro de seguridad bonaerense, javier alonso, señaló que en estos momentos “todo el esfuerzo está puesto en el rescate de los sobrevivientes” atrapados bajo los escombros. “los vecinos nos dicen que en ese lugar se estaba haciendo una obra. el edificio implosionó. se derrumbó sobre sí mismo. es un edificio de 10 pisos, y los últimos pisos cayeron hacia la derecha, sobre el edificio de al lado”, mencionó el jefe de la cartera.",
+    "tokens": [
+      "edificio",
+      "diez",
+      "pisos",
+      "apart",
+      "hotel",
+      "dubrovnik",
+      "derrumbó",
+      "martes",
+      "ciudad",
+      "balnearia",
+      "villa",
+      "gesell",
+      ",",
+      "buenos",
+      "aires",
+      ",",
+      "dejado",
+      "7",
+      "9",
+      "desaparecidos",
+      "acuerdo",
+      "primeras",
+      "informaciones",
+      ".",
+      "derrumbe",
+      "repercutió",
+      "edificio",
+      "tres",
+      "pisos",
+      ".",
+      "hecho",
+      "ocurrió",
+      "alrededor",
+      "madrugada",
+      ".",
+      "acuerdo",
+      "comunicado",
+      "municipalidad",
+      "villa",
+      "gesell",
+      ",",
+      "trata",
+      "“",
+      "obra",
+      "realizando",
+      "forma",
+      "clandestina",
+      ",",
+      "cumplir",
+      "normativa",
+      "municipal",
+      ",",
+      "contaba",
+      "autorización",
+      "municipal",
+      "correspondiente",
+      "”",
+      ".",
+      "dicha",
+      "obra",
+      "sido",
+      "paralizada",
+      "municipio",
+      "agosto",
+      "año",
+      ",",
+      "según",
+      "informa",
+      "comunicado",
+      ".",
+      "calcula",
+      "80",
+      "ciento",
+      "edificio",
+      "afectado",
+      ",",
+      "mientras",
+      ",",
+      "higo",
+      "piriz",
+      ",",
+      "jefe",
+      "bomberos",
+      "villa",
+      "gesell",
+      ",",
+      "señaló",
+      ":",
+      "“",
+      "calcula",
+      "7",
+      "9",
+      "personas",
+      "encontraban",
+      "hotel",
+      "momento",
+      "derrumbe",
+      "”",
+      ".",
+      "“",
+      "contacto",
+      "persona",
+      "canes",
+      "marcaron",
+      "tratando",
+      "alcanzar",
+      ",",
+      "4",
+      "5",
+      "metros",
+      "profundidad",
+      "”",
+      ",",
+      "declaró",
+      "primeras",
+      "horas",
+      "jornada",
+      "martes",
+      ".",
+      "situación",
+      "complicada",
+      "“",
+      "escombro",
+      "”",
+      ",",
+      "afirmó",
+      "bombero",
+      "jefe",
+      ".",
+      "parte",
+      ",",
+      "ministro",
+      "seguridad",
+      "bonaerense",
+      ",",
+      "javier",
+      "alonso",
+      ",",
+      "señaló",
+      "momentos",
+      "“",
+      "esfuerzo",
+      "puesto",
+      "rescate",
+      "sobrevivientes",
+      "”",
+      "atrapados",
+      "bajo",
+      "escombros",
+      ".",
+      "“",
+      "vecinos",
+      "dicen",
+      "lugar",
+      "haciendo",
+      "obra",
+      ".",
+      "edificio",
+      "implosionó",
+      ".",
+      "derrumbó",
+      "mismo",
+      ".",
+      "edificio",
+      "10",
+      "pisos",
+      ",",
+      "últimos",
+      "pisos",
+      "cayeron",
+      "hacia",
+      "derecha",
+      ",",
+      "edificio",
+      "lado",
+      "”",
+      ",",
+      "mencionó",
+      "jefe",
+      "cartera",
+      "."
+    ],
+    "token_count": 181,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "FW": 90,
+      "VBD": 2,
+      "JJ": 16,
+      "NN": 95,
+      "NNS": 7,
+      "VBP": 5,
+      "VBZ": 2,
+      "IN": 8,
+      "RB": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-FW": 9,
+      "FW-FW": 60,
+      "FW-NNP": 10,
+      "NNP-NNP": 9,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NN": 13,
+      "NN-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-FW": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-JJ": 6,
+      "NN-IN": 8,
+      "IN-FW": 5,
+      "FW-NN": 16,
+      "VBP-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-NN": 11,
+      "NN-NN": 53,
+      "NN-FW": 15,
+      "FW-NNS": 2,
+      "VBP-NNP": 1,
+      "FW-JJ": 2,
+      "NN-NNP": 8,
+      "NN-VBD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "CD-NN": 1,
+      "VBP-JJ": 2,
+      "IN-JJ": 2,
+      "JJ-NNP": 3,
+      "VBZ-JJ": 1,
+      "NNP-JJ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 5,
+      "FW-FW-FW": 44,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-FW": 9,
+      "NN-FW-FW": 8,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NN": 33,
+      "NN-NN-IN": 3,
+      "IN-FW-FW": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-JJ": 2,
+      "NNP-NNP-FW": 2,
+      "FW-NN-FW": 5,
+      "FW-FW-NN": 7,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 5,
+      "NN-NN-JJ": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 2,
+      "FW-NNP-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "FW-NN-IN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 95,
+        "FW": 90,
+        "NNP": 33,
+        "JJ": 16,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "FW-FW": 60,
+        "NN-NN": 53,
+        "FW-NN": 16,
+        "NN-FW": 15,
+        "JJ-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 44,
+        "NN-NN-NN": 33,
+        "NNP-NN-NN": 9,
+        "NN-NN-FW": 9,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 12,
+      "PP": 4,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Villa', 'NNP') ('Gesell', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP ('.', '.')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP ('edificio', 'FW') ('de', 'FW') ('diez', 'FW') ('pisos', 'FW') NP VP VP ('la', 'FW') ('ciudad', 'FW') ('balnearia', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('7', 'CD') NP ('9', 'CD') NP ('de', 'FW') ('acuerdo', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Apart', 'NNP') ('Hotel', 'NNP') ('Dubrovnik', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('derrumbó', 'JJ') ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('en', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "Apart Hotel Dubrovnik"
+      },
+      {
+        "label": "VP",
+        "text": "se derrumbó este martes"
+      },
+      {
+        "label": "NP",
+        "text": "derrumbó este martes"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Villa Gesell"
+      },
+      {
+        "label": "NP",
+        "text": "Buenos Aires"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "VP",
+        "text": "ha dejado entre"
+      },
+      {
+        "label": "NP",
+        "text": "dejado entre"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "desaparecidos"
+      },
+      {
+        "label": "NP",
+        "text": "con las"
+      },
+      {
+        "label": "VP",
+        "text": "primeras informaciones"
+      },
+      {
+        "label": "NP",
+        "text": "informaciones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  edificio/FW\n  de/FW\n  diez/FW\n  pisos/FW\n  (NP Apart/NNP Hotel/NNP Dubrovnik/NNP)\n  (VP se/VBD (NP derrumbó/JJ este/NN martes/NNS))\n  (VP en/VBP)\n  la/FW\n  ciudad/FW\n  balnearia/FW\n  de/FW\n  (NP Villa/NNP Gesell/NNP)\n  ,/,\n  (NP Buenos/NNP Aires/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP ha/VBZ (NP dejado/NN entre/NN))\n  7/CD\n  (NP y/NN)\n  9/CD\n  (NP desaparecidos/NN)\n  de/FW\n  acuerdo/FW\n  (NP con/NN las/NNS)\n  (VP primeras/VBP (NP informaciones/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP derrumbe/NN repercutió/NN)\n  en/FW\n  otro/FW\n  edificio/FW\n  de/FW\n  (NP tres/NNS)\n  (VP pisos/VBP)\n  ./.)",
+      "(S\n  (NP El/NNP hecho/NN ocurrió/NN alrededor/NN)\n  de/IN\n  la/FW\n  una/FW\n  de/FW\n  la/FW\n  madrugada/FW\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  (NP un/JJ comunicado/NN)\n  de/IN\n  la/FW\n  municipalidad/FW\n  de/FW\n  (NP Villa/NNP Gesell/NNP)\n  ,/,\n  (NP se/JJ trata/NN)\n  (PP de/IN (NP una/JJ “/NNP obra/NN que/NN se/NN))\n  estaba/FW\n  (NP realizando/NN)\n  en/FW\n  (NP forma/JJ clandestina/NN)\n  ,/,\n  (NP sin/NN cumplir/NN con/NN la/NN)\n  normativa/FW\n  (ADJP municipal/JJ)\n  ,/,\n  (NP ni/JJ contaba/NN con/NN la/NN autorización/NN)\n  (NP municipal/JJ correspondiente/NN ”/NNP)\n  ./.)",
+      "(S\n  (NP Dicha/NNP)\n  obra/MD\n  (VP había/VB (NP sido/NN paralizada/NN por/NN el/NN Municipio/NNP))\n  en/FW\n  agosto/FW\n  de/FW\n  este/FW\n  (NP año/NN)\n  ,/,\n  (NP según/JJ informa/NN el/NN comunicado/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "derrumbe repercutió en otro edificio",
+        "position": [
+          210,
+          246
+        ],
+        "start": 210,
+        "end": 246
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          777,
+          783
+        ],
+        "start": 777,
+        "end": 783
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de seguridad bonaerense",
+        "position": [
+          1178,
+          1210
+        ],
+        "start": 1178,
+        "end": 1210
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "normativa",
+        "position": [
+          470,
+          479
+        ],
+        "start": 470,
+        "end": 479
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "buenos aires",
+        "position": [
+          112,
+          124
+        ],
+        "start": 112,
+        "end": 124
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio de",
+        "position": [
+          3,
+          14
+        ],
+        "start": 3,
+        "end": 14
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "9 personas",
+        "position": [
+          811,
+          821
+        ],
+        "start": 811,
+        "end": 821
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Apart Hotel Dubrovnik",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Municipio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Higo Piriz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Buenos Aires",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Javier Alonso",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bomberos de Villa Gesell",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hotel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Villa Gesell",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Apart Hotel Dubrovnik",
+        "relacion": "DERRUMBAR",
+        "objeto": "Villa Gesell"
+      },
+      {
+        "sujeto": "Apart Hotel Dubrovnik",
+        "relacion": "DERRUMBAR",
+        "objeto": "Buenos Aires"
+      },
+      {
+        "sujeto": "Higo Piriz",
+        "relacion": "SE_ALAR",
+        "objeto": "Hotel"
+      },
+      {
+        "sujeto": "Bomberos de Villa Gesell",
+        "relacion": "SE_ALAR",
+        "objeto": "Hotel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.009,
+    "neu": 0.977,
+    "neg": 0.014,
+    "label": "negative"
+  }
+}

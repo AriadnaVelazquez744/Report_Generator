@@ -1,0 +1,720 @@
+{
+  "url": "https://www.telesurtv.net/tribunal-supremo-de-brasil-confirma-el-pago-de-la-multa-de-x-para-volver-a-operar-en-el-pais/",
+  "title": "Tribunal Supremo de Brasil confirma el pago de la multa de X para volver a operar en el país - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "multa",
+    "Red social X",
+    "stf"
+  ],
+  "text": "El Supremo Tribunal Federal de Brasil confirmó el lunes que recibió el pago por parte de la red social X de la multa de 5.2 millones de dólares, lo que significa un paso más para que la plataforma vuelva a operar en el país suramericano.\nLa Secretaria Judicial del STF certificó el depósito y el caso fue remitido a la Fiscalía General del país para su análisis, tras lo cual el juez federal Alexandre de Moraes tomará una decisión sobre un posible desbloqueo de X.\nLa empresa propiedad del multimillonario Elon Musk afirmó el viernes pasado haber pagado las multas, pero el magistrado Moraes apuntó que el depósito había sido realizado en una cuenta equivocada y determinó la transferencia del dinero de la Caixa Econômica Federal al Banco do Brasil.\nUna vez regularizado el pago, la solicitud para desbloquear la red social X será enviada a la Procuraduría General de Brasil. A continuación, el juez De Moraes, decidirá si permite el funcionamiento de la plataforma.\nX, antiguo Twitter, fue bloqueado el 30 de agosto y multado por negarse a cumplir las órdenes dictadas por el juez del STF sobre la eliminación de varios perfiles vinculados a la ultraderecha y acusados de difundir noticias falsas con tintes antidemocráticos.\nAdemás, la empresa de internet por satélite Starlink, también propiedad de Musk, fue hecha responsable solidaria por el pago de las multas en caso de que X no cumpliera.\nDespués de varios episodios entre el juez de Moraes y Elon Musk, el propietario de X optó por dar marcha atrás a los enfrentamientos, nombrar nuevamente representantes legales en el país y pagar las multas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/tribunal-supremo-de-brasil-confirma-el-pago-de-la-multa-de-x-para-volver-a-operar-en-el-pais/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1527,
+    "message_id": 77979,
+    "date": "2024-10-08T05:55:07+00:00",
+    "text": "teleSUR\nTribunal Supremo de Brasil confirma el pago de la multa de X para volver a operar en el país\nhttps://www.telesurtv.net/tribunal-supremo-de-brasil-confirma-el-pago-de-la-multa-de-x-para-volver-a-operar-en-el-pais/",
+    "photo_path": null,
+    "views": 2426,
+    "reactions": {
+      "👍": 38,
+      "🤔": 10,
+      "😎": 6,
+      "🤪": 3
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "el supremo tribunal federal de brasil confirmó el lunes que recibió el pago por parte de la red social x de la multa de 5.2 millones de dólares, lo que significa un paso más para que la plataforma vuelva a operar en el país suramericano. la secretaria judicial del stf certificó el depósito y el caso fue remitido a la fiscalía general del país para su análisis, tras lo cual el juez federal alexandre de moraes tomará una decisión sobre un posible desbloqueo de x. la empresa propiedad del multimillonario elon musk afirmó el viernes pasado haber pagado las multas, pero el magistrado moraes apuntó que el depósito había sido realizado en una cuenta equivocada y determinó la transferencia del dinero de la caixa econômica federal al banco do brasil. una vez regularizado el pago, la solicitud para desbloquear la red social x será enviada a la procuraduría general de brasil. a continuación, el juez de moraes, decidirá si permite el funcionamiento de la plataforma. x, antiguo twitter, fue bloqueado el 30 de agosto y multado por negarse a cumplir las órdenes dictadas por el juez del stf sobre la eliminación de varios perfiles vinculados a la ultraderecha y acusados de difundir noticias falsas con tintes antidemocráticos. además, la empresa de internet por satélite starlink, también propiedad de musk, fue hecha responsable solidaria por el pago de las multas en caso de que x no cumpliera. después de varios episodios entre el juez de moraes y elon musk, el propietario de x optó por dar marcha atrás a los enfrentamientos, nombrar nuevamente representantes legales en el país y pagar las multas.",
+    "tokens": [
+      "supremo",
+      "tribunal",
+      "federal",
+      "brasil",
+      "confirmó",
+      "lunes",
+      "recibió",
+      "pago",
+      "parte",
+      "red",
+      "social",
+      "x",
+      "multa",
+      "5.2",
+      "millones",
+      "dólares",
+      ",",
+      "significa",
+      "paso",
+      "plataforma",
+      "vuelva",
+      "operar",
+      "país",
+      "suramericano",
+      ".",
+      "secretaria",
+      "judicial",
+      "stf",
+      "certificó",
+      "depósito",
+      "caso",
+      "remitido",
+      "fiscalía",
+      "general",
+      "país",
+      "análisis",
+      ",",
+      "tras",
+      "juez",
+      "federal",
+      "alexandre",
+      "moraes",
+      "tomará",
+      "decisión",
+      "posible",
+      "desbloqueo",
+      "x.",
+      "empresa",
+      "propiedad",
+      "multimillonario",
+      "elon",
+      "musk",
+      "afirmó",
+      "viernes",
+      "pasado",
+      "haber",
+      "pagado",
+      "multas",
+      ",",
+      "magistrado",
+      "moraes",
+      "apuntó",
+      "depósito",
+      "sido",
+      "realizado",
+      "cuenta",
+      "equivocada",
+      "determinó",
+      "transferencia",
+      "dinero",
+      "caixa",
+      "econômica",
+      "federal",
+      "banco",
+      "do",
+      "brasil",
+      ".",
+      "vez",
+      "regularizado",
+      "pago",
+      ",",
+      "solicitud",
+      "desbloquear",
+      "red",
+      "social",
+      "x",
+      "enviada",
+      "procuraduría",
+      "general",
+      "brasil",
+      ".",
+      "continuación",
+      ",",
+      "juez",
+      "moraes",
+      ",",
+      "decidirá",
+      "si",
+      "permite",
+      "funcionamiento",
+      "plataforma",
+      ".",
+      "x",
+      ",",
+      "antiguo",
+      "twitter",
+      ",",
+      "bloqueado",
+      "30",
+      "agosto",
+      "multado",
+      "negarse",
+      "cumplir",
+      "órdenes",
+      "dictadas",
+      "juez",
+      "stf",
+      "eliminación",
+      "varios",
+      "perfiles",
+      "vinculados",
+      "ultraderecha",
+      "acusados",
+      "difundir",
+      "noticias",
+      "falsas",
+      "tintes",
+      "antidemocráticos",
+      ".",
+      "además",
+      ",",
+      "empresa",
+      "internet",
+      "satélite",
+      "starlink",
+      ",",
+      "propiedad",
+      "musk",
+      ",",
+      "hecha",
+      "responsable",
+      "solidaria",
+      "pago",
+      "multas",
+      "caso",
+      "x",
+      "cumpliera",
+      ".",
+      "después",
+      "varios",
+      "episodios",
+      "juez",
+      "moraes",
+      "elon",
+      "musk",
+      ",",
+      "propietario",
+      "x",
+      "optó",
+      "dar",
+      "marcha",
+      "atrás",
+      "enfrentamientos",
+      ",",
+      "nombrar",
+      "nuevamente",
+      "representantes",
+      "legales",
+      "país",
+      "pagar",
+      "multas",
+      "."
+    ],
+    "token_count": 172,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "NN": 98,
+      "NNS": 15,
+      "VBP": 11,
+      "JJ": 28,
+      "IN": 17,
+      "FW": 39,
+      "CD": 2,
+      "VBZ": 2,
+      "VBD": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 16,
+      "NNP-NN": 12,
+      "NN-NN": 57,
+      "NN-NNS": 6,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "JJ-NN": 17,
+      "NN-IN": 13,
+      "IN-FW": 9,
+      "FW-JJ": 3,
+      "JJ-JJ": 6,
+      "JJ-FW": 1,
+      "FW-FW": 18,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 2,
+      "FW-NNS": 4,
+      "VBP-NN": 1,
+      "NN-JJ": 9,
+      "NN-FW": 2,
+      "FW-NN": 7,
+      "NN-NNP": 9,
+      "NNP-FW": 7,
+      "FW-NNP": 4,
+      "JJ-NNP": 2,
+      "IN-NNP": 3,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "IN-NN": 3,
+      "IN-JJ": 2,
+      "NNP-VBP": 1,
+      "VBP-NNP": 3,
+      "FW-VBP": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "NNP-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 10,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 29,
+      "NN-NN-IN": 8,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 10,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 5,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNP": 5,
+      "NNP-FW-NN": 3,
+      "JJ-NN-NNS": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 3,
+      "IN-NNP-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NN-IN-NN": 1,
+      "JJ-NN-JJ": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-NNP-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-NNP-NNP": 1,
+      "FW-NN-IN": 1,
+      "IN-JJ-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NN-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "FW": 39,
+        "NNP": 38,
+        "JJ": 28,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 18,
+        "JJ-NN": 17,
+        "NNP-NNP": 16,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "NNP-NN-NN": 10,
+        "FW-FW-FW": 10,
+        "JJ-NN-NN": 9,
+        "NN-NN-IN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 14,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0526
+      },
+      {
+        "rule": "NP -> ('X', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0316
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP VP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') ('la', 'FW') ('multa', 'FW') ('de', 'FW') ('5.2', 'CD') NP ('de', 'FW') NP (',', ',') NP NP ('plataforma', 'FW') ('vuelva', 'FW') NP ('en', 'IN') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Supremo', 'NNP') ('Tribunal', 'NNP') ('Federal', 'NNP') ('de', 'NNP') ('Brasil', 'NNP') ('confirmó', 'NN') ('el', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('recibió', 'JJ') ('el', 'NN') ('pago', 'NN') ('por', 'NN') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('red', 'JJ') ('social', 'JJ') ('X', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('dólares', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Supremo Tribunal Federal de Brasil confirmó el lunes"
+      },
+      {
+        "label": "VP",
+        "text": "que recibió el pago por parte"
+      },
+      {
+        "label": "NP",
+        "text": "recibió el pago por parte"
+      },
+      {
+        "label": "NP",
+        "text": "red social X"
+      },
+      {
+        "label": "NP",
+        "text": "millones"
+      },
+      {
+        "label": "NP",
+        "text": "dólares"
+      },
+      {
+        "label": "NP",
+        "text": "lo que significa"
+      },
+      {
+        "label": "NP",
+        "text": "un paso más para que la"
+      },
+      {
+        "label": "NP",
+        "text": "a operar"
+      },
+      {
+        "label": "NP",
+        "text": "país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "La Secretaria Judicial"
+      },
+      {
+        "label": "NP",
+        "text": "STF certificó el depósito y el caso fue"
+      },
+      {
+        "label": "VP",
+        "text": "remitido a la Fiscalía General"
+      },
+      {
+        "label": "NP",
+        "text": "a la Fiscalía General"
+      },
+      {
+        "label": "NP",
+        "text": "país para su análisis"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    Supremo/NNP\n    Tribunal/NNP\n    Federal/NNP\n    de/NNP\n    Brasil/NNP\n    confirmó/NN\n    el/NN\n    lunes/NNS)\n  (VP que/VBP (NP recibió/JJ el/NN pago/NN por/NN parte/NN))\n  de/IN\n  la/FW\n  (NP red/JJ social/JJ X/NNP)\n  de/FW\n  la/FW\n  multa/FW\n  de/FW\n  5.2/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  ,/,\n  (NP lo/JJ que/NN significa/NN)\n  (NP un/JJ paso/NN más/NN para/NN que/NN la/NN)\n  plataforma/FW\n  vuelva/FW\n  (NP a/DT operar/NN)\n  en/IN\n  el/FW\n  (NP país/JJ suramericano/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Secretaria/NNP Judicial/NNP)\n  del/FW\n  (NP\n    STF/NNP\n    certificó/NN\n    el/NN\n    depósito/NN\n    y/NN\n    el/NN\n    caso/NN\n    fue/NN)\n  (VP remitido/VBZ (NP a/DT la/NN Fiscalía/NNP General/NNP))\n  del/FW\n  (NP país/NN para/NN su/NN análisis/NN)\n  ,/,\n  tras/EX\n  (NP lo/JJ cual/JJ el/NN juez/NN)\n  (NP federal/JJ Alexandre/NNP)\n  de/FW\n  (NP Moraes/NNP tomará/NN)\n  (NP una/JJ decisión/NN sobre/NN)\n  (NP un/JJ posible/JJ desbloqueo/NN)\n  (PP de/IN (NP X/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  empresa/CC\n  (NP propiedad/JJ del/NN multimillonario/NN Elon/NNP Musk/NNP)\n  (VP afirmó/VBZ (NP el/JJ viernes/NNS))\n  (PP pasado/IN (NP haber/NN pagado/NN las/NN multas/NNS))\n  ,/,\n  (NP\n    pero/NN\n    el/NN\n    magistrado/NN\n    Moraes/NNP\n    apuntó/NN\n    que/NN\n    el/NN\n    depósito/NN\n    había/NN\n    sido/NN\n    realizado/NN)\n  (PP\n    en/IN\n    (NP una/JJ cuenta/NN equivocada/NN y/NN determinó/NN la/NN))\n  (NP transferencia/JJ del/NN dinero/NN)\n  de/IN\n  la/FW\n  (NP Caixa/NNP Econômica/NNP Federal/NNP al/NN Banco/NNP)\n  (VP do/VBP (NP Brasil/NNP))\n  ./.)",
+      "(S\n  (NP Una/NNP vez/NN regularizado/NN el/NN pago/NN)\n  ,/,\n  la/FW\n  solicitud/FW\n  para/FW\n  (NP desbloquear/JJ la/NN)\n  (NP red/JJ social/JJ X/NNP será/NN)\n  (VP enviada/VBZ (NP a/DT la/NN Procuraduría/NNP General/NNP))\n  (PP de/IN (NP Brasil/NNP))\n  ./.)",
+      "(S\n  (NP A/DT continuación/NN)\n  ,/,\n  (NP el/JJ juez/NN De/NNP Moraes/NNP)\n  ,/,\n  (NP decidirá/NN si/NN permite/NN el/NN funcionamiento/NN)\n  de/IN\n  la/FW\n  plataforma/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "MONETARIOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          517,
+          523
+        ],
+        "start": 517,
+        "end": 523
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          31,
+          37
+        ],
+        "start": 31,
+        "end": 37
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2 millones",
+        "position": [
+          122,
+          132
+        ],
+        "start": 122,
+        "end": 132
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "5.2 millones de dólares",
+        "position": [
+          120,
+          143
+        ],
+        "start": 120,
+        "end": 143
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Elon Musk",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Secretaria Judicial del STF",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alexandre de Moraes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caixa Econômica Federal",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Musk",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fiscalía General",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Banco do Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Procuraduría General de Brasil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Moraes",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Secretaria Judicial del STF",
+        "relacion": "CERTIFICAR_AFIRMAR",
+        "objeto": "Fiscalía General"
+      },
+      {
+        "sujeto": "Secretaria Judicial del STF",
+        "relacion": "CERTIFICAR_AFIRMAR",
+        "objeto": "Alexandre de Moraes"
+      },
+      {
+        "sujeto": "Secretaria Judicial del STF",
+        "relacion": "CERTIFICAR_AFIRMAR",
+        "objeto": "Elon Musk"
+      },
+      {
+        "sujeto": "Secretaria Judicial del STF",
+        "relacion": "CERTIFICAR_AFIRMAR",
+        "objeto": "Moraes"
+      },
+      {
+        "sujeto": "Secretaria Judicial del STF",
+        "relacion": "CERTIFICAR_AFIRMAR",
+        "objeto": "Caixa Econômica Federal"
+      },
+      {
+        "sujeto": "Secretaria Judicial del STF",
+        "relacion": "CERTIFICAR_AFIRMAR",
+        "objeto": "Banco do Brasil"
+      },
+      {
+        "sujeto": "Fiscalía General",
+        "relacion": "REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Alexandre de Moraes"
+      },
+      {
+        "sujeto": "Fiscalía General",
+        "relacion": "REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Elon Musk"
+      },
+      {
+        "sujeto": "Fiscalía General",
+        "relacion": "REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Moraes"
+      },
+      {
+        "sujeto": "Fiscalía General",
+        "relacion": "REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Caixa Econômica Federal"
+      },
+      {
+        "sujeto": "Fiscalía General",
+        "relacion": "REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Banco do Brasil"
+      },
+      {
+        "sujeto": "Alexandre de Moraes",
+        "relacion": "TOMAR_REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Elon Musk"
+      },
+      {
+        "sujeto": "Alexandre de Moraes",
+        "relacion": "TOMAR_REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Moraes"
+      },
+      {
+        "sujeto": "Alexandre de Moraes",
+        "relacion": "TOMAR_REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Caixa Econômica Federal"
+      },
+      {
+        "sujeto": "Alexandre de Moraes",
+        "relacion": "TOMAR_REMITIR_CERTIFICAR_AFIRMAR",
+        "objeto": "Banco do Brasil"
+      },
+      {
+        "sujeto": "Elon Musk",
+        "relacion": "AFIRMAR",
+        "objeto": "Moraes"
+      },
+      {
+        "sujeto": "Elon Musk",
+        "relacion": "AFIRMAR",
+        "objeto": "Caixa Econômica Federal"
+      },
+      {
+        "sujeto": "Elon Musk",
+        "relacion": "AFIRMAR",
+        "objeto": "Banco do Brasil"
+      },
+      {
+        "sujeto": "Moraes",
+        "relacion": "APUNTAR_AFIRMAR",
+        "objeto": "Caixa Econômica Federal"
+      },
+      {
+        "sujeto": "Moraes",
+        "relacion": "APUNTAR_AFIRMAR",
+        "objeto": "Banco do Brasil"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1779,
+    "pos": 0.011,
+    "neu": 0.98,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

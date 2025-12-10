@@ -1,0 +1,681 @@
+{
+  "url": "https://www.telesurtv.net/iran-condena-ataque-con-misiles-de-israel-contra-un-edificio-en-siria/",
+  "title": "Irán condena ataque con misiles de Israel contra un edificio en Siria - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "barrio de Mezzeh",
+    "de Damasco",
+    "Embajada de Irán",
+    "taque con misiles Israel"
+  ],
+  "text": "La Embajada de Irán en Damasco, capital de Siria, condenó este martes un ataque con misiles por parte de Israel contra un edificio residencial en esa ciudad.\n“Una vez más, el enemigo israelí cometió otro crimen durante un cobarde ataque con misiles contra un edificio civil en el corazón de Damasco, matando a mujeres y niños inocentes”, precisó el representación diplomática en un comunicado.\nLa embajada iraní condenó el atentado terrorista y anunció que no hay ciudadanos iraníes entre los mártires y heridos.\nLa embajada “pide a Dios que conceda a las familias de los mártires paciencia y consuelo y una pronta recuperación a los heridos”.\nMedios locales anunciaron que “una agresión israelí tuvo como objetivo un edificio residencial en el barrio de Mezzeh, en Damasco, y hay información preliminar sobre la presencia de heridos”.\nLa Defensa Civil siria indicó que iniciaron los operativos para rescatar a personas que se encuentran bajo los escombros y, para hacer frente a la agresión, se han activado las fuerzas de defensas aéreas con el objetivo de desarticular objetivos en el cielo de esa ciudad.\nPreviamente, al menos tres civiles murieron y otros resultaron heridos en una acción dirigida también contra un edificio de Mezzeh, por parte de Israel.\nMezzeh es una localidad, localizada en el oeste de Damasco. Es uno de los barrios más acomodados de la capital, donde se ubican varias embajadas y casas de familias. En este territorio residen miembros de la Guardia Revolucionaria iraní, así como dirigentes de frentes palestinos asentados en Siria.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/iran-condena-ataque-con-misiles-de-israel-contra-un-edificio-en-siria/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1472,
+    "message_id": 78039,
+    "date": "2024-10-08T23:55:12+00:00",
+    "text": "teleSUR\nIrán condena ataque con misiles de Israel contra un edificio en Siria\nhttps://www.telesurtv.net/iran-condena-ataque-con-misiles-de-israel-contra-un-edificio-en-siria/",
+    "photo_path": null,
+    "views": 2902,
+    "reactions": {
+      "👎": 35,
+      "🤬": 23,
+      "👍": 8
+    },
+    "total_reactions": 66
+  },
+  "preprocessing": {
+    "cleaned": "la embajada de irán en damasco, capital de siria, condenó este martes un ataque con misiles por parte de israel contra un edificio residencial en esa ciudad. “una vez más, el enemigo israelí cometió otro crimen durante un cobarde ataque con misiles contra un edificio civil en el corazón de damasco, matando a mujeres y niños inocentes”, precisó el representación diplomática en un comunicado. la embajada iraní condenó el atentado terrorista y anunció que no hay ciudadanos iraníes entre los mártires y heridos. la embajada “pide a dios que conceda a las familias de los mártires paciencia y consuelo y una pronta recuperación a los heridos”. medios locales anunciaron que “una agresión israelí tuvo como objetivo un edificio residencial en el barrio de mezzeh, en damasco, y hay información preliminar sobre la presencia de heridos”. la defensa civil siria indicó que iniciaron los operativos para rescatar a personas que se encuentran bajo los escombros y, para hacer frente a la agresión, se han activado las fuerzas de defensas aéreas con el objetivo de desarticular objetivos en el cielo de esa ciudad. previamente, al menos tres civiles murieron y otros resultaron heridos en una acción dirigida también contra un edificio de mezzeh, por parte de israel. mezzeh es una localidad, localizada en el oeste de damasco. es uno de los barrios más acomodados de la capital, donde se ubican varias embajadas y casas de familias. en este territorio residen miembros de la guardia revolucionaria iraní, así como dirigentes de frentes palestinos asentados en siria.",
+    "tokens": [
+      "embajada",
+      "irán",
+      "damasco",
+      ",",
+      "capital",
+      "siria",
+      ",",
+      "condenó",
+      "martes",
+      "ataque",
+      "misiles",
+      "parte",
+      "israel",
+      "edificio",
+      "residencial",
+      "ciudad",
+      ".",
+      "“",
+      "vez",
+      ",",
+      "enemigo",
+      "israelí",
+      "cometió",
+      "crimen",
+      "cobarde",
+      "ataque",
+      "misiles",
+      "edificio",
+      "civil",
+      "corazón",
+      "damasco",
+      ",",
+      "matando",
+      "mujeres",
+      "niños",
+      "inocentes",
+      "”",
+      ",",
+      "precisó",
+      "representación",
+      "diplomática",
+      "comunicado",
+      ".",
+      "embajada",
+      "iraní",
+      "condenó",
+      "atentado",
+      "terrorista",
+      "anunció",
+      "ciudadanos",
+      "iraníes",
+      "mártires",
+      "heridos",
+      ".",
+      "embajada",
+      "“",
+      "pide",
+      "dios",
+      "conceda",
+      "familias",
+      "mártires",
+      "paciencia",
+      "consuelo",
+      "pronta",
+      "recuperación",
+      "heridos",
+      "”",
+      ".",
+      "medios",
+      "locales",
+      "anunciaron",
+      "“",
+      "agresión",
+      "israelí",
+      "objetivo",
+      "edificio",
+      "residencial",
+      "barrio",
+      "mezzeh",
+      ",",
+      "damasco",
+      ",",
+      "información",
+      "preliminar",
+      "presencia",
+      "heridos",
+      "”",
+      ".",
+      "defensa",
+      "civil",
+      "siria",
+      "indicó",
+      "iniciaron",
+      "operativos",
+      "rescatar",
+      "personas",
+      "encuentran",
+      "bajo",
+      "escombros",
+      ",",
+      "hacer",
+      "frente",
+      "agresión",
+      ",",
+      "activado",
+      "fuerzas",
+      "defensas",
+      "aéreas",
+      "objetivo",
+      "desarticular",
+      "objetivos",
+      "cielo",
+      "ciudad",
+      ".",
+      "previamente",
+      ",",
+      "menos",
+      "tres",
+      "civiles",
+      "murieron",
+      "resultaron",
+      "heridos",
+      "acción",
+      "dirigida",
+      "edificio",
+      "mezzeh",
+      ",",
+      "parte",
+      "israel",
+      ".",
+      "mezzeh",
+      "localidad",
+      ",",
+      "localizada",
+      "oeste",
+      "damasco",
+      ".",
+      "barrios",
+      "acomodados",
+      "capital",
+      ",",
+      "ubican",
+      "varias",
+      "embajadas",
+      "casas",
+      "familias",
+      ".",
+      "territorio",
+      "residen",
+      "miembros",
+      "guardia",
+      "revolucionaria",
+      "iraní",
+      ",",
+      "así",
+      "dirigentes",
+      "frentes",
+      "palestinos",
+      "asentados",
+      "siria",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "IN": 16,
+      "FW": 39,
+      "NN": 86,
+      "VBZ": 7,
+      "JJ": 36,
+      "NNS": 11,
+      "VBP": 11,
+      "DT": 1,
+      "RB": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-IN": 3,
+      "IN-NNP": 6,
+      "NNP-FW": 3,
+      "FW-NNP": 8,
+      "NNP-NN": 9,
+      "NN-FW": 4,
+      "NN-NN": 46,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 5,
+      "JJ-JJ": 5,
+      "JJ-NN": 22,
+      "NN-NNS": 4,
+      "NNS-VBP": 10,
+      "VBP-NN": 1,
+      "NN-IN": 12,
+      "NNP-JJ": 1,
+      "JJ-VBP": 1,
+      "VBP-JJ": 7,
+      "JJ-FW": 6,
+      "FW-FW": 20,
+      "FW-NN": 7,
+      "NN-NNP": 3,
+      "IN-NNS": 2,
+      "FW-JJ": 2,
+      "VBP-NNS": 1,
+      "IN-JJ": 3,
+      "NNP-VBZ": 4,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "VBP-NNP": 1,
+      "NN-JJ": 11,
+      "IN-FW": 5,
+      "FW-NNS": 2,
+      "JJ-NNP": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 5,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NN-NN-NN": 25,
+      "NN-NN-IN": 5,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 12,
+      "NN-NN-NNS": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 3,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 8,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-VBZ": 1,
+      "NNP-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-NN-JJ": 3,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-NN-NN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-JJ-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-IN-FW": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "IN-FW-NNP": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 86,
+        "FW": 39,
+        "JJ": 36,
+        "NNP": 29,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "JJ-NN": 22,
+        "FW-FW": 20,
+        "NN-IN": 12,
+        "NN-JJ": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "FW-FW-FW": 13,
+        "JJ-NN-NN": 12,
+        "NN-NN-JJ": 8,
+        "NN-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 76,
+      "PP": 10,
+      "VP": 21,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0574
+      },
+      {
+        "rule": "NP -> ('Damasco', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0328
+      },
+      {
+        "rule": "NP -> ('Mezzeh', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0246
+      },
+      {
+        "rule": "NP -> ('capital', 'NN')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Siria', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('ciudad', 'NN')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP PP ('en', 'FW') NP (',', ',') NP ('de', 'FW') NP (',', ',') NP VP VP PP ADJP VP ('en', 'FW') ('esa', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Embajada"
+      },
+      {
+        "label": "PP",
+        "text": "de Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Damasco"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "Siria"
+      },
+      {
+        "label": "NP",
+        "text": "condenó este"
+      },
+      {
+        "label": "VP",
+        "text": "martes un ataque con misiles"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque con misiles"
+      },
+      {
+        "label": "VP",
+        "text": "por parte"
+      },
+      {
+        "label": "NP",
+        "text": "parte"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "VP",
+        "text": "edificio residencial"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Embajada/NNP)\n  (PP de/IN (NP Irán/NNP))\n  en/FW\n  (NP Damasco/NNP)\n  ,/,\n  (NP capital/NN)\n  de/FW\n  (NP Siria/NNP)\n  ,/,\n  (NP condenó/NN este/NN)\n  (VP martes/VBZ (NP un/JJ ataque/JJ con/NN misiles/NNS))\n  (VP por/VBP (NP parte/NN))\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  (ADJP un/JJ)\n  (VP edificio/VBP residencial/JJ)\n  en/FW\n  esa/FW\n  (NP ciudad/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Una/NNP vez/NN más/NN)\n  ,/,\n  el/FW\n  enemigo/FW\n  (NP israelí/NN cometió/NN)\n  (PP otro/IN (NP crimen/NNS))\n  (VP durante/VBP (NP un/JJ cobarde/NN ataque/NN con/NN misiles/NNS))\n  (VP contra/VBP un/JJ)\n  edificio/FW\n  (ADJP civil/JJ)\n  en/FW\n  el/FW\n  corazón/FW\n  de/FW\n  (NP Damasco/NNP)\n  ,/,\n  (VP matando/VBZ (NP a/DT mujeres/NNS))\n  y/CC\n  (NP niños/JJ inocentes/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP precisó/JJ el/NN representación/NN diplomática/NN)\n  (PP en/IN (NP un/JJ comunicado/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  embajada/CC\n  (NP\n    iraní/JJ\n    condenó/NN\n    el/NN\n    atentado/NN\n    terrorista/NN\n    y/NN\n    anunció/NN\n    que/NN)\n  (NP no/DT hay/NN)\n  (VP ciudadanos/VBZ iraníes/JJ)\n  entre/FW\n  (NP los/NN mártires/NNS)\n  (VP y/VBP (NP heridos/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  embajada/CC\n  (NP “/NNP)\n  (VP pide/VBP (NP a/DT Dios/NNP que/NN))\n  (VP conceda/VBD (NP a/DT las/JJ familias/NN))\n  de/IN\n  los/FW\n  (NP mártires/NNS)\n  (VP\n    paciencia/VBP\n    (NP y/JJ consuelo/NN y/NN)\n    (NP una/JJ pronta/NN recuperación/NN)\n    (NP a/DT los/JJ heridos/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    locales/VBZ\n    anunciaron/RB\n    (NP que/JJ “/NNP una/NN agresión/NN israelí/NN tuvo/NN como/NN)\n    (NP objetivo/JJ un/JJ edificio/NN)\n    (NP residencial/JJ en/NN el/NN barrio/NN))\n  (PP de/IN (NP Mezzeh/NNP))\n  ,/,\n  en/FW\n  (NP Damasco/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP hay/VBZ (NP información/JJ preliminar/NN sobre/NN))\n  la/FW\n  presencia/FW\n  de/FW\n  heridos/FW\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresión, se han activado las fuerzas",
+        "position": [
+          983,
+          1020
+        ],
+        "start": 983,
+        "end": 1020
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          32,
+          39
+        ],
+        "start": 32,
+        "end": 39
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          445,
+          452
+        ],
+        "start": 445,
+        "end": 452
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          338,
+          345
+        ],
+        "start": 338,
+        "end": 345
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          839,
+          846
+        ],
+        "start": 839,
+        "end": 846
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          310,
+          317
+        ],
+        "start": 310,
+        "end": 317
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          50,
+          57
+        ],
+        "start": 50,
+        "end": 57
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          183,
+          190
+        ],
+        "start": 183,
+        "end": 190
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          745,
+          754
+        ],
+        "start": 745,
+        "end": 754
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio residencial",
+        "position": [
+          122,
+          142
+        ],
+        "start": 122,
+        "end": 142
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Damasco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mezzeh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Defensa Civil siria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dios",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Embajada de Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guardia Revolucionaria iraní",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Embajada de Irán",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

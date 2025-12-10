@@ -1,0 +1,714 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-se-solidariza-con-cuba-ante-situacion-de-emergencia-energetica/",
+  "title": "Venezuela se solidariza con Cuba ante situación de emergencia energética - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cuba",
+    "solidaridad",
+    "Venezuela"
+  ],
+  "text": "La República Bolivariana de Venezuela expresó su solidaridad este viernes con Cuba, mediante un comunicado donde asegura además su apoyo incondicional, mientras la isla hace frente a la contingencia energética coyuntural.\nEl texto precisa que la contingencia energética que vive Cuba se debe a “la cruel intensificación de la guerra económica y persecución financiera y energética por parte del Gobierno de los Estados Unidos de América, a través de la aplicación del ilegal bloqueo en contra del pueblo cubano”.\n“Venezuela soporta todos los esfuerzos, que de manera heroica realiza el pueblo de Cuba, así como su presidente Miguel Díaz-Canel Bermúdez, por mitigar los impactos de las criminales medidas coercitivas unilaterales, que buscan la aplicación de un castigo colectivo”, agrega el texto.\nEn tanto, el comunicado oficial denuncia que esta guerra de EE.UU. contra Cuba “representa un crimen de lesa humanidad en contra de la valerosa nación revolucionaria”.\n“Cuba cuenta con todo el apoyo de la Revolución Bolivariana para enfrentar esta situación y superarla, como se tiene la certeza que se superará”, subraya.\nPor último, el Gobierno Bolivariano instó a “la comunidad internacional, especialmente a la Latinoamericana y Caribeña, a movilizarse en apoyo a Cuba y condenar de manera absoluta el bloqueo que le afecta”.\n“Solicitando a su vez, el retiro inmediato de la infausta lista unilateral de países que supuestamente apoyan el terrorismo, hechos que sin duda alguna son la causa principal de las afectaciones que hoy padecen”, recalca Caracas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-se-solidariza-con-cuba-ante-situacion-de-emergencia-energetica/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 861,
+    "message_id": 78690,
+    "date": "2024-10-19T01:55:24+00:00",
+    "text": "teleSUR\nVenezuela se solidariza con Cuba ante situación de emergencia energética\nhttps://www.telesurtv.net/venezuela-se-solidariza-con-cuba-ante-situacion-de-emergencia-energetica/",
+    "photo_path": null,
+    "views": 2276,
+    "reactions": {
+      "👏": 53,
+      "👍": 18,
+      "🔥": 2
+    },
+    "total_reactions": 73
+  },
+  "preprocessing": {
+    "cleaned": "la república bolivariana de venezuela expresó su solidaridad este viernes con cuba, mediante un comunicado donde asegura además su apoyo incondicional, mientras la isla hace frente a la contingencia energética coyuntural. el texto precisa que la contingencia energética que vive cuba se debe a “la cruel intensificación de la guerra económica y persecución financiera y energética por parte del gobierno de los estados unidos de américa, a través de la aplicación del ilegal bloqueo en contra del pueblo cubano”. “venezuela soporta todos los esfuerzos, que de manera heroica realiza el pueblo de cuba, así como su presidente miguel díaz-canel bermúdez, por mitigar los impactos de las criminales medidas coercitivas unilaterales, que buscan la aplicación de un castigo colectivo”, agrega el texto. en tanto, el comunicado oficial denuncia que esta guerra de ee.uu. contra cuba “representa un crimen de lesa humanidad en contra de la valerosa nación revolucionaria”. “cuba cuenta con todo el apoyo de la revolución bolivariana para enfrentar esta situación y superarla, como se tiene la certeza que se superará”, subraya. por último, el gobierno bolivariano instó a “la comunidad internacional, especialmente a la latinoamericana y caribeña, a movilizarse en apoyo a cuba y condenar de manera absoluta el bloqueo que le afecta”. “solicitando a su vez, el retiro inmediato de la infausta lista unilateral de países que supuestamente apoyan el terrorismo, hechos que sin duda alguna son la causa principal de las afectaciones que hoy padecen”, recalca caracas.",
+    "tokens": [
+      "república",
+      "bolivariana",
+      "venezuela",
+      "expresó",
+      "solidaridad",
+      "viernes",
+      "cuba",
+      ",",
+      "mediante",
+      "comunicado",
+      "asegura",
+      "además",
+      "apoyo",
+      "incondicional",
+      ",",
+      "mientras",
+      "isla",
+      "hace",
+      "frente",
+      "contingencia",
+      "energética",
+      "coyuntural",
+      ".",
+      "texto",
+      "precisa",
+      "contingencia",
+      "energética",
+      "vive",
+      "cuba",
+      "debe",
+      "“",
+      "cruel",
+      "intensificación",
+      "guerra",
+      "económica",
+      "persecución",
+      "financiera",
+      "energética",
+      "parte",
+      "gobierno",
+      "unidos",
+      "américa",
+      ",",
+      "través",
+      "aplicación",
+      "ilegal",
+      "bloqueo",
+      "pueblo",
+      "cubano",
+      "”",
+      ".",
+      "“",
+      "venezuela",
+      "soporta",
+      "esfuerzos",
+      ",",
+      "manera",
+      "heroica",
+      "realiza",
+      "pueblo",
+      "cuba",
+      ",",
+      "así",
+      "presidente",
+      "miguel",
+      "díaz-canel",
+      "bermúdez",
+      ",",
+      "mitigar",
+      "impactos",
+      "criminales",
+      "medidas",
+      "coercitivas",
+      "unilaterales",
+      ",",
+      "buscan",
+      "aplicación",
+      "castigo",
+      "colectivo",
+      "”",
+      ",",
+      "agrega",
+      "texto",
+      ".",
+      ",",
+      "comunicado",
+      "oficial",
+      "denuncia",
+      "guerra",
+      "ee.uu.",
+      "cuba",
+      "“",
+      "representa",
+      "crimen",
+      "lesa",
+      "humanidad",
+      "valerosa",
+      "nación",
+      "revolucionaria",
+      "”",
+      ".",
+      "“",
+      "cuba",
+      "cuenta",
+      "apoyo",
+      "revolución",
+      "bolivariana",
+      "enfrentar",
+      "situación",
+      "superarla",
+      ",",
+      "certeza",
+      "superará",
+      "”",
+      ",",
+      "subraya",
+      ".",
+      "último",
+      ",",
+      "gobierno",
+      "bolivariano",
+      "instó",
+      "“",
+      "comunidad",
+      "internacional",
+      ",",
+      "especialmente",
+      "latinoamericana",
+      "caribeña",
+      ",",
+      "movilizarse",
+      "apoyo",
+      "cuba",
+      "condenar",
+      "manera",
+      "absoluta",
+      "bloqueo",
+      "afecta",
+      "”",
+      ".",
+      "“",
+      "solicitando",
+      "vez",
+      ",",
+      "retiro",
+      "inmediato",
+      "infausta",
+      "lista",
+      "unilateral",
+      "países",
+      "supuestamente",
+      "apoyan",
+      "terrorismo",
+      ",",
+      "hechos",
+      "duda",
+      "alguna",
+      "causa",
+      "principal",
+      "afectaciones",
+      "hoy",
+      "padecen",
+      "”",
+      ",",
+      "recalca",
+      "caracas",
+      "."
+    ],
+    "token_count": 167,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "FW": 46,
+      "CC": 1,
+      "JJ": 23,
+      "NN": 100,
+      "NNS": 6,
+      "VBP": 8,
+      "IN": 11,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-FW": 3,
+      "FW-NNP": 6,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 14,
+      "NN-NN": 63,
+      "NN-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-NNP": 1,
+      "NNP-NN": 13,
+      "NN-IN": 9,
+      "IN-JJ": 2,
+      "JJ-NNS": 3,
+      "VBP-JJ": 6,
+      "NN-FW": 10,
+      "FW-NN": 8,
+      "FW-JJ": 3,
+      "JJ-NNP": 3,
+      "NN-JJ": 8,
+      "IN-FW": 5,
+      "FW-FW": 27,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NN-NNP": 7,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "FW-NNS": 2,
+      "NN-VBP": 2,
+      "NNP-JJ": 1,
+      "NNS-IN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "JJ-JJ": 2,
+      "JJ-FW": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 38,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 5,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NNP": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 18,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NN": 4,
+      "IN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 100,
+        "FW": 46,
+        "NNP": 31,
+        "JJ": 23,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 63,
+        "FW-FW": 27,
+        "JJ-NN": 14,
+        "NNP-NN": 13,
+        "NN-FW": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 38,
+        "FW-FW-FW": 18,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 7,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 60,
+      "ADJP": 6,
+      "VP": 10,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('a', 'DT') ('“', 'JJ') ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.023
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.023
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('expresó', 'CC') NP (',', ',') NP NP ADJP ADJP (',', ',') ADJP ('la', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('República', 'NNP') ('Bolivariana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('su', 'JJ') ('solidaridad', 'NN') ('este', 'NN') ('viernes', 'NNS') ('con', 'NN') ('Cuba', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('mediante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN') ('donde', 'NN') ('asegura', 'NN') ('además', 'NN') ('su', 'NN')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "ADJP -> ('apoyo', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0115
+      },
+      {
+        "rule": "ADJP -> ('incondicional', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0115
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "su solidaridad este viernes con Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "mediante"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado donde asegura además su"
+      },
+      {
+        "label": "ADJP",
+        "text": "apoyo"
+      },
+      {
+        "label": "ADJP",
+        "text": "incondicional"
+      },
+      {
+        "label": "ADJP",
+        "text": "mientras"
+      },
+      {
+        "label": "NP",
+        "text": "isla hace"
+      },
+      {
+        "label": "VP",
+        "text": "frente a la contingencia energética coyuntural"
+      },
+      {
+        "label": "NP",
+        "text": "a la contingencia"
+      },
+      {
+        "label": "NP",
+        "text": "energética coyuntural"
+      },
+      {
+        "label": "NP",
+        "text": "El texto precisa que la contingencia energética que"
+      },
+      {
+        "label": "NP",
+        "text": "vive Cuba se"
+      },
+      {
+        "label": "VP",
+        "text": "debe a “ la cruel intensificación"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  expresó/CC\n  (NP su/JJ solidaridad/NN este/NN viernes/NNS con/NN Cuba/NNP)\n  ,/,\n  (NP mediante/NN)\n  (NP un/JJ comunicado/NN donde/NN asegura/NN además/NN su/NN)\n  (ADJP apoyo/JJ)\n  (ADJP incondicional/JJ)\n  ,/,\n  (ADJP mientras/JJ)\n  la/FW\n  (NP isla/JJ hace/NN)\n  (VP\n    frente/VBD\n    (NP a/DT la/NN contingencia/NN)\n    (NP energética/JJ coyuntural/NN))\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    texto/NN\n    precisa/NN\n    que/NN\n    la/NN\n    contingencia/NN\n    energética/NN\n    que/NN)\n  (NP vive/JJ Cuba/NNP se/NN)\n  (VP debe/VBZ (NP a/DT “/JJ la/NN) (NP cruel/JJ intensificación/NN))\n  de/IN\n  la/FW\n  guerra/FW\n  económica/FW\n  y/FW\n  persecución/FW\n  (NP financiera/NN y/NN energética/NN por/NN parte/NN)\n  del/FW\n  (NP Gobierno/NNP)\n  de/FW\n  los/FW\n  (NP Estados/NNP Unidos/NNP de/NNP América/NNP)\n  ,/,\n  (NP a/DT través/NN)\n  de/IN\n  la/FW\n  aplicación/FW\n  del/FW\n  (NP ilegal/JJ bloqueo/NN)\n  (PP en/IN (NP contra/JJ del/NN pueblo/NN cubano/NN ”/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Venezuela/NNP soporta/NN todos/NN los/NN esfuerzos/NN)\n  ,/,\n  (NP que/NN)\n  de/FW\n  manera/FW\n  (NP heroica/NN realiza/NN)\n  el/FW\n  (NP pueblo/NN)\n  (PP de/IN (NP Cuba/NNP))\n  ,/,\n  (NP\n    así/NN\n    como/NN\n    su/NN\n    presidente/NN\n    Miguel/NNP\n    Díaz-Canel/NNP\n    Bermúdez/NNP)\n  ,/,\n  (NP por/NN mitigar/NN)\n  (NP los/JJ impactos/NN)\n  de/IN\n  las/FW\n  (NP criminales/NNS)\n  (VP medidas/VBP (NP coercitivas/NN unilaterales/NNS))\n  ,/,\n  (NP que/JJ buscan/JJ la/NN)\n  aplicación/FW\n  de/FW\n  un/FW\n  (NP castigo/NN colectivo/NN ”/NNP)\n  ,/,\n  (NP agrega/JJ el/NN texto/NN)\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  el/FW\n  (VP\n    comunicado/VBP\n    (NP oficial/JJ denuncia/NN que/NN)\n    (NP esta/JJ guerra/NN))\n  (PP de/IN (NP EE.UU./NNP))\n  (NP contra/JJ Cuba/NNP “/NNP representa/NN)\n  (NP un/JJ crimen/NNS)\n  de/IN\n  lesa/FW\n  (NP humanidad/NN)\n  en/FW\n  contra/FW\n  de/FW\n  la/FW\n  valerosa/FW\n  nación/FW\n  (NP revolucionaria/NN ”/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Cuba/NNP cuenta/NN con/NN todo/NN)\n  el/FW\n  apoyo/FW\n  de/FW\n  la/FW\n  (NP\n    Revolución/NNP\n    Bolivariana/NNP\n    para/NN\n    enfrentar/NN\n    esta/NN\n    situación/NN\n    y/NN\n    superarla/NN)\n  ,/,\n  (NP como/NN)\n  (NP se/JJ tiene/NN la/NN certeza/NN que/NN se/NN superará/NN ”/NNP)\n  ,/,\n  (NP subraya/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra económica y persecución financiera y energética por parte del gobierno de los estados unidos de américa, a través de la aplicación del ilegal bloqueo en contra",
+        "position": [
+          326,
+          492
+        ],
+        "start": 326,
+        "end": 492
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          38,
+          45
+        ],
+        "start": 38,
+        "end": 45
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de los estados",
+        "position": [
+          395,
+          418
+        ],
+        "start": 395,
+        "end": 418
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente miguel díaz",
+        "position": [
+          614,
+          636
+        ],
+        "start": 614,
+        "end": 636
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          78,
+          82
+        ],
+        "start": 78,
+        "end": 82
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          411,
+          425
+        ],
+        "start": 411,
+        "end": 425
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          28,
+          37
+        ],
+        "start": 28,
+        "end": 37
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          1549,
+          1556
+        ],
+        "start": 1549,
+        "end": 1556
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          1527,
+          1530
+        ],
+        "start": 1527,
+        "end": 1530
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          475,
+          482
+        ],
+        "start": 475,
+        "end": 482
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Miguel Díaz-Canel Bermúdez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Revolución Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno Bolivariano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de los Estados Unidos de América",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caribeña",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Latinoamericana",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "EXPRESAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "VIVIR_DEBER_PRECISAR",
+        "objeto": "Gobierno de los Estados Unidos de América"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "SOPORTAR_AGREGAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "SOPORTAR_AGREGAR",
+        "objeto": "Miguel Díaz-Canel Bermúdez"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "REALIZAR_SOPORTAR_AGREGAR",
+        "objeto": "Miguel Díaz-Canel Bermúdez"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "CONTAR_SUBRAYAR",
+        "objeto": "Revolución Bolivariana"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "INSTAR",
+        "objeto": "Latinoamericana"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "INSTAR",
+        "objeto": "Caribeña"
+      },
+      {
+        "sujeto": "Gobierno Bolivariano",
+        "relacion": "INSTAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Latinoamericana",
+        "relacion": "ESPECIALMENTE_INSTAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Caribeña",
+        "relacion": "ESPECIALMENTE_INSTAR",
+        "objeto": "Cuba"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8126,
+    "pos": 0.0,
+    "neu": 0.968,
+    "neg": 0.032,
+    "label": "negative"
+  }
+}

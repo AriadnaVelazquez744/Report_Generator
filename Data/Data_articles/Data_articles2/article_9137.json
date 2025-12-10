@@ -1,0 +1,723 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-condena-ataque-terrorista-contra-residencia-de-prensa-que-dejo-tres-muertos-en-libano/",
+  "title": "Venezuela condena ataque terrorista contra residencia de prensa que dejó tres muertos en Líbano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ataque terrorista",
+    "Israel",
+    "Líbano",
+    "Periodistas",
+    "Venezuela"
+  ],
+  "text": "El Gobierno de la República Bolivariana de Venezuela condenó este viernes, a través de un comunicado, el ataque de Israel contra la residencia de periodistas en Hasbayya, localizada al sur del Líbano.\nCondenamos “en los términos más contundentes, el ataque terrorista perpetrado por el régimen sionista de Netanyahu, en contra de la residencia de periodistas en Hasbayya, en el sur de Líbano”, remarca el texto.\nEn dicho ataque terrorista perdieron la vida tres comunicadores: Ghassan Najjar, camarógrafo, y el ingeniero de radiodifusión Mohammed Reda, ambos empleados del medio Al Mayadeen y el camarógrafo Wissam Qasim, del canal Al Manar. Mientras, otros tres resultaron heridos.\nSegún las autoridades que encontraron los cuerpos, el ataque se produjo con un misil aire-tierra propiedad de Israel, lanzado en la madrugada (hora local), mientras los reporteros dormían. Los autos señalizados con la palabra PRESS (prensa en inglés), ubicados alrededor del edificio, también fueron destruidos.\nAl menos 18 periodistas de siete medios diferentes se alojaban en el recinto, según el ministro libanés de Información, Ziad Makari, quien describió el ataque como un «crimen de guerra».\nLos periodistas se reunieron en la ciudad, que se consideró relativamente segura, debido a que el grueso de los ataques israelíes se estaba enfocando contra otros lugares del sur del Líbano.\nPor su parte, los Comités de Resistencia Palestina declararon a las víctimas como mártires de esta epopeya Diluvio de Al Aqsa, expresando al tiempo sus condolencias a familiares y cercanos.\n“Estos crímenes nunca lograrán quebrar la voluntad de los periodistas libaneses y palestinos de seguir informando sobre el sufrimiento de su pueblo y disipar la narrativa criminal sionista”, agregaron estos entes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-condena-ataque-terrorista-contra-residencia-de-prensa-que-dejo-tres-muertos-en-libano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 398,
+    "message_id": 79190,
+    "date": "2024-10-25T23:55:18+00:00",
+    "text": "teleSUR\nVenezuela condena ataque terrorista contra residencia de prensa que dejó tres muertos en Líbano\nhttps://www.telesurtv.net/venezuela-condena-ataque-terrorista-contra-residencia-de-prensa-que-dejo-tres-muertos-en-libano/",
+    "photo_path": null,
+    "views": 3163,
+    "reactions": {
+      "👍": 59,
+      "🤬": 9,
+      "🕊": 4,
+      "👎": 3,
+      "💔": 2,
+      "🤡": 1
+    },
+    "total_reactions": 78
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de la república bolivariana de venezuela condenó este viernes, a través de un comunicado, el ataque de israel contra la residencia de periodistas en hasbayya, localizada al sur del líbano. condenamos “en los términos más contundentes, el ataque terrorista perpetrado por el régimen sionista de netanyahu, en contra de la residencia de periodistas en hasbayya, en el sur de líbano”, remarca el texto. en dicho ataque terrorista perdieron la vida tres comunicadores: ghassan najjar, camarógrafo, y el ingeniero de radiodifusión mohammed reda, ambos empleados del medio al mayadeen y el camarógrafo wissam qasim, del canal al manar. mientras, otros tres resultaron heridos. según las autoridades que encontraron los cuerpos, el ataque se produjo con un misil aire-tierra propiedad de israel, lanzado en la madrugada (hora local), mientras los reporteros dormían. los autos señalizados con la palabra press (prensa en inglés), ubicados alrededor del edificio, también fueron destruidos. al menos 18 periodistas de siete medios diferentes se alojaban en el recinto, según el ministro libanés de información, ziad makari, quien describió el ataque como un «crimen de guerra». los periodistas se reunieron en la ciudad, que se consideró relativamente segura, debido a que el grueso de los ataques israelíes se estaba enfocando contra otros lugares del sur del líbano. por su parte, los comités de resistencia palestina declararon a las víctimas como mártires de esta epopeya diluvio de al aqsa, expresando al tiempo sus condolencias a familiares y cercanos. “estos crímenes nunca lograrán quebrar la voluntad de los periodistas libaneses y palestinos de seguir informando sobre el sufrimiento de su pueblo y disipar la narrativa criminal sionista”, agregaron estos entes.",
+    "tokens": [
+      "gobierno",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "condenó",
+      "viernes",
+      ",",
+      "través",
+      "comunicado",
+      ",",
+      "ataque",
+      "israel",
+      "residencia",
+      "periodistas",
+      "hasbayya",
+      ",",
+      "localizada",
+      "sur",
+      "líbano",
+      ".",
+      "condenamos",
+      "“",
+      "términos",
+      "contundentes",
+      ",",
+      "ataque",
+      "terrorista",
+      "perpetrado",
+      "régimen",
+      "sionista",
+      "netanyahu",
+      ",",
+      "residencia",
+      "periodistas",
+      "hasbayya",
+      ",",
+      "sur",
+      "líbano",
+      "”",
+      ",",
+      "remarca",
+      "texto",
+      ".",
+      "dicho",
+      "ataque",
+      "terrorista",
+      "perdieron",
+      "vida",
+      "tres",
+      "comunicadores",
+      ":",
+      "ghassan",
+      "najjar",
+      ",",
+      "camarógrafo",
+      ",",
+      "ingeniero",
+      "radiodifusión",
+      "mohammed",
+      "reda",
+      ",",
+      "ambos",
+      "empleados",
+      "medio",
+      "mayadeen",
+      "camarógrafo",
+      "wissam",
+      "qasim",
+      ",",
+      "canal",
+      "manar",
+      ".",
+      "mientras",
+      ",",
+      "tres",
+      "resultaron",
+      "heridos",
+      ".",
+      "según",
+      "autoridades",
+      "encontraron",
+      "cuerpos",
+      ",",
+      "ataque",
+      "produjo",
+      "misil",
+      "aire-tierra",
+      "propiedad",
+      "israel",
+      ",",
+      "lanzado",
+      "madrugada",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ",",
+      "mientras",
+      "reporteros",
+      "dormían",
+      ".",
+      "autos",
+      "señalizados",
+      "palabra",
+      "press",
+      "(",
+      "prensa",
+      "inglés",
+      ")",
+      ",",
+      "ubicados",
+      "alrededor",
+      "edificio",
+      ",",
+      "destruidos",
+      ".",
+      "menos",
+      "18",
+      "periodistas",
+      "siete",
+      "medios",
+      "diferentes",
+      "alojaban",
+      "recinto",
+      ",",
+      "según",
+      "ministro",
+      "libanés",
+      "información",
+      ",",
+      "ziad",
+      "makari",
+      ",",
+      "describió",
+      "ataque",
+      "«",
+      "crimen",
+      "guerra",
+      "»",
+      ".",
+      "periodistas",
+      "reunieron",
+      "ciudad",
+      ",",
+      "consideró",
+      "relativamente",
+      "segura",
+      ",",
+      "debido",
+      "grueso",
+      "ataques",
+      "israelíes",
+      "enfocando",
+      "lugares",
+      "sur",
+      "líbano",
+      ".",
+      "parte",
+      ",",
+      "comités",
+      "resistencia",
+      "palestina",
+      "declararon",
+      "víctimas",
+      "mártires",
+      "epopeya",
+      "diluvio",
+      "aqsa",
+      ",",
+      "expresando",
+      "tiempo",
+      "condolencias",
+      "familiares",
+      "cercanos",
+      ".",
+      "“",
+      "crímenes",
+      "nunca",
+      "lograrán",
+      "quebrar",
+      "voluntad",
+      "periodistas",
+      "libaneses",
+      "palestinos",
+      "seguir",
+      "informando",
+      "sufrimiento",
+      "pueblo",
+      "disipar",
+      "narrativa",
+      "criminal",
+      "sionista",
+      "”",
+      ",",
+      "agregaron",
+      "entes",
+      "."
+    ],
+    "token_count": 197,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "IN": 10,
+      "FW": 67,
+      "NN": 75,
+      "NNS": 13,
+      "JJ": 31,
+      "VBP": 6,
+      "VBZ": 9,
+      "MD": 1,
+      "VB": 2,
+      "RB": 2,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-IN": 1,
+      "IN-FW": 7,
+      "FW-NNP": 10,
+      "NNP-FW": 12,
+      "NNP-NN": 9,
+      "NN-NN": 44,
+      "NN-NNS": 4,
+      "NNS-FW": 2,
+      "FW-FW": 37,
+      "FW-NN": 9,
+      "NN-FW": 5,
+      "NN-IN": 6,
+      "IN-NNP": 2,
+      "NN-NNP": 8,
+      "FW-JJ": 9,
+      "JJ-NN": 11,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "NN-JJ": 6,
+      "JJ-NNS": 6,
+      "NN-VBZ": 2,
+      "VBZ-VBZ": 1,
+      "VBZ-NNP": 1,
+      "IN-NN": 1,
+      "NNP-VBZ": 4,
+      "VBZ-JJ": 5,
+      "JJ-NNP": 6,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-VB": 1,
+      "VB-JJ": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "JJ-JJ": 5,
+      "VBZ-CD": 1,
+      "CD-NN": 1,
+      "FW-NNS": 2,
+      "NNS-VBZ": 2,
+      "JJ-FW": 3,
+      "NNS-IN": 2,
+      "VBZ-FW": 1,
+      "NNP-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 6,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 7,
+      "NN-NN-NNS": 2,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 24,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-FW-FW": 5,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 26,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 5,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-VB": 1,
+      "VB-VB-JJ": 1,
+      "VB-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "FW-JJ-NNS": 3,
+      "JJ-NNS-VBP": 2,
+      "JJ-NN-NNP": 1,
+      "NN-JJ-NNP": 2,
+      "NNP-NN-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "NN-NN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "JJ-NNP-FW": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "IN-FW-JJ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 75,
+        "FW": 67,
+        "NNP": 45,
+        "JJ": 31,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 44,
+        "FW-FW": 37,
+        "NNP-NNP": 17,
+        "NNP-FW": 12,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 24,
+        "JJ-NN-NN": 8,
+        "NNP-NN-NN": 7,
+        "NNP-NNP-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 74,
+      "PP": 5,
+      "VP": 20,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0442
+      },
+      {
+        "rule": "NP -> ('Hasbayya', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP PP (',', ',') NP PP ('la', 'FW') ('residencia', 'FW') ('de', 'FW') ('periodistas', 'FW') ('en', 'FW') NP (',', ',') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Bolivariana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP') ('condenó', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('través', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('contra', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela condenó este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "a través"
+      },
+      {
+        "label": "PP",
+        "text": "de un comunicado"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado"
+      },
+      {
+        "label": "NP",
+        "text": "el ataque"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Hasbayya"
+      },
+      {
+        "label": "VP",
+        "text": "localizada al sur del Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "al sur del Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "Condenamos “"
+      },
+      {
+        "label": "NP",
+        "text": "términos más contundentes"
+      },
+      {
+        "label": "VP",
+        "text": "el ataque terrorista perpetrado por el régimen"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  de/IN\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP condenó/NN este/NN viernes/NNS)\n  ,/,\n  (NP a/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  (NP el/JJ ataque/NN)\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  la/FW\n  residencia/FW\n  de/FW\n  periodistas/FW\n  en/FW\n  (NP Hasbayya/NNP)\n  ,/,\n  (VP localizada/VBZ (NP al/JJ sur/JJ del/NN Líbano/NNP))\n  ./.)",
+      "(S\n  (NP Condenamos/NNP “/NNP)\n  en/FW\n  los/FW\n  (NP términos/JJ más/NN contundentes/NNS)\n  ,/,\n  (VP\n    el/VBP\n    (NP ataque/JJ terrorista/NN perpetrado/NN por/NN)\n    (NP el/JJ régimen/NNS))\n  sionista/FW\n  de/FW\n  (NP Netanyahu/NNP)\n  ,/,\n  en/FW\n  contra/FW\n  de/FW\n  la/FW\n  residencia/FW\n  de/FW\n  periodistas/FW\n  en/FW\n  (NP Hasbayya/NNP)\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  (NP Líbano/NNP ”/NNP)\n  ,/,\n  (NP remarca/NN el/NN texto/NN)\n  ./.)",
+      "(S\n  (NP\n    En/NNP\n    dicho/NN\n    ataque/NN\n    terrorista/NN\n    perdieron/NN\n    la/NN\n    vida/NN)\n  (VP tres/VBZ (NP comunicadores/NNS))\n  :/:\n  (NP Ghassan/NNP Najjar/NNP)\n  ,/,\n  (NP camarógrafo/NN)\n  ,/,\n  y/CC\n  (NP el/JJ ingeniero/NN)\n  (PP de/IN (NP radiodifusión/NN Mohammed/NNP Reda/NNP))\n  ,/,\n  (ADJP ambos/JJ)\n  empleados/FW\n  del/FW\n  (NP medio/NN Al/NNP Mayadeen/NNP y/NNP)\n  (VP el/VBZ (NP camarógrafo/JJ Wissam/NNP Qasim/NNP))\n  ,/,\n  del/FW\n  (NP canal/JJ Al/NNP Manar/NNP)\n  ./.)",
+      "(S\n  (NP Mientras/NNP)\n  ,/,\n  (NP otros/JJ tres/NNS)\n  (VP resultaron/VBP (NP heridos/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP\n    las/VBZ\n    (NP autoridades/NNS)\n    que/JJ\n    encontraron/RB\n    (NP los/JJ cuerpos/NN))\n  ,/,\n  el/FW\n  ataque/FW\n  se/FW\n  produjo/FW\n  (NP con/NN)\n  (NP un/JJ misil/JJ aire-tierra/JJ propiedad/NN)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP lanzado/NN)\n  en/FW\n  la/FW\n  madrugada/FW\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ,/,\n  mientras/FW\n  los/FW\n  (NP reporteros/JJ dormían/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "MEDIOS_COMUNICACION",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          1294,
+          1311
+        ],
+        "start": 1294,
+        "end": 1311
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la república",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal al manar",
+        "position": [
+          626,
+          640
+        ],
+        "start": 626,
+        "end": 640
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          53,
+          60
+        ],
+        "start": 53,
+        "end": 60
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          43,
+          52
+        ],
+        "start": 43,
+        "end": 52
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio, también",
+        "position": [
+          958,
+          975
+        ],
+        "start": 958,
+        "end": 975
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la madrugada",
+        "position": [
+          809,
+          824
+        ],
+        "start": 809,
+        "end": 824
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ziad Makari",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ghassan Najjar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mohammed Reda",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al Mayadeen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "PRESS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Wissam Qasim",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hasbayya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "canal Al Manar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de la República Bolivariana de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comités de Resistencia Palestina",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de la República Bolivariana de Venezuela",
+        "relacion": "CONDENAR",
+        "objeto": "Hasbayya"
+      },
+      {
+        "sujeto": "Gobierno de la República Bolivariana de Venezuela",
+        "relacion": "CONDENAR",
+        "objeto": "Líbano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.987,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

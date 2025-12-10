@@ -1,0 +1,832 @@
+{
+  "url": "https://www.telesurtv.net/israel-cometio-una-nueva-masacre-en-la-franja-de-gaza-al-asesinar-a-35-palestinos/",
+  "title": "Israel cometió una nueva masacre en la Franja de Gaza al asesinar a 35 palestinos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ciudad Beit Lahia",
+    "Franja de Gaza",
+    "Masacre israelí"
+  ],
+  "text": "Como parte de su campaña genocida contra el pueblo palestino de la Franja de Gaza, Israel cometió el sábado una nueva masacre en la ciudad de Beit Lahia, al asesinar a 35 ciudadanos palestinos.\nMedios palestinos informaron que Israel realizó múltiples ataques aéreos contra un complejo residencial de la localidad del norte de la Franja de Gaza.\nEl Ministerio de Salud gazatí denunció una “horrible masacre” y añadió que muchos de los muertos y heridos son niños, mujeres y ancianos.\nLa Defensa Civil palestina se mostró desbordada ante la cantidad de llamadas de auxilio de viviendas bombardeadas en el norte de Gaza.\nSegún medios palestinos las operaciones de rescate se complicaron debido a la falta de ambulancias y al bloqueo israelí a las zonas atacadas.\nTambién reseñaron que decenas de personas se encuentran atrapadas bajo los escombros de los edificios destruidos por los ataques israelíes.\nLas autoridades sanitarias palestinas aseguraron el sábado que los hospitales indonesio y el Kamal Adwan no funcionan por el colapso del sistema de salud.\nEn este último centro de salud, al menos 44 trabajadores sanitarios y varios pacientes fueron detenidos por las fuerzas israelíes tras el asedio militar del viernes pasado, según informó la directora regional de la Organización Mundial de la Salud (OMS) para Oriente Medio, Hanan Balkhy.\nEn las últimas 48 horas, los ataques israelíes contra la Franja de Gaza han matado a 77 personas y causado 289 heridos, cifras que no incluyen los datos de los hospitales del norte del territorio palestino, sometidos a esta dura ofensiva militar.\nDesde que comenzó la operación genocida israelí contra la Franja de Gaza, 42.924 personas han muerto y más de 100.800 han resultado heridas en el devastado territorio palestino, según los datos del Ministerio de Salud gazatí.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-cometio-una-nueva-masacre-en-la-franja-de-gaza-al-asesinar-a-35-palestinos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 335,
+    "message_id": 79254,
+    "date": "2024-10-27T06:55:13+00:00",
+    "text": "teleSUR\nIsrael cometió una nueva masacre en la Franja de Gaza al asesinar a 35 palestinos\nhttps://www.telesurtv.net/israel-cometio-una-nueva-masacre-en-la-franja-de-gaza-al-asesinar-a-35-palestinos/",
+    "photo_path": null,
+    "views": 3918,
+    "reactions": {
+      "🤬": 78,
+      "😢": 10,
+      "👍": 3,
+      "👎": 1
+    },
+    "total_reactions": 92
+  },
+  "preprocessing": {
+    "cleaned": "como parte de su campaña genocida contra el pueblo palestino de la franja de gaza, israel cometió el sábado una nueva masacre en la ciudad de beit lahia, al asesinar a 35 ciudadanos palestinos. medios palestinos informaron que israel realizó múltiples ataques aéreos contra un complejo residencial de la localidad del norte de la franja de gaza. el ministerio de salud gazatí denunció una “horrible masacre” y añadió que muchos de los muertos y heridos son niños, mujeres y ancianos. la defensa civil palestina se mostró desbordada ante la cantidad de llamadas de auxilio de viviendas bombardeadas en el norte de gaza. según medios palestinos las operaciones de rescate se complicaron debido a la falta de ambulancias y al bloqueo israelí a las zonas atacadas. también reseñaron que decenas de personas se encuentran atrapadas bajo los escombros de los edificios destruidos por los ataques israelíes. las autoridades sanitarias palestinas aseguraron el sábado que los hospitales indonesio y el kamal adwan no funcionan por el colapso del sistema de salud. en este último centro de salud, al menos 44 trabajadores sanitarios y varios pacientes fueron detenidos por las fuerzas israelíes tras el asedio militar del viernes pasado, según informó la directora regional de la organización mundial de la salud (oms) para oriente medio, hanan balkhy. en las últimas 48 horas, los ataques israelíes contra la franja de gaza han matado a 77 personas y causado 289 heridos, cifras que no incluyen los datos de los hospitales del norte del territorio palestino, sometidos a esta dura ofensiva militar. desde que comenzó la operación genocida israelí contra la franja de gaza, 42.924 personas han muerto y más de 100.800 han resultado heridas en el devastado territorio palestino, según los datos del ministerio de salud gazatí.",
+    "tokens": [
+      "parte",
+      "campaña",
+      "genocida",
+      "pueblo",
+      "palestino",
+      "franja",
+      "gaza",
+      ",",
+      "israel",
+      "cometió",
+      "sábado",
+      "nueva",
+      "masacre",
+      "ciudad",
+      "beit",
+      "lahia",
+      ",",
+      "asesinar",
+      "35",
+      "ciudadanos",
+      "palestinos",
+      ".",
+      "medios",
+      "palestinos",
+      "informaron",
+      "israel",
+      "realizó",
+      "múltiples",
+      "ataques",
+      "aéreos",
+      "complejo",
+      "residencial",
+      "localidad",
+      "norte",
+      "franja",
+      "gaza",
+      ".",
+      "ministerio",
+      "salud",
+      "gazatí",
+      "denunció",
+      "“",
+      "horrible",
+      "masacre",
+      "”",
+      "añadió",
+      "muertos",
+      "heridos",
+      "niños",
+      ",",
+      "mujeres",
+      "ancianos",
+      ".",
+      "defensa",
+      "civil",
+      "palestina",
+      "mostró",
+      "desbordada",
+      "cantidad",
+      "llamadas",
+      "auxilio",
+      "viviendas",
+      "bombardeadas",
+      "norte",
+      "gaza",
+      ".",
+      "según",
+      "medios",
+      "palestinos",
+      "operaciones",
+      "rescate",
+      "complicaron",
+      "debido",
+      "falta",
+      "ambulancias",
+      "bloqueo",
+      "israelí",
+      "zonas",
+      "atacadas",
+      ".",
+      "reseñaron",
+      "decenas",
+      "personas",
+      "encuentran",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      "edificios",
+      "destruidos",
+      "ataques",
+      "israelíes",
+      ".",
+      "autoridades",
+      "sanitarias",
+      "palestinas",
+      "aseguraron",
+      "sábado",
+      "hospitales",
+      "indonesio",
+      "kamal",
+      "adwan",
+      "funcionan",
+      "colapso",
+      "sistema",
+      "salud",
+      ".",
+      "último",
+      "centro",
+      "salud",
+      ",",
+      "menos",
+      "44",
+      "trabajadores",
+      "sanitarios",
+      "varios",
+      "pacientes",
+      "detenidos",
+      "fuerzas",
+      "israelíes",
+      "tras",
+      "asedio",
+      "militar",
+      "viernes",
+      "pasado",
+      ",",
+      "según",
+      "informó",
+      "directora",
+      "regional",
+      "organización",
+      "mundial",
+      "salud",
+      "(",
+      "oms",
+      ")",
+      "oriente",
+      "medio",
+      ",",
+      "hanan",
+      "balkhy",
+      ".",
+      "últimas",
+      "48",
+      "horas",
+      ",",
+      "ataques",
+      "israelíes",
+      "franja",
+      "gaza",
+      "matado",
+      "77",
+      "personas",
+      "causado",
+      "289",
+      "heridos",
+      ",",
+      "cifras",
+      "incluyen",
+      "datos",
+      "hospitales",
+      "norte",
+      "territorio",
+      "palestino",
+      ",",
+      "sometidos",
+      "dura",
+      "ofensiva",
+      "militar",
+      ".",
+      "comenzó",
+      "operación",
+      "genocida",
+      "israelí",
+      "franja",
+      "gaza",
+      ",",
+      "42.924",
+      "personas",
+      "muerto",
+      "100.800",
+      "resultado",
+      "heridas",
+      "devastado",
+      "territorio",
+      "palestino",
+      ",",
+      "según",
+      "datos",
+      "ministerio",
+      "salud",
+      "gazatí",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 78,
+      "FW": 62,
+      "IN": 10,
+      "JJ": 28,
+      "VBD": 2,
+      "RB": 2,
+      "CD": 7,
+      "NNS": 26,
+      "VBP": 18,
+      "DT": 2,
+      "VBZ": 2,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 9,
+      "FW-FW": 38,
+      "FW-NN": 7,
+      "NN-NN": 44,
+      "NN-IN": 6,
+      "IN-FW": 5,
+      "FW-NNP": 11,
+      "NNP-FW": 4,
+      "NNP-NNP": 15,
+      "NN-JJ": 4,
+      "JJ-JJ": 5,
+      "JJ-NN": 12,
+      "NNP-VBD": 2,
+      "VBD-RB": 2,
+      "RB-CD": 2,
+      "CD-NNS": 6,
+      "NNS-JJ": 4,
+      "JJ-NNP": 3,
+      "NN-NNP": 6,
+      "NN-NNS": 8,
+      "NNS-NNS": 1,
+      "NNS-VBP": 16,
+      "VBP-JJ": 12,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "FW-NNS": 4,
+      "VBP-NN": 1,
+      "VBP-NNP": 2,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 4,
+      "NNP-NNS": 2,
+      "JJ-NNS": 4,
+      "NNS-FW": 2,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "FW-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-CD": 1,
+      "NNS-VBZ": 1,
+      "VBZ-VBP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-$": 1,
+      "$-CD": 1,
+      "VBP-CD": 1,
+      "CD-NN": 1,
+      "VBP-DT": 1,
+      "DT-JJ": 1,
+      "FW-JJ": 1,
+      "NNP-CD": 1,
+      "IN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 24,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 6,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 26,
+      "FW-FW-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-RB": 2,
+      "VBD-RB-CD": 2,
+      "RB-CD-NNS": 2,
+      "CD-NNS-JJ": 4,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 11,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NN": 7,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "NN-NN-FW": 7,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 2,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "VBP-JJ-NNP": 2,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NNS": 2,
+      "VBP-NNP-NNS": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "NNS-JJ-NNS": 2,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "JJ-NNS-VBP": 2,
+      "JJ-JJ-FW": 1,
+      "NNP-NNP-FW": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-$": 1,
+      "VBZ-$-CD": 1,
+      "$-CD-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-VBD": 1,
+      "CD-NNS-VBP": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 2,
+      "IN-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 78,
+        "FW": 62,
+        "NNP": 41,
+        "JJ": 28,
+        "NNS": 26
+      },
+      "top_bigrams": {
+        "NN-NN": 44,
+        "FW-FW": 38,
+        "NNS-VBP": 16,
+        "NNP-NNP": 15,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 24,
+        "NNS-VBP-JJ": 11,
+        "JJ-NN-NN": 7,
+        "NN-NN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 25,
+      "PP": 4,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "VP -> ('palestinos', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('su', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP NP ('en', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') VP VP ('a', 'DT') ('35', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Como', 'NNP') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('campaña', 'NN') ('genocida', 'NN') ('contra', 'NN') ('el', 'NN') ('pueblo', 'NN') ('palestino', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('cometió', 'NN') ('el', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('nueva', 'JJ') ('masacre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Beit', 'NNP') ('Lahia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Como parte"
+      },
+      {
+        "label": "NP",
+        "text": "campaña genocida contra el pueblo palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Israel cometió el sábado"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva masacre"
+      },
+      {
+        "label": "NP",
+        "text": "Beit Lahia"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "VP",
+        "text": "asesinar"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "Medios"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos informaron que Israel realizó múltiples ataques"
+      },
+      {
+        "label": "NP",
+        "text": "informaron que Israel realizó múltiples ataques"
+      },
+      {
+        "label": "VP",
+        "text": "aéreos contra un complejo residencial"
+      },
+      {
+        "label": "NP",
+        "text": "contra un complejo residencial"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Como/NNP parte/NN)\n  de/FW\n  su/FW\n  (NP campaña/NN genocida/NN contra/NN el/NN pueblo/NN palestino/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP Israel/NNP cometió/NN el/NN sábado/NN)\n  (NP una/JJ nueva/JJ masacre/NN)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Beit/NNP Lahia/NNP)\n  ,/,\n  (VP al/VBZ)\n  (VP asesinar/VBP)\n  a/DT\n  35/CD\n  (NP ciudadanos/NN palestinos/NNS)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    palestinos/VBP\n    (NP\n      informaron/NN\n      que/NN\n      Israel/NNP\n      realizó/NN\n      múltiples/NNS\n      ataques/NNS))\n  (VP aéreos/VBP (NP contra/JJ un/JJ complejo/NN residencial/NN))\n  de/IN\n  la/FW\n  localidad/FW\n  del/FW\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP gazatí/NN denunció/NN))\n  (NP una/JJ “/NNP)\n  (NP horrible/JJ masacre/NN ”/NNP y/NNP añadió/NN que/NN)\n  muchos/FW\n  de/FW\n  los/FW\n  (NP muertos/NNS)\n  (VP y/VBP (NP heridos/JJ son/NN niños/NN))\n  ,/,\n  (VP mujeres/VBZ (NP y/JJ ancianos/NNS))\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    Defensa/NNP\n    Civil/NNP\n    palestina/NN\n    se/NN\n    mostró/NN\n    desbordada/NN\n    ante/NN)\n  la/FW\n  cantidad/FW\n  de/FW\n  llamadas/FW\n  de/FW\n  auxilio/FW\n  de/FW\n  viviendas/FW\n  (NP bombardeadas/NNS)\n  en/IN\n  (ADJP el/JJ)\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP medios/NNS)\n  (VP palestinos/VBP (NP las/JJ operaciones/NNS))\n  de/FW\n  rescate/FW\n  se/FW\n  (NP complicaron/NN debido/NN)\n  (NP a/DT la/NN falta/NN)\n  de/IN\n  ambulancias/FW\n  y/FW\n  al/FW\n  bloqueo/FW\n  (VP israelí/VB (NP a/DT las/JJ zonas/NN atacadas/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "asedio militar",
+        "position": [
+          1194,
+          1208
+        ],
+        "start": 1194,
+        "end": 1208
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva militar",
+        "position": [
+          1573,
+          1589
+        ],
+        "start": 1573,
+        "end": 1589
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          882,
+          899
+        ],
+        "start": 882,
+        "end": 899
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocida israelí contra la franja de gaza",
+        "position": [
+          1622,
+          1663
+        ],
+        "start": 1622,
+        "end": 1663
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1235,
+          1242
+        ],
+        "start": 1235,
+        "end": 1242
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          487,
+          494
+        ],
+        "start": 487,
+        "end": 494
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oms",
+        "position": [
+          1305,
+          1308
+        ],
+        "start": 1305,
+        "end": 1308
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          464,
+          471
+        ],
+        "start": 464,
+        "end": 471
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          376,
+          384
+        ],
+        "start": 376,
+        "end": 384
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "centro de salud",
+        "position": [
+          1071,
+          1086
+        ],
+        "start": 1071,
+        "end": 1086
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          501,
+          510
+        ],
+        "start": 501,
+        "end": 510
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "complejo residencial",
+        "position": [
+          277,
+          297
+        ],
+        "start": 277,
+        "end": 297
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          723,
+          730
+        ],
+        "start": 723,
+        "end": 730
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "44 trabajadores",
+        "position": [
+          1097,
+          1112
+        ],
+        "start": 1097,
+        "end": 1112
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "77 personas",
+        "position": [
+          1429,
+          1440
+        ],
+        "start": 1429,
+        "end": 1440
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100.800",
+        "position": [
+          1694,
+          1708
+        ],
+        "start": 1694,
+        "end": 1708
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "42.924 personas",
+        "position": [
+          1665,
+          1680
+        ],
+        "start": 1665,
+        "end": 1680
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Defensa Civil palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Beit Lahia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kamal Adwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OMS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hanan Balkhy",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "COMETER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "COMETER",
+        "objeto": "Beit Lahia"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "COMETER",
+        "objeto": "Beit Lahia"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REALIZAR_INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "La Defensa Civil palestina",
+        "relacion": "MOSTRAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "COMENZAR_MORIR",
+        "objeto": "Ministerio de Salud"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.984,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

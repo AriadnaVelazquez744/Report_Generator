@@ -1,0 +1,934 @@
+{
+  "url": "https://www.telesurtv.net/consejo-de-seguridad-de-la-onu-declara-a-israel-como-persona-non-grata/",
+  "title": "Consejo de Seguridad de la ONU declara a Israel como “persona non grata” - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Antonio Guterres",
+    "Israel",
+    "ONU",
+    "Persona non grata"
+  ],
+  "text": "Esta medida se dio luego de que Guterres no condenara de inmediato los ataques con misiles de Irán contra Israel, ocurridos el pasado martes.\nEl Consejo de Seguridad de la Organización de las Naciones Unidas (ONU) manifestó el jueves su “total” respaldo al secretario general Antonio Guterres, tras la reciente declaración de Israel que lo señaló como “persona non grata”.\nEn una declaración conjunta, los 15 miembros del Consejo, que incluyen a las cinco potencias permanentes – Estados Unidos, China, Rusia, Reino Unido y Francia – enfatizaron la importancia de mantener una relación “productiva y funcional” con el secretario general. “Es imperativo que todos los estados miembros se abstengan de llevar a cabo acciones que socaven su labor y la de sus dependencias”, indicaron.\nLos representantes del Consejo advirtieron que “toda decisión que no involucre al secretario general de la ONU es contraproducente, especialmente en el contexto de la creciente tensión en Medio Oriente”.\nLas relaciones entre la ONU e Israel han atravesado momentos de alta tensión, alcanzando un punto crítico desde el 7 de octubre de 2023, cuando el grupo islamista Hamás llevó a cabo un ataque sin precedentes en territorio israelí, desatando el conflicto en Gaza. En este marco de escalada de violencia, el ministro de Relaciones Exteriores israelí, Israel Katz, declaró a Guterres “persona non grata”, reprochándole su falta de condena clara hacia el ataque de Irán.\nDurante una acalorada sesión del Consejo de Seguridad que contó con la participación de los embajadores israelí e iraní, Guterres condenó vigorosamente el ataque masivo con misiles de Irán. Sin embargo, también hizo un llamado urgente para poner fin al “ciclo repugnante” de violencia que ha caracterizado la región, advirtiendo que Oriente Medio se encuentra en “el borde del precipicio”.\n“El ciclo mortal de violencia ‘ojo por ojo, diente por diente’ debe terminar”, enfatizó Guterres, subrayando la necesidad de un diálogo constructivo y soluciones pacíficas para abordar los conflictos en la región.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/consejo-de-seguridad-de-la-onu-declara-a-israel-como-persona-non-grata/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1736,
+    "message_id": 77760,
+    "date": "2024-10-04T08:55:12+00:00",
+    "text": "teleSUR\nConsejo de Seguridad de la ONU declara a Israel como “persona non grata”\nhttps://www.telesurtv.net/consejo-de-seguridad-de-la-onu-declara-a-israel-como-persona-non-grata/",
+    "photo_path": null,
+    "views": 2790,
+    "reactions": {
+      "👍": 55,
+      "😁": 15,
+      "🔥": 3,
+      "❤": 2,
+      "🤬": 1
+    },
+    "total_reactions": 76
+  },
+  "preprocessing": {
+    "cleaned": "esta medida se dio luego de que guterres no condenara de inmediato los ataques con misiles de irán contra israel, ocurridos el pasado martes. el consejo de seguridad de la organización de las naciones unidas (onu) manifestó el jueves su “total” respaldo al secretario general antonio guterres, tras la reciente declaración de israel que lo señaló como “persona non grata”. en una declaración conjunta, los 15 miembros del consejo, que incluyen a las cinco potencias permanentes – estados unidos, china, rusia, reino unido y francia – enfatizaron la importancia de mantener una relación “productiva y funcional” con el secretario general. “es imperativo que todos los estados miembros se abstengan de llevar a cabo acciones que socaven su labor y la de sus dependencias”, indicaron. los representantes del consejo advirtieron que “toda decisión que no involucre al secretario general de la onu es contraproducente, especialmente en el contexto de la creciente tensión en medio oriente”. las relaciones entre la onu e israel han atravesado momentos de alta tensión, alcanzando un punto crítico desde el 7 de octubre de 2023, cuando el grupo islamista hamás llevó a cabo un ataque sin precedentes en territorio israelí, desatando el conflicto en gaza. en este marco de escalada de violencia, el ministro de relaciones exteriores israelí, israel katz, declaró a guterres “persona non grata”, reprochándole su falta de condena clara hacia el ataque de irán. durante una acalorada sesión del consejo de seguridad que contó con la participación de los embajadores israelí e iraní, guterres condenó vigorosamente el ataque masivo con misiles de irán. sin embargo, también hizo un llamado urgente para poner fin al “ciclo repugnante” de violencia que ha caracterizado la región, advirtiendo que oriente medio se encuentra en “el borde del precipicio”. “el ciclo mortal de violencia ‘ojo por ojo, diente por diente’ debe terminar”, enfatizó guterres, subrayando la necesidad de un diálogo constructivo y soluciones pacíficas para abordar los conflictos en la región.",
+    "tokens": [
+      "medida",
+      "dio",
+      "luego",
+      "guterres",
+      "condenara",
+      "inmediato",
+      "ataques",
+      "misiles",
+      "irán",
+      "israel",
+      ",",
+      "ocurridos",
+      "pasado",
+      "martes",
+      ".",
+      "consejo",
+      "seguridad",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "manifestó",
+      "jueves",
+      "“",
+      "total",
+      "”",
+      "respaldo",
+      "secretario",
+      "general",
+      "antonio",
+      "guterres",
+      ",",
+      "tras",
+      "reciente",
+      "declaración",
+      "israel",
+      "señaló",
+      "“",
+      "persona",
+      "non",
+      "grata",
+      "”",
+      ".",
+      "declaración",
+      "conjunta",
+      ",",
+      "15",
+      "miembros",
+      "consejo",
+      ",",
+      "incluyen",
+      "cinco",
+      "potencias",
+      "permanentes",
+      "–",
+      "unidos",
+      ",",
+      "china",
+      ",",
+      "rusia",
+      ",",
+      "reino",
+      "unido",
+      "francia",
+      "–",
+      "enfatizaron",
+      "importancia",
+      "mantener",
+      "relación",
+      "“",
+      "productiva",
+      "funcional",
+      "”",
+      "secretario",
+      "general",
+      ".",
+      "“",
+      "imperativo",
+      "miembros",
+      "abstengan",
+      "llevar",
+      "cabo",
+      "acciones",
+      "socaven",
+      "labor",
+      "dependencias",
+      "”",
+      ",",
+      "indicaron",
+      ".",
+      "representantes",
+      "consejo",
+      "advirtieron",
+      "“",
+      "toda",
+      "decisión",
+      "involucre",
+      "secretario",
+      "general",
+      "onu",
+      "contraproducente",
+      ",",
+      "especialmente",
+      "contexto",
+      "creciente",
+      "tensión",
+      "medio",
+      "oriente",
+      "”",
+      ".",
+      "relaciones",
+      "onu",
+      "israel",
+      "atravesado",
+      "momentos",
+      "alta",
+      "tensión",
+      ",",
+      "alcanzando",
+      "punto",
+      "crítico",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "grupo",
+      "islamista",
+      "hamás",
+      "llevó",
+      "cabo",
+      "ataque",
+      "precedentes",
+      "territorio",
+      "israelí",
+      ",",
+      "desatando",
+      "conflicto",
+      "gaza",
+      ".",
+      "marco",
+      "escalada",
+      "violencia",
+      ",",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      "israelí",
+      ",",
+      "israel",
+      "katz",
+      ",",
+      "declaró",
+      "guterres",
+      "“",
+      "persona",
+      "non",
+      "grata",
+      "”",
+      ",",
+      "reprochándole",
+      "falta",
+      "condena",
+      "clara",
+      "hacia",
+      "ataque",
+      "irán",
+      ".",
+      "acalorada",
+      "sesión",
+      "consejo",
+      "seguridad",
+      "contó",
+      "participación",
+      "embajadores",
+      "israelí",
+      "iraní",
+      ",",
+      "guterres",
+      "condenó",
+      "vigorosamente",
+      "ataque",
+      "masivo",
+      "misiles",
+      "irán",
+      ".",
+      "embargo",
+      ",",
+      "hizo",
+      "llamado",
+      "urgente",
+      "poner",
+      "fin",
+      "“",
+      "ciclo",
+      "repugnante",
+      "”",
+      "violencia",
+      "caracterizado",
+      "región",
+      ",",
+      "advirtiendo",
+      "oriente",
+      "medio",
+      "encuentra",
+      "“",
+      "borde",
+      "precipicio",
+      "”",
+      ".",
+      "“",
+      "ciclo",
+      "mortal",
+      "violencia",
+      "‘",
+      "ojo",
+      "ojo",
+      ",",
+      "diente",
+      "diente",
+      "’",
+      "debe",
+      "terminar",
+      "”",
+      ",",
+      "enfatizó",
+      "guterres",
+      ",",
+      "subrayando",
+      "necesidad",
+      "diálogo",
+      "constructivo",
+      "soluciones",
+      "pacíficas",
+      "abordar",
+      "conflictos",
+      "región",
+      "."
+    ],
+    "token_count": 239,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 53,
+      "NN": 104,
+      "IN": 13,
+      "FW": 81,
+      "VBZ": 10,
+      "DT": 2,
+      "NNS": 12,
+      "VBP": 7,
+      "JJ": 19,
+      "VBD": 3,
+      "CD": 2,
+      "RB": 2,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 16,
+      "NN-NN": 61,
+      "NN-IN": 10,
+      "IN-FW": 9,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "FW-FW": 50,
+      "FW-NNS": 2,
+      "NNS-VBP": 7,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "FW-NNP": 15,
+      "NN-NNP": 6,
+      "NNP-NNP": 22,
+      "NNP-VBZ": 8,
+      "VBZ-NN": 1,
+      "NN-NNS": 6,
+      "NNS-NNP": 2,
+      "NNP-FW": 6,
+      "VBP-JJ": 4,
+      "JJ-NN": 11,
+      "NN-JJ": 5,
+      "JJ-NNP": 3,
+      "VBZ-FW": 4,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "VBP-NNP": 1,
+      "JJ-NNS": 2,
+      "FW-JJ": 3,
+      "NN-FW": 10,
+      "FW-NN": 9,
+      "NNS-VBD": 1,
+      "VBD-RB": 1,
+      "RB-JJ": 2,
+      "NN-DT": 1,
+      "NN-RB": 1,
+      "JJ-JJ": 2,
+      "JJ-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "NN-CC": 1,
+      "CC-NN": 1,
+      "VBZ-JJ": 2,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NN": 1,
+      "VBZ-NNP": 1,
+      "IN-NNP": 2,
+      "NNS-IN": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 14,
+      "NN-NN-NN": 33,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 9,
+      "IN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-IN": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 4,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 6,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-FW": 4,
+      "VBZ-FW-FW": 3,
+      "FW-FW-FW": 33,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "JJ-NNP-NN": 2,
+      "NN-JJ-NN": 3,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "FW-NNP-VBZ": 1,
+      "VBZ-FW-NNP": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-NN": 2,
+      "NN-FW-NNP": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "IN-FW-NN": 3,
+      "FW-NN-NN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "VBP-JJ-NNP": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "JJ-NN-JJ": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 104,
+        "FW": 81,
+        "NNP": 53,
+        "JJ": 19,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 50,
+        "NNP-NNP": 22,
+        "NNP-NN": 16,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 33,
+        "NNP-NN-NN": 14,
+        "NN-IN-FW": 9,
+        "FW-FW-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 80,
+      "VP": 19,
+      "ADJP": 2,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0342
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('cabo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('que', 'FW') VP ('de', 'IN') ('inmediato', 'FW') ('los', 'FW') NP VP ('de', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Esta', 'NNP') ('medida', 'NN') ('se', 'NN') ('dio', 'NN') ('luego', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('Guterres', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('condenara', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('con', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Esta medida se dio luego"
+      },
+      {
+        "label": "VP",
+        "text": "Guterres no condenara"
+      },
+      {
+        "label": "NP",
+        "text": "no condenara"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "con misiles"
+      },
+      {
+        "label": "NP",
+        "text": "misiles"
+      },
+      {
+        "label": "NP",
+        "text": "Irán contra Israel"
+      },
+      {
+        "label": "NP",
+        "text": "ocurridos el pasado martes"
+      },
+      {
+        "label": "NP",
+        "text": "El Consejo"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "ONU"
+      },
+      {
+        "label": "NP",
+        "text": "manifestó"
+      },
+      {
+        "label": "VP",
+        "text": "el jueves"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Esta/NNP medida/NN se/NN dio/NN luego/NN)\n  de/IN\n  que/FW\n  (VP Guterres/VBZ (NP no/DT condenara/NN))\n  de/IN\n  inmediato/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP con/VBP (NP misiles/NNS))\n  de/FW\n  (NP Irán/NNP contra/NN Israel/NNP)\n  ,/,\n  (NP ocurridos/JJ el/NN pasado/NN martes/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP Consejo/NNP)\n  de/FW\n  (NP Seguridad/NNP)\n  de/FW\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  (NP manifestó/NN)\n  (VP el/VBP (NP jueves/NNS))\n  (VP\n    su/VBP\n    (NP “/JJ total/JJ ”/NN respaldo/NN al/NN secretario/NN)\n    (NP general/JJ Antonio/NNP Guterres/NNP))\n  ,/,\n  (VP tras/VBZ)\n  la/FW\n  reciente/FW\n  declaración/FW\n  de/FW\n  (NP\n    Israel/NNP\n    que/NN\n    lo/NN\n    señaló/NN\n    como/NN\n    “/NNP\n    persona/NN\n    non/NN\n    grata/NN\n    ”/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP una/JJ declaración/NN conjunta/NN)\n  ,/,\n  (VP los/VBZ)\n  15/CD\n  (NP miembros/NN del/NN Consejo/NNP)\n  ,/,\n  (NP que/NN)\n  (VP incluyen/VB (NP a/DT las/JJ cinco/NN potencias/NN))\n  (VP permanentes/VBZ (NP –/JJ Estados/NNP Unidos/NNP))\n  ,/,\n  (NP China/NNP)\n  ,/,\n  (NP Rusia/NNP)\n  ,/,\n  (NP Reino/NNP Unido/NNP y/NNP Francia/NNP –/NNP enfatizaron/NNP)\n  la/FW\n  importancia/FW\n  de/FW\n  mantener/FW\n  (NP una/JJ relación/NN “/NNP productiva/NN y/NNP)\n  (NP funcional/JJ ”/NNP con/NN el/NN secretario/NN general/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Es/NNP imperativo/NN que/NN todos/NN los/NN)\n  (NP estados/JJ miembros/NN se/NN)\n  abstengan/FW\n  de/FW\n  llevar/FW\n  (NP a/DT cabo/NN)\n  (VP acciones/VBZ que/RB (NP socaven/JJ su/NNS labor/NN))\n  (VP y/VBP)\n  la/FW\n  de/FW\n  sus/FW\n  dependencias/FW\n  ”/FW\n  ,/,\n  (NP indicaron/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP representantes/VBZ)\n  del/FW\n  (NP\n    Consejo/NNP\n    advirtieron/NN\n    que/NN\n    “/NNP\n    toda/NN\n    decisión/NN\n    que/NN)\n  (NP no/DT involucre/NN)\n  (ADJP al/RB secretario/JJ)\n  (ADJP general/JJ)\n  de/FW\n  la/FW\n  (NP ONU/NNP es/NN contraproducente/NN)\n  ,/,\n  especialmente/FW\n  en/FW\n  el/FW\n  contexto/FW\n  de/FW\n  la/FW\n  creciente/FW\n  tensión/FW\n  en/FW\n  (NP Medio/NNP Oriente/NNP ”/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          214,
+          223
+        ],
+        "start": 214,
+        "end": 223
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en gaza",
+        "position": [
+          1230,
+          1247
+        ],
+        "start": 1230,
+        "end": 1247
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          340,
+          346
+        ],
+        "start": 340,
+        "end": 346
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          1292,
+          1325
+        ],
+        "start": 1292,
+        "end": 1325
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          172,
+          207
+        ],
+        "start": 172,
+        "end": 207
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          1583,
+          1590
+        ],
+        "start": 1583,
+        "end": 1590
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          480,
+          494
+        ],
+        "start": 480,
+        "end": 494
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          496,
+          501
+        ],
+        "start": 496,
+        "end": 501
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, advirtiendo",
+        "position": [
+          1762,
+          1781
+        ],
+        "start": 1762,
+        "end": 1781
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1101,
+          1121
+        ],
+        "start": 1101,
+        "end": 1121
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1647,
+          1654
+        ],
+        "start": 1647,
+        "end": 1654
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15 miembros",
+        "position": [
+          406,
+          417
+        ],
+        "start": 406,
+        "end": 417
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antonio Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Relaciones Exteriores israelí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo de Seguridad de la Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reino Unido",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel Katz",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Guterres",
+        "relacion": "CONDENAR_DAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Guterres",
+        "relacion": "CONDENAR_DAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Consejo de Seguridad de la Organización de las Naciones Unidas",
+        "relacion": "MANIFESTAR",
+        "objeto": "Antonio Guterres"
+      },
+      {
+        "sujeto": "Consejo de Seguridad de la Organización de las Naciones Unidas",
+        "relacion": "MANIFESTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "MANIFESTAR",
+        "objeto": "Antonio Guterres"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "MANIFESTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Consejo",
+        "relacion": "ADVERTIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "ATRAVESAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "ATRAVESAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ATRAVESAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ATRAVESAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "LLEVAR_ALCANZAR_ATRAVESAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Relaciones Exteriores israelí",
+        "relacion": "DECLARAR",
+        "objeto": "Guterres"
+      },
+      {
+        "sujeto": "Relaciones Exteriores israelí",
+        "relacion": "DECLARAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Israel Katz",
+        "relacion": "DECLARAR",
+        "objeto": "Guterres"
+      },
+      {
+        "sujeto": "Israel Katz",
+        "relacion": "DECLARAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Guterres",
+        "relacion": "DECLARAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Guterres",
+        "relacion": "CONDENAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Consejo de Seguridad",
+        "relacion": "CONDENAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Guterres",
+        "relacion": "CONDENAR",
+        "objeto": "Irán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8481,
+    "pos": 0.008,
+    "neu": 0.956,
+    "neg": 0.036,
+    "label": "negative"
+  }
+}

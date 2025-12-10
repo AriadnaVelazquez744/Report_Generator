@@ -1,0 +1,814 @@
+{
+  "url": "https://www.telesurtv.net/iran-reanuda-el-trafico-aereo-pese-a-las-tensiones-en-oriente-medio/",
+  "title": "Irán reanuda el tráfico aéreo pese a las tensiones en Oriente Medio - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Irán",
+    "Oriente Medio",
+    "Vuelos"
+  ],
+  "text": "El representante de la Autoridad de Aviación Civil de Irán, Jafar Yazerlou, confirmó que todos los aeropuertos de la nación persa volvieron a operar los vuelos suspendidos previamente.\nEl domingo, Yazerlou comunicó la cancelación de todos los vuelos en Irán hasta la madrugada de este lunes 7 de octubre, debido a las tensiones en aumento en el Medio Oriente.\n“Tomando en cuenta el levantamiento de las restricciones impuestas, (…) la comunicación aérea se ha reanudado en modo normal a partir de las 23:00 (GMT+3.30) del domingo, 6 de octubre”, dijo el vocero, citado por la agencia Mehr.\nLos enfrentamientos entre Israel y las milicias del movimiento chií Hezbola en Líbano, así como los bombardeos constantes de Israel a diversas zonas del Líbano, han causado más de 1.900 muertes y miles de heridos y desplazados desde mediados de septiembre, de acuerdo con cifras oficiales libanesas.\nIsrael también bombardea áreas de Siria e intercambia ataques con misiles con los insurgentes hutíes que dominan el noroeste de Yemen.\nDesde hace meses, el Estado hebreo se encuentra en medio de una guerra de agresión contra el movimiento palestino Hamás en la Franja de Gaza.\nEl pasado 1 de octubre por la noche, Irán disparó numerosos misiles hacia el territorio de Israel, que, de acuerdo con los medios iraníes, impactaron diversas metas militares y de seguridad.\nDe acuerdo con el presidente de Irán, Masud Pezeshkián, el ataque representó una reacción legítima ante las acciones de Israel “en aras de la paz y la seguridad de Irán y la región”.\nEl líder del Estado Mayor de las Fuerzas de Defensa de Israel, Herzi Halevi, afirmó que su país se reserva el derecho de reaccionar ante un ataque de Irán.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/iran-reanuda-el-trafico-aereo-pese-a-las-tensiones-en-oriente-medio/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1592,
+    "message_id": 77908,
+    "date": "2024-10-07T09:55:07+00:00",
+    "text": "teleSUR\nIrán reanuda el tráfico aéreo pese a las tensiones en Oriente Medio\nhttps://www.telesurtv.net/iran-reanuda-el-trafico-aereo-pese-a-las-tensiones-en-oriente-medio/",
+    "photo_path": null,
+    "views": 2891,
+    "reactions": {
+      "👍": 60,
+      "😱": 2
+    },
+    "total_reactions": 62
+  },
+  "preprocessing": {
+    "cleaned": "el representante de la autoridad de aviación civil de irán, jafar yazerlou, confirmó que todos los aeropuertos de la nación persa volvieron a operar los vuelos suspendidos previamente. el domingo, yazerlou comunicó la cancelación de todos los vuelos en irán hasta la madrugada de este lunes 7 de octubre, debido a las tensiones en aumento en el medio oriente. “tomando en cuenta el levantamiento de las restricciones impuestas, (…) la comunicación aérea se ha reanudado en modo normal a partir de las 23:00 (gmt+3.30) del domingo, 6 de octubre”, dijo el vocero, citado por la agencia mehr. los enfrentamientos entre israel y las milicias del movimiento chií hezbola en líbano, así como los bombardeos constantes de israel a diversas zonas del líbano, han causado más de 1.900 muertes y miles de heridos y desplazados desde mediados de septiembre, de acuerdo con cifras oficiales libanesas. israel también bombardea áreas de siria e intercambia ataques con misiles con los insurgentes hutíes que dominan el noroeste de yemen. desde hace meses, el estado hebreo se encuentra en medio de una guerra de agresión contra el movimiento palestino hamás en la franja de gaza. el pasado 1 de octubre por la noche, irán disparó numerosos misiles hacia el territorio de israel, que, de acuerdo con los medios iraníes, impactaron diversas metas militares y de seguridad. de acuerdo con el presidente de irán, masud pezeshkián, el ataque representó una reacción legítima ante las acciones de israel “en aras de la paz y la seguridad de irán y la región”. el líder del estado mayor de las fuerzas de defensa de israel, herzi halevi, afirmó que su país se reserva el derecho de reaccionar ante un ataque de irán.",
+    "tokens": [
+      "representante",
+      "autoridad",
+      "aviación",
+      "civil",
+      "irán",
+      ",",
+      "jafar",
+      "yazerlou",
+      ",",
+      "confirmó",
+      "aeropuertos",
+      "nación",
+      "persa",
+      "volvieron",
+      "operar",
+      "vuelos",
+      "suspendidos",
+      "previamente",
+      ".",
+      "domingo",
+      ",",
+      "yazerlou",
+      "comunicó",
+      "cancelación",
+      "vuelos",
+      "irán",
+      "madrugada",
+      "lunes",
+      "7",
+      "octubre",
+      ",",
+      "debido",
+      "tensiones",
+      "aumento",
+      "medio",
+      "oriente",
+      ".",
+      "“",
+      "tomando",
+      "cuenta",
+      "levantamiento",
+      "restricciones",
+      "impuestas",
+      ",",
+      "(",
+      "…",
+      ")",
+      "comunicación",
+      "aérea",
+      "reanudado",
+      "modo",
+      "normal",
+      "partir",
+      "23:00",
+      "(",
+      "gmt+3.30",
+      ")",
+      "domingo",
+      ",",
+      "6",
+      "octubre",
+      "”",
+      ",",
+      "dijo",
+      "vocero",
+      ",",
+      "citado",
+      "agencia",
+      "mehr",
+      ".",
+      "enfrentamientos",
+      "israel",
+      "milicias",
+      "movimiento",
+      "chií",
+      "hezbola",
+      "líbano",
+      ",",
+      "así",
+      "bombardeos",
+      "constantes",
+      "israel",
+      "diversas",
+      "zonas",
+      "líbano",
+      ",",
+      "causado",
+      "1.900",
+      "muertes",
+      "miles",
+      "heridos",
+      "desplazados",
+      "mediados",
+      "septiembre",
+      ",",
+      "acuerdo",
+      "cifras",
+      "oficiales",
+      "libanesas",
+      ".",
+      "israel",
+      "bombardea",
+      "áreas",
+      "siria",
+      "intercambia",
+      "ataques",
+      "misiles",
+      "insurgentes",
+      "hutíes",
+      "dominan",
+      "noroeste",
+      "yemen",
+      ".",
+      "hace",
+      "meses",
+      ",",
+      "hebreo",
+      "encuentra",
+      "medio",
+      "guerra",
+      "agresión",
+      "movimiento",
+      "palestino",
+      "hamás",
+      "franja",
+      "gaza",
+      ".",
+      "pasado",
+      "1",
+      "octubre",
+      "noche",
+      ",",
+      "irán",
+      "disparó",
+      "numerosos",
+      "misiles",
+      "hacia",
+      "territorio",
+      "israel",
+      ",",
+      ",",
+      "acuerdo",
+      "medios",
+      "iraníes",
+      ",",
+      "impactaron",
+      "diversas",
+      "metas",
+      "militares",
+      "seguridad",
+      ".",
+      "acuerdo",
+      "presidente",
+      "irán",
+      ",",
+      "masud",
+      "pezeshkián",
+      ",",
+      "ataque",
+      "representó",
+      "reacción",
+      "legítima",
+      "acciones",
+      "israel",
+      "“",
+      "aras",
+      "paz",
+      "seguridad",
+      "irán",
+      "región",
+      "”",
+      ".",
+      "líder",
+      "mayor",
+      "fuerzas",
+      "defensa",
+      "israel",
+      ",",
+      "herzi",
+      "halevi",
+      ",",
+      "afirmó",
+      "país",
+      "reserva",
+      "derecho",
+      "reaccionar",
+      "ataque",
+      "irán",
+      "."
+    ],
+    "token_count": 189,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 51,
+      "NN": 72,
+      "FW": 73,
+      "IN": 21,
+      "JJ": 20,
+      "NNS": 15,
+      "VBP": 7,
+      "CD": 2,
+      "VBZ": 5,
+      "RB": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 16,
+      "NN-FW": 7,
+      "FW-FW": 39,
+      "FW-NNP": 16,
+      "NNP-FW": 12,
+      "NNP-NNP": 16,
+      "NNP-IN": 3,
+      "IN-NNP": 8,
+      "NN-NN": 34,
+      "NN-JJ": 5,
+      "JJ-NN": 12,
+      "NN-IN": 14,
+      "IN-FW": 11,
+      "NN-NNP": 6,
+      "FW-NNS": 3,
+      "NNS-FW": 1,
+      "FW-IN": 1,
+      "FW-NN": 10,
+      "NNS-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "FW-JJ": 3,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-FW": 2,
+      "VBZ-NNP": 1,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "JJ-JJ": 3,
+      "NN-NNS": 6,
+      "NNS-VBZ": 2,
+      "JJ-NNP": 1,
+      "VBP-NNS": 1,
+      "NNS-VB": 1,
+      "VB-JJ": 1,
+      "VBP-NNP": 1,
+      "IN-JJ": 1,
+      "VBZ-FW": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 6,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 12,
+      "NN-NN-NN": 16,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 8,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 28,
+      "FW-NNP-NN": 6,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-IN": 4,
+      "NN-NN-FW": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-IN": 1,
+      "FW-IN-FW": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 2,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "NN-IN-NNP": 4,
+      "NN-NN-NNP": 5,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-JJ": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-JJ-FW": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NNP-FW-FW": 4,
+      "NN-NN-NNS": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "NN-FW-NN": 2,
+      "NN-FW-NNP": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "IN-NNP-FW": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-IN-FW": 1,
+      "FW-NNP-IN": 1,
+      "FW-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 73,
+        "NN": 72,
+        "NNP": 51,
+        "IN": 21,
+        "JJ": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 39,
+        "NN-NN": 34,
+        "NNP-NN": 16,
+        "FW-NNP": 16,
+        "NNP-NNP": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 16,
+        "NNP-NN-NN": 12,
+        "JJ-NN-IN": 8,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 85,
+      "VP": 14,
+      "PP": 9,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 8,
+        "weight": 0.0672
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 5,
+        "weight": 0.042
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('la', 'FW') ('nación', 'FW') ('persa', 'FW') ('volvieron', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('representante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('Autoridad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('Aviación', 'NNP') ('Civil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('Jafar', 'NNP') ('Yazerlou', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('confirmó', 'NN') ('que', 'NN') ('todos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('aeropuertos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El representante"
+      },
+      {
+        "label": "NP",
+        "text": "Autoridad"
+      },
+      {
+        "label": "NP",
+        "text": "Aviación Civil"
+      },
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Jafar Yazerlou"
+      },
+      {
+        "label": "NP",
+        "text": "confirmó que todos"
+      },
+      {
+        "label": "NP",
+        "text": "los aeropuertos"
+      },
+      {
+        "label": "NP",
+        "text": "a operar los vuelos suspendidos previamente"
+      },
+      {
+        "label": "NP",
+        "text": "El domingo"
+      },
+      {
+        "label": "NP",
+        "text": "Yazerlou comunicó la cancelación"
+      },
+      {
+        "label": "NP",
+        "text": "Irán hasta la"
+      },
+      {
+        "label": "NP",
+        "text": "lunes"
+      },
+      {
+        "label": "VP",
+        "text": "debido a las tensiones"
+      },
+      {
+        "label": "NP",
+        "text": "a las tensiones"
+      },
+      {
+        "label": "PP",
+        "text": "en aumento"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP representante/NN)\n  de/FW\n  la/FW\n  (NP Autoridad/NNP)\n  de/FW\n  (NP Aviación/NNP Civil/NNP)\n  de/FW\n  (NP Irán/NNP)\n  ,/,\n  (NP Jafar/NNP Yazerlou/NNP)\n  ,/,\n  (NP confirmó/NN que/NN todos/NN)\n  (NP los/JJ aeropuertos/NN)\n  de/IN\n  la/FW\n  nación/FW\n  persa/FW\n  volvieron/FW\n  (NP a/DT operar/JJ los/NN vuelos/NN suspendidos/NN previamente/NN)\n  ./.)",
+      "(S\n  (NP El/NNP domingo/NN)\n  ,/,\n  (NP Yazerlou/NNP comunicó/NN la/NN cancelación/NN)\n  de/IN\n  todos/FW\n  los/FW\n  vuelos/FW\n  en/FW\n  (NP Irán/NNP hasta/NN la/NN)\n  madrugada/FW\n  de/FW\n  este/FW\n  (NP lunes/NNS)\n  7/CD\n  de/IN\n  octubre/FW\n  ,/,\n  (VP debido/VBZ (NP a/DT las/JJ tensiones/NNS))\n  (PP en/IN (NP aumento/NN))\n  en/FW\n  (NP el/NN Medio/NNP Oriente/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Tomando/NNP)\n  en/FW\n  (NP cuenta/NN)\n  el/FW\n  levantamiento/FW\n  de/FW\n  las/FW\n  (NP restricciones/NNS impuestas/NNS)\n  ,/,\n  (/(\n  (NP …/NN)\n  )/)\n  (NP la/NN)\n  (NP comunicación/JJ aérea/NN se/NN ha/NN reanudado/NN)\n  en/IN\n  modo/FW\n  (ADJP normal/JJ)\n  (NP a/DT partir/NN)\n  de/IN\n  las/FW\n  23:00/CD\n  (/(\n  (NP GMT+3.30/NNP)\n  )/)\n  (NP del/NN domingo/NN)\n  ,/,\n  6/CD\n  de/FW\n  octubre/FW\n  ”/FW\n  ,/,\n  dijo/FW\n  el/FW\n  (NP vocero/NN)\n  ,/,\n  (NP citado/NN por/NN la/NN)\n  (NP agencia/JJ Mehr/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP enfrentamientos/NN entre/NN Israel/NNP y/NNP)\n  (VP las/VBZ milicias/JJ)\n  del/FW\n  (NP movimiento/NN chií/NN Hezbola/NNP)\n  (VP en/VBZ (NP Líbano/NNP))\n  ,/,\n  (NP así/NN como/NN los/NN)\n  (NP bombardeos/JJ constantes/NNS)\n  (PP de/IN (NP Israel/NNP))\n  (NP a/DT diversas/NN zonas/NN del/NN Líbano/NNP)\n  ,/,\n  (NP han/NN causado/NN más/NN)\n  de/IN\n  1.900/CD\n  (NP muertes/NNS)\n  (NP y/JJ miles/NNS)\n  de/RB\n  (VP heridos/VBP (NP y/JJ desplazados/NN desde/NN))\n  mediados/FW\n  de/FW\n  septiembre/FW\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN cifras/NNS)\n  (VP oficiales/VBZ (NP libanesas/NNS))\n  ./.)",
+      "(S\n  (NP Israel/NNP también/NN bombardea/NN áreas/NNP)\n  de/FW\n  (NP Siria/NNP)\n  e/CC\n  (NP intercambia/JJ ataques/NNS)\n  (VP con/VBP (NP misiles/NNS))\n  (VP con/VB (NP los/JJ insurgentes/NNS))\n  (VP hutíes/VBP (NP que/JJ dominan/NN) (NP el/JJ noroeste/NN))\n  (PP de/IN (NP Yemen/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra de agresión contra el",
+        "position": [
+          1089,
+          1117
+        ],
+        "start": 1089,
+        "end": 1117
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "disparó",
+        "position": [
+          1209,
+          1216
+        ],
+        "start": 1209,
+        "end": 1216
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con los medios iraníes, impactaron diversas metas militares y de",
+        "position": [
+          1274,
+          1346
+        ],
+        "start": 1274,
+        "end": 1346
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1618,
+          1624
+        ],
+        "start": 1618,
+        "end": 1624
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          206,
+          214
+        ],
+        "start": 206,
+        "end": 214
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1585,
+          1592
+        ],
+        "start": 1585,
+        "end": 1592
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de irán",
+        "position": [
+          1376,
+          1394
+        ],
+        "start": 1376,
+        "end": 1394
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          669,
+          675
+        ],
+        "start": 669,
+        "end": 675
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1497,
+          1503
+        ],
+        "start": 1497,
+        "end": 1503
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado hebreo",
+        "position": [
+          1046,
+          1059
+        ],
+        "start": 1046,
+        "end": 1059
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 7 de octubre",
+        "position": [
+          285,
+          303
+        ],
+        "start": 285,
+        "end": 303
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 1.900",
+        "position": [
+          763,
+          775
+        ],
+        "start": 763,
+        "end": 775
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jafar Yazerlou",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Autoridad de Aviación Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Masud Pezeshkián",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado Mayor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Herzi Halevi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "agencia Mehr",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hezbola",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado hebreo",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Estado hebreo",
+        "relacion": "ENCONTRAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Estado hebreo",
+        "relacion": "ENCONTRAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "DISPARAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "REPRESENTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Masud Pezeshkián",
+        "relacion": "REPRESENTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Masud Pezeshkián",
+        "relacion": "REPRESENTAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REPRESENTAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Estado Mayor",
+        "relacion": "AFIRMAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "AFIRMAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Herzi Halevi",
+        "relacion": "AFIRMAR",
+        "objeto": "Irán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.009,
+    "neu": 0.991,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

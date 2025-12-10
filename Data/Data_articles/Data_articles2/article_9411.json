@@ -1,0 +1,782 @@
+{
+  "url": "https://www.telesurtv.net/hamas-confirma-la-muerte-de-su-lider-yahya-sinwar/",
+  "title": "Hamás confirma la muerte en combate de su líder Yahya Sinwar - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "caída",
+    "Hamás",
+    "Palestina",
+    "Resistencia",
+    "Sionismo",
+    "Yahya Sinwar"
+  ],
+  "text": "Este viernes, el movimiento de resistencia islámica palestina, Hamás, confirmó la caída en combate del líder de su Buró Político, Yahya Sinwar, a su vez que declaró el camino que seguirán luego de su martirio.\nSegún lo expresado por la resistencia palestina, “nuestras condiciones en cuanto a las negociaciones de tregua no cambiarán después del martirio de Sinwar”.\nSobre el liderazgo de Hamás, afirmaron que elegirán un nuevo líder para el movimiento y luego discutirán cualquier propuesta apegada a los intereses históricos del pueblo palestino de liberarse de la opresión que perpetra la ocupación sionista.\nEl martirio de Sinwar fue confirmado además por un alto cargo de Hamás, Basem Naim. “Es muy doloroso perder a seres queridos, especialmente a una persona como Yahya al-Sanwar, pero de lo que estamos seguros es que al final ganaremos”, manifestó.\nYahya Ibrahim Sinwar fue artífice de la Operación Diluvio de Al-Aqsa, llevada a cabo por Hamás el 7 de octubre de 2023 en los territorios palestinos ocupados. Tras ese hecho militar, considerado una derrota estratégica para Tel Aviv y que echó por tierra el carácter invencible del ejército de la ocupación, el líder palestino fue literalmente cazado por la entidad sionista.\nAsumió como cabeza de la resistencia luego del martirio de Ismail Haniyeh, en Teherán, a manos de los servicios de inteligencia israelíes, ocurrido el 31 de julio pasado.\nEl pasado jueves, en Gaza, tropas israelíes abrieron fuego contra un grupo de militantes de la resistencia, entre los que estaban Sinwar y sus guardespaldas, los cuales estaban apostados en un edificio en ruinas. Al notar que estaban armados, los soldados sionistas atacaron con artillería.\nSinwar fue alcanzado por el proyectil de un francotirador luego de resultar herido por el impacto directo de un tanque Merkava israelí. El líder de Hamás fue abatido mientras vestía su uniforme y portaba su arma.\nMedios israelíes admitieron durante las últimas horas que Sinwar se convirtió en un ícono legendario. “Ellos (los palestinos) observan a un hombre que no dejó de luchar, incluso después de sufrir heridas, hasta el último instante y la última gota de su sangre”, declaró la radio y televisión de Israel.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hamas-confirma-la-muerte-de-su-lider-yahya-sinwar/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 899,
+    "message_id": 78650,
+    "date": "2024-10-18T15:55:12+00:00",
+    "text": "teleSUR\nHamás confirma la muerte en combate de su líder Yahya Sinwar\nhttps://www.telesurtv.net/hamas-confirma-la-muerte-de-su-lider-yahya-sinwar/",
+    "photo_path": null,
+    "views": 2065,
+    "reactions": {
+      "😢": 27,
+      "🔥": 3,
+      "🤬": 2
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "este viernes, el movimiento de resistencia islámica palestina, hamás, confirmó la caída en combate del líder de su buró político, yahya sinwar, a su vez que declaró el camino que seguirán luego de su martirio. según lo expresado por la resistencia palestina, “nuestras condiciones en cuanto a las negociaciones de tregua no cambiarán después del martirio de sinwar”. sobre el liderazgo de hamás, afirmaron que elegirán un nuevo líder para el movimiento y luego discutirán cualquier propuesta apegada a los intereses históricos del pueblo palestino de liberarse de la opresión que perpetra la ocupación sionista. el martirio de sinwar fue confirmado además por un alto cargo de hamás, basem naim. “es muy doloroso perder a seres queridos, especialmente a una persona como yahya al-sanwar, pero de lo que estamos seguros es que al final ganaremos”, manifestó. yahya ibrahim sinwar fue artífice de la operación diluvio de al-aqsa, llevada a cabo por hamás el 7 de octubre de 2023 en los territorios palestinos ocupados. tras ese hecho militar, considerado una derrota estratégica para tel aviv y que echó por tierra el carácter invencible del ejército de la ocupación, el líder palestino fue literalmente cazado por la entidad sionista. asumió como cabeza de la resistencia luego del martirio de ismail haniyeh, en teherán, a manos de los servicios de inteligencia israelíes, ocurrido el 31 de julio pasado. el pasado jueves, en gaza, tropas israelíes abrieron fuego contra un grupo de militantes de la resistencia, entre los que estaban sinwar y sus guardespaldas, los cuales estaban apostados en un edificio en ruinas. al notar que estaban armados, los soldados sionistas atacaron con artillería. sinwar fue alcanzado por el proyectil de un francotirador luego de resultar herido por el impacto directo de un tanque merkava israelí. el líder de hamás fue abatido mientras vestía su uniforme y portaba su arma. medios israelíes admitieron durante las últimas horas que sinwar se convirtió en un ícono legendario. “ellos (los palestinos) observan a un hombre que no dejó de luchar, incluso después de sufrir heridas, hasta el último instante y la última gota de su sangre”, declaró la radio y televisión de israel.",
+    "tokens": [
+      "viernes",
+      ",",
+      "movimiento",
+      "resistencia",
+      "islámica",
+      "palestina",
+      ",",
+      "hamás",
+      ",",
+      "confirmó",
+      "caída",
+      "combate",
+      "líder",
+      "buró",
+      "político",
+      ",",
+      "yahya",
+      "sinwar",
+      ",",
+      "vez",
+      "declaró",
+      "camino",
+      "seguirán",
+      "luego",
+      "martirio",
+      ".",
+      "según",
+      "expresado",
+      "resistencia",
+      "palestina",
+      ",",
+      "“",
+      "condiciones",
+      "cuanto",
+      "negociaciones",
+      "tregua",
+      "cambiarán",
+      "después",
+      "martirio",
+      "sinwar",
+      "”",
+      ".",
+      "liderazgo",
+      "hamás",
+      ",",
+      "afirmaron",
+      "elegirán",
+      "nuevo",
+      "líder",
+      "movimiento",
+      "luego",
+      "discutirán",
+      "cualquier",
+      "propuesta",
+      "apegada",
+      "intereses",
+      "históricos",
+      "pueblo",
+      "palestino",
+      "liberarse",
+      "opresión",
+      "perpetra",
+      "ocupación",
+      "sionista",
+      ".",
+      "martirio",
+      "sinwar",
+      "confirmado",
+      "además",
+      "alto",
+      "cargo",
+      "hamás",
+      ",",
+      "basem",
+      "naim",
+      ".",
+      "“",
+      "doloroso",
+      "perder",
+      "seres",
+      "queridos",
+      ",",
+      "especialmente",
+      "persona",
+      "yahya",
+      "al-sanwar",
+      ",",
+      "seguros",
+      "final",
+      "ganaremos",
+      "”",
+      ",",
+      "manifestó",
+      ".",
+      "yahya",
+      "ibrahim",
+      "sinwar",
+      "artífice",
+      "operación",
+      "diluvio",
+      "al-aqsa",
+      ",",
+      "llevada",
+      "cabo",
+      "hamás",
+      "7",
+      "octubre",
+      "2023",
+      "territorios",
+      "palestinos",
+      "ocupados",
+      ".",
+      "tras",
+      "hecho",
+      "militar",
+      ",",
+      "considerado",
+      "derrota",
+      "estratégica",
+      "tel",
+      "aviv",
+      "echó",
+      "tierra",
+      "carácter",
+      "invencible",
+      "ejército",
+      "ocupación",
+      ",",
+      "líder",
+      "palestino",
+      "literalmente",
+      "cazado",
+      "entidad",
+      "sionista",
+      ".",
+      "asumió",
+      "cabeza",
+      "resistencia",
+      "luego",
+      "martirio",
+      "ismail",
+      "haniyeh",
+      ",",
+      "teherán",
+      ",",
+      "manos",
+      "servicios",
+      "inteligencia",
+      "israelíes",
+      ",",
+      "ocurrido",
+      "31",
+      "julio",
+      "pasado",
+      ".",
+      "pasado",
+      "jueves",
+      ",",
+      "gaza",
+      ",",
+      "tropas",
+      "israelíes",
+      "abrieron",
+      "fuego",
+      "grupo",
+      "militantes",
+      "resistencia",
+      ",",
+      "sinwar",
+      "guardespaldas",
+      ",",
+      "cuales",
+      "apostados",
+      "edificio",
+      "ruinas",
+      ".",
+      "notar",
+      "armados",
+      ",",
+      "soldados",
+      "sionistas",
+      "atacaron",
+      "artillería",
+      ".",
+      "sinwar",
+      "alcanzado",
+      "proyectil",
+      "francotirador",
+      "luego",
+      "resultar",
+      "herido",
+      "impacto",
+      "directo",
+      "tanque",
+      "merkava",
+      "israelí",
+      ".",
+      "líder",
+      "hamás",
+      "abatido",
+      "mientras",
+      "vestía",
+      "uniforme",
+      "portaba",
+      "arma",
+      ".",
+      "medios",
+      "israelíes",
+      "admitieron",
+      "últimas",
+      "horas",
+      "sinwar",
+      "convirtió",
+      "ícono",
+      "legendario",
+      ".",
+      "“",
+      "(",
+      "palestinos",
+      ")",
+      "observan",
+      "hombre",
+      "dejó",
+      "luchar",
+      ",",
+      "incluso",
+      "después",
+      "sufrir",
+      "heridas",
+      ",",
+      "último",
+      "instante",
+      "última",
+      "gota",
+      "sangre",
+      "”",
+      ",",
+      "declaró",
+      "radio",
+      "televisión",
+      "israel",
+      "."
+    ],
+    "token_count": 242,
+    "sentence_count": 14
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "NNS": 11,
+      "VBD": 3,
+      "FW": 88,
+      "NN": 116,
+      "IN": 20,
+      "JJ": 40,
+      "VBZ": 4,
+      "DT": 2,
+      "VBP": 9,
+      "CD": 2,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-FW": 1,
+      "FW-FW": 55,
+      "FW-NNP": 10,
+      "NNP-NN": 18,
+      "NN-NN": 58,
+      "NN-FW": 11,
+      "FW-NN": 13,
+      "NN-IN": 16,
+      "IN-FW": 9,
+      "NNP-NNP": 12,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-NN": 21,
+      "NN-JJ": 11,
+      "NN-NNP": 12,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 2,
+      "FW-NNS": 3,
+      "NNS-FW": 1,
+      "JJ-NNS": 4,
+      "NNS-IN": 1,
+      "IN-NN": 1,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "NN-VBZ": 2,
+      "IN-NNP": 5,
+      "NNP-FW": 5,
+      "JJ-JJ": 8,
+      "IN-JJ": 4,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "VBZ-JJ": 2,
+      "NNP-JJ": 3,
+      "FW-JJ": 4,
+      "JJ-FW": 3,
+      "NNP-IN": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-IN": 1,
+      "JJ-NNP": 4,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "NN-NNS": 3,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-FW": 40,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 13,
+      "NN-NN-NN": 31,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 9,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 2,
+      "JJ-NN-NN": 11,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 6,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 5,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 2,
+      "NN-FW-FW": 7,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 6,
+      "NN-NN-IN": 6,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 1,
+      "FW-FW-NN": 4,
+      "NN-NNP-NN": 6,
+      "NNP-NN-IN": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-NNP-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-IN": 1,
+      "CD-IN-JJ": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-JJ": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-NN": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NN-NNS": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-FW-FW": 1,
+      "IN-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "FW-NN-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "NN-NN-DT": 1,
+      "DT-NN-IN": 1,
+      "IN-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 116,
+        "FW": 88,
+        "NNP": 45,
+        "JJ": 40,
+        "IN": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 55,
+        "JJ-NN": 21,
+        "NNP-NN": 18,
+        "NN-IN": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 40,
+        "NN-NN-NN": 31,
+        "NNP-NN-NN": 13,
+        "JJ-NN-NN": 11,
+        "NN-IN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 14,
+    "chunk_counts": {
+      "NP": 92,
+      "VP": 18,
+      "PP": 9,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0519
+      },
+      {
+        "rule": "NP -> ('Hamás', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('martirio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "NP -> ('sionista', 'NN')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "S -> NP (',', ',') ('el', 'FW') ('movimiento', 'FW') ('de', 'FW') ('resistencia', 'FW') NP (',', ',') NP (',', ',') NP ('en', 'FW') NP ('del', 'FW') NP ('de', 'IN') ('su', 'FW') NP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('su', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('islámica', 'NN') ('palestina', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('confirmó', 'NN') ('la', 'NN') ('caída', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('combate', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "islámica palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Hamás"
+      },
+      {
+        "label": "NP",
+        "text": "confirmó la caída"
+      },
+      {
+        "label": "NP",
+        "text": "combate"
+      },
+      {
+        "label": "NP",
+        "text": "líder"
+      },
+      {
+        "label": "NP",
+        "text": "Buró Político"
+      },
+      {
+        "label": "NP",
+        "text": "Yahya Sinwar"
+      },
+      {
+        "label": "NP",
+        "text": "a su vez que declaró el camino que"
+      },
+      {
+        "label": "NP",
+        "text": "seguirán luego"
+      },
+      {
+        "label": "NP",
+        "text": "martirio"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "VP",
+        "text": "lo"
+      },
+      {
+        "label": "NP",
+        "text": "por"
+      },
+      {
+        "label": "NP",
+        "text": "palestina"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN viernes/NNS)\n  ,/,\n  el/FW\n  movimiento/FW\n  de/FW\n  resistencia/FW\n  (NP islámica/NN palestina/NN)\n  ,/,\n  (NP Hamás/NNP)\n  ,/,\n  (NP confirmó/NN la/NN caída/NN)\n  en/FW\n  (NP combate/NN)\n  del/FW\n  (NP líder/NN)\n  de/IN\n  su/FW\n  (NP Buró/NNP Político/NNP)\n  ,/,\n  (NP Yahya/NNP Sinwar/NNP)\n  ,/,\n  (NP a/DT su/NN vez/NN que/NN declaró/NN el/NN camino/NN que/NN)\n  (NP seguirán/JJ luego/NN)\n  de/IN\n  su/FW\n  (NP martirio/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP lo/VBZ)\n  expresado/FW\n  (NP por/NN)\n  la/FW\n  resistencia/FW\n  (NP palestina/NN)\n  ,/,\n  (NP “/NNP)\n  nuestras/FW\n  (NP condiciones/NNS)\n  en/FW\n  (VP cuanto/VBP (NP a/DT las/JJ negociaciones/NNS))\n  (PP de/IN (NP tregua/NN))\n  (NP no/DT cambiarán/NN)\n  (VP después/VBZ)\n  del/FW\n  (NP martirio/NN)\n  (PP de/IN (NP Sinwar/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP Sobre/NNP)\n  el/CC\n  liderazgo/FW\n  de/FW\n  (NP Hamás/NNP)\n  ,/,\n  (NP afirmaron/NN que/NN elegirán/NN)\n  (NP\n    un/JJ\n    nuevo/JJ\n    líder/NN\n    para/NN\n    el/NN\n    movimiento/NN\n    y/NN\n    luego/NN\n    discutirán/NN\n    cualquier/NN\n    propuesta/NN)\n  (VP apegada/VBZ (NP a/DT los/JJ intereses/NNS))\n  (VP históricos/VBP (NP del/JJ pueblo/NN palestino/NN))\n  de/FW\n  liberarse/FW\n  de/FW\n  la/FW\n  opresión/FW\n  que/FW\n  perpetra/FW\n  la/FW\n  ocupación/FW\n  (NP sionista/NN)\n  ./.)",
+      "(S\n  (NP El/NNP martirio/NN)\n  (PP de/IN (NP Sinwar/NNP))\n  (VP\n    fue/VBD\n    (NP confirmado/JJ además/NN por/NN)\n    (NP un/JJ alto/JJ cargo/NN))\n  (PP de/IN (NP Hamás/NNP))\n  ,/,\n  (NP Basem/NNP Naim/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Es/NNP muy/NN doloroso/NN perder/NN)\n  (NP a/DT seres/NNS)\n  queridos/RB\n  ,/,\n  (VP\n    especialmente/VBZ\n    (NP a/DT una/JJ persona/NN como/NN Yahya/NNP al-Sanwar/NN))\n  ,/,\n  (NP pero/NN)\n  de/FW\n  lo/FW\n  que/FW\n  estamos/FW\n  seguros/FW\n  es/FW\n  (NP que/NN)\n  (VP al/VBP (NP final/JJ ganaremos/NN ”/NN))\n  ,/,\n  (NP manifestó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          847,
+          856
+        ],
+        "start": 847,
+        "end": 856
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "operación diluvio de al-aqsa, llevada a cabo por hamás el 7 de octubre de 2023 en los territorios palestinos ocupados. tras ese hecho militar, considerado una derrota estratégica para tel aviv y que echó por tierra el carácter invencible del ejército de la ocupación, el líder",
+        "position": [
+          898,
+          1174
+        ],
+        "start": 898,
+        "end": 1174
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          592,
+          601
+        ],
+        "start": 592,
+        "end": 601
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          157,
+          164
+        ],
+        "start": 157,
+        "end": 164
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          52,
+          61
+        ],
+        "start": 52,
+        "end": 61
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio en",
+        "position": [
+          1598,
+          1609
+        ],
+        "start": 1598,
+        "end": 1609
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          956,
+          976
+        ],
+        "start": 956,
+        "end": 976
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yahya Sinwar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ismail Haniyeh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Basem Naim",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sinwar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yahya al-Sanwar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Buró Político",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yahya Ibrahim Sinwar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hamás",
+        "relacion": "CONFIRMAR",
+        "objeto": "Buró Político"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "CONFIRMAR",
+        "objeto": "Yahya Sinwar"
+      },
+      {
+        "sujeto": "Sinwar",
+        "relacion": "ABRIR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.987,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

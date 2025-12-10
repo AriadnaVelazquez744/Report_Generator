@@ -1,0 +1,574 @@
+{
+  "url": "https://www.telesurtv.net/mas-de-43-muertos-por-inundaciones-republica/",
+  "title": "Más de 43 muertos por inundaciones en República Democrática del Congo - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Colapso",
+    "Crisis ambiental",
+    "Inundaciones",
+    "kinshasa",
+    "lluvias"
+  ],
+  "text": "Las constantes lluvias en Kinshasa, capital de la República Democrática del Congo, han dejado al menos 43 muertos, 50 heridos y cerca de 3.000 desplazados, según el Ministerio del Interior congoleño, que alerta sobre el riesgo de nuevas precipitaciones en barrios vulnerables. Esta catástrofe, expone la falta de infraestructuras en una ciudad donde los barrios populares son los más afectados por la emergencia climática.\n\n\nMientras las autoridades intentan restablecer servicios básicos, como el agua y la electricidad, advierten a la población que evite zonas inundables como Ndjili o Matete, donde el peligro de electrocuciones y enfermedades como el cólera sigue latente.\n\nOrganizaciones sociales, comunicaron que la mayoría de las víctimas pertenecen a asentamientos informales, donde no hay sistemas de drenajes adecuados. Esta situación, convierte varias localidades del país, en sectores frágiles cada temporada de lluvias.\n\nEn este contexto, miles de familias permanecen en viviendas afectadas o en albergues temporales, expuestas a riesgos sanitarios y nuevas inundaciones. Por ello, la recurrencia de estas emergencias, evidencia la necesidad urgente de infraestructuras adaptadas al clima externo.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mas-de-43-muertos-por-inundaciones-republica/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1404,
+    "message_id": 91498,
+    "date": "2025-04-10T00:55:07+00:00",
+    "text": "teleSUR\nMás de 43 muertos por inundaciones en República Democrática del Congo\nhttps://www.telesurtv.net/mas-de-43-muertos-por-inundaciones-republica/",
+    "photo_path": null,
+    "views": 1755,
+    "reactions": {
+      "😢": 28,
+      "😱": 7
+    },
+    "total_reactions": 35
+  },
+  "preprocessing": {
+    "cleaned": "las constantes lluvias en kinshasa, capital de la república democrática del congo, han dejado al menos 43 muertos, 50 heridos y cerca de 3.000 desplazados, según el ministerio del interior congoleño, que alerta sobre el riesgo de nuevas precipitaciones en barrios vulnerables. esta catástrofe, expone la falta de infraestructuras en una ciudad donde los barrios populares son los más afectados por la emergencia climática. mientras las autoridades intentan restablecer servicios básicos, como el agua y la electricidad, advierten a la población que evite zonas inundables como ndjili o matete, donde el peligro de electrocuciones y enfermedades como el cólera sigue latente. organizaciones sociales, comunicaron que la mayoría de las víctimas pertenecen a asentamientos informales, donde no hay sistemas de drenajes adecuados. esta situación, convierte varias localidades del país, en sectores frágiles cada temporada de lluvias. en este contexto, miles de familias permanecen en viviendas afectadas o en albergues temporales, expuestas a riesgos sanitarios y nuevas inundaciones. por ello, la recurrencia de estas emergencias, evidencia la necesidad urgente de infraestructuras adaptadas al clima externo.",
+    "tokens": [
+      "constantes",
+      "lluvias",
+      "kinshasa",
+      ",",
+      "capital",
+      "república",
+      "democrática",
+      "congo",
+      ",",
+      "dejado",
+      "menos",
+      "43",
+      "muertos",
+      ",",
+      "50",
+      "heridos",
+      "cerca",
+      "3.000",
+      "desplazados",
+      ",",
+      "según",
+      "ministerio",
+      "interior",
+      "congoleño",
+      ",",
+      "alerta",
+      "riesgo",
+      "nuevas",
+      "precipitaciones",
+      "barrios",
+      "vulnerables",
+      ".",
+      "catástrofe",
+      ",",
+      "expone",
+      "falta",
+      "infraestructuras",
+      "ciudad",
+      "barrios",
+      "populares",
+      "afectados",
+      "emergencia",
+      "climática",
+      ".",
+      "mientras",
+      "autoridades",
+      "intentan",
+      "restablecer",
+      "servicios",
+      "básicos",
+      ",",
+      "agua",
+      "electricidad",
+      ",",
+      "advierten",
+      "población",
+      "evite",
+      "zonas",
+      "inundables",
+      "ndjili",
+      "matete",
+      ",",
+      "peligro",
+      "electrocuciones",
+      "enfermedades",
+      "cólera",
+      "sigue",
+      "latente",
+      ".",
+      "organizaciones",
+      "sociales",
+      ",",
+      "comunicaron",
+      "mayoría",
+      "víctimas",
+      "pertenecen",
+      "asentamientos",
+      "informales",
+      ",",
+      "sistemas",
+      "drenajes",
+      "adecuados",
+      ".",
+      "situación",
+      ",",
+      "convierte",
+      "varias",
+      "localidades",
+      "país",
+      ",",
+      "sectores",
+      "frágiles",
+      "cada",
+      "temporada",
+      "lluvias",
+      ".",
+      "contexto",
+      ",",
+      "miles",
+      "familias",
+      "permanecen",
+      "viviendas",
+      "afectadas",
+      "albergues",
+      "temporales",
+      ",",
+      "expuestas",
+      "riesgos",
+      "sanitarios",
+      "nuevas",
+      "inundaciones",
+      ".",
+      "ello",
+      ",",
+      "recurrencia",
+      "emergencias",
+      ",",
+      "evidencia",
+      "necesidad",
+      "urgente",
+      "infraestructuras",
+      "adaptadas",
+      "clima",
+      "externo",
+      "."
+    ],
+    "token_count": 125,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 15,
+      "VBZ": 6,
+      "JJ": 16,
+      "FW": 41,
+      "NN": 47,
+      "IN": 7,
+      "VBD": 1,
+      "$": 1,
+      "CD": 3,
+      "NNS": 15,
+      "VBP": 10,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-FW": 4,
+      "FW-NNP": 5,
+      "NNP-NN": 6,
+      "NN-IN": 6,
+      "IN-FW": 5,
+      "NNP-NNP": 2,
+      "NNP-FW": 2,
+      "NN-NN": 24,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 2,
+      "NN-CD": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 3,
+      "JJ-VBP": 1,
+      "VBP-NNP": 2,
+      "NN-FW": 5,
+      "FW-NN": 5,
+      "FW-NNS": 3,
+      "NNS-IN": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 2,
+      "NNS-NNP": 2,
+      "NNP-VBP": 2,
+      "VBP-NN": 2,
+      "FW-FW": 25,
+      "FW-JJ": 3,
+      "JJ-NN": 6,
+      "NN-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "JJ-JJ": 1,
+      "NN-NNP": 2,
+      "VBZ-NNS": 1,
+      "NN-NNS": 4,
+      "VBZ-NN": 1,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "JJ-NNP": 1,
+      "NN-VBZ": 2,
+      "VBZ-VBZ": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 4,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NN-NN-NN": 9,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 20,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-NNP": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-JJ": 1,
+      "JJ-NN-IN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-FW": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNP-VBP-JJ": 1,
+      "FW-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 47,
+        "FW": 41,
+        "JJ": 16,
+        "NNP": 15,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 25,
+        "NN-NN": 24,
+        "NNP-NN": 6,
+        "NN-IN": 6,
+        "JJ-NN": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 9,
+        "NN-IN-FW": 5,
+        "NNP-NN-NN": 5,
+        "NN-NN-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 50,
+      "VP": 16,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "VP -> ('como', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "S -> NP VP ('en', 'FW') NP (',', ',') NP ('de', 'FW') ('la', 'FW') NP ('del', 'FW') NP (',', ',') NP VP ('menos', '$') ('43', 'CD') NP (',', ',') ('50', 'CD') NP ('de', 'IN') ('3.000', 'CD') NP (',', ',') NP VP (',', ',') NP ('el', 'FW') NP ('de', 'IN') ('nuevas', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "VP -> ('constantes', 'VBZ') ('lluvias', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Kinshasa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('capital', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Democrática', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Congo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('han', 'NN') ('dejado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "constantes lluvias"
+      },
+      {
+        "label": "NP",
+        "text": "Kinshasa"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "República Democrática"
+      },
+      {
+        "label": "NP",
+        "text": "Congo"
+      },
+      {
+        "label": "NP",
+        "text": "han dejado"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      },
+      {
+        "label": "NP",
+        "text": "heridos y cerca"
+      },
+      {
+        "label": "NP",
+        "text": "desplazados"
+      },
+      {
+        "label": "NP",
+        "text": "según el Ministerio"
+      },
+      {
+        "label": "VP",
+        "text": "del Interior congoleño"
+      },
+      {
+        "label": "NP",
+        "text": "Interior congoleño"
+      },
+      {
+        "label": "NP",
+        "text": "que alerta sobre"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP constantes/VBZ lluvias/JJ)\n  en/FW\n  (NP Kinshasa/NNP)\n  ,/,\n  (NP capital/NN)\n  de/FW\n  la/FW\n  (NP República/NNP Democrática/NNP)\n  del/FW\n  (NP Congo/NNP)\n  ,/,\n  (NP han/NN dejado/NN)\n  (VP al/VBD)\n  menos/$\n  43/CD\n  (NP muertos/NN)\n  ,/,\n  50/CD\n  (NP heridos/NN y/NN cerca/NN)\n  de/IN\n  3.000/CD\n  (NP desplazados/NNS)\n  ,/,\n  (NP según/JJ el/NN Ministerio/NNP)\n  (VP del/VBZ (NP Interior/NNP congoleño/NN))\n  ,/,\n  (NP que/JJ alerta/NN sobre/NN)\n  el/FW\n  (NP riesgo/NN)\n  de/IN\n  nuevas/FW\n  (NP precipitaciones/NNS)\n  (PP en/IN (NP barrios/NNS vulnerables/NNS))\n  ./.)",
+      "(S\n  (NP Esta/NNP catástrofe/NN)\n  ,/,\n  (NP expone/NN la/NN)\n  falta/FW\n  de/FW\n  infraestructuras/FW\n  en/FW\n  (NP una/JJ ciudad/NN donde/NN los/NN)\n  (NP barrios/JJ populares/NNS)\n  (VP\n    son/VBP\n    (NP\n      los/JJ\n      más/JJ\n      afectados/NN\n      por/NN\n      la/NN\n      emergencia/NN\n      climática/NN))\n  ./.)",
+      "(S\n  (NP Mientras/NNP)\n  (VP\n    las/VBZ\n    (NP autoridades/NNS)\n    (NP intentan/JJ restablecer/NN servicios/NNS básicos/NN))\n  ,/,\n  (NP como/NN el/NN agua/NN y/NN la/NN electricidad/NN)\n  ,/,\n  (VP\n    advierten/VB\n    (NP a/DT la/NN población/NN que/NN)\n    (NP evite/JJ zonas/NN inundables/NNS))\n  (VP como/VBP (NP Ndjili/NNP))\n  o/MD\n  (NP Matete/NNP)\n  ,/,\n  (NP donde/NN el/NN peligro/NN)\n  de/IN\n  electrocuciones/FW\n  y/FW\n  (NP enfermedades/NNS)\n  (VP como/VBP (NP el/JJ cólera/NN sigue/NN latente/NN))\n  ./.)",
+      "(S\n  (NP Organizaciones/NNS sociales/NNS)\n  ,/,\n  (NP comunicaron/NN que/NN)\n  la/FW\n  mayoría/FW\n  de/FW\n  las/FW\n  víctimas/FW\n  pertenecen/FW\n  (NP a/DT asentamientos/NN)\n  (VP informales/VBZ)\n  ,/,\n  (VP donde/VBZ (NP no/DT hay/JJ sistemas/NN))\n  de/IN\n  drenajes/FW\n  (NP adecuados/NN)\n  ./.)",
+      "(S\n  (NP Esta/NNP situación/NN)\n  ,/,\n  (NP convierte/NN varias/NNS)\n  (VP localidades/VBZ (NP del/JJ país/NN))\n  ,/,\n  en/FW\n  (NP sectores/NNS)\n  (VP frágiles/VBZ)\n  (VP cada/VBP (NP temporada/NN))\n  de/IN\n  lluvias/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RECURSOS_NATURALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          36,
+          43
+        ],
+        "start": 36,
+        "end": 43
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          498,
+          502
+        ],
+        "start": 498,
+        "end": 502
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          508,
+          520
+        ],
+        "start": 508,
+        "end": 520
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 3.000",
+        "position": [
+          128,
+          142
+        ],
+        "start": 128,
+        "end": 142
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ndjili",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Democrática del Congo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Matete",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organizaciones",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kinshasa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio del Interior",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Kinshasa",
+        "relacion": "DEJAR",
+        "objeto": "Ministerio del Interior"
+      },
+      {
+        "sujeto": "República Democrática del Congo",
+        "relacion": "DEJAR",
+        "objeto": "Ministerio del Interior"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.987,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

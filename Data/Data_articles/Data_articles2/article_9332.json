@@ -1,0 +1,912 @@
+{
+  "url": "https://www.telesurtv.net/rusia-venezuela-y-mexico-ofrecen-ayuda-a-cuba-tras-compleja-situacion-energetica/",
+  "title": "Rusia, Venezuela y México ofrecen ayuda a Cuba tras compleja situación energética - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ayuda",
+    "Cuba",
+    "Sistema Eléctrico Nacional"
+  ],
+  "text": "Los Gobiernos de Rusia, Venezuela y México, entre otros, han hecho ofrecimientos de ayuda a Cuba en el marco de la compleja situación energética que vive el país, la cual ha provocado la desconexión del Sistema Electroenergético Nacional (SNE), informó este domingo una fuente oficial.\nEl ministro cubano de Relaciones Exteriores, Bruno Rodríguez, indicó en un mensaje publicado en su cuenta de la red social X que las autoridades de la Isla están en pláticas para concretar esos ofrecimientos.\n“Agradecemos los esfuerzos y el apoyo inmediato ofrecido por los gobiernos de Venezuela, México, Colombia, Rusia y Barbados para hacer frente a la actual situación del sistema electroenergético nacional”, señaló el canciller en su cuenta de la red social X.\n“Cuba está en conversaciones para concretar (el) recibo de estas ayudas”, especificó el jefe de la diplomacia de la mayor de las Antillas.\nLa Unión Nacional Eléctrica de Cuba (UNE) anunció el domingo el inicio de trabajos para recuperar el sistema electroenergético en el país y tratar de resolver las fallas técnicas, las cuales se agravaron el viernes pasado cuando hubo una desconexión del SEN.\nEn otra publicación, el canciller Rodríguez puntualizó que el bloqueo impuesto por EE.UU. es la “principal causa de las limitaciones y daños que sufre nuestro pueblo”.\n“Daños en 18 días de bloqueo equivalen al costo anual del mantenimiento del Sistema Electroenergético Nacional (sin incluir combustible ni inversiones) alrededor de $250 millones (de dólares)”, explicó el ministro.\n“Tumba el Bloqueo y no habrá apagones; así el gobierno de Estados Unidos podría apoyar al pueblo cubano…, si quisiera…”, escribió en su cuenta de X.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/rusia-venezuela-y-mexico-ofrecen-ayuda-a-cuba-tras-compleja-situacion-energetica/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 769,
+    "message_id": 78784,
+    "date": "2024-10-21T08:55:07+00:00",
+    "text": "teleSUR\nRusia, Venezuela y México ofrecen ayuda a Cuba tras compleja situación energética\nhttps://www.telesurtv.net/rusia-venezuela-y-mexico-ofrecen-ayuda-a-cuba-tras-compleja-situacion-energetica/",
+    "photo_path": null,
+    "views": 3438,
+    "reactions": {
+      "❤": 95,
+      "👍": 22,
+      "👏": 10,
+      "⚡": 2,
+      "👎": 1
+    },
+    "total_reactions": 130
+  },
+  "preprocessing": {
+    "cleaned": "los gobiernos de rusia, venezuela y méxico, entre otros, han hecho ofrecimientos de ayuda a cuba en el marco de la compleja situación energética que vive el país, la cual ha provocado la desconexión del sistema electroenergético nacional (sne), informó este domingo una fuente oficial. el ministro cubano de relaciones exteriores, bruno rodríguez, indicó en un mensaje publicado en su cuenta de la red social x que las autoridades de la isla están en pláticas para concretar esos ofrecimientos. “agradecemos los esfuerzos y el apoyo inmediato ofrecido por los gobiernos de venezuela, méxico, colombia, rusia y barbados para hacer frente a la actual situación del sistema electroenergético nacional”, señaló el canciller en su cuenta de la red social x. “cuba está en conversaciones para concretar (el) recibo de estas ayudas”, especificó el jefe de la diplomacia de la mayor de las antillas. la unión nacional eléctrica de cuba (une) anunció el domingo el inicio de trabajos para recuperar el sistema electroenergético en el país y tratar de resolver las fallas técnicas, las cuales se agravaron el viernes pasado cuando hubo una desconexión del sen. en otra publicación, el canciller rodríguez puntualizó que el bloqueo impuesto por ee.uu. es la “principal causa de las limitaciones y daños que sufre nuestro pueblo”. “daños en 18 días de bloqueo equivalen al costo anual del mantenimiento del sistema electroenergético nacional (sin incluir combustible ni inversiones) alrededor de $250 millones (de dólares)”, explicó el ministro. “tumba el bloqueo y no habrá apagones; así el gobierno de estados unidos podría apoyar al pueblo cubano…, si quisiera…”, escribió en su cuenta de x.",
+    "tokens": [
+      "gobiernos",
+      "rusia",
+      ",",
+      "venezuela",
+      "méxico",
+      ",",
+      ",",
+      "hecho",
+      "ofrecimientos",
+      "ayuda",
+      "cuba",
+      "marco",
+      "compleja",
+      "situación",
+      "energética",
+      "vive",
+      "país",
+      ",",
+      "provocado",
+      "desconexión",
+      "sistema",
+      "electroenergético",
+      "nacional",
+      "(",
+      "sne",
+      ")",
+      ",",
+      "informó",
+      "domingo",
+      "fuente",
+      "oficial",
+      ".",
+      "ministro",
+      "cubano",
+      "relaciones",
+      "exteriores",
+      ",",
+      "bruno",
+      "rodríguez",
+      ",",
+      "indicó",
+      "mensaje",
+      "publicado",
+      "cuenta",
+      "red",
+      "social",
+      "x",
+      "autoridades",
+      "isla",
+      "pláticas",
+      "concretar",
+      "ofrecimientos",
+      ".",
+      "“",
+      "agradecemos",
+      "esfuerzos",
+      "apoyo",
+      "inmediato",
+      "ofrecido",
+      "gobiernos",
+      "venezuela",
+      ",",
+      "méxico",
+      ",",
+      "colombia",
+      ",",
+      "rusia",
+      "barbados",
+      "hacer",
+      "frente",
+      "actual",
+      "situación",
+      "sistema",
+      "electroenergético",
+      "nacional",
+      "”",
+      ",",
+      "señaló",
+      "canciller",
+      "cuenta",
+      "red",
+      "social",
+      "x",
+      ".",
+      "“",
+      "cuba",
+      "conversaciones",
+      "concretar",
+      "(",
+      ")",
+      "recibo",
+      "ayudas",
+      "”",
+      ",",
+      "especificó",
+      "jefe",
+      "diplomacia",
+      "mayor",
+      "antillas",
+      ".",
+      "unión",
+      "nacional",
+      "eléctrica",
+      "cuba",
+      "(",
+      "une",
+      ")",
+      "anunció",
+      "domingo",
+      "inicio",
+      "trabajos",
+      "recuperar",
+      "sistema",
+      "electroenergético",
+      "país",
+      "tratar",
+      "resolver",
+      "fallas",
+      "técnicas",
+      ",",
+      "cuales",
+      "agravaron",
+      "viernes",
+      "pasado",
+      "desconexión",
+      "sen",
+      ".",
+      "publicación",
+      ",",
+      "canciller",
+      "rodríguez",
+      "puntualizó",
+      "bloqueo",
+      "impuesto",
+      "ee.uu.",
+      "“",
+      "principal",
+      "causa",
+      "limitaciones",
+      "daños",
+      "sufre",
+      "pueblo",
+      "”",
+      ".",
+      "“",
+      "daños",
+      "18",
+      "días",
+      "bloqueo",
+      "equivalen",
+      "costo",
+      "anual",
+      "mantenimiento",
+      "sistema",
+      "electroenergético",
+      "nacional",
+      "(",
+      "incluir",
+      "combustible",
+      "inversiones",
+      ")",
+      "alrededor",
+      "$",
+      "250",
+      "millones",
+      "(",
+      "dólares",
+      ")",
+      "”",
+      ",",
+      "explicó",
+      "ministro",
+      ".",
+      "“",
+      "tumba",
+      "bloqueo",
+      "apagones",
+      ";",
+      "así",
+      "gobierno",
+      "unidos",
+      "podría",
+      "apoyar",
+      "pueblo",
+      "cubano…",
+      ",",
+      "si",
+      "quisiera…",
+      "”",
+      ",",
+      "escribió",
+      "cuenta",
+      "x",
+      "."
+    ],
+    "token_count": 194,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "IN": 18,
+      "FW": 50,
+      "NNS": 11,
+      "VBP": 11,
+      "JJ": 32,
+      "NN": 79,
+      "VBZ": 7,
+      "RB": 2,
+      "CD": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 22,
+      "NNP-IN": 2,
+      "IN-NNP": 5,
+      "NNP-FW": 4,
+      "FW-NNS": 5,
+      "NNS-VBP": 9,
+      "VBP-JJ": 8,
+      "JJ-FW": 1,
+      "FW-FW": 27,
+      "FW-NNP": 4,
+      "FW-NN": 6,
+      "NN-NN": 41,
+      "NN-JJ": 6,
+      "JJ-NN": 21,
+      "NN-FW": 7,
+      "FW-JJ": 7,
+      "NNP-NN": 8,
+      "JJ-JJ": 5,
+      "JJ-NNP": 2,
+      "NN-IN": 14,
+      "IN-JJ": 3,
+      "IN-FW": 8,
+      "NN-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-NNP": 7,
+      "NNP-VBZ": 5,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "VBZ-FW": 2,
+      "JJ-NNS": 3,
+      "VBP-RB": 1,
+      "RB-JJ": 2,
+      "VBZ-CD": 1,
+      "CD-NN": 1,
+      "FW-VBP": 1,
+      "VBP-IN": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "VBZ-NNP": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-RB": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 12,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-VBP": 5,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 19,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 22,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-FW": 3,
+      "NN-FW-JJ": 3,
+      "FW-JJ-NN": 5,
+      "NN-FW-FW": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NN-NN-IN": 6,
+      "NN-IN-NNP": 3,
+      "NNP-NN-FW": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 3,
+      "JJ-NN-IN": 8,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 3,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 4,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 6,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-NNS": 2,
+      "IN-FW-FW": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NN-JJ": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-FW-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "VBZ-FW-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 50,
+        "NNP": 42,
+        "JJ": 32,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 27,
+        "NNP-NNP": 22,
+        "JJ-NN": 21,
+        "NN-IN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 19,
+        "NNP-NNP-NNP": 12,
+        "JJ-NN-NN": 8,
+        "JJ-NN-IN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 72,
+      "PP": 5,
+      "VP": 14,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('su', 'JJ') ('cuenta', 'NN')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') NP NP ('de', 'FW') ('ayuda', 'FW') NP ('en', 'FW') ('el', 'FW') ('marco', 'FW') ('de', 'FW') ('la', 'FW') ('compleja', 'FW') NP NP (',', ',') ('la', 'FW') NP ('desconexión', 'FW') ('del', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('Gobiernos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP') ('y', 'NNP') ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('entre', 'NN') ('otros', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('han', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('hecho', 'JJ') ('ofrecimientos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los Gobiernos"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela y México"
+      },
+      {
+        "label": "NP",
+        "text": "entre otros"
+      },
+      {
+        "label": "NP",
+        "text": "han"
+      },
+      {
+        "label": "NP",
+        "text": "hecho ofrecimientos"
+      },
+      {
+        "label": "NP",
+        "text": "a Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "situación energética que"
+      },
+      {
+        "label": "NP",
+        "text": "vive el país"
+      },
+      {
+        "label": "NP",
+        "text": "cual ha provocado la"
+      },
+      {
+        "label": "NP",
+        "text": "Sistema Electroenergético Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "SNE"
+      },
+      {
+        "label": "NP",
+        "text": "informó este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "una fuente oficial"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP Gobiernos/NNP)\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP Venezuela/NNP y/NNP México/NNP)\n  ,/,\n  (NP entre/NN otros/NNS)\n  ,/,\n  (NP han/NN)\n  (NP hecho/JJ ofrecimientos/NN)\n  de/FW\n  ayuda/FW\n  (NP a/DT Cuba/NNP)\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  compleja/FW\n  (NP situación/NN energética/NN que/NN)\n  (NP vive/JJ el/NN país/NN)\n  ,/,\n  la/FW\n  (NP cual/JJ ha/NN provocado/NN la/NN)\n  desconexión/FW\n  del/FW\n  (NP Sistema/NNP Electroenergético/NNP Nacional/NNP)\n  (/(\n  (NP SNE/NNP)\n  )/)\n  ,/,\n  (NP informó/JJ este/NN domingo/NN)\n  (NP una/JJ fuente/JJ oficial/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (NP ministro/JJ cubano/NN)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  ,/,\n  (NP Bruno/NNP Rodríguez/NNP)\n  ,/,\n  (NP indicó/NN)\n  en/FW\n  (NP un/JJ mensaje/NN publicado/NN)\n  (PP en/IN (NP su/JJ cuenta/NN))\n  de/IN\n  la/FW\n  (NP red/JJ social/JJ X/NNP que/NN las/NNS)\n  (VP autoridades/VBZ)\n  de/IN\n  la/FW\n  (NP Isla/NNP)\n  están/FW\n  en/FW\n  pláticas/FW\n  para/FW\n  (NP concretar/NN esos/NN ofrecimientos/NN)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Agradecemos/NNP\n    los/NN\n    esfuerzos/NN\n    y/NN\n    el/NN\n    apoyo/NN\n    inmediato/NN\n    ofrecido/NN\n    por/NN)\n  (NP los/JJ gobiernos/NN)\n  (PP de/IN (NP Venezuela/NNP))\n  ,/,\n  (NP México/NNP)\n  ,/,\n  (NP Colombia/NNP)\n  ,/,\n  (NP Rusia/NNP y/NNP Barbados/NNP para/NN hacer/NN)\n  (VP\n    frente/VBZ\n    (NP a/DT la/NN)\n    (NP actual/JJ situación/NN del/NN sistema/NN))\n  (VP electroenergético/VBP (NP nacional/JJ ”/NN))\n  ,/,\n  (ADJP señaló/JJ)\n  el/FW\n  (NP canciller/NN)\n  (PP en/IN (NP su/JJ cuenta/NN))\n  de/IN\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Cuba/NNP está/NN en/NN conversaciones/NNS)\n  (VP para/VBP (NP concretar/NN))\n  (/(\n  (NP el/NN)\n  )/)\n  (NP recibo/NN)\n  de/IN\n  estas/FW\n  (NP ayudas/JJ ”/NN)\n  ,/,\n  (ADJP especificó/JJ)\n  el/FW\n  (NP jefe/NN)\n  de/IN\n  la/FW\n  diplomacia/FW\n  de/FW\n  la/FW\n  mayor/FW\n  de/FW\n  las/FW\n  (NP Antillas/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP Unión/NNP Nacional/NNP Eléctrica/NNP)\n  de/FW\n  (NP Cuba/NNP)\n  (/(\n  (NP UNE/NNP)\n  )/)\n  (VP anunció/VBP (NP el/JJ domingo/NN el/NN inicio/NN))\n  de/IN\n  trabajos/FW\n  para/FW\n  recuperar/FW\n  el/FW\n  (NP sistema/NN electroenergético/NN)\n  en/IN\n  el/FW\n  país/FW\n  y/FW\n  (NP tratar/NN)\n  de/IN\n  resolver/FW\n  las/FW\n  (NP fallas/NNS técnicas/NN)\n  ,/,\n  (NP las/JJ cuales/NNS)\n  (VP se/VBP agravaron/RB (NP el/JJ viernes/NNS))\n  (VP\n    pasado/VBP\n    (NP cuando/JJ hubo/NN)\n    (NP una/JJ desconexión/NN del/NN SEN/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "POLITICAS_PUBLICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1221,
+          1229
+        ],
+        "start": 1221,
+        "end": 1229
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          700,
+          706
+        ],
+        "start": 700,
+        "end": 706
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          245,
+          252
+        ],
+        "start": 245,
+        "end": 252
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          1513,
+          1520
+        ],
+        "start": 1513,
+        "end": 1520
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "apagones",
+        "position": [
+          1563,
+          1571
+        ],
+        "start": 1563,
+        "end": 1571
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          1580,
+          1606
+        ],
+        "start": 1580,
+        "end": 1606
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "apoyo inmediato ofrecido por los gobiernos de venezuela, méxico, colombia, rusia y barbados para hacer frente a la actual situación del sistema electroenergético nacional”, señaló el canciller en su cuenta de la red social",
+        "position": [
+          527,
+          749
+        ],
+        "start": 527,
+        "end": 749
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          92,
+          96
+        ],
+        "start": 92,
+        "end": 96
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1592,
+          1606
+        ],
+        "start": 1592,
+        "end": 1606
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          36,
+          42
+        ],
+        "start": 36,
+        "end": 42
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          17,
+          22
+        ],
+        "start": 17,
+        "end": 22
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1213,
+          1220
+        ],
+        "start": 1213,
+        "end": 1220
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "250 millones",
+        "position": [
+          1485,
+          1497
+        ],
+        "start": 1485,
+        "end": 1497
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bruno Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antillas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sistema Electroenergético Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unión Nacional Eléctrica de Cuba",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Barbados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobiernos de Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Isla",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SEN",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobiernos de Rusia",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Gobiernos de Rusia",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "Sistema Electroenergético Nacional"
+      },
+      {
+        "sujeto": "Gobiernos de Rusia",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "SNE"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "Sistema Electroenergético Nacional"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "SNE"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "Sistema Electroenergético Nacional"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "SNE"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "Sistema Electroenergético Nacional"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "HACER_INFORMAR",
+        "objeto": "SNE"
+      },
+      {
+        "sujeto": "Relaciones Exteriores",
+        "relacion": "INDICAR",
+        "objeto": "Isla"
+      },
+      {
+        "sujeto": "Bruno Rodríguez",
+        "relacion": "INDICAR",
+        "objeto": "Isla"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Antillas"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Antillas"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Colombia",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Antillas"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Antillas"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Barbados"
+      },
+      {
+        "sujeto": "Barbados",
+        "relacion": "AGRADECER_SE_ALAR_ESPECIFICAR",
+        "objeto": "Antillas"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "ESTAR_SE_ALAR_ESPECIFICAR",
+        "objeto": "Antillas"
+      },
+      {
+        "sujeto": "Unión Nacional Eléctrica de Cuba",
+        "relacion": "ANUNCIAR",
+        "objeto": "SEN"
+      },
+      {
+        "sujeto": "UNE",
+        "relacion": "ANUNCIAR",
+        "objeto": "SEN"
+      },
+      {
+        "sujeto": "Rodríguez",
+        "relacion": "PUNTUALIZAR",
+        "objeto": "EE.UU."
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2263,
+    "pos": 0.016,
+    "neu": 0.976,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

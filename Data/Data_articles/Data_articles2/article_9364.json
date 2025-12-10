@@ -1,0 +1,869 @@
+{
+  "url": "https://www.telesurtv.net/gobierno-de-bolivia-expresa-solidaridad-con-cuba-por-situacion-energetica/",
+  "title": "Gobierno de Bolivia expresa solidaridad con Cuba por situación energética - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Sistema Eléctrico Nacional",
+    "solidaridad"
+  ],
+  "text": "El Gobierno de Bolivia expresó este sábado su solidaridad con el pueblo y el Gobierno de Cuba, por la situación energética que atraviesa el país tras tras la salida de la termoeléctrica Antonio Guiteras en horas de la mañana del viernes, que provocó su desconexión.\nPor medio de un comunicado, la Cancillería boliviana rechazó “los planes de grupos disidentes de ultraderecha que, desde el exterior, buscan aprovechar esta situación para desestabilizar al Gobierno del presidente Miguel Díaz Canel y convulsionar el país”.\nEl Ministerio de Relaciones Exteriores del país suramericano hizo un llamado a los Gobiernos y pueblos del mundo para que se cumplan “las más de veinte resoluciones” aprobadas en la Organización de Naciones Unidas (ONU) que “piden el cese del bloqueo económico comercial de EE.UU. a Cuba, que es la causa de la angustia y sufrimiento del pueblo cubano”.\nEl Sistema Energético Nacional (SEN) se desconectó en la víspera a las 11H07 (hora local), tras lo cual las autoridades y trabajadores del Ministerio de Energía y Minas (Minem) comenzaron a aunar esfuerzos para restablecer el servicio.\nComenzó entonces a trabajarse con microsistemas de generación para llevar energía a las termoeléctricas y arrancar unidades de termoeléctricas, disponibles en distintas provincias; sin embargo, en horas de la mañana de este sábado, se anunció que una avería provocó la desconexión de la región occidental.\nSin embargo, las autoridades esperan que aumente de manera progresiva la capacidad de generación eléctrica, con la entrada en funcionamiento de las unidades de Santa Cruz del Norte, Mariel, y la central flotante.\nLa situación de emergencia energética se origina en la política de recrudecimiento de la guerra económica y la persecución energética por parte del Gobierno de Estados Unidos, lo que dificulta la importación de combustibles y de infraestructura para reparar las fuentes generadoras de electricidad.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gobierno-de-bolivia-expresa-solidaridad-con-cuba-por-situacion-energetica/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 822,
+    "message_id": 78729,
+    "date": "2024-10-19T23:55:12+00:00",
+    "text": "teleSUR\nGobierno de Bolivia expresa solidaridad con Cuba por situación energética\nhttps://www.telesurtv.net/gobierno-de-bolivia-expresa-solidaridad-con-cuba-por-situacion-energetica/",
+    "photo_path": null,
+    "views": 2826,
+    "reactions": {
+      "👍": 54,
+      "👏": 4,
+      "👎": 2
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de bolivia expresó este sábado su solidaridad con el pueblo y el gobierno de cuba, por la situación energética que atraviesa el país tras tras la salida de la termoeléctrica antonio guiteras en horas de la mañana del viernes, que provocó su desconexión. por medio de un comunicado, la cancillería boliviana rechazó “los planes de grupos disidentes de ultraderecha que, desde el exterior, buscan aprovechar esta situación para desestabilizar al gobierno del presidente miguel díaz canel y convulsionar el país”. el ministerio de relaciones exteriores del país suramericano hizo un llamado a los gobiernos y pueblos del mundo para que se cumplan “las más de veinte resoluciones” aprobadas en la organización de naciones unidas (onu) que “piden el cese del bloqueo económico comercial de ee.uu. a cuba, que es la causa de la angustia y sufrimiento del pueblo cubano”. el sistema energético nacional (sen) se desconectó en la víspera a las 11h07 (hora local), tras lo cual las autoridades y trabajadores del ministerio de energía y minas (minem) comenzaron a aunar esfuerzos para restablecer el servicio. comenzó entonces a trabajarse con microsistemas de generación para llevar energía a las termoeléctricas y arrancar unidades de termoeléctricas, disponibles en distintas provincias; sin embargo, en horas de la mañana de este sábado, se anunció que una avería provocó la desconexión de la región occidental. sin embargo, las autoridades esperan que aumente de manera progresiva la capacidad de generación eléctrica, con la entrada en funcionamiento de las unidades de santa cruz del norte, mariel, y la central flotante. la situación de emergencia energética se origina en la política de recrudecimiento de la guerra económica y la persecución energética por parte del gobierno de estados unidos, lo que dificulta la importación de combustibles y de infraestructura para reparar las fuentes generadoras de electricidad.",
+    "tokens": [
+      "gobierno",
+      "bolivia",
+      "expresó",
+      "sábado",
+      "solidaridad",
+      "pueblo",
+      "gobierno",
+      "cuba",
+      ",",
+      "situación",
+      "energética",
+      "atraviesa",
+      "país",
+      "tras",
+      "tras",
+      "salida",
+      "termoeléctrica",
+      "antonio",
+      "guiteras",
+      "horas",
+      "mañana",
+      "viernes",
+      ",",
+      "provocó",
+      "desconexión",
+      ".",
+      "medio",
+      "comunicado",
+      ",",
+      "cancillería",
+      "boliviana",
+      "rechazó",
+      "“",
+      "planes",
+      "grupos",
+      "disidentes",
+      "ultraderecha",
+      ",",
+      "exterior",
+      ",",
+      "buscan",
+      "aprovechar",
+      "situación",
+      "desestabilizar",
+      "gobierno",
+      "presidente",
+      "miguel",
+      "díaz",
+      "canel",
+      "convulsionar",
+      "país",
+      "”",
+      ".",
+      "ministerio",
+      "relaciones",
+      "exteriores",
+      "país",
+      "suramericano",
+      "hizo",
+      "llamado",
+      "gobiernos",
+      "pueblos",
+      "mundo",
+      "cumplan",
+      "“",
+      "veinte",
+      "resoluciones",
+      "”",
+      "aprobadas",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "“",
+      "piden",
+      "cese",
+      "bloqueo",
+      "económico",
+      "comercial",
+      "ee.uu.",
+      "cuba",
+      ",",
+      "causa",
+      "angustia",
+      "sufrimiento",
+      "pueblo",
+      "cubano",
+      "”",
+      ".",
+      "sistema",
+      "energético",
+      "nacional",
+      "(",
+      "sen",
+      ")",
+      "desconectó",
+      "víspera",
+      "11h07",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ",",
+      "tras",
+      "autoridades",
+      "trabajadores",
+      "ministerio",
+      "energía",
+      "minas",
+      "(",
+      "minem",
+      ")",
+      "comenzaron",
+      "aunar",
+      "esfuerzos",
+      "restablecer",
+      "servicio",
+      ".",
+      "comenzó",
+      "entonces",
+      "trabajarse",
+      "microsistemas",
+      "generación",
+      "llevar",
+      "energía",
+      "termoeléctricas",
+      "arrancar",
+      "unidades",
+      "termoeléctricas",
+      ",",
+      "disponibles",
+      "distintas",
+      "provincias",
+      ";",
+      "embargo",
+      ",",
+      "horas",
+      "mañana",
+      "sábado",
+      ",",
+      "anunció",
+      "avería",
+      "provocó",
+      "desconexión",
+      "región",
+      "occidental",
+      ".",
+      "embargo",
+      ",",
+      "autoridades",
+      "esperan",
+      "aumente",
+      "manera",
+      "progresiva",
+      "capacidad",
+      "generación",
+      "eléctrica",
+      ",",
+      "entrada",
+      "funcionamiento",
+      "unidades",
+      "santa",
+      "cruz",
+      "norte",
+      ",",
+      "mariel",
+      ",",
+      "central",
+      "flotante",
+      ".",
+      "situación",
+      "emergencia",
+      "energética",
+      "origina",
+      "política",
+      "recrudecimiento",
+      "guerra",
+      "económica",
+      "persecución",
+      "energética",
+      "parte",
+      "gobierno",
+      "unidos",
+      ",",
+      "dificulta",
+      "importación",
+      "combustibles",
+      "infraestructura",
+      "reparar",
+      "fuentes",
+      "generadoras",
+      "electricidad",
+      "."
+    ],
+    "token_count": 195,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "IN": 10,
+      "CC": 1,
+      "NN": 76,
+      "JJ": 22,
+      "FW": 103,
+      "VBP": 9,
+      "NNS": 14,
+      "VBD": 1,
+      "CD": 1,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 19,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NN": 40,
+      "NN-JJ": 6,
+      "JJ-NN": 12,
+      "NN-FW": 12,
+      "FW-NNP": 12,
+      "NNP-FW": 9,
+      "NNP-NN": 9,
+      "NN-VBP": 3,
+      "VBP-NN": 3,
+      "NN-NNS": 6,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "JJ-FW": 3,
+      "FW-FW": 74,
+      "FW-NNS": 4,
+      "NN-NNP": 7,
+      "FW-NN": 10,
+      "JJ-NNS": 3,
+      "NNS-IN": 5,
+      "IN-FW": 4,
+      "IN-JJ": 2,
+      "JJ-JJ": 2,
+      "VBP-IN": 1,
+      "NNP-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "FW-CD": 1,
+      "CD-JJ": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 3,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 2,
+      "NN-IN": 2,
+      "IN-NN": 1,
+      "IN-NNS": 1,
+      "FW-JJ": 1,
+      "NNS-NNP": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-NN": 20,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 9,
+      "NN-NN-FW": 5,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-VBP": 3,
+      "NN-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 61,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 8,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 4,
+      "IN-NNP-NNP": 1,
+      "FW-NN-NN": 3,
+      "NN-FW-NN": 2,
+      "VBP-NN-FW": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 2,
+      "IN-FW-NN": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-IN": 3,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-JJ": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 103,
+        "NN": 76,
+        "NNP": 44,
+        "JJ": 22,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 74,
+        "NN-NN": 40,
+        "NNP-NNP": 19,
+        "JJ-NN": 12,
+        "NN-FW": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 61,
+        "NN-NN-NN": 20,
+        "JJ-NN-NN": 9,
+        "NN-FW-FW": 8,
+        "FW-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 69,
+      "PP": 3,
+      "VP": 15,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0312
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "S -> NP PP ('expresó', 'CC') NP NP ('el', 'FW') NP ('de', 'FW') NP (',', ',') NP VP VP ('salida', 'FW') ('de', 'FW') ('la', 'FW') ('termoeléctrica', 'FW') NP ('en', 'FW') ('horas', 'FW') ('de', 'FW') ('la', 'FW') ('mañana', 'FW') ('del', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('sábado', 'NN') ('su', 'NN')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('solidaridad', 'JJ') ('con', 'NN') ('el', 'NN') ('pueblo', 'NN') ('y', 'NN')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('la', 'NN') ('situación', 'NN') ('energética', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "VP -> ('atraviesa', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0104
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "este sábado su"
+      },
+      {
+        "label": "NP",
+        "text": "solidaridad con el pueblo y"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "por la situación energética que"
+      },
+      {
+        "label": "VP",
+        "text": "atraviesa el país tras"
+      },
+      {
+        "label": "NP",
+        "text": "el país tras"
+      },
+      {
+        "label": "VP",
+        "text": "tras la"
+      },
+      {
+        "label": "NP",
+        "text": "Antonio Guiteras"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      },
+      {
+        "label": "NP",
+        "text": "que provocó su desconexión"
+      },
+      {
+        "label": "NP",
+        "text": "Por medio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Bolivia/NNP))\n  expresó/CC\n  (NP este/NN sábado/NN su/NN)\n  (NP solidaridad/JJ con/NN el/NN pueblo/NN y/NN)\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Cuba/NNP)\n  ,/,\n  (NP por/NN la/NN situación/NN energética/NN que/NN)\n  (VP atraviesa/VBP (NP el/NN país/NN tras/NNS))\n  (VP tras/VBP la/JJ)\n  salida/FW\n  de/FW\n  la/FW\n  termoeléctrica/FW\n  (NP Antonio/NNP Guiteras/NNP)\n  en/FW\n  horas/FW\n  de/FW\n  la/FW\n  mañana/FW\n  del/FW\n  (NP viernes/NNS)\n  ,/,\n  (NP que/NN provocó/NN su/NN desconexión/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP medio/NN)\n  de/FW\n  un/FW\n  (NP comunicado/NN)\n  ,/,\n  la/FW\n  (NP\n    Cancillería/NNP\n    boliviana/NN\n    rechazó/NN\n    “/NNP\n    los/NN\n    planes/NNS)\n  de/IN\n  grupos/FW\n  (NP disidentes/NNS)\n  (PP de/IN (NP ultraderecha/JJ que/NN))\n  ,/,\n  (NP desde/NN el/NN exterior/NN)\n  ,/,\n  (NP\n    buscan/JJ\n    aprovechar/NN\n    esta/NN\n    situación/NN\n    para/NN\n    desestabilizar/NN\n    al/NN\n    Gobierno/NNP)\n  del/FW\n  (NP\n    presidente/NN\n    Miguel/NNP\n    Díaz/NNP\n    Canel/NNP\n    y/NN\n    convulsionar/NN\n    el/NN\n    país/NN\n    ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  del/FW\n  (NP país/NN suramericano/NN hizo/NN)\n  (ADJP un/JJ)\n  (VP llamado/VBZ (NP a/DT los/JJ Gobiernos/NNP y/NN pueblos/NN))\n  del/FW\n  (NP mundo/NN para/NN que/NN se/NN cumplan/NN “/NNP)\n  (VP las/VBZ)\n  más/FW\n  de/FW\n  veinte/FW\n  (NP resoluciones/NNS)\n  (VP ”/VBP aprobadas/JJ)\n  en/FW\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  (NP que/NN “/NNP piden/NN el/NN)\n  (NP cese/JJ del/NN bloqueo/NN)\n  (VP económico/VBP comercial/JJ)\n  de/FW\n  EE.UU./FW\n  (NP a/DT Cuba/NNP)\n  ,/,\n  (NP que/NN es/NN)\n  la/FW\n  causa/FW\n  de/FW\n  la/FW\n  angustia/FW\n  y/FW\n  sufrimiento/FW\n  del/FW\n  (NP pueblo/NN cubano/NN ”/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP Sistema/NNP Energético/NNP Nacional/NNP)\n  (/(\n  (NP SEN/NNP)\n  )/)\n  (VP se/VBD desconectó/JJ)\n  en/FW\n  la/FW\n  víspera/FW\n  (NP a/DT las/NN)\n  11H07/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ,/,\n  (ADJP tras/JJ)\n  (VP\n    lo/VBP\n    (NP cual/JJ las/NN autoridades/NNS)\n    (NP y/JJ trabajadores/NNS))\n  (VP del/VBP (NP Ministerio/NNP))\n  de/FW\n  (NP Energía/NNP)\n  y/CC\n  (NP Minas/NNP)\n  (/(\n  (NP Minem/NNP)\n  )/)\n  (VP\n    comenzaron/VBP\n    (NP\n      a/DT\n      aunar/NN\n      esfuerzos/NN\n      para/NN\n      restablecer/NN\n      el/NN\n      servicio/NN))\n  ./.)",
+      "(S\n  (NP Comenzó/NNP)\n  (VP entonces/VBZ (NP a/DT trabajarse/JJ con/NN microsistemas/NN))\n  de/IN\n  generación/FW\n  (NP para/NN llevar/NN)\n  (VP\n    energía/VBZ\n    (NP a/DT las/JJ termoeléctricas/NN y/NN arrancar/NN))\n  unidades/FW\n  de/FW\n  termoeléctricas/FW\n  ,/,\n  (NP disponibles/NNS)\n  (VP en/VBP (NP distintas/JJ provincias/NN))\n  ;/:\n  sin/CC\n  (NP embargo/NN)\n  ,/,\n  en/FW\n  horas/FW\n  de/FW\n  la/FW\n  mañana/FW\n  de/FW\n  este/FW\n  (NP sábado/NN)\n  ,/,\n  se/FW\n  (NP anunció/NN que/NN)\n  (NP una/JJ avería/NN provocó/NN)\n  la/FW\n  desconexión/FW\n  de/FW\n  la/FW\n  región/FW\n  (NP occidental/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bloqueo económico",
+        "position": [
+          766,
+          783
+        ],
+        "start": 766,
+        "end": 783
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "rechazó “los planes de grupos disidentes de ultraderecha que, desde el exterior, buscan aprovechar esta situación para desestabilizar al gobierno del",
+        "position": [
+          319,
+          468
+        ],
+        "start": 319,
+        "end": 468
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con el pueblo y el gobierno",
+        "position": [
+          46,
+          85
+        ],
+        "start": 46,
+        "end": 85
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          23,
+          30
+        ],
+        "start": 23,
+        "end": 30
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          1348,
+          1355
+        ],
+        "start": 1348,
+        "end": 1355
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de bolivia expresó",
+        "position": [
+          3,
+          30
+        ],
+        "start": 3,
+        "end": 30
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente miguel díaz",
+        "position": [
+          469,
+          491
+        ],
+        "start": 469,
+        "end": 491
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          721,
+          736
+        ],
+        "start": 721,
+        "end": 736
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          319,
+          326
+        ],
+        "start": 319,
+        "end": 326
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          1030,
+          1037
+        ],
+        "start": 1030,
+        "end": 1037
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          15,
+          22
+        ],
+        "start": 15,
+        "end": 22
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1792,
+          1806
+        ],
+        "start": 1792,
+        "end": 1806
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región occidental",
+        "position": [
+          1400,
+          1417
+        ],
+        "start": 1400,
+        "end": 1417
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          218,
+          224
+        ],
+        "start": 218,
+        "end": 224
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          766,
+          773
+        ],
+        "start": 766,
+        "end": 773
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Miguel Díaz Canel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Energía y Minas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mariel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sistema Energético Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santa Cruz del Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Minem",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antonio Guiteras",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SEN",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Bolivia",
+        "relacion": "EXPRESAR",
+        "objeto": "Gobierno de Cuba"
+      },
+      {
+        "sujeto": "Gobierno de Bolivia",
+        "relacion": "EXPRESAR",
+        "objeto": "Antonio Guiteras"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "DESESTABILIZAR_APROVECHAR_BUSCAR_RECHAZAR",
+        "objeto": "Miguel Díaz Canel"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores",
+        "relacion": "HACER",
+        "objeto": "Organización de Naciones Unidas"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores",
+        "relacion": "HACER",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores",
+        "relacion": "HACER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores",
+        "relacion": "HACER",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Organización de Naciones Unidas",
+        "relacion": "CUMPLIR_HACER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Organización de Naciones Unidas",
+        "relacion": "CUMPLIR_HACER",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CUMPLIR_HACER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CUMPLIR_HACER",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Sistema Energético Nacional",
+        "relacion": "DESCONECTAR",
+        "objeto": "Ministerio de Energía y Minas"
+      },
+      {
+        "sujeto": "Sistema Energético Nacional",
+        "relacion": "DESCONECTAR",
+        "objeto": "Minem"
+      },
+      {
+        "sujeto": "SEN",
+        "relacion": "DESCONECTAR",
+        "objeto": "Ministerio de Energía y Minas"
+      },
+      {
+        "sujeto": "SEN",
+        "relacion": "DESCONECTAR",
+        "objeto": "Minem"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.802,
+    "pos": 0.0,
+    "neu": 0.975,
+    "neg": 0.025,
+    "label": "negative"
+  }
+}

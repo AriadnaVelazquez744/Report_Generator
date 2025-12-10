@@ -1,0 +1,697 @@
+{
+  "url": "https://www.telesurtv.net/autoridades-palestinas-denuncian-limpieza-etnica-por-parte-de-israel/",
+  "title": "Autoridades palestinas denuncian limpieza étnica por parte de Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Autoridades palestinas",
+    "Limpieza étnica"
+  ],
+  "text": "Autoridades palestinas informaron este miércoles que al menos tres civiles murieron y otros resultaron heridos, tras las agresiones aéreos israelíes de Israel a una escuela que hospedaba a personas desplazadas en la ciudad de Jabalia.\nLa Sociedad de la Media Luna Roja Palestina (PRCS) refirió que, debido al ataque a escuela al-Rafei que alberga a personas desplazadas en Jabalia al-Balad, sus servicios trasladaron tres palestinos muertos y 25 heridos hasta el Hospital Bautista.\nAsimismo, los representantes palestinos denunciaron un periodo avanzado de la limpieza étnica por parte de la ocupación de Israel al pueblo palestino.\n\nDe igual forma, reportaron que al menos 15 palestinos murieron en esta jornada en un ataque ejecutado por el Ejército de Israel, contra un grupo de desplazados que se albergaban en las tiendas de campaña, en las instalaciones de un hospital localizado al norte de la Franja de Gaza.\nEl ataque contra el Hospital Yemen al Said, en el campamento de refugiados de Yabalia, dejó decenas de heridos, aunque en las próximas horas pueden aumentar la cantidad de personas muertas.\nAsimismo, hasta el momento se contabilizan 42.010 civiles muertos y 97.720 heridos; de ellos, la mayoría son mujeres y niños, desde que iniciaron los ataques de Israel a la Franja de Gaza.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/autoridades-palestinas-denuncian-limpieza-etnica-por-parte-de-israel/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1405,
+    "message_id": 78112,
+    "date": "2024-10-09T23:55:12+00:00",
+    "text": "teleSUR\nAutoridades palestinas denuncian limpieza étnica por parte de Israel\nhttps://www.telesurtv.net/autoridades-palestinas-denuncian-limpieza-etnica-por-parte-de-israel/",
+    "photo_path": null,
+    "views": 2893,
+    "reactions": {
+      "🤬": 58,
+      "👍": 4,
+      "👎": 3
+    },
+    "total_reactions": 65
+  },
+  "preprocessing": {
+    "cleaned": "autoridades palestinas informaron este miércoles que al menos tres civiles murieron y otros resultaron heridos, tras las agresiones aéreos israelíes de israel a una escuela que hospedaba a personas desplazadas en la ciudad de jabalia. la sociedad de la media luna roja palestina (prcs) refirió que, debido al ataque a escuela al-rafei que alberga a personas desplazadas en jabalia al-balad, sus servicios trasladaron tres palestinos muertos y 25 heridos hasta el hospital bautista. asimismo, los representantes palestinos denunciaron un periodo avanzado de la limpieza étnica por parte de la ocupación de israel al pueblo palestino. de igual forma, reportaron que al menos 15 palestinos murieron en esta jornada en un ataque ejecutado por el ejército de israel, contra un grupo de desplazados que se albergaban en las tiendas de campaña, en las instalaciones de un hospital localizado al norte de la franja de gaza. el ataque contra el hospital yemen al said, en el campamento de refugiados de yabalia, dejó decenas de heridos, aunque en las próximas horas pueden aumentar la cantidad de personas muertas. asimismo, hasta el momento se contabilizan 42.010 civiles muertos y 97.720 heridos; de ellos, la mayoría son mujeres y niños, desde que iniciaron los ataques de israel a la franja de gaza.",
+    "tokens": [
+      "autoridades",
+      "palestinas",
+      "informaron",
+      "miércoles",
+      "menos",
+      "tres",
+      "civiles",
+      "murieron",
+      "resultaron",
+      "heridos",
+      ",",
+      "tras",
+      "agresiones",
+      "aéreos",
+      "israelíes",
+      "israel",
+      "escuela",
+      "hospedaba",
+      "personas",
+      "desplazadas",
+      "ciudad",
+      "jabalia",
+      ".",
+      "sociedad",
+      "media",
+      "luna",
+      "roja",
+      "palestina",
+      "(",
+      "prcs",
+      ")",
+      "refirió",
+      ",",
+      "debido",
+      "ataque",
+      "escuela",
+      "al-rafei",
+      "alberga",
+      "personas",
+      "desplazadas",
+      "jabalia",
+      "al-balad",
+      ",",
+      "servicios",
+      "trasladaron",
+      "tres",
+      "palestinos",
+      "muertos",
+      "25",
+      "heridos",
+      "hospital",
+      "bautista",
+      ".",
+      "asimismo",
+      ",",
+      "representantes",
+      "palestinos",
+      "denunciaron",
+      "periodo",
+      "avanzado",
+      "limpieza",
+      "étnica",
+      "parte",
+      "ocupación",
+      "israel",
+      "pueblo",
+      "palestino",
+      ".",
+      "igual",
+      "forma",
+      ",",
+      "reportaron",
+      "menos",
+      "15",
+      "palestinos",
+      "murieron",
+      "jornada",
+      "ataque",
+      "ejecutado",
+      "ejército",
+      "israel",
+      ",",
+      "grupo",
+      "desplazados",
+      "albergaban",
+      "tiendas",
+      "campaña",
+      ",",
+      "instalaciones",
+      "hospital",
+      "localizado",
+      "norte",
+      "franja",
+      "gaza",
+      ".",
+      "ataque",
+      "hospital",
+      "yemen",
+      "said",
+      ",",
+      "campamento",
+      "refugiados",
+      "yabalia",
+      ",",
+      "dejó",
+      "decenas",
+      "heridos",
+      ",",
+      "aunque",
+      "próximas",
+      "horas",
+      "pueden",
+      "aumentar",
+      "cantidad",
+      "personas",
+      "muertas",
+      ".",
+      "asimismo",
+      ",",
+      "momento",
+      "contabilizan",
+      "42.010",
+      "civiles",
+      "muertos",
+      "97.720",
+      "heridos",
+      ";",
+      ",",
+      "mayoría",
+      "mujeres",
+      "niños",
+      ",",
+      "iniciaron",
+      "ataques",
+      "israel",
+      "franja",
+      "gaza",
+      "."
+    ],
+    "token_count": 138,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "VBP": 8,
+      "NN": 55,
+      "NNS": 14,
+      "JJ": 17,
+      "VBZ": 3,
+      "RP": 1,
+      "FW": 50,
+      "IN": 10,
+      "VBD": 2,
+      "CD": 4,
+      "$": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NN": 29,
+      "NN-NNS": 5,
+      "NNS-VBP": 5,
+      "VBP-JJ": 3,
+      "JJ-NN": 12,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-RP": 1,
+      "RP-VBP": 1,
+      "JJ-NNS": 1,
+      "VBP-NNS": 3,
+      "NNS-JJ": 2,
+      "JJ-FW": 2,
+      "FW-FW": 34,
+      "FW-NNP": 8,
+      "NNP-JJ": 4,
+      "NN-IN": 5,
+      "IN-FW": 4,
+      "NNP-NNP": 13,
+      "NNP-IN": 3,
+      "NNP-NN": 6,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "IN-NNP": 4,
+      "NNS-CD": 1,
+      "CD-NNS": 2,
+      "JJ-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-JJ": 2,
+      "NNP-FW": 3,
+      "NN-NNP": 3,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "IN-JJ": 2,
+      "FW-NN": 6,
+      "NN-FW": 6,
+      "FW-NNS": 2,
+      "NNS-IN": 2,
+      "NN-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNS-NNP": 1,
+      "NN-CD": 1,
+      "NNS-RB": 1,
+      "RB-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-RP": 1,
+      "NNS-RP-VBP": 1,
+      "RP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 6,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 15,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 22,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 4,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "JJ-NN-IN": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 55,
+        "FW": 50,
+        "NNP": 32,
+        "JJ": 17,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 34,
+        "NN-NN": 29,
+        "NNP-NNP": 13,
+        "JJ-NN": 12,
+        "FW-NNP": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 15,
+        "JJ-NN-NN": 8,
+        "FW-FW-NNP": 6,
+        "NNP-NNP-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 56,
+      "VP": 12,
+      "ADJP": 4,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0476
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0357
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('personas', 'JJ') ('desplazadas', 'NN')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('Jabalia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('heridos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('Asimismo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "S -> NP VP VP VP VP (',', ',') ('tras', 'EX') NP ADJP ('israelíes', 'FW') ('de', 'FW') NP NP VP ('en', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0119
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0119
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "VP",
+        "text": "palestinas informaron este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "informaron este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que al menos tres"
+      },
+      {
+        "label": "NP",
+        "text": "al menos tres"
+      },
+      {
+        "label": "VP",
+        "text": "civiles murieron y"
+      },
+      {
+        "label": "NP",
+        "text": "murieron"
+      },
+      {
+        "label": "VP",
+        "text": "otros resultaron heridos"
+      },
+      {
+        "label": "NP",
+        "text": "resultaron heridos"
+      },
+      {
+        "label": "NP",
+        "text": "las agresiones"
+      },
+      {
+        "label": "ADJP",
+        "text": "aéreos"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "a una escuela que"
+      },
+      {
+        "label": "VP",
+        "text": "hospedaba a personas desplazadas"
+      },
+      {
+        "label": "NP",
+        "text": "a personas desplazadas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  (VP palestinas/VBP (NP informaron/NN este/NN miércoles/NNS))\n  (VP que/VBP (NP al/JJ menos/NN tres/NNS))\n  (VP civiles/VBZ (NP murieron/NNS) y/RB)\n  (VP otros/VBP (NP resultaron/NN heridos/NN))\n  ,/,\n  tras/EX\n  (NP las/JJ agresiones/NNS)\n  (ADJP aéreos/JJ)\n  israelíes/FW\n  de/FW\n  (NP Israel/NNP)\n  (NP a/DT una/JJ escuela/NN que/NN)\n  (VP hospedaba/VBD (NP a/DT personas/JJ desplazadas/NN))\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Jabalia/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP Sociedad/NNP)\n  de/IN\n  la/FW\n  (NP Media/NNP Luna/NNP Roja/NNP Palestina/NNP)\n  (/(\n  (NP PRCS/NNP)\n  )/)\n  (NP refirió/NN que/NN)\n  ,/,\n  (NP debido/NN al/NN)\n  (VP ataque/VBZ (NP a/DT escuela/JJ al-Rafei/JJ que/NN))\n  (VP alberga/VBZ (NP a/DT personas/JJ desplazadas/NN))\n  (PP en/IN (NP Jabalia/NNP))\n  (ADJP al-Balad/JJ)\n  ,/,\n  (NP sus/JJ servicios/NNS trasladaron/NN)\n  (VP tres/VBZ (NP palestinos/JJ muertos/NNS) y/RB)\n  25/CD\n  (NP heridos/NNS)\n  (NP hasta/JJ el/JJ Hospital/NNP Bautista/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP los/NN representantes/NNS)\n  (VP\n    palestinos/VBP\n    (NP denunciaron/NN)\n    (NP un/JJ periodo/NN avanzado/NN))\n  de/IN\n  la/FW\n  limpieza/FW\n  (NP étnica/NNP)\n  por/FW\n  parte/FW\n  de/FW\n  la/FW\n  ocupación/FW\n  de/FW\n  (NP Israel/NNP al/NN pueblo/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ forma/NN)\n  ,/,\n  (NP reportaron/NN que/NN)\n  (VP al/VBD)\n  menos/$\n  15/CD\n  (NP palestinos/JJ murieron/NN en/NN esta/NN jornada/NN)\n  (PP\n    en/IN\n    (NP un/JJ ataque/NN ejecutado/NN por/NN el/NN Ejército/NNP))\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP contra/JJ un/JJ grupo/NN)\n  de/IN\n  desplazados/FW\n  que/FW\n  se/FW\n  (NP albergaban/NN)\n  en/FW\n  las/FW\n  tiendas/FW\n  de/FW\n  campaña/FW\n  ,/,\n  en/FW\n  las/FW\n  (NP instalaciones/NNS)\n  (PP de/IN (NP un/JJ hospital/NN localizado/NN))\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP ataque/NN contra/NN)\n  (VP el/VBP (NP Hospital/NNP Yemen/NNP al/NN Said/NNP))\n  ,/,\n  en/FW\n  el/FW\n  campamento/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Yabalia/NNP)\n  ,/,\n  (ADJP dejó/JJ)\n  decenas/FW\n  de/FW\n  heridos/FW\n  ,/,\n  (NP aunque/NN)\n  en/FW\n  las/FW\n  próximas/FW\n  horas/FW\n  pueden/FW\n  (NP aumentar/NN)\n  la/FW\n  cantidad/FW\n  de/FW\n  personas/FW\n  (NP muertas/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ACCIONES_LEGALES",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque ejecutado por el ejército",
+        "position": [
+          719,
+          751
+        ],
+        "start": 719,
+        "end": 751
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresiones aéreos israelíes",
+        "position": [
+          121,
+          148
+        ],
+        "start": 121,
+        "end": 148
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          592,
+          601
+        ],
+        "start": 592,
+        "end": 601
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1216,
+          1223
+        ],
+        "start": 1216,
+        "end": 1223
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela que hospedaba",
+        "position": [
+          165,
+          186
+        ],
+        "start": 165,
+        "end": 186
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunciaron",
+        "position": [
+          522,
+          533
+        ],
+        "start": 522,
+        "end": 533
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          463,
+          471
+        ],
+        "start": 463,
+        "end": 471
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          165,
+          172
+        ],
+        "start": 165,
+        "end": 172
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          269,
+          278
+        ],
+        "start": 269,
+        "end": 278
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela que",
+        "position": [
+          165,
+          176
+        ],
+        "start": 165,
+        "end": 176
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yabalia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Bautista",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Said",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "al-Rafei",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sociedad de la Media Luna Roja Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jabalia al-Balad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jabalia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Sociedad de la Media Luna Roja Palestina",
+        "relacion": "REFERIR",
+        "objeto": "al-Rafei"
+      },
+      {
+        "sujeto": "Sociedad de la Media Luna Roja Palestina",
+        "relacion": "REFERIR",
+        "objeto": "Jabalia al-Balad"
+      },
+      {
+        "sujeto": "Sociedad de la Media Luna Roja Palestina",
+        "relacion": "REFERIR",
+        "objeto": "Hospital Bautista"
+      },
+      {
+        "sujeto": "al-Rafei",
+        "relacion": "TRASLADAR_REFERIR",
+        "objeto": "Hospital Bautista"
+      },
+      {
+        "sujeto": "Jabalia al-Balad",
+        "relacion": "ALBERGAR_TRASLADAR_REFERIR",
+        "objeto": "Hospital Bautista"
+      },
+      {
+        "sujeto": "Hospital Yemen",
+        "relacion": "DEJAR",
+        "objeto": "Yabalia"
+      },
+      {
+        "sujeto": "Said",
+        "relacion": "DEJAR",
+        "objeto": "Yabalia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

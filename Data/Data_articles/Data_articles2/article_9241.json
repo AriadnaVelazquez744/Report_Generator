@@ -1,0 +1,730 @@
+{
+  "url": "https://www.telesurtv.net/cumbre-brics-xi-jinping-aboga-por-verdadero-multilateralismo/",
+  "title": "Cumbre BRICS: Xi Jinping aboga por verdadero multilateralismo - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Brics",
+    "Xi Jinping"
+  ],
+  "text": "“China está dispuesta a trabajar para expandir nuestros horizontes en la cooperación y lograr beneficios para la humanidad” aseveró este miércoles el presidente chino, Xi Jinpinng. El líder destacó la importancia de promover la agenda de paz del grupo BRICS para proteger la seguridad común.\nXi Jinping expresó su preocupación por la situación en la Franja de Gaza, por lo que reiteró su llamado a un alto al fuego inmediato.\nEl mandatario promovió la adhesión de los BRICS al concepto del multilateralismo y defendió que se tenga en cuenta la opinión del Sur Global.\n“Debemos implementar un verdadero multilateralismo, atenernos a la gobernanza global sustentada en el diálogo conjunto (…) liderar la reforma de la gobernanza global y que se escuche la voz de los países del Sur Global”, fueron palabras del mandatario.\nHizo hincapié en la reforma de la gobernanza global tras subrayar que está rezagada frente al balance internacional de fuerzas. Remarcó además que este proceso tiene que ajustarse a los principios de la imparcialidad, la apertura y la inclusión.\nEl jefe de Estado chino abogó además por la reforma urgente del sistema financiero internacional: “En las realidades actuales es urgente una reforma de la arquitectura financiera internacional”. Consideró que el grupo BRICS debe liderar el proceso para que el sistema financiero internacional refleje mejor los cambios que se producen en la estructura económica mundial.\nEn la cumbre participan representantes de los Estados y Gobiernos de Arabia Saudí, Brasil, China, los Emiratos Árabes Unidos, Egipto, Etiopía, la India, Irán, Rusia y Sudáfrica y de otros 26 Estados, así como representantes de alto nivel de seis organizaciones internacionales como la ONU.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cumbre-brics-xi-jinping-aboga-por-verdadero-multilateralismo/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 605,
+    "message_id": 78965,
+    "date": "2024-10-23T12:55:07+00:00",
+    "text": "teleSUR\nCumbre BRICS: Xi Jinping aboga por verdadero multilateralismo\nhttps://www.telesurtv.net/cumbre-brics-xi-jinping-aboga-por-verdadero-multilateralismo/",
+    "photo_path": null,
+    "views": 2514,
+    "reactions": {
+      "❤": 72,
+      "👍": 32,
+      "👏": 3,
+      "👎": 1
+    },
+    "total_reactions": 108
+  },
+  "preprocessing": {
+    "cleaned": "“china está dispuesta a trabajar para expandir nuestros horizontes en la cooperación y lograr beneficios para la humanidad” aseveró este miércoles el presidente chino, xi jinpinng. el líder destacó la importancia de promover la agenda de paz del grupo brics para proteger la seguridad común. xi jinping expresó su preocupación por la situación en la franja de gaza, por lo que reiteró su llamado a un alto al fuego inmediato. el mandatario promovió la adhesión de los brics al concepto del multilateralismo y defendió que se tenga en cuenta la opinión del sur global. “debemos implementar un verdadero multilateralismo, atenernos a la gobernanza global sustentada en el diálogo conjunto (…) liderar la reforma de la gobernanza global y que se escuche la voz de los países del sur global”, fueron palabras del mandatario. hizo hincapié en la reforma de la gobernanza global tras subrayar que está rezagada frente al balance internacional de fuerzas. remarcó además que este proceso tiene que ajustarse a los principios de la imparcialidad, la apertura y la inclusión. el jefe de estado chino abogó además por la reforma urgente del sistema financiero internacional: “en las realidades actuales es urgente una reforma de la arquitectura financiera internacional”. consideró que el grupo brics debe liderar el proceso para que el sistema financiero internacional refleje mejor los cambios que se producen en la estructura económica mundial. en la cumbre participan representantes de los estados y gobiernos de arabia saudí, brasil, china, los emiratos árabes unidos, egipto, etiopía, la india, irán, rusia y sudáfrica y de otros 26 estados, así como representantes de alto nivel de seis organizaciones internacionales como la onu.",
+    "tokens": [
+      "“",
+      "china",
+      "dispuesta",
+      "trabajar",
+      "expandir",
+      "horizontes",
+      "cooperación",
+      "lograr",
+      "beneficios",
+      "humanidad",
+      "”",
+      "aseveró",
+      "miércoles",
+      "presidente",
+      "chino",
+      ",",
+      "xi",
+      "jinpinng",
+      ".",
+      "líder",
+      "destacó",
+      "importancia",
+      "promover",
+      "agenda",
+      "paz",
+      "grupo",
+      "brics",
+      "proteger",
+      "seguridad",
+      "común",
+      ".",
+      "xi",
+      "jinping",
+      "expresó",
+      "preocupación",
+      "situación",
+      "franja",
+      "gaza",
+      ",",
+      "reiteró",
+      "llamado",
+      "alto",
+      "fuego",
+      "inmediato",
+      ".",
+      "mandatario",
+      "promovió",
+      "adhesión",
+      "brics",
+      "concepto",
+      "multilateralismo",
+      "defendió",
+      "cuenta",
+      "opinión",
+      "sur",
+      "global",
+      ".",
+      "“",
+      "debemos",
+      "implementar",
+      "verdadero",
+      "multilateralismo",
+      ",",
+      "atenernos",
+      "gobernanza",
+      "global",
+      "sustentada",
+      "diálogo",
+      "conjunto",
+      "(",
+      "…",
+      ")",
+      "liderar",
+      "reforma",
+      "gobernanza",
+      "global",
+      "escuche",
+      "voz",
+      "países",
+      "sur",
+      "global",
+      "”",
+      ",",
+      "palabras",
+      "mandatario",
+      ".",
+      "hizo",
+      "hincapié",
+      "reforma",
+      "gobernanza",
+      "global",
+      "tras",
+      "subrayar",
+      "rezagada",
+      "frente",
+      "balance",
+      "internacional",
+      "fuerzas",
+      ".",
+      "remarcó",
+      "además",
+      "proceso",
+      "ajustarse",
+      "principios",
+      "imparcialidad",
+      ",",
+      "apertura",
+      "inclusión",
+      ".",
+      "jefe",
+      "chino",
+      "abogó",
+      "además",
+      "reforma",
+      "urgente",
+      "sistema",
+      "financiero",
+      "internacional",
+      ":",
+      "“",
+      "realidades",
+      "actuales",
+      "urgente",
+      "reforma",
+      "arquitectura",
+      "financiera",
+      "internacional",
+      "”",
+      ".",
+      "consideró",
+      "grupo",
+      "brics",
+      "debe",
+      "liderar",
+      "proceso",
+      "sistema",
+      "financiero",
+      "internacional",
+      "refleje",
+      "mejor",
+      "cambios",
+      "producen",
+      "estructura",
+      "económica",
+      "mundial",
+      ".",
+      "cumbre",
+      "participan",
+      "representantes",
+      "gobiernos",
+      "arabia",
+      "saudí",
+      ",",
+      "brasil",
+      ",",
+      "china",
+      ",",
+      "emiratos",
+      "árabes",
+      "unidos",
+      ",",
+      "egipto",
+      ",",
+      "etiopía",
+      ",",
+      "india",
+      ",",
+      "irán",
+      ",",
+      "rusia",
+      "sudáfrica",
+      "26",
+      ",",
+      "así",
+      "representantes",
+      "alto",
+      "nivel",
+      "seis",
+      "organizaciones",
+      "internacionales",
+      "onu",
+      "."
+    ],
+    "token_count": 182,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "CC": 1,
+      "JJ": 22,
+      "NN": 102,
+      "VBZ": 3,
+      "FW": 60,
+      "NNS": 10,
+      "VBP": 11,
+      "IN": 7,
+      "RB": 1,
+      "VBD": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 9,
+      "NN-NN": 66,
+      "NN-JJ": 4,
+      "JJ-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-FW": 4,
+      "FW-NN": 7,
+      "NN-NNS": 6,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "VBP-NN": 3,
+      "NN-NNP": 7,
+      "NNP-NNP": 17,
+      "NNP-NN": 17,
+      "NN-FW": 12,
+      "FW-FW": 36,
+      "FW-NNP": 8,
+      "NNP-FW": 2,
+      "JJ-JJ": 3,
+      "FW-JJ": 6,
+      "FW-NNS": 2,
+      "VBP-NNP": 1,
+      "NN-VBP": 3,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "IN-FW": 6,
+      "JJ-NNP": 4,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "NN-IN": 2,
+      "NN-VBZ": 2,
+      "VBZ-IN": 2,
+      "NNP-IN": 2,
+      "IN-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 41,
+      "NN-NN-JJ": 4,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 14,
+      "NN-NN-FW": 10,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 24,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 3,
+      "NN-NNP-NN": 4,
+      "NN-FW-NN": 3,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 5,
+      "NN-JJ-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NN-NNS": 2,
+      "VBP-NN-NNP": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-JJ-NNP": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 60,
+        "NNP": 41,
+        "JJ": 22,
+        "VBP": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "FW-FW": 36,
+        "NNP-NNP": 17,
+        "NNP-NN": 17,
+        "NN-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 41,
+        "FW-FW-FW": 24,
+        "NNP-NN-NN": 14,
+        "NN-NN-FW": 10,
+        "NNP-NNP-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 63,
+      "ADJP": 5,
+      "VP": 19,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "VP -> ('representantes', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP NP ADJP VP ('la', 'FW') NP NP VP VP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('“', 'JJ') ('China', 'NNP') ('está', 'NN') ('dispuesta', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('trabajar', 'NN') ('para', 'NN') ('expandir', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "ADJP -> ('nuestros', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('horizontes', 'VBZ') ('en', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('cooperación', 'NN') ('y', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('lograr', 'JJ') ('beneficios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "“ China está dispuesta"
+      },
+      {
+        "label": "NP",
+        "text": "a trabajar para expandir"
+      },
+      {
+        "label": "ADJP",
+        "text": "nuestros"
+      },
+      {
+        "label": "VP",
+        "text": "horizontes en"
+      },
+      {
+        "label": "NP",
+        "text": "cooperación y"
+      },
+      {
+        "label": "NP",
+        "text": "lograr beneficios"
+      },
+      {
+        "label": "VP",
+        "text": "para la humanidad ”"
+      },
+      {
+        "label": "NP",
+        "text": "la humanidad ”"
+      },
+      {
+        "label": "VP",
+        "text": "aseveró este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "el presidente chino"
+      },
+      {
+        "label": "NP",
+        "text": "presidente chino"
+      },
+      {
+        "label": "NP",
+        "text": "Xi Jinpinng"
+      },
+      {
+        "label": "NP",
+        "text": "El líder destacó"
+      },
+      {
+        "label": "NP",
+        "text": "grupo BRICS para proteger la seguridad común"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP “/JJ China/NNP está/NN dispuesta/NN)\n  (NP a/DT trabajar/NN para/NN expandir/NN)\n  (ADJP nuestros/JJ)\n  (VP horizontes/VBZ en/JJ)\n  la/FW\n  (NP cooperación/NN y/NN)\n  (NP lograr/JJ beneficios/NNS)\n  (VP para/VBP (NP la/JJ humanidad/NN ”/NNP))\n  (VP aseveró/VBZ (NP este/NN miércoles/NNS))\n  (VP el/VBP (NP presidente/NN chino/NN))\n  ,/,\n  (NP Xi/NNP Jinpinng/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP líder/NN destacó/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  promover/FW\n  la/FW\n  agenda/FW\n  de/FW\n  paz/FW\n  del/FW\n  (NP\n    grupo/NN\n    BRICS/NNP\n    para/NN\n    proteger/NN\n    la/NN\n    seguridad/NN\n    común/NN)\n  ./.)",
+      "(S\n  (NP Xi/NN)\n  (VP Jinping/VBG (NP expresó/JJ su/NN preocupación/NN por/NN la/NN))\n  situación/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP por/NN lo/NN que/NN reiteró/NN su/NN)\n  (VP\n    llamado/VBZ\n    (NP a/DT un/JJ alto/NN al/NN fuego/NN inmediato/NN))\n  ./.)",
+      "(S\n  (NP El/NNP mandatario/NN promovió/NN)\n  la/FW\n  adhesión/FW\n  de/FW\n  los/FW\n  (NP\n    BRICS/NNP\n    al/NN\n    concepto/NN\n    del/NN\n    multilateralismo/NN\n    y/NN\n    defendió/NN\n    que/NN\n    se/NN\n    tenga/NN)\n  en/FW\n  (NP cuenta/NN la/NN)\n  opinión/FW\n  (NP del/NN Sur/NNP Global/NNP)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Debemos/NNP\n    implementar/NN\n    un/NN\n    verdadero/NN\n    multilateralismo/NN)\n  ,/,\n  (VP\n    atenernos/VBZ\n    (NP a/DT la/NN gobernanza/NN)\n    (NP global/JJ sustentada/NN))\n  en/FW\n  el/FW\n  (NP diálogo/NN conjunto/NN)\n  (/(\n  (NP …/NNP)\n  )/)\n  (VP liderar/VBP la/JJ)\n  reforma/FW\n  de/FW\n  la/FW\n  gobernanza/FW\n  (NP global/JJ y/NN que/NN)\n  se/FW\n  (NP escuche/NN)\n  la/FW\n  voz/FW\n  de/FW\n  los/FW\n  (NP países/NNS)\n  (VP del/VBP (NP Sur/NNP Global/NNP ”/NNP))\n  ,/,\n  (NP fueron/NN palabras/NNS)\n  (VP del/VBP (NP mandatario/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          509,
+          517
+        ],
+        "start": 509,
+        "end": 517
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          303,
+          310
+        ],
+        "start": 303,
+        "end": 310
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "inclusión",
+        "position": [
+          1056,
+          1065
+        ],
+        "start": 1056,
+        "end": 1065
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente chino",
+        "position": [
+          150,
+          166
+        ],
+        "start": 150,
+        "end": 166
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1723,
+          1726
+        ],
+        "start": 1723,
+        "end": 1726
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          190,
+          197
+        ],
+        "start": 190,
+        "end": 197
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          1521,
+          1527
+        ],
+        "start": 1521,
+        "end": 1527
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          1,
+          6
+        ],
+        "start": 1,
+        "end": 6
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado chino",
+        "position": [
+          1078,
+          1090
+        ],
+        "start": 1078,
+        "end": 1090
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jinpinng",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sur Global",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Etiopía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sudáfrica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Emiratos Árabes Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xi Jinping",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobiernos de Arabia Saudí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "China",
+        "relacion": "ASEVERAR",
+        "objeto": "Xi"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "ASEVERAR",
+        "objeto": "Jinpinng"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "EXPRESAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "PROMOVER",
+        "objeto": "Sur Global"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

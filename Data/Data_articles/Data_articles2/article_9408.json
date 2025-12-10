@@ -1,0 +1,925 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-turkiye-insta-a-la-onu-a-aplicar-embargo-de-armas-a-israel/",
+  "title": "Presidente de Türkiye insta a la ONU a aplicar embargo de armas a Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "armas",
+    "Gaza",
+    "Israel",
+    "Líbano",
+    "Medio Oriente",
+    "ONU",
+    "Türkiye"
+  ],
+  "text": "El presidente de Türkiye, Recep Tayyip Erdogan, instó a la Organización de las Naciones Unidas (ONU) a establecer un embargo general de armas en contra de Israel.\nLEA TAMBIÉN\nSismo de magnitud 5.9 sacude el este de Türkiye\nLa oficina de prensa del mandatario dio a conocer este viernes una declaración en la que resaltó: “Un embargo de armas a Israel en la ONU sería un paso efectivo para detener la agresión israelí y que Türkiye continuaría expresando esta posición en todas las plataformas”.\nLas declaraciones de Erdogan ocurrieron durante un encuentro con los ministros de Asuntos Exteriores de Türkiye, Rusia, Azerbaiyán, Armenia e Irán, quienes participan en la tercera reunión de la plataforma regional 3+3 en Estambul.\nA principios de semana, durante la conferencia la Diplomacia Global y el Futuro de Palestina celebrada en Ankara, el jefe de estado preguntó: “¿Cómo puede la ONU defender los derechos de los demás en medio de los ataques de Israel contra las fuerzas de paz de la ONU en Líbano, cuando no puede proteger los derechos de su propio personal?“.\nEn ese sentido, acusó al organismo mundial por su incompetencia. “Es una vergüenza para el sistema internacional y motivo de preocupación”.\n“Hemos sido testigos de cómo las organizaciones de derechos humanos y los medios de comunicación mundiales no oyen, no ven y no hablan cuando se trata de los derechos de los niños inocentes asesinados en Gaza”, agregó.\nDesde el 7 de octubre de 2023, el genocidio de Israel contra el pueblo palestino ha dejado 42.500 muertos y 99.546 heridos, mientras en el Líbano han sido asesinados en el último año 2.367 personas y 11.088 han resultado heridas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-turkiye-insta-a-la-onu-a-aplicar-embargo-de-armas-a-israel/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 889,
+    "message_id": 78660,
+    "date": "2024-10-18T18:55:07+00:00",
+    "text": "teleSUR\nPresidente de Türkiye insta a la ONU a aplicar embargo de armas a Israel\nhttps://www.telesurtv.net/presidente-de-turkiye-insta-a-la-onu-a-aplicar-embargo-de-armas-a-israel/",
+    "photo_path": null,
+    "views": 2279,
+    "reactions": {
+      "👏": 34,
+      "👍": 7,
+      "❤": 4
+    },
+    "total_reactions": 45
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de türkiye, recep tayyip erdogan, instó a la organización de las naciones unidas (onu) a establecer un embargo general de armas en contra de israel. la oficina de prensa del mandatario dio a conocer este viernes una declaración en la que resaltó: “un embargo de armas a israel en la onu sería un paso efectivo para detener la agresión israelí y que türkiye continuaría expresando esta posición en todas las plataformas”. las declaraciones de erdogan ocurrieron durante un encuentro con los ministros de asuntos exteriores de türkiye, rusia, azerbaiyán, armenia e irán, quienes participan en la tercera reunión de la plataforma regional 3+3 en estambul. a principios de semana, durante la conferencia la diplomacia global y el futuro de palestina celebrada en ankara, el jefe de estado preguntó: “¿cómo puede la onu defender los derechos de los demás en medio de los ataques de israel contra las fuerzas de paz de la onu en líbano, cuando no puede proteger los derechos de su propio personal?“. en ese sentido, acusó al organismo mundial por su incompetencia. “es una vergüenza para el sistema internacional y motivo de preocupación”. “hemos sido testigos de cómo las organizaciones de derechos humanos y los medios de comunicación mundiales no oyen, no ven y no hablan cuando se trata de los derechos de los niños inocentes asesinados en gaza”, agregó. desde el 7 de octubre de 2023, el genocidio de israel contra el pueblo palestino ha dejado 42.500 muertos y 99.546 heridos, mientras en el líbano han sido asesinados en el último año 2.367 personas y 11.088 han resultado heridas.",
+    "tokens": [
+      "presidente",
+      "türkiye",
+      ",",
+      "recep",
+      "tayyip",
+      "erdogan",
+      ",",
+      "instó",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "establecer",
+      "embargo",
+      "general",
+      "armas",
+      "israel",
+      ".",
+      "oficina",
+      "prensa",
+      "mandatario",
+      "dio",
+      "conocer",
+      "viernes",
+      "declaración",
+      "resaltó",
+      ":",
+      "“",
+      "embargo",
+      "armas",
+      "israel",
+      "onu",
+      "paso",
+      "efectivo",
+      "detener",
+      "agresión",
+      "israelí",
+      "türkiye",
+      "continuaría",
+      "expresando",
+      "posición",
+      "todas",
+      "plataformas",
+      "”",
+      ".",
+      "declaraciones",
+      "erdogan",
+      "ocurrieron",
+      "encuentro",
+      "ministros",
+      "asuntos",
+      "exteriores",
+      "türkiye",
+      ",",
+      "rusia",
+      ",",
+      "azerbaiyán",
+      ",",
+      "armenia",
+      "irán",
+      ",",
+      "participan",
+      "tercera",
+      "reunión",
+      "plataforma",
+      "regional",
+      "3+3",
+      "estambul",
+      ".",
+      "principios",
+      "semana",
+      ",",
+      "conferencia",
+      "diplomacia",
+      "global",
+      "futuro",
+      "palestina",
+      "celebrada",
+      "ankara",
+      ",",
+      "jefe",
+      "preguntó",
+      ":",
+      "“",
+      "¿cómo",
+      "puede",
+      "onu",
+      "defender",
+      "derechos",
+      "demás",
+      "medio",
+      "ataques",
+      "israel",
+      "fuerzas",
+      "paz",
+      "onu",
+      "líbano",
+      ",",
+      "puede",
+      "proteger",
+      "derechos",
+      "propio",
+      "personal",
+      "?",
+      "“",
+      ".",
+      ",",
+      "acusó",
+      "organismo",
+      "mundial",
+      "incompetencia",
+      ".",
+      "“",
+      "vergüenza",
+      "sistema",
+      "internacional",
+      "motivo",
+      "preocupación",
+      "”",
+      ".",
+      "“",
+      "sido",
+      "testigos",
+      "cómo",
+      "organizaciones",
+      "derechos",
+      "humanos",
+      "medios",
+      "comunicación",
+      "mundiales",
+      "oyen",
+      ",",
+      "ven",
+      "hablan",
+      "trata",
+      "derechos",
+      "niños",
+      "inocentes",
+      "asesinados",
+      "gaza",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "genocidio",
+      "israel",
+      "pueblo",
+      "palestino",
+      "dejado",
+      "42.500",
+      "muertos",
+      "99.546",
+      "heridos",
+      ",",
+      "mientras",
+      "líbano",
+      "sido",
+      "asesinados",
+      "último",
+      "año",
+      "2.367",
+      "personas",
+      "11.088",
+      "resultado",
+      "heridas",
+      "."
+    ],
+    "token_count": 172,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "NN": 65,
+      "FW": 71,
+      "VBZ": 7,
+      "JJ": 24,
+      "IN": 16,
+      "CD": 7,
+      "NNS": 10,
+      "VBP": 5,
+      "MD": 1,
+      "VB": 1,
+      "VBD": 3,
+      "DT": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-FW": 5,
+      "FW-NNP": 15,
+      "NNP-NNP": 17,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "NNP-FW": 10,
+      "FW-FW": 39,
+      "NN-NN": 32,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-FW": 2,
+      "NNP-IN": 2,
+      "IN-FW": 10,
+      "FW-CD": 1,
+      "CD-NN": 4,
+      "NN-JJ": 2,
+      "JJ-NN": 10,
+      "NN-IN": 11,
+      "IN-NNP": 4,
+      "FW-NN": 7,
+      "NN-NNS": 2,
+      "NNS-JJ": 1,
+      "NN-NNP": 6,
+      "IN-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-FW": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "JJ-JJ": 2,
+      "FW-JJ": 5,
+      "JJ-CD": 1,
+      "CD-JJ": 2,
+      "JJ-NNP": 4,
+      "FW-NNS": 2,
+      "NNS-IN": 2,
+      "NNP-VBD": 2,
+      "VBD-FW": 1,
+      "VBZ-DT": 2,
+      "DT-NN": 2,
+      "NNP-JJ": 2,
+      "NN-VBP": 1,
+      "VBP-JJ": 3,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "VBP-NNS": 1,
+      "FW-VBZ": 1,
+      "DT-JJ": 2,
+      "JJ-DT": 2,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "VBZ-CD": 1,
+      "NN-CD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 6,
+      "FW-FW-NNP": 7,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 6,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 15,
+      "NN-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 3,
+      "FW-NNP-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NNP-FW-NNP": 2,
+      "VBZ-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NNP-JJ": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-NNP": 2,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-DT": 2,
+      "JJ-DT-JJ": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NN-NNP-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "CD-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 71,
+        "NN": 65,
+        "NNP": 48,
+        "JJ": 24,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 39,
+        "NN-NN": 32,
+        "NNP-NNP": 17,
+        "FW-NNP": 15,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 15,
+        "NNP-NNP-NNP": 8,
+        "NN-IN-FW": 8,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 17,
+      "ADJP": 7,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0367
+      },
+      {
+        "rule": "NP -> ('Türkiye', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') VP ('de', 'IN') ('las', 'FW') NP ('(', '(') NP (')', ')') NP ADJP ADJP ADJP ('de', 'FW') ('armas', 'FW') ('en', 'FW') ('contra', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Recep', 'NNP') ('Tayyip', 'NNP') ('Erdogan', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "VP -> ('instó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('Organización', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Türkiye"
+      },
+      {
+        "label": "NP",
+        "text": "Recep Tayyip Erdogan"
+      },
+      {
+        "label": "VP",
+        "text": "instó a la Organización"
+      },
+      {
+        "label": "NP",
+        "text": "a la Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "ONU"
+      },
+      {
+        "label": "NP",
+        "text": "a establecer"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "ADJP",
+        "text": "embargo"
+      },
+      {
+        "label": "ADJP",
+        "text": "general"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Sismo"
+      },
+      {
+        "label": "NP",
+        "text": "sacude"
+      },
+      {
+        "label": "NP",
+        "text": "el este"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Türkiye/NNP)\n  ,/,\n  (NP Recep/NNP Tayyip/NNP Erdogan/NNP)\n  ,/,\n  (VP instó/VBZ (NP a/DT la/NN Organización/NNP))\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  (NP a/DT establecer/NN)\n  (ADJP un/JJ)\n  (ADJP embargo/JJ)\n  (ADJP general/JJ)\n  de/FW\n  armas/FW\n  en/FW\n  contra/FW\n  de/FW\n  (NP Israel/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Sismo/NNP)\n  de/IN\n  magnitud/FW\n  5.9/CD\n  (NP sacude/NN)\n  (NP el/JJ este/NN)\n  (PP de/IN (NP Türkiye/NNP La/NNP))\n  oficina/FW\n  de/FW\n  prensa/FW\n  del/FW\n  (NP mandatario/NN)\n  (VP\n    dio/VBZ\n    (NP a/DT conocer/NN este/NN viernes/NNS)\n    (NP una/JJ declaración/NN))\n  en/IN\n  la/FW\n  que/FW\n  (NP resaltó/NN)\n  :/:\n  (NP “/JJ Un/NNP embargo/NN)\n  de/FW\n  armas/FW\n  (NP\n    a/DT\n    Israel/NNP\n    en/NN\n    la/NN\n    ONU/NNP\n    sería/NN\n    un/NN\n    paso/NN\n    efectivo/NN\n    para/NN\n    detener/NN)\n  la/FW\n  agresión/FW\n  israelí/FW\n  y/FW\n  (NP\n    que/NN\n    Türkiye/NNP\n    continuaría/NN\n    expresando/NN\n    esta/NN\n    posición/NN)\n  (PP en/IN (NP todas/JJ las/NNS))\n  (VP plataformas/VBP (NP ”/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP declaraciones/NNS)\n  de/FW\n  (NP Erdogan/NNP)\n  ocurrieron/MD\n  (VP durante/VB (NP un/JJ encuentro/JJ con/NN los/NN))\n  ministros/FW\n  de/FW\n  (NP Asuntos/NNP Exteriores/NNP)\n  de/FW\n  (NP Türkiye/NNP)\n  ,/,\n  (NP Rusia/NNP)\n  ,/,\n  (NP Azerbaiyán/NNP)\n  ,/,\n  (NP Armenia/NNP e/NN Irán/NNP)\n  ,/,\n  (VP quienes/VBZ (NP participan/NN))\n  en/FW\n  la/FW\n  tercera/FW\n  reunión/FW\n  de/FW\n  la/FW\n  plataforma/FW\n  (ADJP regional/JJ)\n  3+3/CD\n  (NP en/JJ Estambul/NNP)\n  ./.)",
+      "(S\n  (NP A/DT principios/NN)\n  de/FW\n  semana/FW\n  ,/,\n  durante/FW\n  la/FW\n  conferencia/FW\n  la/FW\n  (NP Diplomacia/NNP Global/NNP y/NN el/NN Futuro/NNP)\n  (PP de/IN (NP Palestina/NNP celebrada/NN en/NN Ankara/NNP))\n  ,/,\n  (NP el/JJ jefe/NN)\n  de/IN\n  estado/FW\n  (NP preguntó/NN)\n  :/:\n  (NP\n    “/JJ\n    ¿Cómo/NNP\n    puede/NN\n    la/NN\n    ONU/NNP\n    defender/NN\n    los/NN\n    derechos/NN)\n  de/IN\n  los/FW\n  (ADJP demás/JJ)\n  en/FW\n  medio/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  (VP las/VBD)\n  fuerzas/FW\n  de/FW\n  paz/FW\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  en/FW\n  (NP Líbano/NNP)\n  ,/,\n  (VP\n    cuando/VBZ\n    (NP no/DT puede/NN proteger/NN)\n    (NP los/JJ derechos/NN))\n  de/IN\n  su/FW\n  propio/FW\n  (ADJP personal/JJ)\n  ?/.\n  (NP “/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ sentido/NN)\n  ,/,\n  (NP acusó/JJ al/NN)\n  (PP organismo/IN (NP mundial/JJ por/NN su/NN incompetencia/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "acusó al",
+        "position": [
+          1084,
+          1092
+        ],
+        "start": 1084,
+        "end": 1092
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "sismo de magnitud 5.9",
+        "position": [
+          175,
+          196
+        ],
+        "start": 175,
+        "end": 196
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "genocidio de israel contra el pueblo",
+        "position": [
+          1461,
+          1497
+        ],
+        "start": 1461,
+        "end": 1497
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de",
+        "position": [
+          3,
+          17
+        ],
+        "start": 3,
+        "end": 17
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          59,
+          94
+        ],
+        "start": 59,
+        "end": 94
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusó",
+        "position": [
+          1084,
+          1089
+        ],
+        "start": 1084,
+        "end": 1089
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          409,
+          416
+        ],
+        "start": 409,
+        "end": 416
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado preguntó",
+        "position": [
+          852,
+          867
+        ],
+        "start": 852,
+        "end": 867
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1436,
+          1456
+        ],
+        "start": 1436,
+        "end": 1456
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          117,
+          124
+        ],
+        "start": 117,
+        "end": 124
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1259,
+          1275
+        ],
+        "start": 1259,
+        "end": 1275
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "367 personas",
+        "position": [
+          1612,
+          1624
+        ],
+        "start": 1612,
+        "end": 1624
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2.367 personas",
+        "position": [
+          1610,
+          1624
+        ],
+        "start": 1610,
+        "end": 1624
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Azerbaiyán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estambul",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Erdogan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Recep Tayyip Erdogan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ankara",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Türkiye",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Armenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asuntos Exteriores de Türkiye",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Türkiye\nLa oficina de prensa del mandatario",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Türkiye",
+        "relacion": "INSTAR",
+        "objeto": "Organización de las Naciones Unidas"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "INSTAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "INSTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Recep Tayyip Erdogan",
+        "relacion": "INSTAR",
+        "objeto": "Organización de las Naciones Unidas"
+      },
+      {
+        "sujeto": "Recep Tayyip Erdogan",
+        "relacion": "INSTAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Recep Tayyip Erdogan",
+        "relacion": "INSTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "INSTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "INSTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Türkiye\nLa oficina de prensa del mandatario",
+        "relacion": "SACUDIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Türkiye\nLa oficina de prensa del mandatario",
+        "relacion": "SACUDIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SACUDIR",
+        "objeto": "Türkiye\nLa oficina de prensa del mandatario"
+      },
+      {
+        "sujeto": "Erdogan",
+        "relacion": "OCURRIR",
+        "objeto": "Asuntos Exteriores de Türkiye"
+      },
+      {
+        "sujeto": "Erdogan",
+        "relacion": "OCURRIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Erdogan",
+        "relacion": "OCURRIR",
+        "objeto": "Azerbaiyán"
+      },
+      {
+        "sujeto": "Erdogan",
+        "relacion": "OCURRIR",
+        "objeto": "Armenia"
+      },
+      {
+        "sujeto": "Erdogan",
+        "relacion": "OCURRIR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Erdogan",
+        "relacion": "OCURRIR",
+        "objeto": "Estambul"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "PREGUNTAR",
+        "objeto": "Ankara"
+      },
+      {
+        "sujeto": "Ankara",
+        "relacion": "PREGUNTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Ankara",
+        "relacion": "PREGUNTAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Ankara",
+        "relacion": "PREGUNTAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DEFENDER_PREGUNTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DEFENDER_PREGUNTAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR",
+        "objeto": "el Líbano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6124,
+    "pos": 0.014,
+    "neu": 0.953,
+    "neg": 0.033,
+    "label": "negative"
+  }
+}

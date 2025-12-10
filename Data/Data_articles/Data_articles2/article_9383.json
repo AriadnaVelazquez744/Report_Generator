@@ -1,0 +1,640 @@
+{
+  "url": "https://www.telesurtv.net/sector-universitario-se-moviliza-en-contra-de-la-privatizacion-educativa-en-argentina/",
+  "title": "Sector universitario se moviliza en contra de la privatización educativa en Argentina - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "protestas",
+    "universidades"
+  ],
+  "text": "En Buenos Aires, se reportan las masivas movilizaciones del sector universitario en respuesta a la decisión del presidente Javier Milei de desfinanciar las universidades de la República Argentina. Este conflicto ha tomado mayor fuerza desde la segunda etapa de reclamos, que superó en número y en intensidad la primera marcha del pasado 3 de abril.\nA pesar de que más de un millón de personas se congregaron en Plaza de Mayo, el gobierno y el Congreso mantuvieron su postura, ratificando el desfinanciamiento de las universidades nacionales. Los estudiantes y docentes argumentan que esta falta de presupuesto afecta gravemente la salud y la educación de la población.\nLa retórica del presidente, quien sostiene que “ningún pobre llega a la universidad pública” y que esta solo beneficia a “niños ricos”, ha provocado un profundo descontento. Muchos estudiantes, que son la primera generación de universitarios en sus familias, se sienten atacados y estigmatizados por el gobierno.\nFrente a esta situación, se han realizado asambleas nacionales en diversas universidades, donde se expresa la necesidad de defender la educación pública y la soberanía del país. Más de 100 universidades están actualmente tomadas, y se lleva a cabo un paro de 24 horas contra el desfinanciamiento.\nLa consigna de los movilizados sigue siendo clara: la lucha por los derechos y la defensa de la educación pública.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/sector-universitario-se-moviliza-en-contra-de-la-privatizacion-educativa-en-argentina/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 850,
+    "message_id": 78701,
+    "date": "2024-10-19T07:55:07+00:00",
+    "text": "teleSUR\nSector universitario se moviliza en contra de la privatización educativa en Argentina\nhttps://www.telesurtv.net/sector-universitario-se-moviliza-en-contra-de-la-privatizacion-educativa-en-argentina/",
+    "photo_path": null,
+    "views": 2802,
+    "reactions": {
+      "👍": 52,
+      "❤": 7,
+      "👏": 6,
+      "🔥": 3
+    },
+    "total_reactions": 68
+  },
+  "preprocessing": {
+    "cleaned": "en buenos aires, se reportan las masivas movilizaciones del sector universitario en respuesta a la decisión del presidente javier milei de desfinanciar las universidades de la república argentina. este conflicto ha tomado mayor fuerza desde la segunda etapa de reclamos, que superó en número y en intensidad la primera marcha del pasado 3 de abril. a pesar de que más de un millón de personas se congregaron en plaza de mayo, el gobierno y el congreso mantuvieron su postura, ratificando el desfinanciamiento de las universidades nacionales. los estudiantes y docentes argumentan que esta falta de presupuesto afecta gravemente la salud y la educación de la población. la retórica del presidente, quien sostiene que “ningún pobre llega a la universidad pública” y que esta solo beneficia a “niños ricos”, ha provocado un profundo descontento. muchos estudiantes, que son la primera generación de universitarios en sus familias, se sienten atacados y estigmatizados por el gobierno. frente a esta situación, se han realizado asambleas nacionales en diversas universidades, donde se expresa la necesidad de defender la educación pública y la soberanía del país. más de 100 universidades están actualmente tomadas, y se lleva a cabo un paro de 24 horas contra el desfinanciamiento. la consigna de los movilizados sigue siendo clara: la lucha por los derechos y la defensa de la educación pública.",
+    "tokens": [
+      "buenos",
+      "aires",
+      ",",
+      "reportan",
+      "masivas",
+      "movilizaciones",
+      "sector",
+      "universitario",
+      "respuesta",
+      "decisión",
+      "presidente",
+      "javier",
+      "milei",
+      "desfinanciar",
+      "universidades",
+      "república",
+      "argentina",
+      ".",
+      "conflicto",
+      "tomado",
+      "mayor",
+      "fuerza",
+      "segunda",
+      "etapa",
+      "reclamos",
+      ",",
+      "superó",
+      "número",
+      "intensidad",
+      "primera",
+      "marcha",
+      "pasado",
+      "3",
+      "abril",
+      ".",
+      "pesar",
+      "millón",
+      "personas",
+      "congregaron",
+      "plaza",
+      "mayo",
+      ",",
+      "gobierno",
+      "congreso",
+      "mantuvieron",
+      "postura",
+      ",",
+      "ratificando",
+      "desfinanciamiento",
+      "universidades",
+      "nacionales",
+      ".",
+      "estudiantes",
+      "docentes",
+      "argumentan",
+      "falta",
+      "presupuesto",
+      "afecta",
+      "gravemente",
+      "salud",
+      "educación",
+      "población",
+      ".",
+      "retórica",
+      "presidente",
+      ",",
+      "sostiene",
+      "“",
+      "ningún",
+      "pobre",
+      "llega",
+      "universidad",
+      "pública",
+      "”",
+      "solo",
+      "beneficia",
+      "“",
+      "niños",
+      "ricos",
+      "”",
+      ",",
+      "provocado",
+      "profundo",
+      "descontento",
+      ".",
+      "estudiantes",
+      ",",
+      "primera",
+      "generación",
+      "universitarios",
+      "familias",
+      ",",
+      "sienten",
+      "atacados",
+      "estigmatizados",
+      "gobierno",
+      ".",
+      "frente",
+      "situación",
+      ",",
+      "realizado",
+      "asambleas",
+      "nacionales",
+      "diversas",
+      "universidades",
+      ",",
+      "expresa",
+      "necesidad",
+      "defender",
+      "educación",
+      "pública",
+      "soberanía",
+      "país",
+      ".",
+      "100",
+      "universidades",
+      "actualmente",
+      "tomadas",
+      ",",
+      "lleva",
+      "cabo",
+      "paro",
+      "24",
+      "horas",
+      "desfinanciamiento",
+      ".",
+      "consigna",
+      "movilizados",
+      "sigue",
+      "siendo",
+      "clara",
+      ":",
+      "lucha",
+      "derechos",
+      "defensa",
+      "educación",
+      "pública",
+      "."
+    ],
+    "token_count": 138,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 18,
+      "VBD": 1,
+      "JJ": 20,
+      "NNS": 10,
+      "VBP": 4,
+      "FW": 65,
+      "NN": 71,
+      "IN": 10,
+      "CC": 1,
+      "VBZ": 2,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 6,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-VBP": 3,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "FW-NN": 12,
+      "NN-NN": 38,
+      "NN-IN": 7,
+      "IN-NN": 4,
+      "NN-FW": 13,
+      "FW-FW": 43,
+      "FW-NNP": 6,
+      "NNP-IN": 1,
+      "IN-FW": 5,
+      "NNP-NN": 4,
+      "NNP-FW": 3,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 13,
+      "NN-NNP": 3,
+      "FW-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-IN": 2,
+      "NN-JJ": 8,
+      "VBZ-JJ": 1,
+      "FW-JJ": 2,
+      "JJ-JJ": 2,
+      "NN-NNS": 1,
+      "VBP-JJ": 3,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "IN-CD": 1,
+      "JJ-VBP": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 32,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 3,
+      "NN-NN-NN": 21,
+      "FW-FW-NN": 6,
+      "IN-NN-FW": 1,
+      "NN-FW-NN": 5,
+      "FW-NN-FW": 4,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NN": 7,
+      "JJ-NN-IN": 2,
+      "NNP-FW-FW": 1,
+      "NN-NN-JJ": 4,
+      "JJ-NN-JJ": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 71,
+        "FW": 65,
+        "JJ": 20,
+        "NNP": 18,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 38,
+        "NN-FW": 13,
+        "JJ-NN": 13,
+        "FW-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 32,
+        "NN-NN-NN": 21,
+        "NN-NN-FW": 8,
+        "NN-JJ-NN": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 49,
+      "VP": 8,
+      "PP": 2,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP (',', ',') NP VP ('del', 'FW') NP ('en', 'IN') ('respuesta', 'FW') NP ('de', 'IN') ('desfinanciar', 'FW') ('las', 'FW') ('universidades', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('Buenos', 'NNP') ('Aires', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('se', 'JJ') ('reportan', 'NN') ('las', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "VP -> ('masivas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('movilizaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('sector', 'NN') ('universitario', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('decisión', 'NN') ('del', 'NN') ('presidente', 'NN') ('Javier', 'NNP') ('Milei', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Argentina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "S -> NP ('segunda', 'FW') ('etapa', 'FW') ('de', 'FW') ('reclamos', 'FW') (',', ',') ('que', 'FW') ('superó', 'FW') ('en', 'FW') ('número', 'FW') ('y', 'FW') ('en', 'FW') ('intensidad', 'FW') ('la', 'FW') ('primera', 'FW') ('marcha', 'FW') ('del', 'FW') ('pasado', 'FW') ('3', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('conflicto', 'NN') ('ha', 'NN') ('tomado', 'NN') ('mayor', 'NN') ('fuerza', 'NN') ('desde', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En Buenos Aires"
+      },
+      {
+        "label": "NP",
+        "text": "se reportan las"
+      },
+      {
+        "label": "VP",
+        "text": "masivas movilizaciones"
+      },
+      {
+        "label": "NP",
+        "text": "movilizaciones"
+      },
+      {
+        "label": "NP",
+        "text": "sector universitario"
+      },
+      {
+        "label": "NP",
+        "text": "a la decisión del presidente Javier Milei"
+      },
+      {
+        "label": "NP",
+        "text": "República Argentina"
+      },
+      {
+        "label": "NP",
+        "text": "Este conflicto ha tomado mayor fuerza desde la"
+      },
+      {
+        "label": "PP",
+        "text": "de abril"
+      },
+      {
+        "label": "NP",
+        "text": "abril"
+      },
+      {
+        "label": "NP",
+        "text": "A pesar"
+      },
+      {
+        "label": "NP",
+        "text": "congregaron"
+      },
+      {
+        "label": "NP",
+        "text": "Plaza"
+      },
+      {
+        "label": "NP",
+        "text": "Mayo"
+      },
+      {
+        "label": "VP",
+        "text": "el gobierno y el Congreso mantuvieron su postura"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP Buenos/NNP Aires/NNP)\n  ,/,\n  (NP se/JJ reportan/NN las/NNS)\n  (VP masivas/VBP (NP movilizaciones/NNS))\n  del/FW\n  (NP sector/NN universitario/NN)\n  en/IN\n  respuesta/FW\n  (NP\n    a/DT\n    la/NN\n    decisión/NN\n    del/NN\n    presidente/NN\n    Javier/NNP\n    Milei/NNP)\n  de/IN\n  desfinanciar/FW\n  las/FW\n  universidades/FW\n  de/FW\n  la/FW\n  (NP República/NNP Argentina/NNP)\n  ./.)",
+      "(S\n  (NP\n    Este/NN\n    conflicto/NN\n    ha/NN\n    tomado/NN\n    mayor/NN\n    fuerza/NN\n    desde/NN\n    la/NN)\n  segunda/FW\n  etapa/FW\n  de/FW\n  reclamos/FW\n  ,/,\n  que/FW\n  superó/FW\n  en/FW\n  número/FW\n  y/FW\n  en/FW\n  intensidad/FW\n  la/FW\n  primera/FW\n  marcha/FW\n  del/FW\n  pasado/FW\n  3/CD\n  (PP de/IN (NP abril/NN))\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  que/FW\n  más/FW\n  de/FW\n  un/FW\n  millón/FW\n  de/FW\n  personas/FW\n  se/FW\n  (NP congregaron/NN)\n  en/FW\n  (NP Plaza/NNP)\n  de/FW\n  (NP Mayo/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP\n      gobierno/JJ\n      y/NN\n      el/NN\n      Congreso/NNP\n      mantuvieron/NNP\n      su/NN\n      postura/NN))\n  ,/,\n  (NP ratificando/NN el/NN desfinanciamiento/NN)\n  de/IN\n  las/FW\n  (NP universidades/JJ nacionales/NNS)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP estudiantes/VBZ (NP y/JJ docentes/NNS))\n  (VP argumentan/VBP (NP que/JJ esta/JJ falta/NN))\n  de/IN\n  presupuesto/FW\n  afecta/FW\n  gravemente/FW\n  la/FW\n  salud/FW\n  y/FW\n  la/FW\n  educación/FW\n  de/FW\n  la/FW\n  población/FW\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP retórica/VBZ)\n  del/FW\n  (NP presidente/NN)\n  ,/,\n  (NP quien/JJ sostiene/NN que/NN “/NNP)\n  ningún/CC\n  (NP pobre/JJ llega/NN)\n  (NP a/DT la/NN)\n  (NP universidad/JJ pública/NN ”/NNP y/NN que/NN esta/NN solo/NN)\n  (VP beneficia/VBD (NP a/DT “/JJ niños/NN ricos/NN ”/NNP))\n  ,/,\n  (NP ha/NN provocado/NN)\n  (NP un/JJ profundo/NN descontento/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto ha tomado mayor fuerza desde la segunda etapa de reclamos, que superó en número y en",
+        "position": [
+          202,
+          296
+        ],
+        "start": 202,
+        "end": 296
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1361,
+          1368
+        ],
+        "start": 1361,
+        "end": 1368
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente javier milei",
+        "position": [
+          112,
+          135
+        ],
+        "start": 112,
+        "end": 135
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "universitario",
+        "position": [
+          67,
+          80
+        ],
+        "start": 67,
+        "end": 80
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "universidad pública",
+        "position": [
+          741,
+          760
+        ],
+        "start": 741,
+        "end": 760
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          741,
+          752
+        ],
+        "start": 741,
+        "end": 752
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          186,
+          195
+        ],
+        "start": 186,
+        "end": 195
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "buenos aires",
+        "position": [
+          3,
+          15
+        ],
+        "start": 3,
+        "end": 15
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza de",
+        "position": [
+          411,
+          419
+        ],
+        "start": 411,
+        "end": 419
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1191,
+          1202
+        ],
+        "start": 1191,
+        "end": 1202
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100",
+        "position": [
+          1160,
+          1170
+        ],
+        "start": 1160,
+        "end": 1170
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "República Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Buenos Aires",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plaza de Mayo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Javier Milei",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Buenos Aires",
+        "relacion": "REPORTAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Buenos Aires",
+        "relacion": "REPORTAR",
+        "objeto": "República Argentina"
+      },
+      {
+        "sujeto": "Plaza de Mayo",
+        "relacion": "CONGREGAR_MANTENER",
+        "objeto": "Congreso"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6369,
+    "pos": 0.03,
+    "neu": 0.97,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

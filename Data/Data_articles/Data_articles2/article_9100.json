@@ -1,0 +1,647 @@
+{
+  "url": "https://www.telesurtv.net/ascienden-a-164-los-paramedicos-asesinados-por-ataques-israelies-en-libano/",
+  "title": "Ascienden a 164 los paramédicos asesinados por ataques israelíes en Líbano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Israel",
+    "Líbano",
+    "Médicos"
+  ],
+  "text": "El ministerio de salud libanés informó este sábado que las agresiones israelíes han asesinado al menos a 164 paramédicos desde octubre de 2023, mientras que los trabajadores de salud heridos superan los 275.\nLíbano ha condenado los ataques contra los centros médicos y los propios trabajadores de la salud que son objetivos directos de los ataques.\nEjemplo de ello es el asalto al centro médico de Al-Bazouriyah, agresión que ha dejado un saldo de un paramédico muerto, mientras otros 5 sanitarios del mismo equipo resultaron heridos.\nAsí describió el ataque la cartera de salud: “La incursión del enemigo israelí en un centro de salud en Al-Bazouriyah condujo al martirio de un paramédico de la Autoridad de Salud – Defensa Civil y a la herida de otros 5, incluidos tres paramédicos de la Autoridad.\nLa nación ha hecho un llamado a la comunidad internacional para acabar con estas acciones hostiles e inhumanas.\nIgualmente, el ministerio apuntó que desde el inicio de las agresiones, Israel ha asesinado a 2.653 ciudadanos libaneses, mientras 12.360 civiles han resultado heridos en los bombardeos sionistas.\nSolo en las últimas 24 horas, la cartera de salud afirmó que las agresiones israelíes han martirizado a 19 civiles y 108 personas han sido heridas en las zonas de Nabatieh y la Bekka.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ascienden-a-164-los-paramedicos-asesinados-por-ataques-israelies-en-libano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 344,
+    "message_id": 79245,
+    "date": "2024-10-27T00:55:07+00:00",
+    "text": "teleSUR\nAscienden a 164 los paramédicos asesinados por ataques israelíes en Líbano\nhttps://www.telesurtv.net/ascienden-a-164-los-paramedicos-asesinados-por-ataques-israelies-en-libano/",
+    "photo_path": null,
+    "views": 4020,
+    "reactions": {
+      "🤬": 86,
+      "👎": 6,
+      "👍": 3,
+      "😱": 2,
+      "😢": 2
+    },
+    "total_reactions": 99
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de salud libanés informó este sábado que las agresiones israelíes han asesinado al menos a 164 paramédicos desde octubre de 2023, mientras que los trabajadores de salud heridos superan los 275. líbano ha condenado los ataques contra los centros médicos y los propios trabajadores de la salud que son objetivos directos de los ataques. ejemplo de ello es el asalto al centro médico de al-bazouriyah, agresión que ha dejado un saldo de un paramédico muerto, mientras otros 5 sanitarios del mismo equipo resultaron heridos. así describió el ataque la cartera de salud: “la incursión del enemigo israelí en un centro de salud en al-bazouriyah condujo al martirio de un paramédico de la autoridad de salud – defensa civil y a la herida de otros 5, incluidos tres paramédicos de la autoridad. la nación ha hecho un llamado a la comunidad internacional para acabar con estas acciones hostiles e inhumanas. igualmente, el ministerio apuntó que desde el inicio de las agresiones, israel ha asesinado a 2.653 ciudadanos libaneses, mientras 12.360 civiles han resultado heridos en los bombardeos sionistas. solo en las últimas 24 horas, la cartera de salud afirmó que las agresiones israelíes han martirizado a 19 civiles y 108 personas han sido heridas en las zonas de nabatieh y la bekka.",
+    "tokens": [
+      "ministerio",
+      "salud",
+      "libanés",
+      "informó",
+      "sábado",
+      "agresiones",
+      "israelíes",
+      "asesinado",
+      "menos",
+      "164",
+      "paramédicos",
+      "octubre",
+      "2023",
+      ",",
+      "mientras",
+      "trabajadores",
+      "salud",
+      "heridos",
+      "superan",
+      "275.",
+      "líbano",
+      "condenado",
+      "ataques",
+      "centros",
+      "médicos",
+      "propios",
+      "trabajadores",
+      "salud",
+      "objetivos",
+      "directos",
+      "ataques",
+      ".",
+      "ejemplo",
+      "ello",
+      "asalto",
+      "centro",
+      "médico",
+      "al-bazouriyah",
+      ",",
+      "agresión",
+      "dejado",
+      "saldo",
+      "paramédico",
+      "muerto",
+      ",",
+      "mientras",
+      "5",
+      "sanitarios",
+      "mismo",
+      "equipo",
+      "resultaron",
+      "heridos",
+      ".",
+      "así",
+      "describió",
+      "ataque",
+      "cartera",
+      "salud",
+      ":",
+      "“",
+      "incursión",
+      "enemigo",
+      "israelí",
+      "centro",
+      "salud",
+      "al-bazouriyah",
+      "condujo",
+      "martirio",
+      "paramédico",
+      "autoridad",
+      "salud",
+      "–",
+      "defensa",
+      "civil",
+      "herida",
+      "5",
+      ",",
+      "incluidos",
+      "tres",
+      "paramédicos",
+      "autoridad",
+      ".",
+      "nación",
+      "hecho",
+      "llamado",
+      "comunidad",
+      "internacional",
+      "acabar",
+      "acciones",
+      "hostiles",
+      "inhumanas",
+      ".",
+      "igualmente",
+      ",",
+      "ministerio",
+      "apuntó",
+      "inicio",
+      "agresiones",
+      ",",
+      "israel",
+      "asesinado",
+      "2.653",
+      "ciudadanos",
+      "libaneses",
+      ",",
+      "mientras",
+      "12.360",
+      "civiles",
+      "resultado",
+      "heridos",
+      "bombardeos",
+      "sionistas",
+      ".",
+      "solo",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "cartera",
+      "salud",
+      "afirmó",
+      "agresiones",
+      "israelíes",
+      "martirizado",
+      "19",
+      "civiles",
+      "108",
+      "personas",
+      "sido",
+      "heridas",
+      "zonas",
+      "nabatieh",
+      "bekka",
+      "."
+    ],
+    "token_count": 134,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 19,
+      "NN": 50,
+      "IN": 13,
+      "FW": 49,
+      "JJ": 22,
+      "NNS": 21,
+      "VBP": 9,
+      "VBD": 3,
+      "CD": 8,
+      "$": 2,
+      "RB": 3,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 5,
+      "NN-IN": 10,
+      "IN-FW": 9,
+      "FW-FW": 26,
+      "FW-NN": 10,
+      "NN-NN": 23,
+      "NN-JJ": 4,
+      "JJ-NNS": 8,
+      "NNS-VBP": 7,
+      "VBP-JJ": 4,
+      "JJ-NN": 10,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "IN-CD": 1,
+      "CD-NNS": 5,
+      "NNS-JJ": 3,
+      "JJ-JJ": 4,
+      "NNS-IN": 2,
+      "VBD-$": 1,
+      "$-CD": 2,
+      "CD-NNP": 1,
+      "NN-NNS": 3,
+      "NN-FW": 5,
+      "FW-NNS": 2,
+      "NNS-NNP": 3,
+      "NNP-IN": 1,
+      "FW-NNP": 8,
+      "IN-JJ": 3,
+      "VBP-NNS": 1,
+      "NNS-FW": 2,
+      "NN-NNP": 1,
+      "NNP-FW": 7,
+      "FW-JJ": 3,
+      "NNP-NNP": 4,
+      "NN-VBP": 1,
+      "NNS-NNS": 2,
+      "VBP-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 2,
+      "CD-JJ": 1,
+      "VBP-CD": 1,
+      "VBP-VB": 1,
+      "VB-NN": 1,
+      "NN-$": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-RB": 1,
+      "NNS-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 15,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 10,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NNS": 3,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "IN-FW-NNP": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNP-FW-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-FW-NNS": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-VB": 1,
+      "VBP-VB-NN": 1,
+      "VB-NN-IN": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-$": 1,
+      "NN-$-CD": 1,
+      "$-CD-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "JJ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 50,
+        "FW": 49,
+        "JJ": 22,
+        "NNS": 21,
+        "NNP": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 26,
+        "NN-NN": 23,
+        "NN-IN": 10,
+        "FW-NN": 10,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 15,
+        "NN-NN-NN": 10,
+        "NN-IN-FW": 6,
+        "IN-FW-FW": 5,
+        "FW-FW-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 55,
+      "VP": 14,
+      "PP": 4,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('Autoridad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('agresiones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('civiles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('salud', 'FW') ('libanés', 'FW') ('informó', 'FW') NP NP VP VP ('a', 'DT') ('164', 'CD') NP ('de', 'IN') ('2023', 'CD') (',', ',') ('mientras', 'FW') ('que', 'FW') ('los', 'FW') NP ('de', 'FW') ('salud', 'FW') NP VP ('275', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('ministerio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('sábado', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('agresiones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El ministerio"
+      },
+      {
+        "label": "NP",
+        "text": "este sábado que"
+      },
+      {
+        "label": "NP",
+        "text": "las agresiones"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes han asesinado al"
+      },
+      {
+        "label": "NP",
+        "text": "han asesinado al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "paramédicos desde octubre"
+      },
+      {
+        "label": "NP",
+        "text": "trabajadores"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "VP",
+        "text": "superan los"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano ha condenado los ataques"
+      },
+      {
+        "label": "VP",
+        "text": "contra los centros"
+      },
+      {
+        "label": "NP",
+        "text": "los centros"
+      },
+      {
+        "label": "VP",
+        "text": "médicos y los propios trabajadores"
+      },
+      {
+        "label": "NP",
+        "text": "y los propios trabajadores"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP ministerio/NN)\n  de/IN\n  salud/FW\n  libanés/FW\n  informó/FW\n  (NP este/NN sábado/NN que/NN)\n  (NP las/JJ agresiones/NNS)\n  (VP israelíes/VBP (NP han/JJ asesinado/NN al/NN))\n  (VP menos/VBD)\n  a/DT\n  164/CD\n  (NP paramédicos/NN desde/NN octubre/NN)\n  de/IN\n  2023/CD\n  ,/,\n  mientras/FW\n  que/FW\n  los/FW\n  (NP trabajadores/NNS)\n  de/FW\n  salud/FW\n  (NP heridos/NN)\n  (VP superan/VBD los/RB)\n  275/CD\n  ./.)",
+      "(S\n  (NP Líbano/NNP ha/NN condenado/NN los/NN ataques/NNS)\n  (VP contra/VBP (NP los/JJ centros/NNS))\n  (VP médicos/VBP (NP y/JJ los/JJ propios/JJ trabajadores/NNS))\n  de/IN\n  la/FW\n  salud/FW\n  que/FW\n  (NP son/NN)\n  objetivos/FW\n  (NP directos/NN)\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  ./.)",
+      "(S\n  (NP Ejemplo/NNP)\n  de/FW\n  ello/FW\n  es/FW\n  el/FW\n  asalto/FW\n  al/FW\n  centro/FW\n  médico/FW\n  de/FW\n  (NP Al-Bazouriyah/NNP)\n  ,/,\n  (NP agresión/NN que/NN ha/NN dejado/NN)\n  (NP un/JJ saldo/NN)\n  (PP de/IN (NP un/JJ paramédico/NN muerto/NN))\n  ,/,\n  mientras/FW\n  otros/RB\n  5/CD\n  (NP sanitarios/NNS)\n  del/FW\n  mismo/FW\n  equipo/FW\n  (NP resultaron/NN heridos/NN)\n  ./.)",
+      "(S\n  (NP Así/NNP describió/NN el/NN ataque/NN)\n  la/FW\n  (NP cartera/NN)\n  de/FW\n  (NP salud/NN)\n  :/:\n  (NP “/JJ La/NNP incursión/NN del/NN enemigo/NN israelí/NN)\n  (PP en/IN (NP un/JJ centro/NN))\n  de/IN\n  salud/FW\n  en/FW\n  (NP Al-Bazouriyah/NNP condujo/NN al/NN martirio/NN)\n  (PP de/IN (NP un/JJ paramédico/NN))\n  de/IN\n  la/FW\n  (NP Autoridad/NNP)\n  de/FW\n  (NP Salud/NNP –/NNP Defensa/NNP Civil/NNP)\n  (VP y/VBZ (NP a/DT la/NN herida/NN))\n  de/IN\n  otros/FW\n  5/CD\n  ,/,\n  (NP incluidos/JJ tres/NNS)\n  paramédicos/FW\n  de/FW\n  la/FW\n  (NP Autoridad/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  nación/CC\n  (NP ha/JJ hecho/NN)\n  (ADJP un/JJ)\n  (VP\n    llamado/VBZ\n    (NP a/DT la/NN)\n    (NP comunidad/JJ internacional/JJ para/NN acabar/NN con/NN)\n    (NP estas/JJ acciones/NNS hostiles/NNS)\n    e/RB\n    (NP inhumanas/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresiones israelíes",
+        "position": [
+          59,
+          79
+        ],
+        "start": 59,
+        "end": 79
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1160,
+          1166
+        ],
+        "start": 1160,
+        "end": 1166
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          31,
+          38
+        ],
+        "start": 31,
+        "end": 38
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          717,
+          724
+        ],
+        "start": 717,
+        "end": 724
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "centro de salud",
+        "position": [
+          620,
+          635
+        ],
+        "start": 620,
+        "end": 635
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          208,
+          214
+        ],
+        "start": 208,
+        "end": 214
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro médico",
+        "position": [
+          381,
+          394
+        ],
+        "start": 381,
+        "end": 394
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "108 personas",
+        "position": [
+          1227,
+          1239
+        ],
+        "start": 1227,
+        "end": 1239
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Autoridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Autoridad de Salud – Defensa Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Bazouriyah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bekka",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Bazouriyah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nabatieh",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Al-Bazouriyah",
+        "relacion": "CONDUCIR_DESCRIBIR",
+        "objeto": "Autoridad de Salud – Defensa Civil"
+      },
+      {
+        "sujeto": "Al-Bazouriyah",
+        "relacion": "CONDUCIR_DESCRIBIR",
+        "objeto": "Autoridad"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.743,
+    "pos": 0.046,
+    "neu": 0.943,
+    "neg": 0.011,
+    "label": "positive"
+  }
+}

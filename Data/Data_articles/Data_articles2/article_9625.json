@@ -1,0 +1,603 @@
+{
+  "url": "https://www.telesurtv.net/la-presidenta-hondurena-garantiza-elecciones-libres-y-transparentes-para-el-2025/",
+  "title": "La presidenta hondureña garantiza elecciones libres y transparentes para el 2025 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Presidenta Hondureña",
+    "Xiomara Castro"
+  ],
+  "text": "La presidenta de Honduras, Xiomara Castro garantizo el sábado la celebración de elecciones limpias y transparentes para el 9 de marzo de 2025.\nDurante un discurso en la ceremonia de ascensos de las Fuerzas Armadas, la mandataria destacó la importancia de la alternabilidad en el poder.\nTambién se comprometió a que en el venidero mes de noviembre, Honduras celebrará el triunfo de la democracia tras las elecciones generales.\n“Puedo asegurar que en marzo del 2025 el pueblo tendrá elecciones limpias y transparentes para la realización de las elecciones internas de todos los partidos políticos”, informó la jefa de Estado.\nXiomara Castro enfatizó que la defensa de la soberanía y el respeto a la Constitución son pilares de su gestión, por lo que, hizo hincapié en unas elecciones libres para los hondureños.\nEn medio de la ceremonia de ascensos de las Fuerzas Armadas de Honduras, en el día del natalicio del prócer hondureño, general Francisco Morazán, la mandataria llamó a las fuerzas de seguridad para intensificar la lucha contra la corrupción y el crimen organizado en el país.\nLa presidenta hondureña instó al jefe de las Fuerzas Armadas a proporcionar la tecnología necesaria para combatir estos flagelos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/la-presidenta-hondurena-garantiza-elecciones-libres-y-transparentes-para-el-2025/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1226,
+    "message_id": 78302,
+    "date": "2024-10-13T08:55:07+00:00",
+    "text": "teleSUR\nLa presidenta hondureña garantiza elecciones libres y transparentes para el 2025\nhttps://www.telesurtv.net/la-presidenta-hondurena-garantiza-elecciones-libres-y-transparentes-para-el-2025/",
+    "photo_path": null,
+    "views": 2705,
+    "reactions": {
+      "👏": 46,
+      "🥰": 2,
+      "👍": 1,
+      "🤔": 1
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de honduras, xiomara castro garantizo el sábado la celebración de elecciones limpias y transparentes para el 9 de marzo de 2025. durante un discurso en la ceremonia de ascensos de las fuerzas armadas, la mandataria destacó la importancia de la alternabilidad en el poder. también se comprometió a que en el venidero mes de noviembre, honduras celebrará el triunfo de la democracia tras las elecciones generales. “puedo asegurar que en marzo del 2025 el pueblo tendrá elecciones limpias y transparentes para la realización de las elecciones internas de todos los partidos políticos”, informó la jefa de estado. xiomara castro enfatizó que la defensa de la soberanía y el respeto a la constitución son pilares de su gestión, por lo que, hizo hincapié en unas elecciones libres para los hondureños. en medio de la ceremonia de ascensos de las fuerzas armadas de honduras, en el día del natalicio del prócer hondureño, general francisco morazán, la mandataria llamó a las fuerzas de seguridad para intensificar la lucha contra la corrupción y el crimen organizado en el país. la presidenta hondureña instó al jefe de las fuerzas armadas a proporcionar la tecnología necesaria para combatir estos flagelos.",
+    "tokens": [
+      "presidenta",
+      "honduras",
+      ",",
+      "xiomara",
+      "castro",
+      "garantizo",
+      "sábado",
+      "celebración",
+      "elecciones",
+      "limpias",
+      "transparentes",
+      "9",
+      "marzo",
+      "2025.",
+      "discurso",
+      "ceremonia",
+      "ascensos",
+      "fuerzas",
+      "armadas",
+      ",",
+      "mandataria",
+      "destacó",
+      "importancia",
+      "alternabilidad",
+      "poder",
+      ".",
+      "comprometió",
+      "venidero",
+      "mes",
+      "noviembre",
+      ",",
+      "honduras",
+      "celebrará",
+      "triunfo",
+      "democracia",
+      "tras",
+      "elecciones",
+      "generales",
+      ".",
+      "“",
+      "puedo",
+      "asegurar",
+      "marzo",
+      "2025",
+      "pueblo",
+      "elecciones",
+      "limpias",
+      "transparentes",
+      "realización",
+      "elecciones",
+      "internas",
+      "partidos",
+      "políticos",
+      "”",
+      ",",
+      "informó",
+      "jefa",
+      ".",
+      "xiomara",
+      "castro",
+      "enfatizó",
+      "defensa",
+      "soberanía",
+      "respeto",
+      "constitución",
+      "pilares",
+      "gestión",
+      ",",
+      ",",
+      "hizo",
+      "hincapié",
+      "unas",
+      "elecciones",
+      "libres",
+      "hondureños",
+      ".",
+      "medio",
+      "ceremonia",
+      "ascensos",
+      "fuerzas",
+      "armadas",
+      "honduras",
+      ",",
+      "día",
+      "natalicio",
+      "prócer",
+      "hondureño",
+      ",",
+      "general",
+      "francisco",
+      "morazán",
+      ",",
+      "mandataria",
+      "llamó",
+      "fuerzas",
+      "seguridad",
+      "intensificar",
+      "lucha",
+      "corrupción",
+      "crimen",
+      "organizado",
+      "país",
+      ".",
+      "presidenta",
+      "hondureña",
+      "instó",
+      "jefe",
+      "fuerzas",
+      "armadas",
+      "proporcionar",
+      "tecnología",
+      "necesaria",
+      "combatir",
+      "flagelos",
+      "."
+    ],
+    "token_count": 115,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "FW": 85,
+      "NN": 47,
+      "NNS": 8,
+      "VBP": 4,
+      "IN": 8,
+      "CD": 2,
+      "JJ": 7,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-FW": 5,
+      "FW-FW": 60,
+      "FW-NNP": 7,
+      "NNP-NNP": 8,
+      "NNP-NN": 8,
+      "NN-NN": 24,
+      "NN-FW": 11,
+      "FW-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-FW": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-JJ": 1,
+      "JJ-NN": 3,
+      "NN-IN": 4,
+      "IN-FW": 5,
+      "FW-NN": 11,
+      "NN-NNP": 3,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-NNS": 1,
+      "VBP-NNS": 1,
+      "VBP-JJ": 1,
+      "JJ-FW": 2,
+      "NNS-FW": 1,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "JJ-NNP": 1,
+      "FW-JJ": 1,
+      "VBP-IN": 1,
+      "NN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 13,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 43,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "NNP-NNP-FW": 3,
+      "FW-FW-NN": 7,
+      "FW-NN-FW": 5,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "FW-NNP-NN": 2,
+      "NN-NN-IN": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-FW-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "IN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 85,
+        "NN": 47,
+        "NNP": 23,
+        "NNS": 8,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "FW-FW": 60,
+        "NN-NN": 24,
+        "NN-FW": 11,
+        "FW-NN": 11,
+        "NNP-NNP": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 43,
+        "NN-NN-NN": 13,
+        "NN-FW-FW": 7,
+        "FW-FW-NN": 7,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 42,
+      "VP": 10,
+      "ADJP": 2,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Honduras', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0476
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0476
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0317
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0317
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP ('la', 'FW') ('celebración', 'FW') ('de', 'FW') ('elecciones', 'FW') ('limpias', 'FW') ('y', 'FW') NP VP ('9', 'CD') ('de', 'FW') ('marzo', 'FW') ('de', 'IN') ('2025', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Xiomara', 'NNP') ('Castro', 'NNP') ('garantizo', 'NN') ('el', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('transparentes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') ('el', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP NP ('en', 'IN') ('la', 'FW') ('ceremonia', 'FW') ('de', 'FW') ('ascensos', 'FW') ('de', 'FW') ('las', 'FW') NP (',', ',') ('la', 'FW') ('mandataria', 'FW') NP ('la', 'FW') ('importancia', 'FW') ('de', 'FW') ('la', 'FW') ('alternabilidad', 'FW') ('en', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Durante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0159
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "Honduras"
+      },
+      {
+        "label": "NP",
+        "text": "Xiomara Castro garantizo el sábado"
+      },
+      {
+        "label": "NP",
+        "text": "transparentes"
+      },
+      {
+        "label": "VP",
+        "text": "para el"
+      },
+      {
+        "label": "NP",
+        "text": "Durante"
+      },
+      {
+        "label": "NP",
+        "text": "un discurso"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas Armadas"
+      },
+      {
+        "label": "NP",
+        "text": "destacó"
+      },
+      {
+        "label": "NP",
+        "text": "poder"
+      },
+      {
+        "label": "NP",
+        "text": "También"
+      },
+      {
+        "label": "VP",
+        "text": "se"
+      },
+      {
+        "label": "VP",
+        "text": "comprometió a que"
+      },
+      {
+        "label": "NP",
+        "text": "a que"
+      },
+      {
+        "label": "NP",
+        "text": "el venidero"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP Honduras/NNP)\n  ,/,\n  (NP Xiomara/NNP Castro/NNP garantizo/NN el/NN sábado/NN)\n  la/FW\n  celebración/FW\n  de/FW\n  elecciones/FW\n  limpias/FW\n  y/FW\n  (NP transparentes/NNS)\n  (VP para/VBP el/JJ)\n  9/CD\n  de/FW\n  marzo/FW\n  de/IN\n  2025/CD\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  (NP un/JJ discurso/NN)\n  en/IN\n  la/FW\n  ceremonia/FW\n  de/FW\n  ascensos/FW\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  ,/,\n  la/FW\n  mandataria/FW\n  (NP destacó/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  la/FW\n  alternabilidad/FW\n  en/FW\n  el/FW\n  (NP poder/NN)\n  ./.)",
+      "(S\n  (NP También/NNP)\n  (VP se/VBZ)\n  (VP comprometió/VB (NP a/DT que/NN))\n  en/FW\n  (NP el/NN venidero/NN)\n  mes/FW\n  de/FW\n  noviembre/FW\n  ,/,\n  (NP Honduras/NNP)\n  (VP celebrará/VBZ (NP el/JJ triunfo/NN))\n  de/IN\n  la/FW\n  democracia/FW\n  tras/FW\n  las/FW\n  (NP elecciones/NNS generales/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Puedo/NNP asegurar/NN que/NN)\n  en/FW\n  marzo/FW\n  del/FW\n  2025/CD\n  (NP el/NN pueblo/NN tendrá/NN elecciones/NNS)\n  (VP limpias/VBP (NP y/JJ transparentes/NNS))\n  (VP para/VBP la/JJ)\n  realización/FW\n  de/FW\n  las/FW\n  (NP elecciones/NNS)\n  internas/FW\n  de/FW\n  todos/FW\n  los/FW\n  partidos/FW\n  (NP políticos/NN ”/NN)\n  ,/,\n  (ADJP informó/JJ)\n  la/FW\n  jefa/FW\n  de/FW\n  (NP Estado/NNP)\n  ./.)",
+      "(S\n  Xiomara/FW\n  (NP Castro/NNP)\n  enfatizó/FW\n  (NP que/NN)\n  la/FW\n  defensa/FW\n  de/FW\n  la/FW\n  soberanía/FW\n  y/FW\n  el/FW\n  respeto/FW\n  (NP a/DT la/NN Constitución/NNP son/NN)\n  (VP pilares/VBZ)\n  de/IN\n  su/FW\n  (NP gestión/NN)\n  ,/,\n  (NP por/NN lo/NN que/NN)\n  ,/,\n  (NP hizo/NN hincapié/NN)\n  (PP en/IN (NP unas/JJ elecciones/NNS))\n  (VP libres/VBZ (NP para/JJ los/NN hondureños/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "LEYES_NORMATIVAS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          597,
+          604
+        ],
+        "start": 597,
+        "end": 604
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "corrupción",
+        "position": [
+          1040,
+          1050
+        ],
+        "start": 1040,
+        "end": 1050
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          655,
+          662
+        ],
+        "start": 655,
+        "end": 662
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "soberanía y el respeto",
+        "position": [
+          669,
+          691
+        ],
+        "start": 669,
+        "end": 691
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de honduras",
+        "position": [
+          3,
+          25
+        ],
+        "start": 3,
+        "end": 25
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          229,
+          236
+        ],
+        "start": 229,
+        "end": 236
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "constitución",
+        "position": [
+          697,
+          709
+        ],
+        "start": 697,
+        "end": 709
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "honduras",
+        "position": [
+          17,
+          25
+        ],
+        "start": 17,
+        "end": 25
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "9 de marzo de 2025",
+        "position": [
+          123,
+          141
+        ],
+        "start": 123,
+        "end": 141
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el día",
+        "position": [
+          883,
+          892
+        ],
+        "start": 883,
+        "end": 892
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Constitución",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Honduras",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Francisco Morazán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Xiomara Castro",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Xiomara Castro",
+        "relacion": "GARANTIZAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "Xiomara Castro",
+        "relacion": "ENFATIZAR",
+        "objeto": "Constitución"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Honduras",
+        "relacion": "LLAMAR",
+        "objeto": "Francisco Morazán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

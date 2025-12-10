@@ -1,0 +1,732 @@
+{
+  "url": "https://www.telesurtv.net/asamblea-nacional-entrega-al-ministerio-publico-informe-contra-involucrados-en-el-robo-de-citgo/",
+  "title": "Asamblea Nacional entrega al Ministerio Público informe contra involucrados en el robo de CITGO - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Asamblea Nacional",
+    "citgo",
+    "Crimen",
+    "Venezuela"
+  ],
+  "text": "Este viernes el vicepresidente de la Asamblea Nacional (AN), Pedro Infante, presentó ante el Ministerio Público (MP), el informe final que involucra a individuos, partidos políticos y organizaciones no gubernamentales, las cuales están envueltas en la trama corrupta que busca quebrar la empresa estatal CITGO.\nLEA TAMBIÉN:Venezuela convoca al Foro Parlamentario Mundial Antifascista\nInfante, representó al Poder Legislativo por instrucciones del presidente de la AN, Jorge Rodríguez, con el objetivo de consignar formalmente el informe definitivo de la Comisión Especial que investiga a los involucrados en lo que, según Pedro Infante, es “el robo más grande de la historia de Venezuela, el de nuestra empresa CITGO”.\nSegún el vicepresidente de la AN, se investigó a partidos políticos y diputados del periodo legislativo 2026-2021.\nAsimismo, el legislador mostró 19 documentos comprobatorios que muestran la participación de la extinta Asamblea Nacional de 2015 en el caso.\nPor su parte, el Fiscal General de la República, Tarek William Saab, recibió el documento y aseguró que el organismo procederá a las correspondientes investigaciones. Adelantó que ya fueron designados fiscales nacionales para atender el caso.\nSegún Saab, 15 partidos políticos se mencionan en el informe, entre ellos, facciones de la extrema derecha que se venían investigando desde meses atrás, por delitos contra el Estado Venezolano.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/asamblea-nacional-entrega-al-ministerio-publico-informe-contra-involucrados-en-el-robo-de-citgo/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 413,
+    "message_id": 79173,
+    "date": "2024-10-25T18:55:07+00:00",
+    "text": "teleSUR\nAsamblea Nacional entrega al Ministerio Público informe contra involucrados en el robo de CITGO\nhttps://www.telesurtv.net/asamblea-nacional-entrega-al-ministerio-publico-informe-contra-involucrados-en-el-robo-de-citgo/",
+    "photo_path": null,
+    "views": 2673,
+    "reactions": {
+      "👏": 56,
+      "👍": 1
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "este viernes el vicepresidente de la asamblea nacional (an), pedro infante, presentó ante el ministerio público (mp), el informe final que involucra a individuos, partidos políticos y organizaciones no gubernamentales, las cuales están envueltas en la trama corrupta que busca quebrar la empresa estatal citgo. infante, representó al poder legislativo por instrucciones del presidente de la an, jorge rodríguez, con el objetivo de consignar formalmente el informe definitivo de la comisión especial que investiga a los involucrados en lo que, según pedro infante, es “el robo más grande de la historia de venezuela, el de nuestra empresa citgo”. según el vicepresidente de la an, se investigó a partidos políticos y diputados del periodo legislativo 2026-2021. asimismo, el legislador mostró 19 documentos comprobatorios que muestran la participación de la extinta asamblea nacional de 2015 en el caso. por su parte, el fiscal general de la república, tarek william saab, recibió el documento y aseguró que el organismo procederá a las correspondientes investigaciones. adelantó que ya fueron designados fiscales nacionales para atender el caso. según saab, 15 partidos políticos se mencionan en el informe, entre ellos, facciones de la extrema derecha que se venían investigando desde meses atrás, por delitos contra el estado venezolano.",
+    "tokens": [
+      "viernes",
+      "vicepresidente",
+      "asamblea",
+      "nacional",
+      "(",
+      "an",
+      ")",
+      ",",
+      "pedro",
+      "infante",
+      ",",
+      "presentó",
+      "ministerio",
+      "público",
+      "(",
+      "mp",
+      ")",
+      ",",
+      "informe",
+      "final",
+      "involucra",
+      "individuos",
+      ",",
+      "partidos",
+      "políticos",
+      "organizaciones",
+      "gubernamentales",
+      ",",
+      "cuales",
+      "envueltas",
+      "trama",
+      "corrupta",
+      "busca",
+      "quebrar",
+      "empresa",
+      "estatal",
+      "citgo",
+      ".",
+      "infante",
+      ",",
+      "representó",
+      "poder",
+      "legislativo",
+      "instrucciones",
+      "presidente",
+      "an",
+      ",",
+      "jorge",
+      "rodríguez",
+      ",",
+      "objetivo",
+      "consignar",
+      "formalmente",
+      "informe",
+      "definitivo",
+      "comisión",
+      "especial",
+      "investiga",
+      "involucrados",
+      ",",
+      "según",
+      "pedro",
+      "infante",
+      ",",
+      "“",
+      "robo",
+      "grande",
+      "historia",
+      "venezuela",
+      ",",
+      "empresa",
+      "citgo",
+      "”",
+      ".",
+      "según",
+      "vicepresidente",
+      "an",
+      ",",
+      "investigó",
+      "partidos",
+      "políticos",
+      "diputados",
+      "periodo",
+      "legislativo",
+      "2026-2021.",
+      "asimismo",
+      ",",
+      "legislador",
+      "mostró",
+      "19",
+      "documentos",
+      "comprobatorios",
+      "muestran",
+      "participación",
+      "extinta",
+      "asamblea",
+      "nacional",
+      "2015",
+      "caso",
+      ".",
+      "parte",
+      ",",
+      "fiscal",
+      "general",
+      "república",
+      ",",
+      "tarek",
+      "william",
+      "saab",
+      ",",
+      "recibió",
+      "documento",
+      "aseguró",
+      "organismo",
+      "procederá",
+      "correspondientes",
+      "investigaciones",
+      ".",
+      "adelantó",
+      "designados",
+      "fiscales",
+      "nacionales",
+      "atender",
+      "caso",
+      ".",
+      "según",
+      "saab",
+      ",",
+      "15",
+      "partidos",
+      "políticos",
+      "mencionan",
+      "informe",
+      ",",
+      ",",
+      "facciones",
+      "extrema",
+      "derecha",
+      "venían",
+      "investigando",
+      "meses",
+      "atrás",
+      ",",
+      "delitos",
+      "venezolano",
+      "."
+    ],
+    "token_count": 146,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "NNS": 12,
+      "VBP": 6,
+      "FW": 52,
+      "NN": 64,
+      "VBZ": 4,
+      "JJ": 9,
+      "DT": 1,
+      "VBD": 2,
+      "CD": 3,
+      "IN": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-FW": 1,
+      "FW-FW": 35,
+      "FW-NNP": 9,
+      "NNP-NNP": 27,
+      "NNP-FW": 5,
+      "FW-NN": 6,
+      "NN-FW": 5,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-JJ": 1,
+      "JJ-NN": 3,
+      "NN-NN": 43,
+      "NN-VBZ": 3,
+      "VBZ-DT": 1,
+      "DT-NNS": 1,
+      "VBP-NNS": 2,
+      "NNS-FW": 2,
+      "FW-JJ": 2,
+      "JJ-NNP": 3,
+      "NNP-NN": 10,
+      "NN-NNP": 5,
+      "NN-NNS": 3,
+      "NN-JJ": 1,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-NNS": 2,
+      "VBP-JJ": 2,
+      "JJ-FW": 1,
+      "NNP-IN": 1,
+      "IN-CD": 1,
+      "CD-FW": 1,
+      "NN-RB": 1,
+      "RB-NNP": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 1,
+      "VBP-NN": 1,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NN-IN": 1,
+      "IN-FW": 2,
+      "JJ-NNS": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 25,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 13,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 2,
+      "NN-NN-NN": 27,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NNS": 1,
+      "DT-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 3,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NN-FW-FW": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NNP-FW-FW": 3,
+      "FW-NNP-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-NNP": 1,
+      "RB-NNP-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 64,
+        "FW": 52,
+        "NNP": 47,
+        "NNS": 12,
+        "JJ": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 43,
+        "FW-FW": 35,
+        "NNP-NNP": 27,
+        "NNP-NN": 10,
+        "FW-NNP": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 25,
+        "NNP-NNP-NNP": 13,
+        "NNP-NN-NN": 9,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 52,
+      "VP": 10,
+      "ADJP": 3,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('AN', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0405
+      },
+      {
+        "rule": "NP -> ('Asamblea', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "S -> NP VP ('vicepresidente', 'FW') ('de', 'FW') ('la', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP ('el', 'FW') NP ('(', '(') NP (')', ')') (',', ',') ADJP VP (',', ',') NP VP (',', ',') NP VP ('en', 'FW') ('la', 'FW') ('trama', 'FW') NP ('empresa', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Este', 'NNP') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "VP -> ('el', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Pedro', 'NNP') ('Infante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('presentó', 'NN') ('ante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Ministerio', 'NNP') ('Público', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('MP', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "Asamblea Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "AN"
+      },
+      {
+        "label": "NP",
+        "text": "Pedro Infante"
+      },
+      {
+        "label": "NP",
+        "text": "presentó ante"
+      },
+      {
+        "label": "NP",
+        "text": "Ministerio Público"
+      },
+      {
+        "label": "NP",
+        "text": "MP"
+      },
+      {
+        "label": "ADJP",
+        "text": "el"
+      },
+      {
+        "label": "VP",
+        "text": "informe final que involucra a individuos"
+      },
+      {
+        "label": "NP",
+        "text": "final que involucra"
+      },
+      {
+        "label": "NP",
+        "text": "a individuos"
+      },
+      {
+        "label": "NP",
+        "text": "partidos políticos y"
+      },
+      {
+        "label": "VP",
+        "text": "organizaciones no gubernamentales"
+      },
+      {
+        "label": "NP",
+        "text": "no gubernamentales"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NNP viernes/NNS)\n  (VP el/VBP)\n  vicepresidente/FW\n  de/FW\n  la/FW\n  (NP Asamblea/NNP Nacional/NNP)\n  (/(\n  (NP AN/NNP)\n  )/)\n  ,/,\n  (NP Pedro/NNP Infante/NNP)\n  ,/,\n  (NP presentó/NN ante/NN)\n  el/FW\n  (NP Ministerio/NNP Público/NNP)\n  (/(\n  (NP MP/NNP)\n  )/)\n  ,/,\n  (ADJP el/JJ)\n  (VP\n    informe/VBP\n    (NP final/JJ que/NN involucra/NN)\n    (NP a/DT individuos/NN))\n  ,/,\n  (NP partidos/JJ políticos/NN y/NN)\n  (VP organizaciones/VBZ (NP no/DT gubernamentales/NNS))\n  ,/,\n  (NP las/NNS cuales/NNS)\n  (VP están/VBP (NP envueltas/NNS))\n  en/FW\n  la/FW\n  trama/FW\n  (NP corrupta/NN que/NN busca/NN quebrar/NN la/NN)\n  empresa/FW\n  (NP estatal/JJ CITGO/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP\n    Venezuela/NNP\n    convoca/NN\n    al/NN\n    Foro/NNP\n    Parlamentario/NNP\n    Mundial/NNP\n    Antifascista/NNP\n    Infante/NNP)\n  ,/,\n  (NP\n    representó/NN\n    al/NN\n    Poder/NNP\n    Legislativo/NNP\n    por/NN\n    instrucciones/NNS)\n  del/FW\n  presidente/FW\n  de/FW\n  la/FW\n  (NP AN/NNP)\n  ,/,\n  (NP Jorge/NNP Rodríguez/NNP)\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  consignar/FW\n  formalmente/FW\n  el/FW\n  informe/FW\n  definitivo/FW\n  de/FW\n  la/FW\n  (NP Comisión/NNP Especial/NNP que/NN investiga/NN)\n  (NP a/DT los/JJ involucrados/NN)\n  (PP en/IN (NP lo/NN que/NN))\n  ,/,\n  (NP según/JJ Pedro/NNP Infante/NNP)\n  ,/,\n  (VP es/VBZ (NP “/NNP el/NN robo/NN más/NN grande/NN))\n  de/IN\n  la/FW\n  historia/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  el/FW\n  de/FW\n  nuestra/FW\n  empresa/FW\n  (NP CITGO/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  vicepresidente/FW\n  de/FW\n  la/FW\n  (NP AN/NNP)\n  ,/,\n  (NP se/NN investigó/NN)\n  (NP\n    a/DT\n    partidos/NN\n    políticos/NN\n    y/NN\n    diputados/NN\n    del/NN\n    periodo/NN)\n  (ADJP legislativo/JJ)\n  (ADJP 2026-2021/JJ)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP el/VBZ (NP legislador/JJ mostró/NN))\n  19/CD\n  (NP documentos/NN comprobatorios/NNS)\n  (VP que/VBP muestran/JJ)\n  la/FW\n  participación/FW\n  de/FW\n  la/FW\n  extinta/FW\n  (NP Asamblea/NNP Nacional/NNP)\n  de/IN\n  2015/CD\n  en/FW\n  el/FW\n  (NP caso/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/RB\n  (NP Fiscal/NNP General/NNP de/NNP la/NNP República/NNP)\n  ,/,\n  (NP Tarek/NNP William/NNP Saab/NNP)\n  ,/,\n  (NP\n    recibió/NN\n    el/NN\n    documento/NN\n    y/NN\n    aseguró/NN\n    que/NN\n    el/NN\n    organismo/NN)\n  (VP\n    procederá/VBZ\n    (NP a/DT las/JJ correspondientes/NNS investigaciones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          447,
+          463
+        ],
+        "start": 447,
+        "end": 463
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          37,
+          54
+        ],
+        "start": 37,
+        "end": 54
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          1310,
+          1325
+        ],
+        "start": 1310,
+        "end": 1325
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          323,
+          332
+        ],
+        "start": 323,
+        "end": 332
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado venezolano",
+        "position": [
+          1394,
+          1411
+        ],
+        "start": 1394,
+        "end": 1411
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jorge Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pedro Infante",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fiscal General de la República",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Asamblea Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Poder Legislativo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "AN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Adelantó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado Venezolano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comisión Especial",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saab",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "CITGO",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tarek William Saab",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Asamblea Nacional",
+        "relacion": "PRESENTAR",
+        "objeto": "CITGO"
+      },
+      {
+        "sujeto": "AN",
+        "relacion": "PRESENTAR",
+        "objeto": "CITGO"
+      },
+      {
+        "sujeto": "Pedro Infante",
+        "relacion": "PRESENTAR",
+        "objeto": "CITGO"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONVOCAR_REPRESENTAR",
+        "objeto": "Poder Legislativo"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONVOCAR_REPRESENTAR",
+        "objeto": "AN"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONVOCAR_REPRESENTAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONVOCAR_REPRESENTAR",
+        "objeto": "Comisión Especial"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONVOCAR_REPRESENTAR",
+        "objeto": "Pedro Infante"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CONVOCAR_REPRESENTAR",
+        "objeto": "CITGO"
+      },
+      {
+        "sujeto": "Poder Legislativo",
+        "relacion": "REPRESENTAR",
+        "objeto": "AN"
+      },
+      {
+        "sujeto": "Poder Legislativo",
+        "relacion": "REPRESENTAR",
+        "objeto": "Jorge Rodríguez"
+      },
+      {
+        "sujeto": "Poder Legislativo",
+        "relacion": "REPRESENTAR",
+        "objeto": "Comisión Especial"
+      },
+      {
+        "sujeto": "Poder Legislativo",
+        "relacion": "REPRESENTAR",
+        "objeto": "Pedro Infante"
+      },
+      {
+        "sujeto": "Poder Legislativo",
+        "relacion": "REPRESENTAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Poder Legislativo",
+        "relacion": "REPRESENTAR",
+        "objeto": "CITGO"
+      },
+      {
+        "sujeto": "AN",
+        "relacion": "REPRESENTAR",
+        "objeto": "Comisión Especial"
+      },
+      {
+        "sujeto": "AN",
+        "relacion": "REPRESENTAR",
+        "objeto": "Pedro Infante"
+      },
+      {
+        "sujeto": "AN",
+        "relacion": "REPRESENTAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "AN",
+        "relacion": "REPRESENTAR",
+        "objeto": "CITGO"
+      },
+      {
+        "sujeto": "Jorge Rodríguez",
+        "relacion": "REPRESENTAR",
+        "objeto": "Comisión Especial"
+      },
+      {
+        "sujeto": "Jorge Rodríguez",
+        "relacion": "REPRESENTAR",
+        "objeto": "Pedro Infante"
+      },
+      {
+        "sujeto": "Jorge Rodríguez",
+        "relacion": "REPRESENTAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Jorge Rodríguez",
+        "relacion": "REPRESENTAR",
+        "objeto": "CITGO"
+      },
+      {
+        "sujeto": "Saab",
+        "relacion": "MENCIONAR",
+        "objeto": "Estado Venezolano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.989,
+    "neg": 0.011,
+    "label": "negative"
+  }
+}

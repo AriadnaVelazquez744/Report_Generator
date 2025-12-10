@@ -1,0 +1,655 @@
+{
+  "url": "https://www.telesurtv.net/continuaran-apagones-de-hasta-14-horas-en-ecuador-a-lo-largo-de-esta-semana/",
+  "title": "Continuarán apagones de hasta 14 horas en Ecuador a lo largo de esta semana - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Apagones",
+    "Cortes de luz",
+    "Presidente Daniel Noboa"
+  ],
+  "text": "El Ministerio de Energía y Minas de Ecuador anunció el domingo que la próxima semana se mantendrán los apagones en varias regiones, de hasta 14 horas, debido a la crisis energética que atraviesa el país.\nSegún la cartera de Energía entre el lunes 28 y el domingo 3 de noviembre se contemplan apagones de entre 10 y 14 horas diarias, de acuerdo a las características y necesidades de cada zona del país.\nDesde hace más de un mes, Ecuador atraviesa por una crisis energética, debido al estiaje en las zonas donde se encuentran las principales hidroeléctricas del país, situación que ha obligado a apagones que se agudizaron el pasado viernes con cortes de hasta 14 horas diarias.\nLos cortes del servicio eléctrico han provocado pérdidas económicas a negocios, empresas y familias.\nEn horas de la noche del domingo, el presidente ecuatoriano, Daniel Noboa aseguró que para el mes de diciembre ya no deberían haber apagones en el país.\nNoboa indicó que para cumplir con esa promesa se comprará electricidad a Colombia y motores para la generación de energía eléctrica.\nSemanas atrás, el jefe de Estado había ofrecido reducir las horas de apagones hasta llegar a cuatro para la primera semana de noviembre.\nEn medio de una entrevista, el mandatario reconoció que el problema de los apagones ha bajado su popularidad de cara a unas nuevas elecciones.\nDaniel Noboa aprovechó la oportunidad para responsabilizar a gobiernos anteriores de la crisis eléctrica que afecta al país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/continuaran-apagones-de-hasta-14-horas-en-ecuador-a-lo-largo-de-esta-semana/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 276,
+    "message_id": 79319,
+    "date": "2024-10-28T07:55:07+00:00",
+    "text": "teleSUR\nContinuarán apagones de hasta 14 horas en Ecuador a lo largo de esta semana\nhttps://www.telesurtv.net/continuaran-apagones-de-hasta-14-horas-en-ecuador-a-lo-largo-de-esta-semana/",
+    "photo_path": null,
+    "views": 3003,
+    "reactions": {
+      "😁": 39,
+      "😱": 16,
+      "👍": 1
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de energía y minas de ecuador anunció el domingo que la próxima semana se mantendrán los apagones en varias regiones, de hasta 14 horas, debido a la crisis energética que atraviesa el país. según la cartera de energía entre el lunes 28 y el domingo 3 de noviembre se contemplan apagones de entre 10 y 14 horas diarias, de acuerdo a las características y necesidades de cada zona del país. desde hace más de un mes, ecuador atraviesa por una crisis energética, debido al estiaje en las zonas donde se encuentran las principales hidroeléctricas del país, situación que ha obligado a apagones que se agudizaron el pasado viernes con cortes de hasta 14 horas diarias. los cortes del servicio eléctrico han provocado pérdidas económicas a negocios, empresas y familias. en horas de la noche del domingo, el presidente ecuatoriano, daniel noboa aseguró que para el mes de diciembre ya no deberían haber apagones en el país. noboa indicó que para cumplir con esa promesa se comprará electricidad a colombia y motores para la generación de energía eléctrica. semanas atrás, el jefe de estado había ofrecido reducir las horas de apagones hasta llegar a cuatro para la primera semana de noviembre. en medio de una entrevista, el mandatario reconoció que el problema de los apagones ha bajado su popularidad de cara a unas nuevas elecciones. daniel noboa aprovechó la oportunidad para responsabilizar a gobiernos anteriores de la crisis eléctrica que afecta al país.",
+    "tokens": [
+      "ministerio",
+      "energía",
+      "minas",
+      "ecuador",
+      "anunció",
+      "domingo",
+      "próxima",
+      "semana",
+      "mantendrán",
+      "apagones",
+      "varias",
+      "regiones",
+      ",",
+      "14",
+      "horas",
+      ",",
+      "debido",
+      "crisis",
+      "energética",
+      "atraviesa",
+      "país",
+      ".",
+      "según",
+      "cartera",
+      "energía",
+      "lunes",
+      "28",
+      "domingo",
+      "3",
+      "noviembre",
+      "contemplan",
+      "apagones",
+      "10",
+      "14",
+      "horas",
+      "diarias",
+      ",",
+      "acuerdo",
+      "características",
+      "necesidades",
+      "cada",
+      "zona",
+      "país",
+      ".",
+      "hace",
+      "mes",
+      ",",
+      "ecuador",
+      "atraviesa",
+      "crisis",
+      "energética",
+      ",",
+      "debido",
+      "estiaje",
+      "zonas",
+      "encuentran",
+      "principales",
+      "hidroeléctricas",
+      "país",
+      ",",
+      "situación",
+      "obligado",
+      "apagones",
+      "agudizaron",
+      "pasado",
+      "viernes",
+      "cortes",
+      "14",
+      "horas",
+      "diarias",
+      ".",
+      "cortes",
+      "servicio",
+      "eléctrico",
+      "provocado",
+      "pérdidas",
+      "económicas",
+      "negocios",
+      ",",
+      "empresas",
+      "familias",
+      ".",
+      "horas",
+      "noche",
+      "domingo",
+      ",",
+      "presidente",
+      "ecuatoriano",
+      ",",
+      "daniel",
+      "noboa",
+      "aseguró",
+      "mes",
+      "diciembre",
+      "deberían",
+      "haber",
+      "apagones",
+      "país",
+      ".",
+      "noboa",
+      "indicó",
+      "cumplir",
+      "promesa",
+      "comprará",
+      "electricidad",
+      "colombia",
+      "motores",
+      "generación",
+      "energía",
+      "eléctrica",
+      ".",
+      "semanas",
+      "atrás",
+      ",",
+      "jefe",
+      "ofrecido",
+      "reducir",
+      "horas",
+      "apagones",
+      "llegar",
+      "cuatro",
+      "primera",
+      "semana",
+      "noviembre",
+      ".",
+      "medio",
+      "entrevista",
+      ",",
+      "mandatario",
+      "reconoció",
+      "problema",
+      "apagones",
+      "bajado",
+      "popularidad",
+      "cara",
+      "unas",
+      "nuevas",
+      "elecciones",
+      ".",
+      "daniel",
+      "noboa",
+      "aprovechó",
+      "oportunidad",
+      "responsabilizar",
+      "gobiernos",
+      "anteriores",
+      "crisis",
+      "eléctrica",
+      "afecta",
+      "país",
+      "."
+    ],
+    "token_count": 151,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "IN": 18,
+      "VBP": 11,
+      "JJ": 20,
+      "NN": 74,
+      "FW": 55,
+      "NNS": 20,
+      "CD": 5,
+      "CC": 2,
+      "VBZ": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 5,
+      "NNP-IN": 2,
+      "IN-NNP": 4,
+      "NNP-VBP": 2,
+      "VBP-JJ": 6,
+      "JJ-NN": 10,
+      "NN-NN": 47,
+      "NN-FW": 3,
+      "FW-FW": 33,
+      "FW-NNS": 4,
+      "NNS-IN": 7,
+      "IN-JJ": 2,
+      "JJ-NNS": 4,
+      "IN-FW": 11,
+      "FW-CD": 3,
+      "CD-NNS": 3,
+      "NNS-JJ": 2,
+      "JJ-FW": 3,
+      "FW-NN": 8,
+      "NN-VBP": 3,
+      "VBP-NN": 2,
+      "NN-NNP": 3,
+      "NNP-NN": 6,
+      "NN-IN": 8,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNS-CD": 1,
+      "CD-JJ": 1,
+      "NN-NNS": 5,
+      "CD-CD": 1,
+      "NNS-FW": 1,
+      "FW-IN": 1,
+      "FW-NNP": 3,
+      "NNS-NNP": 2,
+      "NN-JJ": 4,
+      "NNS-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-NNS": 2,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 2,
+      "FW-JJ": 2,
+      "NNP-FW": 2,
+      "FW-CC": 1,
+      "CC-DT": 1,
+      "DT-JJ": 1,
+      "IN-NN": 1,
+      "VBP-NNP": 1,
+      "NNP-NNS": 1,
+      "JJ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 1,
+      "FW-FW-FW": 23,
+      "FW-FW-NNS": 3,
+      "FW-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 5,
+      "IN-FW-CD": 3,
+      "FW-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 29,
+      "NN-NN-VBP": 3,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-NNS": 1,
+      "NN-NNS-IN": 2,
+      "FW-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-IN": 1,
+      "FW-IN-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 1,
+      "IN-FW-CC": 1,
+      "FW-CC-DT": 1,
+      "CC-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "IN-NNP-NN": 1,
+      "NN-JJ-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-FW-FW": 1,
+      "IN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 74,
+        "FW": 55,
+        "NNP": 21,
+        "JJ": 20,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "FW-FW": 33,
+        "IN-FW": 11,
+        "JJ-NN": 10,
+        "FW-NN": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 23,
+        "JJ-NN-NN": 6,
+        "NNS-IN-FW": 5,
+        "FW-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 60,
+      "PP": 8,
+      "VP": 18,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0521
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('apagones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('horas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('el', 'NN') ('país', 'NN')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "S -> NP PP PP VP ('la', 'FW') ('próxima', 'FW') ('semana', 'FW') ('se', 'FW') ('mantendrán', 'FW') ('los', 'FW') NP PP (',', ',') ('de', 'FW') ('hasta', 'FW') ('14', 'CD') NP (',', ',') VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('Energía', 'NNP') ('y', 'NNP') ('Minas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "VP -> ('anunció', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0104
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Energía y Minas"
+      },
+      {
+        "label": "NP",
+        "text": "Energía y Minas"
+      },
+      {
+        "label": "PP",
+        "text": "de Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "VP",
+        "text": "anunció el domingo que"
+      },
+      {
+        "label": "NP",
+        "text": "el domingo que"
+      },
+      {
+        "label": "NP",
+        "text": "apagones"
+      },
+      {
+        "label": "PP",
+        "text": "en varias regiones"
+      },
+      {
+        "label": "NP",
+        "text": "varias regiones"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "VP",
+        "text": "debido a la crisis energética que"
+      },
+      {
+        "label": "NP",
+        "text": "a la crisis energética que"
+      },
+      {
+        "label": "VP",
+        "text": "atraviesa el país"
+      },
+      {
+        "label": "NP",
+        "text": "el país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Energía/NNP y/NNP Minas/NNP))\n  (PP de/IN (NP Ecuador/NNP))\n  (VP anunció/VBP (NP el/JJ domingo/NN que/NN))\n  la/FW\n  próxima/FW\n  semana/FW\n  se/FW\n  mantendrán/FW\n  los/FW\n  (NP apagones/NNS)\n  (PP en/IN (NP varias/NN regiones/NNS))\n  ,/,\n  de/FW\n  hasta/FW\n  14/CD\n  (NP horas/NNS)\n  ,/,\n  (VP debido/VBZ (NP a/DT la/NN crisis/NN energética/NN que/NN))\n  (VP atraviesa/VBP (NP el/NN país/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP la/NNP cartera/NN)\n  (PP de/IN (NP Energía/NNP))\n  entre/CC\n  (NP el/JJ lunes/NNS)\n  28/CD\n  (NP y/NNS)\n  (VP el/VBP domingo/JJ)\n  3/CD\n  de/IN\n  noviembre/FW\n  se/FW\n  (NP contemplan/NN apagones/NNS)\n  de/IN\n  entre/FW\n  10/CD\n  (NP y/NN)\n  14/CD\n  (NP horas/NN diarias/NN)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP a/DT las/NN características/NN y/NNP)\n  (VP necesidades/VBZ)\n  de/IN\n  cada/FW\n  zona/FW\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Desde/NNP hace/NN más/NN)\n  (PP de/IN (NP un/JJ mes/NNS))\n  ,/,\n  (NP Ecuador/NNP)\n  (VP atraviesa/VBZ (NP por/JJ una/JJ crisis/NN energética/NN))\n  ,/,\n  (NP debido/NN al/NN estiaje/NN)\n  en/IN\n  las/FW\n  zonas/FW\n  donde/FW\n  se/FW\n  encuentran/FW\n  (NP las/NNS principales/NNS)\n  (VP hidroeléctricas/VBP (NP del/NN país/NN))\n  ,/,\n  (NP situación/NN que/NN ha/NN)\n  (PP obligado/IN (NP a/DT apagones/NNS que/NN))\n  (VP se/VBP (NP agudizaron/NN el/NN pasado/NN viernes/NNS))\n  (VP con/VBP (NP cortes/NNS))\n  de/IN\n  hasta/FW\n  14/CD\n  (NP horas/NNS)\n  diarias/RB\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP cortes/VBZ)\n  del/FW\n  (NP servicio/JJ eléctrico/NN han/NN provocado/NN pérdidas/NN)\n  (VP económicas/VBZ (NP a/DT negocios/NNS))\n  ,/,\n  (VP empresas/VBP (NP y/JJ familias/NN))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  horas/FW\n  de/FW\n  la/FW\n  noche/FW\n  del/FW\n  (NP domingo/NN)\n  ,/,\n  el/FW\n  (NP presidente/NN ecuatoriano/NN)\n  ,/,\n  (NP Daniel/NNP Noboa/NNP aseguró/NN que/NN para/NN)\n  (NP el/JJ mes/NNS)\n  de/IN\n  diciembre/FW\n  ya/CC\n  (NP no/DT deberían/JJ haber/NN apagones/NNS)\n  (PP en/IN (NP el/NN país/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          44,
+          51
+        ],
+        "start": 44,
+        "end": 51
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "apagones",
+        "position": [
+          103,
+          111
+        ],
+        "start": 103,
+        "end": 111
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente ecuatoriano",
+        "position": [
+          816,
+          838
+        ],
+        "start": 816,
+        "end": 838
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          17,
+          24
+        ],
+        "start": 17,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          1005,
+          1013
+        ],
+        "start": 1005,
+        "end": 1013
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          36,
+          43
+        ],
+        "start": 36,
+        "end": 43
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona del",
+        "position": [
+          388,
+          396
+        ],
+        "start": 388,
+        "end": 396
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 3 de noviembre",
+        "position": [
+          255,
+          277
+        ],
+        "start": 255,
+        "end": 277
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Energía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Energía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Minas de Ecuador",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Noboa",
+        "relacion": "INDICAR",
+        "objeto": "Colombia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8934,
+    "pos": 0.02,
+    "neu": 0.92,
+    "neg": 0.06,
+    "label": "negative"
+  }
+}

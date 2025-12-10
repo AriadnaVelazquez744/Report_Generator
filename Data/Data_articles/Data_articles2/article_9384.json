@@ -1,0 +1,828 @@
+{
+  "url": "https://www.telesurtv.net/cuba-restablecen-electricidad-en-hospitales-de-varias-provincias/",
+  "title": "Cuba: restablecen electricidad en hospitales de varias provincias - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cuba",
+    "Electricidad",
+    "hospitales"
+  ],
+  "text": "El gobernador de Santiago de Cuba, Manuel Falcón Hernández, anunció la noche de este viernes que fue restablecido el servicio de energía eléctrica en los hospitales de esa provincia ubicada en el oriente del país.\n“Con total vitalidad los hospitales de la provincia (de) Santiago de Cuba. Todos los servicios se ofrecen con total normalidad”, escribió el funcionario en su cuenta de la red social X.\nEl gobernador agregó que en esos momentos, junto a la primera secretaria del Partido Comunista de Cuba (PCC) en la provincia, Beatriz Johnson Urrutia, realizaba un recorrido para constatar la situación.\nEn la provincia de Holguín, también en la región oriental de la isla, se reportó la recuperación del servicio eléctrico en centros de la salud, los cuales tienen una potencia limitada y llegan a los consumidores cercanos a estos.\nLa Empresa Eléctrica de La Habana informó en su canal de Telegram que fue restablecida la electricidad en los hospitales Juan Manuel Márquez, Carlos J Finlay, Maternidad Obrera del municipio Marianao y el pediátrico de Centro Habana.\nIdulvis Acuña Velázquez, directora de la Unidad Empresarial de Base (UEB) Despacho eléctrico de Pinar del Río, informó que el viernes por la noche los tres hospitales de la provincia (Pediátrico, Abel Santa María y León Cuervo Rubio) ya contaban con el servicio.\nA las 11:07 hora local de este viernes, la termoeléctrica Antonio Guiteras salió de funcionamiento, lo que provocó la desconexión del Sistema Eléctrico Nacional.\nEl presidente cubano Miguel Díaz-Canel dijo en una reunión para analizar la situación que “no habrá descanso” hasta restablecer el servicio eléctrico en la isla.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuba-restablecen-electricidad-en-hospitales-de-varias-provincias/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 851,
+    "message_id": 78700,
+    "date": "2024-10-19T06:55:07+00:00",
+    "text": "teleSUR\nCuba: restablecen electricidad en hospitales de varias provincias\nhttps://www.telesurtv.net/cuba-restablecen-electricidad-en-hospitales-de-varias-provincias/",
+    "photo_path": null,
+    "views": 2987,
+    "reactions": {
+      "👏": 52,
+      "👍": 11,
+      "❤": 7
+    },
+    "total_reactions": 70
+  },
+  "preprocessing": {
+    "cleaned": "el gobernador de santiago de cuba, manuel falcón hernández, anunció la noche de este viernes que fue restablecido el servicio de energía eléctrica en los hospitales de esa provincia ubicada en el oriente del país. “con total vitalidad los hospitales de la provincia (de) santiago de cuba. todos los servicios se ofrecen con total normalidad”, escribió el funcionario en su cuenta de la red social x. el gobernador agregó que en esos momentos, junto a la primera secretaria del partido comunista de cuba (pcc) en la provincia, beatriz johnson urrutia, realizaba un recorrido para constatar la situación. en la provincia de holguín, también en la región oriental de la isla, se reportó la recuperación del servicio eléctrico en centros de la salud, los cuales tienen una potencia limitada y llegan a los consumidores cercanos a estos. la empresa eléctrica de la habana informó en su canal de telegram que fue restablecida la electricidad en los hospitales juan manuel márquez, carlos j finlay, maternidad obrera del municipio marianao y el pediátrico de centro habana. idulvis acuña velázquez, directora de la unidad empresarial de base (ueb) despacho eléctrico de pinar del río, informó que el viernes por la noche los tres hospitales de la provincia (pediátrico, abel santa maría y león cuervo rubio) ya contaban con el servicio. a las 11:07 hora local de este viernes, la termoeléctrica antonio guiteras salió de funcionamiento, lo que provocó la desconexión del sistema eléctrico nacional. el presidente cubano miguel díaz-canel dijo en una reunión para analizar la situación que “no habrá descanso” hasta restablecer el servicio eléctrico en la isla.",
+    "tokens": [
+      "gobernador",
+      "santiago",
+      "cuba",
+      ",",
+      "manuel",
+      "falcón",
+      "hernández",
+      ",",
+      "anunció",
+      "noche",
+      "viernes",
+      "restablecido",
+      "servicio",
+      "energía",
+      "eléctrica",
+      "hospitales",
+      "provincia",
+      "ubicada",
+      "oriente",
+      "país",
+      ".",
+      "“",
+      "total",
+      "vitalidad",
+      "hospitales",
+      "provincia",
+      "(",
+      ")",
+      "santiago",
+      "cuba",
+      ".",
+      "servicios",
+      "ofrecen",
+      "total",
+      "normalidad",
+      "”",
+      ",",
+      "escribió",
+      "funcionario",
+      "cuenta",
+      "red",
+      "social",
+      "x.",
+      "gobernador",
+      "agregó",
+      "momentos",
+      ",",
+      "junto",
+      "primera",
+      "secretaria",
+      "partido",
+      "comunista",
+      "cuba",
+      "(",
+      "pcc",
+      ")",
+      "provincia",
+      ",",
+      "beatriz",
+      "johnson",
+      "urrutia",
+      ",",
+      "realizaba",
+      "recorrido",
+      "constatar",
+      "situación",
+      ".",
+      "provincia",
+      "holguín",
+      ",",
+      "región",
+      "oriental",
+      "isla",
+      ",",
+      "reportó",
+      "recuperación",
+      "servicio",
+      "eléctrico",
+      "centros",
+      "salud",
+      ",",
+      "cuales",
+      "potencia",
+      "limitada",
+      "llegan",
+      "consumidores",
+      "cercanos",
+      ".",
+      "empresa",
+      "eléctrica",
+      "habana",
+      "informó",
+      "canal",
+      "telegram",
+      "restablecida",
+      "electricidad",
+      "hospitales",
+      "juan",
+      "manuel",
+      "márquez",
+      ",",
+      "carlos",
+      "j",
+      "finlay",
+      ",",
+      "maternidad",
+      "obrera",
+      "municipio",
+      "marianao",
+      "pediátrico",
+      "centro",
+      "habana",
+      ".",
+      "idulvis",
+      "acuña",
+      "velázquez",
+      ",",
+      "directora",
+      "unidad",
+      "empresarial",
+      "base",
+      "(",
+      "ueb",
+      ")",
+      "despacho",
+      "eléctrico",
+      "pinar",
+      "río",
+      ",",
+      "informó",
+      "viernes",
+      "noche",
+      "tres",
+      "hospitales",
+      "provincia",
+      "(",
+      "pediátrico",
+      ",",
+      "abel",
+      "santa",
+      "maría",
+      "león",
+      "cuervo",
+      "rubio",
+      ")",
+      "contaban",
+      "servicio",
+      ".",
+      "11:07",
+      "hora",
+      "local",
+      "viernes",
+      ",",
+      "termoeléctrica",
+      "antonio",
+      "guiteras",
+      "salió",
+      "funcionamiento",
+      ",",
+      "provocó",
+      "desconexión",
+      "sistema",
+      "eléctrico",
+      "nacional",
+      ".",
+      "presidente",
+      "cubano",
+      "miguel",
+      "díaz-canel",
+      "dijo",
+      "reunión",
+      "analizar",
+      "situación",
+      "“",
+      "descanso",
+      "”",
+      "restablecer",
+      "servicio",
+      "eléctrico",
+      "isla",
+      "."
+    ],
+    "token_count": 181,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 62,
+      "NN": 63,
+      "FW": 78,
+      "NNS": 8,
+      "VBP": 4,
+      "JJ": 24,
+      "IN": 9,
+      "VBZ": 3,
+      "VBD": 2,
+      "$": 1,
+      "CD": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-FW": 9,
+      "FW-NNP": 16,
+      "NNP-FW": 10,
+      "NNP-NNP": 36,
+      "NN-NN": 34,
+      "FW-FW": 49,
+      "FW-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-JJ": 4,
+      "JJ-NN": 11,
+      "NN-IN": 5,
+      "IN-FW": 5,
+      "FW-JJ": 4,
+      "JJ-FW": 4,
+      "NNP-JJ": 2,
+      "NN-NNS": 4,
+      "NNS-IN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-JJ": 4,
+      "JJ-JJ": 5,
+      "IN-JJ": 1,
+      "JJ-NNP": 2,
+      "FW-NN": 6,
+      "NN-NNP": 3,
+      "JJ-NNS": 1,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNS-NNP": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-VBD": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "NNS-FW": 1,
+      "VBD-JJ": 1,
+      "JJ-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 3,
+      "NN-FW-NNP": 3,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NNP": 9,
+      "NNP-NNP-NNP": 21,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 33,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 17,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNP": 9,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 6,
+      "NNP-FW-FW": 5,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "FW-NNP-NN": 2,
+      "JJ-JJ-FW": 2,
+      "FW-NN-FW": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "IN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 78,
+        "NN": 63,
+        "NNP": 62,
+        "JJ": 24,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NNP-NNP": 36,
+        "NN-NN": 34,
+        "FW-NNP": 16,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NNP-NNP-NNP": 21,
+        "NN-NN-NN": 17,
+        "FW-NNP-NNP": 9,
+        "JJ-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 64,
+      "VP": 12,
+      "ADJP": 4,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0319
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0319
+      },
+      {
+        "rule": "NP -> ('Santiago', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('la', 'FW') ('noche', 'FW') ('de', 'FW') ('este', 'FW') NP VP ('de', 'IN') ('energía', 'FW') ('eléctrica', 'FW') ('en', 'FW') ('los', 'FW') ('hospitales', 'FW') ('de', 'FW') ('esa', 'FW') ('provincia', 'FW') ADJP ('en', 'FW') ('el', 'FW') ('oriente', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('gobernador', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Manuel', 'NNP') ('Falcón', 'NNP') ('Hernández', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('anunció', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El gobernador"
+      },
+      {
+        "label": "NP",
+        "text": "Santiago"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "Manuel Falcón Hernández"
+      },
+      {
+        "label": "NP",
+        "text": "anunció"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      },
+      {
+        "label": "VP",
+        "text": "que fue restablecido el servicio"
+      },
+      {
+        "label": "NP",
+        "text": "fue restablecido el servicio"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicada"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "“ Con total vitalidad los hospitales"
+      },
+      {
+        "label": "NP",
+        "text": "Santiago"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "Todos"
+      },
+      {
+        "label": "VP",
+        "text": "los servicios se ofrecen con total normalidad ”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP gobernador/NN)\n  de/FW\n  (NP Santiago/NNP)\n  de/FW\n  (NP Cuba/NNP)\n  ,/,\n  (NP Manuel/NNP Falcón/NNP Hernández/NNP)\n  ,/,\n  (NP anunció/NN)\n  la/FW\n  noche/FW\n  de/FW\n  este/FW\n  (NP viernes/NNS)\n  (VP que/VBP (NP fue/JJ restablecido/NN el/NN servicio/NN))\n  de/IN\n  energía/FW\n  eléctrica/FW\n  en/FW\n  los/FW\n  hospitales/FW\n  de/FW\n  esa/FW\n  provincia/FW\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  oriente/FW\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Con/NNP total/NN vitalidad/NN los/NN hospitales/NNS)\n  de/IN\n  la/FW\n  provincia/FW\n  (/(\n  de/FW\n  )/)\n  (NP Santiago/NNP)\n  de/FW\n  (NP Cuba/NNP)\n  ./.)",
+      "(S\n  (NP Todos/NNP)\n  (VP\n    los/VBZ\n    (NP servicios/JJ se/NN ofrecen/NN con/NN)\n    (NP total/JJ normalidad/JJ ”/NN))\n  ,/,\n  (NP escribió/JJ el/NN funcionario/NN)\n  (PP en/IN (NP su/JJ cuenta/NN))\n  de/IN\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP El/NNP gobernador/NN agregó/NN que/NN)\n  en/FW\n  (NP esos/NN momentos/NN)\n  ,/,\n  (VP\n    junto/VBZ\n    (NP\n      a/DT\n      la/NN\n      primera/NN\n      secretaria/NN\n      del/NN\n      Partido/NNP\n      Comunista/NNP))\n  de/FW\n  (NP Cuba/NNP)\n  (/(\n  (NP PCC/NNP)\n  )/)\n  en/FW\n  la/FW\n  provincia/FW\n  ,/,\n  (NP Beatriz/NNP Johnson/NNP Urrutia/NNP)\n  ,/,\n  (NP realizaba/NN)\n  (NP un/JJ recorrido/NN para/NN constatar/NN la/NN situación/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Holguín/NNP)\n  ,/,\n  (NP también/NN)\n  en/FW\n  la/FW\n  región/FW\n  oriental/FW\n  de/FW\n  la/FW\n  isla/FW\n  ,/,\n  se/FW\n  (NP reportó/NN)\n  la/FW\n  recuperación/FW\n  del/FW\n  servicio/FW\n  eléctrico/FW\n  en/FW\n  centros/FW\n  de/FW\n  la/FW\n  salud/FW\n  ,/,\n  (NP los/JJ cuales/NNS)\n  (VP tienen/VBP (NP una/JJ potencia/NN limitada/NN y/NN))\n  (VP llegan/VBD (NP a/DT los/NN))\n  (VP consumidores/VBZ)\n  (VP cercanos/VBZ (NP a/DT estos/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          60,
+          67
+        ],
+        "start": 60,
+        "end": 67
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente cubano miguel",
+        "position": [
+          1495,
+          1519
+        ],
+        "start": 1495,
+        "end": 1519
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de telegram",
+        "position": [
+          881,
+          898
+        ],
+        "start": 881,
+        "end": 898
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          1173,
+          1176
+        ],
+        "start": 1173,
+        "end": 1176
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          129,
+          136
+        ],
+        "start": 129,
+        "end": 136
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          29,
+          33
+        ],
+        "start": 29,
+        "end": 33
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santiago",
+        "position": [
+          17,
+          25
+        ],
+        "start": 17,
+        "end": 25
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la habana",
+        "position": [
+          857,
+          866
+        ],
+        "start": 857,
+        "end": 866
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia ubicada",
+        "position": [
+          172,
+          189
+        ],
+        "start": 172,
+        "end": 189
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro habana",
+        "position": [
+          1052,
+          1065
+        ],
+        "start": 1052,
+        "end": 1065
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "a las 11:07 hora",
+        "position": [
+          1330,
+          1346
+        ],
+        "start": 1330,
+        "end": 1346
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Partido Comunista de Cuba",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Centro Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santiago de Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pinar del Río",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antonio Guiteras",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "provincia de Holguín",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unidad Empresarial de Base",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pediátrico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maternidad Obrera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Beatriz Johnson Urrutia",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Carlos J Finlay",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "PCC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sistema Eléctrico Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juan Manuel Márquez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Miguel Díaz-Canel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "León Cuervo Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "UEB",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abel Santa María",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Empresa Eléctrica de La Habana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Idulvis Acuña Velázquez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Manuel Falcón Hernández",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Empresa Eléctrica de La Habana",
+        "relacion": "INFORMAR",
+        "objeto": "Juan Manuel Márquez"
+      },
+      {
+        "sujeto": "Empresa Eléctrica de La Habana",
+        "relacion": "INFORMAR",
+        "objeto": "Carlos J Finlay"
+      },
+      {
+        "sujeto": "Empresa Eléctrica de La Habana",
+        "relacion": "INFORMAR",
+        "objeto": "Maternidad Obrera"
+      },
+      {
+        "sujeto": "Empresa Eléctrica de La Habana",
+        "relacion": "INFORMAR",
+        "objeto": "Centro Habana"
+      },
+      {
+        "sujeto": "Idulvis Acuña Velázquez",
+        "relacion": "INFORMAR",
+        "objeto": "Pediátrico"
+      },
+      {
+        "sujeto": "Idulvis Acuña Velázquez",
+        "relacion": "INFORMAR",
+        "objeto": "Abel Santa María"
+      },
+      {
+        "sujeto": "Idulvis Acuña Velázquez",
+        "relacion": "INFORMAR",
+        "objeto": "León Cuervo Rubio"
+      },
+      {
+        "sujeto": "Unidad Empresarial de Base",
+        "relacion": "INFORMAR",
+        "objeto": "Pediátrico"
+      },
+      {
+        "sujeto": "Unidad Empresarial de Base",
+        "relacion": "INFORMAR",
+        "objeto": "Abel Santa María"
+      },
+      {
+        "sujeto": "Unidad Empresarial de Base",
+        "relacion": "INFORMAR",
+        "objeto": "León Cuervo Rubio"
+      },
+      {
+        "sujeto": "UEB",
+        "relacion": "INFORMAR",
+        "objeto": "Pediátrico"
+      },
+      {
+        "sujeto": "UEB",
+        "relacion": "INFORMAR",
+        "objeto": "Abel Santa María"
+      },
+      {
+        "sujeto": "UEB",
+        "relacion": "INFORMAR",
+        "objeto": "León Cuervo Rubio"
+      },
+      {
+        "sujeto": "Pinar del Río",
+        "relacion": "INFORMAR",
+        "objeto": "Pediátrico"
+      },
+      {
+        "sujeto": "Pinar del Río",
+        "relacion": "INFORMAR",
+        "objeto": "Abel Santa María"
+      },
+      {
+        "sujeto": "Pinar del Río",
+        "relacion": "INFORMAR",
+        "objeto": "León Cuervo Rubio"
+      },
+      {
+        "sujeto": "Antonio Guiteras",
+        "relacion": "SALIR",
+        "objeto": "Sistema Eléctrico Nacional"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

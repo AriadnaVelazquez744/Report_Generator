@@ -1,0 +1,733 @@
+{
+  "url": "https://www.telesurtv.net/posponen-tercera-fase-de-vacunacion-contra-la-polio-en-gaza-ante-escalada-de-violencia-israeli/",
+  "title": "Posponen tercera fase de vacunación contra la polio en Gaza ante escalada de violencia israelí - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Israel",
+    "OMS",
+    "Palestina",
+    "vacuna anti polio"
+  ],
+  "text": "La Organización Mundial de la Salud (OMS) informó este miércoles que la tercera fase de la campaña de vacunación contra la polio en la Franja de Gaza tuvo que ser pospuesta, ante la nueva escalada de violencia y el incumplimiento de las pausas humanitarias por parte del Ejército de ocupación.\nA través de un comunicado, el organismo internacional expresó “Debido al aumento de la violencia, los intensos bombardeos, las órdenes de desplazamiento masivo y la falta de pausas humanitarias garantizadas en la mayoría del norte de Gaza, el Comité Técnico de Polio para Gaza (…) se ha visto forzado a posponer la tercera fase de la campaña de vacunación contra la polio, que iba a empezar hoy”.\nLa OMS recordó que esta tercera y última fase debía alcanzar a 119.279 niños que se encuentran en el norte de Gaza.\nAsimismo, afirmó que en el proceso de vacunación participan también el Ministerio de Sanidad palestino, el Fondo de Naciones Unidas para la Infancia (Unicef), la Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente Próximo (UNRWA) y la propia OMS.\n“Para interrumpir la transmisión del virus de la poliomielitis, al menos el 90 por ciento de los niños de todas las comunidades y barrios deben estar vacunados, un requisito previo para una campaña eficaz destinada a interrumpir el brote y evitar que siga propagándose”, agregó.\nLa organización mundial subrayó la importancia de que la campaña de vacunación en el norte de Gaza “se facilite mediante la aplicación de las pausas humanitarias, garantizando el acceso a la misma a todos los niños que reúnen los requisitos necesarios allí donde se encuentren”.\nDesde el 14 de octubre de 2024 se ha vacunado a 442.855 niños menores de diez años en zonas del centro y el sur de la Franja, alcanzando el 94% del objetivo en estas zonas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/posponen-tercera-fase-de-vacunacion-contra-la-polio-en-gaza-ante-escalada-de-violencia-israeli/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 550,
+    "message_id": 79023,
+    "date": "2024-10-23T21:55:07+00:00",
+    "text": "teleSUR\nPosponen tercera fase de vacunación contra la polio en Gaza ante escalada de violencia israelí\nhttps://www.telesurtv.net/posponen-tercera-fase-de-vacunacion-contra-la-polio-en-gaza-ante-escalada-de-violencia-israeli/",
+    "photo_path": null,
+    "views": 2859,
+    "reactions": {
+      "👍": 32,
+      "🙏": 13,
+      "🤔": 3,
+      "👏": 2,
+      "😱": 2
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "la organización mundial de la salud (oms) informó este miércoles que la tercera fase de la campaña de vacunación contra la polio en la franja de gaza tuvo que ser pospuesta, ante la nueva escalada de violencia y el incumplimiento de las pausas humanitarias por parte del ejército de ocupación. a través de un comunicado, el organismo internacional expresó “debido al aumento de la violencia, los intensos bombardeos, las órdenes de desplazamiento masivo y la falta de pausas humanitarias garantizadas en la mayoría del norte de gaza, el comité técnico de polio para gaza (…) se ha visto forzado a posponer la tercera fase de la campaña de vacunación contra la polio, que iba a empezar hoy”. la oms recordó que esta tercera y última fase debía alcanzar a 119.279 niños que se encuentran en el norte de gaza. asimismo, afirmó que en el proceso de vacunación participan también el ministerio de sanidad palestino, el fondo de naciones unidas para la infancia (unicef), la agencia de naciones unidas para los refugiados de palestina en oriente próximo (unrwa) y la propia oms. “para interrumpir la transmisión del virus de la poliomielitis, al menos el 90 por ciento de los niños de todas las comunidades y barrios deben estar vacunados, un requisito previo para una campaña eficaz destinada a interrumpir el brote y evitar que siga propagándose”, agregó. la organización mundial subrayó la importancia de que la campaña de vacunación en el norte de gaza “se facilite mediante la aplicación de las pausas humanitarias, garantizando el acceso a la misma a todos los niños que reúnen los requisitos necesarios allí donde se encuentren”. desde el 14 de octubre de 2024 se ha vacunado a 442.855 niños menores de diez años en zonas del centro y el sur de la franja, alcanzando el 94% del objetivo en estas zonas.",
+    "tokens": [
+      "organización",
+      "mundial",
+      "salud",
+      "(",
+      "oms",
+      ")",
+      "informó",
+      "miércoles",
+      "tercera",
+      "fase",
+      "campaña",
+      "vacunación",
+      "polio",
+      "franja",
+      "gaza",
+      "ser",
+      "pospuesta",
+      ",",
+      "nueva",
+      "escalada",
+      "violencia",
+      "incumplimiento",
+      "pausas",
+      "humanitarias",
+      "parte",
+      "ejército",
+      "ocupación",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "organismo",
+      "internacional",
+      "expresó",
+      "“",
+      "debido",
+      "aumento",
+      "violencia",
+      ",",
+      "intensos",
+      "bombardeos",
+      ",",
+      "órdenes",
+      "desplazamiento",
+      "masivo",
+      "falta",
+      "pausas",
+      "humanitarias",
+      "garantizadas",
+      "mayoría",
+      "norte",
+      "gaza",
+      ",",
+      "comité",
+      "técnico",
+      "polio",
+      "gaza",
+      "(",
+      "…",
+      ")",
+      "visto",
+      "forzado",
+      "posponer",
+      "tercera",
+      "fase",
+      "campaña",
+      "vacunación",
+      "polio",
+      ",",
+      "iba",
+      "empezar",
+      "hoy",
+      "”",
+      ".",
+      "oms",
+      "recordó",
+      "tercera",
+      "última",
+      "fase",
+      "debía",
+      "alcanzar",
+      "119.279",
+      "niños",
+      "encuentran",
+      "norte",
+      "gaza",
+      ".",
+      "asimismo",
+      ",",
+      "afirmó",
+      "proceso",
+      "vacunación",
+      "participan",
+      "ministerio",
+      "sanidad",
+      "palestino",
+      ",",
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      ",",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestina",
+      "oriente",
+      "próximo",
+      "(",
+      "unrwa",
+      ")",
+      "propia",
+      "oms",
+      ".",
+      "“",
+      "interrumpir",
+      "transmisión",
+      "virus",
+      "poliomielitis",
+      ",",
+      "menos",
+      "90",
+      "ciento",
+      "niños",
+      "todas",
+      "comunidades",
+      "barrios",
+      "deben",
+      "vacunados",
+      ",",
+      "requisito",
+      "previo",
+      "campaña",
+      "eficaz",
+      "destinada",
+      "interrumpir",
+      "brote",
+      "evitar",
+      "siga",
+      "propagándose",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "organización",
+      "mundial",
+      "subrayó",
+      "importancia",
+      "campaña",
+      "vacunación",
+      "norte",
+      "gaza",
+      "“",
+      "facilite",
+      "mediante",
+      "aplicación",
+      "pausas",
+      "humanitarias",
+      ",",
+      "garantizando",
+      "acceso",
+      "misma",
+      "niños",
+      "reúnen",
+      "requisitos",
+      "necesarios",
+      "allí",
+      "encuentren",
+      "”",
+      ".",
+      "14",
+      "octubre",
+      "2024",
+      "vacunado",
+      "442.855",
+      "niños",
+      "menores",
+      "diez",
+      "años",
+      "zonas",
+      "centro",
+      "sur",
+      "franja",
+      ",",
+      "alcanzando",
+      "94",
+      "%",
+      "objetivo",
+      "zonas",
+      "."
+    ],
+    "token_count": 194,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 43,
+      "FW": 96,
+      "NN": 85,
+      "NNS": 10,
+      "VBP": 6,
+      "JJ": 22,
+      "IN": 14,
+      "CC": 1,
+      "VBD": 4,
+      "CD": 6,
+      "RB": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 16,
+      "NNP-FW": 6,
+      "FW-NNP": 12,
+      "NNP-NN": 14,
+      "NN-NN": 46,
+      "NN-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-JJ": 5,
+      "JJ-NN": 15,
+      "NN-IN": 7,
+      "IN-FW": 8,
+      "FW-FW": 68,
+      "FW-JJ": 7,
+      "JJ-FW": 4,
+      "NN-FW": 9,
+      "FW-NN": 6,
+      "NN-NNP": 8,
+      "NNP-IN": 4,
+      "IN-JJ": 1,
+      "NN-JJ": 6,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "IN-NNP": 3,
+      "NN-VBD": 3,
+      "VBD-CD": 3,
+      "CD-JJ": 2,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "FW-NNS": 2,
+      "VBP-CD": 1,
+      "CD-NN": 3,
+      "NN-VBP": 1,
+      "JJ-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "NN-CD": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NN": 10,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 9,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 7,
+      "FW-FW-FW": 51,
+      "FW-FW-JJ": 3,
+      "FW-JJ-FW": 3,
+      "JJ-FW-FW": 4,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 4,
+      "FW-NNP-NN": 3,
+      "NN-NN-NN": 21,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 5,
+      "NN-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "FW-JJ-NN": 4,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NN-FW-JJ": 2,
+      "JJ-NN-IN": 1,
+      "NN-NNP-NNP": 3,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "NNP-NN-FW": 1,
+      "IN-NNP-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 5,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-FW": 1,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "IN-FW-JJ": 1,
+      "NNP-NN-VBD": 1,
+      "VBD-CD-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 96,
+        "NN": 85,
+        "NNP": 43,
+        "JJ": 22,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 68,
+        "NN-NN": 46,
+        "NNP-NNP": 16,
+        "JJ-NN": 15,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 51,
+        "NN-NN-NN": 21,
+        "NNP-NN-NN": 10,
+        "JJ-NN-NN": 9,
+        "NNP-NNP-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 20,
+      "ADJP": 4,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') NP ('(', '(') NP (')', ')') VP VP ('de', 'IN') ('la', 'FW') ('campaña', 'FW') ('de', 'FW') ('vacunación', 'FW') ADJP ('la', 'FW') ('polio', 'FW') ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') ADJP ('la', 'FW') ('nueva', 'FW') ('escalada', 'FW') ('de', 'FW') ('violencia', 'FW') ('y', 'FW') ('el', 'FW') ('incumplimiento', 'FW') ('de', 'FW') ('las', 'FW') NP ('de', 'IN') ('ocupación', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Organización', 'NNP') ('Mundial', 'NNP') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('OMS', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('informó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Organización Mundial de"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "OMS"
+      },
+      {
+        "label": "VP",
+        "text": "informó este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que la tercera fase"
+      },
+      {
+        "label": "NP",
+        "text": "la tercera fase"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza tuvo que ser pospuesta"
+      },
+      {
+        "label": "ADJP",
+        "text": "ante"
+      },
+      {
+        "label": "NP",
+        "text": "pausas humanitarias por parte del Ejército"
+      },
+      {
+        "label": "NP",
+        "text": "A través"
+      },
+      {
+        "label": "PP",
+        "text": "de un comunicado"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Organización/NNP Mundial/NNP de/NNP)\n  la/FW\n  (NP Salud/NNP)\n  (/(\n  (NP OMS/NNP)\n  )/)\n  (VP informó/VBP (NP este/NN miércoles/NNS))\n  (VP que/VBP (NP la/JJ tercera/NN fase/NN))\n  de/IN\n  la/FW\n  campaña/FW\n  de/FW\n  vacunación/FW\n  (ADJP contra/JJ)\n  la/FW\n  polio/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP tuvo/NN que/NN ser/NN pospuesta/NN)\n  ,/,\n  (ADJP ante/JJ)\n  la/FW\n  nueva/FW\n  escalada/FW\n  de/FW\n  violencia/FW\n  y/FW\n  el/FW\n  incumplimiento/FW\n  de/FW\n  las/FW\n  (NP pausas/NN humanitarias/NN por/NN parte/NN del/NN Ejército/NNP)\n  de/IN\n  ocupación/FW\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  el/FW\n  organismo/FW\n  (NP internacional/JJ expresó/NN “/NNP Debido/NNP)\n  (VP al/VBD)\n  aumento/FW\n  de/FW\n  la/FW\n  violencia/FW\n  ,/,\n  los/FW\n  (NP intensos/JJ bombardeos/NN)\n  ,/,\n  (ADJP las/JJ)\n  órdenes/FW\n  de/FW\n  desplazamiento/FW\n  masivo/FW\n  y/FW\n  la/FW\n  falta/FW\n  de/FW\n  pausas/FW\n  humanitarias/FW\n  garantizadas/FW\n  en/FW\n  la/FW\n  mayoría/FW\n  del/FW\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP el/VBP (NP Comité/NNP Técnico/NNP))\n  (PP de/IN (NP Polio/NNP para/NN Gaza/NNP))\n  (/(\n  (NP …/NNP)\n  )/)\n  (VP se/VBD (NP ha/JJ visto/NN))\n  (VP forzado/VBD (NP a/DT posponer/NN la/NN tercera/NN fase/NN))\n  de/IN\n  la/FW\n  campaña/FW\n  de/FW\n  vacunación/FW\n  (NP contra/JJ la/NN polio/NN)\n  ,/,\n  (NP que/NN)\n  (VP iba/VB (NP a/DT empezar/NN hoy/NN ”/NN))\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    OMS/NNP\n    recordó/NN\n    que/NN\n    esta/NN\n    tercera/NN\n    y/NN\n    última/NNP\n    fase/NN\n    debía/NN)\n  (VP alcanzar/VBD)\n  a/DT\n  119.279/CD\n  (NP niños/NN que/NN se/NN)\n  (VP encuentran/VBD en/RB el/JJ)\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP afirmó/NN que/NN)\n  en/FW\n  el/FW\n  proceso/FW\n  de/FW\n  vacunación/FW\n  participan/FW\n  (NP también/NN)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Sanidad/NNP palestino/NN)\n  ,/,\n  el/FW\n  (NP Fondo/NNP)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP para/NN la/NN Infancia/NNP)\n  (/(\n  (NP Unicef/NNP)\n  )/)\n  ,/,\n  la/FW\n  (NP Agencia/NNP)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP para/NN los/NN Refugiados/NNP)\n  (PP de/IN (NP Palestina/NNP))\n  en/FW\n  (NP Oriente/NNP Próximo/NNP)\n  (/(\n  (NP UNRWA/NNP)\n  )/)\n  (NP y/NN la/NN propia/NN OMS/NNP)\n  ./.)",
+      "(S\n  (NP “/NN Para/NNP interrumpir/NN la/NN)\n  (NP transmisión/JJ del/NN virus/NN)\n  de/IN\n  la/FW\n  (NP poliomielitis/NN)\n  ,/,\n  (NP al/JJ menos/NNS)\n  (VP el/VBP)\n  90/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  los/FW\n  niños/FW\n  de/FW\n  todas/FW\n  las/FW\n  (NP comunidades/NNS)\n  (VP y/VBP (NP barrios/NNS))\n  (VP deben/VBP (NP estar/JJ vacunados/NN))\n  ,/,\n  (NP un/JJ requisito/NN previo/NN para/NN)\n  (NP una/JJ campaña/NN eficaz/NN)\n  (VP\n    destinada/VBZ\n    (NP\n      a/DT\n      interrumpir/JJ\n      el/NN\n      brote/NN\n      y/NN\n      evitar/NN\n      que/NN\n      siga/NN)\n    (NP propagándose/JJ ”/NNP))\n  ,/,\n  (NP agregó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          283,
+          292
+        ],
+        "start": 283,
+        "end": 292
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          348,
+          355
+        ],
+        "start": 348,
+        "end": 355
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          42,
+          49
+        ],
+        "start": 42,
+        "end": 49
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          923,
+          938
+        ],
+        "start": 923,
+        "end": 938
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oms",
+        "position": [
+          37,
+          40
+        ],
+        "start": 37,
+        "end": 40
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1376,
+          1383
+        ],
+        "start": 1376,
+        "end": 1383
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          1019,
+          1028
+        ],
+        "start": 1019,
+        "end": 1028
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro y el",
+        "position": [
+          1727,
+          1738
+        ],
+        "start": 1727,
+        "end": 1738
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "14 de octubre de 2024",
+        "position": [
+          1640,
+          1661
+        ],
+        "start": 1640,
+        "end": 1661
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          685,
+          688
+        ],
+        "start": 685,
+        "end": 688
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNRWA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Sanidad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo de Naciones Unidas para la Infancia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia de Naciones Unidas para los Refugiados de Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comité Técnico de Polio para Gaza",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "OMS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unicef",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Organización Mundial de la Salud",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "OMS",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "OMS",
+        "relacion": "RECORDAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.016,
+    "neu": 0.984,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

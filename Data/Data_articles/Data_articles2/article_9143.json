@@ -1,0 +1,685 @@
+{
+  "url": "https://www.telesurtv.net/asesinan-a-exalcalde-del-municipio-de-huamuxtitlan-mexico/",
+  "title": "Asesinan a exalcalde del municipio de Huamuxtitlán, México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Asesinato",
+    "exalcalde",
+    "México"
+  ],
+  "text": "El exalcalde morenista del municipio de Huamuxtitlán, Guerrero, Aurelio Méndez Rosales, fue asesinado este jueves, a menos de un mes de haber abandonado el cargo.\nLEA TAMBIÉN\nMueren 16 personas en enfrentamiento en Guerrero, México\nSegún los vecinos de la zona, en horas de la tarde un grupo de sujetos armados secuestraron a Méndez y a su chofer.\nDurante las primeras horas de este viernes, la Fiscalía informó que las autoridades iniciaron un operativo en el Barrio del Rosario de Huamuxtitlan para esclarecer lo ocurrido.\nA través de un comunicado, la Policía investigadora ministerial dio a conocer de la muerte del expolítico y de su chofer.\nPor otra parte, el actual presidente municipal, Daniel Méndez, del opositor partido Movimiento Ciudadano (MC) pidió ayuda a la policía del Estado y de las fuerzas armadas, ante la escalada de violencia en la región, ya que la semana pasada ocurrieron varios hechos violentos.\nEn tanto, la Fiscalía General del Estado informó que abrió una carpeta de investigación por el delito de homicidio calificado.\nEl estado de Guerrero vive una ola de violencia del crimen organizado, el pasado 6 de octubre fue decapitado Alejandro Arcos, alcalde de Chilpancingo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/asesinan-a-exalcalde-del-municipio-de-huamuxtitlan-mexico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 407,
+    "message_id": 79179,
+    "date": "2024-10-25T19:55:08+00:00",
+    "text": "teleSUR\nAsesinan a exalcalde del municipio de Huamuxtitlán, México\nhttps://www.telesurtv.net/asesinan-a-exalcalde-del-municipio-de-huamuxtitlan-mexico/",
+    "photo_path": null,
+    "views": 2528,
+    "reactions": {
+      "🤬": 36,
+      "👎": 6,
+      "🤔": 2
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "el exalcalde morenista del municipio de huamuxtitlán, guerrero, aurelio méndez rosales, fue asesinado este jueves, a menos de un mes de haber abandonado el cargo. según los vecinos de la zona, en horas de la tarde un grupo de sujetos armados secuestraron a méndez y a su chofer. durante las primeras horas de este viernes, la fiscalía informó que las autoridades iniciaron un operativo en el barrio del rosario de huamuxtitlan para esclarecer lo ocurrido. a través de un comunicado, la policía investigadora ministerial dio a conocer de la muerte del expolítico y de su chofer. por otra parte, el actual presidente municipal, daniel méndez, del opositor partido movimiento ciudadano (mc) pidió ayuda a la policía del estado y de las fuerzas armadas, ante la escalada de violencia en la región, ya que la semana pasada ocurrieron varios hechos violentos. en tanto, la fiscalía general del estado informó que abrió una carpeta de investigación por el delito de homicidio calificado. el estado de guerrero vive una ola de violencia del crimen organizado, el pasado 6 de octubre fue decapitado alejandro arcos, alcalde de chilpancingo.",
+    "tokens": [
+      "exalcalde",
+      "morenista",
+      "municipio",
+      "huamuxtitlán",
+      ",",
+      "guerrero",
+      ",",
+      "aurelio",
+      "méndez",
+      "rosales",
+      ",",
+      "asesinado",
+      "jueves",
+      ",",
+      "menos",
+      "mes",
+      "haber",
+      "abandonado",
+      "cargo",
+      ".",
+      "según",
+      "vecinos",
+      "zona",
+      ",",
+      "horas",
+      "tarde",
+      "grupo",
+      "sujetos",
+      "armados",
+      "secuestraron",
+      "méndez",
+      "chofer",
+      ".",
+      "primeras",
+      "horas",
+      "viernes",
+      ",",
+      "fiscalía",
+      "informó",
+      "autoridades",
+      "iniciaron",
+      "operativo",
+      "barrio",
+      "rosario",
+      "huamuxtitlan",
+      "esclarecer",
+      "ocurrido",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "policía",
+      "investigadora",
+      "ministerial",
+      "dio",
+      "conocer",
+      "muerte",
+      "expolítico",
+      "chofer",
+      ".",
+      "parte",
+      ",",
+      "actual",
+      "presidente",
+      "municipal",
+      ",",
+      "daniel",
+      "méndez",
+      ",",
+      "opositor",
+      "partido",
+      "movimiento",
+      "ciudadano",
+      "(",
+      "mc",
+      ")",
+      "pidió",
+      "ayuda",
+      "policía",
+      "fuerzas",
+      "armadas",
+      ",",
+      "escalada",
+      "violencia",
+      "región",
+      ",",
+      "semana",
+      "pasada",
+      "ocurrieron",
+      "varios",
+      "hechos",
+      "violentos",
+      ".",
+      ",",
+      "fiscalía",
+      "general",
+      "informó",
+      "abrió",
+      "carpeta",
+      "investigación",
+      "delito",
+      "homicidio",
+      "calificado",
+      ".",
+      "guerrero",
+      "vive",
+      "ola",
+      "violencia",
+      "crimen",
+      "organizado",
+      ",",
+      "pasado",
+      "6",
+      "octubre",
+      "decapitado",
+      "alejandro",
+      "arcos",
+      ",",
+      "alcalde",
+      "chilpancingo",
+      "."
+    ],
+    "token_count": 121,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NN": 39,
+      "FW": 70,
+      "VBZ": 3,
+      "JJ": 16,
+      "NNS": 6,
+      "CD": 1,
+      "VBD": 1,
+      "IN": 8,
+      "CC": 1,
+      "VBP": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-NN": 12,
+      "NN-FW": 5,
+      "FW-FW": 49,
+      "FW-NNP": 10,
+      "NNP-NNP": 13,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NN": 13,
+      "NN-NNS": 2,
+      "NNS-FW": 2,
+      "FW-NN": 4,
+      "NN-NNP": 8,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "FW-JJ": 3,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "JJ-FW": 1,
+      "FW-NNS": 3,
+      "NNS-IN": 1,
+      "IN-NN": 1,
+      "NN-JJ": 4,
+      "NNP-FW": 6,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "IN-JJ": 1,
+      "FW-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-JJ": 2,
+      "NN-VBP": 1,
+      "VBP-JJ": 2,
+      "JJ-NNP": 1,
+      "NNS-VBP": 2,
+      "VBP-NNS": 1,
+      "NNS-NNP": 1,
+      "JJ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 37,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 2,
+      "NN-NN-IN": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNP": 1,
+      "VBP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NNP-NNP-NN": 1,
+      "NN-NN-NN": 2,
+      "NNP-FW-FW": 2,
+      "FW-NN-FW": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NNS-VBP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 70,
+        "NN": 39,
+        "NNP": 35,
+        "JJ": 16,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NNP-NNP": 13,
+        "JJ-NN": 13,
+        "NN-NN": 12,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 37,
+        "NNP-NN-NN": 6,
+        "NNP-NNP-NNP": 6,
+        "JJ-NN-IN": 6,
+        "NN-IN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 50,
+      "VP": 9,
+      "PP": 2,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Guerrero', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0429
+      },
+      {
+        "rule": "S -> NP ('del', 'FW') ('municipio', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') NP (',', ',') ('a', 'DT') ('menos', 'FW') ('de', 'FW') ('un', 'FW') ('mes', 'FW') ('de', 'FW') ('haber', 'FW') ('abandonado', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('exalcalde', 'NN') ('morenista', 'NN')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('Huamuxtitlán', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('Aurelio', 'NNP') ('Méndez', 'NNP') ('Rosales', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('fue', 'NN') ('asesinado', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('cargo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "S -> NP ('16', 'CD') NP ('en', 'FW') ('enfrentamiento', 'FW') ('en', 'FW') NP (',', ',') NP VP ('vecinos', 'FW') ('de', 'FW') ('la', 'FW') ('zona', 'FW') (',', ',') ('en', 'FW') ('horas', 'FW') ('de', 'FW') ('la', 'FW') ('tarde', 'FW') NP ('de', 'IN') ('sujetos', 'FW') NP NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('LEA', 'NNP') ('TAMBIÉN', 'NNP') ('Mueren', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('personas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0143
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El exalcalde morenista"
+      },
+      {
+        "label": "NP",
+        "text": "Huamuxtitlán"
+      },
+      {
+        "label": "NP",
+        "text": "Guerrero"
+      },
+      {
+        "label": "NP",
+        "text": "Aurelio Méndez Rosales"
+      },
+      {
+        "label": "NP",
+        "text": "fue asesinado este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "cargo"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Mueren"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "Guerrero"
+      },
+      {
+        "label": "NP",
+        "text": "México Según"
+      },
+      {
+        "label": "VP",
+        "text": "los"
+      },
+      {
+        "label": "NP",
+        "text": "un grupo"
+      },
+      {
+        "label": "NP",
+        "text": "armados secuestraron"
+      },
+      {
+        "label": "NP",
+        "text": "a Méndez y"
+      },
+      {
+        "label": "NP",
+        "text": "a su chofer"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP exalcalde/NN morenista/NN)\n  del/FW\n  municipio/FW\n  de/FW\n  (NP Huamuxtitlán/NNP)\n  ,/,\n  (NP Guerrero/NNP)\n  ,/,\n  (NP Aurelio/NNP Méndez/NNP Rosales/NNP)\n  ,/,\n  (NP fue/NN asesinado/NN este/NN jueves/NNS)\n  ,/,\n  a/DT\n  menos/FW\n  de/FW\n  un/FW\n  mes/FW\n  de/FW\n  haber/FW\n  abandonado/FW\n  el/FW\n  (NP cargo/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Mueren/NNP)\n  16/CD\n  (NP personas/NN)\n  en/FW\n  enfrentamiento/FW\n  en/FW\n  (NP Guerrero/NNP)\n  ,/,\n  (NP México/NNP Según/NNP)\n  (VP los/VBD)\n  vecinos/FW\n  de/FW\n  la/FW\n  zona/FW\n  ,/,\n  en/FW\n  horas/FW\n  de/FW\n  la/FW\n  tarde/FW\n  (NP un/JJ grupo/NN)\n  de/IN\n  sujetos/FW\n  (NP armados/JJ secuestraron/NN)\n  (NP a/DT Méndez/NNP y/NN)\n  (NP a/DT su/NN chofer/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP las/NNS)\n  (VP primeras/VBP)\n  horas/FW\n  de/FW\n  este/FW\n  (NP viernes/NNS)\n  ,/,\n  la/FW\n  (NP Fiscalía/NNP informó/NN que/NN las/NNS)\n  (PP autoridades/IN (NP iniciaron/NN))\n  (NP un/JJ operativo/NN)\n  en/IN\n  el/FW\n  (NP Barrio/NNP)\n  del/FW\n  (NP Rosario/NNP)\n  de/FW\n  (NP Huamuxtitlan/NNP)\n  para/CC\n  (NP esclarecer/NN lo/NN ocurrido/NN)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  la/FW\n  (NP Policía/NNP)\n  (VP\n    investigadora/VBP\n    (NP ministerial/JJ dio/NN)\n    (NP a/DT conocer/NN))\n  de/IN\n  la/FW\n  muerte/FW\n  del/FW\n  expolítico/FW\n  y/FW\n  de/FW\n  su/FW\n  (NP chofer/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  (VP el/VB (NP actual/JJ presidente/NN municipal/NN))\n  ,/,\n  (NP Daniel/NNP Méndez/NNP)\n  ,/,\n  (NP del/NN opositor/NN partido/NN Movimiento/NNP Ciudadano/NNP)\n  (/(\n  (NP MC/NNP)\n  )/)\n  (VP pidió/VBP)\n  ayuda/PDT\n  (NP a/DT la/NN policía/NN del/NN Estado/NNP y/NN)\n  de/FW\n  las/FW\n  (NP fuerzas/NN armadas/NNS)\n  ,/,\n  (ADJP ante/JJ)\n  la/FW\n  escalada/FW\n  de/FW\n  violencia/FW\n  en/FW\n  la/FW\n  región/FW\n  ,/,\n  ya/FW\n  (ADJP que/JJ)\n  la/FW\n  semana/FW\n  pasada/FW\n  ocurrieron/FW\n  (NP varios/NNS)\n  (VP hechos/VBP (NP violentos/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "FECHAS_HORAS",
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "enfrentamiento en guerrero",
+        "position": [
+          197,
+          223
+        ],
+        "start": 197,
+        "end": 223
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          404,
+          411
+        ],
+        "start": 404,
+        "end": 411
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "movimiento ciudadano",
+        "position": [
+          731,
+          751
+        ],
+        "start": 731,
+        "end": 751
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente municipal",
+        "position": [
+          673,
+          693
+        ],
+        "start": 673,
+        "end": 693
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          225,
+          231
+        ],
+        "start": 225,
+        "end": 231
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona, en",
+        "position": [
+          256,
+          264
+        ],
+        "start": 256,
+        "end": 264
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio del",
+        "position": [
+          461,
+          471
+        ],
+        "start": 461,
+        "end": 471
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "16 personas",
+        "position": [
+          182,
+          193
+        ],
+        "start": 182,
+        "end": 193
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "semana pasada",
+        "position": [
+          873,
+          886
+        ],
+        "start": 873,
+        "end": 886
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Aurelio Méndez Rosales",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chilpancingo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guerrero",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento Ciudadano",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alejandro Arcos",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Méndez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "MC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fiscalía General del Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Daniel Méndez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fiscalía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Barrio del Rosario",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Huamuxtitlán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "LEA",
+        "relacion": "MORIR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "MORIR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "MORIR",
+        "objeto": "Méndez"
+      },
+      {
+        "sujeto": "Guerrero",
+        "relacion": "MORIR",
+        "objeto": "Méndez"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "MORIR",
+        "objeto": "Méndez"
+      },
+      {
+        "sujeto": "Fiscalía",
+        "relacion": "INFORMAR",
+        "objeto": "Barrio del Rosario"
+      },
+      {
+        "sujeto": "Daniel Méndez",
+        "relacion": "PEDIR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Movimiento Ciudadano",
+        "relacion": "PEDIR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "MC",
+        "relacion": "PEDIR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Alejandro Arcos",
+        "relacion": "VIVIR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "Guerrero",
+        "relacion": "VIVIR",
+        "objeto": "Chilpancingo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

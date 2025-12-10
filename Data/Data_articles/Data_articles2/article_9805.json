@@ -1,0 +1,788 @@
+{
+  "url": "https://www.telesurtv.net/cuba-solicita-formalmente-ser-sumado-al-brics/",
+  "title": "Cuba solicita formalmente ser sumado al BRICS - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Brics+",
+    "Cuba",
+    "país socio",
+    "Rusia",
+    "solicitud"
+  ],
+  "text": "\nLa solicitud se realizó a través de una misiva al presidente de Rusia, Vladimir Putin, quien ostenta la Presidencia del Grupo este año.\nDe acuerdo con el funcionario, la asociación económica y política, que incluye a varios países emergentes, “se consolida como actor clave en la geopolítica global y esperanza para los países del Sur“.\nLa petición también fue notificada por el embajador de Rusia en esta capital, Víctor Koronelli, en una entrevista a la agencia de noticias rusa TASS, y recordó que durante este año representantes cubanos ya han participado en varios eventos multidisciplinarios en el marco del BRICS.\nKoronelli también confirmó que el presidente cubano Miguel Díaz-Canel Bermúdez tiene la invitación para participar en BRICS Plus/Outreach, una reunión ampliada del grupo en la próxima cumbre en Kazán.\nEn el contexto de la Cumbre de los BRICS 2023, celebrada en Sudáfrica, a la cual Cuba fue invitada como presidente Pro Témpore del Grupo-77 + China, el país caribeño abogó por potenciar las sinergias y la coordinación efectiva entre los BRICS y el Grupo.\nAdemás, la nación antillana enfatizó en la necesidad de un orden monetario internacional más estable, previsible y diversificado, y defendió el respeto a la Carta de las Naciones Unidas y el Derecho Internacional.\nDenominado actualmente BRICS+, el grupo fue constituido como un espacio internacional alternativo al G7, integrado por países desarrollados, y quedó conformado por Brasil, Rusia, India, China y Sudáfrica en 2010.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuba-solicita-formalmente-ser-sumado-al-brics/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1508,
+    "message_id": 78001,
+    "date": "2024-10-08T14:55:07+00:00",
+    "text": "teleSUR\nCuba solicita formalmente ser sumado al BRICS\nhttps://www.telesurtv.net/cuba-solicita-formalmente-ser-sumado-al-brics/",
+    "photo_path": null,
+    "views": 2504,
+    "reactions": {
+      "👍": 60,
+      "👏": 20
+    },
+    "total_reactions": 80
+  },
+  "preprocessing": {
+    "cleaned": "la solicitud se realizó a través de una misiva al presidente de rusia, vladimir putin, quien ostenta la presidencia del grupo este año. de acuerdo con el funcionario, la asociación económica y política, que incluye a varios países emergentes, “se consolida como actor clave en la geopolítica global y esperanza para los países del sur“. la petición también fue notificada por el embajador de rusia en esta capital, víctor koronelli, en una entrevista a la agencia de noticias rusa tass, y recordó que durante este año representantes cubanos ya han participado en varios eventos multidisciplinarios en el marco del brics. koronelli también confirmó que el presidente cubano miguel díaz-canel bermúdez tiene la invitación para participar en brics plus/outreach, una reunión ampliada del grupo en la próxima cumbre en kazán. en el contexto de la cumbre de los brics 2023, celebrada en sudáfrica, a la cual cuba fue invitada como presidente pro témpore del grupo-77 + china, el país caribeño abogó por potenciar las sinergias y la coordinación efectiva entre los brics y el grupo. además, la nación antillana enfatizó en la necesidad de un orden monetario internacional más estable, previsible y diversificado, y defendió el respeto a la carta de las naciones unidas y el derecho internacional. denominado actualmente brics+, el grupo fue constituido como un espacio internacional alternativo al g7, integrado por países desarrollados, y quedó conformado por brasil, rusia, india, china y sudáfrica en 2010.",
+    "tokens": [
+      "solicitud",
+      "realizó",
+      "través",
+      "misiva",
+      "presidente",
+      "rusia",
+      ",",
+      "vladimir",
+      "putin",
+      ",",
+      "ostenta",
+      "presidencia",
+      "grupo",
+      "año",
+      ".",
+      "acuerdo",
+      "funcionario",
+      ",",
+      "asociación",
+      "económica",
+      "política",
+      ",",
+      "incluye",
+      "varios",
+      "países",
+      "emergentes",
+      ",",
+      "“",
+      "consolida",
+      "actor",
+      "clave",
+      "geopolítica",
+      "global",
+      "esperanza",
+      "países",
+      "sur",
+      "“",
+      ".",
+      "petición",
+      "notificada",
+      "embajador",
+      "rusia",
+      "capital",
+      ",",
+      "víctor",
+      "koronelli",
+      ",",
+      "entrevista",
+      "agencia",
+      "noticias",
+      "rusa",
+      "tass",
+      ",",
+      "recordó",
+      "año",
+      "representantes",
+      "cubanos",
+      "participado",
+      "varios",
+      "eventos",
+      "multidisciplinarios",
+      "marco",
+      "brics",
+      ".",
+      "koronelli",
+      "confirmó",
+      "presidente",
+      "cubano",
+      "miguel",
+      "díaz-canel",
+      "bermúdez",
+      "invitación",
+      "participar",
+      "brics",
+      "plus/outreach",
+      ",",
+      "reunión",
+      "ampliada",
+      "grupo",
+      "próxima",
+      "cumbre",
+      "kazán",
+      ".",
+      "contexto",
+      "cumbre",
+      "brics",
+      "2023",
+      ",",
+      "celebrada",
+      "sudáfrica",
+      ",",
+      "cuba",
+      "invitada",
+      "presidente",
+      "pro",
+      "témpore",
+      "grupo-77",
+      "+",
+      "china",
+      ",",
+      "país",
+      "caribeño",
+      "abogó",
+      "potenciar",
+      "sinergias",
+      "coordinación",
+      "efectiva",
+      "brics",
+      "grupo",
+      ".",
+      "además",
+      ",",
+      "nación",
+      "antillana",
+      "enfatizó",
+      "necesidad",
+      "orden",
+      "monetario",
+      "internacional",
+      "estable",
+      ",",
+      "previsible",
+      "diversificado",
+      ",",
+      "defendió",
+      "respeto",
+      "carta",
+      "naciones",
+      "unidas",
+      "derecho",
+      "internacional",
+      ".",
+      "denominado",
+      "actualmente",
+      "brics+",
+      ",",
+      "grupo",
+      "constituido",
+      "espacio",
+      "internacional",
+      "alternativo",
+      "g7",
+      ",",
+      "integrado",
+      "países",
+      "desarrollados",
+      ",",
+      "quedó",
+      "conformado",
+      "brasil",
+      ",",
+      "rusia",
+      ",",
+      "india",
+      ",",
+      "china",
+      "sudáfrica",
+      "2010",
+      "."
+    ],
+    "token_count": 159,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "FW": 50,
+      "NN": 82,
+      "JJ": 18,
+      "NNS": 4,
+      "VBZ": 7,
+      "VBP": 4,
+      "VBN": 1,
+      "IN": 6,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-FW": 12,
+      "FW-FW": 25,
+      "FW-NNP": 11,
+      "NNP-NNP": 20,
+      "NNP-NN": 9,
+      "NN-NN": 51,
+      "NN-NNP": 8,
+      "FW-NN": 10,
+      "NN-FW": 8,
+      "NN-JJ": 6,
+      "JJ-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 3,
+      "JJ-NN": 10,
+      "NN-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "NN-VBZ": 3,
+      "VBZ-FW": 1,
+      "NN-IN": 5,
+      "IN-NNP": 2,
+      "FW-JJ": 3,
+      "VBZ-JJ": 2,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "NNP-JJ": 1,
+      "IN-FW": 3,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 3,
+      "VBZ-NNP": 3,
+      "JJ-JJ": 3,
+      "NNP-IN": 1,
+      "IN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 4,
+      "FW-FW-FW": 16,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 29,
+      "NN-NN-NNP": 6,
+      "NN-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-FW-NN": 5,
+      "FW-NN-FW": 4,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-NN": 1,
+      "NN-JJ-NN": 2,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NNP-NNP-FW": 5,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 5,
+      "NNP-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "NN-FW-NNP": 3,
+      "FW-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NNP": 3,
+      "VBZ-NNP-NNP": 2,
+      "NNP-NN-NNP": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "VBZ-NNP-NN": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-NNP-NN": 1,
+      "VBZ-JJ-NN": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 82,
+        "FW": 50,
+        "NNP": 47,
+        "JJ": 18,
+        "VBZ": 7
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "FW-FW": 25,
+        "NNP-NNP": 20,
+        "NNP-FW": 12,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 16,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 12,
+      "PP": 4,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0349
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "S -> NP ('solicitud', 'FW') ('se', 'FW') VP PP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "VP -> ('realizó', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('través', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('misiva', 'NN') ('al', 'NN') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Vladimir', 'NNP') ('Putin', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('quien', 'NN') ('ostenta', 'NN') ('la', 'NN') ('Presidencia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "realizó a través"
+      },
+      {
+        "label": "NP",
+        "text": "a través"
+      },
+      {
+        "label": "PP",
+        "text": "de una misiva al presidente"
+      },
+      {
+        "label": "NP",
+        "text": "una misiva al presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "Vladimir Putin"
+      },
+      {
+        "label": "NP",
+        "text": "quien ostenta la Presidencia"
+      },
+      {
+        "label": "NP",
+        "text": "Grupo este año"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con el funcionario"
+      },
+      {
+        "label": "NP",
+        "text": "y política"
+      },
+      {
+        "label": "NP",
+        "text": "que incluye"
+      },
+      {
+        "label": "NP",
+        "text": "a varios países emergentes"
+      },
+      {
+        "label": "NP",
+        "text": "consolida como actor"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  solicitud/FW\n  se/FW\n  (VP realizó/VB (NP a/DT través/NN))\n  (PP de/IN (NP una/JJ misiva/NN al/NN presidente/NN))\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP Vladimir/NNP Putin/NNP)\n  ,/,\n  (NP quien/NN ostenta/NN la/NN Presidencia/NNP)\n  del/FW\n  (NP Grupo/NNP este/NN año/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN funcionario/NN)\n  ,/,\n  la/FW\n  asociación/FW\n  económica/FW\n  (NP y/NN política/NN)\n  ,/,\n  (NP que/NN incluye/NN)\n  (NP a/DT varios/JJ países/NNS emergentes/NNS)\n  ,/,\n  “/FW\n  se/FW\n  (NP consolida/NN como/NN actor/NN)\n  (VP clave/VBP)\n  (VP\n    en/VBN\n    (NP la/NN geopolítica/NN)\n    (NP global/JJ y/NN esperanza/NN para/NN los/NN))\n  (VP países/VBZ)\n  del/FW\n  (NP Sur/NNP “/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP petición/NN también/NN fue/NN)\n  (NP notificada/JJ por/NN el/NN embajador/NN)\n  (PP de/IN (NP Rusia/NNP))\n  en/FW\n  (NP esta/JJ capital/NN)\n  ,/,\n  (NP Víctor/NNP Koronelli/NNP)\n  ,/,\n  en/FW\n  (ADJP una/JJ)\n  entrevista/FW\n  a/DT\n  la/FW\n  agencia/FW\n  de/FW\n  noticias/FW\n  rusa/FW\n  (NP TASS/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP recordó/VBZ (NP que/JJ durante/JJ este/NN año/NN))\n  (VP representantes/VBZ (NP cubanos/JJ ya/NNS))\n  (VP han/VBP participado/JJ)\n  en/FW\n  varios/FW\n  eventos/FW\n  (NP multidisciplinarios/NNS)\n  (VP en/VBP (NP el/JJ marco/NN del/NN BRICS/NNP))\n  ./.)",
+      "(S\n  (NP\n    Koronelli/NNP\n    también/NN\n    confirmó/NN\n    que/NN\n    el/NN\n    presidente/NN\n    cubano/NN\n    Miguel/NNP\n    Díaz-Canel/NNP\n    Bermúdez/NNP\n    tiene/NN\n    la/NN\n    invitación/NN\n    para/NN\n    participar/NN)\n  (PP en/IN (NP BRICS/NNP Plus/Outreach/NNP))\n  ,/,\n  (NP una/JJ reunión/NN ampliada/NN del/NN grupo/NN)\n  en/IN\n  la/FW\n  próxima/FW\n  (NP cumbre/NN)\n  (PP en/IN (NP Kazán/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  (NP contexto/NN)\n  de/IN\n  la/FW\n  (NP Cumbre/NNP)\n  de/FW\n  los/FW\n  (NP BRICS/NNP)\n  2023/CD\n  ,/,\n  (NP celebrada/NN en/NN Sudáfrica/NNP)\n  ,/,\n  (NP a/DT la/NN)\n  (NP cual/JJ Cuba/NNP fue/NN invitada/NN como/NN)\n  (NP presidente/JJ Pro/NNP Témpore/NNP)\n  (VP del/VBZ (NP Grupo-77/NNP +/NNP China/NNP))\n  ,/,\n  (NP\n    el/NN\n    país/NN\n    caribeño/NN\n    abogó/NN\n    por/NN\n    potenciar/NN\n    las/NN\n    sinergias/NN\n    y/NNP\n    la/NNP\n    coordinación/NN\n    efectiva/NN)\n  entre/FW\n  (NP los/NN BRICS/NNP y/NN el/NN Grupo/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          1210,
+          1218
+        ],
+        "start": 1210,
+        "end": 1218
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          407,
+          414
+        ],
+        "start": 407,
+        "end": 414
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el funcionario, la asociación económica y política, que",
+        "position": [
+          140,
+          207
+        ],
+        "start": 140,
+        "end": 207
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de rusia",
+        "position": [
+          51,
+          70
+        ],
+        "start": 51,
+        "end": 70
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1248,
+          1263
+        ],
+        "start": 1248,
+        "end": 1263
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          904,
+          908
+        ],
+        "start": 904,
+        "end": 908
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          65,
+          70
+        ],
+        "start": 65,
+        "end": 70
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1303,
+          1314
+        ],
+        "start": 1303,
+        "end": 1314
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Koronelli",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Miguel Díaz-Canel Bermúdez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kazán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Derecho Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Carta de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pro Témpore",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Grupo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sudáfrica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Presidencia del Grupo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Víctor Koronelli",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "G7",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "TASS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vladimir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Grupo-77 + China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rusia",
+        "relacion": "NOTIFICAR",
+        "objeto": "TASS"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "NOTIFICAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Víctor Koronelli",
+        "relacion": "NOTIFICAR",
+        "objeto": "TASS"
+      },
+      {
+        "sujeto": "Víctor Koronelli",
+        "relacion": "NOTIFICAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "TASS",
+        "relacion": "NOTIFICAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Koronelli",
+        "relacion": "CONFIRMAR",
+        "objeto": "Miguel Díaz-Canel Bermúdez"
+      },
+      {
+        "sujeto": "Koronelli",
+        "relacion": "CONFIRMAR",
+        "objeto": "Kazán"
+      },
+      {
+        "sujeto": "Miguel Díaz-Canel Bermúdez",
+        "relacion": "TENER_CONFIRMAR",
+        "objeto": "Kazán"
+      },
+      {
+        "sujeto": "Sudáfrica",
+        "relacion": "ABOGAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Sudáfrica",
+        "relacion": "ABOGAR",
+        "objeto": "Grupo"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "INVITAR_ABOGAR",
+        "objeto": "Pro Témpore"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "INVITAR_ABOGAR",
+        "objeto": "Grupo-77 + China"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "INVITAR_ABOGAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "INVITAR_ABOGAR",
+        "objeto": "Grupo"
+      },
+      {
+        "sujeto": "Pro Témpore",
+        "relacion": "INVITAR_ABOGAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Pro Témpore",
+        "relacion": "INVITAR_ABOGAR",
+        "objeto": "Grupo"
+      },
+      {
+        "sujeto": "Grupo-77 + China",
+        "relacion": "INVITAR_ABOGAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Grupo-77 + China",
+        "relacion": "INVITAR_ABOGAR",
+        "objeto": "Grupo"
+      },
+      {
+        "sujeto": "G7",
+        "relacion": "CONSTITUIR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "G7",
+        "relacion": "CONSTITUIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "G7",
+        "relacion": "CONSTITUIR",
+        "objeto": "India"
+      },
+      {
+        "sujeto": "G7",
+        "relacion": "CONSTITUIR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "G7",
+        "relacion": "CONSTITUIR",
+        "objeto": "Sudáfrica"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

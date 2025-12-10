@@ -1,0 +1,751 @@
+{
+  "url": "https://www.telesurtv.net/ali-jamenei-afirma-que-israel-cometio-un-acto-malvado-en-iran/",
+  "title": "Ali Jamenei afirma que Israel cometió un acto malvado en Irán - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "Ayatolá Ali Jamenei",
+    "Gaza",
+    "líder iraní",
+    "ONU"
+  ],
+  "text": "“(Las tropas de Israel) Cometieron aquí un acto malvado hace dos noches. Por supuesto, fue un error, sobre el que (los responsables) están exagerando. Tanto exagerarlo, como minimizarlo es un error (…)”, así se refirió hoy el ayatolá Seyed Ali Jamenei a los ataques del régimen sionista a algunas posiciones militares de Irán, ocurridos la madrugada de este sábado.\nComo parte de una reunión con las familias de los “mártires de seguridad”, el líder iraní aseguró que los acontecimientos de la víspera se deben a la falta de conocimiento de Israel sobre la nación persa.\nEn tanto, se refirió a la necesidad de que se corrija el error de cálculo del régimen sionista con respecto a Irán. “(…) no conocen a los jóvenes iraníes, no conocen al pueblo iraní, y aún no han sido capaces de comprender correctamente el poder, la capacidad, la innovación y la determinación del pueblo iraní; esto es lo que debemos hacerles entender”, señaló Jamenei.\nEl líder de la Revolución Islámica informó que las autoridades iraníes decidirán la calidad de la demostración de poder de su país ante Israel. De hecho, aseveró que esa decisión debe responder a los intereses de la nación. “Solo un Irán fuerte puede defenderse a sí mismo”, remarcó.\nEste domingo, Seyed Ali Jamenei alabó a quienes sacrificaron su vida a fin de defender el país y garantizar la seguridad en los territorios agredidos. Asimismo, insistió en el valor de la seguridad, como base de todos los caminos para el progreso nacional.\nPor otra parte, su discurso criticó la inacción de los gobiernos nacionales y las instituciones internacionales, como la Organización de Naciones Unidas, ante “los más horrendos crímenes de guerra cometidos” durante hace más de un año por Israel en Gaza y El Líbano. De ese modo, llamó a “crear una coalición a nivel internacional contra el malvado régimen sionista”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ali-jamenei-afirma-que-israel-cometio-un-acto-malvado-en-iran/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 321,
+    "message_id": 79268,
+    "date": "2024-10-27T14:55:07+00:00",
+    "text": "teleSUR\nAli Jamenei afirma que Israel cometió un acto malvado en Irán\nhttps://www.telesurtv.net/ali-jamenei-afirma-que-israel-cometio-un-acto-malvado-en-iran/",
+    "photo_path": null,
+    "views": 3173,
+    "reactions": {
+      "👍": 62,
+      "👏": 7
+    },
+    "total_reactions": 69
+  },
+  "preprocessing": {
+    "cleaned": "“(las tropas de israel) cometieron aquí un acto malvado hace dos noches. por supuesto, fue un error, sobre el que (los responsables) están exagerando. tanto exagerarlo, como minimizarlo es un error (…)”, así se refirió hoy el ayatolá seyed ali jamenei a los ataques del régimen sionista a algunas posiciones militares de irán, ocurridos la madrugada de este sábado. como parte de una reunión con las familias de los “mártires de seguridad”, el líder iraní aseguró que los acontecimientos de la víspera se deben a la falta de conocimiento de israel sobre la nación persa. en tanto, se refirió a la necesidad de que se corrija el error de cálculo del régimen sionista con respecto a irán. “(…) no conocen a los jóvenes iraníes, no conocen al pueblo iraní, y aún no han sido capaces de comprender correctamente el poder, la capacidad, la innovación y la determinación del pueblo iraní; esto es lo que debemos hacerles entender”, señaló jamenei. el líder de la revolución islámica informó que las autoridades iraníes decidirán la calidad de la demostración de poder de su país ante israel. de hecho, aseveró que esa decisión debe responder a los intereses de la nación. “solo un irán fuerte puede defenderse a sí mismo”, remarcó. este domingo, seyed ali jamenei alabó a quienes sacrificaron su vida a fin de defender el país y garantizar la seguridad en los territorios agredidos. asimismo, insistió en el valor de la seguridad, como base de todos los caminos para el progreso nacional. por otra parte, su discurso criticó la inacción de los gobiernos nacionales y las instituciones internacionales, como la organización de naciones unidas, ante “los más horrendos crímenes de guerra cometidos” durante hace más de un año por israel en gaza y el líbano. de ese modo, llamó a “crear una coalición a nivel internacional contra el malvado régimen sionista”.",
+    "tokens": [
+      "“",
+      "(",
+      "tropas",
+      "israel",
+      ")",
+      "cometieron",
+      "aquí",
+      "acto",
+      "malvado",
+      "hace",
+      "dos",
+      "noches",
+      ".",
+      "supuesto",
+      ",",
+      "error",
+      ",",
+      "(",
+      "responsables",
+      ")",
+      "exagerando",
+      ".",
+      "exagerarlo",
+      ",",
+      "minimizarlo",
+      "error",
+      "(",
+      "…",
+      ")",
+      "”",
+      ",",
+      "así",
+      "refirió",
+      "hoy",
+      "ayatolá",
+      "seyed",
+      "ali",
+      "jamenei",
+      "ataques",
+      "régimen",
+      "sionista",
+      "posiciones",
+      "militares",
+      "irán",
+      ",",
+      "ocurridos",
+      "madrugada",
+      "sábado",
+      ".",
+      "parte",
+      "reunión",
+      "familias",
+      "“",
+      "mártires",
+      "seguridad",
+      "”",
+      ",",
+      "líder",
+      "iraní",
+      "aseguró",
+      "acontecimientos",
+      "víspera",
+      "deben",
+      "falta",
+      "conocimiento",
+      "israel",
+      "nación",
+      "persa",
+      ".",
+      ",",
+      "refirió",
+      "necesidad",
+      "corrija",
+      "error",
+      "cálculo",
+      "régimen",
+      "sionista",
+      "respecto",
+      "irán",
+      ".",
+      "“",
+      "(",
+      "…",
+      ")",
+      "conocen",
+      "jóvenes",
+      "iraníes",
+      ",",
+      "conocen",
+      "pueblo",
+      "iraní",
+      ",",
+      "aún",
+      "sido",
+      "capaces",
+      "comprender",
+      "correctamente",
+      "poder",
+      ",",
+      "capacidad",
+      ",",
+      "innovación",
+      "determinación",
+      "pueblo",
+      "iraní",
+      ";",
+      "debemos",
+      "hacerles",
+      "entender",
+      "”",
+      ",",
+      "señaló",
+      "jamenei",
+      ".",
+      "líder",
+      "revolución",
+      "islámica",
+      "informó",
+      "autoridades",
+      "iraníes",
+      "decidirán",
+      "calidad",
+      "demostración",
+      "poder",
+      "país",
+      "israel",
+      ".",
+      "hecho",
+      ",",
+      "aseveró",
+      "decisión",
+      "debe",
+      "responder",
+      "intereses",
+      "nación",
+      ".",
+      "“",
+      "solo",
+      "irán",
+      "fuerte",
+      "puede",
+      "defenderse",
+      "mismo",
+      "”",
+      ",",
+      "remarcó",
+      ".",
+      "domingo",
+      ",",
+      "seyed",
+      "ali",
+      "jamenei",
+      "alabó",
+      "sacrificaron",
+      "vida",
+      "fin",
+      "defender",
+      "país",
+      "garantizar",
+      "seguridad",
+      "territorios",
+      "agredidos",
+      ".",
+      "asimismo",
+      ",",
+      "insistió",
+      "valor",
+      "seguridad",
+      ",",
+      "base",
+      "caminos",
+      "progreso",
+      "nacional",
+      ".",
+      "parte",
+      ",",
+      "discurso",
+      "criticó",
+      "inacción",
+      "gobiernos",
+      "nacionales",
+      "instituciones",
+      "internacionales",
+      ",",
+      "organización",
+      "naciones",
+      "unidas",
+      ",",
+      "“",
+      "horrendos",
+      "crímenes",
+      "guerra",
+      "cometidos",
+      "”",
+      "hace",
+      "año",
+      "israel",
+      "gaza",
+      "líbano",
+      ".",
+      "modo",
+      ",",
+      "llamó",
+      "“",
+      "crear",
+      "coalición",
+      "nivel",
+      "internacional",
+      "malvado",
+      "régimen",
+      "sionista",
+      "”",
+      "."
+    ],
+    "token_count": 213,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NN": 88,
+      "IN": 12,
+      "JJ": 25,
+      "NNS": 23,
+      "VBP": 16,
+      "RB": 2,
+      "MD": 2,
+      "VB": 2,
+      "FW": 75,
+      "JJR": 1,
+      "DT": 3,
+      "VBZ": 5,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-IN": 6,
+      "IN-NNP": 2,
+      "NNP-NNP": 12,
+      "NN-JJ": 5,
+      "JJ-NN": 14,
+      "NN-NN": 49,
+      "NN-NNS": 9,
+      "NNS-NNP": 1,
+      "NNS-VBP": 14,
+      "VBP-RB": 1,
+      "RB-NNP": 1,
+      "NN-NNP": 4,
+      "VBP-NNS": 2,
+      "VBP-JJ": 7,
+      "JJ-NNS": 4,
+      "NNS-NNS": 2,
+      "NNS-IN": 4,
+      "NNP-MD": 2,
+      "MD-VB": 2,
+      "VB-FW": 1,
+      "FW-FW": 49,
+      "FW-NNP": 7,
+      "NNP-FW": 6,
+      "FW-NN": 8,
+      "VBP-IN": 1,
+      "IN-FW": 7,
+      "FW-NNS": 4,
+      "NNS-FW": 2,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "NN-FW": 9,
+      "NNP-DT": 1,
+      "DT-NN": 3,
+      "NN-VBZ": 3,
+      "VBZ-NNS": 1,
+      "IN-DT": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "VBZ-DT": 1,
+      "NN-VBD": 1,
+      "VBD-NNS": 1,
+      "FW-JJ": 5,
+      "JJ-NNP": 4,
+      "IN-JJ": 2,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "VBZ-IN": 1,
+      "NNP-JJ": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "VBP-NNP": 2,
+      "JJ-JJ": 3,
+      "VB-JJ": 1,
+      "VBZ-FW": 1,
+      "FW-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 30,
+      "NN-NN-NNS": 5,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-NN-JJ": 3,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-NNP": 1,
+      "RB-NNP-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NN-NNS": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-MD": 1,
+      "NNP-MD-VB": 2,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "FW-FW-FW": 34,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 4,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "FW-NNP-NN": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-FW": 1,
+      "FW-NN-NN": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "FW-NNP-NNP": 4,
+      "NN-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NN-NN-IN": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-JJ": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-IN-FW": 1,
+      "NNS-VBP-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "VBP-NNP-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 75,
+        "NNP": 35,
+        "JJ": 25,
+        "NNS": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 49,
+        "FW-FW": 49,
+        "JJ-NN": 14,
+        "NNS-VBP": 14,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 30,
+        "JJ-NN-NN": 8,
+        "NNP-NN-NN": 6,
+        "NN-NNS-VBP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 91,
+      "PP": 5,
+      "VP": 21,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0229
+      },
+      {
+        "rule": "NP -> ('“', 'NN')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "NP -> ('…', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "NP -> ('régimen', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "VP -> ('sionista', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "NP -> ('”', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('conocen', 'NN')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "S -> NP ('(', '(') NP ('tropas', 'FW') PP (')', ')') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0076
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "“"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Cometieron aquí"
+      },
+      {
+        "label": "NP",
+        "text": "un acto malvado hace dos noches"
+      },
+      {
+        "label": "NP",
+        "text": "Por supuesto"
+      },
+      {
+        "label": "NP",
+        "text": "fue un error"
+      },
+      {
+        "label": "NP",
+        "text": "sobre el que"
+      },
+      {
+        "label": "NP",
+        "text": "los responsables"
+      },
+      {
+        "label": "VP",
+        "text": "están exagerando"
+      },
+      {
+        "label": "NP",
+        "text": "exagerando"
+      },
+      {
+        "label": "NP",
+        "text": "Tanto exagerarlo"
+      },
+      {
+        "label": "NP",
+        "text": "como minimizarlo es"
+      },
+      {
+        "label": "NP",
+        "text": "un error"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP “/NN)\n  (/(\n  (NP Las/NNP)\n  tropas/FW\n  (PP de/IN (NP Israel/NNP))\n  )/)\n  (NP Cometieron/NNP aquí/NN)\n  (NP un/JJ acto/NN malvado/NN hace/NN dos/NN noches/NNS)\n  ./.)",
+      "(S\n  (NP Por/NNP supuesto/NN)\n  ,/,\n  (NP fue/JJ un/JJ error/NN)\n  ,/,\n  (NP sobre/JJ el/NN que/NN)\n  (/(\n  (NP los/JJ responsables/NNS)\n  )/)\n  (VP están/VBP (NP exagerando/NN))\n  ./.)",
+      "(S\n  (NP Tanto/NNP exagerarlo/NN)\n  ,/,\n  (NP como/NN minimizarlo/NN es/NN)\n  (NP un/JJ error/NN)\n  (/(\n  (NP …/NNP)\n  )/)\n  (NP ”/NN)\n  ,/,\n  (NP\n    así/JJ\n    se/NN\n    refirió/NN\n    hoy/NN\n    el/NN\n    ayatolá/NN\n    Seyed/NNP\n    Ali/NNP\n    Jamenei/NNP)\n  (NP a/DT los/NN)\n  (VP ataques/VBZ)\n  del/FW\n  (NP régimen/NNS)\n  (VP sionista/VBP (NP a/DT algunas/JJ posiciones/NNS militares/NNS))\n  (PP de/IN (NP Irán/NNP))\n  ,/,\n  (ADJP ocurridos/JJ)\n  la/FW\n  madrugada/FW\n  de/FW\n  este/FW\n  (NP sábado/NN)\n  ./.)",
+      "(S\n  (NP Como/NNP parte/NN)\n  de/FW\n  una/FW\n  reunión/FW\n  (NP con/NN las/NNS)\n  (VP familias/VBP)\n  de/IN\n  los/FW\n  (NP “/JJ mártires/NNS)\n  de/IN\n  seguridad/FW\n  (NP ”/NNP)\n  ,/,\n  (NP el/JJ líder/NN iraní/NN aseguró/NN que/NN)\n  (NP los/JJ acontecimientos/NN)\n  de/IN\n  la/FW\n  víspera/FW\n  se/FW\n  deben/FW\n  a/DT\n  la/FW\n  falta/FW\n  de/FW\n  conocimiento/FW\n  de/FW\n  (NP Israel/NNP sobre/NN la/NN)\n  (NP nación/JJ persa/NN)\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  se/FW\n  refirió/FW\n  a/DT\n  la/FW\n  necesidad/FW\n  de/FW\n  que/FW\n  se/FW\n  (NP corrija/NN)\n  el/FW\n  (NP error/NN)\n  de/IN\n  cálculo/FW\n  del/FW\n  (NP régimen/NNS)\n  (VP sionista/VBP (NP con/JJ respecto/NN) (NP a/DT Irán/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra cometidos” durante hace más de un año por israel en gaza",
+        "position": [
+          1673,
+          1736
+        ],
+        "start": 1673,
+        "end": 1736
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          926,
+          932
+        ],
+        "start": 926,
+        "end": 932
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          977,
+          984
+        ],
+        "start": 977,
+        "end": 984
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1620,
+          1635
+        ],
+        "start": 1620,
+        "end": 1635
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          709,
+          716
+        ],
+        "start": 709,
+        "end": 716
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "criticó",
+        "position": [
+          1511,
+          1518
+        ],
+        "start": 1511,
+        "end": 1518
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          1742,
+          1748
+        ],
+        "start": 1742,
+        "end": 1748
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          219,
+          222
+        ],
+        "start": 219,
+        "end": 222
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jamenei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organización de Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Seyed Ali Jamenei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Líbano",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Seyed Ali Jamenei",
+        "relacion": "REFERIR",
+        "objeto": "Irán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9062,
+    "pos": 0.005,
+    "neu": 0.947,
+    "neg": 0.049,
+    "label": "negative"
+  }
+}

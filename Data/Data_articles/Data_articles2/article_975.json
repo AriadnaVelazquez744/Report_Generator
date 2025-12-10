@@ -1,0 +1,628 @@
+{
+  "url": "https://www.telesurtv.net/decretan-tres-dias-de-duelo-en-republica-dominicana-por-fallecidos-en-discoteca/",
+  "title": "Decretan tres días de duelo en República Dominicana por fallecidos en discoteca - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Accidente",
+    "Desplome de techo",
+    "Muertos"
+  ],
+  "text": "Tras el colapso del techo de la discoteca Jet Set, que ocasionó la muerte de al menos 113 personas y dejó a 160 heridos, la presidencia de la República Dominicana decretó tres días de luto nacional desde el 8 hasta el 10 del presente mes.\nDe inmediato, se desplegaron las fuerzas de salvamento y rescate, compuestas por más de 400 socorristas que trabajaron durante 12 horas ininterrumpidas en la escena, utilizando maquinaria pesada y perros entrenados.Se confirmó el fallecimiento de destacadas personalidades que se encontraban en el lugar, como el ya mencionado Rubby Pérez, el exbeisbolista de las Grandes Ligas Octavio Dotel, la gobernadora de la provincia de Montecristi, Nelsy Cruz, y el renombrado diseñador de moda Martín Polanco.“Presumimos que muchos de ellos todavía están con vida, y por eso las autoridades aquí presentes no descansaremos hasta que no quede una sola persona debajo de esos escombros´´, expresó Juan Manuel Méndez, director del Centro de Operaciones de Emergencia de Santo Domingo.Según investigaciones previas, el edificio presentaba problemas estructurales desde antes, ya que un incendio había afectado parte de sus instalaciones. Aunque se realizaron obras para su reparación, nunca se verificó públicamente su estado estructural ni se presentó un informe claro sobre las medidas tomadas para garantizar la seguridad del público.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/decretan-tres-dias-de-duelo-en-republica-dominicana-por-fallecidos-en-discoteca/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1472,
+    "message_id": 91420,
+    "date": "2025-04-09T10:55:07+00:00",
+    "text": "teleSUR\nDecretan tres días de duelo en República Dominicana por fallecidos en discoteca\nhttps://www.telesurtv.net/decretan-tres-dias-de-duelo-en-republica-dominicana-por-fallecidos-en-discoteca/",
+    "photo_path": null,
+    "views": 2198,
+    "reactions": {
+      "🕊": 36,
+      "😱": 9,
+      "🙏": 7,
+      "👍": 1
+    },
+    "total_reactions": 53
+  },
+  "preprocessing": {
+    "cleaned": "tras el colapso del techo de la discoteca jet set, que ocasionó la muerte de al menos 113 personas y dejó a 160 heridos, la presidencia de la república dominicana decretó tres días de luto nacional desde el 8 hasta el 10 del presente mes. de inmediato, se desplegaron las fuerzas de salvamento y rescate, compuestas por más de 400 socorristas que trabajaron durante 12 horas ininterrumpidas en la escena, utilizando maquinaria pesada y perros entrenados.se confirmó el fallecimiento de destacadas personalidades que se encontraban en el lugar, como el ya mencionado rubby pérez, el exbeisbolista de las grandes ligas octavio dotel, la gobernadora de la provincia de montecristi, nelsy cruz, y el renombrado diseñador de moda martín polanco.“presumimos que muchos de ellos todavía están con vida, y por eso las autoridades aquí presentes no descansaremos hasta que no quede una sola persona debajo de esos escombros´´, expresó juan manuel méndez, director del centro de operaciones de emergencia de santo domingo.según investigaciones previas, el edificio presentaba problemas estructurales desde antes, ya que un incendio había afectado parte de sus instalaciones. aunque se realizaron obras para su reparación, nunca se verificó públicamente su estado estructural ni se presentó un informe claro sobre las medidas tomadas para garantizar la seguridad del público.",
+    "tokens": [
+      "tras",
+      "colapso",
+      "techo",
+      "discoteca",
+      "jet",
+      "set",
+      ",",
+      "ocasionó",
+      "muerte",
+      "menos",
+      "113",
+      "personas",
+      "dejó",
+      "160",
+      "heridos",
+      ",",
+      "presidencia",
+      "república",
+      "dominicana",
+      "decretó",
+      "tres",
+      "días",
+      "luto",
+      "nacional",
+      "8",
+      "10",
+      "presente",
+      "mes",
+      ".",
+      "inmediato",
+      ",",
+      "desplegaron",
+      "fuerzas",
+      "salvamento",
+      "rescate",
+      ",",
+      "compuestas",
+      "400",
+      "socorristas",
+      "trabajaron",
+      "12",
+      "horas",
+      "ininterrumpidas",
+      "escena",
+      ",",
+      "utilizando",
+      "maquinaria",
+      "pesada",
+      "perros",
+      "entrenados.se",
+      "confirmó",
+      "fallecimiento",
+      "destacadas",
+      "personalidades",
+      "encontraban",
+      "lugar",
+      ",",
+      "mencionado",
+      "rubby",
+      "pérez",
+      ",",
+      "exbeisbolista",
+      "grandes",
+      "ligas",
+      "octavio",
+      "dotel",
+      ",",
+      "gobernadora",
+      "provincia",
+      "montecristi",
+      ",",
+      "nelsy",
+      "cruz",
+      ",",
+      "renombrado",
+      "diseñador",
+      "moda",
+      "martín",
+      "polanco.",
+      "“",
+      "presumimos",
+      "todavía",
+      "vida",
+      ",",
+      "autoridades",
+      "aquí",
+      "presentes",
+      "descansaremos",
+      "quede",
+      "sola",
+      "persona",
+      "debajo",
+      "escombros´´",
+      ",",
+      "expresó",
+      "juan",
+      "manuel",
+      "méndez",
+      ",",
+      "director",
+      "centro",
+      "operaciones",
+      "emergencia",
+      "santo",
+      "domingo.según",
+      "investigaciones",
+      "previas",
+      ",",
+      "edificio",
+      "presentaba",
+      "problemas",
+      "estructurales",
+      ",",
+      "incendio",
+      "afectado",
+      "parte",
+      "instalaciones",
+      ".",
+      "aunque",
+      "realizaron",
+      "obras",
+      "reparación",
+      ",",
+      "nunca",
+      "verificó",
+      "públicamente",
+      "estructural",
+      "presentó",
+      "informe",
+      "claro",
+      "medidas",
+      "tomadas",
+      "garantizar",
+      "seguridad",
+      "público",
+      "."
+    ],
+    "token_count": 136,
+    "sentence_count": 3
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "CC": 1,
+      "JJ": 20,
+      "NN": 57,
+      "IN": 11,
+      "FW": 54,
+      "CD": 5,
+      "NNS": 13,
+      "RB": 1,
+      "VBP": 7,
+      "VBD": 2,
+      "VBZ": 3,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 13,
+      "NN-NN": 28,
+      "NN-IN": 8,
+      "IN-FW": 8,
+      "FW-FW": 30,
+      "FW-NNP": 11,
+      "NNP-NNP": 14,
+      "NNP-NN": 4,
+      "NN-FW": 7,
+      "FW-CD": 1,
+      "CD-NNS": 4,
+      "NNS-RB": 1,
+      "RB-CD": 1,
+      "NNS-JJ": 3,
+      "JJ-FW": 3,
+      "NN-NNS": 5,
+      "NNS-VBP": 7,
+      "VBP-IN": 1,
+      "FW-JJ": 4,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "NNP-FW": 6,
+      "FW-NN": 6,
+      "NN-JJ": 3,
+      "VBP-NN": 1,
+      "IN-CD": 1,
+      "NN-CD": 1,
+      "JJ-IN": 1,
+      "FW-NNS": 2,
+      "VBP-JJ": 5,
+      "IN-NN": 1,
+      "NN-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "JJ-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "NN-DT": 1,
+      "NNP-NNS": 1,
+      "NN-VBZ": 1,
+      "JJ-NNS": 1,
+      "JJ-JJ": 1,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 20,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-NN-NN": 12,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "NNS-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-FW-NNP": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-VBZ": 1,
+      "JJ-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-JJ": 1,
+      "NNP-NN-FW": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NNS": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-JJ": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 57,
+        "FW": 54,
+        "NNP": 28,
+        "JJ": 20,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 30,
+        "NN-NN": 28,
+        "NNP-NNP": 14,
+        "JJ-NN": 13,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 12,
+        "JJ-NN-NN": 8,
+        "FW-NNP-NNP": 7,
+        "NN-IN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 3,
+    "chunk_counts": {
+      "NP": 55,
+      "VP": 16,
+      "ADJP": 3,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP ('el', 'CC') NP ('de', 'IN') ('la', 'FW') ('discoteca', 'FW') NP (',', ',') NP ('la', 'FW') ('muerte', 'FW') ('de', 'FW') ('al', 'FW') ('menos', 'FW') ('113', 'CD') NP ('y', 'RB') VP ('a', 'DT') ('160', 'CD') NP (',', ',') ('la', 'FW') ('presidencia', 'FW') ('de', 'FW') ('la', 'FW') NP VP ('de', 'IN') ('luto', 'FW') NP VP ('8', 'CD') NP ('10', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Tras', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('colapso', 'JJ') ('del', 'NN') ('techo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Jet', 'NNP') ('Set', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('que', 'NN') ('ocasionó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('dejó', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Dominicana', 'NNP') ('decretó', 'NN') ('tres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('días', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Tras"
+      },
+      {
+        "label": "NP",
+        "text": "colapso del techo"
+      },
+      {
+        "label": "NP",
+        "text": "Jet Set"
+      },
+      {
+        "label": "NP",
+        "text": "que ocasionó"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "dejó"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "República Dominicana decretó tres"
+      },
+      {
+        "label": "VP",
+        "text": "días"
+      },
+      {
+        "label": "NP",
+        "text": "nacional desde"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "hasta el"
+      },
+      {
+        "label": "NP",
+        "text": "del presente mes"
+      },
+      {
+        "label": "NP",
+        "text": "De inmediato"
+      },
+      {
+        "label": "NP",
+        "text": "desplegaron las"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Tras/NNP)\n  el/CC\n  (NP colapso/JJ del/NN techo/NN)\n  de/IN\n  la/FW\n  discoteca/FW\n  (NP Jet/NNP Set/NNP)\n  ,/,\n  (NP que/NN ocasionó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  113/CD\n  (NP personas/NNS)\n  y/RB\n  (VP dejó/VBP)\n  a/DT\n  160/CD\n  (NP heridos/NN)\n  ,/,\n  la/FW\n  presidencia/FW\n  de/FW\n  la/FW\n  (NP República/NNP Dominicana/NNP decretó/NN tres/NNS)\n  (VP días/VBP)\n  de/IN\n  luto/FW\n  (NP nacional/JJ desde/NN)\n  (VP el/VBD)\n  8/CD\n  (NP hasta/NN el/NN)\n  10/CD\n  (NP del/NN presente/NN mes/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP inmediato/NN)\n  ,/,\n  se/FW\n  (NP desplegaron/NN las/NNS)\n  (VP fuerzas/VBP)\n  de/IN\n  salvamento/FW\n  (NP y/NN rescate/NN)\n  ,/,\n  (NP compuestas/NNS)\n  (VP por/VBP (NP más/NN))\n  de/IN\n  400/CD\n  (NP socorristas/NNS)\n  (NP que/JJ trabajaron/NN durante/NN)\n  12/CD\n  (NP horas/NNS)\n  (ADJP ininterrumpidas/JJ)\n  en/IN\n  la/FW\n  escena/FW\n  ,/,\n  (NP utilizando/JJ maquinaria/NN pesada/NN y/NN perros/NN)\n  (VP entrenados.Se/VBP (NP confirmó/NN el/NN fallecimiento/NN))\n  de/IN\n  destacadas/FW\n  (NP personalidades/NNS)\n  (VP que/VBP (NP se/JJ encontraban/NN))\n  (PP en/IN (NP el/NN lugar/NN))\n  ,/,\n  (NP como/NN el/NN ya/NN mencionado/NN Rubby/NNP Pérez/NNP)\n  ,/,\n  (NP el/JJ exbeisbolista/NN)\n  de/IN\n  las/FW\n  (NP Grandes/NNP Ligas/NNP Octavio/NNP Dotel/NNP)\n  ,/,\n  la/FW\n  gobernadora/FW\n  de/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Montecristi/NNP)\n  ,/,\n  (NP Nelsy/NNP Cruz/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP el/VBZ (NP renombrado/JJ diseñador/NN))\n  de/IN\n  moda/FW\n  (NP Martín/NNP Polanco./NNP “/NNP Presumimos/NNP que/NN muchos/NN)\n  de/IN\n  ellos/FW\n  (ADJP todavía/JJ)\n  están/FW\n  (NP con/NN vida/NN)\n  ,/,\n  y/CC\n  (NP por/NN)\n  (VP eso/VBP (NP las/NNS autoridades/NNS))\n  (VP aquí/VBP)\n  (VP\n    presentes/VBZ\n    (NP no/DT descansaremos/NN hasta/NN que/NN)\n    (NP no/DT quede/NN)\n    (NP una/JJ sola/NN persona/NN debajo/NN))\n  de/IN\n  esos/FW\n  (NP escombros´´/NN)\n  ,/,\n  (NP expresó/JJ Juan/NNP Manuel/NNP Méndez/NNP)\n  ,/,\n  (NP director/NN)\n  del/FW\n  (NP Centro/NNP)\n  de/FW\n  (NP Operaciones/NNP)\n  de/FW\n  (NP Emergencia/NNP)\n  de/FW\n  (NP Santo/NNP Domingo.Según/NNP investigaciones/NNS previas/NNS)\n  ,/,\n  el/FW\n  edificio/FW\n  presentaba/FW\n  (NP problemas/NN estructurales/NNS)\n  (VP desde/VBP (NP antes/NNS))\n  ,/,\n  ya/PRP\n  (VP\n    que/VBP\n    (NP un/JJ incendio/NN había/NN)\n    (NP afectado/JJ parte/NN))\n  (PP de/IN (NP sus/NN instalaciones/NNS))\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  (VP se/VBD (NP realizaron/NN obras/NNS))\n  (VP para/VBP (NP su/JJ reparación/NN))\n  ,/,\n  nunca/FW\n  se/FW\n  verificó/FW\n  públicamente/FW\n  su/FW\n  estado/FW\n  (ADJP estructural/JJ)\n  ni/FW\n  se/FW\n  presentó/FW\n  (NP un/JJ informe/NN claro/NN sobre/NN las/NNS)\n  (VP medidas/VBP (NP tomadas/JJ para/NN garantizar/NN la/NN))\n  seguridad/FW\n  (NP del/NN público/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "CIUDADES_CAPITALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          918,
+          925
+        ],
+        "start": 918,
+        "end": 925
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "república dominicana",
+        "position": [
+          142,
+          162
+        ],
+        "start": 142,
+        "end": 162
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santo domingo",
+        "position": [
+          998,
+          1011
+        ],
+        "start": 998,
+        "end": 1011
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          653,
+          665
+        ],
+        "start": 653,
+        "end": 665
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          959,
+          968
+        ],
+        "start": 959,
+        "end": 968
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "113 personas",
+        "position": [
+          86,
+          98
+        ],
+        "start": 86,
+        "end": 98
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 400",
+        "position": [
+          320,
+          330
+        ],
+        "start": 320,
+        "end": 330
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "durante 12 horas",
+        "position": [
+          358,
+          374
+        ],
+        "start": 358,
+        "end": 374
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Juan Manuel Méndez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nelsy Cruz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Grandes Ligas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Centro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Montecristi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Dominicana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Martín Polanco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rubby Pérez",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.979,
+    "neg": 0.021,
+    "label": "negative"
+  }
+}

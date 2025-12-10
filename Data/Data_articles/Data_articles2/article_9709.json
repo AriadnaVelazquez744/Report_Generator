@@ -1,0 +1,735 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-10-muertos-deja-milton-a-su-paso-por-florida-ee-uu/",
+  "title": "Al menos 10 muertos deja Milton a su paso por Florida, EE.UU. - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Florida",
+    "Huracán Milton y tornados",
+    "Muertos"
+  ],
+  "text": "Autoridades locales confirmaron este jueves la muerte de al menos 10 personas, debido al paso del huracán Milton por Florida, al sur de Estados Unidos (EE.UU.).\nAsimismo, se detalló que por el paso de tornados de rápida rotación, previos a la llegada de Milton, cinco personas murieron en el condado de St. Lucie, localizado en la costa este de Florida.\nEl presidente de EE.UU., Joe Biden, se refirió en una alocución a las acciones de rescate y recuperación tras el paso de Milton, así como la evaluación de daños.\n\nEl alguacil del condado, Keith Pearson, detalló que Milton azotó en la víspera la comunidad de personas mayores Spanish Lakes Country Village, ubicada en el norte de Fort Pierce, con la ocurrencia de varios tornados provocando la muerte de las personas.\nDe igual manera, la autoridad confirmó que los grupos de búsqueda y rescate se encuentran en el “proceso de localizar a más víctimas, ya que el paso de estos tornados dejó cientos de casas dañadas o totalmente destruidas en todo el condado”.\nPor otra parte, el alguacil del condado de Volusia, Michael J. Chitwood, ratificó el fallecimiento de tres personas más  n esa zona del este del estado.\nDe igual forma, en St. Petersburg, en la costa oeste de Florida, se registraron otras dos muertes.\nEl huracán Milton impactó tierra en la víspera, en horas de la noche, con vientos máximos sostenidos de 205 kilómetros por hora, categoría 3, en Siesta Key, próximo a la ciudad de Sarasota.\nMilton es el segundo huracán que arriba a Florida, tras el impacto del huracán Helene.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-10-muertos-deja-milton-a-su-paso-por-florida-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1351,
+    "message_id": 78172,
+    "date": "2024-10-10T22:55:17+00:00",
+    "text": "teleSUR\nAl menos 10 muertos deja Milton a su paso por Florida, EE.UU.\nhttps://www.telesurtv.net/al-menos-10-muertos-deja-milton-a-su-paso-por-florida-ee-uu/",
+    "photo_path": null,
+    "views": 2532,
+    "reactions": {
+      "🤬": 22,
+      "😢": 7,
+      "😱": 5,
+      "👍": 3
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "autoridades locales confirmaron este jueves la muerte de al menos 10 personas, debido al paso del huracán milton por florida, al sur de estados unidos (ee.uu.). asimismo, se detalló que por el paso de tornados de rápida rotación, previos a la llegada de milton, cinco personas murieron en el condado de st. lucie, localizado en la costa este de florida. el presidente de ee.uu., joe biden, se refirió en una alocución a las acciones de rescate y recuperación tras el paso de milton, así como la evaluación de daños. el alguacil del condado, keith pearson, detalló que milton azotó en la víspera la comunidad de personas mayores spanish lakes country village, ubicada en el norte de fort pierce, con la ocurrencia de varios tornados provocando la muerte de las personas. de igual manera, la autoridad confirmó que los grupos de búsqueda y rescate se encuentran en el “proceso de localizar a más víctimas, ya que el paso de estos tornados dejó cientos de casas dañadas o totalmente destruidas en todo el condado”. por otra parte, el alguacil del condado de volusia, michael j. chitwood, ratificó el fallecimiento de tres personas más n esa zona del este del estado. de igual forma, en st. petersburg, en la costa oeste de florida, se registraron otras dos muertes. el huracán milton impactó tierra en la víspera, en horas de la noche, con vientos máximos sostenidos de 205 kilómetros por hora, categoría 3, en siesta key, próximo a la ciudad de sarasota. milton es el segundo huracán que arriba a florida, tras el impacto del huracán helene.",
+    "tokens": [
+      "autoridades",
+      "locales",
+      "confirmaron",
+      "jueves",
+      "muerte",
+      "menos",
+      "10",
+      "personas",
+      ",",
+      "debido",
+      "paso",
+      "huracán",
+      "milton",
+      "florida",
+      ",",
+      "sur",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      ".",
+      "asimismo",
+      ",",
+      "detalló",
+      "paso",
+      "tornados",
+      "rápida",
+      "rotación",
+      ",",
+      "previos",
+      "llegada",
+      "milton",
+      ",",
+      "cinco",
+      "personas",
+      "murieron",
+      "condado",
+      "st",
+      ".",
+      "lucie",
+      ",",
+      "localizado",
+      "costa",
+      "florida",
+      ".",
+      "presidente",
+      "ee.uu.",
+      ",",
+      "joe",
+      "biden",
+      ",",
+      "refirió",
+      "alocución",
+      "acciones",
+      "rescate",
+      "recuperación",
+      "tras",
+      "paso",
+      "milton",
+      ",",
+      "así",
+      "evaluación",
+      "daños",
+      ".",
+      "alguacil",
+      "condado",
+      ",",
+      "keith",
+      "pearson",
+      ",",
+      "detalló",
+      "milton",
+      "azotó",
+      "víspera",
+      "comunidad",
+      "personas",
+      "mayores",
+      "spanish",
+      "lakes",
+      "country",
+      "village",
+      ",",
+      "ubicada",
+      "norte",
+      "fort",
+      "pierce",
+      ",",
+      "ocurrencia",
+      "varios",
+      "tornados",
+      "provocando",
+      "muerte",
+      "personas",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "autoridad",
+      "confirmó",
+      "grupos",
+      "búsqueda",
+      "rescate",
+      "encuentran",
+      "“",
+      "proceso",
+      "localizar",
+      "víctimas",
+      ",",
+      "paso",
+      "tornados",
+      "dejó",
+      "cientos",
+      "casas",
+      "dañadas",
+      "totalmente",
+      "destruidas",
+      "condado",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "alguacil",
+      "condado",
+      "volusia",
+      ",",
+      "michael",
+      "j.",
+      "chitwood",
+      ",",
+      "ratificó",
+      "fallecimiento",
+      "tres",
+      "personas",
+      "n",
+      "zona",
+      ".",
+      "igual",
+      "forma",
+      ",",
+      "st",
+      ".",
+      "petersburg",
+      ",",
+      "costa",
+      "oeste",
+      "florida",
+      ",",
+      "registraron",
+      "dos",
+      "muertes",
+      ".",
+      "huracán",
+      "milton",
+      "impactó",
+      "tierra",
+      "víspera",
+      ",",
+      "horas",
+      "noche",
+      ",",
+      "vientos",
+      "máximos",
+      "sostenidos",
+      "205",
+      "kilómetros",
+      "hora",
+      ",",
+      "categoría",
+      "3",
+      ",",
+      "siesta",
+      "key",
+      ",",
+      "próximo",
+      "ciudad",
+      "sarasota",
+      ".",
+      "milton",
+      "segundo",
+      "huracán",
+      "arriba",
+      "florida",
+      ",",
+      "tras",
+      "impacto",
+      "huracán",
+      "helene",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 14,
+      "VBP": 9,
+      "NN": 72,
+      "FW": 77,
+      "CD": 2,
+      "JJ": 18,
+      "NNP": 42,
+      "IN": 12,
+      "VBD": 2,
+      "VBZ": 4,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNS-NNS": 1,
+      "NNS-VBP": 8,
+      "VBP-NN": 2,
+      "NN-NNS": 4,
+      "VBP-FW": 2,
+      "FW-FW": 50,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-NN": 11,
+      "NN-NN": 32,
+      "NN-NNP": 7,
+      "NNP-NN": 13,
+      "NN-IN": 11,
+      "IN-NNP": 6,
+      "NNP-NNP": 17,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-FW": 14,
+      "FW-NN": 12,
+      "FW-NNS": 4,
+      "FW-NNP": 9,
+      "NN-JJ": 3,
+      "IN-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-FW": 1,
+      "VBP-JJ": 3,
+      "NNP-VBZ": 4,
+      "VBZ-NN": 1,
+      "VBZ-FW": 2,
+      "JJ-NNP": 1,
+      "NNP-JJ": 1,
+      "JJ-FW": 1,
+      "NNP-FW": 4,
+      "IN-NN": 1,
+      "IN-FW": 3,
+      "NN-VBD": 1,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "VBZ-JJ": 1,
+      "FW-JJ": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "IN-CD": 1,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-FW-FW": 35,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 4,
+      "NN-NN-NN": 12,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-NN": 11,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 5,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 6,
+      "NN-FW-FW": 7,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 2,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 7,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "IN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 1,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-NN-NNS": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-NNP-FW": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 77,
+        "NN": 72,
+        "NNP": 42,
+        "JJ": 18,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 50,
+        "NN-NN": 32,
+        "NNP-NNP": 17,
+        "NN-FW": 14,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 12,
+        "NNP-NN-NN": 11,
+        "NN-FW-FW": 7,
+        "NNP-NNP-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 83,
+      "VP": 22,
+      "PP": 7,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.048
+      },
+      {
+        "rule": "NP -> ('Milton', 'NNP')",
+        "frequency": 4,
+        "weight": 0.032
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') NP",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('paso', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('condado', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('St', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Florida', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades locales"
+      },
+      {
+        "label": "VP",
+        "text": "confirmaron este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "debido al paso del huracán Milton por Florida"
+      },
+      {
+        "label": "NP",
+        "text": "al sur"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "Asimismo"
+      },
+      {
+        "label": "VP",
+        "text": "se detalló que por"
+      },
+      {
+        "label": "NP",
+        "text": "detalló que por"
+      },
+      {
+        "label": "NP",
+        "text": "paso"
+      },
+      {
+        "label": "NP",
+        "text": "rotación"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNS locales/NNS)\n  (VP confirmaron/VBP (NP este/NN jueves/NNS))\n  (VP la/VBP)\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  10/CD\n  (NP personas/NNS)\n  ,/,\n  (NP\n    debido/NN\n    al/NN\n    paso/NN\n    del/NN\n    huracán/NN\n    Milton/NNP\n    por/NN\n    Florida/NNP)\n  ,/,\n  (NP al/JJ sur/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP se/VBD (NP detalló/JJ que/NN por/NN))\n  el/FW\n  (NP paso/NN)\n  de/FW\n  tornados/FW\n  de/FW\n  rápida/FW\n  (NP rotación/NN)\n  ,/,\n  (VP previos/VBZ (NP a/DT la/NN))\n  llegada/FW\n  de/FW\n  (NP Milton/NNP)\n  ,/,\n  (NP cinco/NN personas/NNS)\n  (VP murieron/VBP en/JJ)\n  el/FW\n  (NP condado/NN)\n  (PP de/IN (NP St/NNP))\n  ./.)",
+      "(S\n  (NP Lucie/NNP)\n  ,/,\n  (NP localizado/NN)\n  en/FW\n  la/FW\n  (NP costa/JJ este/NN)\n  (PP de/IN (NP Florida/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP EE.UU./NNP)\n  ,/,\n  (NP Joe/NNP Biden/NNP)\n  ,/,\n  (VP se/VBD (NP refirió/NN))\n  en/FW\n  (NP una/JJ alocución/NN)\n  (NP a/DT las/JJ acciones/NNS)\n  de/FW\n  rescate/FW\n  (NP y/NNS)\n  (VP recuperación/VBP (NP tras/NNS))\n  (VP el/VBP (NP paso/NN))\n  (PP de/IN (NP Milton/NNP))\n  ,/,\n  (ADJP así/RB como/JJ)\n  la/FW\n  evaluación/FW\n  de/FW\n  daños/FW\n  ./.)",
+      "(S\n  (NP El/NNP alguacil/NN del/NN condado/NN)\n  ,/,\n  (NP Keith/NNP Pearson/NNP)\n  ,/,\n  (NP detalló/NN que/NN Milton/NNP)\n  (VP azotó/VBZ)\n  en/FW\n  la/FW\n  víspera/FW\n  la/FW\n  comunidad/FW\n  de/FW\n  personas/FW\n  (NP mayores/NNS)\n  (NP Spanish/JJ Lakes/NNP Country/NNP Village/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  (NP Fort/NNP Pierce/NNP)\n  ,/,\n  (NP con/NN)\n  la/FW\n  ocurrencia/FW\n  de/FW\n  varios/FW\n  tornados/FW\n  (NP provocando/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  las/FW\n  (NP personas/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "impactó",
+        "position": [
+          1283,
+          1290
+        ],
+        "start": 1283,
+        "end": 1290
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de ee",
+        "position": [
+          357,
+          373
+        ],
+        "start": 357,
+        "end": 373
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          1086,
+          1094
+        ],
+        "start": 1086,
+        "end": 1094
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          136,
+          150
+        ],
+        "start": 136,
+        "end": 150
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona del",
+        "position": [
+          1140,
+          1148
+        ],
+        "start": 1140,
+        "end": 1148
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10 personas",
+        "position": [
+          66,
+          77
+        ],
+        "start": 66,
+        "end": 77
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lucie",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "condado de St.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Florida",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fort Pierce",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "St",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Spanish Lakes Country Village",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Volusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Petersburg",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sarasota",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Milton",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Helene",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Keith Pearson",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Michael J. Chitwood",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Milton",
+        "relacion": "MORIR_DETALLAR",
+        "objeto": "condado de St."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "REFERIR",
+        "objeto": "Milton"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "REFERIR",
+        "objeto": "Milton"
+      },
+      {
+        "sujeto": "Milton",
+        "relacion": "DETALLAR",
+        "objeto": "Keith Pearson"
+      },
+      {
+        "sujeto": "Keith Pearson",
+        "relacion": "DETALLAR",
+        "objeto": "Spanish Lakes Country Village"
+      },
+      {
+        "sujeto": "Keith Pearson",
+        "relacion": "DETALLAR",
+        "objeto": "Fort Pierce"
+      },
+      {
+        "sujeto": "Milton",
+        "relacion": "AZOTAR_DETALLAR",
+        "objeto": "Spanish Lakes Country Village"
+      },
+      {
+        "sujeto": "Milton",
+        "relacion": "AZOTAR_DETALLAR",
+        "objeto": "Fort Pierce"
+      },
+      {
+        "sujeto": "Milton",
+        "relacion": "IMPACTAR",
+        "objeto": "Sarasota"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

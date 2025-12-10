@@ -1,0 +1,591 @@
+{
+  "url": "https://www.telesurtv.net/presidente-luis-arce-se-solidariza-con-su-homologo-colombiano-gustavo-petro/",
+  "title": "Presidente Luis Arce se solidariza con su homólogo colombiano Gustavo Petro - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Gustavo Petro",
+    "Luis Arce",
+    "Presidente de Colombia"
+  ],
+  "text": "El presidente boliviano este miércoles extendió su solidaridad al presidente de Colombia Gustavo Petro, luego de que este denunciara, en la víspera, que inició un golpe de Estado en su contra.\n“Hacemos llegar todo nuestro apoyo y solidaridad al presidente de Colombia”, refirió Luis Arce en la red social X.\nAsimismo, expresó su solidaridad “ante los intentos que buscan desestabilizar a su gobierno democráticamente electo, desconociendo la voluntad de millones de hermanas y hermanos colombianos”.\n“Esta ofensiva en contra de la democracia colombiana forma parte de una estrategia más amplia orquestada por la derecha en toda la región”, recalcó Arce.\nEn este sentido, al aludir a la derecha de la región, manifestó que busca “debilitar las conquistas sociales y políticas alcanzadas por los movimientos populares y promoviendo un retroceso en los derechos y en la justicia social”.\nEn la víspera, el presidente colombiano solicitó al mundo prestar atención a Colombia para defender la democracia ante el golpe de Estado en su contra, debido a una declaratoria del Consejo Nacional Electoral (CNE).\nEl mandatario insistió en que, poner en peligro la institucionalidad que representa, es la mayor afrenta a la democracia contra su nación.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-luis-arce-se-solidariza-con-su-homologo-colombiano-gustavo-petro/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1403,
+    "message_id": 78114,
+    "date": "2024-10-10T00:55:07+00:00",
+    "text": "teleSUR\nPresidente Luis Arce se solidariza con su homólogo colombiano Gustavo Petro\nhttps://www.telesurtv.net/presidente-luis-arce-se-solidariza-con-su-homologo-colombiano-gustavo-petro/",
+    "photo_path": null,
+    "views": 2765,
+    "reactions": {
+      "👍": 53,
+      "🥰": 2,
+      "❤": 1
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "el presidente boliviano este miércoles extendió su solidaridad al presidente de colombia gustavo petro, luego de que este denunciara, en la víspera, que inició un golpe de estado en su contra. “hacemos llegar todo nuestro apoyo y solidaridad al presidente de colombia”, refirió luis arce en la red social x. asimismo, expresó su solidaridad “ante los intentos que buscan desestabilizar a su gobierno democráticamente electo, desconociendo la voluntad de millones de hermanas y hermanos colombianos”. “esta ofensiva en contra de la democracia colombiana forma parte de una estrategia más amplia orquestada por la derecha en toda la región”, recalcó arce. en este sentido, al aludir a la derecha de la región, manifestó que busca “debilitar las conquistas sociales y políticas alcanzadas por los movimientos populares y promoviendo un retroceso en los derechos y en la justicia social”. en la víspera, el presidente colombiano solicitó al mundo prestar atención a colombia para defender la democracia ante el golpe de estado en su contra, debido a una declaratoria del consejo nacional electoral (cne). el mandatario insistió en que, poner en peligro la institucionalidad que representa, es la mayor afrenta a la democracia contra su nación.",
+    "tokens": [
+      "presidente",
+      "boliviano",
+      "miércoles",
+      "extendió",
+      "solidaridad",
+      "presidente",
+      "colombia",
+      "gustavo",
+      "petro",
+      ",",
+      "luego",
+      "denunciara",
+      ",",
+      "víspera",
+      ",",
+      "inició",
+      "golpe",
+      ".",
+      "“",
+      "hacemos",
+      "llegar",
+      "apoyo",
+      "solidaridad",
+      "presidente",
+      "colombia",
+      "”",
+      ",",
+      "refirió",
+      "luis",
+      "arce",
+      "red",
+      "social",
+      "x.",
+      "asimismo",
+      ",",
+      "expresó",
+      "solidaridad",
+      "“",
+      "intentos",
+      "buscan",
+      "desestabilizar",
+      "gobierno",
+      "democráticamente",
+      "electo",
+      ",",
+      "desconociendo",
+      "voluntad",
+      "millones",
+      "hermanas",
+      "hermanos",
+      "colombianos",
+      "”",
+      ".",
+      "“",
+      "ofensiva",
+      "democracia",
+      "colombiana",
+      "forma",
+      "parte",
+      "estrategia",
+      "amplia",
+      "orquestada",
+      "derecha",
+      "toda",
+      "región",
+      "”",
+      ",",
+      "recalcó",
+      "arce",
+      ".",
+      ",",
+      "aludir",
+      "derecha",
+      "región",
+      ",",
+      "manifestó",
+      "busca",
+      "“",
+      "debilitar",
+      "conquistas",
+      "sociales",
+      "políticas",
+      "alcanzadas",
+      "movimientos",
+      "populares",
+      "promoviendo",
+      "retroceso",
+      "derechos",
+      "justicia",
+      "social",
+      "”",
+      ".",
+      "víspera",
+      ",",
+      "presidente",
+      "colombiano",
+      "solicitó",
+      "mundo",
+      "prestar",
+      "atención",
+      "colombia",
+      "defender",
+      "democracia",
+      "golpe",
+      ",",
+      "debido",
+      "declaratoria",
+      "consejo",
+      "nacional",
+      "electoral",
+      "(",
+      "cne",
+      ")",
+      ".",
+      "mandatario",
+      "insistió",
+      ",",
+      "poner",
+      "peligro",
+      "institucionalidad",
+      "representa",
+      ",",
+      "mayor",
+      "afrenta",
+      "democracia",
+      "nación",
+      "."
+    ],
+    "token_count": 127,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "NN": 71,
+      "NNS": 4,
+      "VBP": 4,
+      "JJ": 19,
+      "IN": 12,
+      "FW": 49,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 5,
+      "NN-NN": 37,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "JJ-NN": 14,
+      "NN-IN": 12,
+      "IN-NNP": 4,
+      "NNP-NNP": 8,
+      "NNP-FW": 7,
+      "FW-FW": 30,
+      "FW-NN": 13,
+      "IN-FW": 3,
+      "NN-JJ": 7,
+      "NN-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-NNP": 2,
+      "JJ-JJ": 2,
+      "JJ-NNP": 2,
+      "FW-JJ": 3,
+      "NN-FW": 9,
+      "FW-NNS": 1,
+      "IN-JJ": 3,
+      "FW-NNP": 2,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 1,
+      "NN-VBZ": 1,
+      "IN-NN": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 15,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 20,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 8,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 5,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 4,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 3,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-FW": 1,
+      "NN-NNP-NNP": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 71,
+        "FW": 49,
+        "NNP": 21,
+        "JJ": 19,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 30,
+        "JJ-NN": 14,
+        "FW-NN": 13,
+        "NN-IN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 15,
+        "FW-NN-NN": 8,
+        "JJ-NN-NN": 7,
+        "NN-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 10,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0513
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0256
+      },
+      {
+        "rule": "NP -> ('su', 'NN') ('contra', 'NN')",
+        "frequency": 2,
+        "weight": 0.0256
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0256
+      },
+      {
+        "rule": "S -> NP VP PP (',', ',') NP ('de', 'FW') ('que', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('víspera', 'FW') (',', ',') ('que', 'FW') NP PP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('boliviano', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "VP -> ('extendió', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('su', 'JJ') ('solidaridad', 'NN') ('al', 'NN') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP') ('Gustavo', 'NNP') ('Petro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('luego', 'NN')",
+        "frequency": 1,
+        "weight": 0.0128
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente boliviano este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "extendió su solidaridad al presidente"
+      },
+      {
+        "label": "NP",
+        "text": "su solidaridad al presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia Gustavo Petro"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia Gustavo Petro"
+      },
+      {
+        "label": "NP",
+        "text": "luego"
+      },
+      {
+        "label": "NP",
+        "text": "este denunciara"
+      },
+      {
+        "label": "NP",
+        "text": "inició un golpe"
+      },
+      {
+        "label": "PP",
+        "text": "de Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      },
+      {
+        "label": "NP",
+        "text": "su contra"
+      },
+      {
+        "label": "NP",
+        "text": "“ Hacemos llegar todo"
+      },
+      {
+        "label": "NP",
+        "text": "nuestro apoyo y solidaridad"
+      },
+      {
+        "label": "NP",
+        "text": "al presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia ”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN boliviano/NN este/NN miércoles/NNS)\n  (VP extendió/VBP (NP su/JJ solidaridad/NN al/NN presidente/NN))\n  (PP de/IN (NP Colombia/NNP Gustavo/NNP Petro/NNP))\n  ,/,\n  (NP luego/NN)\n  de/FW\n  que/FW\n  (NP este/NN denunciara/NN)\n  ,/,\n  en/FW\n  la/FW\n  víspera/FW\n  ,/,\n  que/FW\n  (NP inició/JJ un/JJ golpe/NN)\n  (PP de/IN (NP Estado/NNP))\n  en/FW\n  (NP su/NN contra/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Hacemos/NNP llegar/NN todo/NN)\n  (NP nuestro/JJ apoyo/NN y/NN solidaridad/NN)\n  (NP al/JJ presidente/NN)\n  (PP de/IN (NP Colombia/NNP ”/NNP))\n  ,/,\n  (NP refirió/NN Luis/NNP Arce/NNP)\n  en/FW\n  (NP la/NN)\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP expresó/VBZ (NP su/JJ solidaridad/NN “/NNP))\n  (VP ante/VBZ)\n  los/FW\n  (NP intentos/JJ que/NN)\n  (NP buscan/JJ desestabilizar/NN)\n  (NP a/DT su/NN gobierno/NN democráticamente/NN electo/NN)\n  ,/,\n  (NP desconociendo/NN)\n  la/FW\n  voluntad/FW\n  de/FW\n  millones/FW\n  de/FW\n  hermanas/FW\n  y/CC\n  (NP hermanos/JJ colombianos/NN ”/NN)\n  ./.)",
+      "(S\n  (NP “/NN Esta/NNP ofensiva/NN)\n  en/FW\n  contra/FW\n  de/FW\n  la/FW\n  democracia/FW\n  (NP colombiana/NN)\n  (NP forma/JJ parte/NN)\n  (PP de/IN (NP una/JJ estrategia/NN más/NN))\n  (PP amplia/IN (NP orquestada/JJ por/NN la/NN derecha/NN))\n  en/FW\n  (NP toda/NN)\n  la/FW\n  región/FW\n  ”/FW\n  ,/,\n  recalcó/FW\n  (NP Arce/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (VP al/VBP)\n  aludir/PDT\n  (NP a/DT la/NN)\n  derecha/FW\n  de/FW\n  la/FW\n  región/FW\n  ,/,\n  manifestó/FW\n  (NP que/NN busca/NN “/NNP debilitar/NN las/NN conquistas/NNS)\n  (VP sociales/VBZ y/RB (NP políticas/JJ alcanzadas/NNS))\n  (VP por/VBP (NP los/JJ movimientos/NN))\n  (VP\n    populares/VBZ\n    (NP y/JJR promoviendo/NN)\n    (NP un/JJ retroceso/NN))\n  (PP en/IN (NP los/JJ derechos/JJ y/NN))\n  en/IN\n  la/FW\n  justicia/FW\n  (NP social/JJ ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "RELACIONES_INTERNACIONALES",
+      "POLITICAS_PUBLICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          708,
+          717
+        ],
+        "start": 708,
+        "end": 717
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad “ante los intentos que buscan desestabilizar a su gobierno",
+        "position": [
+          329,
+          399
+        ],
+        "start": 329,
+        "end": 399
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          318,
+          325
+        ],
+        "start": 318,
+        "end": 325
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente boliviano este",
+        "position": [
+          3,
+          28
+        ],
+        "start": 3,
+        "end": 28
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "apoyo y solidaridad al presidente de colombia”, refirió luis arce en la red social",
+        "position": [
+          222,
+          304
+        ],
+        "start": 222,
+        "end": 304
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          80,
+          88
+        ],
+        "start": 80,
+        "end": 88
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado en",
+        "position": [
+          172,
+          181
+        ],
+        "start": 172,
+        "end": 181
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "justicia social",
+        "position": [
+          867,
+          882
+        ],
+        "start": 867,
+        "end": 882
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "golpe de Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Arce",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "HACER_REFERIR_EXPRESAR",
+        "objeto": "de Colombia"
+      },
+      {
+        "sujeto": "Colombia",
+        "relacion": "PRESTAR_SOLICITAR",
+        "objeto": "golpe de Estado"
+      },
+      {
+        "sujeto": "Colombia",
+        "relacion": "PRESTAR_SOLICITAR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "Colombia",
+        "relacion": "PRESTAR_SOLICITAR",
+        "objeto": "CNE"
+      },
+      {
+        "sujeto": "golpe de Estado",
+        "relacion": "DEFENDER_PRESTAR_SOLICITAR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "golpe de Estado",
+        "relacion": "DEFENDER_PRESTAR_SOLICITAR",
+        "objeto": "CNE"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.008,
+    "neu": 0.992,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

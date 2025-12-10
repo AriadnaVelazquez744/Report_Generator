@@ -1,0 +1,679 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-e-iran-se-reunen-para-consolidar-relaciones-estrategicas/",
+  "title": "Venezuela e Irán se reúnen para consolidar relaciones estratégicas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Brics",
+    "Irán",
+    "relaciones",
+    "Venezuela"
+  ],
+  "text": "El presidente de Venezuela, Nicolás Maduro, y su homólogo de Irán, Masoud Pezeshkian, sostuvieron este jueves un encuentro con el objetivo de fortalecer las relaciones bilaterales entre los dos países.\nLEA TAMBIÉN\nPresidente Maduro llama al BRICS a consolidar un nuevo orden económico\nDurante el encuentro, celebrado al margen de la Cumbre de los BRICS, ambos mandatarios revisaron los acuerdos de cooperación en diversas áreas como la farmacéutica, energía, minería, agricultura, comunicación, petróleo y cultura, como parte de la Comisión Mixta de Alto Nivel.\nEn la cita participaron también la vicepresidenta ejecutiva de Venezuela, Delcy Rodríguez; y el ministro de Relaciones Exteriores, Yván Gil.\nAsimismo, dialogaron sobre la posibilidad de aumentar la cooperación económica y comercial, con el fin de alcanzar un intercambio bilateral de 10 mil millones de dólares.\nVenezuela e Irán han forjado sólidos vínculos estratégicos con un enfoque en el desarrollo mutuo de sus naciones.\nAdemás, los dos países apoyan firmemente la libre autodeterminación de los pueblos, y abogan por un mundo multicéntrico y pluripolar.En 2022, Caracas y Teherán sostuvieron una reunión significativa en la que se consolidaron negociaciones mediante la rúbrica de un acuerdo de cooperación de 20 años, el cual abarca el sector energético, entre otros ámbitos, marcando un hito en la colaboración entre ambos países.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-e-iran-se-reunen-para-consolidar-relaciones-estrategicas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 501,
+    "message_id": 79077,
+    "date": "2024-10-24T14:55:07+00:00",
+    "text": "teleSUR\nVenezuela e Irán se reúnen para consolidar relaciones estratégicas\nhttps://www.telesurtv.net/venezuela-e-iran-se-reunen-para-consolidar-relaciones-estrategicas/",
+    "photo_path": null,
+    "views": 2339,
+    "reactions": {
+      "👍": 65,
+      "👏": 13,
+      "❤": 9
+    },
+    "total_reactions": 87
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro, y su homólogo de irán, masoud pezeshkian, sostuvieron este jueves un encuentro con el objetivo de fortalecer las relaciones bilaterales entre los dos países. durante el encuentro, celebrado al margen de la cumbre de los brics, ambos mandatarios revisaron los acuerdos de cooperación en diversas áreas como la farmacéutica, energía, minería, agricultura, comunicación, petróleo y cultura, como parte de la comisión mixta de alto nivel. en la cita participaron también la vicepresidenta ejecutiva de venezuela, delcy rodríguez; y el ministro de relaciones exteriores, yván gil. asimismo, dialogaron sobre la posibilidad de aumentar la cooperación económica y comercial, con el fin de alcanzar un intercambio bilateral de 10 mil millones de dólares. venezuela e irán han forjado sólidos vínculos estratégicos con un enfoque en el desarrollo mutuo de sus naciones. además, los dos países apoyan firmemente la libre autodeterminación de los pueblos, y abogan por un mundo multicéntrico y pluripolar.en 2022, caracas y teherán sostuvieron una reunión significativa en la que se consolidaron negociaciones mediante la rúbrica de un acuerdo de cooperación de 20 años, el cual abarca el sector energético, entre otros ámbitos, marcando un hito en la colaboración entre ambos países.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "homólogo",
+      "irán",
+      ",",
+      "masoud",
+      "pezeshkian",
+      ",",
+      "sostuvieron",
+      "jueves",
+      "encuentro",
+      "objetivo",
+      "fortalecer",
+      "relaciones",
+      "bilaterales",
+      "dos",
+      "países",
+      ".",
+      "encuentro",
+      ",",
+      "celebrado",
+      "margen",
+      "cumbre",
+      "brics",
+      ",",
+      "ambos",
+      "mandatarios",
+      "revisaron",
+      "acuerdos",
+      "cooperación",
+      "diversas",
+      "áreas",
+      "farmacéutica",
+      ",",
+      "energía",
+      ",",
+      "minería",
+      ",",
+      "agricultura",
+      ",",
+      "comunicación",
+      ",",
+      "petróleo",
+      "cultura",
+      ",",
+      "parte",
+      "comisión",
+      "mixta",
+      "alto",
+      "nivel",
+      ".",
+      "cita",
+      "participaron",
+      "vicepresidenta",
+      "ejecutiva",
+      "venezuela",
+      ",",
+      "delcy",
+      "rodríguez",
+      ";",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      ",",
+      "yván",
+      "gil",
+      ".",
+      "asimismo",
+      ",",
+      "dialogaron",
+      "posibilidad",
+      "aumentar",
+      "cooperación",
+      "económica",
+      "comercial",
+      ",",
+      "fin",
+      "alcanzar",
+      "intercambio",
+      "bilateral",
+      "10",
+      "mil",
+      "millones",
+      "dólares",
+      ".",
+      "venezuela",
+      "irán",
+      "forjado",
+      "sólidos",
+      "vínculos",
+      "estratégicos",
+      "enfoque",
+      "desarrollo",
+      "mutuo",
+      "naciones",
+      ".",
+      "además",
+      ",",
+      "dos",
+      "países",
+      "apoyan",
+      "firmemente",
+      "libre",
+      "autodeterminación",
+      "pueblos",
+      ",",
+      "abogan",
+      "mundo",
+      "multicéntrico",
+      "pluripolar.en",
+      "2022",
+      ",",
+      "caracas",
+      "teherán",
+      "sostuvieron",
+      "reunión",
+      "significativa",
+      "consolidaron",
+      "negociaciones",
+      "mediante",
+      "rúbrica",
+      "acuerdo",
+      "cooperación",
+      "20",
+      "años",
+      ",",
+      "abarca",
+      "sector",
+      "energético",
+      ",",
+      "ámbitos",
+      ",",
+      "marcando",
+      "hito",
+      "colaboración",
+      "ambos",
+      "países",
+      "."
+    ],
+    "token_count": 142,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 55,
+      "FW": 58,
+      "VBD": 1,
+      "IN": 9,
+      "NNS": 11,
+      "JJ": 23,
+      "VBP": 7,
+      "VB": 1,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 6,
+      "NN-FW": 5,
+      "FW-NNP": 7,
+      "NNP-NNP": 19,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "NN-IN": 8,
+      "IN-NNP": 2,
+      "NN-NN": 29,
+      "NN-NNS": 3,
+      "NNS-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NN": 13,
+      "FW-FW": 40,
+      "FW-NNS": 2,
+      "NNS-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-JJ": 4,
+      "JJ-NNS": 4,
+      "NNS-NNP": 2,
+      "NN-NNP": 2,
+      "NN-JJ": 6,
+      "NNP-FW": 4,
+      "FW-NN": 4,
+      "IN-FW": 6,
+      "NNP-VBP": 2,
+      "VBP-NNS": 1,
+      "NNS-VB": 1,
+      "VB-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NNP-IN": 1,
+      "FW-JJ": 4,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "NNS-FW": 1,
+      "JJ-FW": 1,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-JJ": 1,
+      "VBP-FW": 1,
+      "FW-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 5,
+      "NN-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 27,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 14,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-FW": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "FW-FW-JJ": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 58,
+        "NN": 55,
+        "NNP": 34,
+        "JJ": 23,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "FW-FW": 40,
+        "NN-NN": 29,
+        "NNP-NNP": 19,
+        "JJ-NN": 13,
+        "NN-IN": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 14,
+        "NNP-NNP-NNP": 10,
+        "JJ-NN-NN": 6,
+        "NN-IN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 59,
+      "VP": 7,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.04
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP PP (',', ',') NP (',', ',') NP NP ('objetivo', 'FW') ('de', 'FW') ('fortalecer', 'FW') ('las', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "VP -> ('su', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('homólogo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Masoud', 'NNP') ('Pezeshkian', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "VP",
+        "text": "su homólogo"
+      },
+      {
+        "label": "NP",
+        "text": "homólogo"
+      },
+      {
+        "label": "PP",
+        "text": "de Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Masoud Pezeshkian"
+      },
+      {
+        "label": "NP",
+        "text": "sostuvieron este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "un encuentro con el"
+      },
+      {
+        "label": "NP",
+        "text": "relaciones bilaterales"
+      },
+      {
+        "label": "VP",
+        "text": "entre los dos países"
+      },
+      {
+        "label": "NP",
+        "text": "los dos países"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Presidente Maduro llama al BRICS"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP su/VBD (NP homólogo/NN))\n  (PP de/IN (NP Irán/NNP))\n  ,/,\n  (NP Masoud/NNP Pezeshkian/NNP)\n  ,/,\n  (NP sostuvieron/NN este/NN jueves/NNS)\n  (NP un/JJ encuentro/JJ con/NN el/NN)\n  objetivo/FW\n  de/FW\n  fortalecer/FW\n  las/FW\n  (NP relaciones/NNS bilaterales/NNS)\n  (VP entre/VBP (NP los/JJ dos/JJ países/NNS))\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    Presidente/NNP\n    Maduro/NNP\n    llama/NN\n    al/NN\n    BRICS/NNP)\n  (NP a/DT consolidar/NN)\n  (NP un/JJ nuevo/JJ orden/JJ económico/NN Durante/NNP)\n  el/FW\n  (NP encuentro/NN)\n  ,/,\n  (NP celebrado/NN al/NN margen/NN)\n  de/IN\n  la/FW\n  (NP Cumbre/NNP)\n  de/FW\n  los/FW\n  (NP BRICS/NNP)\n  ,/,\n  (NP ambos/JJ mandatarios/NNS)\n  (VP revisaron/VBP (NP los/JJ acuerdos/NN))\n  de/IN\n  cooperación/FW\n  en/FW\n  diversas/FW\n  áreas/FW\n  (NP como/NN la/NN farmacéutica/NN)\n  ,/,\n  (NP energía/NN)\n  ,/,\n  (NP minería/NN)\n  ,/,\n  (NP agricultura/NN)\n  ,/,\n  (NP comunicación/NN)\n  ,/,\n  (NP petróleo/NN y/NN cultura/NN)\n  ,/,\n  (NP como/JJ parte/NN)\n  de/IN\n  la/FW\n  (NP Comisión/NNP Mixta/NNP)\n  (PP de/IN (NP Alto/NNP Nivel/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP la/NN cita/NN participaron/NN también/NN la/NN)\n  vicepresidenta/FW\n  ejecutiva/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Delcy/NNP Rodríguez/NNP)\n  ;/:\n  y/CC\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Relaciones/NNP Exteriores/NNP)\n  ,/,\n  (NP Yván/NNP Gil/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP dialogaron/NN sobre/NN)\n  la/FW\n  posibilidad/FW\n  de/FW\n  aumentar/FW\n  la/FW\n  cooperación/FW\n  económica/FW\n  y/FW\n  (NP comercial/NN)\n  ,/,\n  (NP con/NN el/NN fin/NN)\n  de/IN\n  alcanzar/FW\n  (NP un/JJ intercambio/JJ bilateral/NN)\n  de/IN\n  10/CD\n  (NP mil/JJ millones/NNS)\n  (PP de/IN (NP dólares/NNS))\n  ./.)",
+      "(S\n  (NP\n    Venezuela/NNP\n    e/NN\n    Irán/NNP\n    han/NN\n    forjado/NN\n    sólidos/NN\n    vínculos/NN)\n  (NP estratégicos/JJ con/NN)\n  (NP un/JJ enfoque/NN)\n  en/FW\n  el/FW\n  desarrollo/FW\n  mutuo/FW\n  de/FW\n  sus/FW\n  (NP naciones/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "RELACIONES_INTERNACIONALES",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "negociaciones mediante la rúbrica de un acuerdo",
+        "position": [
+          1212,
+          1259
+        ],
+        "start": 1212,
+        "end": 1259
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación económica y comercial, con el fin de alcanzar un intercambio bilateral",
+        "position": [
+          760,
+          842
+        ],
+        "start": 760,
+        "end": 842
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "relaciones bilaterales",
+        "position": [
+          157,
+          179
+        ],
+        "start": 157,
+        "end": 179
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación de 20 años, el cual abarca el sector energético, entre otros ámbitos, marcando un hito en la colaboración entre ambos países",
+        "position": [
+          1263,
+          1399
+        ],
+        "start": 1263,
+        "end": 1399
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          658,
+          691
+        ],
+        "start": 658,
+        "end": 691
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo de cooperación de 20",
+        "position": [
+          1252,
+          1280
+        ],
+        "start": 1252,
+        "end": 1280
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          450,
+          457
+        ],
+        "start": 450,
+        "end": 457
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          1130,
+          1137
+        ],
+        "start": 1130,
+        "end": 1137
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10 mil",
+        "position": [
+          846,
+          852
+        ],
+        "start": 846,
+        "end": 852
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Masoud Pezeshkian",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Delcy Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cumbre de los BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comisión Mixta de Alto Nivel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Relaciones Exteriores",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "BRICS",
+        "relacion": "LLAMAR",
+        "objeto": "Cumbre de los BRICS"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "LLAMAR",
+        "objeto": "Comisión Mixta de Alto Nivel"
+      },
+      {
+        "sujeto": "Cumbre de los BRICS",
+        "relacion": "CONSOLIDAR_LLAMAR",
+        "objeto": "Comisión Mixta de Alto Nivel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

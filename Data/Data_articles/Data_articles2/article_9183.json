@@ -1,0 +1,690 @@
+{
+  "url": "https://www.telesurtv.net/el-25-de-los-estadounidenses-temen-de-una-guerra-civil-luego-de-las-elecciones/",
+  "title": "El 25% de los estadounidenses temen de una guerra civil luego de las elecciones - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "EE.UU.",
+    "elecciones en Estados Unidos",
+    "Estados Unidos"
+  ],
+  "text": "La consultora estadounidense YouGov reveló que al menos una cuarta parte de los ciudadanos del país, creen que, luego de las elecciones presidenciales del 5 de noviembre, se podría desatar una guerra civil.\nLEA TAMBIÉN:La violencia postelectoral de Venezuela en el espejo de Estados Unidos\nEl sondeo realizado entre el 18 y 21 de octubre tomó en cuenta la opinión de 1.266 votantes registrados. El 30% de los encuestados son mujeres mientras que el 24% pertenecen al género masculino.\nLa encuesta también afirmó que el 12% de los entrevistados temen un levantamiento armado si consideran que hubo fraude contra el partido republicano, mientras que por parte de los demócratas solo el 5% de los sondeados respondieron.\nOtro número bastante elevado es el de los estadounidenses que creen que su país se encuentra más dividido que hace 10 años, siendo un 86% de los encuestados.\nPor otro lado, el 66% de los votantes piensa que el expresidente Donald Trump no aceptaría una derrota estrecha, en comparación con el 27% que opina lo mismo respecto a Harris.\nEl vicepresidente de ciencia de datos y editor de política estadounidense de YouGov, Carl Bialik, aseguró en un medio norteamericano, que le resultaba sorprendente cuántos ciudadanos temen que las elecciones puedan conducir a una guerra.\n“Podría estar reflejando una conciencia de lo reñidas que están las elecciones y también la comprensión de que si el resultado es muy reñido, podría haber algún tipo de rechazo de los resultados dado que eso ocurrió en 2020”, agregó Bialik.\nCabe recordar que el 6 de enero del 2021, republicanos radicales marcharon al Capitolio en Washington para crear caos. El incidente concluyó con varios muertos por una estampida y la irrupción violenta de la población en el Congreso.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/el-25-de-los-estadounidenses-temen-de-una-guerra-civil-luego-de-las-elecciones/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 482,
+    "message_id": 79101,
+    "date": "2024-10-24T17:55:13+00:00",
+    "text": "teleSUR\nEl 25% de los estadounidenses temen de una guerra civil luego de las elecciones\nhttps://www.telesurtv.net/el-25-de-los-estadounidenses-temen-de-una-guerra-civil-luego-de-las-elecciones/",
+    "photo_path": null,
+    "views": 2407,
+    "reactions": {
+      "👍": 29,
+      "🤯": 8,
+      "👏": 4,
+      "💩": 3
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "la consultora estadounidense yougov reveló que al menos una cuarta parte de los ciudadanos del país, creen que, luego de las elecciones presidenciales del 5 de noviembre, se podría desatar una guerra civil. el sondeo realizado entre el 18 y 21 de octubre tomó en cuenta la opinión de 1.266 votantes registrados. el 30% de los encuestados son mujeres mientras que el 24% pertenecen al género masculino. la encuesta también afirmó que el 12% de los entrevistados temen un levantamiento armado si consideran que hubo fraude contra el partido republicano, mientras que por parte de los demócratas solo el 5% de los sondeados respondieron. otro número bastante elevado es el de los estadounidenses que creen que su país se encuentra más dividido que hace 10 años, siendo un 86% de los encuestados. por otro lado, el 66% de los votantes piensa que el expresidente donald trump no aceptaría una derrota estrecha, en comparación con el 27% que opina lo mismo respecto a harris. el vicepresidente de ciencia de datos y editor de política estadounidense de yougov, carl bialik, aseguró en un medio norteamericano, que le resultaba sorprendente cuántos ciudadanos temen que las elecciones puedan conducir a una guerra. “podría estar reflejando una conciencia de lo reñidas que están las elecciones y también la comprensión de que si el resultado es muy reñido, podría haber algún tipo de rechazo de los resultados dado que eso ocurrió en 2020”, agregó bialik. cabe recordar que el 6 de enero del 2021, republicanos radicales marcharon al capitolio en washington para crear caos. el incidente concluyó con varios muertos por una estampida y la irrupción violenta de la población en el congreso.",
+    "tokens": [
+      "consultora",
+      "estadounidense",
+      "yougov",
+      "reveló",
+      "menos",
+      "cuarta",
+      "parte",
+      "ciudadanos",
+      "país",
+      ",",
+      "creen",
+      ",",
+      "luego",
+      "elecciones",
+      "presidenciales",
+      "5",
+      "noviembre",
+      ",",
+      "podría",
+      "desatar",
+      "guerra",
+      "civil",
+      ".",
+      "sondeo",
+      "realizado",
+      "18",
+      "21",
+      "octubre",
+      "tomó",
+      "cuenta",
+      "opinión",
+      "1.266",
+      "votantes",
+      "registrados",
+      ".",
+      "30",
+      "%",
+      "encuestados",
+      "mujeres",
+      "mientras",
+      "24",
+      "%",
+      "pertenecen",
+      "género",
+      "masculino",
+      ".",
+      "encuesta",
+      "afirmó",
+      "12",
+      "%",
+      "entrevistados",
+      "temen",
+      "levantamiento",
+      "armado",
+      "si",
+      "consideran",
+      "fraude",
+      "partido",
+      "republicano",
+      ",",
+      "mientras",
+      "parte",
+      "demócratas",
+      "solo",
+      "5",
+      "%",
+      "sondeados",
+      "respondieron",
+      ".",
+      "número",
+      "bastante",
+      "elevado",
+      "estadounidenses",
+      "creen",
+      "país",
+      "encuentra",
+      "dividido",
+      "hace",
+      "10",
+      "años",
+      ",",
+      "siendo",
+      "86",
+      "%",
+      "encuestados",
+      ".",
+      "lado",
+      ",",
+      "66",
+      "%",
+      "votantes",
+      "piensa",
+      "expresidente",
+      "donald",
+      "trump",
+      "aceptaría",
+      "derrota",
+      "estrecha",
+      ",",
+      "comparación",
+      "27",
+      "%",
+      "opina",
+      "mismo",
+      "respecto",
+      "harris",
+      ".",
+      "vicepresidente",
+      "ciencia",
+      "datos",
+      "editor",
+      "política",
+      "estadounidense",
+      "yougov",
+      ",",
+      "carl",
+      "bialik",
+      ",",
+      "aseguró",
+      "medio",
+      "norteamericano",
+      ",",
+      "resultaba",
+      "sorprendente",
+      "cuántos",
+      "ciudadanos",
+      "temen",
+      "elecciones",
+      "puedan",
+      "conducir",
+      "guerra",
+      ".",
+      "“",
+      "podría",
+      "reflejando",
+      "conciencia",
+      "reñidas",
+      "elecciones",
+      "comprensión",
+      "si",
+      "resultado",
+      "reñido",
+      ",",
+      "podría",
+      "haber",
+      "algún",
+      "tipo",
+      "rechazo",
+      "resultados",
+      "dado",
+      "ocurrió",
+      "2020",
+      "”",
+      ",",
+      "agregó",
+      "bialik",
+      ".",
+      "cabe",
+      "recordar",
+      "6",
+      "enero",
+      "2021",
+      ",",
+      "republicanos",
+      "radicales",
+      "marcharon",
+      "capitolio",
+      "washington",
+      "crear",
+      "caos",
+      ".",
+      "incidente",
+      "concluyó",
+      "varios",
+      "muertos",
+      "estampida",
+      "irrupción",
+      "violenta",
+      "población",
+      "congreso",
+      "."
+    ],
+    "token_count": 181,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "VBZ": 3,
+      "JJ": 39,
+      "NN": 90,
+      "IN": 16,
+      "NNS": 17,
+      "FW": 56,
+      "VBP": 15,
+      "CD": 12,
+      "RB": 2,
+      "VBD": 2,
+      "MD": 1,
+      "VB": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 4,
+      "NNP-NN": 8,
+      "NN-NN": 46,
+      "NN-IN": 11,
+      "IN-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 3,
+      "JJ-NN": 24,
+      "IN-FW": 12,
+      "FW-JJ": 9,
+      "NN-JJ": 9,
+      "FW-NNS": 4,
+      "NNS-NNS": 1,
+      "NNS-FW": 2,
+      "FW-FW": 31,
+      "FW-NN": 7,
+      "NNP-NNP": 8,
+      "NNP-FW": 3,
+      "JJ-FW": 1,
+      "FW-NNP": 4,
+      "NN-VBP": 2,
+      "VBP-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-CD": 1,
+      "CD-NNS": 2,
+      "NN-FW": 6,
+      "FW-CD": 1,
+      "NNS-VBP": 13,
+      "VBP-NNP": 1,
+      "NNP-CD": 1,
+      "CD-IN": 4,
+      "NN-NNS": 5,
+      "VBP-JJ": 11,
+      "JJ-RB": 2,
+      "RB-CD": 1,
+      "CD-NN": 4,
+      "NN-NNP": 7,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "JJ-NNS": 3,
+      "VBP-FW": 1,
+      "NN-CD": 2,
+      "JJ-CD": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "IN-JJ": 1,
+      "CD-JJ": 1,
+      "RB-JJ": 1,
+      "VBP-NNS": 1,
+      "IN-CD": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 8,
+      "IN-FW-JJ": 5,
+      "FW-JJ-NN": 5,
+      "JJ-NN-NN": 12,
+      "NN-NN-NN": 24,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 7,
+      "IN-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 20,
+      "FW-FW-NN": 5,
+      "FW-NN-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NN-NN-VBP": 2,
+      "NN-VBP-VBZ": 1,
+      "VBP-VBZ-CD": 1,
+      "VBZ-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-FW": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 10,
+      "VBP-JJ-RB": 1,
+      "JJ-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-IN": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-NN": 6,
+      "NN-VBP-JJ": 1,
+      "NN-NN-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NN-NN-FW": 2,
+      "FW-FW-NNS": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "NN-JJ-CD": 1,
+      "JJ-CD-IN": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-CD": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-VBD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-RB": 1,
+      "JJ-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-FW": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-JJ": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "VBP-JJ-JJ": 2,
+      "FW-NN-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "FW-NN-CD": 1,
+      "CD-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 56,
+        "JJ": 39,
+        "NNP": 26,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "FW-FW": 31,
+        "JJ-NN": 24,
+        "NNS-VBP": 13,
+        "IN-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "FW-FW-FW": 20,
+        "JJ-NN-NN": 12,
+        "NNS-VBP-JJ": 10,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 76,
+      "VP": 22,
+      "PP": 2,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('%', 'NN')",
+        "frequency": 6,
+        "weight": 0.0526
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('votantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('elecciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP VP PP NP ('de', 'IN') ('los', 'FW') NP (',', ',') NP (',', ',') ('luego', 'FW') ('de', 'FW') ('las', 'FW') NP VP ('5', 'CD') ('de', 'FW') ('noviembre', 'FW') (',', ',') ('se', 'FW') ('podría', 'FW') NP NP ADJP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('consultora', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('estadounidense', 'JJ') ('YouGov', 'NNP') ('reveló', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "PP -> ('al', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('cuarta', 'JJ') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "consultora estadounidense YouGov reveló que"
+      },
+      {
+        "label": "NP",
+        "text": "estadounidense YouGov reveló que"
+      },
+      {
+        "label": "PP",
+        "text": "al menos"
+      },
+      {
+        "label": "NP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "una cuarta parte"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos del país"
+      },
+      {
+        "label": "NP",
+        "text": "creen que"
+      },
+      {
+        "label": "NP",
+        "text": "elecciones presidenciales"
+      },
+      {
+        "label": "VP",
+        "text": "del"
+      },
+      {
+        "label": "NP",
+        "text": "desatar"
+      },
+      {
+        "label": "NP",
+        "text": "una guerra"
+      },
+      {
+        "label": "ADJP",
+        "text": "civil"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP\n    consultora/VBZ\n    (NP estadounidense/JJ YouGov/NNP reveló/NN que/NN))\n  (PP al/IN (NP menos/NNS))\n  (NP una/JJ cuarta/JJ parte/NN)\n  de/IN\n  los/FW\n  (NP ciudadanos/JJ del/NN país/NN)\n  ,/,\n  (NP creen/JJ que/NN)\n  ,/,\n  luego/FW\n  de/FW\n  las/FW\n  (NP elecciones/NNS presidenciales/NNS)\n  (VP del/VBP)\n  5/CD\n  de/FW\n  noviembre/FW\n  ,/,\n  se/FW\n  podría/FW\n  (NP desatar/NN)\n  (NP una/JJ guerra/NN)\n  (ADJP civil/JJ)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP La/NNP)\n  violencia/FW\n  (ADJP postelectoral/JJ)\n  de/FW\n  (NP Venezuela/NNP)\n  en/FW\n  el/FW\n  espejo/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP El/NNP sondeo/NN realizado/NN)\n  (VP entre/VBP)\n  el/$\n  18/CD\n  y/CC\n  21/CD\n  de/FW\n  octubre/FW\n  (NP tomó/NN)\n  en/FW\n  (NP cuenta/NN)\n  la/FW\n  opinión/FW\n  de/FW\n  1.266/CD\n  (NP votantes/NNS)\n  (VP registrados/VBP)\n  ./.)",
+      "(S\n  El/RB\n  30/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  (NP encuestados/JJ son/NN mujeres/NNS)\n  (VP mientras/VBP que/JJ el/RB)\n  24/CD\n  (NP %/NN pertenecen/NN al/NN género/NN masculino/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  encuesta/CC\n  (NP también/JJ afirmó/NN que/NN)\n  el/RB\n  12/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  (NP entrevistados/JJ temen/NNS)\n  (VP\n    un/VBP\n    (NP\n      levantamiento/JJ\n      armado/NN\n      si/NN\n      consideran/NN\n      que/NN\n      hubo/NN))\n  (VP fraude/VBP (NP contra/JJ el/NN partido/NN republicano/NN))\n  ,/,\n  mientras/FW\n  (NP que/NN por/NN parte/NN)\n  de/IN\n  los/FW\n  (NP demócratas/NNS)\n  (VP solo/VBP el/RB)\n  5/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  (NP sondeados/JJ respondieron/NN)\n  ./.)",
+      "(S\n  (NP Otro/NNP número/NN bastante/NN)\n  elevado/FW\n  es/FW\n  el/FW\n  de/FW\n  los/FW\n  (NP estadounidenses/NNS)\n  (VP\n    que/VBP\n    (NP creen/JJ que/NN su/NN país/NN se/NN)\n    (NP encuentra/JJ más/NN dividido/NN que/NN hace/NN))\n  10/CD\n  (NP años/NN)\n  ,/,\n  (ADJP siendo/JJ)\n  (ADJP un/JJ)\n  86/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  (NP encuestados/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "GRUPOS_ESPECIFICOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          505,
+          511
+        ],
+        "start": 505,
+        "end": 511
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          425,
+          432
+        ],
+        "start": 425,
+        "end": 432
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          275,
+          289
+        ],
+        "start": 275,
+        "end": 289
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          249,
+          258
+        ],
+        "start": 249,
+        "end": 258
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "hace 10 años",
+        "position": [
+          828,
+          840
+        ],
+        "start": 828,
+        "end": 840
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Harris",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Carl Bialik",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bialik",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Capitolio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "YouGov",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ACEPTAR_PENSAR",
+        "objeto": "Harris"
+      },
+      {
+        "sujeto": "Capitolio",
+        "relacion": "MARCHAR_RECORDAR_CABER",
+        "objeto": "Washington"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.992,
+    "neg": 0.008,
+    "label": "negative"
+  }
+}

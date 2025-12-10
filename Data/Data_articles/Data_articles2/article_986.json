@@ -1,0 +1,594 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-afirma-existencia-mundo-pluripolar/",
+  "title": "Venezuela afirma existencia de un mundo pluripolar más allá del hegemonismo estadounidense - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "EE.UU.",
+    "Hegemonismo",
+    "Nicolás Maduro",
+    "pluripolar",
+    "Venezuela"
+  ],
+  "text": "“La humanidad es más importante en la economía, más allá de EE.UU.”, acotó el dignatario bolivariano durante la activación del Motor Telecomunicaciones y Nuevas Tecnologías, efectuado en el Poliedro de Caracas.\nResaltó además que en este nuevo panorama económico, la humanidad ha demostrado que su potencial trasciende más allá de la economía de Estados Unidos, reafirmando que Venezuela forma parte de este nuevo orden global en el que ha pertenecido y seguirá perteneciendo.\nEn este sentido, el mandatario agregó que existe un mundo más allá del hegemonismo estadounidense y de la dominación unipolar ha surgido en el transcurso de los últimos 40 años.\nPor otra parte, el presidente insistió que el mundo en el que estamos viviendo, es un mundo pluricéntrico en el aspecto económico. “La humanidad es más importante que la economía, más allá de EE.UU.”, acotó el dignatario.\nAl recalcar Maduro que Venezuela pertenecerá “a ese mundo pluripolar siempre”, insistió que gracias al esfuerzo nacional, Venezuela tiene su propio modelo económico y sus nuevos motores para enfrentar esta nueva etapa de la economía y salir airosos.\nEn medio de la incertidumbre global causada por la guerra comercial y económica, el presidente subrayó que Venezuela se mantiene firme en su camino, confiando en su propio modelo de desarrollo, en función de seguir construyendo y avanzando con seguridad hacia el futuro.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-afirma-existencia-mundo-pluripolar/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1490,
+    "message_id": 91402,
+    "date": "2025-04-09T01:55:18+00:00",
+    "text": "teleSUR\nVenezuela afirma existencia de un mundo pluripolar más allá del hegemonismo estadounidense\nhttps://www.telesurtv.net/venezuela-afirma-existencia-mundo-pluripolar/",
+    "photo_path": null,
+    "views": 1895,
+    "reactions": {
+      "👍": 36,
+      "💯": 8,
+      "❤": 2,
+      "👏": 1,
+      "🤔": 1
+    },
+    "total_reactions": 48
+  },
+  "preprocessing": {
+    "cleaned": "“la humanidad es más importante en la economía, más allá de ee.uu.”, acotó el dignatario bolivariano durante la activación del motor telecomunicaciones y nuevas tecnologías, efectuado en el poliedro de caracas. resaltó además que en este nuevo panorama económico, la humanidad ha demostrado que su potencial trasciende más allá de la economía de estados unidos, reafirmando que venezuela forma parte de este nuevo orden global en el que ha pertenecido y seguirá perteneciendo. en este sentido, el mandatario agregó que existe un mundo más allá del hegemonismo estadounidense y de la dominación unipolar ha surgido en el transcurso de los últimos 40 años. por otra parte, el presidente insistió que el mundo en el que estamos viviendo, es un mundo pluricéntrico en el aspecto económico. “la humanidad es más importante que la economía, más allá de ee.uu.”, acotó el dignatario. al recalcar maduro que venezuela pertenecerá “a ese mundo pluripolar siempre”, insistió que gracias al esfuerzo nacional, venezuela tiene su propio modelo económico y sus nuevos motores para enfrentar esta nueva etapa de la economía y salir airosos. en medio de la incertidumbre global causada por la guerra comercial y económica, el presidente subrayó que venezuela se mantiene firme en su camino, confiando en su propio modelo de desarrollo, en función de seguir construyendo y avanzando con seguridad hacia el futuro.",
+    "tokens": [
+      "“",
+      "humanidad",
+      "importante",
+      "economía",
+      ",",
+      "allá",
+      "ee.uu.",
+      "”",
+      ",",
+      "acotó",
+      "dignatario",
+      "bolivariano",
+      "activación",
+      "motor",
+      "telecomunicaciones",
+      "nuevas",
+      "tecnologías",
+      ",",
+      "efectuado",
+      "poliedro",
+      "caracas",
+      ".",
+      "resaltó",
+      "además",
+      "nuevo",
+      "panorama",
+      "económico",
+      ",",
+      "humanidad",
+      "demostrado",
+      "potencial",
+      "trasciende",
+      "allá",
+      "economía",
+      "unidos",
+      ",",
+      "reafirmando",
+      "venezuela",
+      "forma",
+      "parte",
+      "nuevo",
+      "orden",
+      "global",
+      "pertenecido",
+      "seguirá",
+      "perteneciendo",
+      ".",
+      ",",
+      "mandatario",
+      "agregó",
+      "existe",
+      "mundo",
+      "allá",
+      "hegemonismo",
+      "estadounidense",
+      "dominación",
+      "unipolar",
+      "surgido",
+      "transcurso",
+      "últimos",
+      "40",
+      "años",
+      ".",
+      "parte",
+      ",",
+      "presidente",
+      "insistió",
+      "mundo",
+      "viviendo",
+      ",",
+      "mundo",
+      "pluricéntrico",
+      "aspecto",
+      "económico",
+      ".",
+      "“",
+      "humanidad",
+      "importante",
+      "economía",
+      ",",
+      "allá",
+      "ee.uu.",
+      "”",
+      ",",
+      "acotó",
+      "dignatario",
+      ".",
+      "recalcar",
+      "maduro",
+      "venezuela",
+      "pertenecerá",
+      "“",
+      "mundo",
+      "pluripolar",
+      "siempre",
+      "”",
+      ",",
+      "insistió",
+      "gracias",
+      "esfuerzo",
+      "nacional",
+      ",",
+      "venezuela",
+      "propio",
+      "modelo",
+      "económico",
+      "nuevos",
+      "motores",
+      "enfrentar",
+      "nueva",
+      "etapa",
+      "economía",
+      "salir",
+      "airosos",
+      ".",
+      "medio",
+      "incertidumbre",
+      "global",
+      "causada",
+      "guerra",
+      "comercial",
+      "económica",
+      ",",
+      "presidente",
+      "subrayó",
+      "venezuela",
+      "mantiene",
+      "firme",
+      "camino",
+      ",",
+      "confiando",
+      "propio",
+      "modelo",
+      "desarrollo",
+      ",",
+      "función",
+      "seguir",
+      "construyendo",
+      "avanzando",
+      "seguridad",
+      "hacia",
+      "futuro",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "PRP": 1,
+      "VBP": 6,
+      "JJ": 17,
+      "NN": 95,
+      "FW": 56,
+      "NNPS": 1,
+      "VBZ": 4,
+      "IN": 8,
+      "$": 1,
+      "CD": 1,
+      "NNS": 2
+    },
+    "bigram_freq": {
+      "NNP-PRP": 1,
+      "PRP-VBP": 1,
+      "VBP-JJ": 4,
+      "JJ-NN": 13,
+      "NN-FW": 6,
+      "FW-FW": 39,
+      "FW-NNP": 8,
+      "NNP-NN": 9,
+      "NN-NN": 64,
+      "FW-JJ": 4,
+      "JJ-FW": 1,
+      "NNP-NNPS": 1,
+      "NNPS-NNP": 1,
+      "NNP-NNP": 3,
+      "NNP-VBZ": 4,
+      "VBZ-FW": 1,
+      "NNP-FW": 3,
+      "FW-NN": 4,
+      "NN-JJ": 4,
+      "NN-VBP": 4,
+      "NN-IN": 8,
+      "IN-FW": 6,
+      "NN-NNP": 7,
+      "FW-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-NNP": 1,
+      "VBP-NN": 2,
+      "NN-NNS": 1,
+      "NNS-VBP": 1,
+      "IN-NN": 2
+    },
+    "trigram_freq": {
+      "NNP-PRP-VBP": 1,
+      "PRP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 42,
+      "NN-NN-FW": 4,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NNPS": 1,
+      "NNP-NNPS-NNP": 1,
+      "NNPS-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBP": 4,
+      "NN-VBP-JJ": 3,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 4,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-NN-JJ": 2,
+      "FW-FW-JJ": 2,
+      "FW-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 2,
+      "FW-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NNP-NN-NNP": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "JJ-NN-IN": 2,
+      "NNP-FW-FW": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "FW-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 95,
+        "FW": 56,
+        "NNP": 21,
+        "JJ": 17,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "NN-NN": 64,
+        "FW-FW": 39,
+        "JJ-NN": 13,
+        "NNP-NN": 9,
+        "FW-NNP": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 42,
+        "FW-FW-FW": 29,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 7,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 52,
+      "ADJP": 1,
+      "VP": 7,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP') ('”', 'NNP')",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "S -> NP ('en', 'FW') NP ('economía', 'FW') (',', ',') ('más', 'FW') ('allá', 'FW') ('de', 'FW') NP (',', ',') NP ('la', 'FW') ADJP ('del', 'FW') NP ('y', 'RB') NP (',', ',') VP ('en', 'FW') ('el', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('“', 'JJ') ('La', 'NNP') ('humanidad', 'NN') ('es', 'NN') ('más', 'NN') ('importante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('acotó', 'NN') ('el', 'NN') ('dignatario', 'NN') ('bolivariano', 'NN') ('durante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "ADJP -> ('activación', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Motor', 'NNP') ('Telecomunicaciones', 'NNPS')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Nuevas', 'NNP') ('Tecnologías', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "VP -> ('efectuado', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Poliedro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "“ La humanidad es más importante"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU. ”"
+      },
+      {
+        "label": "NP",
+        "text": "acotó el dignatario bolivariano durante"
+      },
+      {
+        "label": "ADJP",
+        "text": "activación"
+      },
+      {
+        "label": "NP",
+        "text": "Motor Telecomunicaciones"
+      },
+      {
+        "label": "NP",
+        "text": "Nuevas Tecnologías"
+      },
+      {
+        "label": "VP",
+        "text": "efectuado"
+      },
+      {
+        "label": "NP",
+        "text": "Poliedro"
+      },
+      {
+        "label": "NP",
+        "text": "Caracas"
+      },
+      {
+        "label": "NP",
+        "text": "Resaltó además que"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "NP",
+        "text": "nuevo panorama económico"
+      },
+      {
+        "label": "NP",
+        "text": "ha demostrado que"
+      },
+      {
+        "label": "VP",
+        "text": "su potencial trasciende más allá"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP “/JJ La/NNP humanidad/NN es/NN más/NN importante/NN)\n  en/FW\n  (NP la/NN)\n  economía/FW\n  ,/,\n  más/FW\n  allá/FW\n  de/FW\n  (NP EE.UU./NNP ”/NNP)\n  ,/,\n  (NP acotó/NN el/NN dignatario/NN bolivariano/NN durante/NN)\n  la/FW\n  (ADJP activación/JJ)\n  del/FW\n  (NP Motor/NNP Telecomunicaciones/NNPS)\n  y/RB\n  (NP Nuevas/NNP Tecnologías/NNP)\n  ,/,\n  (VP efectuado/VBZ)\n  en/FW\n  el/FW\n  (NP Poliedro/NNP)\n  de/FW\n  (NP Caracas/NNP)\n  ./.)",
+      "(S\n  (NP Resaltó/NNP además/NN que/NN)\n  en/FW\n  (NP este/NN)\n  (NP nuevo/JJ panorama/NN económico/NN)\n  ,/,\n  la/FW\n  humanidad/FW\n  (NP ha/NN demostrado/NN que/NN)\n  (VP su/VBP (NP potencial/JJ trasciende/NN más/NN allá/NN))\n  de/IN\n  la/FW\n  economía/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP reafirmando/NN que/NN Venezuela/NNP forma/NN parte/NN)\n  de/IN\n  este/FW\n  (NP nuevo/JJ orden/NN)\n  (NP\n    global/JJ\n    en/NN\n    el/NN\n    que/NN\n    ha/NN\n    pertenecido/NN\n    y/NN\n    seguirá/NN\n    perteneciendo/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  el/FW\n  (NP mandatario/NN agregó/NN que/NN existe/NN)\n  (NP un/JJ mundo/NN más/NN allá/NN del/NN hegemonismo/NN)\n  (NP estadounidense/JJ y/NN)\n  de/IN\n  la/FW\n  dominación/FW\n  (NP unipolar/JJ ha/NN surgido/NN)\n  en/IN\n  el/FW\n  transcurso/FW\n  de/FW\n  los/FW\n  últimos/$\n  40/CD\n  (NP años/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  el/FW\n  presidente/FW\n  insistió/FW\n  (NP que/NN)\n  el/FW\n  (NP mundo/NN)\n  en/FW\n  el/FW\n  que/FW\n  estamos/FW\n  (NP viviendo/NN)\n  ,/,\n  (NP es/JJ un/JJ mundo/NN pluricéntrico/NN)\n  en/IN\n  el/FW\n  (NP aspecto/JJ económico/NN)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    La/NNP\n    humanidad/NN\n    es/NN\n    más/NN\n    importante/NN\n    que/NN\n    la/NN\n    economía/NN)\n  ,/,\n  (NP más/JJ allá/NN)\n  (PP de/IN (NP EE.UU./NNP ”/NNP))\n  ,/,\n  (NP acotó/NN el/NN dignatario/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra comercial y económica, el presidente subrayó que venezuela se mantiene firme en su",
+        "position": [
+          1178,
+          1267
+        ],
+        "start": 1178,
+        "end": 1267
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente insistió que",
+        "position": [
+          674,
+          697
+        ],
+        "start": 674,
+        "end": 697
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1222,
+          1229
+        ],
+        "start": 1222,
+        "end": 1229
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          346,
+          360
+        ],
+        "start": 346,
+        "end": 360
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          378,
+          387
+        ],
+        "start": 378,
+        "end": 387
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          202,
+          209
+        ],
+        "start": 202,
+        "end": 209
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Motor Telecomunicaciones",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Poliedro",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "ALL_ACOTAR",
+        "objeto": "Motor Telecomunicaciones"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "ALL_ACOTAR",
+        "objeto": "Poliedro"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "ALL_ACOTAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ALL_TRASCENDER_DEMOSTRAR_RESALTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "RECALCAR_INSISTIR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7351,
+    "pos": 0.033,
+    "neu": 0.967,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

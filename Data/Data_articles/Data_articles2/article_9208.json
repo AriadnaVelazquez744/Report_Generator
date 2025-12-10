@@ -1,0 +1,763 @@
+{
+  "url": "https://www.telesurtv.net/dia-de-paro-nacional-transcurre-con-miles-de-policias-y-cierres-de-vias-en-peru/",
+  "title": "Día de paro nacional transcurre con miles de policías y cierres de vías en Perú - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Gremios sindicales",
+    "Paro nacional",
+    "Perú"
+  ],
+  "text": "Diversos gremios sindicales de Perú realizaron este miércoles un paro nacional, debido al incremento de la delincuencia y la eliminación de las extorciones, así como la renuncia de la presidenta Dina Boluarte.\nLos manifestantes solicitan además el archivo de proyectos legislativos con los que se pretende tipificar el delito de terrorismo urbano.\nEl paro que se desarrolló en el centro de Lima (capital) y Callao, ubicado en el centro-oeste del país y cuenta con la presencia de sectores como comerciantes, vendedores ambulantes, trabajadoras sexuales y estudiantes universitarios.\nEl presidente de la Asociación Nacional de Integración de Transportistas,(Anitra), Martín Valeriano refirió que “los paros van a ser escalonados mientras este gobierno y el Legislativo no deroguen la Ley n.° 32108 y no archiven el proyecto de ley sobre terrorismo urbano”.\n“Vamos a seguir nosotros con los paros escalonados a nivel nacional como ya se ha venido dado. Entendemos que el gobierno no escucha el clamor popular del pueblo ante esta ola delincuencial que azota el país”, concluyó Martín Valeriano.\nTambién exigió la renuncia de la presidenta Dina Boluarte, criticando su gestión por la falta de respuesta efectiva ante la creciente inseguridad y extorsiones en el país.\nAsimismo, subrayó su inquietud por la falta de acción por parte del Estado, “tanto del Ejecutivo como del Poder Legislativo” para enfrentar a la ola de criminalidad y delincuencial que ha sembrado el caos a nivel nacional.\nSegún publicó en  la red social X el Ministerio del Interior desplegó fuerzas policiales en Lima y Callao para velar por los derechos de todos y prestar auxilio de forma inmediata.\n“De ser necesario, los transeúntes tienen a su disposición buses de la PNP para llegar a sus destinos”, acotó el Ministerio.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/dia-de-paro-nacional-transcurre-con-miles-de-policias-y-cierres-de-vias-en-peru/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 529,
+    "message_id": 79045,
+    "date": "2024-10-24T02:55:18+00:00",
+    "text": "teleSUR\nDía de paro nacional transcurre con miles de policías y cierres de vías en Perú\nhttps://www.telesurtv.net/dia-de-paro-nacional-transcurre-con-miles-de-policias-y-cierres-de-vias-en-peru/",
+    "photo_path": null,
+    "views": 2520,
+    "reactions": {
+      "👎": 20,
+      "👍": 15,
+      "🔥": 5,
+      "❤": 2
+    },
+    "total_reactions": 42
+  },
+  "preprocessing": {
+    "cleaned": "diversos gremios sindicales de perú realizaron este miércoles un paro nacional, debido al incremento de la delincuencia y la eliminación de las extorciones, así como la renuncia de la presidenta dina boluarte. los manifestantes solicitan además el archivo de proyectos legislativos con los que se pretende tipificar el delito de terrorismo urbano. el paro que se desarrolló en el centro de lima (capital) y callao, ubicado en el centro-oeste del país y cuenta con la presencia de sectores como comerciantes, vendedores ambulantes, trabajadoras sexuales y estudiantes universitarios. el presidente de la asociación nacional de integración de transportistas,(anitra), martín valeriano refirió que “los paros van a ser escalonados mientras este gobierno y el legislativo no deroguen la ley n.° 32108 y no archiven el proyecto de ley sobre terrorismo urbano”. “vamos a seguir nosotros con los paros escalonados a nivel nacional como ya se ha venido dado. entendemos que el gobierno no escucha el clamor popular del pueblo ante esta ola delincuencial que azota el país”, concluyó martín valeriano. también exigió la renuncia de la presidenta dina boluarte, criticando su gestión por la falta de respuesta efectiva ante la creciente inseguridad y extorsiones en el país. asimismo, subrayó su inquietud por la falta de acción por parte del estado, “tanto del ejecutivo como del poder legislativo” para enfrentar a la ola de criminalidad y delincuencial que ha sembrado el caos a nivel nacional. según publicó en la red social x el ministerio del interior desplegó fuerzas policiales en lima y callao para velar por los derechos de todos y prestar auxilio de forma inmediata. “de ser necesario, los transeúntes tienen a su disposición buses de la pnp para llegar a sus destinos”, acotó el ministerio.",
+    "tokens": [
+      "diversos",
+      "gremios",
+      "sindicales",
+      "perú",
+      "realizaron",
+      "miércoles",
+      "paro",
+      "nacional",
+      ",",
+      "debido",
+      "incremento",
+      "delincuencia",
+      "eliminación",
+      "extorciones",
+      ",",
+      "así",
+      "renuncia",
+      "presidenta",
+      "dina",
+      "boluarte",
+      ".",
+      "manifestantes",
+      "solicitan",
+      "además",
+      "archivo",
+      "proyectos",
+      "legislativos",
+      "pretende",
+      "tipificar",
+      "delito",
+      "terrorismo",
+      "urbano",
+      ".",
+      "paro",
+      "desarrolló",
+      "centro",
+      "lima",
+      "(",
+      "capital",
+      ")",
+      "callao",
+      ",",
+      "ubicado",
+      "centro-oeste",
+      "país",
+      "cuenta",
+      "presencia",
+      "sectores",
+      "comerciantes",
+      ",",
+      "vendedores",
+      "ambulantes",
+      ",",
+      "trabajadoras",
+      "sexuales",
+      "estudiantes",
+      "universitarios",
+      ".",
+      "presidente",
+      "asociación",
+      "nacional",
+      "integración",
+      "transportistas",
+      ",",
+      "(",
+      "anitra",
+      ")",
+      ",",
+      "martín",
+      "valeriano",
+      "refirió",
+      "“",
+      "paros",
+      "van",
+      "ser",
+      "escalonados",
+      "mientras",
+      "gobierno",
+      "legislativo",
+      "deroguen",
+      "ley",
+      "n.°",
+      "32108",
+      "archiven",
+      "proyecto",
+      "ley",
+      "terrorismo",
+      "urbano",
+      "”",
+      ".",
+      "“",
+      "vamos",
+      "seguir",
+      "paros",
+      "escalonados",
+      "nivel",
+      "nacional",
+      "venido",
+      "dado",
+      ".",
+      "entendemos",
+      "gobierno",
+      "escucha",
+      "clamor",
+      "popular",
+      "pueblo",
+      "ola",
+      "delincuencial",
+      "azota",
+      "país",
+      "”",
+      ",",
+      "concluyó",
+      "martín",
+      "valeriano",
+      ".",
+      "exigió",
+      "renuncia",
+      "presidenta",
+      "dina",
+      "boluarte",
+      ",",
+      "criticando",
+      "gestión",
+      "falta",
+      "respuesta",
+      "efectiva",
+      "creciente",
+      "inseguridad",
+      "extorsiones",
+      "país",
+      ".",
+      "asimismo",
+      ",",
+      "subrayó",
+      "inquietud",
+      "falta",
+      "acción",
+      "parte",
+      ",",
+      "“",
+      "ejecutivo",
+      "poder",
+      "legislativo",
+      "”",
+      "enfrentar",
+      "ola",
+      "criminalidad",
+      "delincuencial",
+      "sembrado",
+      "caos",
+      "nivel",
+      "nacional",
+      ".",
+      "según",
+      "publicó",
+      "red",
+      "social",
+      "x",
+      "ministerio",
+      "interior",
+      "desplegó",
+      "fuerzas",
+      "policiales",
+      "lima",
+      "callao",
+      "velar",
+      "derechos",
+      "prestar",
+      "auxilio",
+      "forma",
+      "inmediata",
+      ".",
+      "“",
+      "ser",
+      "necesario",
+      ",",
+      "transeúntes",
+      "disposición",
+      "buses",
+      "pnp",
+      "llegar",
+      "destinos",
+      "”",
+      ",",
+      "acotó",
+      "ministerio",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NNS": 10,
+      "VBZ": 12,
+      "IN": 10,
+      "NN": 98,
+      "JJ": 26,
+      "FW": 62,
+      "VBP": 5,
+      "DT": 3,
+      "RB": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBZ": 3,
+      "VBZ-IN": 2,
+      "IN-NNP": 1,
+      "NNP-NN": 15,
+      "NN-NN": 57,
+      "NN-NNS": 4,
+      "NNS-JJ": 1,
+      "JJ-JJ": 6,
+      "JJ-NN": 15,
+      "NN-IN": 6,
+      "IN-FW": 8,
+      "FW-FW": 41,
+      "FW-NNS": 2,
+      "NNS-VBP": 4,
+      "VBP-NN": 1,
+      "NN-FW": 7,
+      "FW-NNP": 10,
+      "NNP-NNP": 12,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 4,
+      "FW-JJ": 3,
+      "NN-JJ": 8,
+      "JJ-NNP": 4,
+      "NN-NNP": 8,
+      "NNP-FW": 4,
+      "FW-NN": 6,
+      "NN-VBZ": 6,
+      "VBZ-NNS": 2,
+      "NNS-NNS": 1,
+      "VBP-JJ": 3,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "VBZ-NNP": 2,
+      "NNP-RB": 1,
+      "RB-CD": 1,
+      "CD-DT": 1,
+      "DT-JJ": 1,
+      "JJ-FW": 1,
+      "NN-DT": 1,
+      "VBZ-NN": 1,
+      "NN-VBP": 1,
+      "VBZ-FW": 1,
+      "NNS-IN": 1,
+      "IN-NN": 1,
+      "NNP-IN": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 29,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 29,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 6,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 4,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-NNP-NN": 4,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-RB": 1,
+      "NNP-RB-CD": 1,
+      "RB-CD-DT": 1,
+      "CD-DT-JJ": 1,
+      "DT-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 3,
+      "NN-FW-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-FW-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "FW": 62,
+        "NNP": 39,
+        "JJ": 26,
+        "VBZ": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 41,
+        "NNP-NN": 15,
+        "JJ-NN": 15,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 29,
+        "NNP-NN-NN": 12,
+        "JJ-NN-NN": 10,
+        "NN-IN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 17,
+      "PP": 4,
+      "ADJP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('Dina', 'NNP') ('Boluarte', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP VP PP ADJP ADJP ADJP (',', ',') NP ('de', 'IN') ('la', 'FW') ('delincuencia', 'FW') ('y', 'FW') ('la', 'FW') ('eliminación', 'FW') ('de', 'FW') ('las', 'FW') NP (',', ',') VP ('renuncia', 'FW') ('de', 'FW') ('la', 'FW') ('presidenta', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Diversos', 'NNP') ('gremios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('sindicales', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Perú', 'NNP') ('realizaron', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "ADJP -> ('paro', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "ADJP -> ('nacional', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('debido', 'JJ') ('al', 'NN') ('incremento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Diversos gremios"
+      },
+      {
+        "label": "VP",
+        "text": "sindicales"
+      },
+      {
+        "label": "PP",
+        "text": "de Perú realizaron este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "Perú realizaron este miércoles"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "ADJP",
+        "text": "paro"
+      },
+      {
+        "label": "ADJP",
+        "text": "nacional"
+      },
+      {
+        "label": "NP",
+        "text": "debido al incremento"
+      },
+      {
+        "label": "NP",
+        "text": "extorciones"
+      },
+      {
+        "label": "VP",
+        "text": "así como la"
+      },
+      {
+        "label": "NP",
+        "text": "como la"
+      },
+      {
+        "label": "NP",
+        "text": "Dina Boluarte"
+      },
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "VP",
+        "text": "manifestantes solicitan además el archivo"
+      },
+      {
+        "label": "NP",
+        "text": "solicitan además el archivo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Diversos/NNP gremios/NNS)\n  (VP sindicales/VBZ)\n  (PP de/IN (NP Perú/NNP realizaron/NN este/NN miércoles/NNS))\n  (ADJP un/JJ)\n  (ADJP paro/JJ)\n  (ADJP nacional/JJ)\n  ,/,\n  (NP debido/JJ al/NN incremento/NN)\n  de/IN\n  la/FW\n  delincuencia/FW\n  y/FW\n  la/FW\n  eliminación/FW\n  de/FW\n  las/FW\n  (NP extorciones/NNS)\n  ,/,\n  (VP así/VBP (NP como/NN la/NN))\n  renuncia/FW\n  de/FW\n  la/FW\n  presidenta/FW\n  (NP Dina/NNP Boluarte/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP manifestantes/VBZ (NP solicitan/JJ además/NN el/NN archivo/NN))\n  de/IN\n  proyectos/FW\n  (NP legislativos/JJ con/NN los/NN)\n  (NP que/JJ se/NN pretende/NN tipificar/NN el/NN delito/NN)\n  (PP de/IN (NP terrorismo/JJ urbano/NN))\n  ./.)",
+      "(S\n  (NP El/NNP paro/NN que/NN se/NN desarrolló/NN)\n  en/IN\n  el/FW\n  centro/FW\n  de/FW\n  (NP Lima/NNP)\n  (/(\n  (NP capital/NN)\n  )/)\n  (NP y/NN Callao/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  el/FW\n  (NP centro-oeste/NN del/NN país/NN y/NN cuenta/NN con/NN)\n  la/FW\n  presencia/FW\n  de/FW\n  sectores/FW\n  (NP como/NN comerciantes/NNS)\n  ,/,\n  (NP vendedores/NNS ambulantes/NNS)\n  ,/,\n  (NP trabajadoras/NNS sexuales/NNS)\n  (VP y/VBP)\n  (VP estudiantes/VBZ (NP universitarios/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  la/FW\n  (NP Asociación/NNP Nacional/NNP)\n  de/FW\n  (NP Integración/NNP)\n  de/FW\n  (NP Transportistas/NNP)\n  ,/,\n  (/(\n  (NP Anitra/NNP)\n  )/)\n  ,/,\n  (NP Martín/NNP Valeriano/NNP refirió/NN que/NN “/NNP)\n  (VP los/VBZ paros/JJ)\n  (PP van/IN (NP a/DT ser/NN escalonados/NN mientras/NNS))\n  (VP\n    este/VBP\n    (NP gobierno/JJ y/NN el/NN Legislativo/NNP)\n    (NP no/DT deroguen/NN))\n  (VP la/VBZ (NP Ley/NNP) n.°/RB)\n  32108/CD\n  (ADJP y/JJ)\n  no/DT\n  (ADJP archiven/JJ)\n  el/FW\n  proyecto/FW\n  de/FW\n  ley/FW\n  sobre/FW\n  (NP terrorismo/NN)\n  (NP urbano/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Vamos/NNP)\n  (NP a/DT seguir/NN)\n  (NP nosotros/JJ con/NN los/NN)\n  (ADJP paros/JJ)\n  (VP escalonados/VBZ (NP a/DT nivel/JJ nacional/JJ como/NN ya/NN))\n  se/FW\n  (NP ha/NN venido/NN dado/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "APROBACION_RECHAZO",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          396,
+          403
+        ],
+        "start": 396,
+        "end": 403
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta dina boluarte",
+        "position": [
+          184,
+          208
+        ],
+        "start": 184,
+        "end": 208
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "estudiantes",
+        "position": [
+          555,
+          566
+        ],
+        "start": 555,
+        "end": 566
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "comerciantes",
+        "position": [
+          494,
+          506
+        ],
+        "start": 494,
+        "end": 506
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1275,
+          1282
+        ],
+        "start": 1275,
+        "end": 1282
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "ley n.° 32108",
+        "position": [
+          783,
+          796
+        ],
+        "start": 783,
+        "end": 796
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "proyecto de ley",
+        "position": [
+          814,
+          829
+        ],
+        "start": 814,
+        "end": 829
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          31,
+          35
+        ],
+        "start": 31,
+        "end": 35
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "lima",
+        "position": [
+          390,
+          394
+        ],
+        "start": 390,
+        "end": 394
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, “tanto",
+        "position": [
+          1333,
+          1347
+        ],
+        "start": 1333,
+        "end": 1347
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          380,
+          389
+        ],
+        "start": 380,
+        "end": 389
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ejecutivo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Poder Legislativo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Callao",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dina Boluarte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "la Ley",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Martín Valeriano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lima",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asociación Nacional de Integración de Transportistas,(Anitra",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio del Interior",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Perú",
+        "relacion": "REALIZAR",
+        "objeto": "Dina Boluarte"
+      },
+      {
+        "sujeto": "Martín Valeriano",
+        "relacion": "REFERIR",
+        "objeto": "Asociación Nacional de Integración de Transportistas,(Anitra"
+      },
+      {
+        "sujeto": "Asociación Nacional de Integración de Transportistas,(Anitra",
+        "relacion": "REFERIR",
+        "objeto": "la Ley"
+      },
+      {
+        "sujeto": "Martín Valeriano",
+        "relacion": "REFERIR",
+        "objeto": "la Ley"
+      },
+      {
+        "sujeto": "Ministerio del Interior",
+        "relacion": "DESPLEGAR",
+        "objeto": "Lima"
+      },
+      {
+        "sujeto": "Ministerio del Interior",
+        "relacion": "DESPLEGAR",
+        "objeto": "Callao"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.25,
+    "pos": 0.028,
+    "neu": 0.948,
+    "neg": 0.024,
+    "label": "positive"
+  }
+}

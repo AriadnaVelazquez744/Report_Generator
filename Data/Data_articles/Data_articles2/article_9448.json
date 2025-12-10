@@ -1,0 +1,838 @@
+{
+  "url": "https://www.telesurtv.net/inicia-en-bolivia-juicio-oral-contra-anez-y-demas-involucrados-en-el-caso-golpe-de-estado-i/",
+  "title": "Inicia en Bolivia juicio oral contra Añez y demás involucrados en el caso Golpe de Estado I - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bolivia",
+    "Conspiración",
+    "Jeanine Áñez",
+    "juicio",
+    "terrorismo"
+  ],
+  "text": "Este jueves, en la Paz, Bolivia, inició el juicio oral contra Jeanine Añez, Luis Fernando Camacho, Marco Pumari y demás acusados, involucrados en el caso Golpe de Estado I.\nEl juicio entra en fase final luego de cuatro años de investigación exhaustiva sobre los hechos que, en 2019 llevaron a la renuncia al expresidente Evo Morales.\nLos acusados se presentaron en horas de la mañana a ofrecer declaraciones en el juzgado Sexto de Sentencia de la Paz. Medios locales informaron que los imputados fueron transportados bajo una fuerte vigilancia policial.\nAñez, Camacho, Pumari y otros demás implicados son acusados de terrorismo, conspiración, seducción de tropas y asociación delictuosa.\n“Vamos a pedir la pena máxima, a los efectos de que bueno se pueda sentar un precedente para que nadie pueda lesionar el Estado social democrático. Se debe establecer que la víctima es el Estado Plurinacional de Bolivia, la población (…). Vamos a pedir 20 años”, dijo Jorge Nina abogado de la exdiputada del Movimiento al Socialismo (MAS), la cual realizó la denuncia contra Añez y demás acusados en 2019.\nAdemás de los imputados antes nombrados también se llevan a juicio los excomandantes militares Williams Kalimán y Carlos Orellana, el comandante policial Yuri Calderón y el exministro Luis Fernando López, quienes fueron declarados “rebeldes”, además del exinspector de las Fuerzas Armadas Jorge Fernández.\nPor parte del Ministerio Público Boliviano, contra los acusados hay alrededor de 131 declaraciones informativas hechas por testigos de los disturbios del 2019. Entre los testigos citados están los expresidentes Carlos Mesa y Jorge ‘Tuto’ Quiroga.\nIgualmente, la Fiscalía cuenta con 133 pruebas documentales entre informes técnicos forenses, facturas de hoteles, extractos bancarios de transferencia de dineros, oficios, respuestas de instituciones del Estado a requerimientos fiscales, entre otras que sustentan la acusación formal y demostrarían la culpabilidad de cada uno de los imputados.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/inicia-en-bolivia-juicio-oral-contra-anez-y-demas-involucrados-en-el-caso-golpe-de-estado-i/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 952,
+    "message_id": 78593,
+    "date": "2024-10-17T19:55:07+00:00",
+    "text": "teleSUR\nInicia en Bolivia juicio oral contra Añez y demás involucrados en el caso Golpe de Estado I\nhttps://www.telesurtv.net/inicia-en-bolivia-juicio-oral-contra-anez-y-demas-involucrados-en-el-caso-golpe-de-estado-i/",
+    "photo_path": null,
+    "views": 2376,
+    "reactions": {
+      "👍": 45,
+      "👏": 6
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "este jueves, en la paz, bolivia, inició el juicio oral contra jeanine añez, luis fernando camacho, marco pumari y demás acusados, involucrados en el caso golpe de estado i. el juicio entra en fase final luego de cuatro años de investigación exhaustiva sobre los hechos que, en 2019 llevaron a la renuncia al expresidente evo morales. los acusados se presentaron en horas de la mañana a ofrecer declaraciones en el juzgado sexto de sentencia de la paz. medios locales informaron que los imputados fueron transportados bajo una fuerte vigilancia policial. añez, camacho, pumari y otros demás implicados son acusados de terrorismo, conspiración, seducción de tropas y asociación delictuosa. “vamos a pedir la pena máxima, a los efectos de que bueno se pueda sentar un precedente para que nadie pueda lesionar el estado social democrático. se debe establecer que la víctima es el estado plurinacional de bolivia, la población (…). vamos a pedir 20 años”, dijo jorge nina abogado de la exdiputada del movimiento al socialismo (mas), la cual realizó la denuncia contra añez y demás acusados en 2019. además de los imputados antes nombrados también se llevan a juicio los excomandantes militares williams kalimán y carlos orellana, el comandante policial yuri calderón y el exministro luis fernando lópez, quienes fueron declarados “rebeldes”, además del exinspector de las fuerzas armadas jorge fernández. por parte del ministerio público boliviano, contra los acusados hay alrededor de 131 declaraciones informativas hechas por testigos de los disturbios del 2019. entre los testigos citados están los expresidentes carlos mesa y jorge ‘tuto’ quiroga. igualmente, la fiscalía cuenta con 133 pruebas documentales entre informes técnicos forenses, facturas de hoteles, extractos bancarios de transferencia de dineros, oficios, respuestas de instituciones del estado a requerimientos fiscales, entre otras que sustentan la acusación formal y demostrarían la culpabilidad de cada uno de los imputados.",
+    "tokens": [
+      "jueves",
+      ",",
+      "paz",
+      ",",
+      "bolivia",
+      ",",
+      "inició",
+      "juicio",
+      "oral",
+      "jeanine",
+      "añez",
+      ",",
+      "luis",
+      "fernando",
+      "camacho",
+      ",",
+      "marco",
+      "pumari",
+      "demás",
+      "acusados",
+      ",",
+      "involucrados",
+      "caso",
+      "golpe",
+      "i.",
+      "juicio",
+      "entra",
+      "fase",
+      "final",
+      "luego",
+      "cuatro",
+      "años",
+      "investigación",
+      "exhaustiva",
+      "hechos",
+      ",",
+      "2019",
+      "llevaron",
+      "renuncia",
+      "expresidente",
+      "evo",
+      "morales",
+      ".",
+      "acusados",
+      "presentaron",
+      "horas",
+      "mañana",
+      "ofrecer",
+      "declaraciones",
+      "juzgado",
+      "sexto",
+      "sentencia",
+      "paz",
+      ".",
+      "medios",
+      "locales",
+      "informaron",
+      "imputados",
+      "transportados",
+      "bajo",
+      "fuerte",
+      "vigilancia",
+      "policial",
+      ".",
+      "añez",
+      ",",
+      "camacho",
+      ",",
+      "pumari",
+      "demás",
+      "implicados",
+      "acusados",
+      "terrorismo",
+      ",",
+      "conspiración",
+      ",",
+      "seducción",
+      "tropas",
+      "asociación",
+      "delictuosa",
+      ".",
+      "“",
+      "vamos",
+      "pedir",
+      "pena",
+      "máxima",
+      ",",
+      "efectos",
+      "bueno",
+      "pueda",
+      "sentar",
+      "precedente",
+      "nadie",
+      "pueda",
+      "lesionar",
+      "social",
+      "democrático",
+      ".",
+      "debe",
+      "establecer",
+      "víctima",
+      "plurinacional",
+      "bolivia",
+      ",",
+      "población",
+      "(",
+      "…",
+      ")",
+      ".",
+      "vamos",
+      "pedir",
+      "20",
+      "años",
+      "”",
+      ",",
+      "dijo",
+      "jorge",
+      "nina",
+      "abogado",
+      "exdiputada",
+      "movimiento",
+      "socialismo",
+      "(",
+      "mas",
+      ")",
+      ",",
+      "realizó",
+      "denuncia",
+      "añez",
+      "demás",
+      "acusados",
+      "2019.",
+      "además",
+      "imputados",
+      "nombrados",
+      "llevan",
+      "juicio",
+      "excomandantes",
+      "militares",
+      "williams",
+      "kalimán",
+      "carlos",
+      "orellana",
+      ",",
+      "comandante",
+      "policial",
+      "yuri",
+      "calderón",
+      "exministro",
+      "luis",
+      "fernando",
+      "lópez",
+      ",",
+      "declarados",
+      "“",
+      "rebeldes",
+      "”",
+      ",",
+      "además",
+      "exinspector",
+      "fuerzas",
+      "armadas",
+      "jorge",
+      "fernández",
+      ".",
+      "parte",
+      "ministerio",
+      "público",
+      "boliviano",
+      ",",
+      "acusados",
+      "alrededor",
+      "131",
+      "declaraciones",
+      "informativas",
+      "hechas",
+      "testigos",
+      "disturbios",
+      "2019.",
+      "testigos",
+      "citados",
+      "expresidentes",
+      "carlos",
+      "mesa",
+      "jorge",
+      "‘",
+      "tuto",
+      "’",
+      "quiroga",
+      ".",
+      "igualmente",
+      ",",
+      "fiscalía",
+      "cuenta",
+      "133",
+      "pruebas",
+      "documentales",
+      "informes",
+      "técnicos",
+      "forenses",
+      ",",
+      "facturas",
+      "hoteles",
+      ",",
+      "extractos",
+      "bancarios",
+      "transferencia",
+      "dineros",
+      ",",
+      "oficios",
+      ",",
+      "respuestas",
+      "instituciones",
+      "requerimientos",
+      "fiscales",
+      ",",
+      "sustentan",
+      "acusación",
+      "formal",
+      "demostrarían",
+      "culpabilidad",
+      "cada",
+      "imputados",
+      "."
+    ],
+    "token_count": 224,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 76,
+      "NNS": 14,
+      "VBP": 9,
+      "FW": 64,
+      "NNP": 64,
+      "JJ": 31,
+      "IN": 13,
+      "CD": 6,
+      "VBZ": 5,
+      "MD": 1,
+      "VB": 1,
+      "VBD": 3
+    },
+    "bigram_freq": {
+      "NN-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-FW": 1,
+      "FW-NNP": 10,
+      "NNP-NNP": 36,
+      "NNP-NN": 9,
+      "NN-NN": 37,
+      "NN-JJ": 7,
+      "JJ-JJ": 6,
+      "JJ-NNP": 5,
+      "NN-IN": 11,
+      "IN-FW": 6,
+      "FW-JJ": 4,
+      "NNP-FW": 8,
+      "IN-JJ": 2,
+      "JJ-NN": 17,
+      "FW-FW": 43,
+      "FW-NN": 4,
+      "IN-CD": 3,
+      "CD-NN": 3,
+      "NN-NNP": 9,
+      "NNP-JJ": 3,
+      "NN-FW": 4,
+      "FW-NNS": 3,
+      "NNS-IN": 1,
+      "IN-NN": 1,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NNP-VBD": 3,
+      "VBD-CD": 1,
+      "CD-NNP": 2,
+      "JJ-NNS": 2,
+      "VBP-JJ": 4,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 1,
+      "VBZ-JJ": 2,
+      "NNP-NNS": 1,
+      "CD-NNS": 1,
+      "NNS-NN": 2,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NN-CD": 1,
+      "VBD-JJ": 2,
+      "VBZ-NNP": 1,
+      "JJ-CD": 1,
+      "VBP-NNS": 2,
+      "NNS-FW": 2,
+      "VBP-IN": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 7,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 3,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-NNP": 21,
+      "NN-NN-NN": 13,
+      "NN-NN-IN": 8,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 33,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 1,
+      "NN-IN-CD": 3,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-NN": 11,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-FW": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 4,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-JJ-NN": 4,
+      "NN-JJ-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-NNP-FW": 3,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "IN-FW-NNP": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NN": 1,
+      "NNS-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-VBD": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 76,
+        "FW": 64,
+        "NNP": 64,
+        "JJ": 31,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 37,
+        "NNP-NNP": 36,
+        "JJ-NN": 17,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NNP-NNP-NNP": 21,
+        "NN-NN-NN": 13,
+        "JJ-NN-NN": 11,
+        "NN-NN-IN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 81,
+      "ADJP": 3,
+      "PP": 3,
+      "VP": 16
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Paz', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "S -> NP (',', ',') ('en', 'FW') ('la', 'FW') NP (',', ',') NP (',', ',') NP NP (',', ',') NP (',', ',') NP (',', ',') ADJP ('en', 'FW') ('el', 'FW') NP PP ('I', 'PRP') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('inició', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('juicio', 'JJ') ('oral', 'JJ') ('contra', 'JJ') ('Jeanine', 'NNP') ('Añez', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Luis', 'NNP') ('Fernando', 'NNP') ('Camacho', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Marco', 'NNP') ('Pumari', 'NNP') ('y', 'NNP') ('demás', 'NN') ('acusados', 'NN')",
+        "frequency": 1,
+        "weight": 0.0087
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "Paz"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "inició el"
+      },
+      {
+        "label": "NP",
+        "text": "juicio oral contra Jeanine Añez"
+      },
+      {
+        "label": "NP",
+        "text": "Luis Fernando Camacho"
+      },
+      {
+        "label": "NP",
+        "text": "Marco Pumari y demás acusados"
+      },
+      {
+        "label": "ADJP",
+        "text": "involucrados"
+      },
+      {
+        "label": "NP",
+        "text": "caso Golpe"
+      },
+      {
+        "label": "PP",
+        "text": "de Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      },
+      {
+        "label": "NP",
+        "text": "El juicio entra"
+      },
+      {
+        "label": "PP",
+        "text": "en fase final luego"
+      },
+      {
+        "label": "NP",
+        "text": "fase final luego"
+      },
+      {
+        "label": "NP",
+        "text": "hechos que"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN jueves/NNS)\n  ,/,\n  en/FW\n  la/FW\n  (NP Paz/NNP)\n  ,/,\n  (NP Bolivia/NNP)\n  ,/,\n  (NP inició/NN el/NN)\n  (NP juicio/JJ oral/JJ contra/JJ Jeanine/NNP Añez/NNP)\n  ,/,\n  (NP Luis/NNP Fernando/NNP Camacho/NNP)\n  ,/,\n  (NP Marco/NNP Pumari/NNP y/NNP demás/NN acusados/NN)\n  ,/,\n  (ADJP involucrados/JJ)\n  en/FW\n  el/FW\n  (NP caso/NN Golpe/NNP)\n  (PP de/IN (NP Estado/NNP))\n  I/PRP\n  ./.)",
+      "(S\n  (NP El/NNP juicio/NN entra/NN)\n  (PP en/IN (NP fase/JJ final/JJ luego/NN))\n  de/IN\n  cuatro/FW\n  años/FW\n  de/FW\n  investigación/FW\n  exhaustiva/FW\n  sobre/FW\n  los/FW\n  (NP hechos/NN que/NN)\n  ,/,\n  en/IN\n  2019/CD\n  (NP llevaron/NN)\n  (NP\n    a/DT\n    la/NN\n    renuncia/NN\n    al/NN\n    expresidente/NN\n    Evo/NNP\n    Morales/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (NP acusados/JJ se/NN presentaron/NN)\n  en/FW\n  horas/FW\n  de/FW\n  la/FW\n  mañana/FW\n  (NP a/DT ofrecer/NN)\n  (VP declaraciones/VBZ)\n  en/IN\n  el/FW\n  (NP juzgado/NN Sexto/NNP)\n  de/FW\n  (NP Sentencia/NNP)\n  de/FW\n  la/FW\n  (NP Paz/NNP)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    locales/VBZ\n    (NP informaron/NN que/NN los/NN)\n    (NP imputados/JJ fueron/NN transportados/NN bajo/NN)\n    (NP una/JJ fuerte/NN vigilancia/NN policial/NN))\n  ./.)",
+      "(S\n  (NP Añez/NNP)\n  ,/,\n  (NP Camacho/NNP)\n  ,/,\n  (NP Pumari/NNP y/NNP)\n  otros/MD\n  (VP demás/VB (NP implicados/JJ son/NN acusados/NN))\n  (PP de/IN (NP terrorismo/NN))\n  ,/,\n  (NP conspiración/NN)\n  ,/,\n  seducción/FW\n  de/FW\n  tropas/FW\n  y/FW\n  (NP asociación/NN delictuosa/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "juicio oral",
+        "position": [
+          43,
+          54
+        ],
+        "start": 43,
+        "end": 54
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          24,
+          31
+        ],
+        "start": 24,
+        "end": 31
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          16,
+          22
+        ],
+        "start": 16,
+        "end": 22
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado social",
+        "position": [
+          809,
+          822
+        ],
+        "start": 809,
+        "end": 822
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          377,
+          383
+        ],
+        "start": 377,
+        "end": 383
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 131",
+        "position": [
+          1468,
+          1484
+        ],
+        "start": 1468,
+        "end": 1484
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pumari",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Marco Pumari",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Williams Kalimán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yuri Calderón",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jorge Nina",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Carlos Orellana",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "la Paz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "MAS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luis Fernando Camacho",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Añez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Camacho",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jeanine Añez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado Plurinacional de Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jorge ‘Tuto’ Quiroga",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Evo Morales",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio Público Boliviano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sexto de Sentencia de la Paz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Luis Fernando López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas Armadas Jorge Fernández",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Movimiento al Socialismo",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "la Paz",
+        "relacion": "INICIAR",
+        "objeto": "Jeanine Añez"
+      },
+      {
+        "sujeto": "la Paz",
+        "relacion": "INICIAR",
+        "objeto": "Luis Fernando Camacho"
+      },
+      {
+        "sujeto": "la Paz",
+        "relacion": "INICIAR",
+        "objeto": "Marco Pumari"
+      },
+      {
+        "sujeto": "la Paz",
+        "relacion": "INICIAR",
+        "objeto": "Evo Morales"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "INICIAR",
+        "objeto": "Jeanine Añez"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "INICIAR",
+        "objeto": "Luis Fernando Camacho"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "INICIAR",
+        "objeto": "Marco Pumari"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "INICIAR",
+        "objeto": "Evo Morales"
+      },
+      {
+        "sujeto": "Jeanine Añez",
+        "relacion": "INICIAR",
+        "objeto": "Evo Morales"
+      },
+      {
+        "sujeto": "Luis Fernando Camacho",
+        "relacion": "INICIAR",
+        "objeto": "Evo Morales"
+      },
+      {
+        "sujeto": "Marco Pumari",
+        "relacion": "INICIAR",
+        "objeto": "Evo Morales"
+      },
+      {
+        "sujeto": "Fiscalía",
+        "relacion": "CONTAR",
+        "objeto": "Estado"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

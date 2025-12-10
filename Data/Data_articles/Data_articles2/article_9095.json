@@ -1,0 +1,780 @@
+{
+  "url": "https://www.telesurtv.net/presidente-boliviano-posesiona-nuevo-mando-militar-en-medio-de-bloqueos-de-carreteras/",
+  "title": "Presidente boliviano posesiona nuevo mando militar en medio de bloqueos de carreteras - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Fuerzas Armadas",
+    "Mando Militar",
+    "Presidente Luis Arce"
+  ],
+  "text": "El presidente de Bolivia, Luis Arce, posesionó este sábado al alto mando militar del país, al cual encomendó consolidar la confianza entre las Fuerzas Armadas (FF.AA.), preservar el orden público y la democracia en el país, en un momento en el se cumplen 13 días de un bloqueo indefinido de caminos.\nEl general de división aérea Gerardo Zabala es el nuevo comandante en jefe interino de las Fuerzas Armadas; el general José Wilson Sánchez es jefe de Estado Mayor; el general Eduardo Aguilar es el comandante general del Ejército.\n“Se da el presente cambio del Mando Militar al cual encomiendo consolidar la confianza entre nuestras Fuerzas Armadas y el pueblo boliviano”, expresó el jefe de Estado boliviano en el acto de posesión realizado en la sede presidencial de Bolivia.\nLuis Arce afirmó que las FF.AA. deben actuar con transparencia, combatir la corrupción, respetar los derechos humanos y formar líderes y lideresas comprometidos con el país.\nEl mandatario boliviano enfatizó que el cambio del mando militar se da en un momento en que las instituciones estatales buscan “preservar los más altos intereses vitales del país como la seguridad del Estado y el restablecimiento del orden público”.\nAl posesionar al nuevo Alto Mando Militar, el presidente Arce resaltó la importancia que tuvo el mando militar saliente en la defensa de la democracia y su papel decisivo en momentos críticos del país.\n“El momento más significativo en su mandato fue la neutralización de un intento de golpe de Estado, donde su intervención fue crucial para salvaguardar la estabilidad del gobierno legalmente constituido. Su legado se verá como inspiración para el nuevo mando entrante y los que vengan, quienes deberán continuar esta labor vital en pro de una Bolivia más democrática”, dijo Luis Arce.\nPor último el presidente Arce encomendó a la nueva cúpula militar “consolidar” la confianza con el pueblo boliviano, participar en el resguardo de las fronteras y la lucha contra el contrabando.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-boliviano-posesiona-nuevo-mando-militar-en-medio-de-bloqueos-de-carreteras/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 337,
+    "message_id": 79252,
+    "date": "2024-10-27T05:55:07+00:00",
+    "text": "teleSUR\nPresidente boliviano posesiona nuevo mando militar en medio de bloqueos de carreteras\nhttps://www.telesurtv.net/presidente-boliviano-posesiona-nuevo-mando-militar-en-medio-de-bloqueos-de-carreteras/",
+    "photo_path": null,
+    "views": 3179,
+    "reactions": {
+      "👍": 56,
+      "🤔": 12,
+      "🕊": 2
+    },
+    "total_reactions": 70
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de bolivia, luis arce, posesionó este sábado al alto mando militar del país, al cual encomendó consolidar la confianza entre las fuerzas armadas (ff.aa.), preservar el orden público y la democracia en el país, en un momento en el se cumplen 13 días de un bloqueo indefinido de caminos. el general de división aérea gerardo zabala es el nuevo comandante en jefe interino de las fuerzas armadas; el general josé wilson sánchez es jefe de estado mayor; el general eduardo aguilar es el comandante general del ejército. “se da el presente cambio del mando militar al cual encomiendo consolidar la confianza entre nuestras fuerzas armadas y el pueblo boliviano”, expresó el jefe de estado boliviano en el acto de posesión realizado en la sede presidencial de bolivia. luis arce afirmó que las ff.aa. deben actuar con transparencia, combatir la corrupción, respetar los derechos humanos y formar líderes y lideresas comprometidos con el país. el mandatario boliviano enfatizó que el cambio del mando militar se da en un momento en que las instituciones estatales buscan “preservar los más altos intereses vitales del país como la seguridad del estado y el restablecimiento del orden público”. al posesionar al nuevo alto mando militar, el presidente arce resaltó la importancia que tuvo el mando militar saliente en la defensa de la democracia y su papel decisivo en momentos críticos del país. “el momento más significativo en su mandato fue la neutralización de un intento de golpe de estado, donde su intervención fue crucial para salvaguardar la estabilidad del gobierno legalmente constituido. su legado se verá como inspiración para el nuevo mando entrante y los que vengan, quienes deberán continuar esta labor vital en pro de una bolivia más democrática”, dijo luis arce. por último el presidente arce encomendó a la nueva cúpula militar “consolidar” la confianza con el pueblo boliviano, participar en el resguardo de las fronteras y la lucha contra el contrabando.",
+    "tokens": [
+      "presidente",
+      "bolivia",
+      ",",
+      "luis",
+      "arce",
+      ",",
+      "posesionó",
+      "sábado",
+      "alto",
+      "mando",
+      "militar",
+      "país",
+      ",",
+      "encomendó",
+      "consolidar",
+      "confianza",
+      "fuerzas",
+      "armadas",
+      "(",
+      "ff.aa",
+      ".",
+      ")",
+      ",",
+      "preservar",
+      "orden",
+      "público",
+      "democracia",
+      "país",
+      ",",
+      "momento",
+      "cumplen",
+      "13",
+      "días",
+      "bloqueo",
+      "indefinido",
+      "caminos",
+      ".",
+      "general",
+      "división",
+      "aérea",
+      "gerardo",
+      "zabala",
+      "nuevo",
+      "comandante",
+      "jefe",
+      "interino",
+      "fuerzas",
+      "armadas",
+      ";",
+      "general",
+      "josé",
+      "wilson",
+      "sánchez",
+      "jefe",
+      "mayor",
+      ";",
+      "general",
+      "eduardo",
+      "aguilar",
+      "comandante",
+      "general",
+      "ejército",
+      ".",
+      "“",
+      "da",
+      "presente",
+      "cambio",
+      "mando",
+      "militar",
+      "encomiendo",
+      "consolidar",
+      "confianza",
+      "fuerzas",
+      "armadas",
+      "pueblo",
+      "boliviano",
+      "”",
+      ",",
+      "expresó",
+      "jefe",
+      "boliviano",
+      "acto",
+      "posesión",
+      "realizado",
+      "sede",
+      "presidencial",
+      "bolivia",
+      ".",
+      "luis",
+      "arce",
+      "afirmó",
+      "ff.aa",
+      ".",
+      "deben",
+      "actuar",
+      "transparencia",
+      ",",
+      "combatir",
+      "corrupción",
+      ",",
+      "respetar",
+      "derechos",
+      "humanos",
+      "formar",
+      "líderes",
+      "lideresas",
+      "comprometidos",
+      "país",
+      ".",
+      "mandatario",
+      "boliviano",
+      "enfatizó",
+      "cambio",
+      "mando",
+      "militar",
+      "da",
+      "momento",
+      "instituciones",
+      "estatales",
+      "buscan",
+      "“",
+      "preservar",
+      "altos",
+      "intereses",
+      "vitales",
+      "país",
+      "seguridad",
+      "restablecimiento",
+      "orden",
+      "público",
+      "”",
+      ".",
+      "posesionar",
+      "nuevo",
+      "alto",
+      "mando",
+      "militar",
+      ",",
+      "presidente",
+      "arce",
+      "resaltó",
+      "importancia",
+      "mando",
+      "militar",
+      "saliente",
+      "defensa",
+      "democracia",
+      "papel",
+      "decisivo",
+      "momentos",
+      "críticos",
+      "país",
+      ".",
+      "“",
+      "momento",
+      "significativo",
+      "mandato",
+      "neutralización",
+      "intento",
+      "golpe",
+      ",",
+      "intervención",
+      "crucial",
+      "salvaguardar",
+      "estabilidad",
+      "gobierno",
+      "legalmente",
+      "constituido",
+      ".",
+      "legado",
+      "verá",
+      "inspiración",
+      "nuevo",
+      "mando",
+      "entrante",
+      "vengan",
+      ",",
+      "deberán",
+      "continuar",
+      "labor",
+      "vital",
+      "pro",
+      "bolivia",
+      "democrática",
+      "”",
+      ",",
+      "dijo",
+      "luis",
+      "arce",
+      ".",
+      "último",
+      "presidente",
+      "arce",
+      "encomendó",
+      "nueva",
+      "cúpula",
+      "militar",
+      "“",
+      "consolidar",
+      "”",
+      "confianza",
+      "pueblo",
+      "boliviano",
+      ",",
+      "participar",
+      "resguardo",
+      "fronteras",
+      "lucha",
+      "contrabando",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "NN": 129,
+      "FW": 75,
+      "VBP": 6,
+      "JJ": 28,
+      "IN": 8,
+      "CD": 1,
+      "VBZ": 8,
+      "VBD": 2,
+      "RB": 1,
+      "NNS": 8
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-FW": 20,
+      "FW-NNP": 11,
+      "NNP-NNP": 20,
+      "NN-NN": 81,
+      "NN-VBP": 2,
+      "VBP-JJ": 5,
+      "JJ-NN": 16,
+      "FW-FW": 46,
+      "NN-JJ": 7,
+      "NN-IN": 8,
+      "IN-FW": 3,
+      "FW-NN": 13,
+      "FW-JJ": 3,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NNP-FW": 3,
+      "NNP-VBZ": 6,
+      "VBZ-FW": 1,
+      "VBZ-JJ": 6,
+      "JJ-NNP": 5,
+      "IN-NNP": 2,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "JJ-JJ": 3,
+      "NN-NNP": 6,
+      "NNP-VBP": 1,
+      "NN-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-VBZ": 2,
+      "JJ-NNS": 3,
+      "NNS-VBP": 3,
+      "IN-JJ": 1,
+      "NNS-NNS": 1,
+      "NNS-JJ": 1,
+      "VBZ-NNS": 1,
+      "NNS-FW": 1,
+      "IN-NN": 2,
+      "VBP-NN": 1,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "NNS-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 12,
+      "NN-NN-NN": 51,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 10,
+      "NN-NN-FW": 11,
+      "NN-FW-FW": 9,
+      "FW-FW-NNP": 7,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-FW": 2,
+      "FW-FW-FW": 33,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-VBZ": 5,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "NN-FW-NN": 6,
+      "FW-NN-NN": 6,
+      "IN-FW-NNP": 1,
+      "NNP-VBZ-JJ": 5,
+      "VBZ-JJ-NNP": 3,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "IN-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "NN-NNP-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NN-NNP": 2,
+      "FW-NNP-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 129,
+        "FW": 75,
+        "NNP": 46,
+        "JJ": 28,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "NN-NN": 81,
+        "FW-FW": 46,
+        "NN-FW": 20,
+        "NNP-NNP": 20,
+        "JJ-NN": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 51,
+        "FW-FW-FW": 33,
+        "NNP-NN-NN": 12,
+        "NN-NN-FW": 11,
+        "JJ-NN-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 19,
+      "ADJP": 3,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 5,
+        "weight": 0.0463
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0278
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') VP ('entre', 'FW') ('las', 'FW') NP ('(', '(') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Luis', 'NNP') ('Arce', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "Luis Arce"
+      },
+      {
+        "label": "NP",
+        "text": "posesionó este sábado al alto mando militar del país"
+      },
+      {
+        "label": "VP",
+        "text": "al cual encomendó consolidar la confianza"
+      },
+      {
+        "label": "NP",
+        "text": "cual encomendó consolidar la confianza"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas Armadas"
+      },
+      {
+        "label": "NP",
+        "text": "FF.AA"
+      },
+      {
+        "label": "ADJP",
+        "text": "preservar"
+      },
+      {
+        "label": "NP",
+        "text": "orden público y la democracia"
+      },
+      {
+        "label": "PP",
+        "text": "en el país"
+      },
+      {
+        "label": "NP",
+        "text": "el país"
+      },
+      {
+        "label": "NP",
+        "text": "días"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "ADJP",
+        "text": "general"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP Luis/NNP Arce/NNP)\n  ,/,\n  (NP\n    posesionó/NN\n    este/NN\n    sábado/NN\n    al/NN\n    alto/NN\n    mando/NN\n    militar/NN\n    del/NN\n    país/NN)\n  ,/,\n  (VP\n    al/VBP\n    (NP cual/JJ encomendó/NN consolidar/NN la/NN confianza/NN))\n  entre/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  (/(\n  (NP FF.AA/NNP)\n  ./.)",
+      "(S\n  )/)\n  ,/,\n  (ADJP preservar/JJ)\n  el/FW\n  (NP orden/JJ público/NN y/NN la/NN democracia/NN)\n  (PP en/IN (NP el/NN país/NN))\n  ,/,\n  en/FW\n  un/FW\n  momento/FW\n  en/FW\n  el/FW\n  se/FW\n  cumplen/FW\n  13/CD\n  (NP días/NN)\n  de/FW\n  un/FW\n  bloqueo/FW\n  indefinido/FW\n  de/FW\n  caminos/FW\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (ADJP general/JJ)\n  de/FW\n  división/FW\n  aérea/FW\n  (NP Gerardo/NNP Zabala/NNP)\n  (VP es/VBZ)\n  el/FW\n  (NP nuevo/JJ comandante/NN)\n  en/FW\n  (NP jefe/NN interino/NN)\n  de/IN\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  ;/:\n  (VP el/VBZ (NP general/JJ José/NNP Wilson/NNP Sánchez/NNP))\n  es/FW\n  (NP jefe/NN)\n  (PP de/IN (NP Estado/NNP Mayor/NNP))\n  ;/:\n  (VP el/VBZ (NP general/JJ Eduardo/NNP Aguilar/NNP))\n  (VP es/VBD el/RB (NP comandante/JJ general/JJ del/NN Ejército/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Se/NNP da/NN el/NN presente/NN cambio/NN)\n  del/FW\n  (NP Mando/NNP Militar/NNP)\n  (VP\n    al/VBP\n    (NP\n      cual/JJ\n      encomiendo/NN\n      consolidar/NN\n      la/NN\n      confianza/NN\n      entre/NN))\n  nuestras/FW\n  (NP Fuerzas/NNP Armadas/NNP y/NNP)\n  (VP el/VBZ (NP pueblo/JJ boliviano/NN ”/NNP))\n  ,/,\n  (VP expresó/VBZ (NP el/JJ jefe/NN))\n  (PP de/IN (NP Estado/NNP boliviano/NN))\n  en/FW\n  el/FW\n  acto/FW\n  de/FW\n  posesión/FW\n  realizado/FW\n  en/FW\n  la/FW\n  sede/FW\n  presidencial/FW\n  de/FW\n  (NP Bolivia/NNP)\n  ./.)",
+      "(S (NP Luis/NNP Arce/NNP afirmó/NN que/NN las/NN FF.AA/NNP) ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          672,
+          679
+        ],
+        "start": 672,
+        "end": 679
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "corrupción",
+        "position": [
+          853,
+          863
+        ],
+        "start": 853,
+        "end": 863
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1327,
+          1334
+        ],
+        "start": 1327,
+        "end": 1334
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de bolivia",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          17,
+          24
+        ],
+        "start": 17,
+        "end": 24
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado mayor",
+        "position": [
+          450,
+          462
+        ],
+        "start": 450,
+        "end": 462
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          269,
+          276
+        ],
+        "start": 269,
+        "end": 276
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          878,
+          894
+        ],
+        "start": 878,
+        "end": 894
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gerardo Zabala",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Eduardo Aguilar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FF.AA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "José Wilson Sánchez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alto Mando Militar",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado boliviano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado Mayor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mando Militar",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Arce",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Bolivia",
+        "relacion": "POSESIONAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "POSESIONAR",
+        "objeto": "FF.AA"
+      },
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "POSESIONAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "POSESIONAR",
+        "objeto": "FF.AA"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "ES",
+        "objeto": "FF.AA"
+      },
+      {
+        "sujeto": "Mando Militar",
+        "relacion": "DAR_EXPRESAR",
+        "objeto": "Estado boliviano"
+      },
+      {
+        "sujeto": "Mando Militar",
+        "relacion": "DAR_EXPRESAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "CONSOLIDAR_ENCOMENDAR_DAR_EXPRESAR",
+        "objeto": "Estado boliviano"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "CONSOLIDAR_ENCOMENDAR_DAR_EXPRESAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Estado boliviano",
+        "relacion": "EXPRESAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "AFIRMAR",
+        "objeto": "FF.AA"
+      },
+      {
+        "sujeto": "Alto Mando Militar",
+        "relacion": "POSESIONAR_RESALTAR",
+        "objeto": "Arce"
+      },
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "CONTINUAR_VENGAR_VER_DECIR",
+        "objeto": "Bolivia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.296,
+    "pos": 0.007,
+    "neu": 0.993,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

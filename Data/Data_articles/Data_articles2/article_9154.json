@@ -1,0 +1,633 @@
+{
+  "url": "https://www.telesurtv.net/marchas-de-ira-este-viernes-en-condena-a-la-ofensiva-israeli/",
+  "title": "Marchas de ira este viernes en condena a la ofensiva israelí - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Israel",
+    "Maovilización"
+  ],
+  "text": "Este viernes, la Franja de Gaza será protagonista en las protestas masivas convocadas por la Resistencia Palestina, estas manifestaciones condenan la ofensiva militar israelí que azota el norte de la Franja, dejando tras de sí un saldo devastador de víctimas civiles y destrucción.\nHAMAS denunció que la ofensiva israelí, que comenzó en octubre de 2023, ha cobrado la vida de miles de palestinos, ha desplazado a decenas de miles más y ha destruido viviendas, hospitales y refugios, dejando a la población civil en una situación crítica.\nEl grupo aseguró además que Israel busca expulsar por la fuerza a los residentes del norte de la Franja de Gaza, reubicándolos en territorios controlados por Israel.\nSegún cifras de la Organización Mundial de la Salud, la ofensiva ha dejado al menos 42.847 palestinos muertos y más de 100.544 heridos.\nLa situación se ha agravado desde el 5 de octubre de 2024, cuando las fuerzas israelíes intensificaron su invasión terrestre y sus bombardeos en el norte de Gaza, con el objetivo de expulsar a la población local de sus hogares.\nLa comunidad internacional ha condenado la ofensiva israelí, pero no han cesado los ataques genocidas, por lo cual las marchas de este viernes en la Franja de Gaza son un llamado a la acción, exigiendo el fin de la violencia, la protección de la población civil y la justicia para las víctimas.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/marchas-de-ira-este-viernes-en-condena-a-la-ofensiva-israeli/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 434,
+    "message_id": 79151,
+    "date": "2024-10-25T11:55:12+00:00",
+    "text": "teleSUR\nMarchas de ira este viernes en condena a la ofensiva israelí\nhttps://www.telesurtv.net/marchas-de-ira-este-viernes-en-condena-a-la-ofensiva-israeli/",
+    "photo_path": null,
+    "views": 2916,
+    "reactions": {
+      "👍": 53,
+      "😡": 3,
+      "🔥": 1
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "este viernes, la franja de gaza será protagonista en las protestas masivas convocadas por la resistencia palestina, estas manifestaciones condenan la ofensiva militar israelí que azota el norte de la franja, dejando tras de sí un saldo devastador de víctimas civiles y destrucción. hamas denunció que la ofensiva israelí, que comenzó en octubre de 2023, ha cobrado la vida de miles de palestinos, ha desplazado a decenas de miles más y ha destruido viviendas, hospitales y refugios, dejando a la población civil en una situación crítica. el grupo aseguró además que israel busca expulsar por la fuerza a los residentes del norte de la franja de gaza, reubicándolos en territorios controlados por israel. según cifras de la organización mundial de la salud, la ofensiva ha dejado al menos 42.847 palestinos muertos y más de 100.544 heridos. la situación se ha agravado desde el 5 de octubre de 2024, cuando las fuerzas israelíes intensificaron su invasión terrestre y sus bombardeos en el norte de gaza, con el objetivo de expulsar a la población local de sus hogares. la comunidad internacional ha condenado la ofensiva israelí, pero no han cesado los ataques genocidas, por lo cual las marchas de este viernes en la franja de gaza son un llamado a la acción, exigiendo el fin de la violencia, la protección de la población civil y la justicia para las víctimas.",
+    "tokens": [
+      "viernes",
+      ",",
+      "franja",
+      "gaza",
+      "protagonista",
+      "protestas",
+      "masivas",
+      "convocadas",
+      "resistencia",
+      "palestina",
+      ",",
+      "manifestaciones",
+      "condenan",
+      "ofensiva",
+      "militar",
+      "israelí",
+      "azota",
+      "norte",
+      "franja",
+      ",",
+      "dejando",
+      "tras",
+      "saldo",
+      "devastador",
+      "víctimas",
+      "civiles",
+      "destrucción",
+      ".",
+      "hamas",
+      "denunció",
+      "ofensiva",
+      "israelí",
+      ",",
+      "comenzó",
+      "octubre",
+      "2023",
+      ",",
+      "cobrado",
+      "vida",
+      "miles",
+      "palestinos",
+      ",",
+      "desplazado",
+      "decenas",
+      "miles",
+      "destruido",
+      "viviendas",
+      ",",
+      "hospitales",
+      "refugios",
+      ",",
+      "dejando",
+      "población",
+      "civil",
+      "situación",
+      "crítica",
+      ".",
+      "grupo",
+      "aseguró",
+      "además",
+      "israel",
+      "busca",
+      "expulsar",
+      "fuerza",
+      "residentes",
+      "norte",
+      "franja",
+      "gaza",
+      ",",
+      "reubicándolos",
+      "territorios",
+      "controlados",
+      "israel",
+      ".",
+      "según",
+      "cifras",
+      "organización",
+      "mundial",
+      "salud",
+      ",",
+      "ofensiva",
+      "dejado",
+      "menos",
+      "42.847",
+      "palestinos",
+      "muertos",
+      "100.544",
+      "heridos",
+      ".",
+      "situación",
+      "agravado",
+      "5",
+      "octubre",
+      "2024",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "intensificaron",
+      "invasión",
+      "terrestre",
+      "bombardeos",
+      "norte",
+      "gaza",
+      ",",
+      "objetivo",
+      "expulsar",
+      "población",
+      "local",
+      "hogares",
+      ".",
+      "comunidad",
+      "internacional",
+      "condenado",
+      "ofensiva",
+      "israelí",
+      ",",
+      "cesado",
+      "ataques",
+      "genocidas",
+      ",",
+      "marchas",
+      "viernes",
+      "franja",
+      "gaza",
+      "llamado",
+      "acción",
+      ",",
+      "exigiendo",
+      "fin",
+      "violencia",
+      ",",
+      "protección",
+      "población",
+      "civil",
+      "justicia",
+      "víctimas",
+      "."
+    ],
+    "token_count": 137,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 66,
+      "NNS": 18,
+      "VBP": 11,
+      "NNP": 21,
+      "FW": 63,
+      "JJ": 20,
+      "IN": 7,
+      "CD": 4,
+      "RB": 1,
+      "VBZ": 3,
+      "CC": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NN-NNS": 2,
+      "NNS-VBP": 7,
+      "VBP-NNP": 2,
+      "NNP-FW": 7,
+      "FW-NNP": 9,
+      "NNP-NN": 8,
+      "NN-NN": 37,
+      "NN-FW": 13,
+      "FW-FW": 33,
+      "FW-NNS": 5,
+      "VBP-JJ": 7,
+      "JJ-NN": 10,
+      "NN-NNP": 3,
+      "NNP-NNP": 4,
+      "NNP-VBP": 2,
+      "VBP-NNS": 2,
+      "NNS-NNS": 3,
+      "NN-IN": 4,
+      "IN-FW": 5,
+      "FW-JJ": 5,
+      "FW-NN": 7,
+      "FW-CD": 2,
+      "CD-NN": 2,
+      "NNS-IN": 2,
+      "IN-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "JJ-NNS": 2,
+      "JJ-FW": 5,
+      "NN-JJ": 2,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 1,
+      "FW-VBP": 1,
+      "NNS-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "NNS-NNP": 2,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "NN-CC": 1,
+      "CC-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "JJ-JJ": 2,
+      "VBZ-NNS": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 6,
+      "NN-NN-FW": 11,
+      "NN-FW-FW": 7,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NN-NN-NN": 17,
+      "FW-FW-FW": 19,
+      "FW-FW-NNP": 4,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "IN-FW-NNS": 1,
+      "VBP-NNP-NN": 1,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 4,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-NNP-FW": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "FW-FW-JJ": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "FW-NN-FW": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 66,
+        "FW": 63,
+        "NNP": 21,
+        "JJ": 20,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 33,
+        "NN-FW": 13,
+        "JJ-NN": 10,
+        "FW-NNP": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 19,
+        "NN-NN-NN": 17,
+        "NN-NN-FW": 11,
+        "JJ-NN-NN": 9,
+        "NN-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 18,
+      "PP": 2,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0455
+      },
+      {
+        "rule": "NP -> ('israelí', 'NN')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('miles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "S -> NP (',', ',') ('la', 'FW') NP ('de', 'FW') NP ('en', 'FW') ('las', 'FW') NP VP (',', ',') NP VP ('ofensiva', 'FW') NP ('el', 'FW') ('norte', 'FW') ('de', 'FW') ('la', 'FW') NP (',', ',') NP ('de', 'IN') ('sí', 'FW') NP ('de', 'IN') ('víctimas', 'FW') NP ('y', 'RB') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('será', 'NN') ('protagonista', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza será protagonista"
+      },
+      {
+        "label": "NP",
+        "text": "protestas"
+      },
+      {
+        "label": "VP",
+        "text": "masivas convocadas por la Resistencia Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "convocadas por la Resistencia Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "estas manifestaciones"
+      },
+      {
+        "label": "VP",
+        "text": "condenan la"
+      },
+      {
+        "label": "NP",
+        "text": "militar israelí que azota"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "dejando tras"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo devastador"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "VP",
+        "text": "destrucción"
+      },
+      {
+        "label": "NP",
+        "text": "HAMAS denunció que la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN viernes/NNS)\n  ,/,\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP será/NN protagonista/NN)\n  en/FW\n  las/FW\n  (NP protestas/NNS)\n  (VP\n    masivas/VBP\n    (NP convocadas/JJ por/NN la/NN Resistencia/NNP Palestina/NNP))\n  ,/,\n  (NP estas/JJ manifestaciones/NNS)\n  (VP condenan/VBP la/JJ)\n  ofensiva/FW\n  (NP militar/NN israelí/NN que/NN azota/NN)\n  el/FW\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  ,/,\n  (NP dejando/NN tras/NNS)\n  de/IN\n  sí/FW\n  (NP un/JJ saldo/NN devastador/NN)\n  de/IN\n  víctimas/FW\n  (NP civiles/NNS)\n  y/RB\n  (VP destrucción/VBP)\n  ./.)",
+      "(S\n  (NP HAMAS/NNP denunció/NN que/NN la/NN)\n  ofensiva/FW\n  (NP israelí/NN)\n  ,/,\n  (NP que/JJ comenzó/NN)\n  en/FW\n  octubre/FW\n  de/FW\n  2023/CD\n  ,/,\n  ha/FW\n  (NP cobrado/NN)\n  la/FW\n  vida/FW\n  de/FW\n  (NP miles/NNS)\n  (PP de/IN (NP palestinos/NN))\n  ,/,\n  (NP ha/NN)\n  (VP desplazado/VBD (NP a/DT decenas/NN))\n  (PP de/IN (NP miles/NNS))\n  más/RB\n  (VP y/VBP (NP ha/JJ destruido/NN viviendas/NN))\n  ,/,\n  (VP hospitales/VBZ (NP y/JJR refugios/NNS))\n  ,/,\n  (VP dejando/VBZ (NP a/DT la/NN))\n  población/FW\n  (ADJP civil/JJ)\n  en/FW\n  (NP una/JJ situación/NN crítica/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    grupo/NN\n    aseguró/NN\n    además/NN\n    que/NN\n    Israel/NNP\n    busca/NN\n    expulsar/NN\n    por/NN\n    la/NN)\n  (VP fuerza/VBD (NP a/DT los/NN))\n  (VP residentes/VBZ del/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP reubicándolos/NN)\n  en/FW\n  (NP territorios/NNS)\n  (VP controlados/VBP (NP por/JJ Israel/NNP))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  cifras/FW\n  de/FW\n  la/FW\n  (NP Organización/NNP Mundial/NNP de/NNP)\n  la/FW\n  (NP Salud/NNP)\n  ,/,\n  (NP la/NN)\n  ofensiva/FW\n  (NP ha/NN dejado/NN)\n  (VP al/VBD)\n  menos/$\n  42.847/CD\n  (NP palestinos/JJ muertos/NNS)\n  (VP y/VBP (NP más/NN))\n  de/IN\n  100.544/CD\n  (NP heridos/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  situación/FW\n  se/FW\n  (NP ha/NN agravado/NN desde/NN)\n  (VP el/VBD)\n  5/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2024/CD\n  ,/,\n  (VP\n    cuando/VBP\n    (NP\n      las/JJ\n      fuerzas/NN\n      israelíes/NN\n      intensificaron/NN\n      su/NN\n      invasión/NN\n      terrestre/NN\n      y/NN\n      sus/NN\n      bombardeos/NN))\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  expulsar/FW\n  a/DT\n  la/FW\n  población/FW\n  (ADJP local/JJ)\n  de/FW\n  (NP sus/NN hogares/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protestas masivas convocadas por la resistencia palestina",
+        "position": [
+          57,
+          114
+        ],
+        "start": 57,
+        "end": 114
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva militar",
+        "position": [
+          150,
+          166
+        ],
+        "start": 150,
+        "end": 166
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "víctimas civiles",
+        "position": [
+          250,
+          266
+        ],
+        "start": 250,
+        "end": 266
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que la ofensiva israelí, que comenzó en octubre de 2023, ha cobrado la vida de miles de palestinos, ha desplazado a",
+        "position": [
+          288,
+          412
+        ],
+        "start": 288,
+        "end": 412
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          288,
+          296
+        ],
+        "start": 288,
+        "end": 296
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          105,
+          114
+        ],
+        "start": 105,
+        "end": 114
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "5 de octubre de 2024",
+        "position": [
+          877,
+          897
+        ],
+        "start": 877,
+        "end": 897
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100.544",
+        "position": [
+          816,
+          830
+        ],
+        "start": 816,
+        "end": 830
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Resistencia Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "HAMAS",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "BUSCAR_ASEGURAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "EXPULSAR_BUSCAR_ASEGURAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8807,
+    "pos": 0.064,
+    "neu": 0.926,
+    "neg": 0.01,
+    "label": "positive"
+  }
+}

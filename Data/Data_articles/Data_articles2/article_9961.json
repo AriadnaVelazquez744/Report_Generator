@@ -1,0 +1,702 @@
+{
+  "url": "https://www.telesurtv.net/bombardeo-israeli-deja-al-menos-18-muertos-en-un-campo-de-refugiados-en-cisjordania/",
+  "title": "Bombardeo israelí deja al menos 18 muertos en un campo de refugiados en Cisjordania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Bombardeo Israelí",
+    "Cisjordania"
+  ],
+  "text": "El bombardeo israelí al campo de refugiados de Tulkarem en el norte del territorio palestino de Cisjordania dejó el jueves al menos 18 muertos y varios heridos.\n“Dieciocho mártires luego de un bombardeo del campamento de Tulkarem por la ocupación”, informo el Ministerio palestino de Salud en su cuenta Telegram, aumentando el balance anterior de 16 víctimas.\nEn cuanto al número de heridos en el ataque israelí, la cartera de Salud palestina la cifró en 20.\nMedios palestinos indicaron que un misil israelí impactó contra una cafetería situada en el campamento de refugiados en el norte de Cisjordania.\nEl ejército israelí confirmó en un comunicado que el ataque a la ciudad de Tulkarem fue una operación conjunta llevada a cabo por el servicio de seguridad interna Shin Bet y su fuerza aérea.\nLa agresión israelí es un punto culminante de la escalada de los ataques israelíes en Cisjordania. Esta es la primera vez que el campamento de refugiados de Tulkarem ha sido bombardeado con un misil desde el año 2.000.\nPor su parte el movimiento de resistencia palestina, Hamas tachó el ataque de una “peligrosa escalada en la continua agresión contra Cisjordania y una prueba de su brutalidad”.\nIsrael ha incrementado sus ataques al territorio de Cisjordania desde el 7 de octubre de 2023, dejando al menos 630 palestinos asesinados.\nEn la Franja de Gaza, alrededor de 100 personas murieron y casi 170 resultaron heridas el jueves por ataques israelíes, según el Ministerio de Salud gazatí.\nEl balance acumulado de los civiles muertos por los ataques israelíes desde octubre pasado ha aumentado a cerca de 41.800.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bombardeo-israeli-deja-al-menos-18-muertos-en-un-campo-de-refugiados-en-cisjordania/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1740,
+    "message_id": 77756,
+    "date": "2024-10-04T04:55:07+00:00",
+    "text": "teleSUR\nBombardeo israelí deja al menos 18 muertos en un campo de refugiados en Cisjordania\nhttps://www.telesurtv.net/bombardeo-israeli-deja-al-menos-18-muertos-en-un-campo-de-refugiados-en-cisjordania/",
+    "photo_path": null,
+    "views": 2791,
+    "reactions": {
+      "🤬": 47,
+      "😢": 4,
+      "👎": 2,
+      "👍": 1
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "el bombardeo israelí al campo de refugiados de tulkarem en el norte del territorio palestino de cisjordania dejó el jueves al menos 18 muertos y varios heridos. “dieciocho mártires luego de un bombardeo del campamento de tulkarem por la ocupación”, informo el ministerio palestino de salud en su cuenta telegram, aumentando el balance anterior de 16 víctimas. en cuanto al número de heridos en el ataque israelí, la cartera de salud palestina la cifró en 20. medios palestinos indicaron que un misil israelí impactó contra una cafetería situada en el campamento de refugiados en el norte de cisjordania. el ejército israelí confirmó en un comunicado que el ataque a la ciudad de tulkarem fue una operación conjunta llevada a cabo por el servicio de seguridad interna shin bet y su fuerza aérea. la agresión israelí es un punto culminante de la escalada de los ataques israelíes en cisjordania. esta es la primera vez que el campamento de refugiados de tulkarem ha sido bombardeado con un misil desde el año 2.000. por su parte el movimiento de resistencia palestina, hamas tachó el ataque de una “peligrosa escalada en la continua agresión contra cisjordania y una prueba de su brutalidad”. israel ha incrementado sus ataques al territorio de cisjordania desde el 7 de octubre de 2023, dejando al menos 630 palestinos asesinados. en la franja de gaza, alrededor de 100 personas murieron y casi 170 resultaron heridas el jueves por ataques israelíes, según el ministerio de salud gazatí. el balance acumulado de los civiles muertos por los ataques israelíes desde octubre pasado ha aumentado a cerca de 41.800.",
+    "tokens": [
+      "bombardeo",
+      "israelí",
+      "campo",
+      "refugiados",
+      "tulkarem",
+      "norte",
+      "territorio",
+      "palestino",
+      "cisjordania",
+      "dejó",
+      "jueves",
+      "menos",
+      "18",
+      "muertos",
+      "varios",
+      "heridos",
+      ".",
+      "“",
+      "dieciocho",
+      "mártires",
+      "luego",
+      "bombardeo",
+      "campamento",
+      "tulkarem",
+      "ocupación",
+      "”",
+      ",",
+      "informo",
+      "ministerio",
+      "palestino",
+      "salud",
+      "cuenta",
+      "telegram",
+      ",",
+      "aumentando",
+      "balance",
+      "anterior",
+      "16",
+      "víctimas",
+      ".",
+      "cuanto",
+      "número",
+      "heridos",
+      "ataque",
+      "israelí",
+      ",",
+      "cartera",
+      "salud",
+      "palestina",
+      "cifró",
+      "20.",
+      "medios",
+      "palestinos",
+      "indicaron",
+      "misil",
+      "israelí",
+      "impactó",
+      "cafetería",
+      "situada",
+      "campamento",
+      "refugiados",
+      "norte",
+      "cisjordania",
+      ".",
+      "ejército",
+      "israelí",
+      "confirmó",
+      "comunicado",
+      "ataque",
+      "ciudad",
+      "tulkarem",
+      "operación",
+      "conjunta",
+      "llevada",
+      "cabo",
+      "servicio",
+      "seguridad",
+      "interna",
+      "shin",
+      "bet",
+      "fuerza",
+      "aérea",
+      ".",
+      "agresión",
+      "israelí",
+      "punto",
+      "culminante",
+      "escalada",
+      "ataques",
+      "israelíes",
+      "cisjordania",
+      ".",
+      "primera",
+      "vez",
+      "campamento",
+      "refugiados",
+      "tulkarem",
+      "sido",
+      "bombardeado",
+      "misil",
+      "año",
+      "2.000.",
+      "parte",
+      "movimiento",
+      "resistencia",
+      "palestina",
+      ",",
+      "hamas",
+      "tachó",
+      "ataque",
+      "“",
+      "peligrosa",
+      "escalada",
+      "continua",
+      "agresión",
+      "cisjordania",
+      "prueba",
+      "brutalidad",
+      "”",
+      ".",
+      "israel",
+      "incrementado",
+      "ataques",
+      "territorio",
+      "cisjordania",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "dejando",
+      "menos",
+      "630",
+      "palestinos",
+      "asesinados",
+      ".",
+      "franja",
+      "gaza",
+      ",",
+      "alrededor",
+      "100",
+      "personas",
+      "murieron",
+      "casi",
+      "170",
+      "resultaron",
+      "heridas",
+      "jueves",
+      "ataques",
+      "israelíes",
+      ",",
+      "según",
+      "ministerio",
+      "salud",
+      "gazatí",
+      ".",
+      "balance",
+      "acumulado",
+      "civiles",
+      "muertos",
+      "ataques",
+      "israelíes",
+      "octubre",
+      "pasado",
+      "aumentado",
+      "cerca",
+      "41.800",
+      "."
+    ],
+    "token_count": 167,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "NN": 84,
+      "JJ": 21,
+      "IN": 17,
+      "FW": 62,
+      "NNS": 11,
+      "VBP": 10,
+      "$": 2,
+      "CD": 9,
+      "VBD": 4,
+      "RB": 2,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 16,
+      "NN-NN": 40,
+      "NN-JJ": 6,
+      "JJ-NN": 15,
+      "NN-IN": 16,
+      "IN-FW": 8,
+      "FW-FW": 36,
+      "FW-NNP": 13,
+      "NNP-FW": 5,
+      "FW-NN": 10,
+      "IN-NNP": 4,
+      "NN-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-$": 1,
+      "$-CD": 2,
+      "CD-NN": 3,
+      "VBP-NNP": 1,
+      "NNP-NNS": 2,
+      "NNS-FW": 1,
+      "NN-FW": 10,
+      "NN-NNP": 5,
+      "IN-CD": 3,
+      "CD-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-NNP": 5,
+      "NNP-VBD": 2,
+      "VBD-RB": 1,
+      "RB-CD": 2,
+      "CD-NNP": 2,
+      "VBP-JJ": 4,
+      "JJ-JJ": 3,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "IN-JJ": 2,
+      "VBD-JJ": 2,
+      "JJ-NNP": 1,
+      "FW-NNS": 2,
+      "VBP-IN": 1,
+      "VBZ-FW": 1,
+      "NN-VBP": 2,
+      "VBP-RB": 1,
+      "NNP-JJ": 1,
+      "NN-VBZ": 1,
+      "FW-CD": 1,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "CD-JJ": 1,
+      "NNS-VBD": 1,
+      "JJ-CD": 1,
+      "VBP-NNS": 2,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 12,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 6,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 23,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-IN": 9,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-NN": 4,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 6,
+      "NN-NN-FW": 5,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-NN": 15,
+      "NN-IN-CD": 3,
+      "IN-CD-NNS": 2,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-NNP": 2,
+      "CD-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-JJ-JJ": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-FW-FW": 4,
+      "NNP-NN-JJ": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "CD-NNP-NN": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-NN-IN": 1,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "FW": 62,
+        "NNP": 33,
+        "JJ": 21,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 40,
+        "FW-FW": 36,
+        "NNP-NN": 16,
+        "NN-IN": 16,
+        "JJ-NN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 15,
+        "NNP-NN-NN": 12,
+        "NN-NN-IN": 9,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 72,
+      "PP": 6,
+      "VP": 20,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0364
+      },
+      {
+        "rule": "NP -> ('campamento', 'NN')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('Cisjordania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('refugiados', 'FW') ('de', 'FW') NP ('en', 'FW') ('el', 'FW') ('norte', 'FW') ('del', 'FW') NP PP VP ('menos', '$') ('18', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('bombardeo', 'NN') ('israelí', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('campo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Tulkarem', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El bombardeo israelí"
+      },
+      {
+        "label": "NP",
+        "text": "al campo"
+      },
+      {
+        "label": "NP",
+        "text": "Tulkarem"
+      },
+      {
+        "label": "NP",
+        "text": "territorio palestino"
+      },
+      {
+        "label": "PP",
+        "text": "de Cisjordania dejó el jueves"
+      },
+      {
+        "label": "NP",
+        "text": "Cisjordania dejó el jueves"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "muertos y varios heridos"
+      },
+      {
+        "label": "NP",
+        "text": "“ Dieciocho mártires"
+      },
+      {
+        "label": "NP",
+        "text": "bombardeo"
+      },
+      {
+        "label": "NP",
+        "text": "campamento"
+      },
+      {
+        "label": "NP",
+        "text": "Tulkarem por la"
+      },
+      {
+        "label": "NP",
+        "text": "”"
+      },
+      {
+        "label": "NP",
+        "text": "informo el Ministerio palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP bombardeo/NN israelí/NN)\n  (NP al/JJ campo/NN)\n  de/IN\n  refugiados/FW\n  de/FW\n  (NP Tulkarem/NNP)\n  en/FW\n  el/FW\n  norte/FW\n  del/FW\n  (NP territorio/NN palestino/NN)\n  (PP de/IN (NP Cisjordania/NNP dejó/NN el/NN jueves/NNS))\n  (VP al/VBP)\n  menos/$\n  18/CD\n  (NP muertos/NN y/NN varios/NNS heridos/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Dieciocho/NNP mártires/NNS)\n  luego/FW\n  de/FW\n  un/FW\n  (NP bombardeo/NN)\n  del/FW\n  (NP campamento/NN)\n  de/FW\n  (NP Tulkarem/NNP por/NN la/NN)\n  ocupación/FW\n  (NP ”/NN)\n  ,/,\n  (NP informo/JJ el/NN Ministerio/NNP palestino/NN)\n  de/FW\n  (NP Salud/NNP)\n  en/FW\n  (NP su/NN cuenta/NN Telegram/NNP)\n  ,/,\n  (ADJP aumentando/JJ)\n  el/FW\n  (NP balance/NN anterior/NN)\n  de/IN\n  16/CD\n  (NP víctimas/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP cuanto/NN al/NN número/NN)\n  de/IN\n  heridos/FW\n  en/FW\n  el/FW\n  (NP ataque/NN israelí/NN)\n  ,/,\n  la/FW\n  cartera/FW\n  de/FW\n  (NP Salud/NNP)\n  palestina/CC\n  (NP la/NNP)\n  (VP cifró/VBP en/RB)\n  20/CD\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    palestinos/VBP\n    (NP indicaron/NN que/NN)\n    (NP un/JJ misil/NN israelí/NN impactó/NN)\n    (NP contra/JJ una/JJ cafetería/NN situada/NN))\n  en/IN\n  el/FW\n  campamento/FW\n  de/FW\n  refugiados/FW\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  (NP Cisjordania/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  ejército/CC\n  (NP israelí/JJ confirmó/NN)\n  (PP en/IN (NP un/JJ comunicado/NN que/NN el/NN))\n  (VP ataque/VBZ (NP a/DT la/NN ciudad/NN))\n  (PP de/IN (NP Tulkarem/NNP fue/NN))\n  (NP una/JJ operación/NN conjunta/NN)\n  (VP llevada/VBZ (NP a/DT cabo/NN por/NN))\n  el/FW\n  servicio/FW\n  de/FW\n  seguridad/FW\n  interna/FW\n  (NP Shin/NNP Bet/NNP y/NNP)\n  (VP su/VBD (NP fuerza/JJ aérea/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "misil israelí impactó",
+        "position": [
+          494,
+          515
+        ],
+        "start": 494,
+        "end": 515
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          860,
+          877
+        ],
+        "start": 860,
+        "end": 877
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "impactó",
+        "position": [
+          508,
+          515
+        ],
+        "start": 508,
+        "end": 515
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          237,
+          246
+        ],
+        "start": 237,
+        "end": 246
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          13,
+          20
+        ],
+        "start": 13,
+        "end": 20
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1264,
+          1284
+        ],
+        "start": 1264,
+        "end": 1284
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "100 personas",
+        "position": [
+          1365,
+          1377
+        ],
+        "start": 1365,
+        "end": 1377
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 100",
+        "position": [
+          1352,
+          1368
+        ],
+        "start": 1352,
+        "end": 1368
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 41.800",
+        "position": [
+          1593,
+          1608
+        ],
+        "start": 1593,
+        "end": 1608
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Salud palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio palestino de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tulkarem",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shin Bet",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio palestino de Salud",
+        "relacion": "LUEGO_INFORMO",
+        "objeto": "Tulkarem"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "TACHAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INCREMENTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "MORIR",
+        "objeto": "Ministerio de Salud"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7351,
+    "pos": 0.027,
+    "neu": 0.973,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

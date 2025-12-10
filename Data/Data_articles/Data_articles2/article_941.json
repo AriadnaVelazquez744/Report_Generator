@@ -1,0 +1,727 @@
+{
+  "url": "https://www.telesurtv.net/celac-tiene-desafio-historico-de-reinventarse/",
+  "title": "CELAC tiene desafío histórico de reinventarse como bloque regional ante ofensiva imperial - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "bloqueo",
+    "Celac",
+    "cooperación",
+    "Desafíos globales",
+    "Independencia",
+    "neocolonialismo",
+    "paz",
+    "unidad",
+    "Venezuela"
+  ],
+  "text": "El Presidente de la República Bolivariana de Venezuela, Nicolás Maduro Moros, señaló este miércoles que la CELAC enfrenta el desafío histórico de reinventarse como bloque regional ante la ofensiva imperial, mediante una clara postura de defensa de la soberanía y autodeterminación de los pueblos.\n\nEn este mismo mensaje, comentó que desde su creación en 2011, el organismo ha demostrado ser un espacio vital para la unidad latinoamericana frente a las agresiones externas.\n\nAdicionalmente, el mandatario venezolano enfatizó que ante las medidas coercitivas contra Cuba, Nicaragua y Venezuela, se debe ofrecer una respuesta colectiva que fortalezca la integración económica y política de la región.\n\n\nLa propuesta del Presidente Maduro, incluye la creación de una Secretaría General permanente y reuniones ministeriales más frecuentes para coordinar acciones concretas.\n\n\nAsimismo, el mandatario venezolano, denunció la guerra económica que afecta al Sur Global, donde se imponen bloqueos unilaterales y leyes migratorias violatorias de los derechos humanos. Ante esto, plantea también que la CELAC debe alzar una voz común en defensa de los pueblos vulnerables.\n\n\nEn este contexto, el Presidente Nicolás Maduro, aseveró que, con Colombia asumiendo la presidencia pro tempore, surge la oportunidad de impulsar agendas innovadoras que prioricen la cooperación en energía, comercio justo y protección migratoria. “Nuestra independencia se construye con unidad”, remarcó Maduro, llamando a rechazar cualquier forma de neocolonialismo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/celac-tiene-desafio-historico-de-reinventarse/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1398,
+    "message_id": 91504,
+    "date": "2025-04-10T01:55:12+00:00",
+    "text": "teleSUR\nCELAC tiene desafío histórico de reinventarse como bloque regional ante ofensiva imperial\nhttps://www.telesurtv.net/celac-tiene-desafio-historico-de-reinventarse/",
+    "photo_path": null,
+    "views": 1866,
+    "reactions": {
+      "👍": 48,
+      "❤": 13,
+      "🤝": 3,
+      "👏": 1
+    },
+    "total_reactions": 65
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de la república bolivariana de venezuela, nicolás maduro moros, señaló este miércoles que la celac enfrenta el desafío histórico de reinventarse como bloque regional ante la ofensiva imperial, mediante una clara postura de defensa de la soberanía y autodeterminación de los pueblos. en este mismo mensaje, comentó que desde su creación en 2011, el organismo ha demostrado ser un espacio vital para la unidad latinoamericana frente a las agresiones externas. adicionalmente, el mandatario venezolano enfatizó que ante las medidas coercitivas contra cuba, nicaragua y venezuela, se debe ofrecer una respuesta colectiva que fortalezca la integración económica y política de la región. la propuesta del presidente maduro, incluye la creación de una secretaría general permanente y reuniones ministeriales más frecuentes para coordinar acciones concretas. asimismo, el mandatario venezolano, denunció la guerra económica que afecta al sur global, donde se imponen bloqueos unilaterales y leyes migratorias violatorias de los derechos humanos. ante esto, plantea también que la celac debe alzar una voz común en defensa de los pueblos vulnerables. en este contexto, el presidente nicolás maduro, aseveró que, con colombia asumiendo la presidencia pro tempore, surge la oportunidad de impulsar agendas innovadoras que prioricen la cooperación en energía, comercio justo y protección migratoria. “nuestra independencia se construye con unidad”, remarcó maduro, llamando a rechazar cualquier forma de neocolonialismo.",
+    "tokens": [
+      "presidente",
+      "república",
+      "bolivariana",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      "moros",
+      ",",
+      "señaló",
+      "miércoles",
+      "celac",
+      "enfrenta",
+      "desafío",
+      "histórico",
+      "reinventarse",
+      "bloque",
+      "regional",
+      "ofensiva",
+      "imperial",
+      ",",
+      "mediante",
+      "clara",
+      "postura",
+      "defensa",
+      "soberanía",
+      "autodeterminación",
+      "pueblos",
+      ".",
+      "mismo",
+      "mensaje",
+      ",",
+      "comentó",
+      "creación",
+      "2011",
+      ",",
+      "organismo",
+      "demostrado",
+      "ser",
+      "espacio",
+      "vital",
+      "unidad",
+      "latinoamericana",
+      "frente",
+      "agresiones",
+      "externas",
+      ".",
+      "adicionalmente",
+      ",",
+      "mandatario",
+      "venezolano",
+      "enfatizó",
+      "medidas",
+      "coercitivas",
+      "cuba",
+      ",",
+      "nicaragua",
+      "venezuela",
+      ",",
+      "debe",
+      "ofrecer",
+      "respuesta",
+      "colectiva",
+      "fortalezca",
+      "integración",
+      "económica",
+      "política",
+      "región",
+      ".",
+      "propuesta",
+      "presidente",
+      "maduro",
+      ",",
+      "incluye",
+      "creación",
+      "secretaría",
+      "general",
+      "permanente",
+      "reuniones",
+      "ministeriales",
+      "frecuentes",
+      "coordinar",
+      "acciones",
+      "concretas",
+      ".",
+      "asimismo",
+      ",",
+      "mandatario",
+      "venezolano",
+      ",",
+      "denunció",
+      "guerra",
+      "económica",
+      "afecta",
+      "sur",
+      "global",
+      ",",
+      "imponen",
+      "bloqueos",
+      "unilaterales",
+      "leyes",
+      "migratorias",
+      "violatorias",
+      "derechos",
+      "humanos",
+      ".",
+      ",",
+      "plantea",
+      "celac",
+      "debe",
+      "alzar",
+      "voz",
+      "común",
+      "defensa",
+      "pueblos",
+      "vulnerables",
+      ".",
+      "contexto",
+      ",",
+      "presidente",
+      "nicolás",
+      "maduro",
+      ",",
+      "aseveró",
+      ",",
+      "colombia",
+      "asumiendo",
+      "presidencia",
+      "pro",
+      "tempore",
+      ",",
+      "surge",
+      "oportunidad",
+      "impulsar",
+      "agendas",
+      "innovadoras",
+      "prioricen",
+      "cooperación",
+      "energía",
+      ",",
+      "comercio",
+      "justo",
+      "protección",
+      "migratoria",
+      ".",
+      "“",
+      "independencia",
+      "construye",
+      "unidad",
+      "”",
+      ",",
+      "remarcó",
+      "maduro",
+      ",",
+      "llamando",
+      "rechazar",
+      "cualquier",
+      "forma",
+      "neocolonialismo",
+      "."
+    ],
+    "token_count": 160,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "FW": 37,
+      "VBD": 1,
+      "NN": 92,
+      "NNS": 12,
+      "VBP": 9,
+      "JJ": 19,
+      "IN": 7,
+      "CD": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 12,
+      "NNP-FW": 5,
+      "FW-FW": 18,
+      "FW-NNP": 6,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "NN-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-JJ": 5,
+      "JJ-NNP": 3,
+      "NNP-NN": 10,
+      "NN-NN": 63,
+      "NN-IN": 7,
+      "IN-FW": 5,
+      "FW-NN": 6,
+      "NN-JJ": 7,
+      "JJ-NN": 9,
+      "NN-FW": 6,
+      "FW-JJ": 4,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "JJ-JJ": 2,
+      "FW-NNS": 2,
+      "VBP-NNP": 1,
+      "IN-JJ": 1,
+      "NNS-NNS": 2,
+      "VBP-NNS": 1,
+      "JJ-NNS": 3,
+      "NNS-NNP": 3,
+      "NNP-VBP": 2,
+      "VBP-NN": 2,
+      "NN-NNP": 5,
+      "JJ-FW": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 40,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 5,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 11,
+      "FW-NNP-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-NN-NNS": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NN-FW-FW": 2,
+      "FW-NNP-FW": 1,
+      "NNP-NNP-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-NNP": 2,
+      "NN-FW-NNP": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NNP-NN": 2,
+      "JJ-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 37,
+        "NNP": 31,
+        "JJ": 19,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 63,
+        "FW-FW": 18,
+        "NNP-NNP": 12,
+        "NNP-NN": 10,
+        "JJ-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 40,
+        "FW-FW-FW": 11,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 7,
+        "NN-NN-IN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 12,
+      "ADJP": 2,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.026
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'IN') ('reinventarse', 'FW') NP NP ('ofensiva', 'FW') ADJP (',', ',') NP ('de', 'IN') ('defensa', 'FW') ('de', 'FW') ('la', 'FW') ('soberanía', 'FW') ('y', 'FW') ('autodeterminación', 'FW') ('de', 'FW') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Presidente', 'NNP')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Bolivariana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP') ('Moros', 'NNP')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('señaló', 'JJ') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('la', 'JJ') ('CELAC', 'NNP') ('enfrenta', 'NN') ('el', 'NN') ('desafío', 'NN') ('histórico', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('como', 'NN') ('bloque', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Presidente"
+      },
+      {
+        "label": "NP",
+        "text": "República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro Moros"
+      },
+      {
+        "label": "NP",
+        "text": "señaló este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que la CELAC enfrenta el desafío histórico"
+      },
+      {
+        "label": "NP",
+        "text": "la CELAC enfrenta el desafío histórico"
+      },
+      {
+        "label": "NP",
+        "text": "como bloque"
+      },
+      {
+        "label": "NP",
+        "text": "regional ante la"
+      },
+      {
+        "label": "ADJP",
+        "text": "imperial"
+      },
+      {
+        "label": "NP",
+        "text": "mediante una clara postura"
+      },
+      {
+        "label": "NP",
+        "text": "pueblos"
+      },
+      {
+        "label": "NP",
+        "text": "En este mismo mensaje"
+      },
+      {
+        "label": "NP",
+        "text": "comentó que desde su creación"
+      },
+      {
+        "label": "NP",
+        "text": "ha demostrado ser"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Presidente/NNP)\n  de/FW\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP Moros/NNP)\n  ,/,\n  (NP señaló/JJ este/NN miércoles/NNS)\n  (VP\n    que/VBP\n    (NP la/JJ CELAC/NNP enfrenta/NN el/NN desafío/NN histórico/NN))\n  de/IN\n  reinventarse/FW\n  (NP como/NN bloque/NN)\n  (NP regional/JJ ante/NN la/NN)\n  ofensiva/FW\n  (ADJP imperial/JJ)\n  ,/,\n  (NP mediante/JJ una/JJ clara/NN postura/NN)\n  de/IN\n  defensa/FW\n  de/FW\n  la/FW\n  soberanía/FW\n  y/FW\n  autodeterminación/FW\n  de/FW\n  los/FW\n  (NP pueblos/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN mismo/NN mensaje/NN)\n  ,/,\n  (NP comentó/NN que/NN desde/NN su/NN creación/NN)\n  en/IN\n  2011/CD\n  ,/,\n  el/FW\n  organismo/FW\n  (NP ha/NN demostrado/NN ser/NN)\n  (NP un/JJ espacio/JJ vital/NN para/NN la/NN)\n  (NP unidad/JJ latinoamericana/NN)\n  (VP frente/VBD (NP a/DT las/JJ agresiones/NNS externas/NNS))\n  ./.)",
+      "(S\n  (NP Adicionalmente/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP\n      mandatario/NN\n      venezolano/NN\n      enfatizó/NN\n      que/NN\n      ante/NN\n      las/NNS))\n  (VP medidas/VBP (NP coercitivas/JJ contra/JJ Cuba/NNP))\n  ,/,\n  (NP Nicaragua/NNP y/NNP Venezuela/NNP)\n  ,/,\n  (VP\n    se/VBD\n    (NP debe/JJ ofrecer/NN)\n    (NP\n      una/JJ\n      respuesta/NN\n      colectiva/NN\n      que/NN\n      fortalezca/NN\n      la/NN\n      integración/NN\n      económica/NN\n      y/NN\n      política/NN))\n  de/IN\n  la/FW\n  (NP región/NN)\n  ./.)",
+      "(S\n  (NP La/NNP propuesta/NN del/NN Presidente/NNP Maduro/NNP)\n  ,/,\n  (NP incluye/NN)\n  la/FW\n  creación/FW\n  de/FW\n  una/FW\n  (NP\n    Secretaría/NNP\n    General/NNP\n    permanente/NN\n    y/NN\n    reuniones/NNS\n    ministeriales/NNS)\n  (VP más/VBP (NP frecuentes/NNS))\n  (VP para/VBP (NP coordinar/JJ acciones/NNS concretas/NNS))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP el/VBZ (NP mandatario/NN venezolano/NN))\n  ,/,\n  (NP\n    denunció/NN\n    la/NN\n    guerra/NN\n    económica/NN\n    que/NN\n    afecta/NN\n    al/NN\n    Sur/NNP\n    Global/NNP)\n  ,/,\n  (NP donde/NN se/NN imponen/NN bloqueos/NN unilaterales/NNS)\n  (VP y/VBP (NP leyes/JJ migratorias/NN))\n  violatorias/FW\n  de/FW\n  los/FW\n  (NP derechos/JJ humanos/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "INTEGRACION_LATINOAMERICANA",
+      "PAISES",
+      "JUSTICIA_SOCIAL",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra económica que afecta al sur global, donde se imponen bloqueos unilaterales y leyes migratorias violatorias de los derechos humanos. ante esto, plantea también que la celac debe alzar una voz común en defensa",
+        "position": [
+          919,
+          1133
+        ],
+        "start": 919,
+        "end": 1133
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció la guerra económica que afecta al",
+        "position": [
+          907,
+          949
+        ],
+        "start": 907,
+        "end": 949
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          78,
+          84
+        ],
+        "start": 78,
+        "end": 84
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          237,
+          244
+        ],
+        "start": 237,
+        "end": 244
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          3,
+          19
+        ],
+        "start": 3,
+        "end": 19
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "celac",
+        "position": [
+          107,
+          112
+        ],
+        "start": 107,
+        "end": 112
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          907,
+          915
+        ],
+        "start": 907,
+        "end": 915
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          1361,
+          1368
+        ],
+        "start": 1361,
+        "end": 1368
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          564,
+          568
+        ],
+        "start": 564,
+        "end": 568
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          570,
+          579
+        ],
+        "start": 570,
+        "end": 579
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          45,
+          54
+        ],
+        "start": 45,
+        "end": 54
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "neocolonialismo",
+        "position": [
+          1514,
+          1529
+        ],
+        "start": 1514,
+        "end": 1529
+      },
+      {
+        "category": "INTEGRACION_LATINOAMERICANA",
+        "matched_text": "unidad latinoamericana",
+        "position": [
+          416,
+          438
+        ],
+        "start": 416,
+        "end": 438
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1040,
+          1056
+        ],
+        "start": 1040,
+        "end": 1056
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "CELAC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicolás Maduro Moros",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Secretaría General",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Presidente",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Presidente Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sur Global",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "CELAC",
+        "relacion": "SE_ALAR",
+        "objeto": "Nicolás Maduro Moros"
+      },
+      {
+        "sujeto": "Presidente Maduro",
+        "relacion": "INCLUIR",
+        "objeto": "Secretaría General"
+      },
+      {
+        "sujeto": "Presidente",
+        "relacion": "ASEVERAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "ASEVERAR",
+        "objeto": "Colombia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5574,
+    "pos": 0.022,
+    "neu": 0.978,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

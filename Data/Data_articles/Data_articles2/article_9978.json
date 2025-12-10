@@ -1,0 +1,677 @@
+{
+  "url": "https://www.telesurtv.net/enmudece-cuba-partio-la-trovadora-marta-valdes/",
+  "title": "Enmudece Cuba: Partió la trovadora Marta Valdés - teleSUR",
+  "section": "Cultura",
+  "tags": [
+    "Marta Valdés",
+    "Muere"
+  ],
+  "text": "En horas del medio día de este jueves partió físicamente desde La habana, donde había nacido la trovadora, compositora, poeta y ensayista Marta Valdés.\nLa también guitarrista había nacido en la capital cubana el 6 de julio de 1934. Al momento de partir contaba con 90 años de edad bien llevados en torno a la creación, la guitarra, la música, la solidaridad y la cubanía, su indeclinable amor a la patria cubana.\nUna gran sensación de pesar, tristeza y silencio envolvió a La Habana cuando se conoció la noticia de la partida física de la compositora, trovadora y escritora.\nEntregada a la música desde la más tierna infancia, Marta Valdés comenzó desde muy joven a destacar no solo en la guitarra, pues también la composición atrapó su sensibilidad. Sus pasos en el movimiento del feeling fueron una prueba fehaciente de sus capacidades y compromisos.\nMuchos de sus temas e interpretaciones engalanaron la cinematografía cubana y en 2007 fue proclamada Premio Nacional de Música de Cuba. Valdés fue miembro fundadora de la UNEAC, recibió las distinciones por la Cultura Nacional y Félix Elmuza, la Medalla Raúl Gómez García y las órdenes Alejo Carpentier y Félix Varela de Primer Grado. Le fue otorgada también la Réplica del Machete de Máximo Gómez, del Ministerio de las Fuerzas Armadas Revolucionarias.Marta Valdés también fue columnista, cronista, reflejo escrito de la época en la que le tocó vivir con y para la música y el país. Sus escritos en Cubadebate pasan a ser un tesoro de incalculable valor, como fueron también sus letras en Revolución y La gaceta de Cuba.\npor decisión de su familia los restos de marta Valdés serán cremados en la ciudad de su natalicio y desarrollo: La Habana.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/enmudece-cuba-partio-la-trovadora-marta-valdes/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1763,
+    "message_id": 77733,
+    "date": "2024-10-03T21:55:13+00:00",
+    "text": "teleSUR\nEnmudece Cuba: Partió la trovadora Marta Valdés\nhttps://www.telesurtv.net/enmudece-cuba-partio-la-trovadora-marta-valdes/",
+    "photo_path": null,
+    "views": 2765,
+    "reactions": {
+      "😢": 54,
+      "👍": 4
+    },
+    "total_reactions": 58
+  },
+  "preprocessing": {
+    "cleaned": "en horas del medio día de este jueves partió físicamente desde la habana, donde había nacido la trovadora, compositora, poeta y ensayista marta valdés. la también guitarrista había nacido en la capital cubana el 6 de julio de 1934. al momento de partir contaba con 90 años de edad bien llevados en torno a la creación, la guitarra, la música, la solidaridad y la cubanía, su indeclinable amor a la patria cubana. una gran sensación de pesar, tristeza y silencio envolvió a la habana cuando se conoció la noticia de la partida física de la compositora, trovadora y escritora. entregada a la música desde la más tierna infancia, marta valdés comenzó desde muy joven a destacar no solo en la guitarra, pues también la composición atrapó su sensibilidad. sus pasos en el movimiento del feeling fueron una prueba fehaciente de sus capacidades y compromisos. muchos de sus temas e interpretaciones engalanaron la cinematografía cubana y en 2007 fue proclamada premio nacional de música de cuba. valdés fue miembro fundadora de la uneac, recibió las distinciones por la cultura nacional y félix elmuza, la medalla raúl gómez garcía y las órdenes alejo carpentier y félix varela de primer grado. le fue otorgada también la réplica del machete de máximo gómez, del ministerio de las fuerzas armadas revolucionarias.marta valdés también fue columnista, cronista, reflejo escrito de la época en la que le tocó vivir con y para la música y el país. sus escritos en cubadebate pasan a ser un tesoro de incalculable valor, como fueron también sus letras en revolución y la gaceta de cuba. por decisión de su familia los restos de marta valdés serán cremados en la ciudad de su natalicio y desarrollo: la habana.",
+    "tokens": [
+      "horas",
+      "medio",
+      "día",
+      "jueves",
+      "partió",
+      "físicamente",
+      "habana",
+      ",",
+      "nacido",
+      "trovadora",
+      ",",
+      "compositora",
+      ",",
+      "poeta",
+      "ensayista",
+      "marta",
+      "valdés",
+      ".",
+      "guitarrista",
+      "nacido",
+      "capital",
+      "cubana",
+      "6",
+      "julio",
+      "1934.",
+      "momento",
+      "partir",
+      "contaba",
+      "90",
+      "años",
+      "edad",
+      "bien",
+      "llevados",
+      "torno",
+      "creación",
+      ",",
+      "guitarra",
+      ",",
+      "música",
+      ",",
+      "solidaridad",
+      "cubanía",
+      ",",
+      "indeclinable",
+      "amor",
+      "patria",
+      "cubana",
+      ".",
+      "gran",
+      "sensación",
+      "pesar",
+      ",",
+      "tristeza",
+      "silencio",
+      "envolvió",
+      "habana",
+      "conoció",
+      "noticia",
+      "partida",
+      "física",
+      "compositora",
+      ",",
+      "trovadora",
+      "escritora",
+      ".",
+      "entregada",
+      "música",
+      "tierna",
+      "infancia",
+      ",",
+      "marta",
+      "valdés",
+      "comenzó",
+      "joven",
+      "destacar",
+      "solo",
+      "guitarra",
+      ",",
+      "pues",
+      "composición",
+      "atrapó",
+      "sensibilidad",
+      ".",
+      "pasos",
+      "movimiento",
+      "feeling",
+      "prueba",
+      "fehaciente",
+      "capacidades",
+      "compromisos",
+      ".",
+      "temas",
+      "interpretaciones",
+      "engalanaron",
+      "cinematografía",
+      "cubana",
+      "2007",
+      "proclamada",
+      "premio",
+      "nacional",
+      "música",
+      "cuba",
+      ".",
+      "valdés",
+      "miembro",
+      "fundadora",
+      "uneac",
+      ",",
+      "recibió",
+      "distinciones",
+      "cultura",
+      "nacional",
+      "félix",
+      "elmuza",
+      ",",
+      "medalla",
+      "raúl",
+      "gómez",
+      "garcía",
+      "órdenes",
+      "alejo",
+      "carpentier",
+      "félix",
+      "varela",
+      "primer",
+      "grado",
+      ".",
+      "otorgada",
+      "réplica",
+      "machete",
+      "máximo",
+      "gómez",
+      ",",
+      "ministerio",
+      "fuerzas",
+      "armadas",
+      "revolucionarias.marta",
+      "valdés",
+      "columnista",
+      ",",
+      "cronista",
+      ",",
+      "reflejo",
+      "escrito",
+      "época",
+      "tocó",
+      "vivir",
+      "música",
+      "país",
+      ".",
+      "escritos",
+      "cubadebate",
+      "pasan",
+      "ser",
+      "tesoro",
+      "incalculable",
+      "valor",
+      ",",
+      "letras",
+      "revolución",
+      "gaceta",
+      "cuba",
+      ".",
+      "decisión",
+      "familia",
+      "restos",
+      "marta",
+      "valdés",
+      "cremados",
+      "ciudad",
+      "natalicio",
+      "desarrollo",
+      ":",
+      "habana",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 54,
+      "PRP": 1,
+      "VBP": 6,
+      "JJ": 13,
+      "NN": 78,
+      "IN": 10,
+      "NNS": 6,
+      "VBZ": 4,
+      "FW": 85,
+      "CD": 3,
+      "VBD": 2,
+      "DT": 1,
+      "VBG": 1,
+      "RP": 1
+    },
+    "bigram_freq": {
+      "NNP-PRP": 1,
+      "PRP-VBP": 1,
+      "VBP-JJ": 4,
+      "JJ-NN": 11,
+      "NN-IN": 8,
+      "IN-NN": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 5,
+      "NN-NNP": 8,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NN-NN": 37,
+      "NN-FW": 15,
+      "FW-NN": 14,
+      "NNP-NNP": 26,
+      "NNP-NN": 10,
+      "IN-FW": 5,
+      "FW-FW": 50,
+      "FW-IN": 1,
+      "IN-CD": 2,
+      "CD-NNP": 1,
+      "NNP-FW": 12,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "FW-JJ": 3,
+      "FW-NNP": 14,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 2,
+      "VBZ-FW": 2,
+      "FW-NNS": 2,
+      "FW-VBG": 1,
+      "VBG-NN": 1,
+      "NN-JJ": 2,
+      "VBP-NNP": 1,
+      "VBP-NN": 1,
+      "JJ-NNP": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-RP": 1,
+      "RP-JJ": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-PRP-VBP": 1,
+      "PRP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 16,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 14,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 1,
+      "NN-FW-FW": 10,
+      "FW-FW-FW": 33,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-FW": 5,
+      "FW-FW-NN": 5,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NN-FW": 4,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "IN-FW-JJ": 2,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NN": 3,
+      "NNP-NN-FW": 2,
+      "FW-NNP-NNP": 5,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-FW": 2,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "FW-FW-VBG": 1,
+      "FW-VBG-NN": 1,
+      "VBG-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-FW": 6,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-RP": 1,
+      "VBD-RP-JJ": 1,
+      "RP-JJ-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NN-IN": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "IN-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 85,
+        "NN": 78,
+        "NNP": 54,
+        "JJ": 13,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "FW-FW": 50,
+        "NN-NN": 37,
+        "NNP-NNP": 26,
+        "NN-FW": 15,
+        "FW-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 16,
+        "NNP-NNP-NNP": 14,
+        "NN-FW-FW": 10,
+        "NN-NN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 14,
+      "PP": 4,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP ('horas', 'PRP') VP PP VP (',', ',') NP (',', ',') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('medio', 'JJ') ('día', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('partió', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('físicamente', 'JJ') ('desde', 'NN') ('La', 'NNP') ('habana', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('donde', 'NN') ('había', 'NN') ('nacido', 'NN') ('la', 'NN') ('trovadora', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "VP",
+        "text": "del medio día"
+      },
+      {
+        "label": "NP",
+        "text": "medio día"
+      },
+      {
+        "label": "PP",
+        "text": "de este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "partió físicamente desde La habana"
+      },
+      {
+        "label": "NP",
+        "text": "físicamente desde La habana"
+      },
+      {
+        "label": "NP",
+        "text": "donde había nacido la trovadora"
+      },
+      {
+        "label": "NP",
+        "text": "compositora"
+      },
+      {
+        "label": "NP",
+        "text": "poeta y ensayista Marta Valdés"
+      },
+      {
+        "label": "NP",
+        "text": "La también guitarrista había nacido"
+      },
+      {
+        "label": "NP",
+        "text": "capital cubana"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "Al momento"
+      },
+      {
+        "label": "NP",
+        "text": "contaba con"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  horas/PRP\n  (VP del/VBP (NP medio/JJ día/NN))\n  (PP de/IN (NP este/NN jueves/NNS))\n  (VP partió/VBP (NP físicamente/JJ desde/NN La/NNP habana/NN))\n  ,/,\n  (NP donde/NN había/NN nacido/NN la/NN trovadora/NN)\n  ,/,\n  (NP compositora/NN)\n  ,/,\n  (NP poeta/NN y/NN ensayista/NN Marta/NNP Valdés/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP también/NN guitarrista/NN había/NN nacido/NN)\n  en/IN\n  la/FW\n  (NP capital/NN cubana/NN)\n  (VP el/VBD)\n  6/CD\n  de/FW\n  julio/FW\n  de/IN\n  1934/CD\n  ./.)",
+      "(S\n  (NP Al/NNP momento/NN)\n  de/FW\n  partir/FW\n  (NP contaba/NN con/NN)\n  90/CD\n  (NP años/NN)\n  de/FW\n  edad/FW\n  (NP bien/NN llevados/NN)\n  en/FW\n  torno/FW\n  (NP a/DT la/NN creación/NN)\n  ,/,\n  la/FW\n  guitarra/FW\n  ,/,\n  la/FW\n  música/FW\n  ,/,\n  la/FW\n  solidaridad/FW\n  y/FW\n  la/FW\n  (NP cubanía/NN)\n  ,/,\n  (NP su/NN)\n  (NP indeclinable/JJ amor/NN)\n  (NP a/DT la/NN patria/NN cubana/NN)\n  ./.)",
+      "(S\n  (NP Una/NNP)\n  (VP gran/VBD)\n  sensación/FW\n  de/FW\n  pesar/FW\n  ,/,\n  tristeza/EX\n  y/FW\n  (NP silencio/NN)\n  envolvió/FW\n  (NP a/DT La/NNP Habana/NNP cuando/NN se/NN conoció/NN)\n  la/FW\n  noticia/FW\n  de/FW\n  la/FW\n  partida/FW\n  física/FW\n  de/FW\n  la/FW\n  (NP compositora/NNS)\n  ,/,\n  trovadora/EX\n  (NP y/JJ escritora/NN)\n  ./.)",
+      "(S\n  (NP Entregada/NNP)\n  (NP a/DT la/NN)\n  música/FW\n  (NP desde/NN)\n  la/FW\n  más/FW\n  tierna/FW\n  (NP infancia/NN)\n  ,/,\n  (NP Marta/NNP Valdés/NNP comenzó/NN desde/NN)\n  (VP muy/VBD joven/RB (NP a/DT destacar/NN) (NP no/DT solo/NN))\n  (VP en/VBZ)\n  la/FW\n  (NP guitarra/NN)\n  ,/,\n  (NP pues/NNS)\n  (VP\n    también/VBP\n    (NP la/JJ composición/NN atrapó/NN su/NN sensibilidad/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "CIUDADES_CAPITALES",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          194,
+          201
+        ],
+        "start": 194,
+        "end": 201
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "cultura nacional",
+        "position": [
+          1063,
+          1079
+        ],
+        "start": 1063,
+        "end": 1079
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "música de cuba. valdés fue miembro fundadora de la uneac, recibió las distinciones por la cultura nacional",
+        "position": [
+          973,
+          1079
+        ],
+        "start": 973,
+        "end": 1079
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          983,
+          987
+        ],
+        "start": 983,
+        "end": 987
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la habana",
+        "position": [
+          63,
+          72
+        ],
+        "start": 63,
+        "end": 72
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "6 de julio de 1934",
+        "position": [
+          212,
+          230
+        ],
+        "start": 212,
+        "end": 230
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Cultura Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marta Valdés",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "feeling",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de las Fuerzas Armadas Revolucionarias",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Félix Elmuza",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Máximo Gómez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Réplica del Machete",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alejo Carpentier",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Félix Varela de Primer Grado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Valdés",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "marta Valdés",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cubadebate",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNEAC",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "marta Valdés",
+        "relacion": "CREMAR",
+        "objeto": "La Habana"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5106,
+    "pos": 0.02,
+    "neu": 0.971,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

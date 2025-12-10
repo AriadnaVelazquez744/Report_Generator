@@ -1,0 +1,865 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-seis-fallecidos-deja-tormenta-tropical-oscar-en-cuba/",
+  "title": "Al menos seis fallecidos deja tormenta tropical Oscar en Cuba - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cuba",
+    "Muertos",
+    "Tormenta tropical oscar"
+  ],
+  "text": "El presidente cubano Miguel Díaz-Canel Bermúdez informó este lunes que seis personas perdieron la vida a causa de la tormenta tropical Oscar en la provincia de Guantánamo, al este de la nación caribeña.\n“Emergencia en Imías y San Antonio del Sur. Según los datos preliminares hay 6 fallecidos en terrenos históricamente secos”, informó el mandatario en la red social X.\nAsimismo declaró que las Fuerzas Armadas Revolucionarias (FAR) y el Ministerio del Interior (Minint) dirigen acciones de rescate en esos municipios guantanameros, donde existen zonas a las que no ha sido posible acceder.\n“Toda Cuba en función de Guantánamo” recalcó Díaz-Canel.\nOscar ingresó como huracán categoría 1 a territorio cubano en la noche del domingo por las inmediaciones de la ciudad de Baracoa, provincia de Guantánamo. Ese territorio es el más afectado por dicho evento climatológico, que degradó a tormenta tropical tras 26 horas en movimiento encima de un área montañosa.\nMás temprano, la gobernadora de la provincia, Alis Azahares Torreblanca, detalló que el municipio de Imías está inundado y que los daños más significativos se concentran en los municipios de Baracoa y de Maisí.\nImías y San Antonio del Sur son territorios con registros de lluvias muy bajos. Forman parte de lo que se conoce como el semidesierto cubano, por sus altas temperaturas, suelos pobres y arenosos y los más bajos registros de precipitaciones a nivel nacional.\nAunque Oscar abandonó el territorio de Cuba en la tarde de este lunes, el Instituto de Meteorología informó que aún puede provocar lluvias fuertes, inundaciones repentinas y deslizamientos de tierra que suponen un riesgo para la vida.\nEn el municipio Baracoa se registraron 743 viviendas con afectaciones de techo, y otras 51 en derrumbe parcial, mientras que en Maisí 340 viviendas perdieron totalmente el techo y 667presentan perjuicios parciales. Se reportan daños en instalaciones estatales como almacenes, bodegas, farmacias, escuelas y otras, además de viviendas, vías terrestres y líneas eléctricas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-seis-fallecidos-deja-tormenta-tropical-oscar-en-cuba/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 702,
+    "message_id": 78855,
+    "date": "2024-10-22T01:55:18+00:00",
+    "text": "teleSUR\nAl menos seis fallecidos deja tormenta tropical Oscar en Cuba\nhttps://www.telesurtv.net/al-menos-seis-fallecidos-deja-tormenta-tropical-oscar-en-cuba/",
+    "photo_path": null,
+    "views": 2903,
+    "reactions": {
+      "😢": 58,
+      "👍": 11,
+      "🙏": 4,
+      "🤯": 2,
+      "👏": 1
+    },
+    "total_reactions": 76
+  },
+  "preprocessing": {
+    "cleaned": "el presidente cubano miguel díaz-canel bermúdez informó este lunes que seis personas perdieron la vida a causa de la tormenta tropical oscar en la provincia de guantánamo, al este de la nación caribeña. “emergencia en imías y san antonio del sur. según los datos preliminares hay 6 fallecidos en terrenos históricamente secos”, informó el mandatario en la red social x. asimismo declaró que las fuerzas armadas revolucionarias (far) y el ministerio del interior (minint) dirigen acciones de rescate en esos municipios guantanameros, donde existen zonas a las que no ha sido posible acceder. “toda cuba en función de guantánamo” recalcó díaz-canel. oscar ingresó como huracán categoría 1 a territorio cubano en la noche del domingo por las inmediaciones de la ciudad de baracoa, provincia de guantánamo. ese territorio es el más afectado por dicho evento climatológico, que degradó a tormenta tropical tras 26 horas en movimiento encima de un área montañosa. más temprano, la gobernadora de la provincia, alis azahares torreblanca, detalló que el municipio de imías está inundado y que los daños más significativos se concentran en los municipios de baracoa y de maisí. imías y san antonio del sur son territorios con registros de lluvias muy bajos. forman parte de lo que se conoce como el semidesierto cubano, por sus altas temperaturas, suelos pobres y arenosos y los más bajos registros de precipitaciones a nivel nacional. aunque oscar abandonó el territorio de cuba en la tarde de este lunes, el instituto de meteorología informó que aún puede provocar lluvias fuertes, inundaciones repentinas y deslizamientos de tierra que suponen un riesgo para la vida. en el municipio baracoa se registraron 743 viviendas con afectaciones de techo, y otras 51 en derrumbe parcial, mientras que en maisí 340 viviendas perdieron totalmente el techo y 667presentan perjuicios parciales. se reportan daños en instalaciones estatales como almacenes, bodegas, farmacias, escuelas y otras, además de viviendas, vías terrestres y líneas eléctricas.",
+    "tokens": [
+      "presidente",
+      "cubano",
+      "miguel",
+      "díaz-canel",
+      "bermúdez",
+      "informó",
+      "lunes",
+      "seis",
+      "personas",
+      "perdieron",
+      "vida",
+      "causa",
+      "tormenta",
+      "tropical",
+      "oscar",
+      "provincia",
+      "guantánamo",
+      ",",
+      "nación",
+      "caribeña",
+      ".",
+      "“",
+      "emergencia",
+      "imías",
+      "san",
+      "antonio",
+      "sur",
+      ".",
+      "según",
+      "datos",
+      "preliminares",
+      "6",
+      "fallecidos",
+      "terrenos",
+      "históricamente",
+      "secos",
+      "”",
+      ",",
+      "informó",
+      "mandatario",
+      "red",
+      "social",
+      "x.",
+      "asimismo",
+      "declaró",
+      "fuerzas",
+      "armadas",
+      "revolucionarias",
+      "(",
+      "far",
+      ")",
+      "ministerio",
+      "interior",
+      "(",
+      "minint",
+      ")",
+      "dirigen",
+      "acciones",
+      "rescate",
+      "municipios",
+      "guantanameros",
+      ",",
+      "existen",
+      "zonas",
+      "sido",
+      "posible",
+      "acceder",
+      ".",
+      "“",
+      "toda",
+      "cuba",
+      "función",
+      "guantánamo",
+      "”",
+      "recalcó",
+      "díaz-canel",
+      ".",
+      "oscar",
+      "ingresó",
+      "huracán",
+      "categoría",
+      "1",
+      "territorio",
+      "cubano",
+      "noche",
+      "domingo",
+      "inmediaciones",
+      "ciudad",
+      "baracoa",
+      ",",
+      "provincia",
+      "guantánamo",
+      ".",
+      "territorio",
+      "afectado",
+      "dicho",
+      "evento",
+      "climatológico",
+      ",",
+      "degradó",
+      "tormenta",
+      "tropical",
+      "tras",
+      "26",
+      "horas",
+      "movimiento",
+      "encima",
+      "área",
+      "montañosa",
+      ".",
+      "temprano",
+      ",",
+      "gobernadora",
+      "provincia",
+      ",",
+      "alis",
+      "azahares",
+      "torreblanca",
+      ",",
+      "detalló",
+      "municipio",
+      "imías",
+      "inundado",
+      "daños",
+      "significativos",
+      "concentran",
+      "municipios",
+      "baracoa",
+      "maisí",
+      ".",
+      "imías",
+      "san",
+      "antonio",
+      "sur",
+      "territorios",
+      "registros",
+      "lluvias",
+      "bajos",
+      ".",
+      "forman",
+      "parte",
+      "conoce",
+      "semidesierto",
+      "cubano",
+      ",",
+      "altas",
+      "temperaturas",
+      ",",
+      "suelos",
+      "pobres",
+      "arenosos",
+      "bajos",
+      "registros",
+      "precipitaciones",
+      "nivel",
+      "nacional",
+      ".",
+      "aunque",
+      "oscar",
+      "abandonó",
+      "territorio",
+      "cuba",
+      "tarde",
+      "lunes",
+      ",",
+      "instituto",
+      "meteorología",
+      "informó",
+      "aún",
+      "puede",
+      "provocar",
+      "lluvias",
+      "fuertes",
+      ",",
+      "inundaciones",
+      "repentinas",
+      "deslizamientos",
+      "tierra",
+      "suponen",
+      "riesgo",
+      "vida",
+      ".",
+      "municipio",
+      "baracoa",
+      "registraron",
+      "743",
+      "viviendas",
+      "afectaciones",
+      "techo",
+      ",",
+      "51",
+      "derrumbe",
+      "parcial",
+      ",",
+      "mientras",
+      "maisí",
+      "340",
+      "viviendas",
+      "perdieron",
+      "totalmente",
+      "techo",
+      "667presentan",
+      "perjuicios",
+      "parciales",
+      ".",
+      "reportan",
+      "daños",
+      "instalaciones",
+      "estatales",
+      "almacenes",
+      ",",
+      "bodegas",
+      ",",
+      "farmacias",
+      ",",
+      "escuelas",
+      ",",
+      "además",
+      "viviendas",
+      ",",
+      "vías",
+      "terrestres",
+      "líneas",
+      "eléctricas",
+      "."
+    ],
+    "token_count": 225,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "NN": 82,
+      "NNS": 28,
+      "VBP": 16,
+      "JJ": 27,
+      "FW": 68,
+      "IN": 12,
+      "VBZ": 4,
+      "DT": 1,
+      "VBD": 2,
+      "CD": 5,
+      "RB": 1,
+      "CC": 1,
+      "$": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 46,
+      "NN-NNP": 4,
+      "NNP-NNP": 18,
+      "NN-NNS": 7,
+      "NNS-VBP": 14,
+      "VBP-JJ": 8,
+      "JJ-NNS": 8,
+      "VBP-NN": 3,
+      "NN-FW": 6,
+      "FW-NN": 9,
+      "NN-IN": 9,
+      "IN-FW": 5,
+      "FW-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NNP": 4,
+      "FW-FW": 39,
+      "FW-NNP": 14,
+      "NNP-FW": 11,
+      "NNP-VBZ": 3,
+      "VBZ-NNP": 2,
+      "VBZ-JJ": 1,
+      "JJ-FW": 3,
+      "JJ-NN": 8,
+      "IN-NN": 2,
+      "NN-JJ": 6,
+      "NNS-NNP": 2,
+      "NNS-FW": 2,
+      "FW-NNS": 4,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "IN-NNP": 2,
+      "NNP-VBD": 2,
+      "VBD-NNP": 1,
+      "NNS-IN": 2,
+      "NNS-CD": 2,
+      "CD-NNS": 2,
+      "NNS-RB": 1,
+      "RB-FW": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "IN-JJ": 2,
+      "VBP-FW": 1,
+      "IN-NNS": 1,
+      "NNS-JJ": 1,
+      "VBP-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 4,
+      "VBP-IN": 1,
+      "VBD-$": 1,
+      "$-CD": 2,
+      "CD-JJ": 2,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "NNP-VBP": 1,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 10,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 6,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 3,
+      "JJ-NNP-NN": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NN": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 3,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 24,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 5,
+      "FW-NN-NN": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-FW-FW": 3,
+      "IN-NN-NN": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-CD": 2,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-FW": 1,
+      "RB-FW-FW": 1,
+      "FW-NNP-NN": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NNP-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "NN-FW-NNP": 1,
+      "NN-NNP-VBD": 1,
+      "NNP-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "NNS-CD-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 82,
+        "FW": 68,
+        "NNP": 49,
+        "NNS": 28,
+        "JJ": 27
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "FW-FW": 39,
+        "NNP-NNP": 18,
+        "NNS-VBP": 14,
+        "FW-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 24,
+        "NNP-NN-NN": 10,
+        "NNS-VBP-JJ": 8,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 91,
+      "VP": 15,
+      "ADJP": 1,
+      "PP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0388
+      },
+      {
+        "rule": "NP -> ('Imías', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "NP -> ('Guantánamo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "NP -> ('San', 'NNP') ('Antonio', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "NP -> ('Maisí', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "NP -> ('techo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0155
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente cubano Miguel Díaz-Canel Bermúdez informó este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "que seis personas"
+      },
+      {
+        "label": "NP",
+        "text": "seis personas"
+      },
+      {
+        "label": "VP",
+        "text": "perdieron la"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "NP",
+        "text": "tormenta tropical Oscar en la"
+      },
+      {
+        "label": "NP",
+        "text": "Guantánamo"
+      },
+      {
+        "label": "NP",
+        "text": "al este"
+      },
+      {
+        "label": "NP",
+        "text": "nación caribeña"
+      },
+      {
+        "label": "NP",
+        "text": "“ Emergencia"
+      },
+      {
+        "label": "NP",
+        "text": "Imías"
+      },
+      {
+        "label": "NP",
+        "text": "San Antonio"
+      },
+      {
+        "label": "NP",
+        "text": "Sur"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    presidente/NN\n    cubano/NN\n    Miguel/NNP\n    Díaz-Canel/NNP\n    Bermúdez/NNP\n    informó/NN\n    este/NN\n    lunes/NNS)\n  (VP que/VBP (NP seis/JJ personas/NNS))\n  (VP perdieron/VBP (NP la/NN))\n  vida/FW\n  (NP a/DT causa/NN)\n  de/IN\n  la/FW\n  (NP tormenta/JJ tropical/JJ Oscar/NNP en/NN la/NN)\n  provincia/FW\n  de/FW\n  (NP Guantánamo/NNP)\n  ,/,\n  (NP al/JJ este/NN)\n  de/IN\n  la/FW\n  (NP nación/JJ caribeña/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Emergencia/NNP)\n  en/FW\n  (NP Imías/NNP)\n  y/CC\n  (NP San/NNP Antonio/NNP)\n  del/FW\n  (NP Sur/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP los/VBZ (NP datos/JJ preliminares/NNS))\n  (VP hay/VBP)\n  6/CD\n  (ADJP fallecidos/JJ)\n  en/FW\n  terrenos/FW\n  (NP históricamente/NN secos/NN ”/NNP)\n  ,/,\n  (NP informó/NN el/NN mandatario/NN)\n  (PP en/IN (NP la/NN))\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP\n    Asimismo/NNP\n    declaró/NN\n    que/NN\n    las/NNS\n    Fuerzas/NNP\n    Armadas/NNP\n    Revolucionarias/NNP)\n  (/(\n  (NP FAR/NNP)\n  )/)\n  (VP y/VBP (NP el/JJ Ministerio/NNP))\n  del/FW\n  (NP Interior/NNP)\n  (/(\n  (NP Minint/NNP)\n  )/)\n  (NP dirigen/NN acciones/NNS)\n  de/FW\n  rescate/FW\n  en/FW\n  esos/FW\n  (NP municipios/NNS guantanameros/NNS)\n  ,/,\n  (NP donde/NN)\n  existen/RB\n  (VP\n    zonas/VBZ\n    (NP a/DT las/JJ que/NN)\n    (NP no/DT ha/NN sido/NN)\n    (NP posible/JJ acceder/NN))\n  ./.)",
+      "(S\n  (NP “/NN Toda/NNP Cuba/NNP)\n  en/FW\n  (NP función/NN)\n  (PP de/IN (NP Guantánamo/NNP ”/NNP))\n  (VP recalcó/VBD (NP Díaz-Canel/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ingresó",
+        "position": [
+          654,
+          661
+        ],
+        "start": 654,
+        "end": 661
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamientos de tierra",
+        "position": [
+          1601,
+          1625
+        ],
+        "start": 1601,
+        "end": 1625
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          379,
+          386
+        ],
+        "start": 379,
+        "end": 386
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          48,
+          55
+        ],
+        "start": 48,
+        "end": 55
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente cubano miguel",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto de meteorología",
+        "position": [
+          1501,
+          1526
+        ],
+        "start": 1501,
+        "end": 1526
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          597,
+          601
+        ],
+        "start": 597,
+        "end": 601
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          147,
+          159
+        ],
+        "start": 147,
+        "end": 159
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la noche",
+        "position": [
+          707,
+          718
+        ],
+        "start": 707,
+        "end": 718
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Miguel Díaz-Canel Bermúdez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Maisí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "San Antonio del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oscar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guantánamo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Díaz-Canel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Baracoa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Instituto de Meteorología",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alis Azahares Torreblanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Minint",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Armadas Revolucionarias",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Imías",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FAR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Toda Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "municipio Baracoa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio del Interior",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Miguel Díaz-Canel Bermúdez",
+        "relacion": "INFORMAR",
+        "objeto": "Guantánamo"
+      },
+      {
+        "sujeto": "Toda Cuba",
+        "relacion": "RECALCAR",
+        "objeto": "Díaz-Canel"
+      },
+      {
+        "sujeto": "Díaz-Canel",
+        "relacion": "RECALCAR",
+        "objeto": "Guantánamo"
+      },
+      {
+        "sujeto": "Oscar",
+        "relacion": "INGRESAR",
+        "objeto": "Baracoa"
+      },
+      {
+        "sujeto": "Oscar",
+        "relacion": "INGRESAR",
+        "objeto": "Guantánamo"
+      },
+      {
+        "sujeto": "Alis Azahares Torreblanca",
+        "relacion": "DETALLAR",
+        "objeto": "Imías"
+      },
+      {
+        "sujeto": "Alis Azahares Torreblanca",
+        "relacion": "DETALLAR",
+        "objeto": "Baracoa"
+      },
+      {
+        "sujeto": "Alis Azahares Torreblanca",
+        "relacion": "DETALLAR",
+        "objeto": "Maisí"
+      },
+      {
+        "sujeto": "Oscar",
+        "relacion": "ABANDONAR_INFORMAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Oscar",
+        "relacion": "ABANDONAR_INFORMAR",
+        "objeto": "Instituto de Meteorología"
+      },
+      {
+        "sujeto": "Instituto de Meteorología",
+        "relacion": "ABANDONAR_INFORMAR",
+        "objeto": "Cuba"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.985,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

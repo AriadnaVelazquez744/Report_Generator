@@ -1,0 +1,834 @@
+{
+  "url": "https://www.telesurtv.net/sindicatos-y-movimientos-sociales-se-movilizan-a-favor-de-gustavo-petro-en-colombia/",
+  "title": "Sindicatos y movimientos sociales se movilizan a favor de Gustavo Petro en Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Gustavo Petro",
+    "Sindicatos y movimientos sociales"
+  ],
+  "text": "Sindicatos y movimientos sociales, de Colombia, encabezados por Federación Colombiana de Educadores (Fecode), arribaron a la Plaza Bolívar de Bogotá (capital) en una marcha para rechazar al golpe de Estado contra el presidente Gustavo Petro y respaldar su gestión en la presidencia de la República.\nEl pueblo organizando realiza la marcha también en otros departamentos capitales de Colombia, agrupados con la consigna central: “Por la democracia y contra del golpe de Estado contra Petro”.\nEl sindicalista Pedro Arango pidió “que hoy la movilización se haga masiva en el paí  a raíz de la decisión del Consejo Nacional Electoral (CNE) que, desde luego, no está aislada de los partidos de derecha de una guerra jurídica contra el presidente de la República”.\n“Nos hemos levantado en movilización permanente. Vamos a tener también el 21 de noviembre, tenemos la movilización el 10 de diciembre por el derecho a la mujer. Esas actividades ya están programadas pero efectivamente estamos por la democracia y contra del golpe de Estado”, acotó Pedro Arango.\nFecode realizó un llamado a la ciudadanía a unirse a esta manifestación, destacando la urgencia de defender el mandato popular y el respeto por las instituciones democráticas.\nAsimismo, la organización expresó su preocupación por la estabilidad del Gobierno actual y la democracia en el país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/sindicatos-y-movimientos-sociales-se-movilizan-a-favor-de-gustavo-petro-en-colombia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 536,
+    "message_id": 79037,
+    "date": "2024-10-24T00:55:23+00:00",
+    "text": "teleSUR\nSindicatos y movimientos sociales se movilizan a favor de Gustavo Petro en Colombia\nhttps://www.telesurtv.net/sindicatos-y-movimientos-sociales-se-movilizan-a-favor-de-gustavo-petro-en-colombia/",
+    "photo_path": null,
+    "views": 2741,
+    "reactions": {
+      "👍": 54,
+      "👏": 3
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "sindicatos y movimientos sociales, de colombia, encabezados por federación colombiana de educadores (fecode), arribaron a la plaza bolívar de bogotá (capital) en una marcha para rechazar al golpe de estado contra el presidente gustavo petro y respaldar su gestión en la presidencia de la república. el pueblo organizando realiza la marcha también en otros departamentos capitales de colombia, agrupados con la consigna central: “por la democracia y contra del golpe de estado contra petro”. el sindicalista pedro arango pidió “que hoy la movilización se haga masiva en el paí a raíz de la decisión del consejo nacional electoral (cne) que, desde luego, no está aislada de los partidos de derecha de una guerra jurídica contra el presidente de la república”. “nos hemos levantado en movilización permanente. vamos a tener también el 21 de noviembre, tenemos la movilización el 10 de diciembre por el derecho a la mujer. esas actividades ya están programadas pero efectivamente estamos por la democracia y contra del golpe de estado”, acotó pedro arango. fecode realizó un llamado a la ciudadanía a unirse a esta manifestación, destacando la urgencia de defender el mandato popular y el respeto por las instituciones democráticas. asimismo, la organización expresó su preocupación por la estabilidad del gobierno actual y la democracia en el país.",
+    "tokens": [
+      "sindicatos",
+      "movimientos",
+      "sociales",
+      ",",
+      "colombia",
+      ",",
+      "encabezados",
+      "federación",
+      "colombiana",
+      "educadores",
+      "(",
+      "fecode",
+      ")",
+      ",",
+      "arribaron",
+      "plaza",
+      "bolívar",
+      "bogotá",
+      "(",
+      "capital",
+      ")",
+      "marcha",
+      "rechazar",
+      "golpe",
+      "presidente",
+      "gustavo",
+      "petro",
+      "respaldar",
+      "gestión",
+      "presidencia",
+      "república",
+      ".",
+      "pueblo",
+      "organizando",
+      "realiza",
+      "marcha",
+      "departamentos",
+      "capitales",
+      "colombia",
+      ",",
+      "agrupados",
+      "consigna",
+      "central",
+      ":",
+      "“",
+      "democracia",
+      "golpe",
+      "petro",
+      "”",
+      ".",
+      "sindicalista",
+      "pedro",
+      "arango",
+      "pidió",
+      "“",
+      "hoy",
+      "movilización",
+      "haga",
+      "masiva",
+      "paí",
+      "raíz",
+      "decisión",
+      "consejo",
+      "nacional",
+      "electoral",
+      "(",
+      "cne",
+      ")",
+      ",",
+      "luego",
+      ",",
+      "aislada",
+      "partidos",
+      "derecha",
+      "guerra",
+      "jurídica",
+      "presidente",
+      "república",
+      "”",
+      ".",
+      "“",
+      "levantado",
+      "movilización",
+      "permanente",
+      ".",
+      "vamos",
+      "tener",
+      "21",
+      "noviembre",
+      ",",
+      "movilización",
+      "10",
+      "diciembre",
+      "derecho",
+      "mujer",
+      ".",
+      "actividades",
+      "programadas",
+      "efectivamente",
+      "democracia",
+      "golpe",
+      "”",
+      ",",
+      "acotó",
+      "pedro",
+      "arango",
+      ".",
+      "fecode",
+      "realizó",
+      "llamado",
+      "ciudadanía",
+      "unirse",
+      "manifestación",
+      ",",
+      "destacando",
+      "urgencia",
+      "defender",
+      "mandato",
+      "popular",
+      "respeto",
+      "instituciones",
+      "democráticas",
+      ".",
+      "asimismo",
+      ",",
+      "organización",
+      "expresó",
+      "preocupación",
+      "estabilidad",
+      "gobierno",
+      "actual",
+      "democracia",
+      "país",
+      "."
+    ],
+    "token_count": 134,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 69,
+      "VBZ": 2,
+      "IN": 12,
+      "CC": 1,
+      "JJ": 21,
+      "FW": 46,
+      "NNS": 4,
+      "DT": 1,
+      "VBD": 1,
+      "CD": 2,
+      "VBP": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "IN-NNP": 6,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NNP": 3,
+      "NNP-NNP": 14,
+      "NNP-FW": 2,
+      "FW-NNP": 6,
+      "NN-NN": 36,
+      "NN-NNP": 4,
+      "NNP-IN": 1,
+      "NN-JJ": 7,
+      "JJ-NN": 13,
+      "NN-IN": 8,
+      "NNP-JJ": 4,
+      "IN-FW": 4,
+      "FW-FW": 30,
+      "NN-FW": 8,
+      "FW-NN": 6,
+      "NN-NNS": 2,
+      "NNS-IN": 1,
+      "JJ-JJ": 4,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "IN-NN": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "FW-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "JJ-FW": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "NNP-NNS": 1,
+      "FW-JJ": 2,
+      "NNP-VBP": 1,
+      "VBP-NNP": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 13,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 3,
+      "IN-NNP-JJ": 3,
+      "NNP-JJ-NN": 3,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 22,
+      "FW-FW-NNP": 4,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-JJ-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "FW-NN-NN": 2,
+      "JJ-JJ-NN": 3,
+      "IN-FW-NNP": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NNP": 2,
+      "NNP-NN-JJ": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NNP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 69,
+        "FW": 46,
+        "NNP": 36,
+        "JJ": 21,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 36,
+        "FW-FW": 30,
+        "NNP-NNP": 14,
+        "JJ-NN": 13,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 13,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 9,
+        "NNP-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 56,
+      "VP": 7,
+      "PP": 5,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.038
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('por', 'NN')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP ('y', 'PRP') VP (',', ',') ('de', 'FW') NP (',', ',') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') VP ('de', 'FW') NP ('(', '(') NP (')', ')') ('en', 'FW') NP NP PP NP ('en', 'IN') ('la', 'FW') ('presidencia', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Sindicatos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('movimientos', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('sociales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('encabezados', 'JJ') ('por', 'NN') ('Federación', 'NNP') ('Colombiana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Sindicatos"
+      },
+      {
+        "label": "VP",
+        "text": "movimientos sociales"
+      },
+      {
+        "label": "NP",
+        "text": "sociales"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "encabezados por Federación Colombiana"
+      },
+      {
+        "label": "NP",
+        "text": "Educadores"
+      },
+      {
+        "label": "NP",
+        "text": "Fecode"
+      },
+      {
+        "label": "VP",
+        "text": "arribaron a la Plaza Bolívar"
+      },
+      {
+        "label": "NP",
+        "text": "a la Plaza Bolívar"
+      },
+      {
+        "label": "NP",
+        "text": "Bogotá"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "una marcha para rechazar"
+      },
+      {
+        "label": "NP",
+        "text": "al golpe"
+      },
+      {
+        "label": "PP",
+        "text": "de Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Sindicatos/NNP)\n  y/PRP\n  (VP movimientos/VBD (NP sociales/NNS))\n  ,/,\n  de/FW\n  (NP Colombia/NNP)\n  ,/,\n  (NP encabezados/JJ por/NN Federación/NNP Colombiana/NNP)\n  de/FW\n  (NP Educadores/NNP)\n  (/(\n  (NP Fecode/NNP)\n  )/)\n  ,/,\n  (VP arribaron/VBZ (NP a/DT la/NN Plaza/NNP Bolívar/NNP))\n  de/FW\n  (NP Bogotá/NNP)\n  (/(\n  (NP capital/NN)\n  )/)\n  en/FW\n  (NP una/JJ marcha/NN para/NN rechazar/NN)\n  (NP al/JJ golpe/NN)\n  (PP de/IN (NP Estado/NNP))\n  (NP\n    contra/JJ\n    el/NN\n    presidente/NN\n    Gustavo/NNP\n    Petro/NNP\n    y/NNP\n    respaldar/NN\n    su/NN\n    gestión/NN)\n  en/IN\n  la/FW\n  presidencia/FW\n  de/FW\n  la/FW\n  (NP República/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP pueblo/NN organizando/NN realiza/NN la/NN)\n  marcha/FW\n  (NP también/NN)\n  en/FW\n  otros/FW\n  (NP departamentos/NN capitales/NNS)\n  (PP de/IN (NP Colombia/NNP))\n  ,/,\n  (NP agrupados/JJ con/NN la/NN)\n  (ADJP consigna/JJ)\n  (ADJP central/JJ)\n  :/:\n  (NP “/NN Por/NNP la/NNP)\n  democracia/FW\n  (NP y/NN contra/NN)\n  del/FW\n  (NP golpe/NN)\n  (PP de/IN (NP Estado/NNP))\n  (NP contra/JJ Petro/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    sindicalista/NN\n    Pedro/NNP\n    Arango/NNP\n    pidió/NN\n    “/NNP\n    que/NN\n    hoy/NN\n    la/NN)\n  movilización/FW\n  se/FW\n  (NP haga/NN)\n  masiva/FW\n  en/FW\n  el/FW\n  paí/FW\n  (NP a/DT raíz/NN)\n  de/IN\n  la/FW\n  decisión/FW\n  del/FW\n  (NP Consejo/NNP Nacional/NNP Electoral/NNP)\n  (/(\n  (NP CNE/NNP)\n  )/)\n  (NP que/NN)\n  ,/,\n  (NP desde/NN luego/NN)\n  ,/,\n  (NP no/DT está/JJ aislada/NN)\n  de/IN\n  los/FW\n  partidos/FW\n  de/FW\n  derecha/FW\n  de/FW\n  una/FW\n  (NP guerra/NN jurídica/NN)\n  (NP contra/JJ el/JJ presidente/NN)\n  de/IN\n  la/FW\n  (NP República/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Nos/NNP hemos/NN levantado/NN)\n  (PP en/IN (NP movilización/NN permanente/NN))\n  ./.)",
+      "(S\n  (VP Vamos/VB (NP a/DT tener/NN también/NN))\n  (VP el/VBD)\n  21/CD\n  de/FW\n  noviembre/FW\n  ,/,\n  tenemos/EX\n  la/FW\n  movilización/FW\n  el/FW\n  10/CD\n  de/FW\n  diciembre/FW\n  por/FW\n  el/FW\n  derecho/FW\n  (NP a/DT la/NN mujer/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "marcha para rechazar al golpe de estado contra el presidente",
+        "position": [
+          166,
+          226
+        ],
+        "start": 166,
+        "end": 226
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra jurídica contra el",
+        "position": [
+          704,
+          729
+        ],
+        "start": 704,
+        "end": 729
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          150,
+          157
+        ],
+        "start": 150,
+        "end": 157
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          1256,
+          1263
+        ],
+        "start": 1256,
+        "end": 1263
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente gustavo petro",
+        "position": [
+          216,
+          240
+        ],
+        "start": 216,
+        "end": 240
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          38,
+          46
+        ],
+        "start": 38,
+        "end": 46
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "bogotá",
+        "position": [
+          142,
+          148
+        ],
+        "start": 142,
+        "end": 148
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado contra",
+        "position": [
+          199,
+          212
+        ],
+        "start": 199,
+        "end": 212
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza bolívar",
+        "position": [
+          125,
+          138
+        ],
+        "start": 125,
+        "end": 138
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          531,
+          534
+        ],
+        "start": 531,
+        "end": 534
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "paí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "golpe de Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Federación Colombiana de Educadores",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pedro Arango",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sindicatos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Plaza Bolívar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "golpe de Estado contra",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fecode",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bogotá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Sindicatos",
+        "relacion": "ARRIBAR",
+        "objeto": "Plaza Bolívar"
+      },
+      {
+        "sujeto": "Sindicatos",
+        "relacion": "ARRIBAR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "Sindicatos",
+        "relacion": "ARRIBAR",
+        "objeto": "golpe de Estado"
+      },
+      {
+        "sujeto": "Sindicatos",
+        "relacion": "ARRIBAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Sindicatos",
+        "relacion": "ARRIBAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "ARRIBAR",
+        "objeto": "Plaza Bolívar"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "ARRIBAR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "ARRIBAR",
+        "objeto": "golpe de Estado"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "ARRIBAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "ARRIBAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Federación Colombiana de Educadores",
+        "relacion": "ARRIBAR",
+        "objeto": "Plaza Bolívar"
+      },
+      {
+        "sujeto": "Federación Colombiana de Educadores",
+        "relacion": "ARRIBAR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "Federación Colombiana de Educadores",
+        "relacion": "ARRIBAR",
+        "objeto": "golpe de Estado"
+      },
+      {
+        "sujeto": "Federación Colombiana de Educadores",
+        "relacion": "ARRIBAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Federación Colombiana de Educadores",
+        "relacion": "ARRIBAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Fecode",
+        "relacion": "ARRIBAR",
+        "objeto": "Plaza Bolívar"
+      },
+      {
+        "sujeto": "Fecode",
+        "relacion": "ARRIBAR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "Fecode",
+        "relacion": "ARRIBAR",
+        "objeto": "golpe de Estado"
+      },
+      {
+        "sujeto": "Fecode",
+        "relacion": "ARRIBAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Fecode",
+        "relacion": "ARRIBAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Plaza Bolívar",
+        "relacion": "ARRIBAR",
+        "objeto": "golpe de Estado"
+      },
+      {
+        "sujeto": "Plaza Bolívar",
+        "relacion": "ARRIBAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Plaza Bolívar",
+        "relacion": "ARRIBAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Bogotá",
+        "relacion": "ARRIBAR",
+        "objeto": "golpe de Estado"
+      },
+      {
+        "sujeto": "Bogotá",
+        "relacion": "ARRIBAR",
+        "objeto": "Gustavo Petro"
+      },
+      {
+        "sujeto": "Bogotá",
+        "relacion": "ARRIBAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "golpe de Estado",
+        "relacion": "RECHAZAR_ARRIBAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "RECHAZAR_ARRIBAR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Pedro Arango",
+        "relacion": "PEDIR",
+        "objeto": "paí"
+      },
+      {
+        "sujeto": "Pedro Arango",
+        "relacion": "PEDIR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "Pedro Arango",
+        "relacion": "PEDIR",
+        "objeto": "CNE"
+      },
+      {
+        "sujeto": "Pedro Arango",
+        "relacion": "PEDIR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "paí",
+        "relacion": "HACER_PEDIR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "paí",
+        "relacion": "HACER_PEDIR",
+        "objeto": "CNE"
+      },
+      {
+        "sujeto": "paí",
+        "relacion": "HACER_PEDIR",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Pedro Arango",
+        "relacion": "ESTAR_ACOTAR",
+        "objeto": "golpe de Estado"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.25,
+    "pos": 0.021,
+    "neu": 0.968,
+    "neg": 0.011,
+    "label": "positive"
+  }
+}

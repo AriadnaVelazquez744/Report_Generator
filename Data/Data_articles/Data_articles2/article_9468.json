@@ -1,0 +1,708 @@
+{
+  "url": "https://www.telesurtv.net/israel-lanza-un-ataque-aereo-contra-la-provincia-siria-de-latakia/",
+  "title": "Israel lanza un ataque aéreo contra la provincia siria de Latakia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Bombardeo aéreo",
+    "Bombardeo Israelí",
+    "defensa antiaérea",
+    "Observatorio Sirio para los Derechos Humanos"
+  ],
+  "text": "Hasta el momento, no se han revelado más datos sobre este incidente, ni tampoco se conocen los posibles daños o víctimas provocadas por el ataque israelí.\nMedios árabes informaron  el miércoles que fuerzas israelíes perpetraron un ataque aéreo con misiles contra la provincia siria de Latakia, al noroeste del país, mientras fuentes periodísticas locales confirmaron fuertes explosiones en la zona y la movilización de las defensas antiaéreas del ejército sirio.\nHasta el momento, no se han revelado más datos sobre este incidente, ni tampoco se conocen los posibles daños o víctimas provocadas por el ataque israelí aunque se reveló que el objetivo de la aviación de Israel era un depósito de armas.\nIsrael sostiene que la milicia libanesa Hezbolá recibe armas y pertrechos a través de Siria, por lo que ha llevado a cabo una serie de incursiones aéreas sobre la capital, Damasco, y otras regiones de la nación árabe. Fuentes militares aseguran que la defensa aérea ha logrado frustrar la mayoría de los intentos de los agresores israelíes.\nEl miércoles, la ONU denunció también un nuevo ataque israelí a una base de la misión de paz de Naciones Unidas para Líbano (Unifil), cuando un tanque israelí disparó contra una torre de vigilancia. Asimismo, el bombardeo contra un edificio municipal en Nabatiya, provocó la muerte de al menos 16 personas murieron y heridas a otras 52.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-lanza-un-ataque-aereo-contra-la-provincia-siria-de-latakia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 991,
+    "message_id": 78552,
+    "date": "2024-10-17T08:55:13+00:00",
+    "text": "teleSUR\nIsrael lanza un ataque aéreo contra la provincia siria de Latakia\nhttps://www.telesurtv.net/israel-lanza-un-ataque-aereo-contra-la-provincia-siria-de-latakia/",
+    "photo_path": null,
+    "views": 2179,
+    "reactions": {
+      "🤬": 40,
+      "💩": 5,
+      "👍": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "hasta el momento, no se han revelado más datos sobre este incidente, ni tampoco se conocen los posibles daños o víctimas provocadas por el ataque israelí. medios árabes informaron el miércoles que fuerzas israelíes perpetraron un ataque aéreo con misiles contra la provincia siria de latakia, al noroeste del país, mientras fuentes periodísticas locales confirmaron fuertes explosiones en la zona y la movilización de las defensas antiaéreas del ejército sirio. hasta el momento, no se han revelado más datos sobre este incidente, ni tampoco se conocen los posibles daños o víctimas provocadas por el ataque israelí aunque se reveló que el objetivo de la aviación de israel era un depósito de armas. israel sostiene que la milicia libanesa hezbolá recibe armas y pertrechos a través de siria, por lo que ha llevado a cabo una serie de incursiones aéreas sobre la capital, damasco, y otras regiones de la nación árabe. fuentes militares aseguran que la defensa aérea ha logrado frustrar la mayoría de los intentos de los agresores israelíes. el miércoles, la onu denunció también un nuevo ataque israelí a una base de la misión de paz de naciones unidas para líbano (unifil), cuando un tanque israelí disparó contra una torre de vigilancia. asimismo, el bombardeo contra un edificio municipal en nabatiya, provocó la muerte de al menos 16 personas murieron y heridas a otras 52.",
+    "tokens": [
+      "momento",
+      ",",
+      "revelado",
+      "datos",
+      "incidente",
+      ",",
+      "tampoco",
+      "conocen",
+      "posibles",
+      "daños",
+      "víctimas",
+      "provocadas",
+      "ataque",
+      "israelí",
+      ".",
+      "medios",
+      "árabes",
+      "informaron",
+      "miércoles",
+      "fuerzas",
+      "israelíes",
+      "perpetraron",
+      "ataque",
+      "aéreo",
+      "misiles",
+      "provincia",
+      "siria",
+      "latakia",
+      ",",
+      "noroeste",
+      "país",
+      ",",
+      "mientras",
+      "fuentes",
+      "periodísticas",
+      "locales",
+      "confirmaron",
+      "fuertes",
+      "explosiones",
+      "zona",
+      "movilización",
+      "defensas",
+      "antiaéreas",
+      "ejército",
+      "sirio",
+      ".",
+      "momento",
+      ",",
+      "revelado",
+      "datos",
+      "incidente",
+      ",",
+      "tampoco",
+      "conocen",
+      "posibles",
+      "daños",
+      "víctimas",
+      "provocadas",
+      "ataque",
+      "israelí",
+      "aunque",
+      "reveló",
+      "objetivo",
+      "aviación",
+      "israel",
+      "depósito",
+      "armas",
+      ".",
+      "israel",
+      "sostiene",
+      "milicia",
+      "libanesa",
+      "hezbolá",
+      "recibe",
+      "armas",
+      "pertrechos",
+      "través",
+      "siria",
+      ",",
+      "llevado",
+      "cabo",
+      "serie",
+      "incursiones",
+      "aéreas",
+      "capital",
+      ",",
+      "damasco",
+      ",",
+      "regiones",
+      "nación",
+      "árabe",
+      ".",
+      "fuentes",
+      "militares",
+      "aseguran",
+      "defensa",
+      "aérea",
+      "logrado",
+      "frustrar",
+      "mayoría",
+      "intentos",
+      "agresores",
+      "israelíes",
+      ".",
+      "miércoles",
+      ",",
+      "onu",
+      "denunció",
+      "nuevo",
+      "ataque",
+      "israelí",
+      "base",
+      "misión",
+      "paz",
+      "naciones",
+      "unidas",
+      "líbano",
+      "(",
+      "unifil",
+      ")",
+      ",",
+      "tanque",
+      "israelí",
+      "disparó",
+      "torre",
+      "vigilancia",
+      ".",
+      "asimismo",
+      ",",
+      "bombardeo",
+      "edificio",
+      "municipal",
+      "nabatiya",
+      ",",
+      "provocó",
+      "muerte",
+      "menos",
+      "16",
+      "personas",
+      "murieron",
+      "heridas",
+      "52",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 19,
+      "CC": 2,
+      "VBZ": 4,
+      "DT": 2,
+      "NN": 87,
+      "JJ": 21,
+      "FW": 45,
+      "NNS": 15,
+      "VBP": 11,
+      "IN": 6,
+      "RB": 1,
+      "VBD": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-CC": 2,
+      "CC-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-NN": 14,
+      "NN-NN": 54,
+      "NN-FW": 8,
+      "FW-NN": 5,
+      "NN-NNS": 4,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "JJ-NNS": 3,
+      "NN-NNP": 5,
+      "NNP-NNP": 3,
+      "NNP-NN": 10,
+      "NN-JJ": 7,
+      "JJ-FW": 2,
+      "FW-NNP": 7,
+      "CC-NN": 1,
+      "FW-VBZ": 1,
+      "VBP-NNS": 2,
+      "NNS-NNS": 1,
+      "NNS-IN": 1,
+      "IN-FW": 4,
+      "FW-FW": 29,
+      "FW-JJ": 1,
+      "NN-DT": 1,
+      "NN-IN": 5,
+      "IN-NNP": 1,
+      "IN-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNP-FW": 2,
+      "NNP-NNS": 2,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "FW-NNS": 1,
+      "VBP-NNP": 2,
+      "JJ-JJ": 2,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-NN": 1,
+      "NN-VBP": 1,
+      "NNS-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-VBZ": 1,
+      "CC-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 32,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 9,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 4,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-NNP": 2,
+      "FW-NN-NNP": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 87,
+        "FW": 45,
+        "JJ": 21,
+        "NNP": 19,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 54,
+        "FW-FW": 29,
+        "JJ-NN": 14,
+        "NNP-NN": 10,
+        "NNS-VBP": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 23,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 9,
+        "NN-NN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 18,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0357
+      },
+      {
+        "rule": "NP -> ('Hasta', 'NNP') ('el', 'NN') ('momento', 'NN')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('se', 'NN')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "VP -> ('han', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('revelado', 'JJ') ('más', 'NN') ('datos', 'NN') ('sobre', 'NN') ('este', 'NN') ('incidente', 'NN')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('ni', 'JJ') ('tampoco', 'NN') ('se', 'NN') ('conocen', 'NN') ('los', 'NN') ('posibles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "VP -> ('daños', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('o', 'JJ') ('víctimas', 'NN') ('provocadas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "VP -> ('por', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0238
+      },
+      {
+        "rule": "S -> NP (',', ',') NP VP (',', ',') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0119
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Hasta el momento"
+      },
+      {
+        "label": "NP",
+        "text": "no se"
+      },
+      {
+        "label": "VP",
+        "text": "han revelado más datos sobre este incidente"
+      },
+      {
+        "label": "NP",
+        "text": "revelado más datos sobre este incidente"
+      },
+      {
+        "label": "NP",
+        "text": "ni tampoco se conocen los posibles"
+      },
+      {
+        "label": "VP",
+        "text": "daños o víctimas provocadas"
+      },
+      {
+        "label": "NP",
+        "text": "o víctimas provocadas"
+      },
+      {
+        "label": "VP",
+        "text": "por el ataque israelí"
+      },
+      {
+        "label": "NP",
+        "text": "el ataque israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Medios árabes informaron el miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que fuerzas israelíes perpetraron un ataque aéreo con misiles"
+      },
+      {
+        "label": "NP",
+        "text": "fuerzas israelíes perpetraron"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque aéreo con misiles"
+      },
+      {
+        "label": "VP",
+        "text": "contra la"
+      },
+      {
+        "label": "NP",
+        "text": "siria"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  (NP no/DT se/NN)\n  (VP\n    han/VBZ\n    (NP revelado/JJ más/NN datos/NN sobre/NN este/NN incidente/NN))\n  ,/,\n  (NP ni/JJ tampoco/NN se/NN conocen/NN los/NN posibles/NNS)\n  (VP daños/VBP (NP o/JJ víctimas/NN provocadas/NNS))\n  (VP por/VBP (NP el/JJ ataque/NN israelí/NN))\n  ./.)",
+      "(S\n  (NP Medios/NNP árabes/NNP informaron/NN el/NN miércoles/NNS)\n  (VP\n    que/VBP\n    (NP fuerzas/JJ israelíes/NN perpetraron/NN)\n    (NP un/JJ ataque/NN aéreo/NN con/NN misiles/NNS))\n  (VP contra/VBP la/JJ)\n  provincia/FW\n  (NP siria/NN)\n  de/FW\n  (NP Latakia/NNP)\n  ,/,\n  (NP al/JJ noroeste/NN del/NN país/NN)\n  ,/,\n  mientras/FW\n  (NP fuentes/NNS)\n  (VP periodísticas/VBP (NP locales/NNS))\n  (VP confirmaron/VBP (NP fuertes/NNS explosiones/NNS))\n  (PP en/IN (NP la/NN zona/NNP y/NNP la/NNP))\n  movilización/FW\n  de/FW\n  las/FW\n  defensas/FW\n  (NP antiaéreas/JJ del/NN ejército/NN sirio/NN)\n  ./.)",
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  (NP no/DT se/NN)\n  (VP\n    han/VBZ\n    (NP revelado/JJ más/NN datos/NN sobre/NN este/NN incidente/NN))\n  ,/,\n  (NP ni/JJ tampoco/NN se/NN conocen/NN los/NN posibles/NNS)\n  (VP daños/VBP (NP o/JJ víctimas/NN provocadas/NNS))\n  (VP\n    por/VBP\n    (NP el/JJ ataque/NN israelí/NN aunque/NN se/NN reveló/NN que/NN))\n  el/FW\n  objetivo/FW\n  de/FW\n  la/FW\n  aviación/FW\n  de/FW\n  (NP Israel/NNP era/NN un/NN depósito/NN)\n  (PP de/IN (NP armas/NN))\n  ./.)",
+      "(S\n  (NP Israel/NNP sostiene/NN que/NN la/NN)\n  milicia/FW\n  (NP libanesa/NN Hezbolá/NNP recibe/NN armas/NN y/NN)\n  (VP pertrechos/VBZ (NP a/DT través/NN))\n  (PP de/IN (NP Siria/NNP))\n  ,/,\n  (NP por/NN lo/NN que/NN ha/NN)\n  (VP llevado/VBZ (NP a/DT cabo/NN) (NP una/JJ serie/NN))\n  (PP de/IN (NP incursiones/NNS))\n  aéreas/RB\n  (VP sobre/VBP (NP la/JJ capital/NN))\n  ,/,\n  (NP Damasco/NNP)\n  ,/,\n  (NP y/NN)\n  (NP otras/JJ regiones/NNS)\n  de/IN\n  la/FW\n  (NP nación/JJ árabe/NN)\n  ./.)",
+      "(S\n  (NP Fuentes/NNS militares/NNS)\n  (VP\n    aseguran/VBP\n    (NP\n      que/JJ\n      la/NN\n      defensa/NN\n      aérea/NN\n      ha/NN\n      logrado/NN\n      frustrar/NN))\n  la/FW\n  mayoría/FW\n  de/FW\n  los/FW\n  intentos/FW\n  de/FW\n  los/FW\n  (NP agresores/NNS)\n  (VP israelíes/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          231,
+          243
+        ],
+        "start": 231,
+        "end": 243
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció también un nuevo ataque israelí a",
+        "position": [
+          1063,
+          1105
+        ],
+        "start": 1063,
+        "end": 1105
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "disparó",
+        "position": [
+          1201,
+          1208
+        ],
+        "start": 1201,
+        "end": 1208
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          864,
+          871
+        ],
+        "start": 864,
+        "end": 871
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          953,
+          960
+        ],
+        "start": 953,
+        "end": 960
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1059,
+          1062
+        ],
+        "start": 1059,
+        "end": 1062
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1063,
+          1071
+        ],
+        "start": 1063,
+        "end": 1071
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          146,
+          153
+        ],
+        "start": 146,
+        "end": 153
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia siria",
+        "position": [
+          266,
+          281
+        ],
+        "start": 266,
+        "end": 281
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "torre de",
+        "position": [
+          1220,
+          1228
+        ],
+        "start": 1220,
+        "end": 1228
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "16 personas",
+        "position": [
+          1336,
+          1347
+        ],
+        "start": 1336,
+        "end": 1347
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Damasco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Latakia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unifil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nabatiya",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "SOSTENER",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "SOSTENER",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "SOSTENER",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "RECIBIR_SOSTENER",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "RECIBIR_SOSTENER",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "RECIBIR_SOSTENER",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DENUNCIAR",
+        "objeto": "Naciones Unidas"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DENUNCIAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DENUNCIAR",
+        "objeto": "Unifil"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.022,
+    "neu": 0.958,
+    "neg": 0.02,
+    "label": "positive"
+  }
+}

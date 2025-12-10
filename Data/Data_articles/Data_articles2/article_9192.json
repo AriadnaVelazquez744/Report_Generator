@@ -1,0 +1,599 @@
+{
+  "url": "https://www.telesurtv.net/en-imagenes-lideres-del-mundo-en-la-cumbre-brics-ampliada/",
+  "title": "En imágenes: Líderes del mundo en la Cumbre BRICS ampliada - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Brics",
+    "En Imágenes"
+  ],
+  "text": "Representantes de casi 40 países asisten al encuentro al margen de la XVI Cumbre de los BRICS.\n\nEn el último día de la XVI Cumbre del bloque, que se celebra en la ciudad rusa de Kazán, se realizó la primera de dos sesiones que reunió al total de las delegaciones invitadas para debatir el futuro del bloque.\nAl iniciar la sesión, el presidente de Rusia, Vladímir Putin,  señaló que “el formato ampliado permite un diálogo directo y abierto entre los miembros de la asociación”; al tiempo que indicó que Rusia, junto con sus países amigos “prestará especial atención a la solución pacífica de los conflictos”, en particular la situación en el Oriente Medio.\nEntre los jefes de Estado presentes, se encuentran el de Venezuela, Nicolás Maduro Moros y el de Bolivia, Luis Arce Catacora. Además, se hizo presente el presidente de la Autoridad Palestina, Mahmud Abás, que manifestó la esperanza de que su país sea incorporado al bloque y también tuvo su banca el secretario general de Naciones Unidas, Antonio Guterres.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/en-imagenes-lideres-del-mundo-en-la-cumbre-brics-ampliada/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 506,
+    "message_id": 79072,
+    "date": "2024-10-24T13:55:07+00:00",
+    "text": "teleSUR\nEn imágenes: Líderes del mundo en la Cumbre BRICS ampliada\nhttps://www.telesurtv.net/en-imagenes-lideres-del-mundo-en-la-cumbre-brics-ampliada/",
+    "photo_path": null,
+    "views": 2271,
+    "reactions": {
+      "👍": 69,
+      "🤝": 10
+    },
+    "total_reactions": 79
+  },
+  "preprocessing": {
+    "cleaned": "representantes de casi 40 países asisten al encuentro al margen de la xvi cumbre de los brics. en el último día de la xvi cumbre del bloque, que se celebra en la ciudad rusa de kazán, se realizó la primera de dos sesiones que reunió al total de las delegaciones invitadas para debatir el futuro del bloque. al iniciar la sesión, el presidente de rusia, vladímir putin, señaló que “el formato ampliado permite un diálogo directo y abierto entre los miembros de la asociación”; al tiempo que indicó que rusia, junto con sus países amigos “prestará especial atención a la solución pacífica de los conflictos”, en particular la situación en el oriente medio. entre los jefes de estado presentes, se encuentran el de venezuela, nicolás maduro moros y el de bolivia, luis arce catacora. además, se hizo presente el presidente de la autoridad palestina, mahmud abás, que manifestó la esperanza de que su país sea incorporado al bloque y también tuvo su banca el secretario general de naciones unidas, antonio guterres.",
+    "tokens": [
+      "representantes",
+      "casi",
+      "40",
+      "países",
+      "asisten",
+      "encuentro",
+      "margen",
+      "xvi",
+      "cumbre",
+      "brics",
+      ".",
+      "último",
+      "día",
+      "xvi",
+      "cumbre",
+      "bloque",
+      ",",
+      "celebra",
+      "ciudad",
+      "rusa",
+      "kazán",
+      ",",
+      "realizó",
+      "primera",
+      "dos",
+      "sesiones",
+      "reunió",
+      "total",
+      "delegaciones",
+      "invitadas",
+      "debatir",
+      "futuro",
+      "bloque",
+      ".",
+      "iniciar",
+      "sesión",
+      ",",
+      "presidente",
+      "rusia",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "señaló",
+      "“",
+      "formato",
+      "ampliado",
+      "permite",
+      "diálogo",
+      "directo",
+      "abierto",
+      "miembros",
+      "asociación",
+      "”",
+      ";",
+      "tiempo",
+      "indicó",
+      "rusia",
+      ",",
+      "junto",
+      "países",
+      "amigos",
+      "“",
+      "prestará",
+      "especial",
+      "atención",
+      "solución",
+      "pacífica",
+      "conflictos",
+      "”",
+      ",",
+      "particular",
+      "situación",
+      "oriente",
+      "medio",
+      ".",
+      "jefes",
+      "presentes",
+      ",",
+      "encuentran",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      "moros",
+      "bolivia",
+      ",",
+      "luis",
+      "arce",
+      "catacora",
+      ".",
+      "además",
+      ",",
+      "hizo",
+      "presente",
+      "presidente",
+      "autoridad",
+      "palestina",
+      ",",
+      "mahmud",
+      "abás",
+      ",",
+      "manifestó",
+      "esperanza",
+      "país",
+      "incorporado",
+      "bloque",
+      "banca",
+      "secretario",
+      "general",
+      "naciones",
+      "unidas",
+      ",",
+      "antonio",
+      "guterres",
+      "."
+    ],
+    "token_count": 116,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "FW": 48,
+      "CD": 1,
+      "NNS": 4,
+      "JJ": 15,
+      "NN": 48,
+      "IN": 9,
+      "VBP": 2,
+      "VBZ": 2,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 21,
+      "NNP-FW": 6,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NN": 7,
+      "NN-NN": 31,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "FW-NNP": 11,
+      "NNP-IN": 1,
+      "FW-FW": 26,
+      "FW-NN": 5,
+      "NN-FW": 6,
+      "FW-NNS": 3,
+      "NNS-VBP": 2,
+      "VBP-JJ": 2,
+      "NN-NNP": 2,
+      "NNP-NN": 4,
+      "IN-JJ": 2,
+      "FW-JJ": 2,
+      "JJ-FW": 3,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNS-IN": 1,
+      "NNP-VBD": 2,
+      "VBD-NN": 1,
+      "IN-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "VBD-JJ": 1,
+      "NN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 4,
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 5,
+      "NN-NN-NN": 19,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NNP": 9,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 17,
+      "FW-FW-NNP": 6,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "IN-FW-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-NNS": 2,
+      "VBP-JJ-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-FW": 4,
+      "NNP-NNP-NNP": 11,
+      "NNP-NNP-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 48,
+        "NN": 48,
+        "NNP": 36,
+        "JJ": 15,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 31,
+        "FW-FW": 26,
+        "NNP-NNP": 21,
+        "FW-NNP": 11,
+        "JJ-NN": 7
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 19,
+        "FW-FW-FW": 17,
+        "NNP-NNP-NNP": 11,
+        "FW-NNP-NNP": 9,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 44,
+      "ADJP": 3,
+      "VP": 8,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('XVI', 'NNP') ('Cumbre', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0323
+      },
+      {
+        "rule": "S -> NP ('casi', 'FW') ('40', 'CD') NP NP ('de', 'IN') ('la', 'FW') NP ('de', 'IN') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('Representantes', 'NNP') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('países', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('asisten', 'JJ') ('al', 'JJ') ('encuentro', 'NN') ('al', 'NN') ('margen', 'NN')",
+        "frequency": 1,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('BRICS', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0161
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP ('del', 'FW') NP (',', ',') ADJP ('se', 'FW') NP ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('rusa', 'FW') ('de', 'FW') NP (',', ',') ('se', 'FW') NP ('la', 'FW') ('primera', 'FW') ('de', 'FW') ('dos', 'FW') NP VP ('de', 'IN') ('las', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('el', 'NN') ('último', 'NNP') ('día', 'NN')",
+        "frequency": 1,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('bloque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0161
+      },
+      {
+        "rule": "ADJP -> ('que', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0161
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Representantes de"
+      },
+      {
+        "label": "NP",
+        "text": "países"
+      },
+      {
+        "label": "NP",
+        "text": "asisten al encuentro al margen"
+      },
+      {
+        "label": "NP",
+        "text": "XVI Cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "BRICS"
+      },
+      {
+        "label": "NP",
+        "text": "En el último día"
+      },
+      {
+        "label": "NP",
+        "text": "XVI Cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "bloque"
+      },
+      {
+        "label": "ADJP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "celebra"
+      },
+      {
+        "label": "NP",
+        "text": "Kazán"
+      },
+      {
+        "label": "NP",
+        "text": "realizó"
+      },
+      {
+        "label": "NP",
+        "text": "sesiones"
+      },
+      {
+        "label": "VP",
+        "text": "que reunió al total"
+      },
+      {
+        "label": "NP",
+        "text": "reunió al total"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Representantes/NNP de/NNP)\n  casi/FW\n  40/CD\n  (NP países/NNS)\n  (NP asisten/JJ al/JJ encuentro/NN al/NN margen/NN)\n  de/IN\n  la/FW\n  (NP XVI/NNP Cumbre/NNP)\n  de/IN\n  los/FW\n  (NP BRICS/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP el/NN último/NNP día/NN)\n  de/IN\n  la/FW\n  (NP XVI/NNP Cumbre/NNP)\n  del/FW\n  (NP bloque/NN)\n  ,/,\n  (ADJP que/JJ)\n  se/FW\n  (NP celebra/NN)\n  en/FW\n  la/FW\n  ciudad/FW\n  rusa/FW\n  de/FW\n  (NP Kazán/NNP)\n  ,/,\n  se/FW\n  (NP realizó/NN)\n  la/FW\n  primera/FW\n  de/FW\n  dos/FW\n  (NP sesiones/NNS)\n  (VP que/VBP (NP reunió/JJ al/JJ total/NN))\n  de/IN\n  las/FW\n  (NP delegaciones/NNS)\n  (VP\n    invitadas/VBP\n    (NP para/JJ debatir/NN el/NN futuro/NN del/NN bloque/NN))\n  ./.)",
+      "(S\n  (NP Al/NNP iniciar/NN la/NN sesión/NN)\n  ,/,\n  (NP el/JJ presidente/NN)\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (NP señaló/NN que/NN “/NNP)\n  (VP el/VBZ formato/JJ)\n  (PP\n    ampliado/IN\n    (NP permite/JJ un/JJ diálogo/NN directo/NN y/NN abierto/NN))\n  entre/FW\n  (ADJP los/JJ)\n  miembros/FW\n  de/FW\n  la/FW\n  asociación/FW\n  ”/FW\n  ;/:\n  al/CC\n  (VP tiempo/VB (NP que/JJ indicó/NN que/NN Rusia/NNP))\n  ,/,\n  (NP junto/NN con/NN sus/NN)\n  (VP\n    países/VBZ\n    (NP amigos/JJ “/NNP prestará/NN)\n    (NP especial/JJ atención/NN)\n    (NP a/DT la/NN solución/NN pacífica/NN))\n  de/IN\n  los/FW\n  (NP conflictos/NNS)\n  (VP ”/VBP)\n  ,/,\n  en/FW\n  (NP particular/JJ la/NN situación/NN)\n  en/IN\n  el/FW\n  (NP Oriente/NNP Medio/NNP)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP los/VBD (NP jefes/NN))\n  (PP de/IN (NP Estado/NNP presentes/NNS))\n  ,/,\n  se/FW\n  encuentran/FW\n  el/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP Moros/NNP y/NNP)\n  el/FW\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP Luis/NNP Arce/NNP Catacora/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP se/VBD (NP hizo/JJ presente/NN))\n  el/FW\n  presidente/FW\n  de/FW\n  la/FW\n  (NP Autoridad/NNP Palestina/NNP)\n  ,/,\n  (NP Mahmud/NNP Abás/NNP)\n  ,/,\n  (NP que/NN manifestó/NN)\n  la/FW\n  esperanza/FW\n  de/FW\n  que/FW\n  su/FW\n  país/FW\n  (NP\n    sea/NN\n    incorporado/NN\n    al/NN\n    bloque/NN\n    y/NN\n    también/NN\n    tuvo/NN\n    su/NN\n    banca/NN\n    el/NN\n    secretario/NN)\n  (ADJP general/JJ)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP)\n  ,/,\n  (NP Antonio/NNP Guterres/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          866,
+          875
+        ],
+        "start": 866,
+        "end": 875
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          371,
+          377
+        ],
+        "start": 371,
+        "end": 377
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de rusia",
+        "position": [
+          333,
+          352
+        ],
+        "start": 333,
+        "end": 352
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          979,
+          994
+        ],
+        "start": 979,
+        "end": 994
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          754,
+          761
+        ],
+        "start": 754,
+        "end": 761
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          347,
+          352
+        ],
+        "start": 347,
+        "end": 352
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado presentes",
+        "position": [
+          676,
+          692
+        ],
+        "start": 676,
+        "end": 692
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro Moros",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Representantes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antonio Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "XVI Cumbre de los BRICS",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luis Arce Catacora",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kazán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mahmud Abás",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Autoridad Palestina",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Representantes",
+        "relacion": "ASISTIR",
+        "objeto": "XVI Cumbre de los BRICS"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "SE_ALAR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ENCONTRAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Estado",
+        "relacion": "ENCONTRAR",
+        "objeto": "Nicolás Maduro Moros"
+      },
+      {
+        "sujeto": "Estado",
+        "relacion": "ENCONTRAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Estado",
+        "relacion": "ENCONTRAR",
+        "objeto": "Luis Arce Catacora"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

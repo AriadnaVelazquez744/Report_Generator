@@ -1,0 +1,649 @@
+{
+  "url": "https://www.telesurtv.net/condenan-masacre-en-haiti/",
+  "title": "Condenan masacre en Haití - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "banda armada",
+    "condena",
+    "hAITÍ",
+    "masacre",
+    "Organización de naciones Unidas"
+  ],
+  "text": "La banda armada Gran Griff perpetró una brutal masacre en Pont-Sondé, ubicado a 100 kilómetros de Puerto Príncipe, dejando más de 70 heridos, incluyendo mujeres y niños.\nLa violencia ha movilizado las estructuras estatales de Haití para atender a las víctimas, pues han sido múltiples los heridos.\nEl Ministerio de Salud Pública y Población ha confirmado que se encuentra “plenamente movilizado” desde el inicio del ataque, recalcando además que “a pesar del contexto de seguridad extremadamente difícil, las víctimas del ataque cuentan con el apoyo de las instituciones locales, incluyendo el hospital Saint Nicolas”, indicó la entidad en un comunicado.\nEl Ministerio informó que también está trabajando con sus socios para fortalecer la respuesta, aunque las tensiones de seguridad limitan el acceso y las intervenciones.\nLa masacre ha sido condenada por la Organización de las Naciones Unidas, así como por los gobiernos de Francia y Estados Unidos.\nFrancia expresó su “horror” ante el ataque perpetrado por individuos armados contra la población de Pont-Sondé, ofreciendo sus condolencias a las familias de las víctimas.\nPor su parte, la embajada estadounidense en Haití condenó “en los términos más enérgicos” la violencia perpetrada por los grupos armados.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/condenan-masacre-en-haiti/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1671,
+    "message_id": 77828,
+    "date": "2024-10-05T12:55:07+00:00",
+    "text": "teleSUR\nCondenan masacre en Haití\nhttps://www.telesurtv.net/condenan-masacre-en-haiti/",
+    "photo_path": null,
+    "views": 3063,
+    "reactions": {
+      "👍": 34,
+      "🤬": 6
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "la banda armada gran griff perpetró una brutal masacre en pont-sondé, ubicado a 100 kilómetros de puerto príncipe, dejando más de 70 heridos, incluyendo mujeres y niños. la violencia ha movilizado las estructuras estatales de haití para atender a las víctimas, pues han sido múltiples los heridos. el ministerio de salud pública y población ha confirmado que se encuentra “plenamente movilizado” desde el inicio del ataque, recalcando además que “a pesar del contexto de seguridad extremadamente difícil, las víctimas del ataque cuentan con el apoyo de las instituciones locales, incluyendo el hospital saint nicolas”, indicó la entidad en un comunicado. el ministerio informó que también está trabajando con sus socios para fortalecer la respuesta, aunque las tensiones de seguridad limitan el acceso y las intervenciones. la masacre ha sido condenada por la organización de las naciones unidas, así como por los gobiernos de francia y estados unidos. francia expresó su “horror” ante el ataque perpetrado por individuos armados contra la población de pont-sondé, ofreciendo sus condolencias a las familias de las víctimas. por su parte, la embajada estadounidense en haití condenó “en los términos más enérgicos” la violencia perpetrada por los grupos armados.",
+    "tokens": [
+      "banda",
+      "armada",
+      "gran",
+      "griff",
+      "perpetró",
+      "brutal",
+      "masacre",
+      "pont-sondé",
+      ",",
+      "ubicado",
+      "100",
+      "kilómetros",
+      "puerto",
+      "príncipe",
+      ",",
+      "dejando",
+      "70",
+      "heridos",
+      ",",
+      "incluyendo",
+      "mujeres",
+      "niños",
+      ".",
+      "violencia",
+      "movilizado",
+      "estructuras",
+      "estatales",
+      "haití",
+      "atender",
+      "víctimas",
+      ",",
+      "pues",
+      "sido",
+      "múltiples",
+      "heridos",
+      ".",
+      "ministerio",
+      "salud",
+      "pública",
+      "población",
+      "confirmado",
+      "encuentra",
+      "“",
+      "plenamente",
+      "movilizado",
+      "”",
+      "inicio",
+      "ataque",
+      ",",
+      "recalcando",
+      "además",
+      "“",
+      "pesar",
+      "contexto",
+      "seguridad",
+      "extremadamente",
+      "difícil",
+      ",",
+      "víctimas",
+      "ataque",
+      "cuentan",
+      "apoyo",
+      "instituciones",
+      "locales",
+      ",",
+      "incluyendo",
+      "hospital",
+      "saint",
+      "nicolas",
+      "”",
+      ",",
+      "indicó",
+      "entidad",
+      "comunicado",
+      ".",
+      "ministerio",
+      "informó",
+      "trabajando",
+      "socios",
+      "fortalecer",
+      "respuesta",
+      ",",
+      "aunque",
+      "tensiones",
+      "seguridad",
+      "limitan",
+      "acceso",
+      "intervenciones",
+      ".",
+      "masacre",
+      "sido",
+      "condenada",
+      "organización",
+      "naciones",
+      "unidas",
+      ",",
+      "así",
+      "gobiernos",
+      "francia",
+      "unidos",
+      ".",
+      "francia",
+      "expresó",
+      "“",
+      "horror",
+      "”",
+      "ataque",
+      "perpetrado",
+      "individuos",
+      "armados",
+      "población",
+      "pont-sondé",
+      ",",
+      "ofreciendo",
+      "condolencias",
+      "familias",
+      "víctimas",
+      ".",
+      "parte",
+      ",",
+      "embajada",
+      "estadounidense",
+      "haití",
+      "condenó",
+      "“",
+      "términos",
+      "enérgicos",
+      "”",
+      "violencia",
+      "perpetrada",
+      "grupos",
+      "armados",
+      "."
+    ],
+    "token_count": 133,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "VBD": 1,
+      "JJ": 19,
+      "NN": 75,
+      "IN": 8,
+      "CD": 2,
+      "FW": 33,
+      "NNS": 10,
+      "VBP": 6,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNP": 2,
+      "NNP-NNP": 12,
+      "NNP-NN": 10,
+      "NN-JJ": 6,
+      "JJ-JJ": 2,
+      "JJ-NN": 10,
+      "NN-IN": 5,
+      "IN-NNP": 4,
+      "NNP-JJ": 1,
+      "JJ-CD": 1,
+      "CD-FW": 1,
+      "FW-FW": 16,
+      "FW-NNP": 6,
+      "NN-NN": 48,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-NNP": 1,
+      "NNP-FW": 3,
+      "FW-NN": 6,
+      "JJ-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-NNS": 4,
+      "VBP-JJ": 5,
+      "NNP-IN": 1,
+      "NN-FW": 9,
+      "IN-FW": 3,
+      "FW-NNS": 1,
+      "NNS-NNS": 1,
+      "NN-NNP": 2,
+      "FW-JJ": 3,
+      "NNS-IN": 1,
+      "NNS-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "FW-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-CD": 1,
+      "JJ-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 31,
+      "NN-NN-JJ": 5,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 9,
+      "FW-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "NNP-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 75,
+        "FW": 33,
+        "NNP": 29,
+        "JJ": 19,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 16,
+        "NNP-NNP": 12,
+        "NNP-NN": 10,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 31,
+        "FW-FW-FW": 9,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NN": 7,
+        "NN-NN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 53,
+      "VP": 10,
+      "PP": 5,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0395
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0395
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('Pont-Sondé', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "S -> NP VP PP (',', ',') VP ('a', 'DT') ('100', 'CD') NP ('de', 'FW') NP (',', ',') NP ('de', 'IN') ('70', 'CD') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "VP -> ('banda', 'VBD') NP NP",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('armada', 'JJ') ('Gran', 'NNP') ('Griff', 'NNP') ('perpetró', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('brutal', 'JJ') ('masacre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "VP -> ('ubicado', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('kilómetros', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "banda armada Gran Griff perpetró una brutal masacre"
+      },
+      {
+        "label": "NP",
+        "text": "armada Gran Griff perpetró"
+      },
+      {
+        "label": "NP",
+        "text": "una brutal masacre"
+      },
+      {
+        "label": "PP",
+        "text": "en Pont-Sondé"
+      },
+      {
+        "label": "NP",
+        "text": "Pont-Sondé"
+      },
+      {
+        "label": "VP",
+        "text": "ubicado"
+      },
+      {
+        "label": "NP",
+        "text": "kilómetros"
+      },
+      {
+        "label": "NP",
+        "text": "Puerto Príncipe"
+      },
+      {
+        "label": "NP",
+        "text": "dejando más"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "incluyendo mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y niños"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "ha movilizado las"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP\n    banda/VBD\n    (NP armada/JJ Gran/NNP Griff/NNP perpetró/NN)\n    (NP una/JJ brutal/JJ masacre/NN))\n  (PP en/IN (NP Pont-Sondé/NNP))\n  ,/,\n  (VP ubicado/VBZ)\n  a/DT\n  100/CD\n  (NP kilómetros/NN)\n  de/FW\n  (NP Puerto/NNP Príncipe/NNP)\n  ,/,\n  (NP dejando/JJ más/NN)\n  de/IN\n  70/CD\n  (NP heridos/NNS)\n  ,/,\n  (NP incluyendo/JJ mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  violencia/FW\n  (NP ha/NN movilizado/NN las/NN)\n  (ADJP estructuras/JJ)\n  (VP estatales/VBZ)\n  de/FW\n  (NP Haití/NNP para/NN atender/NN)\n  (NP a/DT las/NN víctimas/NN)\n  ,/,\n  (NP pues/NNS)\n  (VP han/VBP (NP sido/JJ múltiples/NNS))\n  (VP los/VBP (NP heridos/NN))\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP\n    de/IN\n    (NP\n      Salud/NNP\n      Pública/NNP\n      y/NNP\n      Población/NNP\n      ha/NN\n      confirmado/NN\n      que/NN\n      se/NN))\n  (NP\n    encuentra/JJ\n    “/NNP\n    plenamente/NN\n    movilizado/NN\n    ”/NNP\n    desde/NN\n    el/NN\n    inicio/NN\n    del/NN\n    ataque/NN)\n  ,/,\n  (NP recalcando/NN además/NN que/NN)\n  (VP “/VBZ (NP a/DT pesar/JJ del/NN contexto/NN))\n  de/IN\n  seguridad/FW\n  extremadamente/FW\n  (NP difícil/NN)\n  ,/,\n  (NP las/JJ víctimas/NN del/NN ataque/NN)\n  (NP cuentan/JJ con/NN el/NN apoyo/NN)\n  de/IN\n  las/FW\n  (NP instituciones/NNS locales/NNS)\n  ,/,\n  (NP incluyendo/NN)\n  (NP el/JJ hospital/NN Saint/NNP Nicolas/NNP ”/NNP)\n  ,/,\n  (NP indicó/NN la/NN)\n  entidad/FW\n  en/FW\n  (NP un/JJ comunicado/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP informó/NN que/NN también/NN)\n  está/FW\n  (NP trabajando/NN con/NN sus/NN socios/NNS)\n  (VP para/VBP (NP fortalecer/JJ la/NN respuesta/NN))\n  ,/,\n  (NP aunque/JJ las/JJ tensiones/NNS)\n  de/IN\n  seguridad/FW\n  (NP limitan/JJ el/NN acceso/NN y/NN las/NN intervenciones/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  masacre/PRP\n  (VP ha/VBP (NP sido/JJ condenada/NN por/NN))\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  ,/,\n  (NP así/NN como/NN por/NN)\n  (NP los/JJ gobiernos/NN)\n  (PP de/IN (NP Francia/NNP))\n  y/CC\n  (NP Estados/NNP Unidos/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          961,
+          968
+        ],
+        "start": 961,
+        "end": 968
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          669,
+          676
+        ],
+        "start": 669,
+        "end": 676
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          860,
+          895
+        ],
+        "start": 860,
+        "end": 895
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          153,
+          160
+        ],
+        "start": 153,
+        "end": 160
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          1175,
+          1182
+        ],
+        "start": 1175,
+        "end": 1182
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          594,
+          602
+        ],
+        "start": 594,
+        "end": 602
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          98,
+          104
+        ],
+        "start": 98,
+        "end": 104
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          937,
+          951
+        ],
+        "start": 937,
+        "end": 951
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "francia",
+        "position": [
+          927,
+          934
+        ],
+        "start": 927,
+        "end": 934
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital saint",
+        "position": [
+          594,
+          608
+        ],
+        "start": 594,
+        "end": 608
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 70",
+        "position": [
+          123,
+          132
+        ],
+        "start": 123,
+        "end": 132
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud Pública y Población",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Puerto Príncipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gran Griff",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saint Nicolas",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gran Griff",
+        "relacion": "PERPETRAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Ministerio de Salud Pública y Población",
+        "relacion": "CONFIRMAR_INDICAR",
+        "objeto": "Saint Nicolas"
+      },
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "CONDENAR",
+        "objeto": "Francia"
+      },
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "CONDENAR",
+        "objeto": "Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2732,
+    "pos": 0.037,
+    "neu": 0.942,
+    "neg": 0.021,
+    "label": "positive"
+  }
+}

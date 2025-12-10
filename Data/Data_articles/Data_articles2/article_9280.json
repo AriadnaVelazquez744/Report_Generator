@@ -1,0 +1,917 @@
+{
+  "url": "https://www.telesurtv.net/presidente-lula-da-silva-conversa-con-su-homologo-putin-en-el-marco-de-cumbre-brics/",
+  "title": "Presidente Lula da Silva conversa con su homólogo Putin en el marco de Cumbre BRICS - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Brasil",
+    "Brics",
+    "cooperación",
+    "Rusia"
+  ],
+  "text": "Poco antes del inicio de la Cumbre BRICS este martes en el horario del mediodía, el presidente de Rusia, Vladímir Putin, mantuvo una conversación telefónica con su homólogo de Brasil, Luiz Inácio Lula da Silva, quien no podrá asistir de forma presencial.\nDurante un encuentro con el presidente chino, Xi Jinping, al margen de la cumbre, Putin expresó “Acabo de terminar una conversación con el presidente de Brasil, el señor Lula; como saben, tuvo que quedarse en casa por razones médicas, lamenta mucho no poder venir en persona, pero tiene la intención de trabajar con nosotros mañana por videoconferencia”.\nPor otra parte, un comunicado del Gobierno brasileño informó que “se harán los arreglos para su participación en la reunión (de los BRICS) a través de videoconferencia”.\nHace pocos días, el presidente brasileño se golpeó en la cabeza tras sufrir un accidente, lo cual provocó heridas internas de poca gravedad, pero potencialmente peligrosas.\nEste martes se someterá a nuevos exámenes médicos en el Hospital Sirio-Libanés de Brasilia, informan medios.\nActualmente integran los BRICS: Brasil, China, Egipto, Etiopía, India, Irán, Sudáfrica, Arabia Saudita, Rusia y los Emiratos Árabes Unidos.\nGracias a la cooperación de los BRICS, naciones como Rusia, China e Irán, sometidas a medidas restrictivas unilaterales impuestas por Occidente y Estados Unidos, han establecido fuertes vínculos en materia de comercio, economía, seguridad y otros ámbitos.\nEl 1 de enero de este año Rusia asumió la presidencia rotatoria de los BRICS para 2024, año que empezó con la admisión de nuevos miembros.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-lula-da-silva-conversa-con-su-homologo-putin-en-el-marco-de-cumbre-brics/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 657,
+    "message_id": 78909,
+    "date": "2024-10-22T17:55:07+00:00",
+    "text": "teleSUR\nPresidente Lula da Silva conversa con su homólogo Putin en el marco de Cumbre BRICS\nhttps://www.telesurtv.net/presidente-lula-da-silva-conversa-con-su-homologo-putin-en-el-marco-de-cumbre-brics/",
+    "photo_path": null,
+    "views": 2290,
+    "reactions": {
+      "👏": 35,
+      "👎": 3
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "poco antes del inicio de la cumbre brics este martes en el horario del mediodía, el presidente de rusia, vladímir putin, mantuvo una conversación telefónica con su homólogo de brasil, luiz inácio lula da silva, quien no podrá asistir de forma presencial. durante un encuentro con el presidente chino, xi jinping, al margen de la cumbre, putin expresó “acabo de terminar una conversación con el presidente de brasil, el señor lula; como saben, tuvo que quedarse en casa por razones médicas, lamenta mucho no poder venir en persona, pero tiene la intención de trabajar con nosotros mañana por videoconferencia”. por otra parte, un comunicado del gobierno brasileño informó que “se harán los arreglos para su participación en la reunión (de los brics) a través de videoconferencia”. hace pocos días, el presidente brasileño se golpeó en la cabeza tras sufrir un accidente, lo cual provocó heridas internas de poca gravedad, pero potencialmente peligrosas. este martes se someterá a nuevos exámenes médicos en el hospital sirio-libanés de brasilia, informan medios. actualmente integran los brics: brasil, china, egipto, etiopía, india, irán, sudáfrica, arabia saudita, rusia y los emiratos árabes unidos. gracias a la cooperación de los brics, naciones como rusia, china e irán, sometidas a medidas restrictivas unilaterales impuestas por occidente y estados unidos, han establecido fuertes vínculos en materia de comercio, economía, seguridad y otros ámbitos. el 1 de enero de este año rusia asumió la presidencia rotatoria de los brics para 2024, año que empezó con la admisión de nuevos miembros.",
+    "tokens": [
+      "inicio",
+      "cumbre",
+      "brics",
+      "martes",
+      "horario",
+      "mediodía",
+      ",",
+      "presidente",
+      "rusia",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "mantuvo",
+      "conversación",
+      "telefónica",
+      "homólogo",
+      "brasil",
+      ",",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      ",",
+      "podrá",
+      "asistir",
+      "forma",
+      "presencial",
+      ".",
+      "encuentro",
+      "presidente",
+      "chino",
+      ",",
+      "xi",
+      "jinping",
+      ",",
+      "margen",
+      "cumbre",
+      ",",
+      "putin",
+      "expresó",
+      "“",
+      "acabo",
+      "terminar",
+      "conversación",
+      "presidente",
+      "brasil",
+      ",",
+      "señor",
+      "lula",
+      ";",
+      "saben",
+      ",",
+      "quedarse",
+      "casa",
+      "razones",
+      "médicas",
+      ",",
+      "lamenta",
+      "poder",
+      "venir",
+      "persona",
+      ",",
+      "intención",
+      "trabajar",
+      "mañana",
+      "videoconferencia",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "comunicado",
+      "gobierno",
+      "brasileño",
+      "informó",
+      "“",
+      "harán",
+      "arreglos",
+      "participación",
+      "reunión",
+      "(",
+      "brics",
+      ")",
+      "través",
+      "videoconferencia",
+      "”",
+      ".",
+      "hace",
+      "pocos",
+      "días",
+      ",",
+      "presidente",
+      "brasileño",
+      "golpeó",
+      "cabeza",
+      "tras",
+      "sufrir",
+      "accidente",
+      ",",
+      "provocó",
+      "heridas",
+      "internas",
+      "poca",
+      "gravedad",
+      ",",
+      "potencialmente",
+      "peligrosas",
+      ".",
+      "martes",
+      "someterá",
+      "nuevos",
+      "exámenes",
+      "médicos",
+      "hospital",
+      "sirio-libanés",
+      "brasilia",
+      ",",
+      "informan",
+      "medios",
+      ".",
+      "actualmente",
+      "integran",
+      "brics",
+      ":",
+      "brasil",
+      ",",
+      "china",
+      ",",
+      "egipto",
+      ",",
+      "etiopía",
+      ",",
+      "india",
+      ",",
+      "irán",
+      ",",
+      "sudáfrica",
+      ",",
+      "arabia",
+      "saudita",
+      ",",
+      "rusia",
+      "emiratos",
+      "árabes",
+      "unidos",
+      ".",
+      "gracias",
+      "cooperación",
+      "brics",
+      ",",
+      "naciones",
+      "rusia",
+      ",",
+      "china",
+      "irán",
+      ",",
+      "sometidas",
+      "medidas",
+      "restrictivas",
+      "unilaterales",
+      "impuestas",
+      "occidente",
+      "unidos",
+      ",",
+      "establecido",
+      "fuertes",
+      "vínculos",
+      "materia",
+      "comercio",
+      ",",
+      "economía",
+      ",",
+      "seguridad",
+      "ámbitos",
+      ".",
+      "1",
+      "enero",
+      "año",
+      "rusia",
+      "asumió",
+      "presidencia",
+      "rotatoria",
+      "brics",
+      "2024",
+      ",",
+      "año",
+      "empezó",
+      "admisión",
+      "nuevos",
+      "miembros",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 52,
+      "VBZ": 6,
+      "FW": 56,
+      "NN": 73,
+      "NNS": 10,
+      "VBP": 6,
+      "JJ": 23,
+      "IN": 9,
+      "DT": 2,
+      "CC": 1,
+      "VBD": 2,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 5,
+      "VBZ-FW": 1,
+      "FW-FW": 33,
+      "FW-NNP": 11,
+      "NNP-NNP": 25,
+      "NNP-NN": 10,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "JJ-NN": 13,
+      "NN-NN": 38,
+      "NN-FW": 11,
+      "FW-NN": 8,
+      "NN-JJ": 3,
+      "NN-IN": 7,
+      "IN-NNP": 2,
+      "NN-NNP": 6,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "IN-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NNP": 5,
+      "NNP-FW": 5,
+      "NNP-JJ": 2,
+      "IN-FW": 5,
+      "FW-JJ": 3,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "IN-NN": 1,
+      "VBZ-JJ": 3,
+      "VBP-IN": 1,
+      "JJ-NNS": 2,
+      "NNS-NNS": 1,
+      "NNP-IN": 1,
+      "NNS-NNP": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "VBZ-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-NN": 1,
+      "NN-VBZ": 1,
+      "JJ-FW": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 5,
+      "NN-NN-NN": 22,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 5,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-NNP": 16,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-NNS": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-FW": 3,
+      "FW-NN-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-JJ": 1,
+      "FW-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-NN": 1,
+      "NNS-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 73,
+        "FW": 56,
+        "NNP": 52,
+        "JJ": 23,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 33,
+        "NNP-NNP": 25,
+        "JJ-NN": 13,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 21,
+        "NNP-NNP-NNP": 16,
+        "FW-FW-NNP": 7,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 75,
+      "VP": 17,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('BRICS', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP VP ('del', 'FW') ('inicio', 'FW') ('de', 'FW') ('la', 'FW') NP VP (',', ',') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP PP (',', ',') NP (',', ',') VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Poco', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('antes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Cumbre', 'NNP') ('BRICS', 'NNP') ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('horario', 'NN') ('del', 'NN') ('mediodía', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Poco"
+      },
+      {
+        "label": "VP",
+        "text": "antes"
+      },
+      {
+        "label": "NP",
+        "text": "Cumbre BRICS este martes"
+      },
+      {
+        "label": "VP",
+        "text": "en el horario del mediodía"
+      },
+      {
+        "label": "NP",
+        "text": "el horario del mediodía"
+      },
+      {
+        "label": "NP",
+        "text": "el presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Putin"
+      },
+      {
+        "label": "NP",
+        "text": "mantuvo"
+      },
+      {
+        "label": "NP",
+        "text": "una conversación telefónica con su homólogo"
+      },
+      {
+        "label": "PP",
+        "text": "de Brasil"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil"
+      },
+      {
+        "label": "NP",
+        "text": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "label": "VP",
+        "text": "quien no podrá asistir"
+      },
+      {
+        "label": "NP",
+        "text": "no podrá asistir"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Poco/NNP)\n  (VP antes/VBZ)\n  del/FW\n  inicio/FW\n  de/FW\n  la/FW\n  (NP Cumbre/NNP BRICS/NNP este/NN martes/NNS)\n  (VP en/VBP (NP el/JJ horario/NN del/NN mediodía/NN))\n  ,/,\n  (NP el/JJ presidente/NN)\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (NP mantuvo/NN)\n  (NP una/JJ conversación/NN telefónica/NN con/NN su/NN homólogo/NN)\n  (PP de/IN (NP Brasil/NNP))\n  ,/,\n  (NP Luiz/NNP Inácio/NNP Lula/NNP da/NN Silva/NN)\n  ,/,\n  (VP quien/VBZ (NP no/DT podrá/JJ asistir/NN))\n  (PP de/IN (NP forma/JJ presencial/NN))\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  (NP un/JJ encuentro/JJ con/NN el/NN presidente/NN chino/NN)\n  ,/,\n  (NP Xi/NNP Jinping/NNP)\n  ,/,\n  (NP al/JJ margen/NN)\n  de/IN\n  la/FW\n  (NP cumbre/NN)\n  ,/,\n  (NP Putin/NNP)\n  (VP expresó/VBZ (NP “/JJ Acabo/NNP))\n  de/FW\n  terminar/FW\n  (NP una/JJ conversación/NN con/NN)\n  el/FW\n  (NP presidente/NN)\n  de/FW\n  (NP Brasil/NNP)\n  ,/,\n  (VP el/VBZ (NP señor/JJ Lula/NNP))\n  ;/:\n  (NP como/NN saben/NN)\n  ,/,\n  (NP tuvo/NN que/NN quedarse/NN)\n  en/FW\n  (NP casa/NN por/NN razones/NNS médicas/NN)\n  ,/,\n  (NP lamenta/JJ mucho/NN)\n  (NP no/DT poder/NN venir/NN)\n  (PP en/IN (NP persona/NN))\n  ,/,\n  (NP pero/NN tiene/NN)\n  la/FW\n  intención/FW\n  de/FW\n  trabajar/FW\n  (NP con/NN nosotros/NNS)\n  (VP mañana/VBP (NP por/JJ videoconferencia/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  (NP\n    un/JJ\n    comunicado/NN\n    del/NN\n    Gobierno/NNP\n    brasileño/NN\n    informó/NN\n    que/NN\n    “/NNP\n    se/NN\n    harán/NN\n    los/NN)\n  (NP arreglos/JJ para/NN su/NN participación/NN)\n  en/IN\n  la/FW\n  reunión/FW\n  (/(\n  de/FW\n  los/FW\n  (NP BRICS/NNP)\n  )/)\n  (NP a/DT través/NN)\n  de/IN\n  videoconferencia/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Hace/NNP pocos/NN días/NN)\n  ,/,\n  el/FW\n  presidente/FW\n  brasileño/FW\n  se/FW\n  golpeó/FW\n  en/FW\n  la/FW\n  cabeza/FW\n  tras/FW\n  sufrir/FW\n  (NP un/JJ accidente/NN)\n  ,/,\n  (NP lo/JJ cual/JJ provocó/NN heridas/NNS)\n  (VP internas/VBP)\n  de/IN\n  poca/FW\n  (NP gravedad/NN)\n  ,/,\n  (NP pero/NN potencialmente/NN peligrosas/NN)\n  ./.)",
+      "(S\n  (NP Este/NN martes/NNS)\n  (VP se/VBP)\n  (VP someterá/VB (NP a/DT nuevos/JJ exámenes/NNS médicos/NNS))\n  (VP en/VBP (NP el/JJ Hospital/NNP Sirio-Libanés/NNP))\n  (PP de/IN (NP Brasilia/NNP))\n  ,/,\n  (NP informan/JJ medios/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          343,
+          350
+        ],
+        "start": 343,
+        "end": 350
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          663,
+          670
+        ],
+        "start": 663,
+        "end": 670
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de rusia",
+        "position": [
+          84,
+          103
+        ],
+        "start": 84,
+        "end": 103
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1009,
+          1017
+        ],
+        "start": 1009,
+        "end": 1017
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          176,
+          182
+        ],
+        "start": 176,
+        "end": 182
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1348,
+          1362
+        ],
+        "start": 1348,
+        "end": 1362
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          98,
+          103
+        ],
+        "start": 98,
+        "end": 103
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "brasilia",
+        "position": [
+          1035,
+          1043
+        ],
+        "start": 1035,
+        "end": 1043
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital sirio",
+        "position": [
+          1009,
+          1023
+        ],
+        "start": 1009,
+        "end": 1023
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          580,
+          586
+        ],
+        "start": 580,
+        "end": 586
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1062,
+          1073
+        ],
+        "start": 1062,
+        "end": 1073
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "1 de enero de",
+        "position": [
+          1461,
+          1475
+        ],
+        "start": 1461,
+        "end": 1475
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lula",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Arabia Saudita",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hospital Sirio-Libanés",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Etiopía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudáfrica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Emiratos Árabes Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno brasileño",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cumbre BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xi Jinping",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Occidente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasilia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cumbre BRICS",
+        "relacion": "ANTES_MANTENER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Cumbre BRICS",
+        "relacion": "ANTES_MANTENER",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Cumbre BRICS",
+        "relacion": "ANTES_MANTENER",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Cumbre BRICS",
+        "relacion": "ANTES_MANTENER",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "MANTENER",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "MANTENER",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "MANTENER",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "MANTENER",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "MANTENER",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "EXPRESAR",
+        "objeto": "Xi Jinping"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "EXPRESAR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "EXPRESAR",
+        "objeto": "Lula"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "EXPRESAR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "EXPRESAR",
+        "objeto": "Lula"
+      },
+      {
+        "sujeto": "Gobierno brasileño",
+        "relacion": "INFORMAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "Etiopía"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "India"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "Sudáfrica"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "Arabia Saudita"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "INTEGRAR",
+        "objeto": "Emiratos Árabes Unidos"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "ASUMIR",
+        "objeto": "BRICS"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.982,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

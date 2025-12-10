@@ -1,0 +1,650 @@
+{
+  "url": "https://www.telesurtv.net/24-muertos-y-cinco-lesionados-al-desbarrancarse-un-autobus-en-zacatecas-mexico/",
+  "title": "24 muertos y cinco lesionados al desbarrancarse un autobús en Zacatecas, México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "autobús",
+    "barranco",
+    "lesionados",
+    "México",
+    "Zacatecas"
+  ],
+  "text": "El accidente ocurrió en la madrugada de este sábado cuando un tractocamión perdió su segundo remolque, que transportaba maíz. Este desprendimiento causó que el conductor del autobús, que viajaba de Nayarit a Ciudad Juárez, perdiera el control del vehículo, el cual se desvió del camino y cayó a un barranco de más de 10 metros, volcándose al impactar.\nDespués de recibir el reporte del accidente, las autoridades policiales y de rescate de los municipios de Zacatecas y Aguascalientes se movilizaron al lugar.\nLa Guardia Nacional activó un plan de auxilio a la población tras registrarse la volcadura de un autobús de pasajeros.\nEl ente de seguridad informó también que en la zona” se brinda abanderamiento, seguridad perimetral, limpieza de la vía de comunicación y se apoya a los cuerpos de rescate que trabajan en el lugar”.\nPor su parte, el secretario general del Gobierno del Estado, Rodrigo Reyes Mugüerza, anunció en su cuenta de Facebook que en las próximas horas se dará a conocer la lista de personas hospitalizadas y los resultados del peritaje realizado por la Fiscalía General de Justicia del Estado.\nEste accidente ocurre luego de que el periódico El Sol de Zacatecas reportara, el pasado 4 de agosto, la volcadura de un autobús de pasajeros de la línea Ómnibus de México en la carretera federal 54 Zacatecas-Saltillo, específicamente en el kilómetro 092+200, cerca de la comunidad de Sierra Vieja en el municipio de Villa de Cos.\nComo resultado del incidente, que ocurrió alrededor de las tres de la madrugada, dos personas perdieron la vida y 20 resultaron heridas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/24-muertos-y-cinco-lesionados-al-desbarrancarse-un-autobus-en-zacatecas-mexico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 359,
+    "message_id": 79229,
+    "date": "2024-10-26T17:55:07+00:00",
+    "text": "teleSUR\n24 muertos y cinco lesionados al desbarrancarse un autobús en Zacatecas, México\nhttps://www.telesurtv.net/24-muertos-y-cinco-lesionados-al-desbarrancarse-un-autobus-en-zacatecas-mexico/",
+    "photo_path": null,
+    "views": 3352,
+    "reactions": {
+      "😭": 50,
+      "👍": 2,
+      "😱": 2
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "el accidente ocurrió en la madrugada de este sábado cuando un tractocamión perdió su segundo remolque, que transportaba maíz. este desprendimiento causó que el conductor del autobús, que viajaba de nayarit a ciudad juárez, perdiera el control del vehículo, el cual se desvió del camino y cayó a un barranco de más de 10 metros, volcándose al impactar. después de recibir el reporte del accidente, las autoridades policiales y de rescate de los municipios de zacatecas y aguascalientes se movilizaron al lugar. la guardia nacional activó un plan de auxilio a la población tras registrarse la volcadura de un autobús de pasajeros. el ente de seguridad informó también que en la zona” se brinda abanderamiento, seguridad perimetral, limpieza de la vía de comunicación y se apoya a los cuerpos de rescate que trabajan en el lugar”. por su parte, el secretario general del gobierno del estado, rodrigo reyes mugüerza, anunció en su cuenta de facebook que en las próximas horas se dará a conocer la lista de personas hospitalizadas y los resultados del peritaje realizado por la fiscalía general de justicia del estado. este accidente ocurre luego de que el periódico el sol de zacatecas reportara, el pasado 4 de agosto, la volcadura de un autobús de pasajeros de la línea ómnibus de méxico en la carretera federal 54 zacatecas-saltillo, específicamente en el kilómetro 092+200, cerca de la comunidad de sierra vieja en el municipio de villa de cos. como resultado del incidente, que ocurrió alrededor de las tres de la madrugada, dos personas perdieron la vida y 20 resultaron heridas.",
+    "tokens": [
+      "accidente",
+      "ocurrió",
+      "madrugada",
+      "sábado",
+      "tractocamión",
+      "perdió",
+      "segundo",
+      "remolque",
+      ",",
+      "transportaba",
+      "maíz",
+      ".",
+      "desprendimiento",
+      "causó",
+      "conductor",
+      "autobús",
+      ",",
+      "viajaba",
+      "nayarit",
+      "ciudad",
+      "juárez",
+      ",",
+      "perdiera",
+      "control",
+      "vehículo",
+      ",",
+      "desvió",
+      "camino",
+      "cayó",
+      "barranco",
+      "10",
+      "metros",
+      ",",
+      "volcándose",
+      "impactar",
+      ".",
+      "después",
+      "recibir",
+      "reporte",
+      "accidente",
+      ",",
+      "autoridades",
+      "policiales",
+      "rescate",
+      "municipios",
+      "zacatecas",
+      "aguascalientes",
+      "movilizaron",
+      "lugar",
+      ".",
+      "guardia",
+      "nacional",
+      "activó",
+      "plan",
+      "auxilio",
+      "población",
+      "tras",
+      "registrarse",
+      "volcadura",
+      "autobús",
+      "pasajeros",
+      ".",
+      "ente",
+      "seguridad",
+      "informó",
+      "zona",
+      "”",
+      "brinda",
+      "abanderamiento",
+      ",",
+      "seguridad",
+      "perimetral",
+      ",",
+      "limpieza",
+      "vía",
+      "comunicación",
+      "apoya",
+      "cuerpos",
+      "rescate",
+      "trabajan",
+      "lugar",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "secretario",
+      "general",
+      "gobierno",
+      ",",
+      "rodrigo",
+      "reyes",
+      "mugüerza",
+      ",",
+      "anunció",
+      "cuenta",
+      "facebook",
+      "próximas",
+      "horas",
+      "dará",
+      "conocer",
+      "lista",
+      "personas",
+      "hospitalizadas",
+      "resultados",
+      "peritaje",
+      "realizado",
+      "fiscalía",
+      "general",
+      "justicia",
+      ".",
+      "accidente",
+      "ocurre",
+      "luego",
+      "periódico",
+      "sol",
+      "zacatecas",
+      "reportara",
+      ",",
+      "pasado",
+      "4",
+      "agosto",
+      ",",
+      "volcadura",
+      "autobús",
+      "pasajeros",
+      "línea",
+      "ómnibus",
+      "méxico",
+      "carretera",
+      "federal",
+      "54",
+      "zacatecas-saltillo",
+      ",",
+      "específicamente",
+      "kilómetro",
+      "092+200",
+      ",",
+      "cerca",
+      "comunidad",
+      "sierra",
+      "vieja",
+      "municipio",
+      "villa",
+      "cos",
+      ".",
+      "resultado",
+      "incidente",
+      ",",
+      "ocurrió",
+      "alrededor",
+      "tres",
+      "madrugada",
+      ",",
+      "dos",
+      "personas",
+      "perdieron",
+      "vida",
+      "20",
+      "resultaron",
+      "heridas",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 69,
+      "IN": 13,
+      "FW": 105,
+      "JJ": 16,
+      "VBZ": 1,
+      "CD": 4,
+      "NNS": 4,
+      "VBD": 2,
+      "VBP": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 39,
+      "NN-IN": 10,
+      "IN-FW": 10,
+      "FW-FW": 80,
+      "FW-NN": 6,
+      "NN-JJ": 5,
+      "JJ-NN": 11,
+      "NN-NNP": 6,
+      "NN-FW": 7,
+      "FW-NNP": 12,
+      "NNP-NNP": 13,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 4,
+      "FW-CD": 3,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-IN": 2,
+      "FW-NNS": 3,
+      "NNS-FW": 1,
+      "NNP-VBD": 2,
+      "VBD-NNP": 1,
+      "NNP-FW": 7,
+      "IN-JJ": 1,
+      "IN-NN": 1,
+      "NNS-VBP": 1,
+      "VBP-JJ": 1,
+      "VBD-JJ": 1,
+      "IN-NNP": 1,
+      "FW-JJ": 1,
+      "JJ-CD": 1,
+      "CD-JJ": 1,
+      "CD-NN": 2,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 9,
+      "FW-FW-FW": 61,
+      "FW-FW-NN": 6,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 3,
+      "NN-NN-NN": 24,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 4,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-JJ": 3,
+      "JJ-NN-IN": 5,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-JJ": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 3,
+      "FW-NN-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 4,
+      "NNP-NN-FW": 2,
+      "FW-NNP-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-CD-NN": 2,
+      "CD-NN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-FW-CD": 1,
+      "CD-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 105,
+        "NN": 69,
+        "NNP": 34,
+        "JJ": 16,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 80,
+        "NN-NN": 39,
+        "NNP-NNP": 13,
+        "FW-NNP": 12,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 61,
+        "NN-NN-NN": 24,
+        "IN-FW-FW": 9,
+        "NN-IN-FW": 8,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 51,
+      "ADJP": 4,
+      "VP": 5,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0282
+      },
+      {
+        "rule": "S -> NP ('en', 'IN') ('la', 'FW') ('madrugada', 'FW') ('de', 'FW') ('este', 'FW') ('sábado', 'FW') NP NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('accidente', 'NN') ('ocurrió', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('cuando', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('tractocamión', 'NN') ('perdió', 'NN') ('su', 'NN') ('segundo', 'NN') ('remolque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('transportaba', 'NN') ('maíz', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "S -> NP (',', ',') ADJP ('viajaba', 'FW') ('de', 'FW') ('Nayarit', 'FW') NP (',', ',') NP (',', ',') VP VP ('de', 'IN') ('más', 'FW') ('de', 'FW') ('10', 'CD') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('desprendimiento', 'NN') ('causó', 'NN') ('que', 'NN') ('el', 'NN') ('conductor', 'NN') ('del', 'NN') ('autobús', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "ADJP -> ('que', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Ciudad', 'NNP') ('Juárez', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0141
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El accidente ocurrió"
+      },
+      {
+        "label": "NP",
+        "text": "cuando"
+      },
+      {
+        "label": "NP",
+        "text": "un tractocamión perdió su segundo remolque"
+      },
+      {
+        "label": "NP",
+        "text": "que transportaba maíz"
+      },
+      {
+        "label": "NP",
+        "text": "Este desprendimiento causó que el conductor del autobús"
+      },
+      {
+        "label": "ADJP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "a Ciudad Juárez"
+      },
+      {
+        "label": "NP",
+        "text": "perdiera el control del vehículo"
+      },
+      {
+        "label": "VP",
+        "text": "el cual se desvió del camino y"
+      },
+      {
+        "label": "NP",
+        "text": "cual se desvió del camino y"
+      },
+      {
+        "label": "VP",
+        "text": "cayó a un barranco"
+      },
+      {
+        "label": "NP",
+        "text": "a un barranco"
+      },
+      {
+        "label": "NP",
+        "text": "metros"
+      },
+      {
+        "label": "NP",
+        "text": "volcándose al impactar"
+      },
+      {
+        "label": "NP",
+        "text": "Después"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP accidente/NN ocurrió/NN)\n  en/IN\n  la/FW\n  madrugada/FW\n  de/FW\n  este/FW\n  sábado/FW\n  (NP cuando/NN)\n  (NP un/JJ tractocamión/NN perdió/NN su/NN segundo/NN remolque/NN)\n  ,/,\n  (NP que/JJ transportaba/NN maíz/NN)\n  ./.)",
+      "(S\n  (NP\n    Este/NN\n    desprendimiento/NN\n    causó/NN\n    que/NN\n    el/NN\n    conductor/NN\n    del/NN\n    autobús/NN)\n  ,/,\n  (ADJP que/JJ)\n  viajaba/FW\n  de/FW\n  Nayarit/FW\n  (NP a/DT Ciudad/NNP Juárez/NNP)\n  ,/,\n  (NP perdiera/NN el/NN control/NN del/NN vehículo/NN)\n  ,/,\n  (VP el/VBP (NP cual/JJ se/NN desvió/NN del/NN camino/NN y/NN))\n  (VP cayó/VBZ (NP a/DT un/JJ barranco/NN))\n  de/IN\n  más/FW\n  de/FW\n  10/CD\n  (NP metros/NNS)\n  ,/,\n  (NP volcándose/JJ al/NN impactar/NN)\n  ./.)",
+      "(S\n  (NP Después/NNP)\n  de/FW\n  recibir/FW\n  el/FW\n  reporte/FW\n  del/FW\n  (NP accidente/NN)\n  ,/,\n  las/FW\n  (NP autoridades/NNS policiales/NNS)\n  y/FW\n  de/FW\n  rescate/FW\n  de/FW\n  los/FW\n  municipios/FW\n  de/FW\n  (NP Zacatecas/NNP)\n  y/CC\n  (NP Aguascalientes/NNP)\n  (VP se/VBP (NP movilizaron/NN al/NN lugar/NN))\n  ./.)",
+      "(S\n  (NP La/NNP Guardia/NNP Nacional/NNP activó/NN)\n  (NP un/JJ plan/NN)\n  de/IN\n  auxilio/FW\n  (NP a/DT la/NN población/NN tras/NNS)\n  (VP registrarse/VBP la/JJ)\n  volcadura/FW\n  de/FW\n  un/FW\n  autobús/FW\n  de/FW\n  pasajeros/FW\n  ./.)",
+      "(S\n  (NP El/NNP)\n  ente/FW\n  de/FW\n  seguridad/FW\n  informó/FW\n  (NP también/NN que/NN)\n  en/IN\n  la/FW\n  zona/FW\n  ”/FW\n  se/FW\n  (NP brinda/NN abanderamiento/NN)\n  ,/,\n  (NP seguridad/JJ perimetral/NN)\n  ,/,\n  limpieza/FW\n  de/FW\n  la/FW\n  vía/FW\n  de/FW\n  comunicación/FW\n  y/FW\n  se/FW\n  apoya/FW\n  (NP a/DT los/JJ cuerpos/NN)\n  (PP de/IN (NP rescate/NN que/NN trabajan/NN))\n  (PP en/IN (NP el/NN lugar/NN ”/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          650,
+          657
+        ],
+        "start": 650,
+        "end": 657
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del estado",
+        "position": [
+          868,
+          887
+        ],
+        "start": 868,
+        "end": 887
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periódico el sol",
+        "position": [
+          1152,
+          1168
+        ],
+        "start": 1152,
+        "end": 1168
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "carretera",
+        "position": [
+          1292,
+          1301
+        ],
+        "start": 1292,
+        "end": 1301
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          1279,
+          1285
+        ],
+        "start": 1279,
+        "end": 1285
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona” se",
+        "position": [
+          676,
+          684
+        ],
+        "start": 676,
+        "end": 684
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la madrugada",
+        "position": [
+          21,
+          36
+        ],
+        "start": 21,
+        "end": 36
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10",
+        "position": [
+          310,
+          319
+        ],
+        "start": 310,
+        "end": 319
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Sierra Vieja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guardia Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno del Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aguascalientes",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía General de Justicia del Estado.",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Villa de Cos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zacatecas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nayarit",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ciudad Juárez",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rodrigo Reyes Mugüerza",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nayarit",
+        "relacion": "VIAJAR_PERDER_CAUSAR",
+        "objeto": "Ciudad Juárez"
+      },
+      {
+        "sujeto": "Gobierno del Estado",
+        "relacion": "ANUNCIAR",
+        "objeto": "Fiscalía General de Justicia del Estado."
+      },
+      {
+        "sujeto": "Rodrigo Reyes Mugüerza",
+        "relacion": "ANUNCIAR",
+        "objeto": "Fiscalía General de Justicia del Estado."
+      },
+      {
+        "sujeto": "Zacatecas",
+        "relacion": "REPORTAR_LUEGO_OCURRIR",
+        "objeto": "Sierra Vieja"
+      },
+      {
+        "sujeto": "Zacatecas",
+        "relacion": "REPORTAR_LUEGO_OCURRIR",
+        "objeto": "Villa de Cos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

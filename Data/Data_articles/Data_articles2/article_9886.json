@@ -1,0 +1,680 @@
+{
+  "url": "https://www.telesurtv.net/aumenta-a-227-numero-de-muertos-por-el-huracan-helene-en-ee-uu/",
+  "title": "Aumenta a 227 número de muertos por el huracán Helene en EE.UU. - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "EE.UU.",
+    "Huracán Helene",
+    "Muertos"
+  ],
+  "text": "El número de víctimas mortales que dejó el huracán Helene en el sureste de Estados Unidos (EE.UU.) aumentó a 227, superando el anterior dato confirmado de 130 fallecidos.\nCerca de un millón de personas se encuentran sin electricidad debido a los daños causados por el huracán, principalmente en Carolina del Norte y del Sur, según el sitio web poweroutage.us.\nAl panorama hay que agregarle que se carecen de los fondos suficientes para contrarrestar los efectos de la tormenta, declaró el secretario de Seguridad Nacional de EE.UU., Alejandro Mayorkas, sobre la Agencia Federal de Gestión de Emergencias (FEMA).\nEl secretario también afirmó que por el momento la agencia lleva a cabo una evaluación de daños en los estados afectados; además, se están repartiendo insumos médicos y alimentos, así como generadores y otros suministros de gran relevancia para la población.\nAun así, el representante de la FEMA no fue específico sobre el total de dinero necesario para desarrollar las acciones que contrarreste los embates del fenómeno hidrometeorológico actual.\nAsimismo, el presidente Joe Biden solicitó al Congreso esta semana la aprobación de fondos adicionales lo antes posible, al igual que la candidata a la presidencia Kamala Harris.\nHelene tocó tierra con un huracán categoría 4, el 27 de septiembre pasado, a unos 15 kilómetros al suroeste de Perry, en el estado de Florida, con vientos máximos sostenidos de 225 kilómetros por hora.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/aumenta-a-227-numero-de-muertos-por-el-huracan-helene-en-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1639,
+    "message_id": 77860,
+    "date": "2024-10-06T09:55:13+00:00",
+    "text": "teleSUR\nAumenta a 227 número de muertos por el huracán Helene en EE.UU.\nhttps://www.telesurtv.net/aumenta-a-227-numero-de-muertos-por-el-huracan-helene-en-ee-uu/",
+    "photo_path": null,
+    "views": 2907,
+    "reactions": {
+      "😱": 42,
+      "👍": 7,
+      "🙏": 4,
+      "🤬": 3,
+      "🥱": 1,
+      "😨": 1
+    },
+    "total_reactions": 58
+  },
+  "preprocessing": {
+    "cleaned": "el número de víctimas mortales que dejó el huracán helene en el sureste de estados unidos (ee.uu.) aumentó a 227, superando el anterior dato confirmado de 130 fallecidos. cerca de un millón de personas se encuentran sin electricidad debido a los daños causados por el huracán, principalmente en carolina del norte y del sur, según el sitio web poweroutage.us. al panorama hay que agregarle que se carecen de los fondos suficientes para contrarrestar los efectos de la tormenta, declaró el secretario de seguridad nacional de ee.uu., alejandro mayorkas, sobre la agencia federal de gestión de emergencias (fema). el secretario también afirmó que por el momento la agencia lleva a cabo una evaluación de daños en los estados afectados; además, se están repartiendo insumos médicos y alimentos, así como generadores y otros suministros de gran relevancia para la población. aun así, el representante de la fema no fue específico sobre el total de dinero necesario para desarrollar las acciones que contrarreste los embates del fenómeno hidrometeorológico actual. asimismo, el presidente joe biden solicitó al congreso esta semana la aprobación de fondos adicionales lo antes posible, al igual que la candidata a la presidencia kamala harris. helene tocó tierra con un huracán categoría 4, el 27 de septiembre pasado, a unos 15 kilómetros al suroeste de perry, en el estado de florida, con vientos máximos sostenidos de 225 kilómetros por hora.",
+    "tokens": [
+      "número",
+      "víctimas",
+      "mortales",
+      "dejó",
+      "huracán",
+      "helene",
+      "sureste",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "aumentó",
+      "227",
+      ",",
+      "superando",
+      "anterior",
+      "dato",
+      "confirmado",
+      "130",
+      "fallecidos",
+      ".",
+      "cerca",
+      "millón",
+      "personas",
+      "encuentran",
+      "electricidad",
+      "debido",
+      "daños",
+      "causados",
+      "huracán",
+      ",",
+      "principalmente",
+      "carolina",
+      "norte",
+      "sur",
+      ",",
+      "según",
+      "sitio",
+      "web",
+      "poweroutage.us",
+      ".",
+      "panorama",
+      "agregarle",
+      "carecen",
+      "fondos",
+      "suficientes",
+      "contrarrestar",
+      "efectos",
+      "tormenta",
+      ",",
+      "declaró",
+      "secretario",
+      "seguridad",
+      "nacional",
+      "ee.uu.",
+      ",",
+      "alejandro",
+      "mayorkas",
+      ",",
+      "agencia",
+      "federal",
+      "gestión",
+      "emergencias",
+      "(",
+      "fema",
+      ")",
+      ".",
+      "secretario",
+      "afirmó",
+      "momento",
+      "agencia",
+      "lleva",
+      "cabo",
+      "evaluación",
+      "daños",
+      "afectados",
+      ";",
+      "además",
+      ",",
+      "repartiendo",
+      "insumos",
+      "médicos",
+      "alimentos",
+      ",",
+      "así",
+      "generadores",
+      "suministros",
+      "gran",
+      "relevancia",
+      "población",
+      ".",
+      "aun",
+      "así",
+      ",",
+      "representante",
+      "fema",
+      "específico",
+      "total",
+      "dinero",
+      "necesario",
+      "desarrollar",
+      "acciones",
+      "contrarreste",
+      "embates",
+      "fenómeno",
+      "hidrometeorológico",
+      "actual",
+      ".",
+      "asimismo",
+      ",",
+      "presidente",
+      "joe",
+      "biden",
+      "solicitó",
+      "congreso",
+      "semana",
+      "aprobación",
+      "fondos",
+      "adicionales",
+      "posible",
+      ",",
+      "igual",
+      "candidata",
+      "presidencia",
+      "kamala",
+      "harris",
+      ".",
+      "helene",
+      "tocó",
+      "tierra",
+      "huracán",
+      "categoría",
+      "4",
+      ",",
+      "27",
+      "septiembre",
+      "pasado",
+      ",",
+      "15",
+      "kilómetros",
+      "suroeste",
+      "perry",
+      ",",
+      "florida",
+      ",",
+      "vientos",
+      "máximos",
+      "sostenidos",
+      "225",
+      "kilómetros",
+      "hora",
+      "."
+    ],
+    "token_count": 152,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 73,
+      "FW": 53,
+      "NNS": 10,
+      "VBP": 6,
+      "JJ": 23,
+      "IN": 12,
+      "VBD": 3,
+      "CD": 5,
+      "DT": 1,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-FW": 6,
+      "FW-FW": 31,
+      "FW-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 1,
+      "JJ-NN": 15,
+      "NN-NN": 39,
+      "NN-NNP": 4,
+      "NNP-FW": 8,
+      "FW-NN": 6,
+      "NN-IN": 11,
+      "IN-NNP": 4,
+      "NNP-NNP": 11,
+      "NNP-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NN": 1,
+      "NN-JJ": 8,
+      "IN-CD": 2,
+      "CD-JJ": 1,
+      "JJ-NNP": 2,
+      "FW-NNP": 10,
+      "IN-FW": 5,
+      "FW-JJ": 3,
+      "JJ-NNS": 1,
+      "VBP-NN": 2,
+      "VBD-FW": 1,
+      "IN-JJ": 1,
+      "NN-NNS": 2,
+      "VBP-FW": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 4,
+      "NNS-JJ": 3,
+      "VBZ-FW": 1,
+      "VBP-NNS": 2,
+      "NNP-JJ": 1,
+      "NN-VBD": 1,
+      "CD-IN": 1,
+      "JJ-CD": 1,
+      "CD-NNS": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 7,
+      "NN-NN-IN": 4,
+      "NN-IN-CD": 2,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-FW-FW": 22,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 20,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-FW": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NNP-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 3,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "IN-FW-FW": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 73,
+        "FW": 53,
+        "NNP": 32,
+        "JJ": 23,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 39,
+        "FW-FW": 31,
+        "JJ-NN": 15,
+        "NN-IN": 11,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 20,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 7,
+        "NN-JJ-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 14,
+      "PP": 3,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('FEMA', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('kilómetros', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('víctimas', 'FW') NP VP ('en', 'FW') ('el', 'FW') NP PP ('(', '(') NP (')', ')') VP ('a', 'DT') ('227', 'CD') (',', ',') NP NP ('de', 'IN') ('130', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('número', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('mortales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('dejó', 'JJ') ('el', 'NN') ('huracán', 'NN') ('Helene', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('sureste', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El número"
+      },
+      {
+        "label": "NP",
+        "text": "mortales"
+      },
+      {
+        "label": "VP",
+        "text": "que dejó el huracán Helene"
+      },
+      {
+        "label": "NP",
+        "text": "dejó el huracán Helene"
+      },
+      {
+        "label": "NP",
+        "text": "sureste"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "VP",
+        "text": "aumentó"
+      },
+      {
+        "label": "NP",
+        "text": "superando el"
+      },
+      {
+        "label": "NP",
+        "text": "anterior dato confirmado"
+      },
+      {
+        "label": "NP",
+        "text": "fallecidos"
+      },
+      {
+        "label": "NP",
+        "text": "Cerca"
+      },
+      {
+        "label": "NP",
+        "text": "sin electricidad"
+      },
+      {
+        "label": "VP",
+        "text": "debido a los daños causados por el huracán"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP número/NN)\n  de/FW\n  víctimas/FW\n  (NP mortales/NNS)\n  (VP que/VBP (NP dejó/JJ el/NN huracán/NN Helene/NNP))\n  en/FW\n  el/FW\n  (NP sureste/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (VP aumentó/VBD)\n  a/DT\n  227/CD\n  ,/,\n  (NP superando/NN el/NN)\n  (NP anterior/JJ dato/NN confirmado/NN)\n  de/IN\n  130/CD\n  (NP fallecidos/NNS)\n  ./.)",
+      "(S\n  (NP Cerca/NNP)\n  de/FW\n  un/FW\n  millón/FW\n  de/FW\n  personas/FW\n  se/FW\n  encuentran/FW\n  (NP sin/NN electricidad/NN)\n  (VP\n    debido/VBZ\n    (NP a/DT los/JJ daños/NN causados/NN por/NN el/NN huracán/NN))\n  ,/,\n  (NP principalmente/NN)\n  en/FW\n  (NP Carolina/NNP)\n  del/FW\n  (NP Norte/NNP)\n  y/CC\n  (NP del/NN Sur/NNP)\n  ,/,\n  (NP según/NN el/NN sitio/NN web/NN poweroutage.us/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP panorama/NN hay/NN que/NN agregarle/NN que/NN)\n  (NP se/JJ carecen/NN)\n  de/IN\n  los/FW\n  (NP fondos/JJ suficientes/NNS)\n  (VP para/VBP (NP contrarrestar/NN los/NN))\n  efectos/FW\n  de/FW\n  la/FW\n  tormenta/FW\n  ,/,\n  declaró/FW\n  el/FW\n  (NP secretario/NN)\n  (PP de/IN (NP Seguridad/NNP Nacional/NNP))\n  de/FW\n  (NP EE.UU./NNP)\n  ,/,\n  (NP Alejandro/NNP Mayorkas/NNP)\n  ,/,\n  (NP sobre/NN la/NN Agencia/NNP Federal/NNP)\n  de/FW\n  (NP Gestión/NNP)\n  de/FW\n  (NP Emergencias/NNP)\n  (/(\n  (NP FEMA/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    secretario/NN\n    también/NN\n    afirmó/NN\n    que/NN\n    por/NN\n    el/NN\n    momento/NN\n    la/NN)\n  (VP agencia/VBP)\n  (VP lleva/VBZ (NP a/DT cabo/NN) (NP una/JJ evaluación/NN))\n  de/IN\n  daños/FW\n  en/FW\n  los/FW\n  (NP estados/JJ afectados/NN)\n  ;/:\n  además/CC\n  ,/,\n  (ADJP se/JJ)\n  están/FW\n  (NP repartiendo/NN insumos/NN médicos/NN y/NN alimentos/NN)\n  ,/,\n  (NP así/JJ como/NN generadores/NNS)\n  (VP y/VBP otros/JJ)\n  suministros/FW\n  de/FW\n  gran/FW\n  relevancia/FW\n  (NP para/NN la/NN población/NN)\n  ./.)",
+      "(S\n  (NP Aun/NNP así/NN)\n  ,/,\n  (NP el/JJ representante/NN)\n  de/IN\n  la/FW\n  (NP FEMA/NNP)\n  (NP no/DT fue/NN)\n  (VP específico/VBZ (NP sobre/JJ el/JJ total/NN))\n  de/IN\n  dinero/FW\n  (NP necesario/NN para/NN)\n  (NP desarrollar/JJ las/NN acciones/NNS)\n  (NP que/JJ contrarreste/NN los/NN)\n  (VP embates/VBZ)\n  del/FW\n  (NP fenómeno/JJ hidrometeorológico/NN)\n  (ADJP actual/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          478,
+          485
+        ],
+        "start": 478,
+        "end": 485
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente joe biden",
+        "position": [
+          1073,
+          1093
+        ],
+        "start": 1073,
+        "end": 1093
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          220,
+          232
+        ],
+        "start": 220,
+        "end": 232
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          75,
+          89
+        ],
+        "start": 75,
+        "end": 89
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1363,
+          1372
+        ],
+        "start": 1363,
+        "end": 1372
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          1115,
+          1126
+        ],
+        "start": 1115,
+        "end": 1126
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Florida",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perry",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Helene",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FEMA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kamala Harris",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Agencia Federal de Gestión de Emergencias",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Seguridad Nacional de EE.UU.",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Carolina del Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alejandro Mayorkas",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Helene",
+        "relacion": "DEJAR_AUMENTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Helene",
+        "relacion": "DEJAR_AUMENTAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "SOLICITAR",
+        "objeto": "Congreso"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "SOLICITAR",
+        "objeto": "Kamala Harris"
+      },
+      {
+        "sujeto": "Congreso",
+        "relacion": "SOLICITAR",
+        "objeto": "Kamala Harris"
+      },
+      {
+        "sujeto": "Helene",
+        "relacion": "TOCAR",
+        "objeto": "Perry"
+      },
+      {
+        "sujeto": "Helene",
+        "relacion": "TOCAR",
+        "objeto": "Florida"
+      },
+      {
+        "sujeto": "Perry",
+        "relacion": "TOCAR",
+        "objeto": "Florida"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7003,
+    "pos": 0.0,
+    "neu": 0.974,
+    "neg": 0.026,
+    "label": "negative"
+  }
+}

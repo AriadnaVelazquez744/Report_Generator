@@ -1,0 +1,801 @@
+{
+  "url": "https://www.telesurtv.net/ascienden-a-42-010-los-muertos-y-a-97-720-los-heridos-a-causa-de-las-masacres-israelies/",
+  "title": "Ascienden a 42.010 los muertos y a 97.720 los heridos a causa de las masacres israelíes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "genocidio",
+    "Israel",
+    "Masacre israelí",
+    "Oriente Medio",
+    "Palestina"
+  ],
+  "text": "\nEl Ministerio de Sanidad de Gaza actualizó las cifras de muertos y heridos provocados por los contantes bombardeos y la ocupación en la Franja de Gaza. El balance de la agresión israelí asciende a 42.010 los mártires y a 97.720 los heridos.\nEl Informe estadístico diario explica que en las últimas 24 horas, la ocupación israelí cometió 3 masacres contra familias de la Franja de Gaza, que causaron la muerte de 45 personas y otras 130 fueron hospitalizadas a casusa de las heridas.\nLas autoridades sanitarias denuncian que numerosas víctimas continúan bajo los escombros y en las carreteras, a los cuales los equipos de ambulancias y protección civil no pueden llegar a causa de los sistemáticos bombardeos.\nHoras antes, el Ministerio de Sanidad anunciaba que las tropas de ocupación entraron al Hospital Kamal Adwan en la gobernación del norte de Gaza e incendiaron la oficina de administración. Informaron que el hospital se veía obligado a cerrar debido a la falta de combustible.\nEl Ejército de ocupación continúa sus incursiones y ataques aéreos y remotos sobre las ruinas de la Franja de Gaza, en su empeño de masacrar a toda la población que resiste en las peores condiciones de vida jamás vistas en la Franja, pues las tropas israelíes se han encargado de acabar con la mayoría de las fuentes de alimentos y agua potable con que contaban los gazatíes.\nDe igual modo incursionan en Cisjordania y cometen masacres y detenciones arbitrarias e ilegales entre las poblaciones de Ramallah, Nablus, y otras ciudades del territorio palestino ocupado.\nEn su retórica, los sionistas mantienen que nunca han atacado a la población civil gazatí, discurso desmentido por las cifras de masacrados en los campos de refugiados, las escuelas, las fronteras con el Líbano, los edificios residenciales, los sitios de valor histórico y todo el territorio de la Franja que ha sido devastado por Israel.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ascienden-a-42-010-los-muertos-y-a-97-720-los-heridos-a-causa-de-las-masacres-israelies/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1444,
+    "message_id": 78069,
+    "date": "2024-10-09T12:55:07+00:00",
+    "text": "teleSUR\nAscienden a 42.010 los muertos y a 97.720 los heridos a causa de las masacres israelíes\nhttps://www.telesurtv.net/ascienden-a-42-010-los-muertos-y-a-97-720-los-heridos-a-causa-de-las-masacres-israelies/",
+    "photo_path": null,
+    "views": 2566,
+    "reactions": {
+      "🤬": 56,
+      "😈": 3,
+      "👍": 2
+    },
+    "total_reactions": 61
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de sanidad de gaza actualizó las cifras de muertos y heridos provocados por los contantes bombardeos y la ocupación en la franja de gaza. el balance de la agresión israelí asciende a 42.010 los mártires y a 97.720 los heridos. el informe estadístico diario explica que en las últimas 24 horas, la ocupación israelí cometió 3 masacres contra familias de la franja de gaza, que causaron la muerte de 45 personas y otras 130 fueron hospitalizadas a casusa de las heridas. las autoridades sanitarias denuncian que numerosas víctimas continúan bajo los escombros y en las carreteras, a los cuales los equipos de ambulancias y protección civil no pueden llegar a causa de los sistemáticos bombardeos. horas antes, el ministerio de sanidad anunciaba que las tropas de ocupación entraron al hospital kamal adwan en la gobernación del norte de gaza e incendiaron la oficina de administración. informaron que el hospital se veía obligado a cerrar debido a la falta de combustible. el ejército de ocupación continúa sus incursiones y ataques aéreos y remotos sobre las ruinas de la franja de gaza, en su empeño de masacrar a toda la población que resiste en las peores condiciones de vida jamás vistas en la franja, pues las tropas israelíes se han encargado de acabar con la mayoría de las fuentes de alimentos y agua potable con que contaban los gazatíes. de igual modo incursionan en cisjordania y cometen masacres y detenciones arbitrarias e ilegales entre las poblaciones de ramallah, nablus, y otras ciudades del territorio palestino ocupado. en su retórica, los sionistas mantienen que nunca han atacado a la población civil gazatí, discurso desmentido por las cifras de masacrados en los campos de refugiados, las escuelas, las fronteras con el líbano, los edificios residenciales, los sitios de valor histórico y todo el territorio de la franja que ha sido devastado por israel.",
+    "tokens": [
+      "ministerio",
+      "sanidad",
+      "gaza",
+      "actualizó",
+      "cifras",
+      "muertos",
+      "heridos",
+      "provocados",
+      "contantes",
+      "bombardeos",
+      "ocupación",
+      "franja",
+      "gaza",
+      ".",
+      "balance",
+      "agresión",
+      "israelí",
+      "asciende",
+      "42.010",
+      "mártires",
+      "97.720",
+      "heridos",
+      ".",
+      "informe",
+      "estadístico",
+      "diario",
+      "explica",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "ocupación",
+      "israelí",
+      "cometió",
+      "3",
+      "masacres",
+      "familias",
+      "franja",
+      "gaza",
+      ",",
+      "causaron",
+      "muerte",
+      "45",
+      "personas",
+      "130",
+      "hospitalizadas",
+      "casusa",
+      "heridas",
+      ".",
+      "autoridades",
+      "sanitarias",
+      "denuncian",
+      "numerosas",
+      "víctimas",
+      "continúan",
+      "bajo",
+      "escombros",
+      "carreteras",
+      ",",
+      "cuales",
+      "equipos",
+      "ambulancias",
+      "protección",
+      "civil",
+      "pueden",
+      "llegar",
+      "causa",
+      "sistemáticos",
+      "bombardeos",
+      ".",
+      "horas",
+      ",",
+      "ministerio",
+      "sanidad",
+      "anunciaba",
+      "tropas",
+      "ocupación",
+      "entraron",
+      "hospital",
+      "kamal",
+      "adwan",
+      "gobernación",
+      "norte",
+      "gaza",
+      "incendiaron",
+      "oficina",
+      "administración",
+      ".",
+      "informaron",
+      "hospital",
+      "veía",
+      "obligado",
+      "cerrar",
+      "debido",
+      "falta",
+      "combustible",
+      ".",
+      "ejército",
+      "ocupación",
+      "continúa",
+      "incursiones",
+      "ataques",
+      "aéreos",
+      "remotos",
+      "ruinas",
+      "franja",
+      "gaza",
+      ",",
+      "empeño",
+      "masacrar",
+      "toda",
+      "población",
+      "resiste",
+      "peores",
+      "condiciones",
+      "vida",
+      "jamás",
+      "vistas",
+      "franja",
+      ",",
+      "pues",
+      "tropas",
+      "israelíes",
+      "encargado",
+      "acabar",
+      "mayoría",
+      "fuentes",
+      "alimentos",
+      "agua",
+      "potable",
+      "contaban",
+      "gazatíes",
+      ".",
+      "igual",
+      "modo",
+      "incursionan",
+      "cisjordania",
+      "cometen",
+      "masacres",
+      "detenciones",
+      "arbitrarias",
+      "ilegales",
+      "poblaciones",
+      "ramallah",
+      ",",
+      "nablus",
+      ",",
+      "ciudades",
+      "territorio",
+      "palestino",
+      "ocupado",
+      ".",
+      "retórica",
+      ",",
+      "sionistas",
+      "mantienen",
+      "nunca",
+      "atacado",
+      "población",
+      "civil",
+      "gazatí",
+      ",",
+      "discurso",
+      "desmentido",
+      "cifras",
+      "masacrados",
+      "campos",
+      "refugiados",
+      ",",
+      "escuelas",
+      ",",
+      "fronteras",
+      "líbano",
+      ",",
+      "edificios",
+      "residenciales",
+      ",",
+      "sitios",
+      "valor",
+      "histórico",
+      "territorio",
+      "franja",
+      "sido",
+      "devastado",
+      "israel",
+      "."
+    ],
+    "token_count": 186,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "IN": 14,
+      "FW": 82,
+      "CC": 1,
+      "JJ": 27,
+      "NN": 81,
+      "VBZ": 6,
+      "CD": 5,
+      "NNS": 19,
+      "RB": 2,
+      "VBP": 13,
+      "DT": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 7,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-FW": 7,
+      "FW-NNP": 14,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 16,
+      "NN-IN": 7,
+      "IN-FW": 9,
+      "FW-JJ": 6,
+      "NN-NN": 41,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-FW": 3,
+      "FW-FW": 47,
+      "NNP-NN": 9,
+      "NN-FW": 12,
+      "FW-NN": 9,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "NN-NNS": 6,
+      "NNS-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NNP": 3,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "FW-CD": 2,
+      "CD-NNS": 2,
+      "NNS-RB": 2,
+      "RB-VBP": 1,
+      "VBP-JJ": 6,
+      "NNS-VBP": 9,
+      "VBP-FW": 2,
+      "RB-CD": 1,
+      "FW-NNS": 4,
+      "NNS-NNP": 1,
+      "NN-JJ": 6,
+      "VBP-NNS": 1,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "NN-NNP": 3,
+      "VBZ-FW": 1,
+      "NN-VBP": 3,
+      "VBP-NN": 2,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "NNP-NNS": 1,
+      "NNS-IN": 4,
+      "NNP-JJ": 1,
+      "VBZ-NNS": 1,
+      "IN-NNS": 1,
+      "JJ-NNS": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-FW": 1,
+      "VBP-NNP": 1,
+      "NNS-VBZ": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 20,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 5,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 9,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-FW": 8,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 2,
+      "CD-NNS-RB": 2,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 1,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 5,
+      "NNS-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-IN": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "NN-NN-JJ": 5,
+      "NN-JJ-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "IN-FW-FW": 3,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNP-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "FW-JJ-NNP": 1,
+      "NNP-IN-FW": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "VBP-FW-NNP": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "NN-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 82,
+        "NN": 81,
+        "NNP": 33,
+        "JJ": 27,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 47,
+        "NN-NN": 41,
+        "JJ-NN": 16,
+        "FW-NNP": 14,
+        "NN-FW": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 20,
+        "NN-FW-FW": 9,
+        "JJ-NN-NN": 8,
+        "NN-NN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 7,
+      "VP": 17,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 5,
+        "weight": 0.042
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('cifras', 'NN')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('las', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP ('actualizó', 'CC') NP ('de', 'IN') ('muertos', 'FW') ('y', 'FW') ('heridos', 'FW') ('provocados', 'FW') ('por', 'FW') ('los', 'FW') NP VP ('ocupación', 'FW') ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('Sanidad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('contantes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Sanidad"
+      },
+      {
+        "label": "NP",
+        "text": "Sanidad"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "las cifras"
+      },
+      {
+        "label": "NP",
+        "text": "contantes"
+      },
+      {
+        "label": "VP",
+        "text": "bombardeos y la"
+      },
+      {
+        "label": "NP",
+        "text": "y la"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "El balance"
+      },
+      {
+        "label": "VP",
+        "text": "asciende"
+      },
+      {
+        "label": "NP",
+        "text": "los mártires"
+      },
+      {
+        "label": "VP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "los heridos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Sanidad/NNP))\n  de/FW\n  (NP Gaza/NNP)\n  actualizó/CC\n  (NP las/JJ cifras/NN)\n  de/IN\n  muertos/FW\n  y/FW\n  heridos/FW\n  provocados/FW\n  por/FW\n  los/FW\n  (NP contantes/NNS)\n  (VP bombardeos/VBP (NP y/JJ la/NN))\n  ocupación/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP balance/NN)\n  de/FW\n  la/FW\n  agresión/FW\n  israelí/FW\n  (VP asciende/VBP)\n  a/DT\n  42.010/CD\n  (NP los/NN mártires/NNS)\n  (VP y/VBP)\n  a/DT\n  97.720/CD\n  (NP los/NN heridos/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Informe/NNP)\n  (VP estadístico/VBZ (NP diario/NN explica/NN que/NN))\n  en/FW\n  las/FW\n  últimas/FW\n  24/CD\n  (NP horas/NNS)\n  ,/,\n  la/FW\n  ocupación/FW\n  (NP israelí/NN cometió/NN)\n  3/CD\n  (NP masacres/NNS)\n  (ADJP contra/JJ)\n  familias/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP que/NN causaron/NN la/NN)\n  muerte/FW\n  de/FW\n  45/CD\n  (NP personas/NNS)\n  y/RB\n  (VP otras/VBP)\n  130/CD\n  (NP fueron/NN)\n  (VP hospitalizadas/VBD (NP a/DT casusa/NN))\n  de/IN\n  las/FW\n  (NP heridas/NNS)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP sanitarias/JJ denuncian/JJ que/NN)\n    (NP numerosas/JJ víctimas/NN continúan/NN bajo/NN los/NN)\n    (NP escombros/JJ y/NN))\n  (PP en/IN (NP las/NN carreteras/NNS))\n  ,/,\n  (NP a/DT los/NN)\n  (VP cuales/VBZ los/JJ)\n  equipos/FW\n  de/FW\n  ambulancias/FW\n  y/FW\n  protección/FW\n  (ADJP civil/JJ)\n  (NP no/DT pueden/JJ llegar/NN)\n  (NP a/DT causa/NN)\n  de/IN\n  los/FW\n  (NP sistemáticos/JJ bombardeos/NN)\n  ./.)",
+      "(S\n  (NP Horas/NNP antes/NNS)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Sanidad/NNP anunciaba/NN que/NN)\n  (NP las/JJ tropas/NN)\n  de/IN\n  ocupación/FW\n  entraron/FW\n  al/FW\n  (NP Hospital/NNP Kamal/NNP Adwan/NNP)\n  en/FW\n  la/FW\n  gobernación/FW\n  del/FW\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  e/FW\n  (NP incendiaron/NN)\n  la/FW\n  oficina/FW\n  de/FW\n  administración/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "MEDIOS_COMUNICACION",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques aéreos y remotos sobre las ruinas de la franja de gaza, en su empeño de masacrar a toda la población que resiste en las peores condiciones de vida jamás vistas en la franja, pues las tropas israelíes",
+        "position": [
+          1038,
+          1245
+        ],
+        "start": 1038,
+        "end": 1245
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          121,
+          130
+        ],
+        "start": 121,
+        "end": 130
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario explica que",
+        "position": [
+          265,
+          283
+        ],
+        "start": 265,
+        "end": 283
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1318,
+          1322
+        ],
+        "start": 1318,
+        "end": 1322
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          798,
+          806
+        ],
+        "start": 798,
+        "end": 806
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          1318,
+          1330
+        ],
+        "start": 1318,
+        "end": 1330
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          179,
+          186
+        ],
+        "start": 179,
+        "end": 186
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital kamal",
+        "position": [
+          798,
+          812
+        ],
+        "start": 798,
+        "end": 812
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "45 personas",
+        "position": [
+          413,
+          424
+        ],
+        "start": 413,
+        "end": 424
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Sanidad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ramallah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Kamal Adwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Informaron",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nablus",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Sanidad de Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Sanidad de Gaza",
+        "relacion": "ACTUALIZAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Ministerio de Sanidad",
+        "relacion": "ANUNCIAR",
+        "objeto": "Hospital Kamal Adwan"
+      },
+      {
+        "sujeto": "Ministerio de Sanidad",
+        "relacion": "ANUNCIAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hospital Kamal Adwan",
+        "relacion": "ENTRAR_ANUNCIAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CONTINUAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "INCURSIONAR",
+        "objeto": "Ramallah"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "INCURSIONAR",
+        "objeto": "Nablus"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "MANTENER",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "MANTENER",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.984,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

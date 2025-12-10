@@ -1,0 +1,667 @@
+{
+  "url": "https://www.telesurtv.net/triple-asesinato-en-colombia-masacre-numero-51-en-2024/",
+  "title": "Triple asesinato en Colombia: masacre número 51 en 2024 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Indepaz",
+    "Masacre 51"
+  ],
+  "text": "El Instituto de Estudios para el Desarrollo y la Paz de Colombia (Indepaz) reportó, a través de su cuenta de X, el asesinato de tres personas en el municipio de Playa de Belén en Norte de Santander.\nLa comunidad, residente en la vereda Aratoque en el municipio de La Playa de Belén, encontró los cuerpos de los tres hombres asesinados en medio de la cancha de fútbol de la zona. Hasta el momento, los pobladores aseguran que no eran habitantes de la zona, por lo que aún no se confirman sus identidades.\nPor su parte, agrega el reporte de Indepaz, la Defensoría del Pueblo ha emitido un informe en el que señala que, ante la ocurrencia de enfrentamientos entre grupos armados, pueden ser vulnerables derechos fundamentales de la población civil y cometerse graves infracciones al Derecho Internacional Humanitario.\nEn el municipio de La Playa de Belén, en mayo de 2021, dos policías resultaron heridos: los patrulleros Cristian Camilo Álvarez Ruiz y Hugo Hernando Calderón Sábalo.\nLos heridos fueron llevados inicialmente al Hospital Isabel Celis donde se inició el proceso para estabilizarlos. Sin embargo, allí se dio el deceso de Álvarez Ruiz quien tuvo una herida a la altura del abdomen, debido al ataque con disparos de fusil que cometieron cuatro hombres en contra de la estación de Policía de la localidad.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/triple-asesinato-en-colombia-masacre-numero-51-en-2024/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1657,
+    "message_id": 77842,
+    "date": "2024-10-05T18:55:18+00:00",
+    "text": "teleSUR\nTriple asesinato en Colombia: masacre número 51 en 2024\nhttps://www.telesurtv.net/triple-asesinato-en-colombia-masacre-numero-51-en-2024/",
+    "photo_path": null,
+    "views": 4008,
+    "reactions": {
+      "😢": 48,
+      "🤬": 27,
+      "👎": 2,
+      "😱": 1
+    },
+    "total_reactions": 78
+  },
+  "preprocessing": {
+    "cleaned": "el instituto de estudios para el desarrollo y la paz de colombia (indepaz) reportó, a través de su cuenta de x, el asesinato de tres personas en el municipio de playa de belén en norte de santander. la comunidad, residente en la vereda aratoque en el municipio de la playa de belén, encontró los cuerpos de los tres hombres asesinados en medio de la cancha de fútbol de la zona. hasta el momento, los pobladores aseguran que no eran habitantes de la zona, por lo que aún no se confirman sus identidades. por su parte, agrega el reporte de indepaz, la defensoría del pueblo ha emitido un informe en el que señala que, ante la ocurrencia de enfrentamientos entre grupos armados, pueden ser vulnerables derechos fundamentales de la población civil y cometerse graves infracciones al derecho internacional humanitario. en el municipio de la playa de belén, en mayo de 2021, dos policías resultaron heridos: los patrulleros cristian camilo álvarez ruiz y hugo hernando calderón sábalo. los heridos fueron llevados inicialmente al hospital isabel celis donde se inició el proceso para estabilizarlos. sin embargo, allí se dio el deceso de álvarez ruiz quien tuvo una herida a la altura del abdomen, debido al ataque con disparos de fusil que cometieron cuatro hombres en contra de la estación de policía de la localidad.",
+    "tokens": [
+      "instituto",
+      "estudios",
+      "desarrollo",
+      "paz",
+      "colombia",
+      "(",
+      "indepaz",
+      ")",
+      "reportó",
+      ",",
+      "través",
+      "cuenta",
+      "x",
+      ",",
+      "asesinato",
+      "tres",
+      "personas",
+      "municipio",
+      "playa",
+      "belén",
+      "norte",
+      "santander",
+      ".",
+      "comunidad",
+      ",",
+      "residente",
+      "vereda",
+      "aratoque",
+      "municipio",
+      "playa",
+      "belén",
+      ",",
+      "encontró",
+      "cuerpos",
+      "tres",
+      "hombres",
+      "asesinados",
+      "medio",
+      "cancha",
+      "fútbol",
+      "zona",
+      ".",
+      "momento",
+      ",",
+      "pobladores",
+      "aseguran",
+      "habitantes",
+      "zona",
+      ",",
+      "aún",
+      "confirman",
+      "identidades",
+      ".",
+      "parte",
+      ",",
+      "agrega",
+      "reporte",
+      "indepaz",
+      ",",
+      "defensoría",
+      "pueblo",
+      "emitido",
+      "informe",
+      "señala",
+      ",",
+      "ocurrencia",
+      "enfrentamientos",
+      "grupos",
+      "armados",
+      ",",
+      "pueden",
+      "ser",
+      "vulnerables",
+      "derechos",
+      "fundamentales",
+      "población",
+      "civil",
+      "cometerse",
+      "graves",
+      "infracciones",
+      "derecho",
+      "internacional",
+      "humanitario",
+      ".",
+      "municipio",
+      "playa",
+      "belén",
+      ",",
+      "mayo",
+      "2021",
+      ",",
+      "dos",
+      "policías",
+      "resultaron",
+      "heridos",
+      ":",
+      "patrulleros",
+      "cristian",
+      "camilo",
+      "álvarez",
+      "ruiz",
+      "hugo",
+      "hernando",
+      "calderón",
+      "sábalo",
+      ".",
+      "heridos",
+      "llevados",
+      "inicialmente",
+      "hospital",
+      "isabel",
+      "celis",
+      "inició",
+      "proceso",
+      "estabilizarlos",
+      ".",
+      "embargo",
+      ",",
+      "allí",
+      "dio",
+      "deceso",
+      "álvarez",
+      "ruiz",
+      "herida",
+      "altura",
+      "abdomen",
+      ",",
+      "debido",
+      "ataque",
+      "disparos",
+      "fusil",
+      "cometieron",
+      "cuatro",
+      "hombres",
+      "estación",
+      "policía",
+      "localidad",
+      "."
+    ],
+    "token_count": 138,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "IN": 12,
+      "NN": 52,
+      "VBD": 1,
+      "FW": 68,
+      "NNS": 8,
+      "VBP": 4,
+      "CC": 1,
+      "JJ": 14,
+      "VBZ": 5,
+      "DT": 2,
+      "RB": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 23,
+      "NNP-IN": 4,
+      "IN-NNP": 7,
+      "NNP-NN": 8,
+      "NN-NN": 32,
+      "NN-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "FW-FW": 47,
+      "FW-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-IN": 1,
+      "IN-FW": 5,
+      "FW-NNP": 10,
+      "NNP-FW": 9,
+      "NN-FW": 3,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 7,
+      "NN-IN": 6,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-FW": 2,
+      "FW-NN": 4,
+      "NN-NNS": 3,
+      "VBP-JJ": 2,
+      "JJ-DT": 1,
+      "DT-JJ": 2,
+      "JJ-VBZ": 1,
+      "VBZ-IN": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "NN-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NN-JJ": 4,
+      "JJ-JJ": 2,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "FW-JJ": 1,
+      "NNS-NNS": 1,
+      "NNS-RB": 1,
+      "RB-NNP": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 4,
+      "NNP-IN-NNP": 4,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 12,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-FW": 34,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "NNP-FW-FW": 5,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-VBZ": 1,
+      "JJ-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-IN-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-NN": 1,
+      "NN-JJ-NN": 2,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 18,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-NNP": 1,
+      "RB-NNP-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-IN": 3,
+      "NN-NNP-NN": 1,
+      "NN-FW-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-VBZ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 68,
+        "NN": 52,
+        "NNP": 46,
+        "JJ": 14,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "FW-FW": 47,
+        "NN-NN": 32,
+        "NNP-NNP": 23,
+        "FW-NNP": 10,
+        "NNP-FW": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 18,
+        "NNP-NNP-NNP": 12,
+        "NNP-NN-NN": 8,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 47,
+      "PP": 4,
+      "VP": 9,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0429
+      },
+      {
+        "rule": "NP -> ('Belén', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0429
+      },
+      {
+        "rule": "NP -> ('Indepaz', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('tres', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Playa', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0286
+      },
+      {
+        "rule": "S -> NP PP PP ('(', '(') NP (')', ')') NP (',', ',') NP ('de', 'IN') ('su', 'FW') ('cuenta', 'FW') ('de', 'FW') ('X', 'FW') (',', ',') ('el', 'FW') ('asesinato', 'FW') ('de', 'FW') NP VP ('en', 'IN') ('el', 'FW') ('municipio', 'FW') ('de', 'FW') NP ('de', 'FW') NP ('en', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Instituto', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('Estudios', 'NNP') ('para', 'NN') ('el', 'NN') ('Desarrollo', 'NNP') ('y', 'NNP') ('la', 'NNP') ('Paz', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0143
+      },
+      {
+        "rule": "NP -> ('reportó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0143
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Instituto"
+      },
+      {
+        "label": "PP",
+        "text": "de Estudios para el Desarrollo y la Paz"
+      },
+      {
+        "label": "NP",
+        "text": "Estudios para el Desarrollo y la Paz"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Indepaz"
+      },
+      {
+        "label": "NP",
+        "text": "reportó"
+      },
+      {
+        "label": "NP",
+        "text": "a través"
+      },
+      {
+        "label": "NP",
+        "text": "tres"
+      },
+      {
+        "label": "VP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "Playa"
+      },
+      {
+        "label": "NP",
+        "text": "Belén"
+      },
+      {
+        "label": "NP",
+        "text": "Norte"
+      },
+      {
+        "label": "NP",
+        "text": "Santander"
+      },
+      {
+        "label": "NP",
+        "text": "La comunidad"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Instituto/NNP)\n  (PP\n    de/IN\n    (NP\n      Estudios/NNP\n      para/NN\n      el/NN\n      Desarrollo/NNP\n      y/NNP\n      la/NNP\n      Paz/NNP))\n  (PP de/IN (NP Colombia/NNP))\n  (/(\n  (NP Indepaz/NNP)\n  )/)\n  (NP reportó/NN)\n  ,/,\n  (NP a/DT través/NN)\n  de/IN\n  su/FW\n  cuenta/FW\n  de/FW\n  X/FW\n  ,/,\n  el/FW\n  asesinato/FW\n  de/FW\n  (NP tres/NNS)\n  (VP personas/VBP)\n  en/IN\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Playa/NNP)\n  de/FW\n  (NP Belén/NNP)\n  en/FW\n  (NP Norte/NNP)\n  de/FW\n  (NP Santander/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP comunidad/NN)\n  ,/,\n  (NP residente/NN)\n  en/FW\n  la/FW\n  vereda/FW\n  (NP Aratoque/NNP)\n  en/FW\n  el/FW\n  municipio/FW\n  de/FW\n  (NP La/NNP Playa/NNP)\n  de/FW\n  (NP Belén/NNP)\n  ,/,\n  (VP encontró/VBZ (NP los/JJ cuerpos/NN))\n  de/IN\n  los/FW\n  (NP tres/NNS)\n  (VP hombres/VBZ asesinados/JJ)\n  en/FW\n  medio/FW\n  de/FW\n  la/FW\n  cancha/FW\n  de/FW\n  fútbol/FW\n  de/FW\n  la/FW\n  zona/FW\n  ./.)",
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  (NP los/JJ pobladores/NNS)\n  (VP aseguran/VBD que/JJ)\n  no/DT\n  (ADJP eran/JJ)\n  (VP habitantes/VBZ)\n  de/IN\n  la/FW\n  zona/FW\n  ,/,\n  por/FW\n  lo/FW\n  que/FW\n  (VP aún/VBZ (NP no/DT se/JJ confirman/NN sus/NN identidades/NNS))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (ADJP agrega/JJ)\n  el/FW\n  reporte/FW\n  de/FW\n  (NP Indepaz/NNP)\n  ,/,\n  (NP la/NN Defensoría/NNP)\n  del/FW\n  (NP Pueblo/NNP ha/NN emitido/NN)\n  (NP un/JJ informe/NN)\n  en/IN\n  el/FW\n  (NP que/NN señala/NN que/NN)\n  ,/,\n  (ADJP ante/JJ)\n  la/FW\n  ocurrencia/FW\n  de/FW\n  enfrentamientos/FW\n  entre/FW\n  grupos/FW\n  (NP armados/NN)\n  ,/,\n  (NP pueden/JJ ser/NN vulnerables/NNS)\n  (VP derechos/VBP (NP fundamentales/NNS))\n  de/FW\n  la/FW\n  población/FW\n  (NP civil/JJ y/NN cometerse/NN graves/NNS infracciones/NNS)\n  al/RB\n  (NP Derecho/NNP Internacional/NNP Humanitario/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  municipio/FW\n  de/FW\n  (NP La/NNP Playa/NNP)\n  de/FW\n  (NP Belén/NNP)\n  ,/,\n  en/FW\n  mayo/FW\n  de/FW\n  2021/CD\n  ,/,\n  (VP dos/VBZ (NP policías/JJ resultaron/NN heridos/NN))\n  :/:\n  (NP\n    los/NN\n    patrulleros/NN\n    Cristian/NNP\n    Camilo/NNP\n    Álvarez/NNP\n    Ruiz/NNP\n    y/NNP\n    Hugo/NNP\n    Hernando/NNP\n    Calderón/NNP\n    Sábalo/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "enfrentamientos entre grupos armados",
+        "position": [
+          639,
+          675
+        ],
+        "start": 639,
+        "end": 675
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto de estudios",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1025,
+          1033
+        ],
+        "start": 1025,
+        "end": 1033
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "estación",
+        "position": [
+          1278,
+          1286
+        ],
+        "start": 1278,
+        "end": 1286
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          56,
+          64
+        ],
+        "start": 56,
+        "end": 64
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          46,
+          52
+        ],
+        "start": 46,
+        "end": 52
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona. hasta",
+        "position": [
+          373,
+          384
+        ],
+        "start": 373,
+        "end": 384
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital isabel",
+        "position": [
+          1025,
+          1040
+        ],
+        "start": 1025,
+        "end": 1040
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1099,
+          1106
+        ],
+        "start": 1099,
+        "end": 1106
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Indepaz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Instituto de Estudios para el Desarrollo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Isabel Celis",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Álvarez Ruiz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Aratoque",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hugo Hernando Calderón Sábalo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La Playa de Belén",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cristian Camilo Álvarez Ruiz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Playa de Belén",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Norte de Santander",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo",
+        "relacion": "REPORTAR",
+        "objeto": "Playa de Belén"
+      },
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo",
+        "relacion": "REPORTAR",
+        "objeto": "Norte de Santander"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "REPORTAR",
+        "objeto": "Playa de Belén"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "REPORTAR",
+        "objeto": "Norte de Santander"
+      },
+      {
+        "sujeto": "La Playa de Belén",
+        "relacion": "AGREGAR",
+        "objeto": "Cristian Camilo Álvarez Ruiz"
+      },
+      {
+        "sujeto": "La Playa de Belén",
+        "relacion": "AGREGAR",
+        "objeto": "Hugo Hernando Calderón Sábalo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7783,
+    "pos": 0.011,
+    "neu": 0.944,
+    "neg": 0.046,
+    "label": "negative"
+  }
+}

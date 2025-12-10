@@ -1,0 +1,852 @@
+{
+  "url": "https://www.telesurtv.net/turkiye-somos-el-unico-estado-que-implementa-medidas-economicas-contra-israel/",
+  "title": "Türkiye: \"Somos el único Estado que implementa medidas económicas contra Israel\" - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Recep Tayyip Erdogan"
+  ],
+  "text": "\nDurante un discurso en el evento del Partido AK, titulado “Encuentros Türkiye desde nosotros mismos hasta el futuro”, el presidente Erdoğan resaltó la postura de su gobierno frente al conflicto en Gaza y abordó tanto la política exterior como interna.\nEn su intervención realizada durante un evento llevado a cabo en el Centro de Congresos Haliç en Estambul, Erdoğan señaló el compromiso de Ankara con el pueblo palestino: “nuestros hermanos de Gaza resisten heroicamente contra los invasores sionistas desde hace 364 días, a pesar de todas las adversidades”.\nEl mandatario criticó abiertamente a Israel y subrayó que Türkiye es el único Estado que ha adoptado sanciones económicas contra el gobierno israelí.\n“Aunque las potencias occidentales conocen muy bien las intenciones del gobierno de Netanyahu, no se atreven a alzar la voz debido a la vergüenza del Holocausto”, dijo Erdoğan, haciendo referencia a la incapacidad de los países occidentales de enfrentar a Israel. Según él, el gobierno israelí “produce cada día una nueva excusa para legitimar su política de ocupación”.\nAdemás de su enfoque en política exterior, Erdoğan dirigió duras críticas hacia la oposición interna en Turquía, afirmando que los ciudadanos no confían en sus líderes. “Nuestro pueblo confía en el Partido AK y en la Alianza Popular, incluso si a veces se quejan. No creen que la oposición pueda ofrecer algo positivo”, afirmó el presidente.\nDe cara al próximo 8º Gran Congreso Ordinario del Partido AK, el mandatario subrayó la necesidad de renovación dentro de su partido, prometiendo fortalecer su equipo con “nuevos nombres que tengan la visión y el compromiso del Partido AK”.\nEl líder turco también hizo un llamado a bajar el tono de la confrontación política interna: “No daremos importancia al lenguaje de la ira y el odio, y avanzaremos ganándonos corazones con bondad y tolerancia”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/turkiye-somos-el-unico-estado-que-implementa-medidas-economicas-contra-israel/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1661,
+    "message_id": 77838,
+    "date": "2024-10-05T16:55:12+00:00",
+    "text": "teleSUR\nTürkiye: «Somos el único Estado que implementa medidas económicas contra Israel»\nhttps://www.telesurtv.net/turkiye-somos-el-unico-estado-que-implementa-medidas-economicas-contra-israel/",
+    "photo_path": null,
+    "views": 3348,
+    "reactions": {
+      "👍": 105,
+      "🤔": 7,
+      "❤": 3,
+      "😨": 3,
+      "👌": 1
+    },
+    "total_reactions": 119
+  },
+  "preprocessing": {
+    "cleaned": "durante un discurso en el evento del partido ak, titulado “encuentros türkiye desde nosotros mismos hasta el futuro”, el presidente erdoğan resaltó la postura de su gobierno frente al conflicto en gaza y abordó tanto la política exterior como interna. en su intervención realizada durante un evento llevado a cabo en el centro de congresos haliç en estambul, erdoğan señaló el compromiso de ankara con el pueblo palestino: “nuestros hermanos de gaza resisten heroicamente contra los invasores sionistas desde hace 364 días, a pesar de todas las adversidades”. el mandatario criticó abiertamente a israel y subrayó que türkiye es el único estado que ha adoptado sanciones económicas contra el gobierno israelí. “aunque las potencias occidentales conocen muy bien las intenciones del gobierno de netanyahu, no se atreven a alzar la voz debido a la vergüenza del holocausto”, dijo erdoğan, haciendo referencia a la incapacidad de los países occidentales de enfrentar a israel. según él, el gobierno israelí “produce cada día una nueva excusa para legitimar su política de ocupación”. además de su enfoque en política exterior, erdoğan dirigió duras críticas hacia la oposición interna en turquía, afirmando que los ciudadanos no confían en sus líderes. “nuestro pueblo confía en el partido ak y en la alianza popular, incluso si a veces se quejan. no creen que la oposición pueda ofrecer algo positivo”, afirmó el presidente. de cara al próximo 8º gran congreso ordinario del partido ak, el mandatario subrayó la necesidad de renovación dentro de su partido, prometiendo fortalecer su equipo con “nuevos nombres que tengan la visión y el compromiso del partido ak”. el líder turco también hizo un llamado a bajar el tono de la confrontación política interna: “no daremos importancia al lenguaje de la ira y el odio, y avanzaremos ganándonos corazones con bondad y tolerancia”.",
+    "tokens": [
+      "discurso",
+      "evento",
+      "partido",
+      "ak",
+      ",",
+      "titulado",
+      "“",
+      "encuentros",
+      "türkiye",
+      "mismos",
+      "futuro",
+      "”",
+      ",",
+      "presidente",
+      "erdoğan",
+      "resaltó",
+      "postura",
+      "gobierno",
+      "frente",
+      "conflicto",
+      "gaza",
+      "abordó",
+      "política",
+      "exterior",
+      "interna",
+      ".",
+      "intervención",
+      "realizada",
+      "evento",
+      "llevado",
+      "cabo",
+      "centro",
+      "congresos",
+      "haliç",
+      "estambul",
+      ",",
+      "erdoğan",
+      "señaló",
+      "compromiso",
+      "ankara",
+      "pueblo",
+      "palestino",
+      ":",
+      "“",
+      "hermanos",
+      "gaza",
+      "resisten",
+      "heroicamente",
+      "invasores",
+      "sionistas",
+      "hace",
+      "364",
+      "días",
+      ",",
+      "pesar",
+      "todas",
+      "adversidades",
+      "”",
+      ".",
+      "mandatario",
+      "criticó",
+      "abiertamente",
+      "israel",
+      "subrayó",
+      "türkiye",
+      "único",
+      "adoptado",
+      "sanciones",
+      "económicas",
+      "gobierno",
+      "israelí",
+      ".",
+      "“",
+      "aunque",
+      "potencias",
+      "occidentales",
+      "conocen",
+      "bien",
+      "intenciones",
+      "gobierno",
+      "netanyahu",
+      ",",
+      "atreven",
+      "alzar",
+      "voz",
+      "debido",
+      "vergüenza",
+      "holocausto",
+      "”",
+      ",",
+      "dijo",
+      "erdoğan",
+      ",",
+      "haciendo",
+      "referencia",
+      "incapacidad",
+      "países",
+      "occidentales",
+      "enfrentar",
+      "israel",
+      ".",
+      "según",
+      ",",
+      "gobierno",
+      "israelí",
+      "“",
+      "produce",
+      "cada",
+      "día",
+      "nueva",
+      "excusa",
+      "legitimar",
+      "política",
+      "ocupación",
+      "”",
+      ".",
+      "además",
+      "enfoque",
+      "política",
+      "exterior",
+      ",",
+      "erdoğan",
+      "dirigió",
+      "duras",
+      "críticas",
+      "hacia",
+      "oposición",
+      "interna",
+      "turquía",
+      ",",
+      "afirmando",
+      "ciudadanos",
+      "confían",
+      "líderes",
+      ".",
+      "“",
+      "pueblo",
+      "confía",
+      "partido",
+      "ak",
+      "alianza",
+      "popular",
+      ",",
+      "incluso",
+      "si",
+      "veces",
+      "quejan",
+      ".",
+      "creen",
+      "oposición",
+      "pueda",
+      "ofrecer",
+      "positivo",
+      "”",
+      ",",
+      "afirmó",
+      "presidente",
+      ".",
+      "cara",
+      "próximo",
+      "8º",
+      "gran",
+      "congreso",
+      "ordinario",
+      "partido",
+      "ak",
+      ",",
+      "mandatario",
+      "subrayó",
+      "necesidad",
+      "renovación",
+      "dentro",
+      "partido",
+      ",",
+      "prometiendo",
+      "fortalecer",
+      "equipo",
+      "“",
+      "nuevos",
+      "nombres",
+      "visión",
+      "compromiso",
+      "partido",
+      "ak",
+      "”",
+      ".",
+      "líder",
+      "turco",
+      "hizo",
+      "llamado",
+      "bajar",
+      "tono",
+      "confrontación",
+      "política",
+      "interna",
+      ":",
+      "“",
+      "daremos",
+      "importancia",
+      "lenguaje",
+      "ira",
+      "odio",
+      ",",
+      "avanzaremos",
+      "ganándonos",
+      "corazones",
+      "bondad",
+      "tolerancia",
+      "”",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "JJ": 25,
+      "NN": 96,
+      "IN": 9,
+      "FW": 70,
+      "NNS": 12,
+      "VBP": 9,
+      "VBD": 2,
+      "CD": 2,
+      "VBZ": 9,
+      "DT": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 16,
+      "NN-IN": 8,
+      "IN-FW": 5,
+      "FW-FW": 42,
+      "FW-NNP": 15,
+      "NNP-NNP": 14,
+      "NNP-NN": 18,
+      "NN-NNP": 8,
+      "NN-NNS": 6,
+      "NNS-VBP": 7,
+      "VBP-JJ": 8,
+      "NN-NN": 47,
+      "NN-FW": 13,
+      "FW-NN": 8,
+      "FW-JJ": 1,
+      "NN-JJ": 5,
+      "NNP-FW": 5,
+      "NNP-VBD": 1,
+      "VBD-JJ": 2,
+      "IN-NNP": 4,
+      "NNP-VBP": 1,
+      "JJ-JJ": 3,
+      "NN-CD": 2,
+      "CD-NN": 1,
+      "FW-NNS": 3,
+      "NNS-IN": 1,
+      "NNP-VBZ": 4,
+      "VBZ-FW": 1,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-FW": 2,
+      "NNP-DT": 1,
+      "DT-NN": 3,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-VBP": 1,
+      "NN-VBD": 1,
+      "JJ-DT": 1,
+      "NN-VBZ": 4,
+      "VBZ-NN": 2,
+      "VBZ-NNP": 1,
+      "JJ-NNP": 1,
+      "CD-NNP": 1,
+      "JJ-FW": 2,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 30,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 20,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 14,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 4,
+      "NN-FW-NN": 5,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "NN-NN-IN": 5,
+      "IN-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 3,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NN-NN-NNS": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "NNP-FW-FW": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-NN": 1,
+      "VBZ-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "VBZ-JJ-FW": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 70,
+        "NNP": 45,
+        "JJ": 25,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "FW-FW": 42,
+        "NNP-NN": 18,
+        "JJ-NN": 16,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 30,
+        "NN-NN-NN": 20,
+        "NNP-NN-NN": 14,
+        "FW-NNP-NNP": 8,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 82,
+      "VP": 25,
+      "PP": 3,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 3,
+        "weight": 0.0248
+      },
+      {
+        "rule": "NP -> ('Partido', 'NNP') ('AK', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('Erdoğan', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('interna', 'NN')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "S -> NP NP ('en', 'IN') ('el', 'FW') ('evento', 'FW') ('del', 'FW') NP (',', ',') NP VP (',', ',') VP ('postura', 'FW') ('de', 'FW') ('su', 'FW') ('gobierno', 'FW') NP ('al', 'FW') NP ('en', 'FW') NP ('y', 'CC') ('abordó', 'RB') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Durante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('discurso', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Durante"
+      },
+      {
+        "label": "NP",
+        "text": "un discurso"
+      },
+      {
+        "label": "NP",
+        "text": "Partido AK"
+      },
+      {
+        "label": "NP",
+        "text": "titulado “ Encuentros Türkiye desde nosotros"
+      },
+      {
+        "label": "VP",
+        "text": "mismos hasta el futuro ”"
+      },
+      {
+        "label": "NP",
+        "text": "hasta el futuro ”"
+      },
+      {
+        "label": "VP",
+        "text": "el presidente Erdoğan resaltó la"
+      },
+      {
+        "label": "NP",
+        "text": "presidente Erdoğan resaltó la"
+      },
+      {
+        "label": "NP",
+        "text": "frente"
+      },
+      {
+        "label": "NP",
+        "text": "conflicto"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "tanto la política"
+      },
+      {
+        "label": "NP",
+        "text": "exterior como interna"
+      },
+      {
+        "label": "NP",
+        "text": "En su intervención realizada durante"
+      },
+      {
+        "label": "NP",
+        "text": "un evento"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Durante/NNP)\n  (NP un/JJ discurso/NN)\n  en/IN\n  el/FW\n  evento/FW\n  del/FW\n  (NP Partido/NNP AK/NNP)\n  ,/,\n  (NP\n    titulado/NN\n    “/NNP\n    Encuentros/NNP\n    Türkiye/NNP\n    desde/NN\n    nosotros/NNS)\n  (VP mismos/VBP (NP hasta/JJ el/NN futuro/NN ”/NNP))\n  ,/,\n  (VP el/VBZ (NP presidente/JJ Erdoğan/NNP resaltó/NN la/NN))\n  postura/FW\n  de/FW\n  su/FW\n  gobierno/FW\n  (NP frente/NN)\n  al/FW\n  (NP conflicto/NN)\n  en/FW\n  (NP Gaza/NNP)\n  y/CC\n  abordó/RB\n  (NP tanto/JJ la/NN política/NN)\n  (NP exterior/JJ como/NN interna/NN)\n  ./.)",
+      "(S\n  (NP En/NNP su/NN intervención/NN realizada/NN durante/NN)\n  (NP un/JJ evento/NN)\n  (VP llevado/VBD (NP a/DT cabo/NN))\n  en/IN\n  el/FW\n  (NP Centro/NNP)\n  de/FW\n  (NP Congresos/NNP Haliç/NNP)\n  en/FW\n  (NP Estambul/NNP)\n  ,/,\n  (NP Erdoğan/NNP)\n  (VP señaló/VBD (NP el/JJ compromiso/NN))\n  (PP de/IN (NP Ankara/NNP con/NN el/NN pueblo/NN palestino/NN))\n  :/:\n  (NP “/JJ nuestros/NNS)\n  (VP hermanos/VBP)\n  (PP de/IN (NP Gaza/NNP))\n  (VP\n    resisten/VBP\n    (NP heroicamente/JJ contra/JJ los/NN invasores/NNS))\n  (VP sionistas/VBP (NP desde/JJ hace/NN))\n  364/CD\n  (NP días/NN)\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  todas/FW\n  (NP las/NNS)\n  (PP adversidades/IN (NP ”/NN))\n  ./.)",
+      "(S\n  (NP El/NNP mandatario/NN criticó/NN)\n  (VP\n    abiertamente/VBZ\n    (NP a/DT Israel/NNP y/NNP subrayó/NN que/NN Türkiye/NNP))\n  (VP es/VBZ)\n  el/FW\n  (NP único/NNP Estado/NNP que/NN ha/NN adoptado/NN sanciones/NNS)\n  (VP económicas/VBP (NP contra/JJ el/NN gobierno/NN israelí/NN))\n  ./.)",
+      "(S\n  (NP “/NN Aunque/NNP)\n  (VP las/VBZ (NP potencias/JJ occidentales/NNS))\n  (VP conocen/VBP (NP muy/JJ bien/NN las/NNS intenciones/NNS))\n  del/FW\n  gobierno/FW\n  de/FW\n  (NP Netanyahu/NNP)\n  ,/,\n  (NP no/DT se/NN)\n  atreven/RB\n  (NP a/DT alzar/NN la/NN)\n  voz/FW\n  (VP debido/VBZ (NP a/DT la/NN))\n  vergüenza/FW\n  del/FW\n  (NP Holocausto/NNP ”/NNP)\n  ,/,\n  (NP dijo/NN Erdoğan/NNP)\n  ,/,\n  (NP haciendo/NN)\n  (VP referencia/VBD (NP a/DT la/NN incapacidad/NN))\n  de/IN\n  los/FW\n  (NP países/NNS)\n  occidentales/FW\n  de/FW\n  enfrentar/FW\n  (NP a/DT Israel/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP él/NNP)\n  ,/,\n  (VP el/VBZ (NP gobierno/JJ israelí/NNS))\n  (VP “/VBP)\n  (VP\n    produce/VBP\n    (NP cada/JJ día/NN)\n    (NP\n      una/JJ\n      nueva/JJ\n      excusa/NN\n      para/NN\n      legitimar/NN\n      su/NN\n      política/NN))\n  de/IN\n  ocupación/FW\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en gaza",
+        "position": [
+          185,
+          202
+        ],
+        "start": 185,
+        "end": 202
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1070,
+          1079
+        ],
+        "start": 1070,
+        "end": 1079
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          368,
+          374
+        ],
+        "start": 368,
+        "end": 374
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de netanyahu",
+        "position": [
+          783,
+          804
+        ],
+        "start": 783,
+        "end": 804
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "criticó",
+        "position": [
+          575,
+          582
+        ],
+        "start": 575,
+        "end": 582
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          607,
+          614
+        ],
+        "start": 607,
+        "end": 614
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          702,
+          709
+        ],
+        "start": 702,
+        "end": 709
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado que",
+        "position": [
+          639,
+          649
+        ],
+        "start": 639,
+        "end": 649
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          321,
+          330
+        ],
+        "start": 321,
+        "end": 330
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Erdoğan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alianza Popular",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Türkiye",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Centro de Congresos Haliç",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ankara",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Holocausto",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Partido AK",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Turquía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estambul",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Partido AK",
+        "relacion": "RESALTAR",
+        "objeto": "Erdoğan"
+      },
+      {
+        "sujeto": "Partido AK",
+        "relacion": "RESALTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "RESALTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "SE_ALAR",
+        "objeto": "Centro de Congresos Haliç"
+      },
+      {
+        "sujeto": "Centro de Congresos Haliç",
+        "relacion": "SE_ALAR",
+        "objeto": "Ankara"
+      },
+      {
+        "sujeto": "Centro de Congresos Haliç",
+        "relacion": "SE_ALAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "SE_ALAR",
+        "objeto": "Estambul"
+      },
+      {
+        "sujeto": "Estambul",
+        "relacion": "SE_ALAR",
+        "objeto": "Ankara"
+      },
+      {
+        "sujeto": "Estambul",
+        "relacion": "SE_ALAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "SE_ALAR",
+        "objeto": "Ankara"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "SE_ALAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Ankara",
+        "relacion": "SE_ALAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "CRITICAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CRITICAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Netanyahu",
+        "relacion": "CONOCER_ATREVIR_DECIR",
+        "objeto": "Holocausto"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "CONOCER_ATREVIR_DECIR",
+        "objeto": "Netanyahu"
+      },
+      {
+        "sujeto": "Netanyahu",
+        "relacion": "CONOCER_ATREVIR_DECIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "ALZAR_ATREVIR_DECIR",
+        "objeto": "Holocausto"
+      },
+      {
+        "sujeto": "Holocausto",
+        "relacion": "ALZAR_ATREVIR_DECIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "DECIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Erdoğan",
+        "relacion": "DIRIGIR",
+        "objeto": "Turquía"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.1027,
+    "pos": 0.018,
+    "neu": 0.959,
+    "neg": 0.023,
+    "label": "negative"
+  }
+}

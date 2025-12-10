@@ -1,0 +1,502 @@
+{
+  "url": "https://www.telesurtv.net/haitianos-son-victimas-de-la-inseguridad-alimentaria/",
+  "title": "Haitianos son víctimas de la inseguridad alimentaria - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Haití",
+    "Hambruna",
+    "Inseguridad"
+  ],
+  "text": "En Haití, más de cinco millones de personas enfrentan una grave inseguridad alimentaria, consecuencia de la violencia y de una profunda crisis social que azota al país, han advertido organizaciones internacionales.\nLa creciente violencia de las bandas armadas en diversas regiones ha bloqueado las rutas de suministro y ha obstaculizado la llegada de ayuda humanitaria a las comunidades más vulnerables.\nEstos actos han provocado un aumento significativo en los precios de los alimentos, dejando a muchos habitantes sin la posibilidad de adquirir productos esenciales.\nLas zonas rurales, que dependen en gran medida de la agricultura, se han visto especialmente afectadas por esta inestabilidad y la falta de apoyo político del gobierno.\nAdemás, la crisis política y económica ha paralizado el funcionamiento de numerosas instituciones, debilitando aún más la capacidad del país para responder a estas emergencias.\nAnte este contexto alarmante, organizaciones internacionales han advertido sobre el riesgo inminente de una hambruna generalizada si no se implementan medidas urgentes.\nEs fundamental destacar que la inseguridad alimentaria en Haití no solo representa un problema de acceso a los alimentos, sino que también refleja la falta de oportunidades que afecta a millones de haitianos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/haitianos-son-victimas-de-la-inseguridad-alimentaria/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1068,
+    "message_id": 78467,
+    "date": "2024-10-16T06:55:13+00:00",
+    "text": "teleSUR\nHaitianos son víctimas de la inseguridad alimentaria\nhttps://www.telesurtv.net/haitianos-son-victimas-de-la-inseguridad-alimentaria/",
+    "photo_path": null,
+    "views": 2781,
+    "reactions": {
+      "😱": 27,
+      "😢": 13,
+      "🤬": 4,
+      "❤": 1,
+      "🤔": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "en haití, más de cinco millones de personas enfrentan una grave inseguridad alimentaria, consecuencia de la violencia y de una profunda crisis social que azota al país, han advertido organizaciones internacionales. la creciente violencia de las bandas armadas en diversas regiones ha bloqueado las rutas de suministro y ha obstaculizado la llegada de ayuda humanitaria a las comunidades más vulnerables. estos actos han provocado un aumento significativo en los precios de los alimentos, dejando a muchos habitantes sin la posibilidad de adquirir productos esenciales. las zonas rurales, que dependen en gran medida de la agricultura, se han visto especialmente afectadas por esta inestabilidad y la falta de apoyo político del gobierno. además, la crisis política y económica ha paralizado el funcionamiento de numerosas instituciones, debilitando aún más la capacidad del país para responder a estas emergencias. ante este contexto alarmante, organizaciones internacionales han advertido sobre el riesgo inminente de una hambruna generalizada si no se implementan medidas urgentes. es fundamental destacar que la inseguridad alimentaria en haití no solo representa un problema de acceso a los alimentos, sino que también refleja la falta de oportunidades que afecta a millones de haitianos.",
+    "tokens": [
+      "haití",
+      ",",
+      "cinco",
+      "millones",
+      "personas",
+      "enfrentan",
+      "grave",
+      "inseguridad",
+      "alimentaria",
+      ",",
+      "consecuencia",
+      "violencia",
+      "profunda",
+      "crisis",
+      "social",
+      "azota",
+      "país",
+      ",",
+      "advertido",
+      "organizaciones",
+      "internacionales",
+      ".",
+      "creciente",
+      "violencia",
+      "bandas",
+      "armadas",
+      "diversas",
+      "regiones",
+      "bloqueado",
+      "rutas",
+      "suministro",
+      "obstaculizado",
+      "llegada",
+      "ayuda",
+      "humanitaria",
+      "comunidades",
+      "vulnerables",
+      ".",
+      "actos",
+      "provocado",
+      "aumento",
+      "significativo",
+      "precios",
+      "alimentos",
+      ",",
+      "dejando",
+      "habitantes",
+      "posibilidad",
+      "adquirir",
+      "productos",
+      "esenciales",
+      ".",
+      "zonas",
+      "rurales",
+      ",",
+      "dependen",
+      "gran",
+      "medida",
+      "agricultura",
+      ",",
+      "visto",
+      "especialmente",
+      "afectadas",
+      "inestabilidad",
+      "falta",
+      "apoyo",
+      "político",
+      "gobierno",
+      ".",
+      "además",
+      ",",
+      "crisis",
+      "política",
+      "económica",
+      "paralizado",
+      "funcionamiento",
+      "numerosas",
+      "instituciones",
+      ",",
+      "debilitando",
+      "aún",
+      "capacidad",
+      "país",
+      "responder",
+      "emergencias",
+      ".",
+      "contexto",
+      "alarmante",
+      ",",
+      "organizaciones",
+      "internacionales",
+      "advertido",
+      "riesgo",
+      "inminente",
+      "hambruna",
+      "generalizada",
+      "si",
+      "implementan",
+      "medidas",
+      "urgentes",
+      ".",
+      "fundamental",
+      "destacar",
+      "inseguridad",
+      "alimentaria",
+      "haití",
+      "solo",
+      "representa",
+      "problema",
+      "acceso",
+      "alimentos",
+      ",",
+      "sino",
+      "refleja",
+      "falta",
+      "oportunidades",
+      "afecta",
+      "millones",
+      "haitianos",
+      "."
+    ],
+    "token_count": 120,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 9,
+      "FW": 58,
+      "NNS": 18,
+      "IN": 7,
+      "JJ": 15,
+      "NN": 59,
+      "VBP": 11,
+      "VBZ": 3,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 1,
+      "NNP-FW": 2,
+      "FW-FW": 42,
+      "FW-NNS": 6,
+      "NNS-IN": 2,
+      "IN-FW": 3,
+      "FW-JJ": 2,
+      "JJ-NN": 10,
+      "NN-NN": 35,
+      "NN-IN": 4,
+      "FW-NN": 6,
+      "NN-JJ": 4,
+      "NN-NNS": 4,
+      "NNS-NNS": 2,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-FW": 1,
+      "NNS-VBP": 9,
+      "VBP-JJ": 6,
+      "JJ-NNS": 3,
+      "NNS-FW": 1,
+      "VBP-NNS": 2,
+      "NNP-NN": 3,
+      "JJ-IN": 1,
+      "IN-NN": 2,
+      "NN-FW": 8,
+      "JJ-FW": 1,
+      "NN-VBZ": 3,
+      "VBZ-NNP": 2,
+      "FW-NNP": 2,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "VBP-NNP": 1,
+      "IN-JJ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NNP-JJ": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NNS-NN": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 30,
+      "FW-FW-NNS": 6,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 18,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "NN-JJ-IN": 1,
+      "JJ-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-NNP": 2,
+      "VBZ-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NN": 3,
+      "NN-NN-FW": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "JJ-NN-IN": 1,
+      "FW-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 59,
+        "FW": 58,
+        "NNS": 18,
+        "JJ": 15,
+        "VBP": 11
+      },
+      "top_bigrams": {
+        "FW-FW": 42,
+        "NN-NN": 35,
+        "JJ-NN": 10,
+        "NNS-VBP": 9,
+        "NN-FW": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 30,
+        "NN-NN-NN": 18,
+        "JJ-NN-NN": 8,
+        "FW-FW-NNS": 6,
+        "NNS-VBP-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 42,
+      "ADJP": 2,
+      "VP": 7,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP (',', ',') ('más', 'FW') ('de', 'FW') ('cinco', 'FW') NP ('de', 'IN') ('personas', 'FW') ('enfrentan', 'FW') NP (',', ',') NP ('de', 'FW') ('la', 'FW') ('violencia', 'FW') ('y', 'FW') ('de', 'FW') ('una', 'FW') NP NP NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('Haití', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('grave', 'NN') ('inseguridad', 'NN') ('alimentaria', 'NN')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('consecuencia', 'NN')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('profunda', 'NN') ('crisis', 'NN')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('social', 'JJ') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('azota', 'JJ') ('al', 'NN') ('país', 'NN')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('han', 'NN') ('advertido', 'NN') ('organizaciones', 'NNS') ('internacionales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP ADJP ('violencia', 'FW') ('de', 'FW') ('las', 'FW') ('bandas', 'FW') ('armadas', 'FW') ('en', 'FW') ('diversas', 'FW') NP VP ('rutas', 'FW') ('de', 'FW') ('suministro', 'FW') ('y', 'FW') ('ha', 'FW') ('obstaculizado', 'FW') ('la', 'FW') ('llegada', 'FW') ('de', 'FW') ('ayuda', 'FW') ('humanitaria', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0164
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En Haití"
+      },
+      {
+        "label": "NP",
+        "text": "millones"
+      },
+      {
+        "label": "NP",
+        "text": "una grave inseguridad alimentaria"
+      },
+      {
+        "label": "NP",
+        "text": "consecuencia"
+      },
+      {
+        "label": "NP",
+        "text": "profunda crisis"
+      },
+      {
+        "label": "NP",
+        "text": "social que"
+      },
+      {
+        "label": "NP",
+        "text": "azota al país"
+      },
+      {
+        "label": "NP",
+        "text": "han advertido organizaciones internacionales"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "ADJP",
+        "text": "creciente"
+      },
+      {
+        "label": "NP",
+        "text": "regiones"
+      },
+      {
+        "label": "VP",
+        "text": "ha bloqueado las"
+      },
+      {
+        "label": "NP",
+        "text": "bloqueado las"
+      },
+      {
+        "label": "NP",
+        "text": "a las"
+      },
+      {
+        "label": "VP",
+        "text": "comunidades más vulnerables"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP Haití/NNP)\n  ,/,\n  más/FW\n  de/FW\n  cinco/FW\n  (NP millones/NNS)\n  de/IN\n  personas/FW\n  enfrentan/FW\n  (NP una/JJ grave/NN inseguridad/NN alimentaria/NN)\n  ,/,\n  (NP consecuencia/NN)\n  de/FW\n  la/FW\n  violencia/FW\n  y/FW\n  de/FW\n  una/FW\n  (NP profunda/NN crisis/NN)\n  (NP social/JJ que/NN)\n  (NP azota/JJ al/NN país/NN)\n  ,/,\n  (NP han/NN advertido/NN organizaciones/NNS internacionales/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (ADJP creciente/JJ)\n  violencia/FW\n  de/FW\n  las/FW\n  bandas/FW\n  armadas/FW\n  en/FW\n  diversas/FW\n  (NP regiones/NNS)\n  (VP ha/VBP (NP bloqueado/JJ las/NNS))\n  rutas/FW\n  de/FW\n  suministro/FW\n  y/FW\n  ha/FW\n  obstaculizado/FW\n  la/FW\n  llegada/FW\n  de/FW\n  ayuda/FW\n  humanitaria/FW\n  (NP a/DT las/NN)\n  (VP comunidades/VBZ (NP más/JJ vulnerables/NNS))\n  ./.)",
+      "(S\n  (NP Estos/NNP actos/NN han/NN provocado/NN)\n  (ADJP un/JJ)\n  (PP aumento/IN (NP significativo/NN))\n  en/FW\n  los/FW\n  precios/FW\n  de/FW\n  los/FW\n  (NP alimentos/NNS)\n  ,/,\n  (VP dejando/VBZ (NP a/DT muchos/NN))\n  (VP habitantes/VBZ sin/JJ)\n  la/FW\n  posibilidad/FW\n  de/FW\n  adquirir/FW\n  (NP productos/NN esenciales/NNS)\n  ./.)",
+      "(S\n  (NP Las/NNP zonas/NN rurales/NNS)\n  ,/,\n  (NP que/JJ dependen/NN en/NN gran/NN)\n  medida/FW\n  de/FW\n  la/FW\n  agricultura/FW\n  ,/,\n  se/FW\n  (NP han/NN visto/NN especialmente/NN)\n  (PP afectadas/IN (NP por/NN esta/NN inestabilidad/NN y/NN))\n  la/FW\n  falta/FW\n  de/FW\n  apoyo/FW\n  político/FW\n  del/FW\n  (NP gobierno/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP\n    la/NN\n    crisis/NN\n    política/NN\n    y/NN\n    económica/NN\n    ha/NN\n    paralizado/NN)\n  el/FW\n  (NP funcionamiento/NN)\n  de/FW\n  numerosas/FW\n  (NP instituciones/NNS)\n  ,/,\n  (NP\n    debilitando/NN\n    aún/NN\n    más/NN\n    la/NN\n    capacidad/NN\n    del/NN\n    país/NN\n    para/NN)\n  (VP responder/VB (NP a/DT estas/JJ emergencias/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "precios",
+        "position": [
+          462,
+          469
+        ],
+        "start": 462,
+        "end": 469
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo político del gobierno",
+        "position": [
+          709,
+          736
+        ],
+        "start": 709,
+        "end": 736
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          351,
+          368
+        ],
+        "start": 351,
+        "end": 368
+      }
+    ],
+    "match_count": 3
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.9118,
+    "pos": 0.036,
+    "neu": 0.869,
+    "neg": 0.094,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,952 @@
+{
+  "url": "https://www.telesurtv.net/brics-aboga-por-la-paz-y-la-cooperacion/",
+  "title": "BRICS aboga por la paz y la cooperación - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Brics",
+    "cumbre",
+    "Intervenciones"
+  ],
+  "text": "\nLa Cumbre de los BRICS, celebrada en Kazan, Rusia, se realizó bajo el llamado a la paz, la cooperación y la construcción de un mundo multipolar, hecho con el que se comprometieron los miembros del bloque, incluyendo sus fundadores, antiguos miembros y las actuales naciones asociadas.\n\nDurante el último día de la Cumbre, la vicepresidenta de Venezuela, Delcy Rodríguez, destacó la similitud de valores entre su país y los BRICS, resaltando la herencia de Bolívar y la coincidencia con los principios del bloque para un mundo libre de hegemonías.\nEl presidente de China, Xi Jinping, señaló que el ascenso colectivo de los países del sur global es una característica clave del mundo en constante cambio y enfatizó en la necesidad de unir fuerzas y asumir la responsabilidad de forjar el destino común de la humanidad, incluso con un llamado a un alto el fuego total en la Franja de Gaza.\nAsimismo, el presidente de Sudáfrica, Cyril Ramaphosa, condenó las acciones militares de Israel contra el pueblo de Gaza, calificándolas como un genocidio.\nA su vez, anunció que Sudáfrica recurrirá a la Corte Internacional de Justicia para detener la muerte de civiles inocentes, afirmando que el mundo no puede ser un mero espectador de tales atrocidades.\nEl presidente de la India, por su parte, reconoció que la era actual no es una época de guerra, pero sí de disputas que deben resolverse mediante el diálogo.\nEn ausencia del presidente de Brasil, Luiz Inácio Lula da Silva, el ministro de Relaciones Exteriores, Mauro Viera, tomó la palabra y expresó que los BRICS no son solo cinco letras al azar, sino que representan un significado profundo que se ha ido forjando con el paso del tiempo.\nEn línea con la postura de Sudáfrica, Viera declaró que “No habrá paz hasta que no exista la integridad del estado palestino´´; también, criticó a quienes se autodenominan defensores de los derechos humanos por ignorar las atrocidades de la historia moderna y socavar la integridad del derecho internacional.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/brics-aboga-por-la-paz-y-la-cooperacion/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 500,
+    "message_id": 79078,
+    "date": "2024-10-24T14:55:12+00:00",
+    "text": "teleSUR\nBRICS aboga por la paz y la cooperación\nhttps://www.telesurtv.net/brics-aboga-por-la-paz-y-la-cooperacion/",
+    "photo_path": null,
+    "views": 2184,
+    "reactions": {
+      "👍": 58,
+      "❤": 10
+    },
+    "total_reactions": 68
+  },
+  "preprocessing": {
+    "cleaned": "la cumbre de los brics, celebrada en kazan, rusia, se realizó bajo el llamado a la paz, la cooperación y la construcción de un mundo multipolar, hecho con el que se comprometieron los miembros del bloque, incluyendo sus fundadores, antiguos miembros y las actuales naciones asociadas. durante el último día de la cumbre, la vicepresidenta de venezuela, delcy rodríguez, destacó la similitud de valores entre su país y los brics, resaltando la herencia de bolívar y la coincidencia con los principios del bloque para un mundo libre de hegemonías. el presidente de china, xi jinping, señaló que el ascenso colectivo de los países del sur global es una característica clave del mundo en constante cambio y enfatizó en la necesidad de unir fuerzas y asumir la responsabilidad de forjar el destino común de la humanidad, incluso con un llamado a un alto el fuego total en la franja de gaza. asimismo, el presidente de sudáfrica, cyril ramaphosa, condenó las acciones militares de israel contra el pueblo de gaza, calificándolas como un genocidio. a su vez, anunció que sudáfrica recurrirá a la corte internacional de justicia para detener la muerte de civiles inocentes, afirmando que el mundo no puede ser un mero espectador de tales atrocidades. el presidente de la india, por su parte, reconoció que la era actual no es una época de guerra, pero sí de disputas que deben resolverse mediante el diálogo. en ausencia del presidente de brasil, luiz inácio lula da silva, el ministro de relaciones exteriores, mauro viera, tomó la palabra y expresó que los brics no son solo cinco letras al azar, sino que representan un significado profundo que se ha ido forjando con el paso del tiempo. en línea con la postura de sudáfrica, viera declaró que “no habrá paz hasta que no exista la integridad del estado palestino´´; también, criticó a quienes se autodenominan defensores de los derechos humanos por ignorar las atrocidades de la historia moderna y socavar la integridad del derecho internacional.",
+    "tokens": [
+      "cumbre",
+      "brics",
+      ",",
+      "celebrada",
+      "kazan",
+      ",",
+      "rusia",
+      ",",
+      "realizó",
+      "bajo",
+      "llamado",
+      "paz",
+      ",",
+      "cooperación",
+      "construcción",
+      "mundo",
+      "multipolar",
+      ",",
+      "hecho",
+      "comprometieron",
+      "miembros",
+      "bloque",
+      ",",
+      "incluyendo",
+      "fundadores",
+      ",",
+      "antiguos",
+      "miembros",
+      "actuales",
+      "naciones",
+      "asociadas",
+      ".",
+      "último",
+      "día",
+      "cumbre",
+      ",",
+      "vicepresidenta",
+      "venezuela",
+      ",",
+      "delcy",
+      "rodríguez",
+      ",",
+      "destacó",
+      "similitud",
+      "valores",
+      "país",
+      "brics",
+      ",",
+      "resaltando",
+      "herencia",
+      "bolívar",
+      "coincidencia",
+      "principios",
+      "bloque",
+      "mundo",
+      "libre",
+      "hegemonías",
+      ".",
+      "presidente",
+      "china",
+      ",",
+      "xi",
+      "jinping",
+      ",",
+      "señaló",
+      "ascenso",
+      "colectivo",
+      "países",
+      "sur",
+      "global",
+      "característica",
+      "clave",
+      "mundo",
+      "constante",
+      "cambio",
+      "enfatizó",
+      "necesidad",
+      "unir",
+      "fuerzas",
+      "asumir",
+      "responsabilidad",
+      "forjar",
+      "destino",
+      "común",
+      "humanidad",
+      ",",
+      "incluso",
+      "llamado",
+      "alto",
+      "fuego",
+      "total",
+      "franja",
+      "gaza",
+      ".",
+      "asimismo",
+      ",",
+      "presidente",
+      "sudáfrica",
+      ",",
+      "cyril",
+      "ramaphosa",
+      ",",
+      "condenó",
+      "acciones",
+      "militares",
+      "israel",
+      "pueblo",
+      "gaza",
+      ",",
+      "calificándolas",
+      "genocidio",
+      ".",
+      "vez",
+      ",",
+      "anunció",
+      "sudáfrica",
+      "recurrirá",
+      "corte",
+      "internacional",
+      "justicia",
+      "detener",
+      "muerte",
+      "civiles",
+      "inocentes",
+      ",",
+      "afirmando",
+      "mundo",
+      "puede",
+      "ser",
+      "mero",
+      "espectador",
+      "tales",
+      "atrocidades",
+      ".",
+      "presidente",
+      "india",
+      ",",
+      "parte",
+      ",",
+      "reconoció",
+      "actual",
+      "época",
+      "guerra",
+      ",",
+      "disputas",
+      "deben",
+      "resolverse",
+      "mediante",
+      "diálogo",
+      ".",
+      "ausencia",
+      "presidente",
+      "brasil",
+      ",",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      ",",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      ",",
+      "mauro",
+      "viera",
+      ",",
+      "tomó",
+      "palabra",
+      "expresó",
+      "brics",
+      "solo",
+      "cinco",
+      "letras",
+      "azar",
+      ",",
+      "sino",
+      "representan",
+      "significado",
+      "profundo",
+      "ido",
+      "forjando",
+      "paso",
+      "tiempo",
+      ".",
+      "línea",
+      "postura",
+      "sudáfrica",
+      ",",
+      "viera",
+      "declaró",
+      "“",
+      "paz",
+      "exista",
+      "integridad",
+      "palestino´´",
+      ";",
+      ",",
+      "criticó",
+      "autodenominan",
+      "defensores",
+      "derechos",
+      "humanos",
+      "ignorar",
+      "atrocidades",
+      "historia",
+      "moderna",
+      "socavar",
+      "integridad",
+      "derecho",
+      "internacional",
+      "."
+    ],
+    "token_count": 212,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "IN": 11,
+      "FW": 83,
+      "NN": 111,
+      "VBD": 2,
+      "JJ": 28,
+      "VBZ": 3,
+      "NNS": 16,
+      "VBP": 10,
+      "RB": 1,
+      "VBN": 1,
+      "DT": 4
+    },
+    "bigram_freq": {
+      "NNP-NNP": 18,
+      "NNP-IN": 2,
+      "IN-FW": 6,
+      "FW-NNP": 15,
+      "NNP-NN": 14,
+      "NN-FW": 10,
+      "NNP-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-NN": 16,
+      "NN-NN": 66,
+      "FW-FW": 54,
+      "FW-JJ": 3,
+      "NN-JJ": 12,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 6,
+      "NNS-VBP": 8,
+      "VBP-NNS": 1,
+      "NNS-NNS": 3,
+      "NNS-RB": 1,
+      "RB-NNP": 1,
+      "NNP-FW": 10,
+      "FW-NN": 9,
+      "VBP-NN": 1,
+      "NN-IN": 7,
+      "FW-NNS": 2,
+      "VBP-JJ": 7,
+      "JJ-JJ": 2,
+      "NN-VBP": 2,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "NN-NNP": 7,
+      "IN-NNP": 4,
+      "NN-NNS": 2,
+      "NNS-IN": 2,
+      "NNP-NNS": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "JJ-FW": 1,
+      "NN-DT": 2,
+      "DT-NN": 4,
+      "IN-NNS": 1,
+      "NNS-NNP": 1,
+      "JJ-DT": 1,
+      "JJ-NNP": 1,
+      "NNP-DT": 1,
+      "NN-VBD": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 38,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 40,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 9,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-NNP": 1,
+      "RB-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 5,
+      "FW-FW-NNP": 8,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 11,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "JJ-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "FW-NN-FW": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "NN-NN-DT": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 111,
+        "FW": 83,
+        "NNP": 48,
+        "JJ": 28,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "FW-FW": 54,
+        "NNP-NNP": 18,
+        "JJ-NN": 16,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 40,
+        "NN-NN-NN": 38,
+        "JJ-NN-NN": 11,
+        "NNP-NN-NN": 11,
+        "NN-JJ-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 92,
+      "VP": 16,
+      "PP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 8,
+        "weight": 0.064
+      },
+      {
+        "rule": "NP -> ('BRICS', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Sudáfrica', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('los', 'FW') NP (',', ',') NP ('en', 'FW') NP (',', ',') NP (',', ',') VP VP (',', ',') ('la', 'FW') ('cooperación', 'FW') ('y', 'FW') ('la', 'FW') ('construcción', 'FW') ('de', 'FW') ('un', 'FW') ('mundo', 'FW') NP (',', ',') NP NP (',', ',') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Cumbre', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('celebrada', 'NN')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('Kazan', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "BRICS"
+      },
+      {
+        "label": "NP",
+        "text": "celebrada"
+      },
+      {
+        "label": "NP",
+        "text": "Kazan"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "VP",
+        "text": "se realizó bajo el"
+      },
+      {
+        "label": "NP",
+        "text": "realizó bajo el"
+      },
+      {
+        "label": "VP",
+        "text": "llamado a la paz"
+      },
+      {
+        "label": "NP",
+        "text": "a la paz"
+      },
+      {
+        "label": "NP",
+        "text": "multipolar"
+      },
+      {
+        "label": "NP",
+        "text": "hecho con el que se comprometieron los"
+      },
+      {
+        "label": "NP",
+        "text": "miembros del bloque"
+      },
+      {
+        "label": "NP",
+        "text": "incluyendo sus fundadores"
+      },
+      {
+        "label": "NP",
+        "text": "antiguos miembros y las actuales naciones asociadas"
+      },
+      {
+        "label": "NP",
+        "text": "Durante"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Cumbre/NNP)\n  de/IN\n  los/FW\n  (NP BRICS/NNP)\n  ,/,\n  (NP celebrada/NN)\n  en/FW\n  (NP Kazan/NNP)\n  ,/,\n  (NP Rusia/NNP)\n  ,/,\n  (VP se/VBD (NP realizó/JJ bajo/NN el/NN))\n  (VP llamado/VBZ (NP a/DT la/NN paz/NN))\n  ,/,\n  la/FW\n  cooperación/FW\n  y/FW\n  la/FW\n  construcción/FW\n  de/FW\n  un/FW\n  mundo/FW\n  (NP multipolar/NN)\n  ,/,\n  (NP hecho/JJ con/NN el/NN que/NN se/NN comprometieron/NN los/NN)\n  (NP miembros/JJ del/NN bloque/NN)\n  ,/,\n  (NP incluyendo/JJ sus/NN fundadores/NNS)\n  ,/,\n  (NP\n    antiguos/JJ\n    miembros/NN\n    y/NN\n    las/NN\n    actuales/NNS\n    naciones/NNS\n    asociadas/NNS)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  el/CC\n  (NP último/NNP)\n  día/FW\n  de/FW\n  la/FW\n  (NP Cumbre/NNP)\n  ,/,\n  la/FW\n  vicepresidenta/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Delcy/NNP Rodríguez/NNP)\n  ,/,\n  (NP destacó/NN)\n  la/FW\n  similitud/FW\n  de/FW\n  valores/FW\n  entre/FW\n  su/FW\n  país/FW\n  y/FW\n  los/FW\n  (NP BRICS/NNP)\n  ,/,\n  (NP resaltando/NN)\n  la/FW\n  herencia/FW\n  de/FW\n  (NP Bolívar/NNP)\n  y/CC\n  la/FW\n  (NP coincidencia/JJ con/NN los/NN principios/NNS)\n  (VP del/VBP (NP bloque/NN para/NN) (NP un/JJ mundo/NN libre/NN))\n  (PP de/IN (NP hegemonías/NN))\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN)\n  (PP de/IN (NP China/NNP))\n  ,/,\n  (NP Xi/NNP Jinping/NNP)\n  ,/,\n  (NP señaló/NN que/NN el/NN)\n  (NP ascenso/JJ colectivo/NN)\n  de/IN\n  los/FW\n  (NP países/NNS)\n  (VP\n    del/VBP\n    (NP sur/JJ global/JJ es/NN)\n    (NP una/JJ característica/NN))\n  (VP clave/VBP)\n  (VP del/VBN (NP mundo/NN))\n  en/FW\n  (NP constante/NN cambio/NN y/NN enfatizó/NN)\n  en/IN\n  la/FW\n  necesidad/FW\n  de/FW\n  unir/FW\n  fuerzas/FW\n  y/FW\n  asumir/FW\n  la/FW\n  responsabilidad/FW\n  de/FW\n  forjar/FW\n  el/FW\n  (NP destino/NN común/NN)\n  de/IN\n  la/FW\n  (NP humanidad/NN)\n  ,/,\n  (NP incluso/JJ con/NN)\n  (ADJP un/JJ)\n  (VP\n    llamado/VBZ\n    (NP a/DT un/JJ alto/NN el/NN fuego/NN)\n    (NP total/JJ en/JJ la/NN Franja/NNP))\n  (PP de/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP el/JJ presidente/NN)\n  (PP de/IN (NP Sudáfrica/NNP))\n  ,/,\n  (NP Cyril/NNP Ramaphosa/NNP)\n  ,/,\n  (NP condenó/NN las/NNS)\n  (NP acciones/JJ militares/NNS)\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  el/FW\n  (NP pueblo/NN)\n  (PP de/IN (NP Gaza/NNP))\n  ,/,\n  (VP calificándolas/VBP (NP como/NN) (NP un/JJ genocidio/NN))\n  ./.)",
+      "(S\n  (NP A/DT su/NN vez/NN)\n  ,/,\n  (NP anunció/JJ que/NN Sudáfrica/NNP)\n  (VP recurrirá/VBZ (NP a/DT la/NN Corte/NNP Internacional/NNP))\n  de/FW\n  (NP Justicia/NNP para/NN detener/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  civiles/FW\n  (NP inocentes/NNS)\n  ,/,\n  (NP afirmando/JJ que/NN)\n  el/FW\n  (VP\n    mundo/VBZ\n    (NP no/DT puede/NN ser/NN)\n    (NP un/JJ mero/NN espectador/NN))\n  (PP de/IN (NP tales/NNS atrocidades/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación y la construcción de un mundo multipolar, hecho con el que se comprometieron los miembros del bloque, incluyendo sus fundadores, antiguos miembros y las",
+        "position": [
+          92,
+          256
+        ],
+        "start": 92,
+        "end": 256
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación y la construcción de un mundo multipolar, hecho con el que se comprometieron los miembros del bloque, incluyendo sus fundadores, antiguos miembros y las actuales naciones",
+        "position": [
+          92,
+          274
+        ],
+        "start": 92,
+        "end": 274
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          584,
+          590
+        ],
+        "start": 584,
+        "end": 590
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          1054,
+          1061
+        ],
+        "start": 1054,
+        "end": 1061
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de china",
+        "position": [
+          551,
+          570
+        ],
+        "start": 551,
+        "end": 570
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          1471,
+          1504
+        ],
+        "start": 1471,
+        "end": 1504
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          943,
+          950
+        ],
+        "start": 943,
+        "end": 950
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          372,
+          379
+        ],
+        "start": 372,
+        "end": 379
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          1433,
+          1439
+        ],
+        "start": 1433,
+        "end": 1439
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          45,
+          50
+        ],
+        "start": 45,
+        "end": 50
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          81,
+          87
+        ],
+        "start": 81,
+        "end": 87
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado palestino",
+        "position": [
+          1793,
+          1809
+        ],
+        "start": 1793,
+        "end": 1809
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1875,
+          1891
+        ],
+        "start": 1875,
+        "end": 1891
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Delcy Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Viera",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mauro Viera",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cyril Ramaphosa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "la India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cumbre",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "BRICS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kazan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudáfrica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xi Jinping",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bolívar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cumbre",
+        "relacion": "DESTACAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Cumbre",
+        "relacion": "DESTACAR",
+        "objeto": "Delcy Rodríguez"
+      },
+      {
+        "sujeto": "Cumbre",
+        "relacion": "DESTACAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Cumbre",
+        "relacion": "DESTACAR",
+        "objeto": "Bolívar"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DESTACAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DESTACAR",
+        "objeto": "Bolívar"
+      },
+      {
+        "sujeto": "Delcy Rodríguez",
+        "relacion": "DESTACAR",
+        "objeto": "BRICS"
+      },
+      {
+        "sujeto": "Delcy Rodríguez",
+        "relacion": "DESTACAR",
+        "objeto": "Bolívar"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "DESTACAR",
+        "objeto": "Bolívar"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "SE_ALAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "SE_ALAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Sudáfrica",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Sudáfrica",
+        "relacion": "CONDENAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Cyril Ramaphosa",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Cyril Ramaphosa",
+        "relacion": "CONDENAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Sudáfrica",
+        "relacion": "RECURRIR_ANUNCIAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "DA",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "DA",
+        "objeto": "Relaciones Exteriores"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "DA",
+        "objeto": "Mauro Viera"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "DA",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "DA",
+        "objeto": "Relaciones Exteriores"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "DA",
+        "objeto": "Mauro Viera"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "DA",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "TOMAR_DA",
+        "objeto": "Relaciones Exteriores"
+      },
+      {
+        "sujeto": "BRICS",
+        "relacion": "TOMAR_DA",
+        "objeto": "Mauro Viera"
+      },
+      {
+        "sujeto": "Viera",
+        "relacion": "DECLARAR",
+        "objeto": "Sudáfrica"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6597,
+    "pos": 0.007,
+    "neu": 0.965,
+    "neg": 0.027,
+    "label": "negative"
+  }
+}

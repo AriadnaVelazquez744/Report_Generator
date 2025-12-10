@@ -1,0 +1,782 @@
+{
+  "url": "https://www.telesurtv.net/continua-el-asedio-contra-gaza-ataque-de-israel-en-jabalia-deja-decenas-de-muertos/",
+  "title": "Continúa el asedio contra Gaza: Ataque de Israel en Jabalia deja decenas de muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Asedio",
+    "Ataque",
+    "Jabalia",
+    "Muertos"
+  ],
+  "text": "Decenas de personas murieron este viernes como consecuencia de un ataque del Ejército israelí contra la ciudad de Jabalia, al norte de la Franja de Gaza, de acuerdo con un balance inicial de las autoridades.\nDesde horas de la madrugada la artillería israelí comenzó a lanzar cohetes contra distintas áreas, incluyendo una escuela que aloja desplazados. En horas de la tarde, se produjo un nuevo ataque que dejó unos 30 heridos y se contabilizan 14 desaparecidos, por lo que los equipos de rescate realizan acciones para buscar a posibles sobrevivientes.\nDe acuerdo con medios locales, este bombardeo ocurrió cerca de la mezquita Al-Omari en Jabalia, y al parecer, el objetivo era la vivienda de la familia de Hassan Assaf; sin embargo, la intensidad de los misiles provocó el colapso de otras dos casas. Todas fueron totalmente arrasadas.\nSe ha notificado que la mayoría de las personas murieron bajo los escombros de las casas, entre ellos un niño que no tenía más de siete meses.\nLa ciudad de Jabalia se localiza al norte de la Franja de Gaza y alberga el mayor de los campos de refugiados en la historia de la región. Fuentes locales que indican que unas 1.000 personas se encuentran atrapadas en el campo de Jabalia, mientras los bombardeos continúan.\nTras el inicio de la operación Diluvio de Al Aqsa el 7 de octubre de 2023, Israel declaró la guerra a Hamás y recrudeció el genocidio contra el pueblo palestino de la Franja de Gaza.\nDesde entonces, los continuos bombardeos contra la Franja de Gaza han dejado, hasta el momento, más de 42.000 muertos y más de 97.100 heridos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/continua-el-asedio-contra-gaza-ataque-de-israel-en-jabalia-deja-decenas-de-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1296,
+    "message_id": 78230,
+    "date": "2024-10-11T21:55:07+00:00",
+    "text": "teleSUR\nContinúa el asedio contra Gaza: Ataque de Israel en Jabalia deja decenas de muertos\nhttps://www.telesurtv.net/continua-el-asedio-contra-gaza-ataque-de-israel-en-jabalia-deja-decenas-de-muertos/",
+    "photo_path": null,
+    "views": 2839,
+    "reactions": {
+      "🤬": 42,
+      "😡": 10,
+      "👎": 6,
+      "🔥": 3,
+      "👍": 2
+    },
+    "total_reactions": 63
+  },
+  "preprocessing": {
+    "cleaned": "decenas de personas murieron este viernes como consecuencia de un ataque del ejército israelí contra la ciudad de jabalia, al norte de la franja de gaza, de acuerdo con un balance inicial de las autoridades. desde horas de la madrugada la artillería israelí comenzó a lanzar cohetes contra distintas áreas, incluyendo una escuela que aloja desplazados. en horas de la tarde, se produjo un nuevo ataque que dejó unos 30 heridos y se contabilizan 14 desaparecidos, por lo que los equipos de rescate realizan acciones para buscar a posibles sobrevivientes. de acuerdo con medios locales, este bombardeo ocurrió cerca de la mezquita al-omari en jabalia, y al parecer, el objetivo era la vivienda de la familia de hassan assaf; sin embargo, la intensidad de los misiles provocó el colapso de otras dos casas. todas fueron totalmente arrasadas. se ha notificado que la mayoría de las personas murieron bajo los escombros de las casas, entre ellos un niño que no tenía más de siete meses. la ciudad de jabalia se localiza al norte de la franja de gaza y alberga el mayor de los campos de refugiados en la historia de la región. fuentes locales que indican que unas 1.000 personas se encuentran atrapadas en el campo de jabalia, mientras los bombardeos continúan. tras el inicio de la operación diluvio de al aqsa el 7 de octubre de 2023, israel declaró la guerra a hamás y recrudeció el genocidio contra el pueblo palestino de la franja de gaza. desde entonces, los continuos bombardeos contra la franja de gaza han dejado, hasta el momento, más de 42.000 muertos y más de 97.100 heridos.",
+    "tokens": [
+      "decenas",
+      "personas",
+      "murieron",
+      "viernes",
+      "consecuencia",
+      "ataque",
+      "ejército",
+      "israelí",
+      "ciudad",
+      "jabalia",
+      ",",
+      "norte",
+      "franja",
+      "gaza",
+      ",",
+      "acuerdo",
+      "balance",
+      "inicial",
+      "autoridades",
+      ".",
+      "horas",
+      "madrugada",
+      "artillería",
+      "israelí",
+      "comenzó",
+      "lanzar",
+      "cohetes",
+      "distintas",
+      "áreas",
+      ",",
+      "incluyendo",
+      "escuela",
+      "aloja",
+      "desplazados",
+      ".",
+      "horas",
+      "tarde",
+      ",",
+      "produjo",
+      "nuevo",
+      "ataque",
+      "dejó",
+      "30",
+      "heridos",
+      "contabilizan",
+      "14",
+      "desaparecidos",
+      ",",
+      "equipos",
+      "rescate",
+      "realizan",
+      "acciones",
+      "buscar",
+      "posibles",
+      "sobrevivientes",
+      ".",
+      "acuerdo",
+      "medios",
+      "locales",
+      ",",
+      "bombardeo",
+      "ocurrió",
+      "cerca",
+      "mezquita",
+      "al-omari",
+      "jabalia",
+      ",",
+      "parecer",
+      ",",
+      "objetivo",
+      "vivienda",
+      "familia",
+      "hassan",
+      "assaf",
+      ";",
+      "embargo",
+      ",",
+      "intensidad",
+      "misiles",
+      "provocó",
+      "colapso",
+      "dos",
+      "casas",
+      ".",
+      "todas",
+      "totalmente",
+      "arrasadas",
+      ".",
+      "notificado",
+      "mayoría",
+      "personas",
+      "murieron",
+      "bajo",
+      "escombros",
+      "casas",
+      ",",
+      "niño",
+      "siete",
+      "meses",
+      ".",
+      "ciudad",
+      "jabalia",
+      "localiza",
+      "norte",
+      "franja",
+      "gaza",
+      "alberga",
+      "mayor",
+      "campos",
+      "refugiados",
+      "historia",
+      "región",
+      ".",
+      "fuentes",
+      "locales",
+      "indican",
+      "unas",
+      "1.000",
+      "personas",
+      "encuentran",
+      "atrapadas",
+      "campo",
+      "jabalia",
+      ",",
+      "mientras",
+      "bombardeos",
+      "continúan",
+      ".",
+      "tras",
+      "inicio",
+      "operación",
+      "diluvio",
+      "aqsa",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "israel",
+      "declaró",
+      "guerra",
+      "hamás",
+      "recrudeció",
+      "genocidio",
+      "pueblo",
+      "palestino",
+      "franja",
+      "gaza",
+      ".",
+      "entonces",
+      ",",
+      "continuos",
+      "bombardeos",
+      "franja",
+      "gaza",
+      "dejado",
+      ",",
+      "momento",
+      ",",
+      "42.000",
+      "muertos",
+      "97.100",
+      "heridos",
+      "."
+    ],
+    "token_count": 163,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "FW": 86,
+      "NN": 82,
+      "NNS": 13,
+      "VBP": 5,
+      "JJ": 21,
+      "IN": 12,
+      "VBZ": 4,
+      "CD": 6,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 4,
+      "NNP-FW": 16,
+      "FW-NNP": 18,
+      "NNP-NN": 11,
+      "NN-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-NN": 2,
+      "NN-FW": 11,
+      "FW-FW": 52,
+      "FW-JJ": 4,
+      "JJ-NN": 13,
+      "NN-NNP": 4,
+      "NN-NN": 44,
+      "FW-NN": 7,
+      "NN-JJ": 5,
+      "NN-IN": 10,
+      "IN-FW": 6,
+      "FW-NNS": 3,
+      "NNS-NNP": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 3,
+      "VBP-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-CD": 2,
+      "CD-NN": 3,
+      "NN-CD": 1,
+      "IN-NN": 1,
+      "NNS-VBZ": 2,
+      "VBZ-NNP": 1,
+      "VBZ-NN": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "IN-JJ": 2,
+      "NNS-NNS": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "NNS-IN": 1,
+      "IN-NNP": 1,
+      "FW-IN": 1,
+      "IN-CD": 2,
+      "CD-NNP": 1,
+      "NNP-VBZ": 1,
+      "NNS-FW": 1,
+      "FW-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 7,
+      "FW-NNP-NN": 6,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 7,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-FW": 8,
+      "FW-FW-FW": 36,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 9,
+      "NNP-FW-FW": 6,
+      "FW-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 5,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-NN": 23,
+      "NN-NN-NNP": 2,
+      "NN-NNP-FW": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-CD": 2,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NNS-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "IN-FW-JJ": 1,
+      "NN-FW-NNP": 4,
+      "FW-NN-FW": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 86,
+        "NN": 82,
+        "NNP": 32,
+        "JJ": 21,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 52,
+        "NN-NN": 44,
+        "FW-NNP": 18,
+        "NNP-FW": 16,
+        "JJ-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 36,
+        "NN-NN-NN": 23,
+        "NNP-NN-NN": 9,
+        "FW-NNP-FW": 9,
+        "NN-NN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 10,
+      "ADJP": 3,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Jabalia', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0404
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0404
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "S -> NP ('personas', 'FW') NP VP ('de', 'FW') ('un', 'FW') NP ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ADJP ('norte', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') ('de', 'FW') ('acuerdo', 'FW') NP NP ('de', 'IN') ('las', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Decenas', 'NNP') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('murieron', 'NNP') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "VP -> ('como', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('consecuencia', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('ataque', 'JJ') ('del', 'NN') ('Ejército', 'NNP') ('israelí', 'NN') ('contra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Decenas de"
+      },
+      {
+        "label": "NP",
+        "text": "murieron este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "como consecuencia"
+      },
+      {
+        "label": "NP",
+        "text": "consecuencia"
+      },
+      {
+        "label": "NP",
+        "text": "ataque del Ejército israelí contra"
+      },
+      {
+        "label": "NP",
+        "text": "Jabalia"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "un balance inicial"
+      },
+      {
+        "label": "NP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Desde"
+      },
+      {
+        "label": "VP",
+        "text": "comenzó a lanzar"
+      },
+      {
+        "label": "NP",
+        "text": "a lanzar"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Decenas/NNP de/NNP)\n  personas/FW\n  (NP murieron/NNP este/NN viernes/NNS)\n  (VP como/VBP (NP consecuencia/NN))\n  de/FW\n  un/FW\n  (NP ataque/JJ del/NN Ejército/NNP israelí/NN contra/NN)\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Jabalia/NNP)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN)\n  (NP un/JJ balance/NN inicial/NN)\n  de/IN\n  las/FW\n  (NP autoridades/NNS)\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  horas/FW\n  de/FW\n  la/FW\n  madrugada/FW\n  la/FW\n  artillería/FW\n  israelí/FW\n  (VP comenzó/VBP (NP a/DT lanzar/NN))\n  (VP cohetes/VBZ (NP contra/JJ distintas/NNS áreas/NNS))\n  ,/,\n  (NP incluyendo/JJ una/JJ escuela/NN que/NN aloja/NN desplazados/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  horas/FW\n  de/FW\n  la/FW\n  tarde/FW\n  ,/,\n  se/FW\n  produjo/FW\n  (NP un/JJ nuevo/NN ataque/NN que/NN dejó/NN)\n  (ADJP unos/JJ)\n  30/CD\n  (NP heridos/NN y/NN)\n  (VP se/VBD contabilizan/JJ)\n  14/CD\n  (NP desaparecidos/NN)\n  ,/,\n  (NP por/NN lo/NN que/NN)\n  (NP los/JJ equipos/NN)\n  (PP de/IN (NP rescate/NN realizan/NN acciones/NNS))\n  (VP\n    para/VBP\n    (NP buscar/NN)\n    (NP a/DT posibles/NNS sobrevivientes/NNS))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN medios/NNS locales/NNS)\n  ,/,\n  (NP este/NN bombardeo/NN)\n  (NP ocurrió/JJ cerca/NN)\n  de/IN\n  la/FW\n  mezquita/FW\n  (NP Al-Omari/NNP)\n  en/FW\n  (NP Jabalia/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP al/VBZ (NP parecer/NN))\n  ,/,\n  el/FW\n  objetivo/FW\n  (NP era/NN la/NN)\n  vivienda/FW\n  de/FW\n  la/FW\n  familia/FW\n  de/FW\n  (NP Hassan/NNP Assaf/NNP)\n  ;/:\n  (NP sin/NN embargo/NN)\n  ,/,\n  la/FW\n  intensidad/FW\n  de/FW\n  los/FW\n  (NP misiles/NNS)\n  (VP provocó/VBP (NP el/JJ colapso/NN))\n  de/IN\n  otras/FW\n  (NP dos/JJ casas/NN)\n  ./.)",
+      "(S (NP Todas/NNP fueron/NN totalmente/NN arrasadas/NN) ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque del ejército",
+        "position": [
+          66,
+          85
+        ],
+        "start": 66,
+        "end": 85
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra a hamás y recrudeció el genocidio contra el",
+        "position": [
+          1349,
+          1399
+        ],
+        "start": 1349,
+        "end": 1399
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con medios locales, este bombardeo ocurrió cerca de la mezquita al-omari en jabalia, y al",
+        "position": [
+          557,
+          654
+        ],
+        "start": 557,
+        "end": 654
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1338,
+          1345
+        ],
+        "start": 1338,
+        "end": 1345
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "genocidio contra el pueblo",
+        "position": [
+          1380,
+          1406
+        ],
+        "start": 1380,
+        "end": 1406
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio contra el pueblo palestino de la franja de gaza",
+        "position": [
+          1380,
+          1437
+        ],
+        "start": 1380,
+        "end": 1437
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela que aloja",
+        "position": [
+          322,
+          339
+        ],
+        "start": 322,
+        "end": 339
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          322,
+          329
+        ],
+        "start": 322,
+        "end": 329
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          86,
+          93
+        ],
+        "start": 86,
+        "end": 93
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región. fuentes",
+        "position": [
+          1113,
+          1128
+        ],
+        "start": 1113,
+        "end": 1128
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela que",
+        "position": [
+          322,
+          333
+        ],
+        "start": 322,
+        "end": 333
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1309,
+          1329
+        ],
+        "start": 1309,
+        "end": 1329
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          727,
+          734
+        ],
+        "start": 727,
+        "end": 734
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          1160,
+          1172
+        ],
+        "start": 1160,
+        "end": 1172
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.000 personas",
+        "position": [
+          1158,
+          1172
+        ],
+        "start": 1158,
+        "end": 1172
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 42.000",
+        "position": [
+          1535,
+          1548
+        ],
+        "start": 1535,
+        "end": 1548
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 97.100",
+        "position": [
+          1559,
+          1572
+        ],
+        "start": 1559,
+        "end": 1572
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuentes",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército israelí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hassan Assaf",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "mezquita Al-Omari",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jabalia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "mezquita Al-Omari",
+        "relacion": "CERCA_OCURRIR",
+        "objeto": "Hassan Assaf"
+      },
+      {
+        "sujeto": "Jabalia",
+        "relacion": "CERCA_OCURRIR",
+        "objeto": "Hassan Assaf"
+      },
+      {
+        "sujeto": "Jabalia",
+        "relacion": "LOCALIZAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DECLARAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DECLARAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "DECLARAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.009,
+    "neu": 0.969,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

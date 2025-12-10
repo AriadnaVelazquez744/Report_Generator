@@ -1,0 +1,663 @@
+{
+  "url": "https://www.telesurtv.net/ataque-ucraniano-deja-ocho-heridos-en-la-provincia-rusa-de-belgorod/",
+  "title": "Ataque ucraniano deja ocho heridos en la provincia rusa de Bélgorod - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque Ucraniano",
+    "rusa de Bélgorod"
+  ],
+  "text": "Autoridades rusas informaron que al menos ocho personas, entre los que se incluyen cuatro menores, resultaron heridas a causa de un ataque de un vehículo aéreo no tripulado ucraniano contra un autobús en la provincia de Bélgorod.\n“Un autobús de línea en movimiento fue atacado con un dron enemigo en la curva a un pueblo de Oktiabrski (…). Por desgracia, ocho civiles, entre ellos cuatro menores, resultaron heridos”, informó el gobernador de la región, Viacheslav Gladkov, en su cuenta de Telegram.\nAsimismo, puntualizó que los menores tienen edades comprendidas entre los ocho y los 17 años, y dos hombres que les acompañaban recibieron servicios médicos.\nDe igual forma, las dos mujeres fueron puestas en tratamiento ambulatorio tras recibir la asistencia médica.\nDesde el 24 de febrero de 2022, la nación rusa realiza una operación militar especial en Ucrania, que tiene como objetivo proteger a la población de “un genocidio por parte del régimen de Kiev” y detener los riesgos de seguridad nacional que representa el avance de la OTAN hacia el este.\nLas provincias rusas contiguas con Ucrania, como Bélgorod, Briansk, Kursk y Vorónezh, evidencian bombazos de municiones, invasiones de drones y otras agresiones desde el otro lado de la frontera, que obligan a la población buscar amparo en otros territorios.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-ucraniano-deja-ocho-heridos-en-la-provincia-rusa-de-belgorod/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1081,
+    "message_id": 78454,
+    "date": "2024-10-15T23:55:07+00:00",
+    "text": "teleSUR\nAtaque ucraniano deja ocho heridos en la provincia rusa de Bélgorod\nhttps://www.telesurtv.net/ataque-ucraniano-deja-ocho-heridos-en-la-provincia-rusa-de-belgorod/",
+    "photo_path": null,
+    "views": 2890,
+    "reactions": {
+      "😢": 32,
+      "🤬": 19,
+      "👎": 5,
+      "🤯": 1,
+      "💩": 1
+    },
+    "total_reactions": 58
+  },
+  "preprocessing": {
+    "cleaned": "autoridades rusas informaron que al menos ocho personas, entre los que se incluyen cuatro menores, resultaron heridas a causa de un ataque de un vehículo aéreo no tripulado ucraniano contra un autobús en la provincia de bélgorod. “un autobús de línea en movimiento fue atacado con un dron enemigo en la curva a un pueblo de oktiabrski (…). por desgracia, ocho civiles, entre ellos cuatro menores, resultaron heridos”, informó el gobernador de la región, viacheslav gladkov, en su cuenta de telegram. asimismo, puntualizó que los menores tienen edades comprendidas entre los ocho y los 17 años, y dos hombres que les acompañaban recibieron servicios médicos. de igual forma, las dos mujeres fueron puestas en tratamiento ambulatorio tras recibir la asistencia médica. desde el 24 de febrero de 2022, la nación rusa realiza una operación militar especial en ucrania, que tiene como objetivo proteger a la población de “un genocidio por parte del régimen de kiev” y detener los riesgos de seguridad nacional que representa el avance de la otan hacia el este. las provincias rusas contiguas con ucrania, como bélgorod, briansk, kursk y vorónezh, evidencian bombazos de municiones, invasiones de drones y otras agresiones desde el otro lado de la frontera, que obligan a la población buscar amparo en otros territorios.",
+    "tokens": [
+      "autoridades",
+      "rusas",
+      "informaron",
+      "menos",
+      "ocho",
+      "personas",
+      ",",
+      "incluyen",
+      "cuatro",
+      "menores",
+      ",",
+      "resultaron",
+      "heridas",
+      "causa",
+      "ataque",
+      "vehículo",
+      "aéreo",
+      "tripulado",
+      "ucraniano",
+      "autobús",
+      "provincia",
+      "bélgorod",
+      ".",
+      "“",
+      "autobús",
+      "línea",
+      "movimiento",
+      "atacado",
+      "dron",
+      "enemigo",
+      "curva",
+      "pueblo",
+      "oktiabrski",
+      "(",
+      "…",
+      ")",
+      ".",
+      "desgracia",
+      ",",
+      "ocho",
+      "civiles",
+      ",",
+      "cuatro",
+      "menores",
+      ",",
+      "resultaron",
+      "heridos",
+      "”",
+      ",",
+      "informó",
+      "gobernador",
+      "región",
+      ",",
+      "viacheslav",
+      "gladkov",
+      ",",
+      "cuenta",
+      "telegram",
+      ".",
+      "asimismo",
+      ",",
+      "puntualizó",
+      "menores",
+      "edades",
+      "comprendidas",
+      "ocho",
+      "17",
+      "años",
+      ",",
+      "dos",
+      "hombres",
+      "acompañaban",
+      "recibieron",
+      "servicios",
+      "médicos",
+      ".",
+      "igual",
+      "forma",
+      ",",
+      "dos",
+      "mujeres",
+      "puestas",
+      "tratamiento",
+      "ambulatorio",
+      "tras",
+      "recibir",
+      "asistencia",
+      "médica",
+      ".",
+      "24",
+      "febrero",
+      "2022",
+      ",",
+      "nación",
+      "rusa",
+      "realiza",
+      "operación",
+      "militar",
+      "especial",
+      "ucrania",
+      ",",
+      "objetivo",
+      "proteger",
+      "población",
+      "“",
+      "genocidio",
+      "parte",
+      "régimen",
+      "kiev",
+      "”",
+      "detener",
+      "riesgos",
+      "seguridad",
+      "nacional",
+      "representa",
+      "avance",
+      "otan",
+      "hacia",
+      ".",
+      "provincias",
+      "rusas",
+      "contiguas",
+      "ucrania",
+      ",",
+      "bélgorod",
+      ",",
+      "briansk",
+      ",",
+      "kursk",
+      "vorónezh",
+      ",",
+      "evidencian",
+      "bombazos",
+      "municiones",
+      ",",
+      "invasiones",
+      "drones",
+      "agresiones",
+      "lado",
+      "frontera",
+      ",",
+      "obligan",
+      "población",
+      "buscar",
+      "amparo",
+      "territorios",
+      "."
+    ],
+    "token_count": 147,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "NN": 69,
+      "IN": 13,
+      "NNS": 19,
+      "VBP": 10,
+      "VB": 1,
+      "JJ": 29,
+      "VBZ": 3,
+      "DT": 1,
+      "FW": 32,
+      "CD": 3,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-NN": 29,
+      "NN-IN": 12,
+      "IN-NNS": 2,
+      "NNS-VBP": 10,
+      "VBP-NNS": 3,
+      "NNS-VB": 1,
+      "VB-JJ": 1,
+      "JJ-JJ": 3,
+      "JJ-NN": 21,
+      "NN-JJ": 9,
+      "NN-NNS": 7,
+      "VBP-JJ": 6,
+      "IN-JJ": 3,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "IN-FW": 6,
+      "FW-FW": 14,
+      "FW-NNP": 5,
+      "NNP-NNP": 7,
+      "NNP-FW": 3,
+      "FW-NN": 8,
+      "FW-JJ": 2,
+      "IN-NNP": 2,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 3,
+      "VBP-NN": 1,
+      "NNS-FW": 3,
+      "NNS-JJ": 1,
+      "NN-NNP": 5,
+      "NNP-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-FW": 1,
+      "FW-CD": 1,
+      "NN-FW": 3,
+      "FW-NNS": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 2,
+      "NNP-JJ": 1,
+      "NNS-IN": 1,
+      "NNS-NNS": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 9,
+      "NN-NN-IN": 5,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-NN": 8,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-IN": 7,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-JJ": 1,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 6,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 7,
+      "NN-NN-JJ": 6,
+      "JJ-NN-NN": 6,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-NN-NNS": 3,
+      "NNP-FW-NN": 2,
+      "VBP-NNS-VBP": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "IN-FW-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "IN-FW-NN": 1,
+      "NN-JJ-FW": 1,
+      "IN-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 69,
+        "FW": 32,
+        "JJ": 29,
+        "NNP": 20,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 29,
+        "JJ-NN": 21,
+        "FW-FW": 14,
+        "NN-IN": 12,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 9,
+        "NN-JJ-NN": 8,
+        "JJ-NN-IN": 7,
+        "FW-NN-NN": 7,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 65,
+      "PP": 7,
+      "VP": 15
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0532
+      },
+      {
+        "rule": "S -> NP PP VP (',', ',') ('entre', 'FW') ('los', 'FW') ('que', 'FW') ('se', 'FW') NP (',', ',') NP VP PP PP VP ('en', 'IN') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP') ('rusas', 'NN') ('informaron', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "PP -> ('al', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('ocho', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('incluyen', 'JJ') ('cuatro', 'NN') ('menores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('resultaron', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('heridas', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades rusas informaron que"
+      },
+      {
+        "label": "PP",
+        "text": "al menos"
+      },
+      {
+        "label": "NP",
+        "text": "menos"
+      },
+      {
+        "label": "VP",
+        "text": "ocho personas"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "incluyen cuatro menores"
+      },
+      {
+        "label": "NP",
+        "text": "resultaron"
+      },
+      {
+        "label": "VP",
+        "text": "heridas a causa"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "PP",
+        "text": "de un ataque"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque"
+      },
+      {
+        "label": "PP",
+        "text": "de un vehículo"
+      },
+      {
+        "label": "NP",
+        "text": "un vehículo"
+      },
+      {
+        "label": "VP",
+        "text": "aéreo no tripulado ucraniano contra un autobús"
+      },
+      {
+        "label": "NP",
+        "text": "no tripulado ucraniano contra"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP rusas/NN informaron/NN que/NN)\n  (PP al/IN (NP menos/NNS))\n  (VP ocho/VBP (NP personas/NNS))\n  ,/,\n  entre/FW\n  los/FW\n  que/FW\n  se/FW\n  (NP incluyen/JJ cuatro/NN menores/NNS)\n  ,/,\n  (NP resultaron/NN)\n  (VP heridas/VBD (NP a/DT causa/NN))\n  (PP de/IN (NP un/JJ ataque/NN))\n  (PP de/IN (NP un/JJ vehículo/NN))\n  (VP\n    aéreo/VBZ\n    (NP no/DT tripulado/JJ ucraniano/JJ contra/NN)\n    (NP un/JJ autobús/NN))\n  en/IN\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Bélgorod/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Un/NNP autobús/NN)\n  de/FW\n  línea/FW\n  en/FW\n  movimiento/FW\n  (NP fue/NN atacado/NN con/NN)\n  (NP un/JJ dron/NN enemigo/NN)\n  en/IN\n  la/FW\n  curva/FW\n  (NP a/DT un/JJ pueblo/NN)\n  (PP de/IN (NP Oktiabrski/NNP))\n  (/(\n  (NP …/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP Por/NNP desgracia/NN)\n  ,/,\n  (NP ocho/JJ civiles/NNS)\n  ,/,\n  entre/FW\n  ellos/FW\n  (NP cuatro/NN menores/NNS)\n  ,/,\n  (NP resultaron/NN heridos/NN ”/NNP)\n  ,/,\n  (NP informó/NN)\n  (NP el/JJ gobernador/NN)\n  de/IN\n  la/FW\n  región/FW\n  ,/,\n  (NP Viacheslav/NNP Gladkov/NNP)\n  ,/,\n  en/FW\n  su/FW\n  cuenta/FW\n  de/FW\n  (NP Telegram/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP puntualizó/NN que/NN los/NN menores/NNS)\n  (VP tienen/VBP (NP edades/NNS))\n  (VP comprendidas/VBP (NP entre/JJ los/NN) (NP ocho/JJ y/NN))\n  (VP los/VBD)\n  17/CD\n  (NP años/NN)\n  ,/,\n  y/CC\n  (NP dos/JJ hombres/NNS)\n  (VP que/VBP (NP les/NNS))\n  (VP acompañaban/VBP (NP recibieron/NN servicios/NNS médicos/NN))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ forma/NN)\n  ,/,\n  (NP las/JJ dos/NN mujeres/NNS)\n  (VP fueron/VBP (NP puestas/NNS))\n  en/FW\n  (NP tratamiento/NN ambulatorio/NN tras/NNS)\n  (VP recibir/VBP (NP la/JJ asistencia/NN médica/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque de un vehículo aéreo",
+        "position": [
+          132,
+          159
+        ],
+        "start": 132,
+        "end": 159
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque de un vehículo aéreo no tripulado ucraniano",
+        "position": [
+          132,
+          182
+        ],
+        "start": 132,
+        "end": 182
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "municiones",
+        "position": [
+          1165,
+          1175
+        ],
+        "start": 1165,
+        "end": 1175
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          418,
+          425
+        ],
+        "start": 418,
+        "end": 425
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "otan",
+        "position": [
+          1036,
+          1040
+        ],
+        "start": 1036,
+        "end": 1040
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          682,
+          689
+        ],
+        "start": 682,
+        "end": 689
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          856,
+          863
+        ],
+        "start": 856,
+        "end": 863
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          955,
+          959
+        ],
+        "start": 955,
+        "end": 959
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          207,
+          219
+        ],
+        "start": 207,
+        "end": 219
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "24 de febrero de 2022",
+        "position": [
+          776,
+          797
+        ],
+        "start": 776,
+        "end": 797
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Kursk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Briansk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Viacheslav Gladkov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Oktiabrski",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OTAN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bélgorod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vorónezh",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Kiev",
+        "relacion": "PROTEGER_TENER_REALIZAR",
+        "objeto": "OTAN"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.989,
+    "neg": 0.011,
+    "label": "negative"
+  }
+}

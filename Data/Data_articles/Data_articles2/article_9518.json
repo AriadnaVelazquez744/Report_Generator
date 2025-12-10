@@ -1,0 +1,704 @@
+{
+  "url": "https://www.telesurtv.net/bolivia-presenta-avance-sobre-danos-por-incendios-forestales/",
+  "title": "Bolivia presenta avance sobre daños por incendios forestales - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Boliva",
+    "incendios"
+  ],
+  "text": "El Gobierno boliviano informó que casi 10 millones de hectáreas han sido consumidas por incendios forestales en lo que va del año, estableciendo un nuevo récord de destrucción de bosques en el país. Más del 60 por ciento de las áreas afectadas eran bosques vírgenes.\nSegún el último informe, 9.5 millones de hectáreas han sido devastadas, siendo Santa Cruz la región más impactada, con el 68% de los incendios, seguida por Beni, con un 28%. En total, casi 3 millones de hectáreas de parques nacionales y reservas forestales han sido destruidas, lo que representa un golpe severo para la biodiversidad.\nLos datos revelan que el 61% de las quemas se han producido en áreas vírgenes, mientras que el 39% corresponde a pastizales y terrenos de barbecho. Las autoridades han señalado que la mayoría de los incendios se debe al uso descontrolado del fuego para limpiar terrenos agrícolas, así como a quemas deliberadas con fines políticos y de acaparamiento de tierras.\nEl gobierno ha implementado una pausa ambiental que prohíbe el uso de tierras afectadas por incendios durante cinco años, buscando prevenir asentamientos en estas áreas. Hasta el momento, Bolivia está viviendo uno de sus peores años en términos de incendios forestales, superando los 5 millones de hectáreas devastadas el año pasado y acercándose a la cifra histórica de 9 millones de 2010.\nA pesar de los esfuerzos de casi 2,000 bomberos y el uso de aviones para combatir el fuego, las llamas continúan en Santa Cruz, Beni y La Paz. Sin embargo, recientes lluvias han comenzado a caer en varias regiones afectadas, brindando un alivio temporal en la lucha contra los incendios.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bolivia-presenta-avance-sobre-danos-por-incendios-forestales/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1064,
+    "message_id": 78471,
+    "date": "2024-10-16T10:55:07+00:00",
+    "text": "teleSUR\nBolivia presenta avance sobre daños por incendios forestales\nhttps://www.telesurtv.net/bolivia-presenta-avance-sobre-danos-por-incendios-forestales/",
+    "photo_path": null,
+    "views": 2609,
+    "reactions": {
+      "👍": 28,
+      "😭": 2,
+      "😁": 1,
+      "😡": 1
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno boliviano informó que casi 10 millones de hectáreas han sido consumidas por incendios forestales en lo que va del año, estableciendo un nuevo récord de destrucción de bosques en el país. más del 60 por ciento de las áreas afectadas eran bosques vírgenes. según el último informe, 9.5 millones de hectáreas han sido devastadas, siendo santa cruz la región más impactada, con el 68% de los incendios, seguida por beni, con un 28%. en total, casi 3 millones de hectáreas de parques nacionales y reservas forestales han sido destruidas, lo que representa un golpe severo para la biodiversidad. los datos revelan que el 61% de las quemas se han producido en áreas vírgenes, mientras que el 39% corresponde a pastizales y terrenos de barbecho. las autoridades han señalado que la mayoría de los incendios se debe al uso descontrolado del fuego para limpiar terrenos agrícolas, así como a quemas deliberadas con fines políticos y de acaparamiento de tierras. el gobierno ha implementado una pausa ambiental que prohíbe el uso de tierras afectadas por incendios durante cinco años, buscando prevenir asentamientos en estas áreas. hasta el momento, bolivia está viviendo uno de sus peores años en términos de incendios forestales, superando los 5 millones de hectáreas devastadas el año pasado y acercándose a la cifra histórica de 9 millones de 2010. a pesar de los esfuerzos de casi 2,000 bomberos y el uso de aviones para combatir el fuego, las llamas continúan en santa cruz, beni y la paz. sin embargo, recientes lluvias han comenzado a caer en varias regiones afectadas, brindando un alivio temporal en la lucha contra los incendios.",
+    "tokens": [
+      "gobierno",
+      "boliviano",
+      "informó",
+      "casi",
+      "10",
+      "millones",
+      "hectáreas",
+      "sido",
+      "consumidas",
+      "incendios",
+      "forestales",
+      "va",
+      "año",
+      ",",
+      "estableciendo",
+      "nuevo",
+      "récord",
+      "destrucción",
+      "bosques",
+      "país",
+      ".",
+      "60",
+      "ciento",
+      "áreas",
+      "afectadas",
+      "bosques",
+      "vírgenes",
+      ".",
+      "según",
+      "último",
+      "informe",
+      ",",
+      "9.5",
+      "millones",
+      "hectáreas",
+      "sido",
+      "devastadas",
+      ",",
+      "siendo",
+      "santa",
+      "cruz",
+      "región",
+      "impactada",
+      ",",
+      "68",
+      "%",
+      "incendios",
+      ",",
+      "seguida",
+      "beni",
+      ",",
+      "28",
+      "%",
+      ".",
+      "total",
+      ",",
+      "casi",
+      "3",
+      "millones",
+      "hectáreas",
+      "parques",
+      "nacionales",
+      "reservas",
+      "forestales",
+      "sido",
+      "destruidas",
+      ",",
+      "representa",
+      "golpe",
+      "severo",
+      "biodiversidad",
+      ".",
+      "datos",
+      "revelan",
+      "61",
+      "%",
+      "quemas",
+      "producido",
+      "áreas",
+      "vírgenes",
+      ",",
+      "mientras",
+      "39",
+      "%",
+      "corresponde",
+      "pastizales",
+      "terrenos",
+      "barbecho",
+      ".",
+      "autoridades",
+      "señalado",
+      "mayoría",
+      "incendios",
+      "debe",
+      "uso",
+      "descontrolado",
+      "fuego",
+      "limpiar",
+      "terrenos",
+      "agrícolas",
+      ",",
+      "así",
+      "quemas",
+      "deliberadas",
+      "fines",
+      "políticos",
+      "acaparamiento",
+      "tierras",
+      ".",
+      "gobierno",
+      "implementado",
+      "pausa",
+      "ambiental",
+      "prohíbe",
+      "uso",
+      "tierras",
+      "afectadas",
+      "incendios",
+      "cinco",
+      "años",
+      ",",
+      "buscando",
+      "prevenir",
+      "asentamientos",
+      "áreas",
+      ".",
+      "momento",
+      ",",
+      "bolivia",
+      "viviendo",
+      "peores",
+      "años",
+      "términos",
+      "incendios",
+      "forestales",
+      ",",
+      "superando",
+      "5",
+      "millones",
+      "hectáreas",
+      "devastadas",
+      "año",
+      "pasado",
+      "acercándose",
+      "cifra",
+      "histórica",
+      "9",
+      "millones",
+      "2010.",
+      "pesar",
+      "esfuerzos",
+      "casi",
+      "2,000",
+      "bomberos",
+      "uso",
+      "aviones",
+      "combatir",
+      "fuego",
+      ",",
+      "llamas",
+      "continúan",
+      "santa",
+      "cruz",
+      ",",
+      "beni",
+      "paz",
+      ".",
+      "embargo",
+      ",",
+      "recientes",
+      "lluvias",
+      "comenzado",
+      "caer",
+      "varias",
+      "regiones",
+      "afectadas",
+      ",",
+      "brindando",
+      "alivio",
+      "temporal",
+      "lucha",
+      "incendios",
+      "."
+    ],
+    "token_count": 183,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "NN": 63,
+      "VBD": 2,
+      "CD": 9,
+      "NNS": 32,
+      "IN": 14,
+      "VBP": 24,
+      "JJ": 37,
+      "FW": 51,
+      "$": 1,
+      "RB": 1,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-NN": 5,
+      "NN-NN": 32,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 3,
+      "NNS-IN": 4,
+      "IN-NNS": 3,
+      "NNS-VBP": 21,
+      "VBP-JJ": 15,
+      "JJ-NNS": 8,
+      "VBP-NNS": 2,
+      "NNS-NNS": 3,
+      "JJ-NN": 19,
+      "NN-JJ": 9,
+      "JJ-JJ": 5,
+      "NN-IN": 7,
+      "IN-FW": 8,
+      "FW-FW": 31,
+      "FW-NNP": 5,
+      "NNP-FW": 3,
+      "FW-CD": 3,
+      "CD-NN": 3,
+      "FW-NNS": 8,
+      "NNS-NNP": 1,
+      "NNP-VBP": 2,
+      "VBP-NNP": 2,
+      "VBP-CD": 1,
+      "FW-NN": 3,
+      "CD-IN": 2,
+      "JJ-NNP": 1,
+      "JJ-CD": 1,
+      "CD-NNP": 1,
+      "NNP-JJ": 1,
+      "NN-NNS": 4,
+      "NN-FW": 5,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "IN-JJ": 2,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "VBP-IN": 1,
+      "NNP-NNS": 1,
+      "NNS-FW": 1,
+      "VBP-NN": 1,
+      "NN-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 3,
+      "JJ-FW": 3,
+      "NNS-JJ": 1,
+      "NN-VBZ": 2,
+      "IN-NNP": 1,
+      "FW-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 3,
+      "NN-NN-NN": 15,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-IN": 2,
+      "NNS-IN-NNS": 3,
+      "IN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 15,
+      "VBP-JJ-NNS": 5,
+      "JJ-NNS-VBP": 5,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NN": 7,
+      "JJ-NN-NN": 10,
+      "NN-NN-JJ": 5,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-CD": 1,
+      "FW-CD-NN": 2,
+      "CD-NN-NN": 1,
+      "NN-NN-IN": 4,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 8,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-VBP": 1,
+      "NNP-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NNP": 1,
+      "CD-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-FW-NNS": 5,
+      "VBP-NNS-VBP": 1,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-NN": 6,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-IN": 1,
+      "FW-FW-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 2,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "NN-JJ-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-NNS-IN": 1,
+      "FW-FW-CD": 2,
+      "CD-NN-IN": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 63,
+        "FW": 51,
+        "JJ": 37,
+        "NNS": 32,
+        "VBP": 24
+      },
+      "top_bigrams": {
+        "NN-NN": 32,
+        "FW-FW": 31,
+        "NNS-VBP": 21,
+        "JJ-NN": 19,
+        "VBP-JJ": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 15,
+        "NNS-VBP-JJ": 15,
+        "JJ-NN-NN": 10,
+        "FW-NNS-VBP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 76,
+      "VP": 27,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 5,
+        "weight": 0.0417
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0333
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') NP",
+        "frequency": 4,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('hectáreas', 'NNS')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('%', 'NN')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('incendios', 'NNS')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('áreas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') ('el', 'RB')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno boliviano informó que"
+      },
+      {
+        "label": "VP",
+        "text": "casi"
+      },
+      {
+        "label": "NP",
+        "text": "millones"
+      },
+      {
+        "label": "PP",
+        "text": "de hectáreas"
+      },
+      {
+        "label": "NP",
+        "text": "hectáreas"
+      },
+      {
+        "label": "VP",
+        "text": "han sido consumidas"
+      },
+      {
+        "label": "NP",
+        "text": "sido consumidas"
+      },
+      {
+        "label": "VP",
+        "text": "por incendios forestales"
+      },
+      {
+        "label": "NP",
+        "text": "incendios forestales"
+      },
+      {
+        "label": "VP",
+        "text": "en lo que va del año"
+      },
+      {
+        "label": "NP",
+        "text": "lo que va del año"
+      },
+      {
+        "label": "NP",
+        "text": "estableciendo un nuevo récord"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "Más"
+      },
+      {
+        "label": "VP",
+        "text": "del"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP boliviano/NN informó/NN que/NN)\n  (VP casi/VBD)\n  10/CD\n  (NP millones/NNS)\n  (PP de/IN (NP hectáreas/NNS))\n  (VP han/VBP (NP sido/JJ consumidas/NNS))\n  (VP por/VBP (NP incendios/NNS forestales/NNS))\n  (VP en/VBP (NP lo/JJ que/NN va/NN del/NN año/NN))\n  ,/,\n  (NP estableciendo/JJ un/JJ nuevo/NN récord/NN)\n  de/IN\n  destrucción/FW\n  de/FW\n  bosques/FW\n  en/FW\n  el/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Más/NNP)\n  (VP del/VBZ)\n  60/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  las/FW\n  (NP áreas/NNS)\n  (VP afectadas/VBP (NP eran/JJ bosques/NNS vírgenes/NNS))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP último/NNP informe/NN)\n  ,/,\n  9.5/CD\n  (NP millones/NNS)\n  (PP de/IN (NP hectáreas/NNS))\n  (VP han/VBP (NP sido/JJ devastadas/NN))\n  ,/,\n  (VP siendo/VBZ (NP Santa/NNP Cruz/NNP la/NNP))\n  región/FW\n  (NP más/NN impactada/NN)\n  ,/,\n  (NP con/NN)\n  el/RB\n  68/CD\n  (NP %/NN)\n  de/IN\n  los/FW\n  (NP incendios/NNS)\n  ,/,\n  (NP seguida/JJ por/NN Beni/NNP)\n  ,/,\n  (NP con/NN)\n  (ADJP un/JJ)\n  28/CD\n  (NP %/NN)\n  ./.)",
+      "(S\n  (NP En/NNP total/NN)\n  ,/,\n  (VP casi/VBP)\n  3/CD\n  (NP millones/NNS)\n  de/FW\n  hectáreas/FW\n  de/FW\n  parques/FW\n  (NP nacionales/NNS)\n  (VP y/VBP (NP reservas/JJ forestales/NNS))\n  (VP han/VBP (NP sido/JJ destruidas/NN))\n  ,/,\n  (NP lo/JJ que/NN representa/NN)\n  (NP un/JJ golpe/NN severo/NN para/NN la/NN biodiversidad/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP datos/NN revelan/NN)\n  (VP que/VBP el/RB)\n  61/CD\n  (NP %/NN)\n  de/IN\n  las/FW\n  quemas/FW\n  se/FW\n  (NP han/NN producido/NN)\n  (PP en/IN (NP áreas/NNP vírgenes/NNS))\n  ,/,\n  (NP mientras/NNS)\n  (VP que/VBP el/RB)\n  39/CD\n  (NP %/NN corresponde/NN)\n  (NP a/DT pastizales/NNS)\n  y/CC\n  (NP terrenos/NNS)\n  (PP de/IN (NP barbecho/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          22,
+          29
+        ],
+        "start": 22,
+        "end": 29
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "incendios forestales",
+        "position": [
+          88,
+          108
+        ],
+        "start": 88,
+        "end": 108
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "biodiversidad",
+        "position": [
+          587,
+          600
+        ],
+        "start": 587,
+        "end": 600
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          1152,
+          1159
+        ],
+        "start": 1152,
+        "end": 1159
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1490,
+          1496
+        ],
+        "start": 1490,
+        "end": 1496
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región más",
+        "position": [
+          360,
+          370
+        ],
+        "start": 360,
+        "end": 370
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "el año pasado",
+        "position": [
+          1283,
+          1296
+        ],
+        "start": 1283,
+        "end": 1296
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1502,
+          1509
+        ],
+        "start": 1502,
+        "end": 1509
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10 millones",
+        "position": [
+          39,
+          50
+        ],
+        "start": 39,
+        "end": 50
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Paz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno boliviano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santa Cruz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Más",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Beni",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Santa Cruz",
+        "relacion": "DEVASTAR",
+        "objeto": "Beni"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.009,
+    "neu": 0.977,
+    "neg": 0.014,
+    "label": "negative"
+  }
+}

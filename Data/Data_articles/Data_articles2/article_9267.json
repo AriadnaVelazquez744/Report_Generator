@@ -1,0 +1,512 @@
+{
+  "url": "https://www.telesurtv.net/masacre-deja-cinco-muertos-en-jamaica-policia-presume-que-se-trata-de-una-represalia/",
+  "title": "Masacre deja cinco muertos en Jamaica: policía presume que se trata de una represalia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Jamaica",
+    "masacre",
+    "Muertos"
+  ],
+  "text": "Una masacre en el territorio de Rockfort, al sureste de la capital de Jamaica dejó sin vida a cinco personas, entre ellos un menor de edad.\nLas autoridades policiales del país caribeño ya realizan una investigación para dictaminar la causa del suceso, al tiempo que apuntan que, entre las cinco víctimas, figuran un padre y su hijo.\nAdemás, la Policía jamaiquina precisa que otras dos personas civiles resultaron heridas tras el fatal incidente.\nPor su parte, el superintendente de la Policía de Jamaica, Tommielee Chambers, detalló que la masacre ocurrió a las 20H00 (hora local del lunes) en un estadio de fútbol del territorio de Pleasant Heights, Rockfort.\n“Siete personas recibieron disparos, y cinco de ellos murieron”, recalcó Chambers.\nAsimismo, el funcionario explicó que, aunque no existen datos concretos de la investigación, se presume que el tiroteo constituye una represalia a un encuentro violento del pasado.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/masacre-deja-cinco-muertos-en-jamaica-policia-presume-que-se-trata-de-una-represalia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 636,
+    "message_id": 78932,
+    "date": "2024-10-22T21:55:18+00:00",
+    "text": "teleSUR\nMasacre deja cinco muertos en Jamaica: policía presume que se trata de una represalia\nhttps://www.telesurtv.net/masacre-deja-cinco-muertos-en-jamaica-policia-presume-que-se-trata-de-una-represalia/",
+    "photo_path": null,
+    "views": 2889,
+    "reactions": {
+      "🤬": 49,
+      "👍": 4,
+      "🤔": 2
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "una masacre en el territorio de rockfort, al sureste de la capital de jamaica dejó sin vida a cinco personas, entre ellos un menor de edad. las autoridades policiales del país caribeño ya realizan una investigación para dictaminar la causa del suceso, al tiempo que apuntan que, entre las cinco víctimas, figuran un padre y su hijo. además, la policía jamaiquina precisa que otras dos personas civiles resultaron heridas tras el fatal incidente. por su parte, el superintendente de la policía de jamaica, tommielee chambers, detalló que la masacre ocurrió a las 20h00 (hora local del lunes) en un estadio de fútbol del territorio de pleasant heights, rockfort. “siete personas recibieron disparos, y cinco de ellos murieron”, recalcó chambers. asimismo, el funcionario explicó que, aunque no existen datos concretos de la investigación, se presume que el tiroteo constituye una represalia a un encuentro violento del pasado.",
+    "tokens": [
+      "masacre",
+      "territorio",
+      "rockfort",
+      ",",
+      "sureste",
+      "capital",
+      "jamaica",
+      "dejó",
+      "vida",
+      "cinco",
+      "personas",
+      ",",
+      "menor",
+      "edad",
+      ".",
+      "autoridades",
+      "policiales",
+      "país",
+      "caribeño",
+      "realizan",
+      "investigación",
+      "dictaminar",
+      "causa",
+      "suceso",
+      ",",
+      "tiempo",
+      "apuntan",
+      ",",
+      "cinco",
+      "víctimas",
+      ",",
+      "figuran",
+      "padre",
+      "hijo",
+      ".",
+      "además",
+      ",",
+      "policía",
+      "jamaiquina",
+      "precisa",
+      "dos",
+      "personas",
+      "civiles",
+      "resultaron",
+      "heridas",
+      "tras",
+      "fatal",
+      "incidente",
+      ".",
+      "parte",
+      ",",
+      "superintendente",
+      "policía",
+      "jamaica",
+      ",",
+      "tommielee",
+      "chambers",
+      ",",
+      "detalló",
+      "masacre",
+      "ocurrió",
+      "20h00",
+      "(",
+      "hora",
+      "local",
+      "lunes",
+      ")",
+      "estadio",
+      "fútbol",
+      "territorio",
+      "pleasant",
+      "heights",
+      ",",
+      "rockfort",
+      ".",
+      "“",
+      "siete",
+      "personas",
+      "recibieron",
+      "disparos",
+      ",",
+      "cinco",
+      "murieron",
+      "”",
+      ",",
+      "recalcó",
+      "chambers",
+      ".",
+      "asimismo",
+      ",",
+      "funcionario",
+      "explicó",
+      ",",
+      "aunque",
+      "existen",
+      "datos",
+      "concretos",
+      "investigación",
+      ",",
+      "presume",
+      "tiroteo",
+      "constituye",
+      "represalia",
+      "encuentro",
+      "violento",
+      "pasado",
+      "."
+    ],
+    "token_count": 107,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 18,
+      "NN": 57,
+      "FW": 28,
+      "IN": 9,
+      "VBD": 1,
+      "JJ": 13,
+      "NNS": 6,
+      "VBP": 5,
+      "CD": 1,
+      "VBZ": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 4,
+      "NN-FW": 5,
+      "FW-FW": 15,
+      "FW-NN": 8,
+      "NN-IN": 7,
+      "IN-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "IN-FW": 5,
+      "NN-NN": 32,
+      "NN-JJ": 5,
+      "JJ-NN": 10,
+      "FW-NNP": 4,
+      "NNP-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-JJ": 4,
+      "NN-NNP": 3,
+      "NNP-NNP": 8,
+      "NN-NNS": 3,
+      "JJ-NNS": 1,
+      "NNP-FW": 2,
+      "NNP-VBP": 1,
+      "JJ-FW": 1,
+      "FW-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 1,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "VBP-IN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-NN": 20,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-FW": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "FW-FW-FW": 8,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-FW": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-IN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 57,
+        "FW": 28,
+        "NNP": 18,
+        "JJ": 13,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 32,
+        "FW-FW": 15,
+        "JJ-NN": 10,
+        "FW-NN": 8,
+        "NNP-NNP": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 20,
+        "FW-FW-FW": 8,
+        "FW-FW-NN": 5,
+        "NN-JJ-NN": 5,
+        "NN-IN-FW": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 41,
+      "PP": 3,
+      "VP": 8,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('territorio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0333
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('Rockfort', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0333
+      },
+      {
+        "rule": "S -> NP ('en', 'FW') ('el', 'FW') NP PP (',', ',') NP ('de', 'IN') ('la', 'FW') NP PP VP (',', ',') ('entre', 'FW') ('ellos', 'FW') ADJP ('menor', 'FW') ('de', 'FW') ('edad', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('masacre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('sureste', 'NN')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('capital', 'NN')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Jamaica', 'NNP') ('dejó', 'NN') ('sin', 'NN')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "VP -> ('vida', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('cinco', 'NN') ('personas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0167
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una masacre"
+      },
+      {
+        "label": "NP",
+        "text": "territorio"
+      },
+      {
+        "label": "PP",
+        "text": "de Rockfort"
+      },
+      {
+        "label": "NP",
+        "text": "Rockfort"
+      },
+      {
+        "label": "NP",
+        "text": "al sureste"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "PP",
+        "text": "de Jamaica dejó sin"
+      },
+      {
+        "label": "NP",
+        "text": "Jamaica dejó sin"
+      },
+      {
+        "label": "VP",
+        "text": "vida a cinco personas"
+      },
+      {
+        "label": "NP",
+        "text": "a cinco personas"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades policiales"
+      },
+      {
+        "label": "NP",
+        "text": "policiales"
+      },
+      {
+        "label": "NP",
+        "text": "país caribeño ya realizan"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP masacre/NN)\n  en/FW\n  el/FW\n  (NP territorio/NN)\n  (PP de/IN (NP Rockfort/NNP))\n  ,/,\n  (NP al/JJ sureste/NN)\n  de/IN\n  la/FW\n  (NP capital/NN)\n  (PP de/IN (NP Jamaica/NNP dejó/NN sin/NN))\n  (VP vida/VBD (NP a/DT cinco/NN personas/NN))\n  ,/,\n  entre/FW\n  ellos/FW\n  (ADJP un/JJ)\n  menor/FW\n  de/FW\n  edad/FW\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP policiales/NNS))\n  del/FW\n  (NP país/NN caribeño/NN ya/NN realizan/NN)\n  (NP\n    una/JJ\n    investigación/NN\n    para/NN\n    dictaminar/NN\n    la/NN\n    causa/NN\n    del/NN\n    suceso/NN)\n  ,/,\n  (NP al/JJ tiempo/NN que/NN apuntan/NN que/NN)\n  ,/,\n  entre/FW\n  las/FW\n  (NP cinco/NN víctimas/NN)\n  ,/,\n  (NP figuran/JJ un/JJ padre/NN y/NN su/NN hijo/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP la/NN Policía/NNP jamaiquina/NN precisa/NN que/NN)\n  otras/FW\n  (NP dos/NN personas/NN civiles/NNS)\n  (VP resultaron/VBP (NP heridas/JJ tras/NNS))\n  (VP el/VBP (NP fatal/JJ incidente/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP el/JJ superintendente/NN)\n  de/IN\n  la/FW\n  (NP Policía/NNP)\n  de/FW\n  (NP Jamaica/NNP)\n  ,/,\n  (NP Tommielee/NNP Chambers/NNP)\n  ,/,\n  (NP detalló/NN que/NN)\n  la/FW\n  masacre/FW\n  ocurrió/FW\n  (NP a/DT las/NN)\n  20H00/CD\n  (/(\n  (NP hora/JJ local/JJ del/NN lunes/NNS)\n  )/)\n  (VP en/VBP (NP un/JJ estadio/NN))\n  de/IN\n  fútbol/FW\n  del/FW\n  (NP territorio/NN)\n  de/FW\n  (NP Pleasant/NNP Heights/NNP)\n  ,/,\n  (NP Rockfort/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Siete/NNP personas/NN recibieron/NN disparos/NN)\n  ,/,\n  (NP y/JJ cinco/NN)\n  de/IN\n  ellos/FW\n  (NP murieron/NN ”/NN)\n  ,/,\n  (NP recalcó/NN Chambers/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          59,
+          66
+        ],
+        "start": 59,
+        "end": 66
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          769,
+          776
+        ],
+        "start": 769,
+        "end": 776
+      }
+    ],
+    "match_count": 2
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Tommielee Chambers",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rockfort",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía de Jamaica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pleasant Heights",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chambers",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jamaica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Policía de Jamaica",
+        "relacion": "DETALLAR",
+        "objeto": "Pleasant Heights"
+      },
+      {
+        "sujeto": "Policía de Jamaica",
+        "relacion": "DETALLAR",
+        "objeto": "Rockfort"
+      },
+      {
+        "sujeto": "Tommielee Chambers",
+        "relacion": "DETALLAR",
+        "objeto": "Pleasant Heights"
+      },
+      {
+        "sujeto": "Tommielee Chambers",
+        "relacion": "DETALLAR",
+        "objeto": "Rockfort"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7184,
+    "pos": 0.022,
+    "neu": 0.916,
+    "neg": 0.062,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,806 @@
+{
+  "url": "https://www.telesurtv.net/siria-realiza-su-feria-del-libro-pese-a-agresiones-israelies/",
+  "title": "Siria realiza su Feria del Libro pese a agresiones israelíes - teleSUR",
+  "section": "Cultura",
+  "tags": [
+    "Feria Siria del Libro",
+    "Literatura árabe",
+    "Siria"
+  ],
+  "text": "En una de las más grandes e importantes bibliotecas de la región árabe, la Biblioteca Nacional “Al-Assad”, este martes 8 de octubre quedó inaugurado este importante evento cultural bajo el lema “Leemos para Progresar”.\nLa cita cuenta con la participación de 40 editoriales públicas y privadas que este año presentan más de 10.000 nuevos títulos de diversos temas culturales, políticos, económicos, infantiles, intelectuales y de crítica literaria.\nLa Feria se extenderá hasta el 19 octubre, periodo durante el cual se desarrollará un amplio programa cultural que incluye la organización de recitales, conciertos, proyección de largometrajes, conferencias y actividades para celebrar el patrimonio sirio, así como seminarios donde participan destacados intelectuales y figuras de la literatura siria y árabe.\nEl evento se considera un punto de encuentro para intelectuales y escritores que comparten sus obras con el público y reciben las opiniones de los lectores que acudan a las presentaciones.\nLa Unión de Escritores Palestinos participa en el evento con un stand que cautivó la atención de los presentes, pues exhibe libros de literatura palestina y otros que abordan la resistencia del pueblo palestino y su lucha contra el ocupante israelí.\nEn declaraciones a la prensa, la ministra de Cultura, Diala Barakat, consideró que la inauguración de la Feria del Libro en estas circunstancias en que el país vive una situación de bloqueo, guerra y agresiones israelíes, es un desafío, y forma parte del plan de acción del Ministerio para fortalecer el pensamiento, la cultura y la pertenencia nacional.\nEl director general de la Biblioteca Nacional, Fady Ghanem, celebró la realización del evento en medio de las circunstancias que atraviesan Siria y la región. Explicó que el encuentro se propone fomentar el movimiento editorial y del libro sirio, así como mantener actualizados a los amantes de la lectura.\nPor su parte, Haitham Hafez, presidente de la Unión de Editores Árabes, afirmó que la lectura es faro para el futuro y es necesaria la cooperación con la familia y la sociedad para fomentar el hábito de leer.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/siria-realiza-su-feria-del-libro-pese-a-agresiones-israelies/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1422,
+    "message_id": 78093,
+    "date": "2024-10-09T17:55:18+00:00",
+    "text": "teleSUR\nSiria realiza su Feria del Libro pese a agresiones israelíes\nhttps://www.telesurtv.net/siria-realiza-su-feria-del-libro-pese-a-agresiones-israelies/",
+    "photo_path": null,
+    "views": 2644,
+    "reactions": {
+      "❤‍🔥": 30,
+      "👍": 21,
+      "❤": 4,
+      "🤔": 2
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "en una de las más grandes e importantes bibliotecas de la región árabe, la biblioteca nacional “al-assad”, este martes 8 de octubre quedó inaugurado este importante evento cultural bajo el lema “leemos para progresar”. la cita cuenta con la participación de 40 editoriales públicas y privadas que este año presentan más de 10.000 nuevos títulos de diversos temas culturales, políticos, económicos, infantiles, intelectuales y de crítica literaria. la feria se extenderá hasta el 19 octubre, periodo durante el cual se desarrollará un amplio programa cultural que incluye la organización de recitales, conciertos, proyección de largometrajes, conferencias y actividades para celebrar el patrimonio sirio, así como seminarios donde participan destacados intelectuales y figuras de la literatura siria y árabe. el evento se considera un punto de encuentro para intelectuales y escritores que comparten sus obras con el público y reciben las opiniones de los lectores que acudan a las presentaciones. la unión de escritores palestinos participa en el evento con un stand que cautivó la atención de los presentes, pues exhibe libros de literatura palestina y otros que abordan la resistencia del pueblo palestino y su lucha contra el ocupante israelí. en declaraciones a la prensa, la ministra de cultura, diala barakat, consideró que la inauguración de la feria del libro en estas circunstancias en que el país vive una situación de bloqueo, guerra y agresiones israelíes, es un desafío, y forma parte del plan de acción del ministerio para fortalecer el pensamiento, la cultura y la pertenencia nacional. el director general de la biblioteca nacional, fady ghanem, celebró la realización del evento en medio de las circunstancias que atraviesan siria y la región. explicó que el encuentro se propone fomentar el movimiento editorial y del libro sirio, así como mantener actualizados a los amantes de la lectura. por su parte, haitham hafez, presidente de la unión de editores árabes, afirmó que la lectura es faro para el futuro y es necesaria la cooperación con la familia y la sociedad para fomentar el hábito de leer.",
+    "tokens": [
+      "grandes",
+      "importantes",
+      "bibliotecas",
+      "región",
+      "árabe",
+      ",",
+      "biblioteca",
+      "nacional",
+      "“",
+      "al-assad",
+      "”",
+      ",",
+      "martes",
+      "8",
+      "octubre",
+      "quedó",
+      "inaugurado",
+      "importante",
+      "evento",
+      "cultural",
+      "bajo",
+      "lema",
+      "“",
+      "leemos",
+      "progresar",
+      "”",
+      ".",
+      "cita",
+      "cuenta",
+      "participación",
+      "40",
+      "editoriales",
+      "públicas",
+      "privadas",
+      "año",
+      "presentan",
+      "10.000",
+      "nuevos",
+      "títulos",
+      "diversos",
+      "temas",
+      "culturales",
+      ",",
+      "políticos",
+      ",",
+      "económicos",
+      ",",
+      "infantiles",
+      ",",
+      "intelectuales",
+      "crítica",
+      "literaria",
+      ".",
+      "feria",
+      "extenderá",
+      "19",
+      "octubre",
+      ",",
+      "periodo",
+      "desarrollará",
+      "amplio",
+      "programa",
+      "cultural",
+      "incluye",
+      "organización",
+      "recitales",
+      ",",
+      "conciertos",
+      ",",
+      "proyección",
+      "largometrajes",
+      ",",
+      "conferencias",
+      "actividades",
+      "celebrar",
+      "patrimonio",
+      "sirio",
+      ",",
+      "así",
+      "seminarios",
+      "participan",
+      "destacados",
+      "intelectuales",
+      "figuras",
+      "literatura",
+      "siria",
+      "árabe",
+      ".",
+      "evento",
+      "considera",
+      "punto",
+      "encuentro",
+      "intelectuales",
+      "escritores",
+      "comparten",
+      "obras",
+      "público",
+      "reciben",
+      "opiniones",
+      "lectores",
+      "acudan",
+      "presentaciones",
+      ".",
+      "unión",
+      "escritores",
+      "palestinos",
+      "participa",
+      "evento",
+      "stand",
+      "cautivó",
+      "atención",
+      "presentes",
+      ",",
+      "pues",
+      "exhibe",
+      "libros",
+      "literatura",
+      "palestina",
+      "abordan",
+      "resistencia",
+      "pueblo",
+      "palestino",
+      "lucha",
+      "ocupante",
+      "israelí",
+      ".",
+      "declaraciones",
+      "prensa",
+      ",",
+      "ministra",
+      "cultura",
+      ",",
+      "diala",
+      "barakat",
+      ",",
+      "consideró",
+      "inauguración",
+      "feria",
+      "libro",
+      "circunstancias",
+      "país",
+      "vive",
+      "situación",
+      "bloqueo",
+      ",",
+      "guerra",
+      "agresiones",
+      "israelíes",
+      ",",
+      "desafío",
+      ",",
+      "forma",
+      "parte",
+      "plan",
+      "acción",
+      "ministerio",
+      "fortalecer",
+      "pensamiento",
+      ",",
+      "cultura",
+      "pertenencia",
+      "nacional",
+      ".",
+      "director",
+      "general",
+      "biblioteca",
+      "nacional",
+      ",",
+      "fady",
+      "ghanem",
+      ",",
+      "celebró",
+      "realización",
+      "evento",
+      "medio",
+      "circunstancias",
+      "atraviesan",
+      "siria",
+      "región",
+      ".",
+      "explicó",
+      "encuentro",
+      "propone",
+      "fomentar",
+      "movimiento",
+      "editorial",
+      "libro",
+      "sirio",
+      ",",
+      "así",
+      "mantener",
+      "actualizados",
+      "amantes",
+      "lectura",
+      ".",
+      "parte",
+      ",",
+      "haitham",
+      "hafez",
+      ",",
+      "presidente",
+      "unión",
+      "editores",
+      "árabes",
+      ",",
+      "afirmó",
+      "lectura",
+      "faro",
+      "futuro",
+      "necesaria",
+      "cooperación",
+      "familia",
+      "sociedad",
+      "fomentar",
+      "hábito",
+      "leer",
+      "."
+    ],
+    "token_count": 217,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NN": 103,
+      "FW": 85,
+      "NNS": 24,
+      "VBP": 13,
+      "IN": 13,
+      "VBZ": 4,
+      "JJ": 33,
+      "CD": 3,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 14,
+      "FW-FW": 51,
+      "FW-NNS": 8,
+      "NNS-NNS": 5,
+      "NNS-VBP": 11,
+      "VBP-IN": 1,
+      "IN-FW": 8,
+      "FW-NNP": 10,
+      "NNP-NNP": 13,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "FW-NN": 14,
+      "NN-NN": 56,
+      "NN-IN": 8,
+      "IN-JJ": 3,
+      "JJ-NN": 20,
+      "NN-NNP": 5,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "VBP-JJ": 10,
+      "NN-JJ": 11,
+      "JJ-JJ": 4,
+      "IN-CD": 1,
+      "CD-JJ": 2,
+      "NN-NNS": 4,
+      "JJ-NNS": 6,
+      "NNS-IN": 3,
+      "NNS-NNP": 2,
+      "NNP-FW": 8,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "NN-VBP": 2,
+      "NNS-FW": 2,
+      "VBP-NNP": 1,
+      "NNS-VBZ": 1,
+      "VBP-FW": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 1,
+      "JJ-NNP": 3,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 10,
+      "FW-FW-FW": 31,
+      "FW-FW-NNS": 5,
+      "FW-NNS-NNS": 3,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-NN": 8,
+      "FW-NN-NN": 8,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NN": 15,
+      "NN-NN-NN": 26,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-FW": 9,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 6,
+      "NN-NN-JJ": 8,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-FW": 3,
+      "IN-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "NN-JJ-NN": 5,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "NN-NN-NNS": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "JJ-NN-FW": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-NNS-NNP": 1,
+      "NNP-FW-NNP": 4,
+      "FW-NN-JJ": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-NN-NN": 7,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "FW-NNP-NN": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "IN-JJ-NNS": 1,
+      "NN-FW-NNS": 1,
+      "NN-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 103,
+        "FW": 85,
+        "NNP": 35,
+        "JJ": 33,
+        "NNS": 24
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 51,
+        "JJ-NN": 20,
+        "NN-FW": 14,
+        "FW-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 31,
+        "NN-NN-NN": 26,
+        "JJ-NN-NN": 15,
+        "NN-FW-FW": 10,
+        "NN-NN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 88,
+      "VP": 17,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0246
+      },
+      {
+        "rule": "VP -> ('y', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('las', 'FW') ('más', 'FW') NP VP ('bibliotecas', 'FW') ('de', 'FW') ('la', 'FW') ('región', 'FW') ('árabe', 'FW') (',', ',') ('la', 'FW') NP (',', ',') NP ('8', 'CD') ('de', 'IN') ('octubre', 'FW') ('quedó', 'FW') ('inaugurado', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('una', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('grandes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('e', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('importantes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Biblioteca', 'NNP') ('Nacional', 'NNP') ('“', 'NNP') ('Al-Assad', 'NNP') ('”', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('importante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En una"
+      },
+      {
+        "label": "NP",
+        "text": "grandes"
+      },
+      {
+        "label": "VP",
+        "text": "e importantes"
+      },
+      {
+        "label": "NP",
+        "text": "importantes"
+      },
+      {
+        "label": "NP",
+        "text": "Biblioteca Nacional “ Al-Assad ”"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "NP",
+        "text": "este importante"
+      },
+      {
+        "label": "PP",
+        "text": "evento cultural bajo el lema “ Leemos para Progresar ”"
+      },
+      {
+        "label": "NP",
+        "text": "cultural bajo el lema “ Leemos para Progresar ”"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "cita cuenta con la"
+      },
+      {
+        "label": "NP",
+        "text": "cuenta con la"
+      },
+      {
+        "label": "NP",
+        "text": "editoriales"
+      },
+      {
+        "label": "VP",
+        "text": "públicas y privadas que este año presentan más"
+      },
+      {
+        "label": "NP",
+        "text": "y privadas que este"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP una/NN)\n  de/FW\n  las/FW\n  más/FW\n  (NP grandes/NNS)\n  (VP e/VBP (NP importantes/NNS))\n  bibliotecas/FW\n  de/FW\n  la/FW\n  región/FW\n  árabe/FW\n  ,/,\n  la/FW\n  (NP Biblioteca/NNP Nacional/NNP “/NNP Al-Assad/NNP ”/NNP)\n  ,/,\n  (NP este/NN martes/NNS)\n  8/CD\n  de/IN\n  octubre/FW\n  quedó/FW\n  inaugurado/FW\n  (NP este/NN importante/NN)\n  (PP\n    evento/IN\n    (NP\n      cultural/JJ\n      bajo/NN\n      el/NN\n      lema/NN\n      “/NNP\n      Leemos/NNP\n      para/NN\n      Progresar/NNP\n      ”/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP cita/VBZ (NP cuenta/JJ con/NN la/NN))\n  participación/FW\n  de/FW\n  40/CD\n  (NP editoriales/NNS)\n  (VP\n    públicas/VBP\n    (NP y/JJ privadas/NN que/NN este/NN)\n    (NP año/JJ presentan/JJ más/NN))\n  de/IN\n  10.000/CD\n  (NP nuevos/JJ títulos/NN)\n  de/IN\n  diversos/FW\n  (NP temas/NN culturales/NNS)\n  ,/,\n  (NP políticos/NN)\n  ,/,\n  (NP económicos/NN)\n  ,/,\n  (NP infantiles/NNS)\n  ,/,\n  (NP intelectuales/NNS)\n  (VP y/VBP)\n  (PP de/IN (NP crítica/NN literaria/NN))\n  ./.)",
+      "(S\n  (NP La/NNP Feria/NNP)\n  se/FW\n  (NP extenderá/NN hasta/NN)\n  (VP el/VBD)\n  19/CD\n  (NP octubre/NN)\n  ,/,\n  (NP periodo/JJ durante/NN)\n  el/FW\n  (NP cual/JJ se/NN desarrollará/NN)\n  (NP un/JJ amplio/NN programa/NN)\n  (NP cultural/JJ que/NN incluye/NN)\n  la/FW\n  organización/FW\n  de/FW\n  recitales/FW\n  ,/,\n  (NP conciertos/NN)\n  ,/,\n  proyección/FW\n  de/FW\n  largometrajes/FW\n  ,/,\n  (VP conferencias/VBP y/PRP)\n  (VP\n    actividades/VBZ\n    (NP para/JJ celebrar/NN el/NN patrimonio/NN sirio/NN))\n  ,/,\n  (NP así/JJ como/NN seminarios/NNS)\n  (VP donde/VBP (NP participan/JJ destacados/NN intelectuales/NNS))\n  (VP y/VBP)\n  figuras/FW\n  de/FW\n  la/FW\n  literatura/FW\n  siria/FW\n  y/FW\n  (NP árabe/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  evento/CC\n  (NP se/JJ considera/NN)\n  (NP un/JJ punto/NN)\n  de/FW\n  encuentro/FW\n  (NP para/NN intelectuales/NNS)\n  (VP y/VBP (NP escritores/NNS))\n  (VP que/VBP (NP comparten/JJ sus/NN obras/NNS))\n  (VP\n    con/VBP\n    (NP el/JJ público/NN y/NN reciben/NN)\n    (NP las/JJ opiniones/NNS))\n  de/IN\n  los/FW\n  (NP lectores/NNS)\n  (VP que/VBP)\n  (PP acudan/IN (NP a/DT las/JJ presentaciones/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP Unión/NNP)\n  de/FW\n  (NP Escritores/NNP Palestinos/NNP participa/NN)\n  en/FW\n  el/FW\n  evento/FW\n  (NP con/NN)\n  (NP un/JJ stand/NN que/NN cautivó/NN)\n  la/FW\n  atención/FW\n  de/FW\n  los/FW\n  (NP presentes/NNS)\n  ,/,\n  (NP pues/NNS)\n  (VP exhibe/VBP)\n  libros/FW\n  de/FW\n  literatura/FW\n  palestina/FW\n  y/FW\n  otros/FW\n  que/FW\n  abordan/FW\n  la/FW\n  resistencia/FW\n  del/FW\n  (NP pueblo/NN palestino/NN y/NN su/NN)\n  (NP lucha/JJ contra/JJ el/NN ocupante/NN israelí/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresiones israelíes",
+        "position": [
+          1447,
+          1467
+        ],
+        "start": 1447,
+        "end": 1467
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación con la familia y la",
+        "position": [
+          2044,
+          2075
+        ],
+        "start": 2044,
+        "end": 2075
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1981,
+          1987
+        ],
+        "start": 1981,
+        "end": 1987
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          1761,
+          1768
+        ],
+        "start": 1761,
+        "end": 1768
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "cultura, diala barakat, consideró que la inauguración de la feria del libro en estas circunstancias en que el país vive una situación de bloqueo, guerra y agresiones israelíes, es un desafío, y forma parte del plan de acción del ministerio para fortalecer el pensamiento, la cultura y la pertenencia nacional",
+        "position": [
+          1292,
+          1600
+        ],
+        "start": 1292,
+        "end": 1600
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "evento cultural",
+        "position": [
+          165,
+          180
+        ],
+        "start": 165,
+        "end": 180
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          1938,
+          1954
+        ],
+        "start": 1938,
+        "end": 1954
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de cultura",
+        "position": [
+          1280,
+          1299
+        ],
+        "start": 1280,
+        "end": 1299
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          1142,
+          1151
+        ],
+        "start": 1142,
+        "end": 1151
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región árabe",
+        "position": [
+          58,
+          70
+        ],
+        "start": 58,
+        "end": 70
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "martes 8 de octubre",
+        "position": [
+          112,
+          131
+        ],
+        "start": 112,
+        "end": 131
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1429,
+          1436
+        ],
+        "start": 1429,
+        "end": 1436
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10.000",
+        "position": [
+          316,
+          329
+        ],
+        "start": 316,
+        "end": 329
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Unión de Escritores Palestinos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fady Ghanem",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Feria del Libro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Biblioteca Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haitham Hafez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Diala Barakat",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Biblioteca Nacional “Al-Assad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Feria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cultura",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unión de Editores Árabes",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cultura",
+        "relacion": "CONSIDERAR",
+        "objeto": "Feria del Libro"
+      },
+      {
+        "sujeto": "Cultura",
+        "relacion": "CONSIDERAR",
+        "objeto": "Ministerio"
+      },
+      {
+        "sujeto": "Diala Barakat",
+        "relacion": "CONSIDERAR",
+        "objeto": "Feria del Libro"
+      },
+      {
+        "sujeto": "Diala Barakat",
+        "relacion": "CONSIDERAR",
+        "objeto": "Ministerio"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "CELEBRAR",
+        "objeto": "Biblioteca Nacional"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "CELEBRAR",
+        "objeto": "Fady Ghanem"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

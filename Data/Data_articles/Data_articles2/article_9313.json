@@ -1,0 +1,745 @@
+{
+  "url": "https://www.telesurtv.net/hezbola-lanza-una-lluvia-de-misiles-contra-territorios-ocupados-por-israel/",
+  "title": "Hezbolá lanza una lluvia de misiles contra territorios ocupados por Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Hezbolá",
+    "Israel",
+    "Líbano",
+    "Misiles"
+  ],
+  "text": "Los combatientes de Hezbolá lanzaron “cohetes de calidad” contra “la base Glilot de la Unidad de Inteligencia Militar 8200 en los suburbios de Tel Aviv”, dijo el grupo, agregando que el ataque fue “en defensa del Líbano”, “en respuesta a las agresiones israelíes” y dedicado a su líder asesinado Hassan Nasrallah.\nLas fuerzas del movimiento de resistencia islámica libanesa informaron también de ataques a posiciones del régimen sionista, incluido el puesto militar Kileh en los Altos del Golán ocupados.\nAdemás, el movimiento anunció en otros comunicados que sus combatientes atacaron con misiles el asentamiento israelí de Maalot Tarshiha y las operaciones militares israelíes cerca de Kfar Kila.\nPor su parte, Israel mantuvo sus ataques contra el sur del Líbano, y anoche bombardeó más de una decena de oficinas y sucursales de Al Qard al Hassan, la estructura financiera de Hezbolá.\nEste lunes, el Ministerio de Salud libanés reportó que el número de víctimas por el Ejército israelí en el Líbano había aumentado a 2.483 mártires y 11.628 heridos desde el comienzo de la agresión sionista hace un año.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hezbola-lanza-una-lluvia-de-misiles-contra-territorios-ocupados-por-israel/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 728,
+    "message_id": 78827,
+    "date": "2024-10-21T19:55:07+00:00",
+    "text": "teleSUR\nHezbolá lanza una lluvia de misiles contra territorios ocupados por Israel\nhttps://www.telesurtv.net/hezbola-lanza-una-lluvia-de-misiles-contra-territorios-ocupados-por-israel/",
+    "photo_path": null,
+    "views": 2542,
+    "reactions": {
+      "👍": 47,
+      "👏": 15,
+      "🔥": 3,
+      "🤡": 1
+    },
+    "total_reactions": 66
+  },
+  "preprocessing": {
+    "cleaned": "los combatientes de hezbolá lanzaron “cohetes de calidad” contra “la base glilot de la unidad de inteligencia militar 8200 en los suburbios de tel aviv”, dijo el grupo, agregando que el ataque fue “en defensa del líbano”, “en respuesta a las agresiones israelíes” y dedicado a su líder asesinado hassan nasrallah. las fuerzas del movimiento de resistencia islámica libanesa informaron también de ataques a posiciones del régimen sionista, incluido el puesto militar kileh en los altos del golán ocupados. además, el movimiento anunció en otros comunicados que sus combatientes atacaron con misiles el asentamiento israelí de maalot tarshiha y las operaciones militares israelíes cerca de kfar kila. por su parte, israel mantuvo sus ataques contra el sur del líbano, y anoche bombardeó más de una decena de oficinas y sucursales de al qard al hassan, la estructura financiera de hezbolá. este lunes, el ministerio de salud libanés reportó que el número de víctimas por el ejército israelí en el líbano había aumentado a 2.483 mártires y 11.628 heridos desde el comienzo de la agresión sionista hace un año.",
+    "tokens": [
+      "combatientes",
+      "hezbolá",
+      "lanzaron",
+      "“",
+      "cohetes",
+      "calidad",
+      "”",
+      "“",
+      "base",
+      "glilot",
+      "unidad",
+      "inteligencia",
+      "militar",
+      "8200",
+      "suburbios",
+      "tel",
+      "aviv",
+      "”",
+      ",",
+      "dijo",
+      "grupo",
+      ",",
+      "agregando",
+      "ataque",
+      "“",
+      "defensa",
+      "líbano",
+      "”",
+      ",",
+      "“",
+      "respuesta",
+      "agresiones",
+      "israelíes",
+      "”",
+      "dedicado",
+      "líder",
+      "asesinado",
+      "hassan",
+      "nasrallah",
+      ".",
+      "fuerzas",
+      "movimiento",
+      "resistencia",
+      "islámica",
+      "libanesa",
+      "informaron",
+      "ataques",
+      "posiciones",
+      "régimen",
+      "sionista",
+      ",",
+      "incluido",
+      "puesto",
+      "militar",
+      "kileh",
+      "altos",
+      "golán",
+      "ocupados",
+      ".",
+      "además",
+      ",",
+      "movimiento",
+      "anunció",
+      "comunicados",
+      "combatientes",
+      "atacaron",
+      "misiles",
+      "asentamiento",
+      "israelí",
+      "maalot",
+      "tarshiha",
+      "operaciones",
+      "militares",
+      "israelíes",
+      "cerca",
+      "kfar",
+      "kila",
+      ".",
+      "parte",
+      ",",
+      "israel",
+      "mantuvo",
+      "ataques",
+      "sur",
+      "líbano",
+      ",",
+      "anoche",
+      "bombardeó",
+      "decena",
+      "oficinas",
+      "sucursales",
+      "qard",
+      "hassan",
+      ",",
+      "estructura",
+      "financiera",
+      "hezbolá",
+      ".",
+      "lunes",
+      ",",
+      "ministerio",
+      "salud",
+      "libanés",
+      "reportó",
+      "número",
+      "víctimas",
+      "ejército",
+      "israelí",
+      "líbano",
+      "aumentado",
+      "2.483",
+      "mártires",
+      "11.628",
+      "heridos",
+      "comienzo",
+      "agresión",
+      "sionista",
+      "hace",
+      "año",
+      "."
+    ],
+    "token_count": 120,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "VBZ": 7,
+      "FW": 25,
+      "NN": 49,
+      "IN": 15,
+      "JJ": 14,
+      "CD": 3,
+      "NNS": 12,
+      "VBP": 6,
+      "VBD": 3,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 5,
+      "VBZ-FW": 2,
+      "FW-NNP": 9,
+      "NNP-NN": 8,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "IN-FW": 5,
+      "FW-JJ": 1,
+      "JJ-FW": 1,
+      "FW-NN": 6,
+      "NN-NNP": 6,
+      "NNP-IN": 2,
+      "NNP-FW": 4,
+      "NNP-NNP": 11,
+      "NNP-CD": 1,
+      "CD-IN": 1,
+      "IN-JJ": 4,
+      "JJ-NNS": 1,
+      "NNS-FW": 2,
+      "NN-NN": 23,
+      "NN-IN": 10,
+      "IN-NN": 2,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 3,
+      "JJ-NN": 9,
+      "NNP-VBD": 2,
+      "VBD-FW": 1,
+      "FW-FW": 8,
+      "NN-FW": 2,
+      "IN-NNS": 1,
+      "NNS-NNS": 2,
+      "VBP-NNS": 1,
+      "JJ-NNP": 2,
+      "VBZ-NNP": 2,
+      "VBZ-JJ": 1,
+      "VBP-IN": 1,
+      "IN-NNP": 3,
+      "VBZ-NNS": 1,
+      "VBP-NN": 1,
+      "VBD-JJ": 1,
+      "FW-NNS": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 2,
+      "NNS-CD": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 1,
+      "NN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 3,
+      "NN-NN-NN": 12,
+      "NN-NN-IN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 5,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-IN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNP-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NN-IN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 49,
+        "NNP": 34,
+        "FW": 25,
+        "IN": 15,
+        "JJ": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 23,
+        "NNP-NNP": 11,
+        "NN-IN": 10,
+        "FW-NNP": 9,
+        "JJ-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 12,
+        "NN-NN-IN": 5,
+        "JJ-NN-NN": 5,
+        "NN-NN-NNP": 4,
+        "FW-FW-FW": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 52,
+      "VP": 14,
+      "PP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0625
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "VP -> ('israelíes', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') NP VP ('de', 'FW') ('calidad', 'FW') ('”', 'FW') ('contra', 'FW') ('“', 'FW') ('la', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('8200', 'CD') PP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('defensa', 'FW') ('del', 'FW') NP (',', ',') NP ('en', 'FW') NP NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "VP -> ('combatientes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('Hezbolá', 'NNP') ('lanzaron', 'NN') ('“', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "VP -> ('cohetes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('base', 'NN') ('Glilot', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('Unidad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "VP",
+        "text": "combatientes"
+      },
+      {
+        "label": "NP",
+        "text": "Hezbolá lanzaron “"
+      },
+      {
+        "label": "VP",
+        "text": "cohetes"
+      },
+      {
+        "label": "NP",
+        "text": "base Glilot"
+      },
+      {
+        "label": "NP",
+        "text": "Unidad"
+      },
+      {
+        "label": "NP",
+        "text": "Inteligencia Militar"
+      },
+      {
+        "label": "PP",
+        "text": "en los suburbios"
+      },
+      {
+        "label": "NP",
+        "text": "los suburbios"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv ”"
+      },
+      {
+        "label": "NP",
+        "text": "dijo el grupo"
+      },
+      {
+        "label": "NP",
+        "text": "agregando que el ataque fue “"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano ”"
+      },
+      {
+        "label": "NP",
+        "text": "“"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP)\n  (VP combatientes/VBZ)\n  de/FW\n  (NP Hezbolá/NNP lanzaron/NN “/NNP)\n  (VP cohetes/VBZ)\n  de/FW\n  calidad/FW\n  ”/FW\n  contra/FW\n  “/FW\n  la/FW\n  (NP base/NN Glilot/NNP)\n  de/IN\n  la/FW\n  (NP Unidad/NNP)\n  de/FW\n  (NP Inteligencia/NNP Militar/NNP)\n  8200/CD\n  (PP en/IN (NP los/JJ suburbios/NNS))\n  de/FW\n  (NP Tel/NNP Aviv/NNP ”/NNP)\n  ,/,\n  (NP dijo/NN el/NN grupo/NN)\n  ,/,\n  (NP agregando/JJ que/NN el/NN ataque/NN fue/NN “/NNP)\n  (VP en/VBZ)\n  defensa/FW\n  del/FW\n  (NP Líbano/NNP ”/NNP)\n  ,/,\n  (NP “/NNP)\n  en/FW\n  (NP respuesta/NN)\n  (NP a/DT las/JJ agresiones/NNS)\n  (VP israelíes/VBP (NP ”/JJ y/NN))\n  (VP\n    dedicado/VBZ\n    (NP a/DT su/JJ líder/NN asesinado/NN Hassan/NNP Nasrallah/NNP))\n  ./.)",
+      "(S\n  (NP Las/NNP fuerzas/NN del/NN movimiento/NN)\n  de/IN\n  resistencia/FW\n  (ADJP islámica/JJ)\n  libanesa/FW\n  (NP informaron/NN también/NN)\n  de/IN\n  ataques/FW\n  (NP a/DT posiciones/NNS)\n  del/FW\n  (NP régimen/NNS)\n  (VP sionista/VBP)\n  ,/,\n  (NP incluido/JJ el/NN puesto/NN militar/NN Kileh/NNP)\n  (PP en/IN (NP los/JJ Altos/NNP del/NN Golán/NNP ocupados/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP el/VBZ)\n  movimiento/FW\n  (NP anunció/NN)\n  en/FW\n  otros/FW\n  (NP comunicados/NN que/NN sus/NN)\n  (VP combatientes/VBZ (NP atacaron/JJ con/NN misiles/NNS))\n  (VP el/VBP)\n  (PP asentamiento/IN (NP israelí/NN))\n  (PP de/IN (NP Maalot/NNP Tarshiha/NNP y/NNP))\n  (VP las/VBZ (NP operaciones/NNS militares/NNS))\n  (VP israelíes/VBP (NP cerca/NN))\n  (PP de/IN (NP Kfar/NNP Kila/NNP))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP Israel/NNP mantuvo/NNP sus/NN ataques/NNS)\n  (VP contra/VBP (NP el/JJ sur/NN del/NN Líbano/NNP))\n  ,/,\n  (NP y/NNP anoche/NN bombardeó/NN más/NN)\n  (PP de/IN (NP una/JJ decena/NN))\n  de/IN\n  oficinas/FW\n  (NP y/JJ sucursales/NNS)\n  (PP de/IN (NP Al/NNP Qard/NNP))\n  (VP al/VBZ (NP Hassan/NNP))\n  ,/,\n  (NP la/NN)\n  estructura/FW\n  (NP financiera/NN)\n  (PP de/IN (NP Hezbolá/NNP))\n  ./.)",
+      "(S\n  (NP Este/NN lunes/NNS)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  libanés/CC\n  (NP reportó/JJ que/NN el/NN número/NN)\n  de/IN\n  víctimas/FW\n  por/FW\n  el/FW\n  (NP Ejército/NNP israelí/NN)\n  en/FW\n  el/FW\n  (NP Líbano/NNP había/NN)\n  (VP aumentado/VBD)\n  a/DT\n  2.483/CD\n  (NP mártires/NNS)\n  y/RB\n  11.628/CD\n  (NP heridos/NNS)\n  (NP desde/JJ el/JJ comienzo/NN)\n  de/IN\n  la/FW\n  agresión/FW\n  sionista/FW\n  (NP hace/NN)\n  (NP un/JJ año/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque fue “en defensa del líbano”, “en respuesta a las agresiones israelíes” y dedicado a su líder",
+        "position": [
+          186,
+          285
+        ],
+        "start": 186,
+        "end": 285
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque fue “en defensa del líbano”, “en respuesta a las agresiones israelíes",
+        "position": [
+          186,
+          262
+        ],
+        "start": 186,
+        "end": 262
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          775,
+          784
+        ],
+        "start": 775,
+        "end": 784
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          527,
+          534
+        ],
+        "start": 527,
+        "end": 534
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          201,
+          208
+        ],
+        "start": 201,
+        "end": 208
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          213,
+          219
+        ],
+        "start": 213,
+        "end": 219
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Unidad de Inteligencia Militar",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Altos del Golán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Glilot de la",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kileh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hassan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kfar Kila",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hassan Nasrallah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército israelí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Qard",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maalot Tarshiha",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Glilot de la"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Unidad de Inteligencia Militar"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Hassan Nasrallah"
+      },
+      {
+        "sujeto": "Glilot de la",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Glilot de la",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Glilot de la",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Hassan Nasrallah"
+      },
+      {
+        "sujeto": "Unidad de Inteligencia Militar",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Unidad de Inteligencia Militar",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Unidad de Inteligencia Militar",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Hassan Nasrallah"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "LANZAR_DECIR",
+        "objeto": "Hassan Nasrallah"
+      },
+      {
+        "sujeto": "Kileh",
+        "relacion": "INCLUIR_TAMBI_N_INFORMAR",
+        "objeto": "Altos del Golán"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Al Qard"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Hassan"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "MANTENER",
+        "objeto": "Al Qard"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "MANTENER",
+        "objeto": "Hassan"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "MANTENER",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "REPORTAR",
+        "objeto": "Ejército israelí"
+      },
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "REPORTAR",
+        "objeto": "el Líbano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

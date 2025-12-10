@@ -1,0 +1,690 @@
+{
+  "url": "https://www.telesurtv.net/candidatos-presidenciales-cierran-campana-electoral-en-uruguay/",
+  "title": "Candidatos presidenciales cierran campaña electoral en Uruguay - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Elecciones presidenciales",
+    "partidos",
+    "Uruguay"
+  ],
+  "text": "Los candidatos presidenciales en Uruguay concluyeron este martes sus campañas, de cara a los comicios del próximo domingo 27 de octubre.\nEn un acto multitudinario en el parque Batlle de Montevideo (capital), el candidato a presidente Yamandú Orsi, del Frente Amplio, cerró su campaña electoral.\nDurante su discurso, Orsi destacó cinco compromisos clave: diálogo, crecimiento económico, protección social, seguridad y honestidad.\nEl político subrayó que si es elegido no iba a prometer, sino que se iba a comprometer con la gestión presidencial.\nTambién habló sobre la “necesidad de que gobierne la decencia”, teniendo en cuenta que durante los cinco años de gestión de Luis Lacalle Pou, hubo un gran número de casos de corrupción.\nAsimismo, abordó el tema de la seguridad y de la necesidad de atender las causas del delito, también se refirió al crecimiento económico y a la urgencia de fortalecer las políticas públicas.\nPor otra parte, Álvaro Delgado, representante del Partido Nacional, expresó que espera que el pueblo le dé un voto de confianza y continúe las políticas que se han llevado adelante en el Uruguay en los últimos 5 años.\nEn tercera posición de las encuestas se encuentra el Partido Colorado con un 15 por ciento de intención de votos.\nEn Uruguay, para ser elegido presidente, se precisa la mitad más uno de los votos para ganar en primera vuelta.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/candidatos-presidenciales-cierran-campana-electoral-en-uruguay/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 537,
+    "message_id": 79036,
+    "date": "2024-10-24T00:55:18+00:00",
+    "text": "teleSUR\nCandidatos presidenciales cierran campaña electoral en Uruguay\nhttps://www.telesurtv.net/candidatos-presidenciales-cierran-campana-electoral-en-uruguay/",
+    "photo_path": null,
+    "views": 2629,
+    "reactions": {
+      "👍": 30,
+      "🤔": 6
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "los candidatos presidenciales en uruguay concluyeron este martes sus campañas, de cara a los comicios del próximo domingo 27 de octubre. en un acto multitudinario en el parque batlle de montevideo (capital), el candidato a presidente yamandú orsi, del frente amplio, cerró su campaña electoral. durante su discurso, orsi destacó cinco compromisos clave: diálogo, crecimiento económico, protección social, seguridad y honestidad. el político subrayó que si es elegido no iba a prometer, sino que se iba a comprometer con la gestión presidencial. también habló sobre la “necesidad de que gobierne la decencia”, teniendo en cuenta que durante los cinco años de gestión de luis lacalle pou, hubo un gran número de casos de corrupción. asimismo, abordó el tema de la seguridad y de la necesidad de atender las causas del delito, también se refirió al crecimiento económico y a la urgencia de fortalecer las políticas públicas. por otra parte, álvaro delgado, representante del partido nacional, expresó que espera que el pueblo le dé un voto de confianza y continúe las políticas que se han llevado adelante en el uruguay en los últimos 5 años. en tercera posición de las encuestas se encuentra el partido colorado con un 15 por ciento de intención de votos. en uruguay, para ser elegido presidente, se precisa la mitad más uno de los votos para ganar en primera vuelta.",
+    "tokens": [
+      "candidatos",
+      "presidenciales",
+      "uruguay",
+      "concluyeron",
+      "martes",
+      "campañas",
+      ",",
+      "cara",
+      "comicios",
+      "próximo",
+      "domingo",
+      "27",
+      "octubre",
+      ".",
+      "acto",
+      "multitudinario",
+      "parque",
+      "batlle",
+      "montevideo",
+      "(",
+      "capital",
+      ")",
+      ",",
+      "candidato",
+      "presidente",
+      "yamandú",
+      "orsi",
+      ",",
+      "frente",
+      "amplio",
+      ",",
+      "cerró",
+      "campaña",
+      "electoral",
+      ".",
+      "discurso",
+      ",",
+      "orsi",
+      "destacó",
+      "cinco",
+      "compromisos",
+      "clave",
+      ":",
+      "diálogo",
+      ",",
+      "crecimiento",
+      "económico",
+      ",",
+      "protección",
+      "social",
+      ",",
+      "seguridad",
+      "honestidad",
+      ".",
+      "político",
+      "subrayó",
+      "si",
+      "elegido",
+      "iba",
+      "prometer",
+      ",",
+      "sino",
+      "iba",
+      "comprometer",
+      "gestión",
+      "presidencial",
+      ".",
+      "habló",
+      "“",
+      "necesidad",
+      "gobierne",
+      "decencia",
+      "”",
+      ",",
+      "cuenta",
+      "cinco",
+      "años",
+      "gestión",
+      "luis",
+      "lacalle",
+      "pou",
+      ",",
+      "gran",
+      "número",
+      "casos",
+      "corrupción",
+      ".",
+      "asimismo",
+      ",",
+      "abordó",
+      "tema",
+      "seguridad",
+      "necesidad",
+      "atender",
+      "causas",
+      "delito",
+      ",",
+      "refirió",
+      "crecimiento",
+      "económico",
+      "urgencia",
+      "fortalecer",
+      "políticas",
+      "públicas",
+      ".",
+      "parte",
+      ",",
+      "álvaro",
+      "delgado",
+      ",",
+      "representante",
+      "partido",
+      "nacional",
+      ",",
+      "expresó",
+      "espera",
+      "pueblo",
+      "dé",
+      "voto",
+      "confianza",
+      "continúe",
+      "políticas",
+      "llevado",
+      "adelante",
+      "uruguay",
+      "últimos",
+      "5",
+      "años",
+      ".",
+      "tercera",
+      "posición",
+      "encuestas",
+      "encuentra",
+      "partido",
+      "colorado",
+      "15",
+      "ciento",
+      "intención",
+      "votos",
+      ".",
+      "uruguay",
+      ",",
+      "ser",
+      "elegido",
+      "presidente",
+      ",",
+      "precisa",
+      "mitad",
+      "votos",
+      "ganar",
+      "primera",
+      "vuelta",
+      "."
+    ],
+    "token_count": 153,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 85,
+      "NNS": 4,
+      "VBP": 8,
+      "VBZ": 3,
+      "JJ": 17,
+      "IN": 9,
+      "FW": 53,
+      "CD": 2,
+      "VBN": 1,
+      "DT": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 16,
+      "NN-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-NNP": 1,
+      "NN-NN": 52,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NN": 9,
+      "NN-IN": 8,
+      "IN-FW": 8,
+      "FW-JJ": 4,
+      "JJ-NNS": 2,
+      "VBP-JJ": 5,
+      "NN-CD": 1,
+      "CD-IN": 1,
+      "FW-NNP": 10,
+      "NNP-FW": 4,
+      "FW-NN": 5,
+      "JJ-NNP": 3,
+      "NN-NNP": 5,
+      "NNP-NNP": 8,
+      "NN-JJ": 4,
+      "JJ-JJ": 1,
+      "NN-VBP": 4,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "VBP-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-FW": 7,
+      "FW-FW": 33,
+      "FW-NNS": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNP": 1,
+      "JJ-FW": 1,
+      "JJ-CD": 1,
+      "CD-NN": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NN": 13,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 5,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NN-NN-NN": 29,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 6,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NNP-NN": 3,
+      "NN-NN-VBP": 4,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-NN": 1,
+      "NN-VBP-JJ": 2,
+      "JJ-NN-NN": 4,
+      "NN-VBP-VBZ": 1,
+      "VBP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "VBP-JJ-NNP": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 23,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "NN-JJ-NN": 2,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 7,
+      "NNP-NNP-NNP": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNP": 1,
+      "VB-NNP-NNP": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 53,
+        "NNP": 29,
+        "JJ": 17,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 33,
+        "NNP-NN": 16,
+        "FW-NNP": 10,
+        "JJ-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 23,
+        "NNP-NN-NN": 13,
+        "NN-IN-FW": 7,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 59,
+      "VP": 13,
+      "PP": 2,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP VP VP (',', ',') ('de', 'FW') ('cara', 'FW') NP VP ('27', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('candidatos', 'NN') ('presidenciales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('Uruguay', 'NNP') ('concluyeron', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('sus', 'JJ') ('campañas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'JJ') ('comicios', 'JJ') ('del', 'NN') ('próximo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "VP -> ('domingo', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('octubre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los candidatos presidenciales"
+      },
+      {
+        "label": "VP",
+        "text": "en Uruguay concluyeron este"
+      },
+      {
+        "label": "NP",
+        "text": "Uruguay concluyeron este"
+      },
+      {
+        "label": "VP",
+        "text": "martes sus campañas"
+      },
+      {
+        "label": "NP",
+        "text": "sus campañas"
+      },
+      {
+        "label": "NP",
+        "text": "a los comicios del próximo"
+      },
+      {
+        "label": "VP",
+        "text": "domingo"
+      },
+      {
+        "label": "PP",
+        "text": "de octubre"
+      },
+      {
+        "label": "NP",
+        "text": "octubre"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un acto multitudinario"
+      },
+      {
+        "label": "NP",
+        "text": "parque Batlle"
+      },
+      {
+        "label": "NP",
+        "text": "Montevideo"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "VP",
+        "text": "candidato a presidente Yamandú Orsi"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP candidatos/NN presidenciales/NNS)\n  (VP en/VBP (NP Uruguay/NNP concluyeron/NN este/NN))\n  (VP martes/VBZ (NP sus/JJ campañas/NN))\n  ,/,\n  de/FW\n  cara/FW\n  (NP a/DT los/JJ comicios/JJ del/NN próximo/NN)\n  (VP domingo/VBD)\n  27/CD\n  (PP de/IN (NP octubre/NN))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ acto/NN multitudinario/NN)\n  en/IN\n  el/FW\n  (NP parque/JJ Batlle/NNP)\n  de/FW\n  (NP Montevideo/NNP)\n  (/(\n  (NP capital/NN)\n  )/)\n  ,/,\n  el/FW\n  (VP candidato/VBP (NP a/DT presidente/NN Yamandú/NNP Orsi/NNP))\n  ,/,\n  (NP del/NN Frente/NNP Amplio/NNP)\n  ,/,\n  (NP cerró/NN su/NN)\n  (ADJP campaña/JJ)\n  (ADJP electoral/JJ)\n  ./.)",
+      "(S\n  (NP Durante/NNP su/NN discurso/NN)\n  ,/,\n  (NP Orsi/NNP)\n  (VP destacó/VBZ (NP cinco/NN compromisos/NN clave/NN))\n  :/:\n  (NP diálogo/NN)\n  ,/,\n  (NP crecimiento/NN económico/NN)\n  ,/,\n  (ADJP protección/JJ)\n  (ADJP social/JJ)\n  ,/,\n  (NP seguridad/JJ y/NN honestidad/NN)\n  ./.)",
+      "(S\n  (NP El/NNP político/NN subrayó/NN que/NN si/NN)\n  (VP es/VBP)\n  (VP elegido/VBZ (NP no/DT iba/NN) (NP a/DT prometer/NN))\n  ,/,\n  (NP sino/NN que/NN se/NN)\n  (VP\n    iba/VBZ\n    (NP a/DT comprometer/NN con/NN la/NN)\n    (NP gestión/JJ presidencial/NN))\n  ./.)",
+      "(S\n  (NP También/NNP habló/NN sobre/NN la/NN “/NNP)\n  necesidad/FW\n  de/FW\n  que/FW\n  (NP gobierne/JJ la/NN decencia/NN ”/NNP)\n  ,/,\n  (NP teniendo/NN)\n  en/FW\n  (NP cuenta/NN que/NN durante/NN los/NN)\n  (NP cinco/JJ años/NN)\n  de/IN\n  gestión/FW\n  de/FW\n  (NP Luis/NNP Lacalle/NNP Pou/NNP)\n  ,/,\n  (NP hubo/NN)\n  (NP un/JJ gran/NN número/NN)\n  de/IN\n  casos/FW\n  de/FW\n  (NP corrupción/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          198,
+          205
+        ],
+        "start": 198,
+        "end": 205
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "campaña electoral",
+        "position": [
+          276,
+          293
+        ],
+        "start": 276,
+        "end": 293
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          990,
+          997
+        ],
+        "start": 990,
+        "end": 997
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "corrupción",
+        "position": [
+          719,
+          729
+        ],
+        "start": 719,
+        "end": 729
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente yamandú orsi",
+        "position": [
+          223,
+          246
+        ],
+        "start": 223,
+        "end": 246
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          321,
+          328
+        ],
+        "start": 321,
+        "end": 328
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          441,
+          448
+        ],
+        "start": 441,
+        "end": 448
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "uruguay",
+        "position": [
+          33,
+          40
+        ],
+        "start": 33,
+        "end": 40
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "montevideo",
+        "position": [
+          186,
+          196
+        ],
+        "start": 186,
+        "end": 196
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque batlle",
+        "position": [
+          169,
+          182
+        ],
+        "start": 169,
+        "end": 182
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 27 de octubre",
+        "position": [
+          114,
+          135
+        ],
+        "start": 114,
+        "end": 135
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Álvaro Delgado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Luis Lacalle Pou",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Partido Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "parque Batlle",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yamandú Orsi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Partido Colorado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "el Uruguay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Orsi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Frente Amplio",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Uruguay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Montevideo",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "parque Batlle",
+        "relacion": "CERRAR",
+        "objeto": "Yamandú Orsi"
+      },
+      {
+        "sujeto": "parque Batlle",
+        "relacion": "CERRAR",
+        "objeto": "Frente Amplio"
+      },
+      {
+        "sujeto": "Montevideo",
+        "relacion": "CERRAR",
+        "objeto": "Yamandú Orsi"
+      },
+      {
+        "sujeto": "Montevideo",
+        "relacion": "CERRAR",
+        "objeto": "Frente Amplio"
+      },
+      {
+        "sujeto": "Álvaro Delgado",
+        "relacion": "EXPRESAR",
+        "objeto": "el Uruguay"
+      },
+      {
+        "sujeto": "Partido Nacional",
+        "relacion": "EXPRESAR",
+        "objeto": "el Uruguay"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

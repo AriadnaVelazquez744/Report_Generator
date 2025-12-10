@@ -1,0 +1,661 @@
+{
+  "url": "https://www.telesurtv.net/iran-y-rusia-envian-ayuda-humanitaria-al-libano/",
+  "title": "Irán y Rusia envían ayuda humanitaria al Líbano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ayuda Humanitaria",
+    "genocidio",
+    "Irán",
+    "Líbano",
+    "Rusia"
+  ],
+  "text": "Irán y Rusia enviaron cargamentos de ayuda humanitaria al Líbano para paliar la crítica situación de la población ante el avance del genocidio de Israel por Oriente Medio.\nLEA TAMBIÉN\nCanciller iraní visita Beirut pese a amenazas israelíes\nEl cargamento enviado por Irán coincidió con la visita del ministro de Relaciones Exteriores, Abbas Aragchi, quien llegó este viernes a Beirut al frente de una delegación formada por diputados y el presidente de la Media Luna Roja.\nLa ayuda enviada por Teherán, un cargamento de diez toneladas, incluye alimentos y medicamentos como parte de su asistencia al Líbano.\nPor otra parte, procedente de Rusia llegó este miércoles al Líbano un avión de transporte militar Il-76 con 33 toneladas de alimentos, artículos de primera necesidad, medicamentos y generadores de energía móviles.\nEl embajador de Rusia en el Líbano, Alexánder Rudakov, destacó la precaria situación en la nación árabe, empeorada por la agudización del conflicto regional.\nEn ese sentido, Rudakov expresó: “Está empeorando. Desde hace más de una semana, Israel lleva a cabo sus operaciones aéreas en territorio libanés. Al principio intentamos contar en Beirut cuántas veces las zonas del sur, tradicionalmente chiítas, eran atacadas. Ahora hemos perdido la cuenta”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/iran-y-rusia-envian-ayuda-humanitaria-al-libano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1711,
+    "message_id": 77786,
+    "date": "2024-10-04T18:38:45+00:00",
+    "text": "Debes conocer estas tres noticias en nuestra web🌐  \n \n↕️ Venezuela ratifica que no claudicará en su justo reclamo sobre el Esequibo\nhttps://www.telesurtv.net/venezuela-ratifica-que-no-claudicara-en-su-justo-reclamo-sobre-el-esequibo/ \n\n↕️ Autoridades mexicanas investigan asesinato de migrantes\nhttps://www.telesurtv.net/autoridades-mexicanas-investigan-asesinato-de-migrantes/ \n\n↕️ Irán y Rusia envían ayuda humanitaria al Líbano\nhttps://www.telesurtv.net/iran-y-rusia-envian-ayuda-humanitaria-al-libano/",
+    "photo_path": null,
+    "views": 2853,
+    "reactions": {
+      "👍": 51,
+      "👏": 4,
+      "💯": 2
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "irán y rusia enviaron cargamentos de ayuda humanitaria al líbano para paliar la crítica situación de la población ante el avance del genocidio de israel por oriente medio. el cargamento enviado por irán coincidió con la visita del ministro de relaciones exteriores, abbas aragchi, quien llegó este viernes a beirut al frente de una delegación formada por diputados y el presidente de la media luna roja. la ayuda enviada por teherán, un cargamento de diez toneladas, incluye alimentos y medicamentos como parte de su asistencia al líbano. por otra parte, procedente de rusia llegó este miércoles al líbano un avión de transporte militar il-76 con 33 toneladas de alimentos, artículos de primera necesidad, medicamentos y generadores de energía móviles. el embajador de rusia en el líbano, alexánder rudakov, destacó la precaria situación en la nación árabe, empeorada por la agudización del conflicto regional. en ese sentido, rudakov expresó: “está empeorando. desde hace más de una semana, israel lleva a cabo sus operaciones aéreas en territorio libanés. al principio intentamos contar en beirut cuántas veces las zonas del sur, tradicionalmente chiítas, eran atacadas. ahora hemos perdido la cuenta”.",
+    "tokens": [
+      "irán",
+      "rusia",
+      "enviaron",
+      "cargamentos",
+      "ayuda",
+      "humanitaria",
+      "líbano",
+      "paliar",
+      "crítica",
+      "situación",
+      "población",
+      "avance",
+      "genocidio",
+      "israel",
+      "oriente",
+      "medio",
+      ".",
+      "cargamento",
+      "enviado",
+      "irán",
+      "coincidió",
+      "visita",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      ",",
+      "abbas",
+      "aragchi",
+      ",",
+      "llegó",
+      "viernes",
+      "beirut",
+      "frente",
+      "delegación",
+      "formada",
+      "diputados",
+      "presidente",
+      "media",
+      "luna",
+      "roja",
+      ".",
+      "ayuda",
+      "enviada",
+      "teherán",
+      ",",
+      "cargamento",
+      "diez",
+      "toneladas",
+      ",",
+      "incluye",
+      "alimentos",
+      "medicamentos",
+      "parte",
+      "asistencia",
+      "líbano",
+      ".",
+      "parte",
+      ",",
+      "procedente",
+      "rusia",
+      "llegó",
+      "miércoles",
+      "líbano",
+      "avión",
+      "transporte",
+      "militar",
+      "il-76",
+      "33",
+      "toneladas",
+      "alimentos",
+      ",",
+      "artículos",
+      "primera",
+      "necesidad",
+      ",",
+      "medicamentos",
+      "generadores",
+      "energía",
+      "móviles",
+      ".",
+      "embajador",
+      "rusia",
+      "líbano",
+      ",",
+      "alexánder",
+      "rudakov",
+      ",",
+      "destacó",
+      "precaria",
+      "situación",
+      "nación",
+      "árabe",
+      ",",
+      "empeorada",
+      "agudización",
+      "conflicto",
+      "regional",
+      ".",
+      ",",
+      "rudakov",
+      "expresó",
+      ":",
+      "“",
+      "empeorando",
+      ".",
+      "hace",
+      "semana",
+      ",",
+      "israel",
+      "lleva",
+      "cabo",
+      "operaciones",
+      "aéreas",
+      "territorio",
+      "libanés",
+      ".",
+      "principio",
+      "intentamos",
+      "contar",
+      "beirut",
+      "cuántas",
+      "veces",
+      "zonas",
+      "sur",
+      ",",
+      "tradicionalmente",
+      "chiítas",
+      ",",
+      "atacadas",
+      ".",
+      "ahora",
+      "perdido",
+      "cuenta",
+      "”",
+      "."
+    ],
+    "token_count": 135,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 53,
+      "FW": 50,
+      "NNS": 12,
+      "VBP": 8,
+      "IN": 7,
+      "JJ": 9,
+      "MD": 1,
+      "VB": 1,
+      "CC": 1,
+      "CD": 2,
+      "VBZ": 2,
+      "RB": 2,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-NN": 14,
+      "NN-FW": 10,
+      "FW-FW": 38,
+      "FW-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-NNP": 3,
+      "NN-NN": 22,
+      "FW-NN": 3,
+      "NN-IN": 6,
+      "IN-NNP": 3,
+      "NN-NNP": 9,
+      "NNP-JJ": 4,
+      "JJ-NNS": 1,
+      "FW-NNP": 5,
+      "NN-NNS": 4,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-NN": 3,
+      "NNP-IN": 1,
+      "IN-JJ": 3,
+      "JJ-NN": 7,
+      "IN-FW": 1,
+      "VBP-NNS": 1,
+      "NNS-NNS": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "NNP-FW": 1,
+      "FW-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "VBZ-JJ": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNP-NNS": 1,
+      "VBP-CD": 1,
+      "NNS-VBD": 1,
+      "VBD-RB": 1,
+      "RB-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 8,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 10,
+      "NN-NN-FW": 3,
+      "FW-FW-FW": 29,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-JJ": 2,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-NNP-NN": 4,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NN": 3,
+      "JJ-NN-NNP": 4,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-IN": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-NNP-JJ": 1,
+      "NN-IN-JJ": 2,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-RB": 1,
+      "VBD-RB-NNP": 1,
+      "RB-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 53,
+        "FW": 50,
+        "NNP": 41,
+        "NNS": 12,
+        "JJ": 9
+      },
+      "top_bigrams": {
+        "FW-FW": 38,
+        "NN-NN": 22,
+        "NNP-NNP": 15,
+        "NNP-NN": 14,
+        "NN-FW": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 10,
+        "NNP-NNP-NNP": 9,
+        "NNP-NN-NN": 9,
+        "NN-FW-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 12,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0488
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0366
+      },
+      {
+        "rule": "S -> NP ('y', 'PRP') NP VP ('de', 'IN') ('ayuda', 'FW') NP VP ('situación', 'FW') ('de', 'FW') ('la', 'FW') ('población', 'FW') ('ante', 'FW') ('el', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "VP -> ('enviaron', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('cargamentos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('humanitaria', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Líbano', 'NNP') ('para', 'NN') ('paliar', 'NN') ('la', 'NN') ('crítica', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('avance', 'NN') ('del', 'NN') ('genocidio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "VP",
+        "text": "enviaron cargamentos"
+      },
+      {
+        "label": "NP",
+        "text": "cargamentos"
+      },
+      {
+        "label": "NP",
+        "text": "humanitaria"
+      },
+      {
+        "label": "VP",
+        "text": "al Líbano para paliar la crítica"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano para paliar la crítica"
+      },
+      {
+        "label": "NP",
+        "text": "avance del genocidio"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel por Oriente Medio"
+      },
+      {
+        "label": "NP",
+        "text": "Israel por Oriente Medio"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Canciller iraní visita Beirut"
+      },
+      {
+        "label": "VP",
+        "text": "pese a amenazas israelíes El cargamento enviado por Irán coincidió con la"
+      },
+      {
+        "label": "NP",
+        "text": "a amenazas israelíes El cargamento enviado por Irán coincidió con la"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Abbas Aragchi"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Irán/NNP)\n  y/PRP\n  (NP Rusia/NNP)\n  (VP enviaron/VBD (NP cargamentos/NN))\n  de/IN\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (VP al/VBP (NP Líbano/NNP para/NN paliar/NN la/NN crítica/NN))\n  situación/FW\n  de/FW\n  la/FW\n  población/FW\n  ante/FW\n  el/FW\n  (NP avance/NN del/NN genocidio/NN)\n  (PP de/IN (NP Israel/NNP por/NN Oriente/NNP Medio/NNP))\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    Canciller/NNP\n    iraní/NN\n    visita/NN\n    Beirut/NNP)\n  (VP\n    pese/VBZ\n    (NP\n      a/DT\n      amenazas/JJ\n      israelíes/NN\n      El/NNP\n      cargamento/NN\n      enviado/NN\n      por/NN\n      Irán/NNP\n      coincidió/NN\n      con/NN\n      la/NN))\n  visita/FW\n  del/FW\n  ministro/FW\n  de/FW\n  (NP Relaciones/NNP Exteriores/NNP)\n  ,/,\n  (NP Abbas/NNP Aragchi/NNP)\n  ,/,\n  (NP quien/NN llegó/NN este/NN)\n  (VP viernes/VBZ (NP a/DT Beirut/NNP al/NN frente/NN))\n  (PP\n    de/IN\n    (NP una/JJ delegación/NN formada/NN por/NN diputados/NN y/NN))\n  el/FW\n  presidente/FW\n  de/FW\n  la/FW\n  (NP Media/NNP Luna/NNP Roja/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP ayuda/VBZ)\n  enviada/FW\n  (NP por/NN Teherán/NNP)\n  ,/,\n  (NP un/JJ cargamento/NN)\n  de/IN\n  diez/FW\n  (NP toneladas/NNS)\n  ,/,\n  (NP incluye/JJ alimentos/NN y/NN medicamentos/NN como/NN parte/NN)\n  de/IN\n  su/FW\n  (NP asistencia/JJ al/NN Líbano/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  procedente/FW\n  de/FW\n  (NP Rusia/NNP)\n  llegó/CC\n  (NP este/NN miércoles/NNS)\n  (VP al/VBP (NP Líbano/NNP) (NP un/JJ avión/NN))\n  (PP de/IN (NP transporte/JJ militar/NN Il-76/NNP con/NN))\n  33/CD\n  (NP toneladas/NN)\n  de/FW\n  (NP alimentos/NN)\n  ,/,\n  artículos/FW\n  de/FW\n  primera/FW\n  (NP necesidad/NN)\n  ,/,\n  (NP medicamentos/NN y/NN)\n  (VP generadores/VBZ)\n  de/IN\n  energía/FW\n  (NP móviles/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP embajador/NN)\n  de/FW\n  (NP Rusia/NNP)\n  en/FW\n  (NP el/NN Líbano/NNP)\n  ,/,\n  (NP Alexánder/NNP Rudakov/NNP)\n  ,/,\n  (NP destacó/NN la/NN)\n  precaria/FW\n  (NP situación/NN)\n  en/FW\n  la/FW\n  nación/FW\n  árabe/FW\n  ,/,\n  empeorada/FW\n  (NP por/NN)\n  la/FW\n  agudización/FW\n  del/FW\n  (ADJP conflicto/JJ)\n  (ADJP regional/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          1003,
+          1010
+        ],
+        "start": 1003,
+        "end": 1010
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          37,
+          54
+        ],
+        "start": 37,
+        "end": 54
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          438,
+          454
+        ],
+        "start": 438,
+        "end": 454
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          299,
+          332
+        ],
+        "start": 299,
+        "end": 332
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          876,
+          883
+        ],
+        "start": 876,
+        "end": 883
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          804,
+          811
+        ],
+        "start": 804,
+        "end": 811
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          7,
+          12
+        ],
+        "start": 7,
+        "end": 12
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abbas Aragchi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Media Luna Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rudakov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alexánder Rudakov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Relaciones Exteriores",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Irán",
+        "relacion": "ENVIAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "ENVIAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "COINCIDIR",
+        "objeto": "Relaciones Exteriores"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "COINCIDIR",
+        "objeto": "Abbas Aragchi"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "COINCIDIR",
+        "objeto": "Beirut"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "COINCIDIR",
+        "objeto": "Media Luna Roja"
+      },
+      {
+        "sujeto": "Beirut",
+        "relacion": "LLEGAR_COINCIDIR",
+        "objeto": "Media Luna Roja"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "INCLUIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "LLEGAR",
+        "objeto": "Líbano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

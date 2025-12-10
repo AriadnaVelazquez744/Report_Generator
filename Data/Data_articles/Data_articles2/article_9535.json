@@ -1,0 +1,728 @@
+{
+  "url": "https://www.telesurtv.net/escalada-en-ascenso-ataque-israeli-cobra-la-vida-de-10-personas-y-deja-15-heridos-en-qana-libano/",
+  "title": "Escalada en ascenso: ataque israelí cobra la vida de 10 personas y deja 15 heridos en Qana, Líbano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Heridos",
+    "Muertos"
+  ],
+  "text": "Un nuevo ataque de Israel contra el Líbano dejó al menos 10 personas muertas, mientras que otras 15 resultaron heridas, recogen medios árabes.\nLa agencia de noticias libanesa, NNA, precisó que el bombardeo ocurrió en la ciudas de Qana, ubicada al sur del país.\nEn tanto, el medio árabe subayra que las quince personas heridas “fueron hospitalizadas”.\nPor su parte, el Centro de Emergencias informó en paralelo que en la localidad de Riyaq, al este del país que dejó al menos cinco muertos y 16 heridos.\nEste tenso contexto bélico que vive el Medio Oriente se intensificó cuando a principios de octubre, las tropas israelíes cruzaron la llamada Línea Azul, para arremeter contra puntos claves del sur libanés pertenecientes a la estructura de fortaleza del Movimiento de Resistencia Hezbolá.\nLa escalada ya ha dejado más de 2.000 muertos, de ellos una mayoría considerable de mujeres y niños, al tiempo que otra cifra que supera los 9.000 representa la cantidad de heridos, según datos de las autoridades de sanidad libanesas.\nEn tanto, hace casi un mes, el Ejército israelí lanzó una serie de bombardeos contra el sur del Líbano y los suburbios meridionales de Beirut, conocidos como Dahye.\nA todo ello se le añade que en la zona persisten los ataques contra la Franja de Gaza que, según cifras de este martes, desde el 7 de octubre de 2023, los ataques israelíes dejan un saldo de 42.344 muertos, 96.794 heridos y más de 10.000 desaparecidos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/escalada-en-ascenso-ataque-israeli-cobra-la-vida-de-10-personas-y-deja-15-heridos-en-qana-libano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1082,
+    "message_id": 78453,
+    "date": "2024-10-15T22:55:12+00:00",
+    "text": "teleSUR\nEscalada en ascenso: ataque israelí cobra la vida de 10 personas y deja 15 heridos en Qana, Líbano\nhttps://www.telesurtv.net/escalada-en-ascenso-ataque-israeli-cobra-la-vida-de-10-personas-y-deja-15-heridos-en-qana-libano/",
+    "photo_path": null,
+    "views": 2898,
+    "reactions": {
+      "🤬": 59,
+      "👍": 3,
+      "👎": 3,
+      "💩": 2
+    },
+    "total_reactions": 67
+  },
+  "preprocessing": {
+    "cleaned": "un nuevo ataque de israel contra el líbano dejó al menos 10 personas muertas, mientras que otras 15 resultaron heridas, recogen medios árabes. la agencia de noticias libanesa, nna, precisó que el bombardeo ocurrió en la ciudas de qana, ubicada al sur del país. en tanto, el medio árabe subayra que las quince personas heridas “fueron hospitalizadas”. por su parte, el centro de emergencias informó en paralelo que en la localidad de riyaq, al este del país que dejó al menos cinco muertos y 16 heridos. este tenso contexto bélico que vive el medio oriente se intensificó cuando a principios de octubre, las tropas israelíes cruzaron la llamada línea azul, para arremeter contra puntos claves del sur libanés pertenecientes a la estructura de fortaleza del movimiento de resistencia hezbolá. la escalada ya ha dejado más de 2.000 muertos, de ellos una mayoría considerable de mujeres y niños, al tiempo que otra cifra que supera los 9.000 representa la cantidad de heridos, según datos de las autoridades de sanidad libanesas. en tanto, hace casi un mes, el ejército israelí lanzó una serie de bombardeos contra el sur del líbano y los suburbios meridionales de beirut, conocidos como dahye. a todo ello se le añade que en la zona persisten los ataques contra la franja de gaza que, según cifras de este martes, desde el 7 de octubre de 2023, los ataques israelíes dejan un saldo de 42.344 muertos, 96.794 heridos y más de 10.000 desaparecidos.",
+    "tokens": [
+      "nuevo",
+      "ataque",
+      "israel",
+      "líbano",
+      "dejó",
+      "menos",
+      "10",
+      "personas",
+      "muertas",
+      ",",
+      "mientras",
+      "15",
+      "resultaron",
+      "heridas",
+      ",",
+      "recogen",
+      "medios",
+      "árabes",
+      ".",
+      "agencia",
+      "noticias",
+      "libanesa",
+      ",",
+      "nna",
+      ",",
+      "precisó",
+      "bombardeo",
+      "ocurrió",
+      "ciudas",
+      "qana",
+      ",",
+      "ubicada",
+      "sur",
+      "país",
+      ".",
+      ",",
+      "medio",
+      "árabe",
+      "subayra",
+      "quince",
+      "personas",
+      "heridas",
+      "“",
+      "hospitalizadas",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "centro",
+      "emergencias",
+      "informó",
+      "paralelo",
+      "localidad",
+      "riyaq",
+      ",",
+      "país",
+      "dejó",
+      "menos",
+      "cinco",
+      "muertos",
+      "16",
+      "heridos",
+      ".",
+      "tenso",
+      "contexto",
+      "bélico",
+      "vive",
+      "medio",
+      "oriente",
+      "intensificó",
+      "principios",
+      "octubre",
+      ",",
+      "tropas",
+      "israelíes",
+      "cruzaron",
+      "llamada",
+      "línea",
+      "azul",
+      ",",
+      "arremeter",
+      "puntos",
+      "claves",
+      "sur",
+      "libanés",
+      "pertenecientes",
+      "estructura",
+      "fortaleza",
+      "movimiento",
+      "resistencia",
+      "hezbolá",
+      ".",
+      "escalada",
+      "dejado",
+      "2.000",
+      "muertos",
+      ",",
+      "mayoría",
+      "considerable",
+      "mujeres",
+      "niños",
+      ",",
+      "tiempo",
+      "cifra",
+      "supera",
+      "9.000",
+      "representa",
+      "cantidad",
+      "heridos",
+      ",",
+      "según",
+      "datos",
+      "autoridades",
+      "sanidad",
+      "libanesas",
+      ".",
+      ",",
+      "hace",
+      "casi",
+      "mes",
+      ",",
+      "ejército",
+      "israelí",
+      "lanzó",
+      "serie",
+      "bombardeos",
+      "sur",
+      "líbano",
+      "suburbios",
+      "meridionales",
+      "beirut",
+      ",",
+      "conocidos",
+      "dahye",
+      ".",
+      "ello",
+      "añade",
+      "zona",
+      "persisten",
+      "ataques",
+      "franja",
+      "gaza",
+      ",",
+      "según",
+      "cifras",
+      "martes",
+      ",",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "ataques",
+      "israelíes",
+      "dejan",
+      "saldo",
+      "42.344",
+      "muertos",
+      ",",
+      "96.794",
+      "heridos",
+      "10.000",
+      "desaparecidos",
+      "."
+    ],
+    "token_count": 163,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "JJ": 20,
+      "NN": 77,
+      "IN": 11,
+      "VBD": 3,
+      "CD": 9,
+      "NNS": 19,
+      "VBP": 11,
+      "FW": 53,
+      "CC": 1,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-NN": 12,
+      "NN-IN": 9,
+      "IN-NNP": 2,
+      "NNP-NNP": 5,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "NNP-NN": 11,
+      "NN-NN": 42,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "CD-NNS": 5,
+      "NNS-NNS": 1,
+      "NNS-VBP": 10,
+      "VBP-JJ": 4,
+      "JJ-NNS": 3,
+      "NNS-CD": 3,
+      "CD-NN": 3,
+      "NN-NNS": 5,
+      "VBP-NNP": 2,
+      "NNP-FW": 8,
+      "FW-FW": 29,
+      "FW-NNP": 10,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "IN-FW": 4,
+      "NN-NNP": 6,
+      "NNS-NN": 1,
+      "NN-FW": 5,
+      "FW-NN": 5,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "IN-NNS": 1,
+      "VBP-NNS": 1,
+      "NNS-NNP": 1,
+      "NN-JJ": 5,
+      "NN-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-JJ": 5,
+      "VBP-FW": 2,
+      "IN-CD": 4,
+      "NNS-FW": 1,
+      "JJ-FW": 3,
+      "FW-NNS": 3,
+      "VBZ-CD": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNS-IN": 1,
+      "VBD-JJ": 1,
+      "JJ-NNP": 1,
+      "FW-IN": 1,
+      "JJ-JJ": 1,
+      "CD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NNP-NN-NN": 11,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NN": 19,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 18,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "FW-NNP-JJ": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 4,
+      "NN-NNS-NN": 1,
+      "NNS-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "NNP-NNP-NNP": 1,
+      "NN-IN-CD": 3,
+      "IN-CD-NNS": 3,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NN": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "IN-FW-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NNP-NN": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "FW": 53,
+        "NNP": 29,
+        "JJ": 20,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 29,
+        "JJ-NN": 12,
+        "NNP-NN": 11,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 19,
+        "FW-FW-FW": 18,
+        "NNP-NN-NN": 11,
+        "JJ-NN-IN": 5,
+        "FW-FW-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 68,
+      "PP": 3,
+      "VP": 18,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('muertos', 'NNS')",
+        "frequency": 3,
+        "weight": 0.03
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('tanto', 'NN')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP NP PP VP VP ('10', 'CD') NP (',', ',') NP VP ('15', 'CD') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('nuevo', 'JJ') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('contra', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un"
+      },
+      {
+        "label": "NP",
+        "text": "nuevo ataque"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra"
+      },
+      {
+        "label": "VP",
+        "text": "el Líbano dejó al"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano dejó al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "personas muertas"
+      },
+      {
+        "label": "NP",
+        "text": "mientras"
+      },
+      {
+        "label": "VP",
+        "text": "que otras"
+      },
+      {
+        "label": "NP",
+        "text": "resultaron heridas"
+      },
+      {
+        "label": "NP",
+        "text": "recogen medios"
+      },
+      {
+        "label": "VP",
+        "text": "árabes"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "NNA"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP)\n  (NP nuevo/JJ ataque/NN)\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  (VP el/VBD (NP Líbano/NNP dejó/NN al/NN))\n  (VP menos/VBD)\n  10/CD\n  (NP personas/NNS muertas/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP que/VBP otras/RB)\n  15/CD\n  (NP resultaron/NN heridas/NN)\n  ,/,\n  (NP recogen/NN medios/NNS)\n  (VP árabes/VBP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  agencia/FW\n  de/FW\n  noticias/FW\n  libanesa/FW\n  ,/,\n  (NP NNA/NNP)\n  ,/,\n  (NP precisó/NN que/NN)\n  (VP el/VBP (NP bombardeo/NN ocurrió/NN))\n  en/IN\n  la/FW\n  ciudas/FW\n  de/FW\n  (NP Qana/NNP)\n  ,/,\n  (NP ubicada/JJ al/NN sur/NN del/NN país/NN)\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  (NP\n    el/JJ\n    medio/NN\n    árabe/NNP\n    subayra/NN\n    que/NN\n    las/NNS\n    quince/NN\n    personas/NNS)\n  (VP heridas/VBP (NP “/JJ fueron/NN hospitalizadas/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  (NP Centro/NNP)\n  de/FW\n  (NP Emergencias/NNP)\n  informó/FW\n  en/FW\n  paralelo/FW\n  (NP que/NN)\n  en/FW\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Riyaq/NNP)\n  ,/,\n  (NP al/JJ este/NN del/NN país/NN que/NN dejó/NN)\n  (PP al/IN (NP menos/NNS))\n  (VP cinco/VBP (NP muertos/NNS) y/RB)\n  16/CD\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP Este/NN tenso/NN contexto/NN bélico/NN que/NN)\n  (NP vive/JJ el/NN Medio/NNP Oriente/NNP)\n  se/FW\n  (NP intensificó/NN cuando/NN)\n  (NP a/DT principios/NN)\n  de/IN\n  octubre/FW\n  ,/,\n  las/FW\n  (NP tropas/NN israelíes/NN cruzaron/NN la/NN)\n  llamada/FW\n  (NP Línea/NNP Azul/NNP)\n  ,/,\n  (NP para/NN arremeter/NN contra/NN puntos/NN)\n  (VP claves/VBZ)\n  del/FW\n  (NP sur/JJ libanés/NN)\n  (VP pertenecientes/VBZ (NP a/DT la/NN))\n  estructura/FW\n  de/FW\n  fortaleza/FW\n  del/FW\n  (NP Movimiento/NNP)\n  de/FW\n  (NP Resistencia/NNP Hezbolá/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques contra la franja de gaza que, según cifras de este martes, desde el 7 de octubre de 2023, los ataques israelíes",
+        "position": [
+          1244,
+          1363
+        ],
+        "start": 1244,
+        "end": 1363
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          390,
+          397
+        ],
+        "start": 390,
+        "end": 397
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          181,
+          188
+        ],
+        "start": 181,
+        "end": 188
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          875,
+          882
+        ],
+        "start": 875,
+        "end": 882
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          36,
+          42
+        ],
+        "start": 36,
+        "end": 42
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona persisten",
+        "position": [
+          1225,
+          1239
+        ],
+        "start": 1225,
+        "end": 1239
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          368,
+          377
+        ],
+        "start": 368,
+        "end": 377
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1320,
+          1340
+        ],
+        "start": 1320,
+        "end": 1340
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10 personas",
+        "position": [
+          57,
+          68
+        ],
+        "start": 57,
+        "end": 68
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 2.000",
+        "position": [
+          816,
+          828
+        ],
+        "start": 816,
+        "end": 828
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10.000",
+        "position": [
+          1415,
+          1428
+        ],
+        "start": 1415,
+        "end": 1428
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dahye",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Riyaq",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro de Emergencias",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Línea Azul",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento de Resistencia Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Centro de Emergencias",
+        "relacion": "INFORMAR",
+        "objeto": "Riyaq"
+      },
+      {
+        "sujeto": "Línea Azul",
+        "relacion": "CRUZAR_INTENSIFICAR",
+        "objeto": "Movimiento de Resistencia Hezbolá"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.01,
+    "neu": 0.99,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

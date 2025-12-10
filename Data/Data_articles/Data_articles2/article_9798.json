@@ -1,0 +1,825 @@
+{
+  "url": "https://www.telesurtv.net/presidenta-sheinbaum-asesinato-de-alcalde-de-chilpancingo-no-quedara-impune/",
+  "title": "Presidenta Sheinbaum: Asesinato de alcalde de Chilpancingo no quedará impune - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "alcalde",
+    "Asesinato",
+    "Claudia Sheinbaum",
+    "Investigación",
+    "México"
+  ],
+  "text": "\nDurante su habitual conferencia matutina en el Palacio Nacional, la presidenta de México, Claudia Sheinbaum, aseveró que las autoridades federales continúan investigando el asesinato de Catalán y reiteró que las pesquisas están a cargo de la Fiscalía General de la República.\nLEA TAMBIÉN\nAlcalde de Chilpancingo, México, fue asesinado a una semana de haber asumido el cargo\nPor otra parte, el secretario de Seguridad y Protección Ciudadana, Omar García Harfuch, dio a conocer que el alcalde al momento de su muerte “no contaba con protección de la Guardia Nacional, pero tampoco fue solicitada”.\n“Las solicitudes llegan a la Secretaría de Seguridad y se turnan a las áreas correspondientes, a veces a la Secretaría de la Defensa Nacional, a veces a otras instituciones, en este caso, de la persona referida no había ninguna solicitud de seguridad”, agregó.\nGarcía dio a conocer que han estado en contacto permanente con la gobernadora del estado de Guerrero, Evelyn Salgado.\nAsimismo, afirmó “estamos apoyando las investigaciones requeridas y vamos a continuar trabajando para solucionar este caso y detener a los responsables”.\nEl titular de Seguridad y Protección Ciudadana expresó que el alcalde de Chilpancingo se dirigía solo a una reunión en Petaquillas, Guerrero.\n\n“Sale de Chilpancingo y se va rumbo a Petaquillas sin escolta, sin chofer. Sabemos que iba a una reunión específica, no iba acompañado. Se pierde comunicación en una comunidad y posteriormente, horas más tarde, se realiza el hallazgo del cuerpo sin vida del alcalde”, relató.\nEn Chilpancingo más de 3000 personas se reunieron este martes en el Zócalo para despedir al alcalde.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidenta-sheinbaum-asesinato-de-alcalde-de-chilpancingo-no-quedara-impune/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 1494,
+    "message_id": 78015,
+    "date": "2024-10-08T17:55:13+00:00",
+    "text": "teleSUR\nPresidenta Sheinbaum: Asesinato de alcalde de Chilpancingo no quedará impune\nhttps://www.telesurtv.net/presidenta-sheinbaum-asesinato-de-alcalde-de-chilpancingo-no-quedara-impune/",
+    "photo_path": null,
+    "views": 2349,
+    "reactions": {
+      "👍": 47,
+      "❤": 4,
+      "🙏": 2,
+      "🤡": 1
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "durante su habitual conferencia matutina en el palacio nacional, la presidenta de méxico, claudia sheinbaum, aseveró que las autoridades federales continúan investigando el asesinato de catalán y reiteró que las pesquisas están a cargo de la fiscalía general de la república. por otra parte, el secretario de seguridad y protección ciudadana, omar garcía harfuch, dio a conocer que el alcalde al momento de su muerte “no contaba con protección de la guardia nacional, pero tampoco fue solicitada”. “las solicitudes llegan a la secretaría de seguridad y se turnan a las áreas correspondientes, a veces a la secretaría de la defensa nacional, a veces a otras instituciones, en este caso, de la persona referida no había ninguna solicitud de seguridad”, agregó. garcía dio a conocer que han estado en contacto permanente con la gobernadora del estado de guerrero, evelyn salgado. asimismo, afirmó “estamos apoyando las investigaciones requeridas y vamos a continuar trabajando para solucionar este caso y detener a los responsables”. el titular de seguridad y protección ciudadana expresó que el alcalde de chilpancingo se dirigía solo a una reunión en petaquillas, guerrero. “sale de chilpancingo y se va rumbo a petaquillas sin escolta, sin chofer. sabemos que iba a una reunión específica, no iba acompañado. se pierde comunicación en una comunidad y posteriormente, horas más tarde, se realiza el hallazgo del cuerpo sin vida del alcalde”, relató. en chilpancingo más de 3000 personas se reunieron este martes en el zócalo para despedir al alcalde.",
+    "tokens": [
+      "habitual",
+      "conferencia",
+      "matutina",
+      "palacio",
+      "nacional",
+      ",",
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "aseveró",
+      "autoridades",
+      "federales",
+      "continúan",
+      "investigando",
+      "asesinato",
+      "catalán",
+      "reiteró",
+      "pesquisas",
+      "cargo",
+      "fiscalía",
+      "general",
+      "república",
+      ".",
+      "parte",
+      ",",
+      "secretario",
+      "seguridad",
+      "protección",
+      "ciudadana",
+      ",",
+      "omar",
+      "garcía",
+      "harfuch",
+      ",",
+      "dio",
+      "conocer",
+      "alcalde",
+      "momento",
+      "muerte",
+      "“",
+      "contaba",
+      "protección",
+      "guardia",
+      "nacional",
+      ",",
+      "tampoco",
+      "solicitada",
+      "”",
+      ".",
+      "“",
+      "solicitudes",
+      "llegan",
+      "secretaría",
+      "seguridad",
+      "turnan",
+      "áreas",
+      "correspondientes",
+      ",",
+      "veces",
+      "secretaría",
+      "defensa",
+      "nacional",
+      ",",
+      "veces",
+      "instituciones",
+      ",",
+      "caso",
+      ",",
+      "persona",
+      "referida",
+      "ninguna",
+      "solicitud",
+      "seguridad",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "garcía",
+      "dio",
+      "conocer",
+      "contacto",
+      "permanente",
+      "gobernadora",
+      "guerrero",
+      ",",
+      "evelyn",
+      "salgado",
+      ".",
+      "asimismo",
+      ",",
+      "afirmó",
+      "“",
+      "apoyando",
+      "investigaciones",
+      "requeridas",
+      "vamos",
+      "continuar",
+      "trabajando",
+      "solucionar",
+      "caso",
+      "detener",
+      "responsables",
+      "”",
+      ".",
+      "titular",
+      "seguridad",
+      "protección",
+      "ciudadana",
+      "expresó",
+      "alcalde",
+      "chilpancingo",
+      "dirigía",
+      "solo",
+      "reunión",
+      "petaquillas",
+      ",",
+      "guerrero",
+      ".",
+      "“",
+      "sale",
+      "chilpancingo",
+      "va",
+      "rumbo",
+      "petaquillas",
+      "escolta",
+      ",",
+      "chofer",
+      ".",
+      "sabemos",
+      "iba",
+      "reunión",
+      "específica",
+      ",",
+      "iba",
+      "acompañado",
+      ".",
+      "pierde",
+      "comunicación",
+      "comunidad",
+      "posteriormente",
+      ",",
+      "horas",
+      "tarde",
+      ",",
+      "realiza",
+      "hallazgo",
+      "cuerpo",
+      "vida",
+      "alcalde",
+      "”",
+      ",",
+      "relató",
+      ".",
+      "chilpancingo",
+      "3000",
+      "personas",
+      "reunieron",
+      "martes",
+      "zócalo",
+      "despedir",
+      "alcalde",
+      "."
+    ],
+    "token_count": 165,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 51,
+      "VBD": 2,
+      "JJ": 19,
+      "NN": 79,
+      "IN": 15,
+      "FW": 35,
+      "NNS": 13,
+      "VBP": 11,
+      "VBZ": 7,
+      "DT": 3,
+      "RB": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NN": 12,
+      "NN-NN": 46,
+      "NN-IN": 11,
+      "IN-FW": 7,
+      "FW-NNP": 13,
+      "NNP-NNP": 24,
+      "NNP-FW": 9,
+      "FW-FW": 10,
+      "NNP-NN": 11,
+      "NN-NNS": 4,
+      "NNS-IN": 1,
+      "IN-NNS": 1,
+      "NNS-VBP": 8,
+      "VBP-JJ": 5,
+      "JJ-FW": 3,
+      "FW-NN": 7,
+      "IN-NNP": 5,
+      "NNP-IN": 1,
+      "NN-JJ": 4,
+      "FW-JJ": 2,
+      "NN-NNP": 5,
+      "NNP-VBZ": 4,
+      "VBZ-JJ": 3,
+      "NN-VBP": 3,
+      "FW-DT": 1,
+      "DT-NN": 2,
+      "VBP-NNS": 2,
+      "NNS-NNS": 2,
+      "VBP-NNP": 2,
+      "NNP-NNS": 1,
+      "NNS-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 2,
+      "NN-RB": 1,
+      "RB-VBD": 1,
+      "VBD-FW": 1,
+      "VBP-FW": 1,
+      "NN-FW": 2,
+      "VBZ-FW": 1,
+      "JJ-NNS": 2,
+      "NNS-NNP": 1,
+      "JJ-JJ": 2,
+      "NN-VBZ": 2,
+      "DT-JJ": 1,
+      "IN-JJ": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "VBP-NN": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 4,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 4,
+      "FW-FW-NNP": 4,
+      "NNP-NNP-NNP": 12,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 10,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 1,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-FW": 2,
+      "NN-NN-NN": 24,
+      "NN-NN-VBP": 3,
+      "NN-VBP-JJ": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-VBD": 1,
+      "RB-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NNP-NN": 2,
+      "NN-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-NNP-FW": 1,
+      "NN-NNP-NN": 2,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "NNP": 51,
+        "FW": 35,
+        "JJ": 19,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "NNP-NNP": 24,
+        "FW-NNP": 13,
+        "JJ-NN": 12,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "NNP-NNP-NNP": 12,
+        "NNP-NN-NN": 10,
+        "FW-NNP-NNP": 8,
+        "JJ-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 23,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0351
+      },
+      {
+        "rule": "NP -> ('Chilpancingo', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('dio', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('Secretaría', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('veces', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Guerrero', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP VP ('en', 'IN') ('el', 'FW') NP (',', ',') ('la', 'FW') ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP PP VP ('el', 'FW') NP PP VP VP ('de', 'IN') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Durante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Durante"
+      },
+      {
+        "label": "VP",
+        "text": "su habitual conferencia matutina"
+      },
+      {
+        "label": "NP",
+        "text": "habitual conferencia matutina"
+      },
+      {
+        "label": "NP",
+        "text": "Palacio Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "aseveró que las"
+      },
+      {
+        "label": "PP",
+        "text": "autoridades federales"
+      },
+      {
+        "label": "NP",
+        "text": "federales"
+      },
+      {
+        "label": "VP",
+        "text": "continúan investigando"
+      },
+      {
+        "label": "NP",
+        "text": "asesinato"
+      },
+      {
+        "label": "PP",
+        "text": "de Catalán y reiteró que las"
+      },
+      {
+        "label": "NP",
+        "text": "Catalán y reiteró que las"
+      },
+      {
+        "label": "VP",
+        "text": "pesquisas"
+      },
+      {
+        "label": "VP",
+        "text": "están a cargo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Durante/NNP)\n  (VP su/VBD (NP habitual/JJ conferencia/NN matutina/NN))\n  en/IN\n  el/FW\n  (NP Palacio/NNP Nacional/NNP)\n  ,/,\n  la/FW\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP aseveró/NN que/NN las/NNS)\n  (PP autoridades/IN (NP federales/NNS))\n  (VP continúan/VBP investigando/JJ)\n  el/FW\n  (NP asesinato/NN)\n  (PP de/IN (NP Catalán/NNP y/NNP reiteró/NN que/NN las/NNS))\n  (VP pesquisas/VBP)\n  (VP están/VB (NP a/DT cargo/NN))\n  de/IN\n  la/FW\n  (NP Fiscalía/NNP General/NNP de/NNP la/NNP República/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Alcalde/NNP)\n  de/FW\n  (NP Chilpancingo/NNP)\n  ,/,\n  (NP México/NNP)\n  ,/,\n  (NP fue/NN)\n  (VP asesinado/VBD (NP a/DT una/JJ semana/NN))\n  de/IN\n  haber/FW\n  (NP asumido/JJ el/NN cargo/NN Por/NNP otra/NNP parte/NN)\n  ,/,\n  el/FW\n  (NP secretario/NN)\n  (PP de/IN (NP Seguridad/NNP y/NNP Protección/NNP Ciudadana/NNP))\n  ,/,\n  (NP Omar/NNP García/NNP Harfuch/NNP)\n  ,/,\n  (VP dio/VBZ (NP a/DT conocer/NN que/NN))\n  (VP el/VBP (NP alcalde/JJ al/NN momento/NN))\n  de/IN\n  su/FW\n  muerte/FW\n  “/FW\n  (NP no/DT contaba/NN con/NN protección/NN)\n  de/IN\n  la/FW\n  (NP Guardia/NNP Nacional/NNP)\n  ,/,\n  (NP pero/NN tampoco/NN fue/NN solicitada/NN ”/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Las/NNP solicitudes/NNS)\n  (VP llegan/VBP (NP a/DT la/NN Secretaría/NNP))\n  (PP de/IN (NP Seguridad/NNP y/NNP))\n  (VP se/VBD)\n  turnan/RP\n  (NP a/DT las/JJ áreas/JJ correspondientes/NNS)\n  ,/,\n  (NP a/DT veces/NNS)\n  (NP a/DT la/NN Secretaría/NNP)\n  de/IN\n  la/FW\n  (NP Defensa/NNP Nacional/NNP)\n  ,/,\n  (NP a/DT veces/NNS)\n  (NP a/DT otras/JJ instituciones/NNS)\n  ,/,\n  en/FW\n  (NP este/NN caso/NN)\n  ,/,\n  de/FW\n  la/FW\n  persona/FW\n  (VP referida/VBZ (NP no/DT había/NN) ninguna/RB)\n  (VP solicitud/VBD)\n  de/FW\n  seguridad/FW\n  ”/FW\n  ,/,\n  (NP agregó/NN)\n  ./.)",
+      "(S\n  (NP García/NNP)\n  (VP dio/VBZ (NP a/DT conocer/NN que/NN han/NN))\n  (VP estado/VBP)\n  en/FW\n  (NP contacto/NN permanente/NN con/NN la/NN)\n  gobernadora/FW\n  del/FW\n  estado/FW\n  de/FW\n  (NP Guerrero/NNP)\n  ,/,\n  (NP Evelyn/NNP Salgado/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP afirmó/NN “/NNP)\n  (VP estamos/VBZ (NP apoyando/JJ las/NNS investigaciones/NNS))\n  (VP requeridas/VBP y/RB)\n  (VP\n    vamos/VBP\n    (NP\n      a/DT\n      continuar/NN\n      trabajando/NN\n      para/NN\n      solucionar/NN\n      este/NN\n      caso/NN\n      y/NN\n      detener/NN)\n    (NP a/DT los/NN))\n  (VP responsables/VBZ (NP ”/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          986,
+          992
+        ],
+        "start": 986,
+        "end": 992
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          722,
+          729
+        ],
+        "start": 722,
+        "end": 729
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          69,
+          89
+        ],
+        "start": 69,
+        "end": 89
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          83,
+          89
+        ],
+        "start": 83,
+        "end": 89
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado en",
+        "position": [
+          887,
+          896
+        ],
+        "start": 887,
+        "end": 896
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "más tarde",
+        "position": [
+          1473,
+          1482
+        ],
+        "start": 1473,
+        "end": 1482
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "3000 personas",
+        "position": [
+          1572,
+          1585
+        ],
+        "start": 1572,
+        "end": 1585
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Catalán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palacio Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alcalde de Chilpancingo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guerrero",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Omar García Harfuch",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Evelyn Salgado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Petaquillas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Seguridad y Protección Ciudadana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zócalo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sale de Chilpancingo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Petaquillas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chilpancingo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guardia Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "García",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Secretaría de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Secretaría de la Defensa Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía General de la República",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Palacio Nacional",
+        "relacion": "ASEVERAR",
+        "objeto": "Catalán"
+      },
+      {
+        "sujeto": "Palacio Nacional",
+        "relacion": "ASEVERAR",
+        "objeto": "Fiscalía General de la República"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ASEVERAR",
+        "objeto": "Catalán"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ASEVERAR",
+        "objeto": "Fiscalía General de la República"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "ASEVERAR",
+        "objeto": "Catalán"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "ASEVERAR",
+        "objeto": "Fiscalía General de la República"
+      },
+      {
+        "sujeto": "Catalán",
+        "relacion": "INVESTIGAR_CONTINUAR_ASEVERAR",
+        "objeto": "Fiscalía General de la República"
+      },
+      {
+        "sujeto": "Alcalde de Chilpancingo",
+        "relacion": "ASESINAR",
+        "objeto": "Seguridad y Protección Ciudadana"
+      },
+      {
+        "sujeto": "Alcalde de Chilpancingo",
+        "relacion": "ASESINAR",
+        "objeto": "Omar García Harfuch"
+      },
+      {
+        "sujeto": "Alcalde de Chilpancingo",
+        "relacion": "ASESINAR",
+        "objeto": "Guardia Nacional"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ASESINAR",
+        "objeto": "Seguridad y Protección Ciudadana"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ASESINAR",
+        "objeto": "Omar García Harfuch"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ASESINAR",
+        "objeto": "Guardia Nacional"
+      },
+      {
+        "sujeto": "Seguridad y Protección Ciudadana",
+        "relacion": "DAR_ASESINAR",
+        "objeto": "Guardia Nacional"
+      },
+      {
+        "sujeto": "Omar García Harfuch",
+        "relacion": "DAR_ASESINAR",
+        "objeto": "Guardia Nacional"
+      },
+      {
+        "sujeto": "Secretaría de Seguridad",
+        "relacion": "LLEGAR_AGREGAR",
+        "objeto": "Secretaría de la Defensa Nacional"
+      },
+      {
+        "sujeto": "García",
+        "relacion": "DAR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "García",
+        "relacion": "DAR",
+        "objeto": "Evelyn Salgado"
+      },
+      {
+        "sujeto": "Seguridad y Protección Ciudadana",
+        "relacion": "EXPRESAR",
+        "objeto": "Chilpancingo"
+      },
+      {
+        "sujeto": "Seguridad y Protección Ciudadana",
+        "relacion": "EXPRESAR",
+        "objeto": "Petaquillas"
+      },
+      {
+        "sujeto": "Seguridad y Protección Ciudadana",
+        "relacion": "EXPRESAR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "Chilpancingo",
+        "relacion": "DIRIGIR_EXPRESAR",
+        "objeto": "Petaquillas"
+      },
+      {
+        "sujeto": "Chilpancingo",
+        "relacion": "DIRIGIR_EXPRESAR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "Chilpancingo",
+        "relacion": "REUNIR",
+        "objeto": "Zócalo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9349,
+    "pos": 0.0,
+    "neu": 0.939,
+    "neg": 0.061,
+    "label": "negative"
+  }
+}

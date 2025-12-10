@@ -1,0 +1,753 @@
+{
+  "url": "https://www.telesurtv.net/hezbola-confirma-ataques-contra-un-centro-de-inteligencia-y-una-base-naval-de-israel/",
+  "title": "Hezbolá confirma ataques contra un centro de inteligencia y una base naval de Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Contra Israel",
+    "Hezbolá",
+    "Resistencia Libanesa"
+  ],
+  "text": "Como parte de sus ataques contra puestos militares israelíes, el movimiento de resistencia libanés, Hezbolá confirmó este martes el ataque con cohetes a un centro de inteligencia israelí en las cercanías de Tel Aviv, y una base naval cerca de la localidad de Haifa.\nHezbolá anunció que lanzó varios cohetes contra “la base Glilot de la Unidad 8200 de Inteligencia Militar” y también indicó haber disparado misiles a la base naval de Stella Maris en el noroeste de la ciudad portuaria de Haifa.\nLa resistencia libanesa comentó que los ataques a las posiciones militares israelíes estuvieron enmarcados en la operación Jeybar y reiteraron que las agresiones se dieron “en defensa del Líbano y su pueblo, y en respuesta a los ataques del régimen israelí contra poblaciones y civiles”.\nLa unidad de inteligencia militar 8200 del ejército israelí se considera una de las instituciones más importantes relacionadas con el aparato de espionaje del país.\nSegún Hezbolá, la base Glilot de inteligencia militar actúa en el campo cibernético, por lo que sus datos son usados por los mecanismos militares y de inteligencia de los sionistas.\nA lo largo del lunes, el movimiento de resistencia libanesa lanzó una serie de ataques contra los asentamientos y los blancos israelíes en el norte de los territorios palestinos ocupados.\nEn las últimas semanas, Israel ha intensificado sus ataques contra el Líbano y en respuesta de estas agresiones, Hezbolá ha lanzado cohetes contra varios puntos del territorio israelí en apoyo al pueblo palestino y libanés.\nDesde el pasado octubre, los ataques de Israel contra el Líbano han dejado al menos 2.464 muertos y 11.530 heridos, según el Ministerio de Salud libanés.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hezbola-confirma-ataques-contra-un-centro-de-inteligencia-y-una-base-naval-de-israel/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 695,
+    "message_id": 78862,
+    "date": "2024-10-22T06:55:07+00:00",
+    "text": "teleSUR\nHezbolá confirma ataques contra un centro de inteligencia y una base naval de Israel\nhttps://www.telesurtv.net/hezbola-confirma-ataques-contra-un-centro-de-inteligencia-y-una-base-naval-de-israel/",
+    "photo_path": null,
+    "views": 2823,
+    "reactions": {
+      "👏": 47,
+      "👍": 7,
+      "🔥": 4
+    },
+    "total_reactions": 58
+  },
+  "preprocessing": {
+    "cleaned": "como parte de sus ataques contra puestos militares israelíes, el movimiento de resistencia libanés, hezbolá confirmó este martes el ataque con cohetes a un centro de inteligencia israelí en las cercanías de tel aviv, y una base naval cerca de la localidad de haifa. hezbolá anunció que lanzó varios cohetes contra “la base glilot de la unidad 8200 de inteligencia militar” y también indicó haber disparado misiles a la base naval de stella maris en el noroeste de la ciudad portuaria de haifa. la resistencia libanesa comentó que los ataques a las posiciones militares israelíes estuvieron enmarcados en la operación jeybar y reiteraron que las agresiones se dieron “en defensa del líbano y su pueblo, y en respuesta a los ataques del régimen israelí contra poblaciones y civiles”. la unidad de inteligencia militar 8200 del ejército israelí se considera una de las instituciones más importantes relacionadas con el aparato de espionaje del país. según hezbolá, la base glilot de inteligencia militar actúa en el campo cibernético, por lo que sus datos son usados por los mecanismos militares y de inteligencia de los sionistas. a lo largo del lunes, el movimiento de resistencia libanesa lanzó una serie de ataques contra los asentamientos y los blancos israelíes en el norte de los territorios palestinos ocupados. en las últimas semanas, israel ha intensificado sus ataques contra el líbano y en respuesta de estas agresiones, hezbolá ha lanzado cohetes contra varios puntos del territorio israelí en apoyo al pueblo palestino y libanés. desde el pasado octubre, los ataques de israel contra el líbano han dejado al menos 2.464 muertos y 11.530 heridos, según el ministerio de salud libanés.",
+    "tokens": [
+      "parte",
+      "ataques",
+      "puestos",
+      "militares",
+      "israelíes",
+      ",",
+      "movimiento",
+      "resistencia",
+      "libanés",
+      ",",
+      "hezbolá",
+      "confirmó",
+      "martes",
+      "ataque",
+      "cohetes",
+      "centro",
+      "inteligencia",
+      "israelí",
+      "cercanías",
+      "tel",
+      "aviv",
+      ",",
+      "base",
+      "naval",
+      "cerca",
+      "localidad",
+      "haifa",
+      ".",
+      "hezbolá",
+      "anunció",
+      "lanzó",
+      "varios",
+      "cohetes",
+      "“",
+      "base",
+      "glilot",
+      "unidad",
+      "8200",
+      "inteligencia",
+      "militar",
+      "”",
+      "indicó",
+      "haber",
+      "disparado",
+      "misiles",
+      "base",
+      "naval",
+      "stella",
+      "maris",
+      "noroeste",
+      "ciudad",
+      "portuaria",
+      "haifa",
+      ".",
+      "resistencia",
+      "libanesa",
+      "comentó",
+      "ataques",
+      "posiciones",
+      "militares",
+      "israelíes",
+      "enmarcados",
+      "operación",
+      "jeybar",
+      "reiteraron",
+      "agresiones",
+      "dieron",
+      "“",
+      "defensa",
+      "líbano",
+      "pueblo",
+      ",",
+      "respuesta",
+      "ataques",
+      "régimen",
+      "israelí",
+      "poblaciones",
+      "civiles",
+      "”",
+      ".",
+      "unidad",
+      "inteligencia",
+      "militar",
+      "8200",
+      "ejército",
+      "israelí",
+      "considera",
+      "instituciones",
+      "importantes",
+      "relacionadas",
+      "aparato",
+      "espionaje",
+      "país",
+      ".",
+      "según",
+      "hezbolá",
+      ",",
+      "base",
+      "glilot",
+      "inteligencia",
+      "militar",
+      "actúa",
+      "campo",
+      "cibernético",
+      ",",
+      "datos",
+      "usados",
+      "mecanismos",
+      "militares",
+      "inteligencia",
+      "sionistas",
+      ".",
+      "largo",
+      "lunes",
+      ",",
+      "movimiento",
+      "resistencia",
+      "libanesa",
+      "lanzó",
+      "serie",
+      "ataques",
+      "asentamientos",
+      "blancos",
+      "israelíes",
+      "norte",
+      "territorios",
+      "palestinos",
+      "ocupados",
+      ".",
+      "últimas",
+      "semanas",
+      ",",
+      "israel",
+      "intensificado",
+      "ataques",
+      "líbano",
+      "respuesta",
+      "agresiones",
+      ",",
+      "hezbolá",
+      "lanzado",
+      "cohetes",
+      "varios",
+      "puntos",
+      "territorio",
+      "israelí",
+      "apoyo",
+      "pueblo",
+      "palestino",
+      "libanés",
+      ".",
+      "pasado",
+      "octubre",
+      ",",
+      "ataques",
+      "israel",
+      "líbano",
+      "dejado",
+      "menos",
+      "2.464",
+      "muertos",
+      "11.530",
+      "heridos",
+      ",",
+      "según",
+      "ministerio",
+      "salud",
+      "libanés",
+      "."
+    ],
+    "token_count": 169,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 77,
+      "FW": 57,
+      "NNS": 25,
+      "VBP": 15,
+      "JJ": 27,
+      "VBZ": 4,
+      "IN": 13,
+      "CD": 4,
+      "RB": 1,
+      "VBD": 2,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-FW": 5,
+      "FW-FW": 33,
+      "FW-NNS": 5,
+      "NNS-VBP": 15,
+      "VBP-JJ": 8,
+      "JJ-NNS": 7,
+      "JJ-FW": 3,
+      "FW-NNP": 10,
+      "NN-NN": 38,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-JJ": 4,
+      "JJ-NN": 11,
+      "NN-NNS": 7,
+      "NNS-JJ": 2,
+      "NN-IN": 9,
+      "IN-FW": 8,
+      "FW-NN": 8,
+      "NNP-NNP": 8,
+      "NNP-JJ": 1,
+      "NN-JJ": 6,
+      "NNS-VBZ": 1,
+      "NN-NNP": 6,
+      "NNP-IN": 2,
+      "NNP-CD": 1,
+      "CD-IN": 1,
+      "IN-NNP": 2,
+      "NNP-FW": 5,
+      "VBP-NNS": 3,
+      "NNS-NNS": 2,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "NNS-FW": 2,
+      "IN-NN": 1,
+      "NNS-NNP": 2,
+      "NN-CD": 2,
+      "CD-NN": 3,
+      "VBP-NN": 2,
+      "VBP-FW": 1,
+      "FW-JJ": 1,
+      "IN-NNS": 1,
+      "JJ-NNP": 2,
+      "IN-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NNS-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "IN-FW-FW": 3,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNS": 3,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 2,
+      "NNP-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NN-NN-NN": 19,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "JJ-NNS-FW": 2,
+      "NNS-FW-NN": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NN-NN-IN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "VBP-NNS-VBP": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NNP-NNP-NNP": 1,
+      "NNP-NN-NNP": 3,
+      "JJ-NN-NN": 2,
+      "NNS-FW-FW": 1,
+      "VBP-JJ-NN": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "VBZ-JJ-NNS": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "FW": 57,
+        "NNP": 32,
+        "JJ": 27,
+        "NNS": 25
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 33,
+        "NNS-VBP": 15,
+        "NNP-NN": 13,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 21,
+        "NN-NN-NN": 19,
+        "NNS-VBP-JJ": 8,
+        "NNP-NN-NN": 8,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 25,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0351
+      },
+      {
+        "rule": "VP -> ('contra', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Hezbolá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('cohetes', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Haifa', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('sus', 'FW') NP VP VP (',', ',') ('el', 'FW') ('movimiento', 'FW') ('de', 'FW') ('resistencia', 'FW') NP (',', ',') NP VP VP VP ('de', 'IN') ('inteligencia', 'FW') NP ('en', 'FW') ('las', 'FW') ('cercanías', 'FW') ('de', 'FW') NP (',', ',') NP NP NP ('de', 'IN') ('la', 'FW') ('localidad', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Como', 'NNP') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Como parte"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "contra puestos militares"
+      },
+      {
+        "label": "NP",
+        "text": "puestos militares"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "libanés"
+      },
+      {
+        "label": "NP",
+        "text": "Hezbolá"
+      },
+      {
+        "label": "VP",
+        "text": "confirmó este martes"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "el ataque con"
+      },
+      {
+        "label": "NP",
+        "text": "ataque con"
+      },
+      {
+        "label": "VP",
+        "text": "cohetes a un centro"
+      },
+      {
+        "label": "NP",
+        "text": "a un centro"
+      },
+      {
+        "label": "NP",
+        "text": "israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Como/NNP parte/NN)\n  de/FW\n  sus/FW\n  (NP ataques/NNS)\n  (VP contra/VBP (NP puestos/JJ militares/NNS))\n  (VP israelíes/VBP)\n  ,/,\n  el/FW\n  movimiento/FW\n  de/FW\n  resistencia/FW\n  (NP libanés/NN)\n  ,/,\n  (NP Hezbolá/NNP)\n  (VP confirmó/VBZ (NP este/NN martes/NNS))\n  (VP el/VBP (NP ataque/JJ con/NN))\n  (VP cohetes/VBZ (NP a/DT un/JJ centro/NN))\n  de/IN\n  inteligencia/FW\n  (NP israelí/NN)\n  en/FW\n  las/FW\n  cercanías/FW\n  de/FW\n  (NP Tel/NNP Aviv/NNP)\n  ,/,\n  (NP y/NNP)\n  (NP una/JJ base/NN)\n  (NP naval/JJ cerca/NN)\n  de/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Haifa/NNP)\n  ./.)",
+      "(S\n  (NP Hezbolá/NNP anunció/NN que/NN)\n  (NP lanzó/JJ varios/NNS)\n  (VP cohetes/VBZ (NP contra/JJ “/NNP la/NN base/NN Glilot/NNP))\n  de/IN\n  la/FW\n  (NP Unidad/NNP)\n  8200/CD\n  (PP\n    de/IN\n    (NP\n      Inteligencia/NNP\n      Militar/NNP\n      ”/NNP\n      y/NNP\n      también/NN\n      indicó/NN\n      haber/NN\n      disparado/NN))\n  (VP misiles/VBZ (NP a/DT la/JJ base/NN naval/NN))\n  (PP de/IN (NP Stella/NNP Maris/NNP))\n  en/FW\n  el/FW\n  noroeste/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  portuaria/FW\n  de/FW\n  (NP Haifa/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP resistencia/VBZ (NP libanesa/JJ comentó/NN que/NN los/NN))\n  (VP ataques/VBZ (NP a/DT las/JJ posiciones/NNS militares/NNS))\n  (VP israelíes/VBP estuvieron/RB enmarcados/JJ)\n  en/FW\n  la/FW\n  operación/FW\n  (NP Jeybar/NNP y/NN reiteraron/NN que/NN)\n  (NP las/JJ agresiones/NNS)\n  se/FW\n  (NP dieron/NN “/NN)\n  (PP en/IN (NP defensa/NN del/NN Líbano/NNP y/NNP su/NN pueblo/NN))\n  ,/,\n  y/CC\n  en/FW\n  respuesta/FW\n  (NP a/DT los/NN)\n  (VP ataques/VBZ)\n  del/FW\n  (NP régimen/NNS)\n  (VP israelí/VBP (NP contra/JJ poblaciones/NNS))\n  (VP y/VBP (NP civiles/NNS ”/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  unidad/FW\n  de/FW\n  inteligencia/FW\n  (NP militar/NN)\n  8200/CD\n  (NP del/NN ejército/NN israelí/NN se/NN considera/NN una/NN)\n  de/IN\n  las/FW\n  (NP instituciones/NNS)\n  (VP más/VBP (NP importantes/NNS))\n  (VP relacionadas/VBP (NP con/NN el/NN aparato/NN))\n  de/IN\n  espionaje/FW\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP Hezbolá/NNP)\n  ,/,\n  (NP la/JJ base/NN Glilot/NNP)\n  de/IN\n  inteligencia/FW\n  (NP militar/NN actúa/NN)\n  en/IN\n  el/FW\n  (NP campo/NN cibernético/NN)\n  ,/,\n  (NP por/NN lo/NN que/NN sus/NN datos/NN son/NN)\n  (NP usados/JJ por/NN los/NN mecanismos/NN militares/NNS)\n  (VP y/VBP)\n  de/IN\n  inteligencia/FW\n  de/FW\n  los/FW\n  (NP sionistas/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques contra puestos militares israelíes",
+        "position": [
+          18,
+          60
+        ],
+        "start": 18,
+        "end": 60
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          274,
+          281
+        ],
+        "start": 274,
+        "end": 281
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          670,
+          677
+        ],
+        "start": 670,
+        "end": 677
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          179,
+          186
+        ],
+        "start": 179,
+        "end": 186
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          156,
+          165
+        ],
+        "start": 156,
+        "end": 165
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jeybar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Glilot de la",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haifa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unidad 8200 de Inteligencia Militar",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Stella Maris",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "CONFIRMAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "CONFIRMAR",
+        "objeto": "Haifa"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "CONFIRMAR",
+        "objeto": "Haifa"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ANUNCIAR",
+        "objeto": "Glilot de la"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ANUNCIAR",
+        "objeto": "Unidad 8200 de Inteligencia Militar"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ANUNCIAR",
+        "objeto": "Stella Maris"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ANUNCIAR",
+        "objeto": "Haifa"
+      },
+      {
+        "sujeto": "Glilot de la",
+        "relacion": "LANZAR_ANUNCIAR",
+        "objeto": "Stella Maris"
+      },
+      {
+        "sujeto": "Glilot de la",
+        "relacion": "LANZAR_ANUNCIAR",
+        "objeto": "Haifa"
+      },
+      {
+        "sujeto": "Unidad 8200 de Inteligencia Militar",
+        "relacion": "LANZAR_ANUNCIAR",
+        "objeto": "Stella Maris"
+      },
+      {
+        "sujeto": "Unidad 8200 de Inteligencia Militar",
+        "relacion": "LANZAR_ANUNCIAR",
+        "objeto": "Haifa"
+      },
+      {
+        "sujeto": "Stella Maris",
+        "relacion": "DISPARAR_INDICAR_ANUNCIAR",
+        "objeto": "Haifa"
+      },
+      {
+        "sujeto": "Jeybar",
+        "relacion": "COMENTAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INTENSIFICAR",
+        "objeto": "el Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "INTENSIFICAR",
+        "objeto": "el Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR",
+        "objeto": "Ministerio de Salud"
+      },
+      {
+        "sujeto": "el Líbano",
+        "relacion": "DEJAR",
+        "objeto": "Ministerio de Salud"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.018,
+    "neu": 0.982,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "url": "https://www.telesurtv.net/nicaragua-continuara-defensa-de-palestina-ante-la-corte-internacional-de-justicia/",
+  "title": "Nicaragua continuará defensa de Palestina ante la Corte Internacional de Justicia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "apoyo",
+    "CIJ",
+    "DDHH",
+    "demanda",
+    "humanidad",
+    "Israel",
+    "Nicaragua",
+    "Palestina",
+    "solidaridad"
+  ],
+  "text": "La decisión fue enunciada por medio de un comunicado emitido este jueves 10 de abril de 2025. La determinación revierte el anuncio del 1 de abril de 2025, en el que se informaba sobre la descontinuación de los procesos por limitaciones financieras.\nLa reconsideración se fundamenta en el reciente recrudecimiento de las violaciones contra el pueblo palestino y los servicios humanitarios internacionales, evidenciando un “atropello al Derecho Internacional por parte de Israel”, con la complicidad de algunos países occidentales que mantienen su apoyo político, económico y militar, según un comunicado oficial.\n\n\n\n\n“En vista de lo anterior, haciendo un gran esfuerzo, Nicaragua ha decidido notificar a la Corte Internacional de Justicia que desea continuar con los procesos judiciales por las violaciones de los Derechos del Pueblo Palestino”, señala la nota del gobierno nicaragüense.\n\n\nLa decisión también se tomó en consideración de los ofrecimientos de ayuda y colaboración recibidos para poder continuar con estos procesos ante la Corte Internacional. El Gobierno de Nicaragua reafirmó su “firme compromiso con el Estado de Derecho a Nivel Internacional y la solución pacífica de controversias entre Estados“.\n\n\n\n\nEn su comunicado inicial del 1º de abril, Nicaragua había explicado que la decisión de descontinuar los procesos radicados ante la CIJ se debía al alto costo financiero que implicaba para un país en desarrollo con restricciones económicas. Sin embargo, la escalada de las agresiones contra Palestina motivó este cambio de postura.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nicaragua-continuara-defensa-de-palestina-ante-la-corte-internacional-de-justicia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1337,
+    "message_id": 91578,
+    "date": "2025-04-10T19:55:35+00:00",
+    "text": "teleSUR\nNicaragua continuará defensa de Palestina ante la Corte Internacional de Justicia\nhttps://www.telesurtv.net/nicaragua-continuara-defensa-de-palestina-ante-la-corte-internacional-de-justicia/",
+    "photo_path": null,
+    "views": 1489,
+    "reactions": {
+      "👍": 33,
+      "👏": 13
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "la decisión fue enunciada por medio de un comunicado emitido este jueves 10 de abril de 2025. la determinación revierte el anuncio del 1 de abril de 2025, en el que se informaba sobre la descontinuación de los procesos por limitaciones financieras. la reconsideración se fundamenta en el reciente recrudecimiento de las violaciones contra el pueblo palestino y los servicios humanitarios internacionales, evidenciando un “atropello al derecho internacional por parte de israel”, con la complicidad de algunos países occidentales que mantienen su apoyo político, económico y militar, según un comunicado oficial. “en vista de lo anterior, haciendo un gran esfuerzo, nicaragua ha decidido notificar a la corte internacional de justicia que desea continuar con los procesos judiciales por las violaciones de los derechos del pueblo palestino”, señala la nota del gobierno nicaragüense. la decisión también se tomó en consideración de los ofrecimientos de ayuda y colaboración recibidos para poder continuar con estos procesos ante la corte internacional. el gobierno de nicaragua reafirmó su “firme compromiso con el estado de derecho a nivel internacional y la solución pacífica de controversias entre estados“. en su comunicado inicial del 1º de abril, nicaragua había explicado que la decisión de descontinuar los procesos radicados ante la cij se debía al alto costo financiero que implicaba para un país en desarrollo con restricciones económicas. sin embargo, la escalada de las agresiones contra palestina motivó este cambio de postura.",
+    "tokens": [
+      "decisión",
+      "enunciada",
+      "medio",
+      "comunicado",
+      "emitido",
+      "jueves",
+      "10",
+      "abril",
+      "2025.",
+      "determinación",
+      "revierte",
+      "anuncio",
+      "1",
+      "abril",
+      "2025",
+      ",",
+      "informaba",
+      "descontinuación",
+      "procesos",
+      "limitaciones",
+      "financieras",
+      ".",
+      "reconsideración",
+      "fundamenta",
+      "reciente",
+      "recrudecimiento",
+      "violaciones",
+      "pueblo",
+      "palestino",
+      "servicios",
+      "humanitarios",
+      "internacionales",
+      ",",
+      "evidenciando",
+      "“",
+      "atropello",
+      "derecho",
+      "internacional",
+      "parte",
+      "israel",
+      "”",
+      ",",
+      "complicidad",
+      "países",
+      "occidentales",
+      "mantienen",
+      "apoyo",
+      "político",
+      ",",
+      "económico",
+      "militar",
+      ",",
+      "según",
+      "comunicado",
+      "oficial",
+      ".",
+      "“",
+      "vista",
+      "anterior",
+      ",",
+      "haciendo",
+      "gran",
+      "esfuerzo",
+      ",",
+      "nicaragua",
+      "decidido",
+      "notificar",
+      "corte",
+      "internacional",
+      "justicia",
+      "desea",
+      "continuar",
+      "procesos",
+      "judiciales",
+      "violaciones",
+      "derechos",
+      "pueblo",
+      "palestino",
+      "”",
+      ",",
+      "señala",
+      "nota",
+      "gobierno",
+      "nicaragüense",
+      ".",
+      "decisión",
+      "tomó",
+      "consideración",
+      "ofrecimientos",
+      "ayuda",
+      "colaboración",
+      "recibidos",
+      "poder",
+      "continuar",
+      "procesos",
+      "corte",
+      "internacional",
+      ".",
+      "gobierno",
+      "nicaragua",
+      "reafirmó",
+      "“",
+      "firme",
+      "compromiso",
+      "derecho",
+      "nivel",
+      "internacional",
+      "solución",
+      "pacífica",
+      "controversias",
+      "“",
+      ".",
+      "comunicado",
+      "inicial",
+      "1º",
+      "abril",
+      ",",
+      "nicaragua",
+      "explicado",
+      "decisión",
+      "descontinuar",
+      "procesos",
+      "radicados",
+      "cij",
+      "debía",
+      "alto",
+      "costo",
+      "financiero",
+      "implicaba",
+      "país",
+      "desarrollo",
+      "restricciones",
+      "económicas",
+      ".",
+      "embargo",
+      ",",
+      "escalada",
+      "agresiones",
+      "palestina",
+      "motivó",
+      "cambio",
+      "postura",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "VBZ": 2,
+      "JJ": 19,
+      "NN": 87,
+      "IN": 12,
+      "CD": 4,
+      "FW": 56,
+      "NNS": 9,
+      "VBP": 7
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-NN": 13,
+      "NN-NN": 56,
+      "NN-IN": 7,
+      "IN-JJ": 2,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-IN": 2,
+      "IN-FW": 6,
+      "FW-FW": 35,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "NNP-FW": 6,
+      "FW-NN": 4,
+      "NN-FW": 7,
+      "FW-JJ": 3,
+      "JJ-FW": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-FW": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 7,
+      "VBP-NNP": 3,
+      "FW-NNS": 3,
+      "VBP-JJ": 4,
+      "NN-JJ": 8,
+      "JJ-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-NNS": 1,
+      "NN-NNP": 3,
+      "NNP-NNP": 9,
+      "NNP-NN": 13,
+      "IN-NNP": 2,
+      "JJ-NNP": 2,
+      "FW-NNP": 9,
+      "NNS-IN": 1,
+      "NNP-IN": 1,
+      "NN-CD": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 35,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 26,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 12,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "NN-NNP-NN": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "FW-NNP-NNP": 4,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "FW-FW-NNP": 2,
+      "JJ-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "JJ-NN-IN": 1,
+      "VBP-NNP-NN": 2,
+      "NN-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 87,
+        "FW": 56,
+        "NNP": 30,
+        "JJ": 19,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 35,
+        "JJ-NN": 13,
+        "NNP-NN": 13,
+        "NNP-NNP": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 26,
+        "NNP-NN-NN": 12,
+        "JJ-NN-NN": 7,
+        "NN-NN-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 51,
+      "VP": 13,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0633
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0506
+      },
+      {
+        "rule": "VP -> ('decisión', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('Nicaragua', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP VP PP VP ('10', 'CD') ('de', 'IN') ('abril', 'FW') ('de', 'IN') ('2025', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('fue', 'JJ') ('enunciada', 'NN') ('por', 'NN') ('medio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN') ('emitido', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('jueves', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "S -> NP VP ('el', 'FW') ADJP ('del', 'FW') ('1', 'CD') ('de', 'FW') ('abril', 'FW') ('de', 'IN') ('2025', 'CD') (',', ',') ('en', 'FW') ('el', 'FW') ('que', 'FW') ('se', 'FW') ('informaba', 'FW') ('sobre', 'FW') ('la', 'FW') ('descontinuación', 'FW') ('de', 'FW') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('determinación', 'VBZ') ('revierte', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "decisión fue enunciada por medio"
+      },
+      {
+        "label": "NP",
+        "text": "fue enunciada por medio"
+      },
+      {
+        "label": "PP",
+        "text": "de un comunicado emitido este"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado emitido este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "determinación revierte"
+      },
+      {
+        "label": "ADJP",
+        "text": "anuncio"
+      },
+      {
+        "label": "NP",
+        "text": "procesos por limitaciones financieras"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "violaciones"
+      },
+      {
+        "label": "VP",
+        "text": "contra el pueblo palestino y los servicios humanitarios internacionales"
+      },
+      {
+        "label": "NP",
+        "text": "el pueblo palestino y"
+      },
+      {
+        "label": "NP",
+        "text": "los servicios humanitarios internacionales"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP decisión/VBZ (NP fue/JJ enunciada/NN por/NN medio/NN))\n  (PP de/IN (NP un/JJ comunicado/NN emitido/NN este/NN))\n  (VP jueves/VBZ)\n  10/CD\n  de/IN\n  abril/FW\n  de/IN\n  2025/CD\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP determinación/VBZ revierte/JJ)\n  el/FW\n  (ADJP anuncio/JJ)\n  del/FW\n  1/CD\n  de/FW\n  abril/FW\n  de/IN\n  2025/CD\n  ,/,\n  en/FW\n  el/FW\n  que/FW\n  se/FW\n  informaba/FW\n  sobre/FW\n  la/FW\n  descontinuación/FW\n  de/FW\n  los/FW\n  (NP procesos/JJ por/NN limitaciones/NNS financieras/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  reconsideración/FW\n  se/FW\n  fundamenta/FW\n  en/FW\n  el/FW\n  reciente/FW\n  recrudecimiento/FW\n  de/FW\n  las/FW\n  (NP violaciones/NNS)\n  (VP\n    contra/VBP\n    (NP el/JJ pueblo/NN palestino/NN y/NN)\n    (NP los/JJ servicios/JJ humanitarios/NNS internacionales/NNS))\n  ,/,\n  (VP\n    evidenciando/VBP\n    (NP\n      un/JJ\n      “/NNP\n      atropello/NN\n      al/NN\n      Derecho/NNP\n      Internacional/NNP\n      por/NN\n      parte/NN))\n  (PP de/IN (NP Israel/NNP ”/NNP))\n  ,/,\n  (NP con/NN)\n  la/FW\n  complicidad/FW\n  de/FW\n  algunos/FW\n  (NP países/NNS)\n  (VP\n    occidentales/VBP\n    (NP que/JJ mantienen/NN su/NN apoyo/NN político/NN))\n  ,/,\n  económico/FW\n  y/FW\n  (NP militar/NN)\n  ,/,\n  (NP según/JJ un/JJ comunicado/NN oficial/NN)\n  ./.)",
+      "(S\n  (NP “/NN En/NNP vista/NN)\n  de/FW\n  lo/FW\n  anterior/RB\n  ,/,\n  haciendo/PRP\n  (VP un/VBP (NP gran/JJ esfuerzo/NN))\n  ,/,\n  (NP Nicaragua/NNP)\n  (VP\n    ha/VBZ\n    (NP decidido/NN notificar/NN)\n    (NP a/DT la/NN Corte/NNP Internacional/NNP))\n  de/FW\n  (NP\n    Justicia/NNP\n    que/NN\n    desea/NN\n    continuar/NN\n    con/NN\n    los/NN\n    procesos/NN\n    judiciales/NNS)\n  (VP por/VBP (NP las/JJ violaciones/NNS))\n  de/IN\n  los/FW\n  (NP Derechos/NNP)\n  del/FW\n  (NP Pueblo/NNP Palestino/NNP ”/NNP)\n  ,/,\n  (NP señala/NN la/NN)\n  (NP nota/JJ del/NN gobierno/NN nicaragüense/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP decisión/VBZ (NP también/JJ se/NN tomó/NN))\n  en/FW\n  (NP consideración/NN)\n  de/IN\n  los/FW\n  ofrecimientos/FW\n  de/FW\n  ayuda/FW\n  y/FW\n  (NP\n    colaboración/NN\n    recibidos/NN\n    para/NN\n    poder/NN\n    continuar/NN\n    con/NN\n    estos/NN\n    procesos/NN\n    ante/NN)\n  la/FW\n  (NP Corte/NNP Internacional/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de nicaragua reafirmó",
+        "position": [
+          1061,
+          1091
+        ],
+        "start": 1061,
+        "end": 1091
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          1083,
+          1091
+        ],
+        "start": 1083,
+        "end": 1091
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          669,
+          678
+        ],
+        "start": 669,
+        "end": 678
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          1510,
+          1519
+        ],
+        "start": 1510,
+        "end": 1519
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1120,
+          1129
+        ],
+        "start": 1120,
+        "end": 1129
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "10 de abril de 2025",
+        "position": [
+          73,
+          92
+        ],
+        "start": 73,
+        "end": 92
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "jueves 10 de abril",
+        "position": [
+          66,
+          84
+        ],
+        "start": 66,
+        "end": 84
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1464,
+          1471
+        ],
+        "start": 1464,
+        "end": 1471
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos del pueblo",
+        "position": [
+          813,
+          832
+        ],
+        "start": 813,
+        "end": 832
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "1 de abril de 2025",
+        "position": [
+          135,
+          153
+        ],
+        "start": 135,
+        "end": 153
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "CIJ",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Corte Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado de Derecho a Nivel Internacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Derecho Internacional",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "DECIDIR_SE_ALAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "Gobierno de Nicaragua",
+        "relacion": "REAFIRMAR",
+        "objeto": "Estado de Derecho a Nivel Internacional"
+      },
+      {
+        "sujeto": "Gobierno de Nicaragua",
+        "relacion": "REAFIRMAR",
+        "objeto": "Estados"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "EXPLICAR",
+        "objeto": "CIJ"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.01,
+    "neu": 0.974,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}
