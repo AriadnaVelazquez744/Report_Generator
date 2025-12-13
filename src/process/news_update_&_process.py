@@ -39,6 +39,8 @@ from src.nlp.grammar_analyzer import GrammarAnalyzer
 from src.nlp.regex_annotator import RegexAnnotator
 from src.nlp.relation_extractor import RelationExtractor
 from src.nlp.sentiment_analyzer import SentimentAnalyzer
+from src.recommendation.vectorize_articles import vectorize_articles_directory
+from src.recommendation.vectorizer import NewsVectorizer
 
 load_dotenv()
 
@@ -268,6 +270,16 @@ def run_news_update() -> None:
         return
 
     process_nlp_for_dir(new_articles_dir)
+    
+    # Vectorizar artículos recién procesados
+    print(f"🔄 Vectorizando artículos...")
+    vectorizer = NewsVectorizer(max_features=3000, ngram_range=(1, 2))
+    vectorized_count = vectorize_articles_directory(
+        directory_path=str(new_articles_dir),
+        news_vectorizer=vectorizer
+    )
+    print(f"✅ {vectorized_count} artículos vectorizados")
+    
     save_last_update(utcnow())
     print(f"✅ Actualización completa. Nuevos artículos en: {new_articles_dir}")
 
