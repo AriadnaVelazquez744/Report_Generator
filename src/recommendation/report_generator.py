@@ -60,12 +60,12 @@ def _remove_noise_from_text(text: str) -> str:
 class ReportGenerator:
     """Generador de reportes personalizados de noticias"""
     
-    def __init__(self, summarizer: PersonalizedSummarizer):
+    def __init__(self, summarizer: Optional[PersonalizedSummarizer] = None):
         """
         Inicializa el generador de reportes
         
         Args:
-            summarizer: Resumidor personalizado
+            summarizer: Resumidor personalizado (opcional)
         """
         self.summarizer = summarizer
     
@@ -91,21 +91,16 @@ class ReportGenerator:
         report_items = []
         
         for article, score, justification in matched_articles[:max_articles]:
-            # Generar resumen personalizado - primero limpiar el texto de ruido
+            # Usar el texto original del artículo (sin resumen por ahora)
             article_text = article.get('text', '')
             article_text = _remove_noise_from_text(article_text)
-            summary = self.summarizer.summarize_for_profile(
-                article_text,
-                user_categories,
-                num_sentences=3
-            )
             
             report_item = {
                 'article_id': article.get('id'),
                 'title': article.get('title'),
                 'url': article.get('url'),
                 'section': article.get('section'),
-                'summary': summary,
+                'summary': article_text,
                 'score': score,
                 'justification': {
                     'matching_categories': justification.get('matching_categories', []),
