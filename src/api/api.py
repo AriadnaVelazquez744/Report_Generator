@@ -530,7 +530,7 @@ def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, s
     
     try:
         # Generar reporte en texto plano usando la función de report_formatter
-        text_report = generate_report_from_user_query(
+        structured_report, text_report = generate_report_from_user_query(
             user_id=payload.user_id,
             user_query=payload.user_input,
             profile_vectorizer=_profile_vectorizer,
@@ -545,6 +545,7 @@ def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, s
         logger.info("generate-text-report | completed in %.2fs total", time.monotonic() - t_start)
         
         return {
+            "structured_report": structured_report,
             "text_report": text_report,
             "status": "success"
         }

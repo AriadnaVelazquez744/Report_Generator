@@ -13,13 +13,12 @@ from src.process.news_recomendation import generate_report_recommendations
 logger = logging.getLogger(__name__)
 
 
-def generate_plain_text_report(
+def generate_text_report(
     recommendations_result: Dict[str, Any],
-    summarizer: Optional[PersonalizedSummarizer] = None,
     max_articles: int = 10,
     user_query: Optional[str] = None,
     user_name: Optional[str] = None
-) -> str:
+) -> Tuple[Dict, str]:
     """
     Genera un reporte en texto plano a partir del resultado de generate_report_recommendations.
     
@@ -28,7 +27,6 @@ def generate_plain_text_report(
             - matches: List[Tuple(article, score, details)]
             - user_profile: Dict
             - search_stats: Dict
-        summarizer: Instancia de PersonalizedSummarizer (opcional, no se usa por ahora)
         max_articles: Número máximo de artículos en el reporte
         user_query: Query/pregunta del usuario (opcional, se muestra en lugar del perfil)
         user_name: Nombre del usuario (opcional)
@@ -59,12 +57,33 @@ def generate_plain_text_report(
     report['search_stats'] = search_stats
     
     # Formatear como texto plano personalizado
-    return _format_report_text_custom(
+    text_report =  _format_report_text_custom(
         report,
         user_query=user_query,
         user_name=user_name,
         search_stats=search_stats
     )
+
+    articles = report.get('articles', [])
+    structured_report = {
+        "generated_at": report['generated_at'],
+        "categorías_de_interés": user_profile.get('categories', [])[:15],
+        "articles": [
+            {
+                "título": article['title'],
+                "sección": article['section'], 
+                "fecha": article.get('date'),
+                "sumario": article.get('summary', ''),
+                "url": article['url']
+            } for article in articles
+        ],
+        "articles_stats": [
+            report.get('total_articles', 0),
+            len(articles)
+        ]
+    }
+
+    return structured_report, text_report
 
 
 def _format_report_text_custom(
@@ -252,11 +271,10 @@ def generate_report_from_user_query(
     user_query: str,
     profile_vectorizer,
     matcher,
-    summarizer: Optional[PersonalizedSummarizer] = None,
     nlp=None,
     max_articles: int = 10,
     users_file_path: str = "Data/Data_users/users.json"
-) -> str:
+) -> Tuple[Dict, str]:
     """
     Función de conveniencia que orquesta todo el proceso:
     1. Genera recomendaciones (news_recomendation.generate_report_recommendations)
@@ -266,11 +284,8 @@ def generate_report_from_user_query(
     Args:
         user_id: ID del usuario
         user_query: Query/pregunta del usuario
-        text_processor: TextPreprocessor
-        annotator: RegexAnnotator
         profile_vectorizer: UserProfileVectorizer
         matcher: NewsMatcher
-        summarizer: PersonalizedSummarizer (opcional)
         nlp: Modelo spaCy (opcional)
         max_articles: Número máximo de artículos
         users_file_path: Ruta al archivo de usuarios
@@ -296,9 +311,8 @@ def generate_report_from_user_query(
     )
     
     # Generar reporte en texto plano
-    return generate_plain_text_report(
+    return generate_text_report(
         recommendations,
-        summarizer=summarizer,
         max_articles=max_articles,
         user_query=user_query,
         user_name=user_name
