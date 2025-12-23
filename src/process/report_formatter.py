@@ -13,6 +13,28 @@ from src.process.news_recomendation import generate_report_recommendations
 logger = logging.getLogger(__name__)
 
 
+def format_article_date(date_str: Optional[str]) -> str:
+    """
+    Formatea una fecha de artículo a un formato legible.
+    
+    Args:
+        date_str: Fecha en formato ISO (puede ser None o con timezone)
+        
+    Returns:
+        Fecha formateada como 'dd/mm/yyyy HH:MM' o 'Fecha no disponible'
+    """
+    if not date_str:
+        return 'Fecha no disponible'
+    
+    try:
+        # La fecha ya viene en formato ISO con timezone, solo parsear y formatear
+        dt = datetime.fromisoformat(date_str)
+        return dt.strftime('%d/%m/%Y %H:%M')
+    except (ValueError, TypeError) as e:
+        logger.warning(f"Error formateando fecha '{date_str}': {e}")
+        return 'Fecha no disponible'
+
+
 def generate_text_report(
     recommendations_result: Dict[str, Any],
     max_articles: int = 10,
@@ -66,15 +88,15 @@ def generate_text_report(
 
     articles = report.get('articles', [])
     structured_report = {
-        "generated_at": report['generated_at'],
-        "categorías_de_interés": user_profile.get('categories', [])[:15],
+        "generated_at": report.get('generated_at', ''),
+        "categories_of_interest": user_profile.get('categories', [])[:15] if user_profile else [],
         "articles": [
             {
-                "título": article['title'],
-                "sección": article['section'], 
-                "fecha": article.get('date'),
-                "sumario": article.get('summary', ''),
-                "url": article['url']
+                "title": article.get('title', 'Sin título'),
+                "section": article.get('section', 'Sin sección'), 
+                "date": format_article_date(article.get('date')),
+                "summary": article.get('summary', ''),
+                "url": article.get('url', '')
             } for article in articles
         ],
         "articles_stats": [
@@ -164,18 +186,18 @@ def _format_report_text_custom(
     articles = report.get('articles', [])
     for i, article in enumerate(articles, 1):
         # Título del artículo
-        lines.append(f"{i}. {article['title']}")
+        lines.append(f"{i}. {article.get('title', 'Sin título')}")
         
         # Metadata
-        lines.append(f"   Sección: {article['section']}")
+        lines.append(f"   Sección: {article.get('section', 'Sin sección')}")
         
         # Fecha si existe
         if article.get('date'):
             try:
-                article_date = datetime.fromisoformat(article['date'].replace('Z', '+00:00'))
+                article_date = datetime.fromisoformat(article.get('date'))
                 lines.append(f"   Fecha: {article_date.strftime('%d/%m/%Y')}")
             except:
-                pass
+                lines.append(f"   Fecha: {format_article_date(article.get('date'))}")
         
         lines.append("")
         
@@ -213,7 +235,7 @@ def _format_report_text_custom(
             lines.append(f"   ⭐ Entidades de tu interés: {matching_entities_text}")
         
         # URL
-        lines.append(f"   URL: {article['url']}")
+        lines.append(f"   URL: {article.get('url', '')}")
         
         # Separador entre artículos
         if i < len(articles):
