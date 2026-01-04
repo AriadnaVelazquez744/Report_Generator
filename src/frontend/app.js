@@ -117,7 +117,7 @@ function displayMessage(message) {
                 ${reportHtml}
                 <div class="report-actions">
                     ${message.report_data ?
-            `<div class="report-buttons">
+                `<div class="report-buttons">
                             <button class="btn-download" onclick="downloadReport(${JSON.stringify(message.report_data).replace(/"/g, '&quot;')})">
                                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                     <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
@@ -134,7 +134,7 @@ function displayMessage(message) {
                                 Ver en Navegador
                             </button>
                         </div>` :
-            ''}
+                ''}
                 </div>
                 <span class="message-time">${formatTime(message.timestamp)}</span>
             </div>
@@ -145,20 +145,18 @@ function displayMessage(message) {
     return messagesContainer.lastElementChild;
 }
 /**
- * Render report HTML
+ * Render report HTML (static version for saved messages)
  */
 function renderReport(report) {
     if (!report)
         return '<p>No hay datos del reporte</p>';
     let html = `
         <div class="report-header">
-            <h3>📰 Reporte Personalizado</h3>
-            <div class="report-meta">
-                <div class="meta-line">Generado: ${new Date(report.generated_at).toLocaleString('es-ES')}</div>
-                <div class="meta-line">Total de artículos en este reporte: ${report.articles_stats[1] || 0}</div>
-                <div class="meta-line">Total de artículos relevantes encontrados: ${report.articles_stats[0] || 0}</div>
-                <div class="meta-line">
-                    Categorías de Interés: ${report.categories_of_interest.map((cat) => `<span class="category-tag">${escapeHtml(cat)}</span>`).join('')}
+            <h3>📰 Reporte de Noticias</h3>
+            <div class="report-meta-grid">
+                <div class="meta-item">
+                    <span class="meta-label">Generado:</span>
+                    <span class="meta-value">${new Date(report.generated_at).toLocaleString('es-ES')}</span>
                 </div>
             </div>
         </div>
@@ -168,18 +166,16 @@ function renderReport(report) {
             html += `
                 <div class="article-card">
                     <div class="article-title">${index + 1}. ${escapeHtml(article.title || 'Sin título')}</div>
-                    <div class="article_date">
-                        Sección: ${escapeHtml(article.section || 'N/A')} 
-                    </div>
-                    <div class="article_date">
-                        Fecha de la noticia: ${new Date(report.date).toLocaleString('es-ES')}
+                    <div class="article-meta-info">
+                        <span class="category-tag">${escapeHtml(article.section || 'N/A')}</span>
+                        <span class="article-date-badge">${escapeHtml(article.date || 'Sin fecha')}</span>
                     </div>
                     <div class="article-summary">
-                        <strong>Resumen:</strong> ${escapeHtml(article.summary || 'Sin resumen')}
+                        <strong>Resumen:</strong> ${escapeHtml(article.summary || 'Sin resumen')} 
                     </div>
                     ${article.url ? `
                         <div class="article-link">
-                            <a href="${escapeHtml(article.url)}" target="_blank">Ver artículo completo →</a>
+                            <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">Ver artículo completo →</a>
                         </div>
                     ` : ''}
                 </div>
@@ -190,6 +186,161 @@ function renderReport(report) {
         html += '<p>No se encontraron artículos relevantes.</p>';
     }
     return html;
+}
+
+/**
+ * Display report with typing effect (article by article, summary word by word)
+ */
+async function displayReportWithTypingEffect(report, container) {
+    if (!report || !container) return;
+
+    // Create report wrapper
+    const reportDiv = document.createElement('div');
+    reportDiv.className = 'message message-report';
+    reportDiv.innerHTML = `
+        <div class="report-content">
+            <div class="report-header">
+                <h3>📰 Reporte de Noticias</h3>
+                <div class="report-meta-grid">
+                    <div class="meta-item">
+                        <span class="meta-label">Generado:</span>
+                        <span class="meta-value">${new Date(report.generated_at).toLocaleString('es-ES')}</span>
+                    </div>
+                </div>
+            </div>
+            <div class="articles-container"></div>
+            <div class="report-actions"></div>
+            <span class="message-time">${formatTime(new Date().toISOString())}</span>
+        </div>
+    `;
+    container.appendChild(reportDiv);
+    scrollToBottom();
+
+    const articlesContainer = reportDiv.querySelector('.articles-container');
+    const actionsContainer = reportDiv.querySelector('.report-actions');
+
+    // Flag to skip animation
+    let skipAnimation = false;
+    const skipHandler = (e) => {
+        // Si el click fue en un link o botón, no saltar la animación para dejar que el link funcione
+        if (e.target.tagName === 'A' || e.target.closest('a') || e.target.tagName === 'BUTTON') return;
+        skipAnimation = true;
+    };
+    reportDiv.addEventListener('click', skipHandler, { once: true });
+
+    // Display articles one by one
+    if (report.articles && report.articles.length > 0) {
+        for (let i = 0; i < report.articles.length; i++) {
+            if (skipAnimation) break;
+
+            const article = report.articles[i];
+            const articleCard = document.createElement('div');
+            articleCard.className = 'article-card';
+            articleCard.style.opacity = '0';
+            articleCard.style.transform = 'translateY(10px)';
+            articleCard.style.transition = 'opacity 0.3s, transform 0.3s';
+
+            // NO incluir el link inicialmente - se añadirá después del resumen
+            articleCard.innerHTML = `
+                <div class="article-title">${i + 1}. ${escapeHtml(article.title || 'Sin título')}</div>
+                <div class="article-meta-info">
+                    <span class="category-tag">${escapeHtml(article.section || 'N/A')}</span>
+                    <span class="article-date-badge">${escapeHtml(article.date || 'Sin fecha')}</span>
+                </div>
+                <div class="article-summary">
+                    <strong>Resumen:</strong> <span class="summary-text"></span>
+                </div>
+                <div class="article-link-placeholder"></div>
+            `;
+
+            articlesContainer.appendChild(articleCard);
+
+            // Fade in animation
+            requestAnimationFrame(() => {
+                articleCard.style.opacity = '1';
+                articleCard.style.transform = 'translateY(0)';
+            });
+
+            // Type summary word by word
+            const summarySpan = articleCard.querySelector('.summary-text');
+            const words = (article.summary || 'Sin resumen').split(' ');
+
+            for (let w = 0; w < words.length; w++) {
+                if (skipAnimation) {
+                    summarySpan.textContent = article.summary || 'Sin resumen';
+                    break;
+                }
+                summarySpan.textContent += (w > 0 ? ' ' : '') + words[w];
+                // Solo auto-scroll si el usuario está cerca del final (permite scroll libre)
+                smartScrollToBottom();
+                await sleep(50); // 50ms per word (un poco más lento)
+            }
+
+            // Mostrar el link DESPUÉS de terminar el resumen
+            const linkPlaceholder = articleCard.querySelector('.article-link-placeholder');
+            if (article.url && linkPlaceholder) {
+                linkPlaceholder.innerHTML = `<div class="article-link"><a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">Ver artículo completo →</a></div>`;
+            }
+
+            smartScrollToBottom();
+            if (!skipAnimation) await sleep(200); // Pause between articles
+        }
+
+        // If skipped, show all articles immediately
+        if (skipAnimation) {
+            articlesContainer.innerHTML = '';
+            report.articles.forEach((article, index) => {
+                const card = document.createElement('div');
+                card.className = 'article-card';
+                card.innerHTML = `
+                    <div class="article-title">${index + 1}. ${escapeHtml(article.title || 'Sin título')}</div>
+                    <div class="article-meta-info">
+                        <span class="category-tag">${escapeHtml(article.section || 'N/A')}</span>
+                        <span class="article-date-badge">${escapeHtml(article.date || 'Sin fecha')}</span>
+                    </div>
+                    <div class="article-summary">
+                        <strong>Resumen:</strong> ${escapeHtml(article.summary || 'Sin resumen')}
+                    </div>
+                    ${article.url ? `<div class="article-link"><a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">Ver artículo completo →</a></div>` : ''}
+                `;
+                articlesContainer.appendChild(card);
+            });
+        }
+    } else {
+        articlesContainer.innerHTML = '<p>No se encontraron artículos relevantes.</p>';
+    }
+
+    // Add action buttons
+    actionsContainer.innerHTML = `
+        <div class="report-buttons">
+            <button class="btn-download" onclick="downloadReport(${JSON.stringify(report).replace(/"/g, '&quot;')})">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="7 10 12 15 17 10"></polyline>
+                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                </svg>
+                Descargar PDF
+            </button>
+            <button class="btn-view" onclick="viewReport(${JSON.stringify(report).replace(/"/g, '&quot;')})">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                    <circle cx="12" cy="12" r="3"></circle>
+                </svg>
+                Ver en Navegador
+            </button>
+        </div>
+    `;
+
+    reportDiv.removeEventListener('click', skipHandler);
+    scrollToBottom();
+    return reportDiv;
+}
+
+/**
+ * Sleep utility for typing effect
+ */
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
 }
 /**
  * Handle send message
@@ -249,9 +400,13 @@ async function handleSendMessage() {
             ...data.structured_report,
             user_query: message // Guardar la query original del usuario
         };
+
+        // Display with typing effect first
+        const messagesContainer = document.getElementById('messagesContainer');
+        await displayReportWithTypingEffect(reportDataWithQuery, messagesContainer);
+
+        // Then save to session (so it appears static on reload)
         await addMessage('report', 'Reporte generado exitosamente', reportDataWithQuery);
-        // Reload session to display the report
-        await loadAndDisplayMessages();
     }
     catch (error) {
         console.error('[API] error', error);
@@ -435,6 +590,19 @@ function scrollToBottom() {
     const messagesContainer = document.getElementById('messagesContainer');
     if (messagesContainer) {
         messagesContainer.scrollTop = messagesContainer.scrollHeight;
+    }
+}
+/**
+ * Smart scroll - only auto-scroll if user is near the bottom (allows free scrolling up)
+ */
+function smartScrollToBottom() {
+    const messagesContainer = document.getElementById('messagesContainer');
+    if (messagesContainer) {
+        const threshold = 100; // pixels from bottom
+        const isNearBottom = messagesContainer.scrollHeight - messagesContainer.scrollTop - messagesContainer.clientHeight < threshold;
+        if (isNearBottom) {
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
     }
 }
 function setLoadingState(loading) {

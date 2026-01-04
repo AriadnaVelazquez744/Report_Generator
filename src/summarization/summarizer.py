@@ -2,9 +2,11 @@
 Generación de resúmenes extractivos y abstractivos
 """
 import logging
-from typing import List, Optional
+from typing import List, Optional, Any
 from nltk.tokenize import sent_tokenize
 import numpy as np
+import sys
+from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
@@ -139,6 +141,54 @@ class PersonalizedSummarizer:
         except Exception as e:
             logger.error(f"Error generando resumen personalizado: {e}")
             return self.base_summarizer.summarize(text, num_sentences)
+
+
+
+try:
+    # Add the project root to sys.path to ensure imports work correctly
+    project_root = Path(__file__).resolve().parents[2]
+    if str(project_root) not in sys.path:
+        sys.path.append(str(project_root))
+
+    # Add model directory to sys.path so that imports inside generate.py (like 'import pgn_model') work
+    model_dir = project_root / "src" / "summarization" / "model"
+    if str(model_dir) not in sys.path:
+        sys.path.append(str(model_dir))
+
+    from src.summarization.model.generate import Generator
+    from src.summarization.model.config import Config
+    from src.summarization.model.vocabulary import Vocabulary
+    logger.info("Successfully imported summarization model components")
+except ImportError as e:
+    logger.warning(f"Could not import summarization model components: {e}")
+    Generator = Any
+    Config = Any
+    Vocabulary = Any
+
+class ModelSummarizer:
+    def __init__(self, model_path: str,config:Config,vocab:Vocabulary):
+        self.model_path = model_path
+        self.generator = None
+        self.vocab = vocab
+        self.config = config
+
+        try:
+            self.generator = Generator(config, self.vocab, self.model_path)
+        except Exception as e:
+            logger.info(f"Error loading model from {self.model_path}: {e}")
+            self.generator = None
+      
+    def summarize(self, text: str) -> str:
+        if not self.generator:
+            return text[:500] + "..." 
+            
+        try:
+            result = self.generator.predict_single_text(text)
+            return result[0].replace(" , ",", ").replace(" . ",". ")+'...'
+        except Exception as e:
+            logger.error(f"Error summarizing with model: {e}")
+            return text[:500] + "..."
+
 
 
 

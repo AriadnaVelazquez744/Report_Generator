@@ -35,18 +35,9 @@ def _remove_noise_from_text(text: str) -> str:
     if not isinstance(text, str):
         return ""
     
-    # Patrones robustos para capturar todas las variantes de "LEA TAMBIÉN"
-    noise_patterns = [
-        # Variante: LEA TAMBIÉN: seguido de texto en la misma línea
-        r'LEA\s+TAMBI[EÉ]N\s*:\s*[^\n]+',
-        # Variante: LEA TAMBIÉN seguido de salto de línea y texto hasta el siguiente párrafo
-        r'LEA\s+TAMBI[EÉ]N\s*\n+[^\n]+(?:\n(?![A-Z]))*',
-        # Variante: LEA TAMBIÉN con texto hasta punto final
-        r'LEA\s+TAMBI[EÉ]N\s*:?\s*[^.!?\n]*[.!?]?',
-    ]
-    
-    for pattern in noise_patterns:
-        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+    # Patrones de ruido agresivos: quitar desde el disparador hasta el siguiente punto final (.)
+    noise_triggers = r'(LEA\s+TAMBI[EÉ]N|LE\s+PUEDE\s+INTERESAR|MIRA\s+TAMBI[EÉ]N|M[AÁ]S\s+EN\s+ESTA\s+SECCI[OÓ]N|VEA\s+ADEM[AÁ]S|TE\s+PUEDE\s+INTERESAR|TAMBI[EÉ]N\s+PUEDES\s+VER|SIGUE\s+LEYENDO)'
+    text = re.sub(rf'(?i){noise_triggers}.*?(\.|$)', ' ', text, flags=re.DOTALL)
     
     # Limpiar saltos de línea múltiples resultantes
     text = re.sub(r'\n{3,}', '\n\n', text)
@@ -97,7 +88,9 @@ class ReportGenerator:
                 'title': article.get('title'),
                 'url': article.get('url'),
                 'section': article.get('section'),
-                'summary': article_text,
+                # Usar el summary generado por el modelo si existe, sino usar texto original
+                'summary': article.get('summary') or article_text,
+                'generated_by_model': article.get('generated_by_model', False),
                 'score': score,
                 'justification': {
                     'matching_categories': justification.get('matching_categories', []),

@@ -43,7 +43,8 @@ def generate_text_report(
     recommendations_result: Dict[str, Any],
     max_articles: int = 10,
     user_query: Optional[str] = None,
-    user_name: Optional[str] = None
+    user_name: Optional[str] = None,
+    summarizer: Optional[Any] = None
 ) -> Tuple[Dict, str]:
     """
     Genera un reporte en texto plano a partir del resultado de generate_report_recommendations.
@@ -56,6 +57,7 @@ def generate_text_report(
         max_articles: Número máximo de artículos en el reporte
         user_query: Query/pregunta del usuario (opcional, se muestra en lugar del perfil)
         user_name: Nombre del usuario (opcional)
+        summarizer: Objeto summarizer (opcional)
         
     Returns:
         Texto plano formateado del reporte
@@ -67,7 +69,21 @@ def generate_text_report(
     matches = recommendations_result.get('matches', [])
     user_profile = recommendations_result.get('user_profile', {})
     search_stats = recommendations_result.get('search_stats', {})
-    
+    print(f"matches:{len(matches)}")
+    # Resumir artículos si hay summarizer
+    if summarizer:
+        logger.info("Summarizing articles with trained model...")
+        for article, _, _ in matches[:max_articles]:
+            text = article.get('clean_text', '') or article.get('text', '')
+            if text:
+                try:
+                    summary = summarizer.summarize(text)
+                    print(summary)
+                    article['summary'] = summary
+                    article['generated_by_model'] = True
+                except Exception as e:
+                    logger.error(f"Error summarizing article {article.get('id')}: {e}")
+
     # Transformar matches al formato esperado por ReportGenerator
     transformed_matches = _transform_matches_for_report(matches)
     
@@ -93,19 +109,15 @@ def generate_text_report(
     articles = report.get('articles', [])
     structured_report = {
         "generated_at": report.get('generated_at', ''),
-        "categories_of_interest": user_profile.get('categories', [])[:15] if user_profile else [],
         "articles": [
             {
-                "title": article.get('title', 'Sin título'),
+                "title": article.get('title', 'Sin título').replace('- teleSUR',''),
                 "section": article.get('section', 'Sin sección'), 
                 "date": format_article_date(article.get('date')),
                 "summary": article.get('summary', ''),
-                "url": article.get('url', '')
+                "url": article.get('url', ''),
+                "generated_by_model": article.get('generated_by_model', False)
             } for article in articles
-        ],
-        "articles_stats": [
-            report.get('total_articles', 0),
-            len(articles)
         ]
     }
 
@@ -159,27 +171,9 @@ def _format_report_text_custom(
         lines.append(f"{user_query}")
         lines.append("")
     
-    # Mostrar categorías de interés si existen
-    user_profile = report.get('user_profile', {})
-    if user_profile and user_profile.get('categories'):
-        lines.append("🏷️  CATEGORÍAS DE INTERÉS")
-        lines.append("-" * 80)
-        categories = user_profile.get('categories', [])[:15]
-        lines.append(", ".join(categories))
-        if len(user_profile.get('categories', [])) > 15:
-            lines.append(f" (+{len(user_profile.get('categories', [])) - 15} más)")
-        lines.append("")
+    # Removido a petición del usuario
     
-    # Mostrar entidades de interés si existen
-    if user_profile and user_profile.get('entities'):
-        lines.append("👤 ENTIDADES MENCIONADAS EN EL PERFIL")
-        lines.append("-" * 80)
-        entities = user_profile.get('entities', [])[:10]
-        entity_texts = [f"{e['text']} ({e['label']})" for e in entities]
-        lines.append(", ".join(entity_texts))
-        if len(user_profile.get('entities', [])) > 10:
-            lines.append(f" (+{len(user_profile.get('entities', [])) - 10} más)")
-        lines.append("")
+    # Removido a petición del usuario
     
     # Sección de artículos recomendados
     lines.append("📰 ARTÍCULOS RECOMENDADOS")
@@ -215,6 +209,8 @@ def _format_report_text_custom(
             # Indentar el resumen
             for line in summary.split('\n'):
                 lines.append(f"   {line}")
+        
+        # Removido "(Generado por AI)" a petición del usuario
         
         lines.append("")
         
@@ -299,7 +295,8 @@ def generate_report_from_user_query(
     matcher,
     nlp=None,
     max_articles: int = 10,
-    users_file_path: str = "Data/Data_users/users.json"
+    users_file_path: str = "Data/Data_users/users.json",
+    summarizer: Optional[Any] = None
 ) -> Tuple[Dict, str]:
     """
     Función de conveniencia que orquesta todo el proceso:
@@ -315,6 +312,7 @@ def generate_report_from_user_query(
         nlp: Modelo spaCy (opcional)
         max_articles: Número máximo de artículos
         users_file_path: Ruta al archivo de usuarios
+        summarizer: Objeto summarizer (opcional)
         
     Returns:
         Texto plano del reporte formateado
@@ -340,5 +338,6 @@ def generate_report_from_user_query(
         recommendations,
         max_articles=max_articles,
         user_query=user_query,
-        user_name=user_name
+        user_name=user_name,
+        summarizer=summarizer
     )

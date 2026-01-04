@@ -29,7 +29,14 @@ from src.recommendation.matcher import NewsMatcher
 from src.recommendation.report_generator import ReportGenerator
 from src.recommendation.user_profile import UserProfileManager
 from src.recommendation.vectorizer import NewsVectorizer, UserProfileVectorizer
-from src.summarization.summarizer import PersonalizedSummarizer, TextRankSummarizer
+from src.summarization.summarizer import PersonalizedSummarizer, TextRankSummarizer, ModelSummarizer
+from src.summarization.model.config import Config
+from src.summarization.model.vocabulary import Vocabulary
+from src.summarization.model.constant import MAX_LEN_SRC,\
+                                            MAX_LEN_TGT,MAX_VOCAB_SIZE,HIDDEN_SIZE,EMBEDDING_SIZE,\
+                                            NUM_DEC_LAYERS,NUM_ENC_LAYERS, USE_GPU,UNK_TOKEN,BEAM_SIZE,\
+                                            IS_COVERAGE,IS_PGEN,DROPOUT_RATIO,BIDIRECTIONAL,DEVICE,DECODING_STRATEGY,GPU_ID,\
+                                            PAD_TOKEN,START_DECODING,END_DECODING,CHECKPOINT_VOCABULARY_DIR,DATA_DIR,VOCAB_NAME
 
 logger = logging.getLogger(__name__)
 
@@ -54,6 +61,7 @@ _matcher: Optional[NewsMatcher] = None
 _report_generator: Optional[ReportGenerator] = None
 _text_preprocessor: Optional[TextPreprocessor] = None
 _regex_annotator: Optional[RegexAnnotator] = None
+_summarizer: Optional[ModelSummarizer] = None
 
 _spacy_nlp: Optional[Any] = None
 
@@ -99,6 +107,57 @@ def _try_auto_update_news() -> None:
     # Ejecutar en thread separado para no bloquear el startup
     thread = threading.Thread(target=_run_update, daemon=True)
     thread.start()
+
+
+def _ensure_summarizer() -> Optional[ModelSummarizer]:
+    global _summarizer
+    if _summarizer:
+        return _summarizer
+    print("Cargando vocabulario...")
+    vocab = Vocabulary(
+        CREATE_VOCABULARY=False,  
+        PAD_TOKEN=PAD_TOKEN,
+        UNK_TOKEN=UNK_TOKEN,
+        START_DECODING=START_DECODING,
+        END_DECODING=END_DECODING,
+        MAX_VOCAB_SIZE=MAX_VOCAB_SIZE,
+        CHECKPOINT_VOCABULARY_DIR=CHECKPOINT_VOCABULARY_DIR,
+        DATA_DIR=DATA_DIR,
+        VOCAB_NAME=VOCAB_NAME
+    )
+    vocab.build_vocabulary()
+    print(f"Vocabulario cargado: {vocab.total_size()} palabras")
+    
+    config = Config(
+        max_vocab_size=vocab.total_size(),
+        src_len=MAX_LEN_SRC,
+        tgt_len=MAX_LEN_TGT,
+        embedding_size=EMBEDDING_SIZE,
+        hidden_size=HIDDEN_SIZE,
+        num_enc_layers=NUM_ENC_LAYERS,
+        num_dec_layers=NUM_DEC_LAYERS,
+        use_gpu=USE_GPU,
+        is_pgen=IS_PGEN,
+        is_coverage=IS_COVERAGE,
+        dropout_ratio=DROPOUT_RATIO,
+        bidirectional=BIDIRECTIONAL,
+        device=DEVICE,
+        decoding_strategy=DECODING_STRATEGY,
+        beam_size=BEAM_SIZE,
+        gpu_id=GPU_ID
+    )
+    
+    model_path = ROOT_DIR / "src" / "summarization" / "finetune_last-v2.pt" # solo cambiar el nombre
+    if model_path.exists():
+        try:
+            _summarizer = ModelSummarizer(str(model_path),vocab=vocab,config=config)
+            logger.info("ModelSummarizer initialized.")
+        except Exception as e:
+            logger.error(f"Error initializing ModelSummarizer: {e}")
+    else:
+        logger.warning(f"Model file not found at {model_path}")
+    
+    return _summarizer
 
 
 def _ensure_base_files() -> None:
@@ -239,21 +298,22 @@ def _ensure_profile_components() -> tuple[UserProfileVectorizer, UserProfileMana
         return profile_vectorizer, profile_manager
 
 
-
-
 def _ensure_matching_components() -> tuple[UserProfileVectorizer, NewsMatcher]:
     """
     Inicializa profile_vectorizer y matcher necesarios para generate_report_from_user_query.
     Carga artículos con preprocesamiento completo para el matcheo.
     Se ejecuta una sola vez y se comparte entre requests.
+    
+    OPTIMIZACIÓN: Usa cache binario de artículos procesados para evitar leer ~48k JSONs.
     Retorna: (profile_vectorizer, matcher)
     """
-    global _profile_vectorizer, _matcher
+    global _profile_vectorizer, _matcher, _news_vectorizer
+    import pickle
 
-    print("globales inicializados en _ensure_matching_components")
+    print("Inicializando componentes de matching...")
 
     if _profile_vectorizer and _matcher:
-        print("ya fueron cargadas las variables")
+        print("✅ Componentes ya cargados en memoria")
         return _profile_vectorizer, _matcher
 
     with _articles_lock:
@@ -262,47 +322,153 @@ def _ensure_matching_components() -> tuple[UserProfileVectorizer, NewsMatcher]:
 
         if not ARTICLES_DIR.exists():
             raise HTTPException(status_code=500, detail="Articles directory not found.")
-
-        from src.data.loader import ArticleLoader
+            
+        vectorizer_path = ROOT_DIR / "Data" / "vectorizer.pkl"
+        articles_cache_path = ROOT_DIR / "Data" / "articles_cache.pkl"
+        state_path = ROOT_DIR / "Data" / "articles_state.json"
+        current_version = "1.1"
+        vectorizer = None
+        should_refit = True
         
+        # 1. Intentar cargar vectorizer existente
+        if vectorizer_path.exists():
+            try:
+                print(f"Cargando vectorizador desde {vectorizer_path}...")
+                loaded_vec = NewsVectorizer.load(str(vectorizer_path))
+                loaded_version = getattr(loaded_vec, 'version', '1.0')
+                if loaded_version == current_version:
+                    vectorizer = loaded_vec
+                    should_refit = False
+                    print(f"✅ Vectorizador cargado (v{loaded_version})")
+                else:
+                    print(f"⚠️ Versión mismatch ({loaded_version} vs {current_version}). Re-entrenando...")
+            except Exception as e:
+                print(f"⚠️ Error cargando vectorizador: {e}. Se creará uno nuevo.")
+
+        #  Intentar usar cache de artículos procesados
+        if not should_refit and articles_cache_path.exists() and state_path.exists():
+            try:
+                with open(state_path, "r") as f:
+                    state_data = json.load(f)
+                    cached_count = state_data.get("count", -1)
+                    cached_version = state_data.get("version", "")
+                
+                # Validación rápida: contar archivos JSON en vez de cargarlos todos
+                from src.data.loader import ArticleLoader
+                loader = ArticleLoader(str(ARTICLES_DIR))
+                current_count = loader.count_articles(recursive=True)
+                
+                if cached_count == current_count and cached_version == current_version:
+                    print(f"✅ Cache válido ({current_count} artículos). Cargando desde cache...")
+                    with open(articles_cache_path, 'rb') as f:
+                        processed_articles = pickle.load(f)
+                    print(f"✅ {len(processed_articles)} artículos cargados desde cache")
+                    
+                    # Crear componentes y retornar inmediatamente
+                    profile_vectorizer = UserProfileVectorizer(vectorizer)
+                    matcher = NewsMatcher.from_articles(processed_articles, vectorizer=vectorizer)
+                    _profile_vectorizer = profile_vectorizer
+                    _matcher = matcher
+                    _news_vectorizer = vectorizer
+                    logger.info("Matching components initialized from cache (%s articles).", len(processed_articles))
+                    return _profile_vectorizer, _matcher
+                else:
+                    print(f"⚠️ Cache inválido (disco: {current_count} vs cache: {cached_count}). Recargando...")
+            except Exception as e:
+                print(f"⚠️ Error leyendo cache: {e}. Recargando artículos...")
+
+        # 3. Cargar artículos desde JSONs (solo si es necesario)
+        from src.data.loader import ArticleLoader
+        from src.recommendation.vectorize_articles import vectorize_articles_directory
+        
+        print("Cargando artículos desde disco...")
         loader = ArticleLoader(str(ARTICLES_DIR))
         raw_articles = loader.load_all_articles(recursive=True)
-        if not raw_articles:
-            raise HTTPException(status_code=500, detail="No articles found.")
-
-        processed_articles: List[Dict[str, Any]] = []
-        clean_texts: List[str] = []
-
-        for idx, article in enumerate(raw_articles):
-            clean_text = article.get('preprocessing', {}).get('cleaned', "")
-            annotations = article.get('regex_annotations', {})
-
-            processed = {
-                **article,
-                "id": idx,
-                "clean_text": clean_text,
-                "categories": annotations.get("categories", []),
-                "entidades": annotations.get("entities", []),
-            }
-            processed_articles.append(processed)
-            clean_texts.append(clean_text)
-
-        print("todos los artículos han sido cargados")
-
-        vectorizer = NewsVectorizer(max_features=4000, ngram_range=(1, 2))
-        article_matrix = vectorizer.fit_transform0(clean_texts)
-        for i, article in enumerate(processed_articles):
-            article["vector"] = article_matrix[i].tolist()
         
-        print("vectorizador entrenado")
+        if not raw_articles:
+            vectorizer = NewsVectorizer(max_features=4000, ngram_range=(1, 2), use_lemmatization=True)
+            vectorizer.version = current_version 
+            vectorizer.fit0(["dummy text"])
+            _news_vectorizer = vectorizer
+            _profile_vectorizer = UserProfileVectorizer(vectorizer)
+            _matcher = NewsMatcher(vectorizer=vectorizer)
+            return _profile_vectorizer, _matcher
+
+        # 4. Re-entrenar vectorizador si es necesario
+        if should_refit:
+            print("🔧 Entrenando nuevo vectorizador...")
+            processed_articles: List[Dict[str, Any]] = []
+            clean_texts: List[str] = []
+
+            for idx, article in enumerate(raw_articles):
+                clean_text = article.get('preprocessing', {}).get('cleaned', "")
+                annotations = article.get('regex_annotations', {})
+                processed = {
+                    **article,
+                    "id": idx,
+                    "clean_text": clean_text,
+                    "categories": annotations.get("categories", []),
+                    "entidades": annotations.get("entities", []),
+                    "date": article.get("source_metadata", {}).get("date")
+                }
+                processed_articles.append(processed)
+                clean_texts.append(clean_text)
+
+            vectorizer = NewsVectorizer(max_features=4000, ngram_range=(1, 2), use_lemmatization=True)
+            article_matrix = vectorizer.fit_transform0(clean_texts)
+            vectorizer.version = current_version
+            vectorizer.save(str(vectorizer_path))
+            print(f"✅ Vectorizador guardado en {vectorizer_path}")
+            
+            print("💾 Actualizando vectores en JSONs...")
+            article_dirs = [d for d in ARTICLES_DIR.iterdir() if d.is_dir() and d.name.startswith("Data_articles")]
+            total_updated = 0
+            for adir in article_dirs:
+                count = vectorize_articles_directory(str(adir), vectorizer)
+                total_updated += count
+            print(f"✅ {total_updated} artículos actualizados")
+            
+            for i, article in enumerate(processed_articles):
+                article["vector"] = article_matrix[i].tolist()
+        else:
+            # Procesar artículos usando vectores existentes
+            print("📊 Procesando artículos con vectores existentes...")
+            processed_articles = []
+            for idx, article in enumerate(raw_articles):
+                clean_text = article.get('preprocessing', {}).get('cleaned', "")
+                annotations = article.get('regex_annotations', {})
+                processed = {
+                    **article,
+                    "id": idx,
+                    "clean_text": clean_text,
+                    "categories": annotations.get("categories", []),
+                    "entidades": annotations.get("entities", []),
+                    "date": article.get("source_metadata", {}).get("date"),
+                    "vector": article.get('vector', [])
+                }
+                processed_articles.append(processed)
+
+        # 5. Guardar cache de artículos procesados
+        try:
+            print("💾 Guardando cache de artículos...")
+            with open(articles_cache_path, 'wb') as f:
+                pickle.dump(processed_articles, f)
+            with open(state_path, "w") as f:
+                json.dump({"count": len(processed_articles), "version": current_version}, f)
+            print(f"✅ Cache guardado ({len(processed_articles)} artículos)")
+        except Exception as e:
+            logger.warning(f"No se pudo guardar cache: {e}")
+
+        print("✅ Vectorizador listo")
 
         profile_vectorizer = UserProfileVectorizer(vectorizer)
         matcher = NewsMatcher.from_articles(processed_articles, vectorizer=vectorizer)
 
         _profile_vectorizer = profile_vectorizer
         _matcher = matcher
+        _news_vectorizer = vectorizer
 
-        logger.info("Matching components initialized (%s articles processed).", len(processed_articles))
+        logger.info("Matching components initialized (%s articles loaded).", len(processed_articles))
 
 
 # Request models
@@ -368,6 +534,7 @@ def startup_event() -> None:
     # Ejecutar actualización automática de noticias en background (best-effort)
     _try_auto_update_news()
     _ensure_matching_components()
+    _ensure_summarizer()
 
 
 @app.get("/health")
@@ -494,7 +661,7 @@ def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, A
     print("inicializado nlp")
 
     users_file_path = str(USERS_FILE)
-
+    print(payload.json())
     print("establecida dirección del archivo de usuario")
     
     try:
@@ -506,7 +673,8 @@ def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, A
             matcher=_matcher,
             nlp=nlp,
             max_articles=payload.max_articles,
-            users_file_path=users_file_path
+            users_file_path=users_file_path,
+            summarizer=_summarizer
         )
 
         print("se generó el reporte a partir de la query del usuario")

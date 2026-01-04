@@ -166,7 +166,22 @@ class ArticleLoader:
         Returns:
             Número de archivos JSON
         """
-        json_files = list(self.data_dir.rglob("*.json"))
+        return self.count_articles(recursive=True)
+    
+    def count_articles(self, recursive: bool = True) -> int:
+        """
+        Cuenta el número de archivos JSON disponibles sin cargarlos
+        
+        Args:
+            recursive: Si True, busca recursivamente en subdirectorios
+            
+        Returns:
+            Número de archivos JSON
+        """
+        if recursive:
+            json_files = list(self.data_dir.rglob("*.json"))
+        else:
+            json_files = list(self.data_dir.glob("*.json"))
         return len(json_files)
 
 

@@ -272,13 +272,27 @@ def run_news_update() -> None:
     process_nlp_for_dir(new_articles_dir)
     
     # Vectorizar artículos recién procesados
-    print(f"🔄 Vectorizando artículos...")
-    vectorizer = NewsVectorizer(max_features=3000, ngram_range=(1, 2))
-    vectorized_count = vectorize_articles_directory(
-        directory_path=str(new_articles_dir),
-        news_vectorizer=vectorizer
-    )
-    print(f"✅ {vectorized_count} artículos vectorizados")
+    print(f"🔄 Vectorizando nuevos artículos...")
+    
+    vectorizer_path = PROJECT_ROOT / "Data" / "vectorizer.pkl"
+    if vectorizer_path.exists():
+        try:
+            vectorizer = NewsVectorizer.load(str(vectorizer_path))
+            print(f"✅ Vectorizador maestro cargado (v{getattr(vectorizer, 'version', 'unknown')})")
+            
+            # Usar transform (no fit!) para mantener consistencia
+            vectorized_count = vectorize_articles_directory(
+                directory_path=str(new_articles_dir),
+                news_vectorizer=vectorizer
+            )
+            print(f"✅ {vectorized_count} nuevos artículos vectorizados")
+            
+        except Exception as e:
+            print(f"❌ Error al cargar/usar vectorizador maestro: {e}")
+            print("⚠️ Los nuevos artículos no tendrán vectores compatibles hasta que se reinicie la API.")
+    else:
+        print("⚠️ No se encontró vectorizador maestro (vectorizer.pkl).")
+        print("ℹ️ Ejecute la API primero para inicializar el sistema de recomendación.")
     
     save_last_update(utcnow())
     print(f"✅ Actualización completa. Nuevos artículos en: {new_articles_dir}")

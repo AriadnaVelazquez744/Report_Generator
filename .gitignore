@@ -6,20 +6,39 @@ dist/
 wheels/
 *.egg-info
 .env 
-
+*.pkl
 # Virtual environments
 .venv
 uv.lock
 *.toml
-
+*.pt
 # Data files
-Data/teleSUR_tv
+Data/
+Data_articles_invalid/
 data_example/
 *.session
 processed_articles.json
+all_articles_with_metadata.json
+articles_index.json
 
 # Backups
 *.backup
 
 # CSpell
 cspell.json
+
+# Reports and temporary assets
+reportes_pdf/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
