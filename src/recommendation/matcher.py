@@ -403,6 +403,11 @@ class SimpleMatcher:
             Lista de (artículo, score, detalles)
         """
         results = []
+
+        # Calcular scores para todos los artículos
+        for article in articles:
+            score, details = self.calculate_score(user_profile, article)
+            results.append((article, score, details))
         
         # DEDUPLICACIÓN: Usar sets para evitar IDs o Títulos repetidos
         seen_ids = set()

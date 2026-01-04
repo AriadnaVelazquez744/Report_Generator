@@ -291,6 +291,32 @@ def find_relevant_articles_with_time_strategy(
     all_results: List[Tuple[Dict[str, Any], float, Dict[str, Any]]] = []
     articles_reviewed = 0
     
+    # Helper para deduplicar
+    def _deduplicate_and_sort(results):
+        seen_ids = set()
+        seen_titles = set()
+        unique = []
+        # Sort by score descending
+        results.sort(key=lambda x: x[1], reverse=True)
+        
+        for item in results:
+            article = item[0]
+            aid = article.get('id')
+            # Normalización agresiva del título para detectar duplicados
+            title = article.get('title', '').lower().strip()
+            # Remover puntuación simple y comillas
+            title = title.replace('.', '').replace(',', '').replace('"', '').replace("'", "").replace('“', '').replace('”', '')
+            
+            if aid and aid in seen_ids:
+                continue
+            if title and title in seen_titles:
+                continue
+                
+            if aid: seen_ids.add(aid)
+            if title: seen_titles.add(title)
+            unique.append(item)
+        return unique
+
     # Obtener directorios ordenados de mayor a menor
     article_dirs = get_sorted_article_directories(base_articles_path)
     
@@ -318,7 +344,9 @@ def find_relevant_articles_with_time_strategy(
                     all_results.append((article, score, details))
             
             # Verificar si ya tenemos suficientes artículos altamente coincidentes
-            high_relevance_count = sum(1 for _, score, _ in all_results if score >= high_relevance_threshold)
+            # Primero deduplicamos temporalmente para contar correctamente
+            unique_temp = _deduplicate_and_sort(all_results)
+            high_relevance_count = sum(1 for _, score, _ in unique_temp if score >= high_relevance_threshold)
             
             if time.monotonic() - start_time >= initial_timeout_sec:
                 logger.info(f"Tiempo inicial de {initial_timeout_sec}s alcanzado")
@@ -326,9 +354,7 @@ def find_relevant_articles_with_time_strategy(
                 
                 if high_relevance_count >= min_high_relevance_count:
                     logger.info(f"Criterio cumplido: {high_relevance_count} >= {min_high_relevance_count}. Deteniendo búsqueda.")
-                    # Ordenar y devolver top k
-                    all_results.sort(key=lambda x: x[1], reverse=True)
-                    return all_results[:top_k], articles_reviewed
+                    return unique_temp[:top_k], articles_reviewed
                 else:
                     logger.info(f"Criterio no cumplido. Extendiendo búsqueda por {extended_timeout_sec}s más.")
                     break
@@ -348,9 +374,9 @@ def find_relevant_articles_with_time_strategy(
         try:
             articles = load_articles_with_vectors(dir_path)
             
-            # Evitar duplicados
-            article_ids = [a[0].get('id', '') for a in all_results]
-            articles = [a for a in articles if a.get('id', '') not in article_ids]
+            # Evitar duplicados por ID antes de procesar (optimización)
+            current_ids = {a[0].get('id') for a in all_results if a[0].get('id')}
+            articles = [a for a in articles if a.get('id') not in current_ids]
             
             for article in articles:
                 articles_reviewed += 1
@@ -369,13 +395,13 @@ def find_relevant_articles_with_time_strategy(
             logger.error(f"Error procesando directorio {dir_path}: {e}")
             continue
     
-    # Ordenar y devolver top k
-    all_results.sort(key=lambda x: x[1], reverse=True)
-    final_count = min(len(all_results), top_k)
+    # Deduplicar, ordenar y devolver top k
+    final_results = _deduplicate_and_sort(all_results)
+    final_count = min(len(final_results), top_k)
     logger.info(f"Búsqueda completada. Devolviendo {final_count} artículos más relevantes")
     logger.info(f"Total de artículos revisados: {articles_reviewed}")
     
-    return all_results[:top_k], articles_reviewed
+    return final_results[:top_k], articles_reviewed
 
 
 def generate_report_recommendations(
