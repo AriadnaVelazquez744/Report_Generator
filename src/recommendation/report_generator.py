@@ -82,10 +82,20 @@ class ReportGenerator:
             # Usar el texto original del artículo (sin resumen por ahora)
             article_text = article.get('text', '')
             article_text = _remove_noise_from_text(article_text)
-            
+
+
+            # Eliminar '(+ Imágenes)' y sufijos de medios como ' - teleSUR' del título
+            import re
+            raw_title = article.get('title', '')
+            # Quitar '(+ Imágenes)' y variantes
+            clean_title = re.sub(r"\s*\(\+ Imágenes\)", "", raw_title)
+            # Quitar sufijos de medios como ' - teleSUR', ' – teleSUR', ' — teleSUR' (con espacios y guiones)
+            clean_title = re.sub(r"\s*[-–—]\s*teleSUR\s*$", "", clean_title, flags=re.IGNORECASE)
+            clean_title = clean_title.strip()
+
             report_item = {
                 'article_id': article.get('id'),
-                'title': article.get('title'),
+                'title': clean_title,
                 'url': article.get('url'),
                 'section': article.get('section'),
                 # Usar el summary generado por el modelo si existe, sino usar texto original
@@ -103,7 +113,7 @@ class ReportGenerator:
                 'tags': article.get('tags', []),
                 'entities': article.get('entidades', [])
             }
-            
+
             report_items.append(report_item)
         
         report = {
