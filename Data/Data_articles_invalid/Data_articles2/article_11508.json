@@ -1,0 +1,63 @@
+{
+  "url": "https://www.telesurtv.net/lo-mejor-de-telesur-16-12-tarde-2/",
+  "title": "Lo mejor de teleSUR 16-12 Tarde - teleSUR",
+  "section": "Video",
+  "tags": [
+    "lo mejor de telesur"
+  ],
+  "text": "\n\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/lo-mejor-de-telesur-16-12-tarde-2/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 812,
+    "message_id": 82555,
+    "date": "2024-12-17T14:55:12+00:00",
+    "text": "teleSUR\nLo mejor de teleSUR 16-12 Tarde\nhttps://www.telesurtv.net/lo-mejor-de-telesur-16-12-tarde-2/",
+    "photo_path": null,
+    "views": 1881,
+    "reactions": {
+      "👍": 11,
+      "👏": 5
+    },
+    "total_reactions": 16
+  },
+  "preprocessing": {
+    "cleaned": "",
+    "tokens": [],
+    "token_count": 0,
+    "sentence_count": 0
+  },
+  "pos_analysis": {
+    "tag_freq": {},
+    "bigram_freq": {},
+    "trigram_freq": {},
+    "top_patterns": {
+      "top_tags": {},
+      "top_bigrams": {},
+      "top_trigrams": {}
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 0,
+    "chunk_counts": {},
+    "top_rules": [],
+    "sample_chunks": [],
+    "clause_structures": []
+  },
+  "regex_annotations": {
+    "categories": [],
+    "matches": [],
+    "match_count": 0
+  },
+  "knowledge_graph": {
+    "entidades": [],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 0.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

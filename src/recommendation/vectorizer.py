@@ -12,13 +12,14 @@ logger = logging.getLogger(__name__)
 class NewsVectorizer:
     """Vectorizador de noticias usando TF-IDF mejorado"""
     
-    def __init__(self, max_features: int = 5000, ngram_range: tuple = (1, 2)):
+    def __init__(self, max_features: int = 5000, ngram_range: tuple = (1, 2), use_lemmatization: bool = True):
         """
         Inicializa el vectorizador con parámetros optimizados
         
         Args:
             max_features: Número máximo de features
             ngram_range: Rango de n-gramas
+            use_lemmatization: Si usar lematización (spacy) para mejor matching
         """
         self.vectorizer = TfidfVectorizer(
             max_features=max_features,
@@ -32,15 +33,40 @@ class NewsVectorizer:
             norm='l2',  # Normalización L2 para cosine similarity
         )
         self.fitted = False
+        self.use_lemmatization = use_lemmatization
+        
+        # Lazy load del preprocessor para evitar carga circular o innecesaria
+        self._preprocessor = None
+
+    @property
+    def preprocessor(self):
+        if self._preprocessor is None:
+            from src.nlp.preprocessing import TextPreprocessor
+            # Inicializar con spaCy si se requiere lematización
+            self._preprocessor = TextPreprocessor(use_spacy=self.use_lemmatization, remove_stopwords=True)
+        return self._preprocessor
+
+    def _preprocess_texts(self, texts: List[str]) -> List[str]:
+        """Aplica preprocesamiento (lematización) si está activo"""
+        if not self.use_lemmatization:
+            return texts
+        
+        processed = []
+        # Procesar en batch si fuera posible, por ahora uno a uno con la clase existente
+        for text in texts:
+            # preprocess devuelve string unido de tokens/lemas
+            processed.append(self.preprocessor.preprocess(text, return_tokens=False))
+        return processed
     
     def fit0(self, texts: List[str]):
         """
         Ajusta el vectorizador con textos
         
         Args:
-            texts: Lista de textos preprocesados
+            texts: Lista de textos
         """
-        self.vectorizer.fit(texts)
+        processed_texts = self._preprocess_texts(texts)
+        self.vectorizer.fit(processed_texts)
         self.fitted = True
     
     def transform0(self, texts: List[str]) -> np.ndarray:
@@ -48,27 +74,30 @@ class NewsVectorizer:
         Transforma textos a vectores
         
         Args:
-            texts: Lista de textos preprocesados
+            texts: Lista de textos
             
         Returns:
             Matriz de vectores
         """
         if not self.fitted:
             raise ValueError("El vectorizador debe ser ajustado primero con fit()")
-        return self.vectorizer.transform(texts).toarray()
+            
+        processed_texts = self._preprocess_texts(texts)
+        return self.vectorizer.transform(processed_texts).toarray()
     
     def fit_transform0(self, texts: List[str]) -> np.ndarray:
         """
         Ajusta y transforma textos
         
         Args:
-            texts: Lista de textos preprocesados
+            texts: Lista de textos
             
         Returns:
             Matriz de vectores
         """
+        processed_texts = self._preprocess_texts(texts)
         self.fitted = True
-        return self.vectorizer.fit_transform(texts).toarray()
+        return self.vectorizer.fit_transform(processed_texts).toarray()
     
     def vectorize_article(self, text: str, metadata: Optional[Dict] = None) -> np.ndarray:
         """
@@ -241,22 +270,23 @@ class NewsVectorizer:
         self.vectorizer.vocabulary_ = vocabulary
         self.fitted = True
     
+    
     def save(self, filepath: str):
         """Guarda el vectorizador completo en un archivo pickle"""
         import pickle
+        # Guardar versión actual para verificación
+        self.version = "1.1" 
         with open(filepath, 'wb') as f:
-            pickle.dump(self.vectorizer, f)
+            pickle.dump(self, f)
     
     @classmethod
-    def load(cls, filepath: str, max_features: int = 5000, ngram_range: tuple = (1, 2)):
+    def load(cls, filepath: str):
         """Carga un vectorizador desde un archivo pickle"""
         import pickle
-        instance = cls(max_features=max_features, ngram_range=ngram_range)
         with open(filepath, 'rb') as f:
-            instance.vectorizer = pickle.load(f)
-        instance.fitted = True
+            instance = pickle.load(f)
         return instance
-    
+
     def to_dict(self) -> Dict:
         """Serializa el vectorizador a un diccionario JSON-compatible"""
         import pickle
@@ -268,7 +298,8 @@ class NewsVectorizer:
         return {
             'vectorizer_b64': base64.b64encode(vectorizer_bytes).decode('ascii'),
             'max_features': self.vectorizer.max_features,
-            'ngram_range': self.vectorizer.ngram_range
+            'ngram_range': self.vectorizer.ngram_range,
+            'version': getattr(self, 'version', '1.0')
         }
     
     @classmethod
@@ -286,10 +317,12 @@ class NewsVectorizer:
         # Crear instancia y asignar
         instance = cls(
             max_features=data.get('max_features', 5000),
-            ngram_range=tuple(data.get('ngram_range', (1, 2)))
+            ngram_range=tuple(data.get('ngram_range', (1, 2))),
+            use_lemmatization=True # Asumimos True si viene de dict nuevo, o ajustar según params
         )
         instance.vectorizer = vectorizer_obj
         instance.fitted = True
+        instance.version = data.get('version', '1.0')
         return instance
 
 

@@ -1,0 +1,62 @@
+{
+  "url": "https://www.telesurtv.net/lo-mejor-de-telesur-27-02-2025-manana/",
+  "title": "Lo mejor de teleSUR 27-02-2025 (Mañana) - teleSUR",
+  "section": "Lo mejor",
+  "tags": [
+    "lo mejor de telesur"
+  ],
+  "text": "\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/lo-mejor-de-telesur-27-02-2025-manana/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 111,
+    "message_id": 87878,
+    "date": "2025-02-27T17:55:07+00:00",
+    "text": "teleSUR\nLo mejor de teleSUR 27-02-2025 (Mañana)\nhttps://www.telesurtv.net/lo-mejor-de-telesur-27-02-2025-manana/",
+    "photo_path": null,
+    "views": 1495,
+    "reactions": {
+      "👍": 9
+    },
+    "total_reactions": 9
+  },
+  "preprocessing": {
+    "cleaned": "",
+    "tokens": [],
+    "token_count": 0,
+    "sentence_count": 0
+  },
+  "pos_analysis": {
+    "tag_freq": {},
+    "bigram_freq": {},
+    "trigram_freq": {},
+    "top_patterns": {
+      "top_tags": {},
+      "top_bigrams": {},
+      "top_trigrams": {}
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 0,
+    "chunk_counts": {},
+    "top_rules": [],
+    "sample_chunks": [],
+    "clause_structures": []
+  },
+  "regex_annotations": {
+    "categories": [],
+    "matches": [],
+    "match_count": 0
+  },
+  "knowledge_graph": {
+    "entidades": [],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 0.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

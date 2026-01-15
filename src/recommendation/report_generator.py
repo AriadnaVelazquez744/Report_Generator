@@ -35,18 +35,9 @@ def _remove_noise_from_text(text: str) -> str:
     if not isinstance(text, str):
         return ""
     
-    # Patrones robustos para capturar todas las variantes de "LEA TAMBIÉN"
-    noise_patterns = [
-        # Variante: LEA TAMBIÉN: seguido de texto en la misma línea
-        r'LEA\s+TAMBI[EÉ]N\s*:\s*[^\n]+',
-        # Variante: LEA TAMBIÉN seguido de salto de línea y texto hasta el siguiente párrafo
-        r'LEA\s+TAMBI[EÉ]N\s*\n+[^\n]+(?:\n(?![A-Z]))*',
-        # Variante: LEA TAMBIÉN con texto hasta punto final
-        r'LEA\s+TAMBI[EÉ]N\s*:?\s*[^.!?\n]*[.!?]?',
-    ]
-    
-    for pattern in noise_patterns:
-        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+    # Patrones de ruido agresivos: quitar desde el disparador hasta el siguiente punto final (.)
+    noise_triggers = r'(LEA\s+TAMBI[EÉ]N|LE\s+PUEDE\s+INTERESAR|MIRA\s+TAMBI[EÉ]N|M[AÁ]S\s+EN\s+ESTA\s+SECCI[OÓ]N|VEA\s+ADEM[AÁ]S|TE\s+PUEDE\s+INTERESAR|TAMBI[EÉ]N\s+PUEDES\s+VER|SIGUE\s+LEYENDO)'
+    text = re.sub(rf'(?i){noise_triggers}.*?(\.|$)', ' ', text, flags=re.DOTALL)
     
     # Limpiar saltos de línea múltiples resultantes
     text = re.sub(r'\n{3,}', '\n\n', text)
@@ -60,14 +51,11 @@ def _remove_noise_from_text(text: str) -> str:
 class ReportGenerator:
     """Generador de reportes personalizados de noticias"""
     
-    def __init__(self, summarizer: Optional[PersonalizedSummarizer] = None):
+    def __init__(self):
         """
         Inicializa el generador de reportes
-        
-        Args:
-            summarizer: Resumidor personalizado (opcional)
         """
-        self.summarizer = summarizer
+        pass
     
     def generate_report(
         self,
@@ -94,13 +82,25 @@ class ReportGenerator:
             # Usar el texto original del artículo (sin resumen por ahora)
             article_text = article.get('text', '')
             article_text = _remove_noise_from_text(article_text)
-            
+
+
+            # Eliminar '(+ Imágenes)' y sufijos de medios como ' - teleSUR' del título
+            import re
+            raw_title = article.get('title', '')
+            # Quitar '(+ Imágenes)' y variantes
+            clean_title = re.sub(r"\s*\(\+ Imágenes\)", "", raw_title)
+            # Quitar sufijos de medios como ' - teleSUR', ' – teleSUR', ' — teleSUR' (con espacios y guiones)
+            clean_title = re.sub(r"\s*[-–—]\s*teleSUR\s*$", "", clean_title, flags=re.IGNORECASE)
+            clean_title = clean_title.strip()
+
             report_item = {
                 'article_id': article.get('id'),
-                'title': article.get('title'),
+                'title': clean_title,
                 'url': article.get('url'),
                 'section': article.get('section'),
-                'summary': article_text,
+                # Usar el summary generado por el modelo si existe, sino usar texto original
+                'summary': article.get('summary') or article_text,
+                'generated_by_model': article.get('generated_by_model', False),
                 'score': score,
                 'justification': {
                     'matching_categories': justification.get('matching_categories', []),
@@ -113,7 +113,7 @@ class ReportGenerator:
                 'tags': article.get('tags', []),
                 'entities': article.get('entidades', [])
             }
-            
+
             report_items.append(report_item)
         
         report = {
@@ -130,51 +130,22 @@ class ReportGenerator:
         
         return report
     
-    def format_report_text(self, report: Dict) -> str:
+       
+    def generate_pdf(
+        self,
+        report: Dict,
+        output_path: str,
+        user_name: Optional[str] = None,
+        user_query: Optional[str] = None
+    ) -> bool:
         """
-        Formatea el reporte como texto legible
-        
-        Args:
-            report: Diccionario del reporte
-            
-        Returns:
-            Texto formateado del reporte
-        """
-        lines = []
-        lines.append("=" * 80)
-        lines.append("REPORTE PERSONALIZADO DE NOTICIAS")
-        lines.append("=" * 80)
-        lines.append(f"\nGenerado: {report['generated_at']}")
-        lines.append(f"Total de artículos relevantes: {report['total_articles']}")
-        lines.append(f"Artículos en este reporte: {report['articles_in_report']}")
-        lines.append("\n" + "-" * 80)
-        
-        for i, article in enumerate(report['articles'], 1):
-            lines.append(f"\n{i}. {article['title']}")
-            lines.append(f"   Sección: {article['section']}")
-            lines.append(f"   Score de relevancia: {article['score']:.3f}")
-            lines.append(f"\n   Resumen:")
-            lines.append(f"   {article['summary']}")
-            
-            if article['justification']['matching_categories']:
-                lines.append(f"\n   Categorías coincidentes: {', '.join(article['justification']['matching_categories'])}")
-            
-            if article['justification']['sentiment']:
-                lines.append(f"   Sentimiento: {article['justification']['sentiment']}")
-            
-            lines.append(f"\n   URL: {article['url']}")
-            lines.append("-" * 80)
-        
-        return "\n".join(lines)
-    
-    def generate_pdf(self, report: Dict, output_path: str, user_name: Optional[str] = None) -> bool:
-        """
-        Genera un reporte en formato PDF
+        Genera un reporte en formato PDF con estructura mejorada basada en _format_report_text_custom
         
         Args:
             report: Diccionario del reporte
             output_path: Ruta donde guardar el PDF
             user_name: Nombre del usuario (opcional)
+            user_query: Query del usuario (opcional)
             
         Returns:
             True si se generó exitosamente, False en caso contrario
@@ -222,6 +193,17 @@ class ReportGenerator:
                 textColor=colors.HexColor('#555555'),
                 spaceAfter=12,
                 alignment=TA_CENTER,
+            )
+            
+            # Estilo para títulos de sección
+            section_title_style = ParagraphStyle(
+                'SectionTitle',
+                parent=styles['Heading2'],
+                fontSize=16,
+                textColor=colors.HexColor('#2c3e50'),
+                spaceAfter=12,
+                spaceBefore=20,
+                fontName='Helvetica-Bold'
             )
             
             # Estilo para títulos de artículos
@@ -277,121 +259,151 @@ class ReportGenerator:
                 spaceAfter=6,
             )
             
-            # Encabezado
+            # Estilo para separadores
+            separator_style = ParagraphStyle(
+                'Separator',
+                parent=styles['Normal'],
+                fontSize=8,
+                textColor=colors.HexColor('#bdc3c7'),
+                spaceAfter=10,
+                spaceBefore=10,
+                alignment=TA_CENTER,
+            )
+            
+            # Encabezado principal - Línea superior
+            story.append(Paragraph("=" * 80, separator_style))
+            
+            # Título principal
             story.append(Paragraph("REPORTE PERSONALIZADO DE NOTICIAS", title_style))
+            
+            # Línea inferior del encabezado
+            story.append(Paragraph("=" * 80, separator_style))
+            story.append(Spacer(1, 12))
             
             # Información del usuario
             if user_name:
-                story.append(Paragraph(f"Usuario: {user_name}", subtitle_style))
+                story.append(Paragraph(f"<b>Usuario:</b> {user_name}", subtitle_style))
             
             # Fecha de generación
-            generated_date = datetime.fromisoformat(report['generated_at']).strftime('%d/%m/%Y %H:%M')
-            story.append(Paragraph(f"Generado: {generated_date}", meta_style))
-            story.append(Spacer(1, 12))
-            
-            # Perfil del usuario - Gustos e Intereses
-            user_profile = report.get('user_profile', {})
-            if user_profile:
-                story.append(Paragraph("<b>📋 Perfil de Intereses del Usuario</b>", article_title_style))
-                
-                # Texto del perfil
-                profile_text = user_profile.get('profile_text', '')
-                if profile_text:
-                    story.append(Paragraph(f"<i>{profile_text}</i>", profile_style))
-                    story.append(Spacer(1, 12))
-                
-                # Categorías de interés
-                categories = user_profile.get('categories', [])
-                if categories:
-                    story.append(Paragraph("<b>🏷️  Categorías de Interés:</b>", category_style))
-                    # Mostrar las primeras 15 categorías más relevantes
-                    categories_display = categories[:15]
-                    categories_text = ", ".join(categories_display)
-                    if len(categories) > 15:
-                        categories_text += f" <i>(+{len(categories) - 15} más)</i>"
-                    story.append(Paragraph(categories_text, category_style))
-                    story.append(Spacer(1, 8))
-                
-                # Entidades de interés
-                entities = user_profile.get('entities', [])
-                if entities:
-                    story.append(Paragraph("<b>👤 Entidades Mencionadas en el Perfil:</b>", category_style))
-                    entity_texts = [f"{e['text']} ({e['label']})" for e in entities[:10]]
-                    entities_display = ", ".join(entity_texts)
-                    if len(entities) > 10:
-                        entities_display += f" <i>(+{len(entities) - 10} más)</i>"
-                    story.append(Paragraph(entities_display, category_style))
-                    story.append(Spacer(1, 12))
-            
+            try:
+                generated_date = datetime.fromisoformat(report['generated_at']).strftime('%d/%m/%Y %H:%M')
+                story.append(Paragraph(f"<b>Generado:</b> {generated_date}", meta_style))
+            except:
+                story.append(Paragraph(f"<b>Generado:</b> {report['generated_at']}", meta_style))
             
             story.append(Spacer(1, 20))
             
-            # Título de la sección de artículos
-            story.append(Paragraph("<b>📰 Artículos Recomendados</b>", article_title_style))
-            story.append(Spacer(1, 10))
+            # Mostrar la query en lugar del perfil
+            if user_query:
+                story.append(Paragraph("📝 BÚSQUEDA REALIZADA", section_title_style))
+                story.append(Paragraph("-" * 80, separator_style))
+                story.append(Paragraph(user_query, profile_style))
+                story.append(Spacer(1, 20))
+            
+            # Mostrar categorías de interés si existen
+            user_profile = report.get('user_profile', {})
+            if user_profile and user_profile.get('categories'):
+                story.append(Paragraph("🏷️ CATEGORÍAS DE INTERÉS", section_title_style))
+                story.append(Paragraph("-" * 80, separator_style))
+                categories = user_profile.get('categories', [])[:15]
+                categories_text = ", ".join(categories)
+                if len(user_profile.get('categories', [])) > 15:
+                    categories_text += f" <i>(+{len(user_profile.get('categories', [])) - 15} más)</i>"
+                story.append(Paragraph(categories_text, category_style))
+                story.append(Spacer(1, 20))
+            
+            # Mostrar entidades de interés si existen
+            if user_profile and user_profile.get('entities'):
+                story.append(Paragraph("👤 ENTIDADES MENCIONADAS EN EL PERFIL", section_title_style))
+                story.append(Paragraph("-" * 80, separator_style))
+                entities = user_profile.get('entities', [])[:10]
+                entity_texts = [f"{e['text']} ({e['label']})" for e in entities]
+                entities_display = ", ".join(entity_texts)
+                if len(user_profile.get('entities', [])) > 10:
+                    entities_display += f" <i>(+{len(user_profile.get('entities', [])) - 10} más)</i>"
+                story.append(Paragraph(entities_display, category_style))
+                story.append(Spacer(1, 20))
+            
+            # Sección de artículos recomendados
+            story.append(Paragraph("📰 ARTÍCULOS RECOMENDADOS", section_title_style))
+            story.append(Paragraph("=" * 80, separator_style))
+            story.append(Spacer(1, 15))
             
             # Artículos
-            for i, article in enumerate(report['articles'], 1):
+            articles = report.get('articles', [])
+            for i, article in enumerate(articles, 1):
                 # Título del artículo
-                title_text = f"{i}. {article['title'].replace("-"," ").replace("teleSUR",'')}"
+                title_text = f"{i}. {article.get('title', 'Sin título')}"
                 story.append(Paragraph(title_text, article_title_style))
                 
                 # Metadata
                 meta_info = []
-                meta_info.append(f"<b>Sección:</b> {article['section']}")
-                meta_info.append(f"<b>Score de relevancia:</b> {article['score']:.3f}")
+                meta_info.append(f"<b>Sección:</b> {article.get('section', 'Sin sección')}")
                 
+                # Fecha si existe
                 if article.get('date'):
                     try:
-                        article_date = datetime.fromisoformat(article['date'].replace('Z', '+00:00'))
+                        article_date = datetime.fromisoformat(article.get('date'))
                         meta_info.append(f"<b>Fecha:</b> {article_date.strftime('%d/%m/%Y')}")
                     except:
-                        pass
+                        meta_info.append(f"<b>Fecha:</b> {article.get('date')}")
                 
                 story.append(Paragraph(" | ".join(meta_info), meta_style))
                 story.append(Spacer(1, 8))
                 
-                # Resumen
+                # Resumen/Texto
                 story.append(Paragraph("<b>Resumen:</b>", summary_style))
-                story.append(Paragraph(article['summary'], summary_style))
+                summary = article.get('summary', '')
+                if summary:
+                    # Limitar longitud para mejor visualización en PDF
+                    if len(summary) > 800:
+                        summary = summary[:800] + "..."
+                    story.append(Paragraph(summary, summary_style))
+                
+                story.append(Spacer(1, 8))
                 
                 # Entidades mencionadas en el artículo
                 entities = article.get('entities', [])
                 if entities:
-                    entity_texts = [f"{e['text']}" for e in entities[:8]]
+                    entity_texts = [e['text'] for e in entities[:8]]
                     entities_str = ", ".join(entity_texts)
                     if len(entities) > 8:
                         entities_str += f" <i>(+{len(entities) - 8} más)</i>"
-                    story.append(Paragraph(f"<b>🏷️  Entidades mencionadas:</b> {entities_str}", meta_style))
+                    story.append(Paragraph(f"<b>🏷️ Entidades mencionadas:</b> {entities_str}", meta_style))
                 
                 # Categorías coincidentes
-                if article['justification']['matching_categories']:
-                    categories_text = ", ".join(article['justification']['matching_categories'])
+                justification = article.get('justification', {})
+                if justification.get('matching_categories'):
+                    categories_text = ", ".join(justification['matching_categories'])
                     story.append(Paragraph(f"<b>✓ Categorías coincidentes:</b> {categories_text}", category_style))
                 
                 # Entidades coincidentes (relevante para el usuario)
-                if article['justification'].get('matching_entities'):
-                    matching_entities_text = ", ".join(article['justification']['matching_entities'])
+                if justification.get('matching_entities'):
+                    matching_entities_text = ", ".join(justification['matching_entities'])
                     story.append(Paragraph(f"<b>⭐ Entidades de tu interés:</b> {matching_entities_text}", category_style))
                 
                 # URL
-                url_text = f"<b>URL:</b> <link href='{article['url']}'>{article['url']}</link>"
+                url_text = f"<b>URL:</b> <link href='{article.get('url', '')}'>{article.get('url', '')}</link>"
                 story.append(Paragraph(url_text, meta_style))
                 
                 # Separador entre artículos
-                if i < len(report['articles']):
-                    story.append(Spacer(1, 20))
-                    story.append(Paragraph("─" * 60, meta_style))
+                if i < len(articles):
+                    story.append(Spacer(1, 15))
+                    story.append(Paragraph("-" * 80, separator_style))
                     story.append(Spacer(1, 10))
+            
+            # Pie de página
+            story.append(Spacer(1, 20))
+            story.append(Paragraph("=" * 80, separator_style))
+            story.append(Paragraph(f"<b>Total de artículos en este reporte:</b> {len(articles)}", meta_style))
+            story.append(Paragraph(f"<b>Total de artículos relevantes encontrados:</b> {report.get('total_articles', 0)}", meta_style))
+            story.append(Paragraph("=" * 80, separator_style))
             
             # Generar PDF
             doc.build(story)
-            logger.info(f"PDF generado exitosamente en: {output_path}")
+            logger.info(f"PDF mejorado generado exitosamente en: {output_path}")
             return True
             
         except Exception as e:
-            logger.error(f"Error generando PDF: {e}")
+            logger.error(f"Error generando PDF mejorado: {e}")
             return False
-
-
-

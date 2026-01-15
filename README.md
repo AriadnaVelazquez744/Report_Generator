@@ -61,7 +61,7 @@ Serve the frontend
 ```bash
 cd src/frontend
 # if you edit .ts files, rebuild with: tsc
-python -m http.server 5500  # or any static server
+python3 -m http.server 5500  # or any static server
 # open http://localhost:5500/login.html
 ```
 

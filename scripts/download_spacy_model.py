@@ -64,7 +64,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Descargar modelo de spaCy")
     parser.add_argument(
         "--model",
-        default="es_core_news_lg",
+        default="es_core_news_sm",
         choices=["es_core_news_sm", "es_core_news_lg","es_dep_news_trf"],
         help="Modelo a descargar (default: es_core_news_sm)"
     )

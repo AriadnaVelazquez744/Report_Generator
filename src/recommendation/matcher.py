@@ -301,6 +301,30 @@ class SimpleMatcher:
         if len(article_vector) == 0:
             return 0.0, {}
         
+        # 0. Score de Keywords (emparejamiento exacto de términos clave de la query)
+        keyword_score = 0.0
+        query_terms = user_profile.get('input_data', {}).get('query_terms', [])
+        
+        # Obtener campos del artículo para búsqueda
+        article_title = article.get('title', '').lower()
+        article_text = article.get('text', '').lower()
+        article_tags = " ".join([t.lower() for t in article.get('tags', [])])
+        combined_article_content = f"{article_title} {article_tags} {article_text}"
+        
+        if query_terms:
+            matches = 0
+            for term in query_terms:
+                if term.lower() in combined_article_content:
+                    matches += 1
+            if matches > 0:
+                # Logaritmo para que tener muchos matches no dispare el score linealmente
+                keyword_score = min(1.0, 0.4 + 0.3 * math.log2(matches + 1))
+        
+        # Boost si el término principal está en el título
+        title_boost = 1.0
+        if query_terms and query_terms[0].lower() in article_title:
+            title_boost = 1.2
+        
         # 1. Score semántico
         semantic = self._calculate_semantic_score(user_vector, article_vector)
         
@@ -318,19 +342,37 @@ class SimpleMatcher:
         article_ents = self._extract_quality_entities(article.get('entidades', []))
         entity, matching_ents = self._match_entities(user_ents, article_ents)
         
-        # Pesos fijos
-        w_semantic = 0.45
-        w_category = 0.35
-        w_time = 0.15
-        w_entity = 0.05  # Muy bajo - solo señal complementaria
+        # Pesos dinámicos basados en la longitud de la query
+        # Query corta (< 5 palabras): Priorizar Keywords y Entidades
+        # Query larga (>= 5 palabras): Priorizar Semántico (TF-IDF)
+        
+        tokens = user_profile.get('input_data', {}).get('preprocessed_tokens', [])
+        is_short_query = len(tokens) < 5
+        
+        if is_short_query:
+            # Relevancia específica para términos puntuales
+            w_semantic = 0.20
+            w_keyword = 0.30  # Sube de 10% a 30%
+            w_time = 0.20
+            w_entity = 0.20
+            w_category = 0.10
+        else:
+            # Relevancia semántica para temas generales
+            w_semantic = 0.35  # Sube a 35%
+            w_keyword = 0.10
+            w_time = 0.25
+            w_entity = 0.15
+            w_category = 0.15
         
         final = (w_semantic * semantic + 
+                 w_keyword * keyword_score +
                  w_category * category + 
                  w_time * time_score + 
-                 w_entity * entity)
+                 w_entity * entity) * title_boost
         
         details = {
             'semantic_score': round(semantic, 4),
+            'keyword_score': round(keyword_score, 4),
             'category_score': round(category, 4),
             'time_score': round(time_score, 4),
             'entity_score': round(entity, 4),
@@ -361,15 +403,62 @@ class SimpleMatcher:
             Lista de (artículo, score, detalles)
         """
         results = []
-        
+
+        # Calcular scores para todos los artículos
         for article in articles:
             score, details = self.calculate_score(user_profile, article)
-            
-            if score >= min_score:
-                results.append((article, score, details))
+            results.append((article, score, details))
         
-        # Ordenar por score descendente
+        # DEDUPLICACIÓN: Usar sets para evitar IDs o Títulos repetidos
+        seen_ids = set()
+        seen_titles = set()
+        unique_results = []
+        
+        # Primero ordenar por score para quedarnos con la versión más relevante si hay duplicados
         results.sort(key=lambda x: x[1], reverse=True)
+        
+        for article, score, details in results:
+            article_id = article.get('id')
+            # Limpiar título para comparación (quitar espacios, teleSUR, etc)
+            title = article.get('title', '').lower().replace('- telesur', '').strip()
+            
+            if article_id not in seen_ids and title not in seen_titles:
+                if score >= min_score:
+                    unique_results.append((article, score, details))
+                    seen_ids.add(article_id)
+                    seen_titles.add(title)
+        
+        # ESTRATEGIA DE FALLBACK: Si no hay matches suficientes con el umbral, 
+        # usar los mejores resultados aunque tengan score bajo (pero manteniendo unicidad)
+        if len(unique_results) < 3:
+            unique_results = []
+            seen_ids = set()
+            seen_titles = set()
+            for article, score, details in results:
+                article_id = article.get('id')
+                title = article.get('title', '').lower().replace('- telesur', '').strip()
+                if article_id not in seen_ids and title not in seen_titles:
+                    unique_results.append((article, score, details))
+                    seen_ids.add(article_id)
+                    seen_titles.add(title)
+                    if len(unique_results) >= top_k:
+                        break
+            return unique_results[:top_k]
+        
+        results = unique_results
+        
+        # Ordenar primero por score, luego desempatar por fecha (más recientes primero)
+        def get_article_date(item):
+            article = item[0]
+            date_str = article.get('date') or article.get('source_metadata', {}).get('date', '')
+            try:
+                if date_str:
+                    return datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+            except:
+                pass
+            return datetime.min.replace(tzinfo=timezone.utc)
+        
+        results.sort(key=lambda x: (x[1], get_article_date(x)), reverse=True)
         
         # Aplicar diversidad simple: evitar artículos muy similares
         if len(results) > top_k:

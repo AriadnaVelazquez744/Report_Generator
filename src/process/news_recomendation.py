@@ -81,12 +81,10 @@ def process_user_input(
 ) -> Dict[str, Any]:
     """
     Procesa el input del usuario desde la casilla de texto.
-    Similar al procesamiento de artículos en main.py pero para texto del usuario.
+    para extraer entidades y temas relevantes de queries cortas.
     
     Args:
         user_input: Texto ingresado por el usuario en la casilla
-        text_processor: Instancia de TextPreprocessor
-        annotator: Instancia de RegexAnnotator
         nlp: Modelo de spaCy para extracción de entidades (opcional)
         
     Returns:
@@ -95,38 +93,68 @@ def process_user_input(
         - categories: Categorías detectadas
         - entities: Entidades extraídas
         - preprocessed_tokens: Tokens preprocesados
+        - query_terms: Términos clave de la query original (para matching)
     """
     if not user_input or not user_input.strip():
         return {
             'clean_text': '',
             'categories': [],
             'entities': [],
-            'preprocessed_tokens': []
+            'preprocessed_tokens': [],
+            'query_terms': []
         }
     
     try:
-        text_processor = TextPreprocessor(use_spacy=False, remove_stopwords=True)
+        # Usar spaCy para mejor tokenización y lematización
+        text_processor = TextPreprocessor(use_spacy=True, remove_stopwords=True)
         annotator = RegexAnnotator()
         
-        # Preprocesar texto (similar a process_single_article en main.py)
+        # Detectar entidades ANTES de limpiar (para preservar mayúsculas/nombres)
+        current_ents = []
+        if nlp:
+            doc = nlp(user_input)  # Usar texto original, no limpio
+            for ent in doc.ents:
+                # Priorizar entidades de personas, lugares, organizaciones
+                if ent.label_ in {'PER', 'ORG', 'GPE', 'LOC', 'MISC'}:
+                    current_ents.append({'text': ent.text, 'label': ent.label_})
+        
+        # Extraer términos clave de la query original
+        query_terms = []
+        words = user_input.split()
+        for word in words:
+            cleaned_word = word.strip('.,;:!?¿¡"\'()[]{}')
+            if len(cleaned_word) >= 2: # Bajar a 2 para capturar siglas ej "EU"
+                # Mantener palabras que empiezan con mayúscula (nombres propios)
+                if cleaned_word[0].isupper():
+                    query_terms.append(cleaned_word)
+                # También mantener términos que no sean stopwords y tengan longitud mínima
+                elif len(cleaned_word) >= 3:
+                    # Solo agregar si no es una stopword común (aquí es simplista, spaCy hará el resto)
+                    query_terms.append(cleaned_word.lower())
+        
+        # Eliminar duplicados manteniendo orden
+        query_terms = list(dict.fromkeys(query_terms))
+        
+        # Preprocesar texto para vectorización
         clean_tokens = text_processor.preprocess(user_input, return_tokens=True)
         clean_text = ' '.join(clean_tokens)
         
-        # Procesar con spaCy si está disponible
-        current_ents = []
-        if nlp:
-            doc = nlp(clean_text)
-            current_ents = [{'text': e.text, 'label': e.label_} for e in doc.ents]
+        # Si la query es muy corta, agregar los términos de entidades al texto limpio
+        # para mejorar el matching semántico
+        if len(clean_tokens) < 10 and current_ents:
+            entity_terms = ' '.join([e['text'].lower() for e in current_ents])
+            clean_text = f"{clean_text} {entity_terms}"
         
         # Anotar con regex para detectar categorías
-        annotations = annotator.annotate(clean_text)
+        annotations = annotator.annotate(user_input)  # Usar original para mejor detección
         categories = annotations.get('categories', [])
         
         return {
             'clean_text': clean_text,
             'categories': categories,
             'entities': current_ents,
-            'preprocessed_tokens': clean_tokens
+            'preprocessed_tokens': clean_tokens,
+            'query_terms': query_terms
         }
     except Exception as e:
         logger.error(f"Error procesando input del usuario: {e}")
@@ -134,7 +162,8 @@ def process_user_input(
             'clean_text': user_input,
             'categories': [],
             'entities': [],
-            'preprocessed_tokens': []
+            'preprocessed_tokens': [],
+            'query_terms': []
         }
 
 
@@ -224,115 +253,7 @@ def combine_user_profile_with_input(
         'original_profile': user_profile,
         'input_data': processed_input
     }
-
-
-def find_relevant_articles(
-    combined_profile: Dict[str, Any],
-    articles: List[Dict[str, Any]],
-    matcher: NewsMatcher,
-    top_k: int = 10,
-    prioritize_recent: bool = True,
-    timeout_sec: float = 60.0,
-    start_time: Optional[float] = None
-) -> List[Tuple[Dict[str, Any], float, Dict[str, Any]]]:
-    """
-    Encuentra los artículos más relevantes usando el matcher.
-    Prioriza artículos más actuales si prioritize_recent=True.
     
-    Args:
-        combined_profile: Perfil combinado del usuario
-        articles: Lista de artículos disponibles
-        matcher: Instancia de NewsMatcher
-        top_k: Número de artículos a retornar
-        prioritize_recent: Si True, da más peso a artículos recientes
-        
-    Returns:
-        Lista de tuplas (artículo, score, detalles) ordenadas por relevancia
-    """
-    import time
-    
-    min_score = 0.15
-    start_time = start_time or time.monotonic()
-    
-    def _article_recency_key(article: Dict[str, Any]) -> float:
-        """
-        Intenta derivar una clave de recencia:
-        1) Extrae número de carpeta Data_articlesNN de _file_path
-        2) Usa timestamp del archivo si existe
-        3) Usa id negativo (para que ids más altos sean primero)
-        """
-        path = article.get("_file_path", "")
-        number_hint = -1
-        for token in str(path).split(os.sep):
-            if token.startswith("Data_articles"):
-                suffix = token.replace("Data_articles", "")
-                if suffix.isdigit():
-                    number_hint = int(suffix)
-                    break
-        mtime = -1.0
-        try:
-            if path and os.path.exists(path):
-                mtime = os.path.getmtime(path)
-        except Exception:
-            pass
-        article_id = article.get("id", 0)
-        # Prioridad: número de carpeta, luego mtime, luego id
-        return (number_hint, mtime, article_id)
-    
-    # Ordenar artículos para revisar primero los más nuevos
-    ordered_articles = sorted(
-        articles,
-        key=_article_recency_key,
-        reverse=True  # más nuevos primero
-    )
-    
-    # Recorremos manualmente para respetar timeout
-    candidate_results: List[Tuple[Dict[str, Any], float, Dict[str, Any]]] = []
-    max_candidates = top_k * 2 if prioritize_recent else top_k
-    
-    for article in ordered_articles:
-        # Timeout hard-stop
-        if time.monotonic() - start_time > timeout_sec:
-            break
-        
-        score, details = matcher.calculate_score(combined_profile, article)
-        if score >= min_score:
-            candidate_results.append((article, score, details))
-            if len(candidate_results) >= max_candidates:
-                # Tenemos suficientes candidatos; seguimos por si mejora con recencia pero respetando timeout
-                continue
-    
-    # Ordenar por score descendente
-    matches = sorted(candidate_results, key=lambda x: x[1], reverse=True)
-    
-    if not prioritize_recent or len(matches) <= top_k:
-        # Si no priorizamos recencia o ya tenemos suficientes, retornar directamente
-        return matches[:top_k]
-    
-    # Si priorizamos recencia, reordenar considerando el time_score
-    # El matcher ya calcula time_score, así que podemos usarlo para reordenar
-    scored_matches = []
-    for article, score, details in matches:
-        time_score = details.get('time_score', 0.5)
-        # Aumentar ligeramente el score de artículos recientes
-        # Multiplicar por un factor que favorece recencia
-        recency_boost = 1.0 + (time_score - 0.5) * 0.3  # Boost de hasta 15% para artículos muy recientes
-        adjusted_score = score * recency_boost
-        scored_matches.append((article, adjusted_score, details, score))
-    
-    # Ordenar por score ajustado
-    scored_matches.sort(key=lambda x: x[1], reverse=True)
-    
-    # Retornar top_k con el formato original
-    result = []
-    for article, adjusted_score, details, original_score in scored_matches[:top_k]:
-        # Mantener el score original en details pero usar el ajustado para ordenamiento
-        details['original_score'] = original_score
-        details['adjusted_score'] = adjusted_score
-        result.append((article, original_score, details))
-    
-    return result
-
 
 def find_relevant_articles_with_time_strategy(
     combined_profile: Dict[str, Any],
@@ -370,6 +291,32 @@ def find_relevant_articles_with_time_strategy(
     all_results: List[Tuple[Dict[str, Any], float, Dict[str, Any]]] = []
     articles_reviewed = 0
     
+    # Helper para deduplicar
+    def _deduplicate_and_sort(results):
+        seen_ids = set()
+        seen_titles = set()
+        unique = []
+        # Sort by score descending
+        results.sort(key=lambda x: x[1], reverse=True)
+        
+        for item in results:
+            article = item[0]
+            aid = article.get('id')
+            # Normalización agresiva del título para detectar duplicados
+            title = article.get('title', '').lower().strip()
+            # Remover puntuación simple y comillas
+            title = title.replace('.', '').replace(',', '').replace('"', '').replace("'", "").replace('“', '').replace('”', '')
+            
+            if aid and aid in seen_ids:
+                continue
+            if title and title in seen_titles:
+                continue
+                
+            if aid: seen_ids.add(aid)
+            if title: seen_titles.add(title)
+            unique.append(item)
+        return unique
+
     # Obtener directorios ordenados de mayor a menor
     article_dirs = get_sorted_article_directories(base_articles_path)
     
@@ -397,7 +344,9 @@ def find_relevant_articles_with_time_strategy(
                     all_results.append((article, score, details))
             
             # Verificar si ya tenemos suficientes artículos altamente coincidentes
-            high_relevance_count = sum(1 for _, score, _ in all_results if score >= high_relevance_threshold)
+            # Primero deduplicamos temporalmente para contar correctamente
+            unique_temp = _deduplicate_and_sort(all_results)
+            high_relevance_count = sum(1 for _, score, _ in unique_temp if score >= high_relevance_threshold)
             
             if time.monotonic() - start_time >= initial_timeout_sec:
                 logger.info(f"Tiempo inicial de {initial_timeout_sec}s alcanzado")
@@ -405,9 +354,7 @@ def find_relevant_articles_with_time_strategy(
                 
                 if high_relevance_count >= min_high_relevance_count:
                     logger.info(f"Criterio cumplido: {high_relevance_count} >= {min_high_relevance_count}. Deteniendo búsqueda.")
-                    # Ordenar y devolver top k
-                    all_results.sort(key=lambda x: x[1], reverse=True)
-                    return all_results[:top_k], articles_reviewed
+                    return unique_temp[:top_k], articles_reviewed
                 else:
                     logger.info(f"Criterio no cumplido. Extendiendo búsqueda por {extended_timeout_sec}s más.")
                     break
@@ -427,9 +374,9 @@ def find_relevant_articles_with_time_strategy(
         try:
             articles = load_articles_with_vectors(dir_path)
             
-            # Evitar duplicados
-            article_ids = [a[0].get('id', '') for a in all_results]
-            articles = [a for a in articles if a.get('id', '') not in article_ids]
+            # Evitar duplicados por ID antes de procesar (optimización)
+            current_ids = {a[0].get('id') for a in all_results if a[0].get('id')}
+            articles = [a for a in articles if a.get('id') not in current_ids]
             
             for article in articles:
                 articles_reviewed += 1
@@ -448,13 +395,13 @@ def find_relevant_articles_with_time_strategy(
             logger.error(f"Error procesando directorio {dir_path}: {e}")
             continue
     
-    # Ordenar y devolver top k
-    all_results.sort(key=lambda x: x[1], reverse=True)
-    final_count = min(len(all_results), top_k)
+    # Deduplicar, ordenar y devolver top k
+    final_results = _deduplicate_and_sort(all_results)
+    final_count = min(len(final_results), top_k)
     logger.info(f"Búsqueda completada. Devolviendo {final_count} artículos más relevantes")
     logger.info(f"Total de artículos revisados: {articles_reviewed}")
     
-    return all_results[:top_k], articles_reviewed
+    return final_results[:top_k], articles_reviewed
 
 
 def generate_report_recommendations(

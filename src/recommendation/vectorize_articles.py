@@ -49,6 +49,9 @@ def load_articles_with_vectors(directory_path: str) -> List[Dict[str, Any]]:
                         # Verificar que tiene vector pre-calculado
                         if 'vector' in article and isinstance(article.get('vector'), list):
                             article['_file_path'] = file_path
+                            # Extract date if missing
+                            if 'date' not in article and 'source_metadata' in article:
+                                article['date'] = article['source_metadata'].get('date')
                             articles.append(article)
                         else:
                             logger.debug(f"Artículo sin vector: {filename}")
