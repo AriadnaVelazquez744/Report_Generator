@@ -1,0 +1,145 @@
+\documentclass[11pt,a4paper]{article} \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc} \usepackage[spanish]{babel} \usepackage{geometry}
+\usepackage{hyperref} \usepackage{enumitem} \usepackage{xcolor}
+\geometry{margin=2.5cm} \setlist{nosep}
+
+\title{Informe de Proyecto: Report Generator \\ \large Un Sistema de Curación y
+Síntesis de Noticias Personalizadas} \author{Equipo NLP} \date{\today}
+
+\begin{document} \maketitle
+
+\section*{Resumen Ejecutivo} Report Generator es un sistema de software que
+aborda el desafío de la sobrecarga informativa mediante la automatización de un
+flujo de trabajo completo: desde la ingesta de noticias hasta la entrega de un
+reporte personalizado, resumido y listo para su consumo. El sistema se nutre del
+canal de Telegram de \textbf{Telesur en español}, procesa los artículos para
+construir un corpus de conocimiento, y lo utiliza para generar informes
+alineados con los intereses específicos de cada usuario.
+
+El valor diferencial del proyecto reside en la combinación de tres capacidades
+clave: \begin{enumerate} \item \textbf{Motor de recomendación explicable}, que
+no solo selecciona contenido relevante, sino que justifica sus decisiones
+mostrando las coincidencias temáticas y de entidades que motivaron la selección.
+\item \textbf{Capacidad de síntesis dual}, que puede operar con un modelo
+algorítmico clásico (TextRank) o con un modelo avanzado de Deep Learning (basado
+en redes Pointer-Generator) para generar resúmenes de alta calidad. \item
+\textbf{Arquitectura autocontenida y portable}, que utiliza una API ligera
+(FastAPI) y persistencia en archivos JSON, garantizando un despliegue sencillo y
+una alta auditabilidad. \end{enumerate} El resultado es una herramienta
+funcional que transforma un flujo de noticias en bruto en inteligencia
+accionable, entregada en un formato profesional y portable (PDF).
+
+\section{Introducción} En el ecosistema mediático actual, el acceso a la
+información es ilimitado, pero la capacidad de atención del usuario es finita.
+La verdadera ventaja competitiva no radica en tener más datos, sino en extraer
+el conocimiento relevante de manera eficiente. Report Generator fue concebido
+para resolver este problema, actuando como un analista personal automatizado que
+monitorea una fuente de noticias, la filtra según los intereses del usuario y
+presenta los hallazgos de forma concisa.
+
+El proyecto se distingue por ir más allá de una simple recomendación. Su
+propósito es entregar un producto final de alto valor: un \textbf{reporte de
+inteligencia} que no solo informa, sino que contextualiza y sintetiza,
+permitiendo al usuario asimilar los puntos clave de múltiples noticias en una
+fracción del tiempo que requeriría su lectura individual.
+
+\section{Metodología y Arquitectura Técnica} El sistema está organizado en un
+pipeline de cuatro etapas principales, cada una con componentes técnicos
+específicos que contribuyen al resultado final.
+
+\subsection{Etapa 1: Ingesta y Estructuración de Datos} La base del sistema es
+un corpus de noticias actualizado y bien estructurado. La fuente principal es el
+canal de Telegram de \textbf{Telesur en español}. \begin{itemize} \item
+\textbf{Extracción Automatizada}: Un componente de \textit{scraping} monitorea
+el canal, extrae las URLs de los artículos compartidos y recopila metadatos
+asociados al mensaje original (fecha, vistas, reacciones). \item
+\textbf{Procesamiento de Contenido}: Cada URL es procesada para extraer y
+estructurar la información clave del artículo: título, sección, etiquetas
+temáticas y el cuerpo del texto completo. Se aplican filtros para eliminar ruido,
+como frases promocionales o enlaces no pertinentes. \item
+\textbf{Almacenamiento Estructurado}: Los artículos procesados se guardan en
+formato JSON, creando un corpus local que sirve como la única fuente de verdad
+para el resto del sistema. Esta arquitectura de archivos facilita la
+portabilidad, el versionado y la depuración. \end{itemize}
+
+\subsection{Etapa 2: Modelado de Perfil de Usuario y Recomendación} El núcleo
+de la personalización reside en un motor de recomendación que entiende los
+intereses del usuario y los coteja con el corpus de noticias. \begin{itemize}
+\item \textbf{Creación de Perfil Semántico}: Los intereses del usuario,
+expresados a través de una consulta en lenguaje natural o mediante la selección
+de categorías, se transforman en un \textit{perfil vectorial}. Este perfil no es
+una simple bolsa de palabras, sino una representación matemática en un espacio
+de alta dimensionalidad que captura las relaciones semánticas entre los
+conceptos de interés. \item \textbf{Vectorización del Corpus (TF-IDF)}: Todos
+los artículos del corpus son procesados y convertidos en vectores utilizando el
+algoritmo TF-IDF (Term Frequency-Inverse Document Frequency). Este método
+pondera la importancia de cada término no solo por su frecuencia en un artículo,
+sino también por su rareza en el conjunto total de documentos, otorgando mayor
+peso a las palabras que son verdaderamente distintivas de un tema. \item
+\textbf{Matching por Similitud de Coseno}: El sistema calcula la similitud del
+coseno entre el vector del perfil del usuario y el vector de cada artículo. Este
+cálculo produce una puntuación de relevancia que permite ordenar los artículos
+de más a menos pertinentes. \item \textbf{Recomendación Explicable (XAI)}: Una
+de las contribuciones más significativas del proyecto es su capacidad de
+justificar las recomendaciones. Junto con la puntuación de relevancia, el
+sistema devuelve las \textit{categorías} y \textit{entidades} (personas, lugares,
+organizaciones) que coinciden entre el perfil del usuario y el artículo,
+ofreciendo una transparencia que fomenta la confianza y permite al usuario
+entender el "porqué" de cada sugerencia. \end{itemize}
+
+\subsection{Etapa 3: Síntesis de Contenido (Summarization)} Para maximizar la
+eficiencia del usuario, los artículos seleccionados son resumidos
+automáticamente. El sistema implementa una arquitectura de síntesis dual:
+\begin{itemize} \item \textbf{Summarizer Algorítmico (Baseline)}: Como base, se
+utiliza un extractor de resúmenes basado en el algoritmo \textbf{TextRank}, que
+identifica las oraciones más representativas de un texto basándose en un grafo
+de similitud. Es rápido y robusto. \item \textbf{Summarizer Neuronal (Avanzado)}:
+El sistema está preparado para integrar un modelo de Deep Learning abstracto,
+basado en una arquitectura \textbf{Pointer-Generator Network (PGN)}. Este tipo
+de modelo es capaz de "entender" el texto y generar un resumen nuevo, pudiendo
+copiar palabras textuales (puntero) o generar palabras nuevas del vocabulario
+(generador). Esto le permite manejar entidades y términos raros con mayor
+precisión que los modelos secuencia a secuencia tradicionales. \end{itemize}
+
+\subsection{Etapa 4: Generación del Reporte Final} El producto final es un
+reporte profesional en formato PDF, generado mediante la librería
+\texttt{reportlab}. Este componente organiza toda la información curada y
+sintetizada en un documento coherente y fácil de leer, que incluye:
+\begin{itemize} \item Una portada con el título del reporte y la fecha de
+generación. \item Un resumen de los intereses del usuario o la consulta que
+originó el reporte. \item Una lista de los artículos recomendados, cada uno con
+su título, sección, fecha, el resumen generado y un enlace a la fuente original.
+\end{itemize}
+
+\section{Aportes y Valor del Proyecto} El valor de Report Generator no radica
+en un único algoritmo, sino en la \textbf{integración sinérgica de múltiples
+técnicas de NLP en un flujo de trabajo automatizado de extremo a extremo}.
+\begin{itemize} \item \textbf{De la Información al Conocimiento}: El proyecto
+materializa el concepto de convertir datos (noticias en bruto) en conocimiento
+accionable (un reporte personalizado y resumido), resolviendo un problema real
+para cualquier persona que necesite mantenerse informada sobre temas específicos.
+\item \textbf{Inteligencia Artificial Pragmática y Explicable}: En lugar de una
+"caja negra", el sistema ofrece transparencia en sus recomendaciones. Este
+enfoque de IA Explicable (XAI) es fundamental para aplicaciones donde la
+confianza y la comprensión del usuario son prioritarias. \item
+\textbf{Flexibilidad Arquitectónica}: La arquitectura modular, como la capacidad
+de intercambiar modelos de resumen, demuestra un diseño robusto y preparado para
+futuras mejoras. La elección de una API ligera y persistencia en archivos es una
+decisión estratégica que favorece la portabilidad y la simplicidad en el
+despliegue, haciéndolo ideal para pruebas de concepto, entornos académicos o
+sistemas embebidos. \end{itemize}
+
+\section{Conclusión} Report Generator es una demostración exitosa de cómo las
+técnicas modernas de Procesamiento del Lenguaje Natural pueden ser orquestadas
+para crear herramientas de productividad intelectual de alto impacto. El sistema
+no solo filtra información, sino que la sintetiza y la contextualiza, entregando
+un producto final que ahorra tiempo y mejora la comprensión.
+
+El proyecto establece una base sólida sobre la cual se pueden construir futuras
+mejoras, como la integración de múltiples fuentes de noticias, análisis de
+sentimiento más profundos o la personalización del estilo de los resúmenes. Como
+solución autocontenida y funcional, cumple con su objetivo de transformar el
+consumo de noticias de una actividad pasiva a un proceso de inteligencia activa
+y personalizada.
+
+\end{document}
