@@ -51,7 +51,7 @@ def _get_env(key: str, default: str | None = None) -> Optional[str]:
 
 
 # Configuración y rutas
-TELEGRAM_GROUP = _get_env("tg_group_username", "teleSURtv")
+TELEGRAM_GROUP = _get_env("tg_group_username", "teleSUR_tv")
 TG_API_ID = _get_env("api_id")
 TG_API_HASH = _get_env("api_hash")
 

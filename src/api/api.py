@@ -102,6 +102,7 @@ def _try_auto_update_news() -> None:
             if hasattr(module, "run_news_update"):
                 module.run_news_update()
         except Exception as e:
+            print(e)
             logger.debug(f"No se pudo ejecutar actualización automática: {e}")
     
     # Ejecutar en thread separado para no bloquear el startup
