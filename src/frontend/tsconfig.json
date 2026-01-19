@@ -1,20 +1,3 @@
-{
-  "compilerOptions": {
-    "target": "ES2020",
-    "module": "ESNext",
-    "lib": ["ES2020", "DOM"],
-    "moduleResolution": "bundler",
-    "outDir": "./",
-    "rootDir": "./",
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
-    "resolveJsonModule": true,
-    "allowSyntheticDefaultImports": true
-  },
-  "include": ["*.ts"],
-  "exclude": ["node_modules"]
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e472d41688c1caeb8ebdbd5b3fa1c9e823c8edbc2c37eddc10feeeb5a0e7a94e
+size 434

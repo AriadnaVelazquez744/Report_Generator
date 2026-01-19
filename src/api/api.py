@@ -396,7 +396,7 @@ def _ensure_matching_components() -> tuple[UserProfileVectorizer, NewsMatcher]:
 
         # 4. Re-entrenar vectorizador si es necesario
         if should_refit:
-            print("🔧 Entrenando nuevo vectorizador...")
+            print("Entrenando nuevo vectorizador...")
             processed_articles: List[Dict[str, Any]] = []
             clean_texts: List[str] = []
 
@@ -448,7 +448,7 @@ def _ensure_matching_components() -> tuple[UserProfileVectorizer, NewsMatcher]:
                 }
                 processed_articles.append(processed)
 
-        # 5. Guardar cache de artículos procesados
+        # Guardar cache de artículos procesados
         try:
             print("💾 Guardando cache de artículos...")
             with open(articles_cache_path, 'wb') as f:
