@@ -35,6 +35,10 @@ class ArticleLoader:
             Diccionario con el artículo o None si hay error
         """
         try:
+            if not file_path.exists() or file_path.stat().st_size == 0:
+                logger.warning(f"El archivo {file_path} está vacío o no existe")
+                return None
+            
             with open(file_path, 'r', encoding='utf-8') as f:
                 article = json.load(f)
 

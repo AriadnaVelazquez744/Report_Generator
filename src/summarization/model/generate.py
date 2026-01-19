@@ -534,7 +534,6 @@ def main():
     
     model_path = os.path.join('/Users/alberto/Desktop/ARI/Report_Generator/src/summarization/finetune_last-v2.pt')
         
-    # 5. Generar
     generator = Generator(config, vocab, model_path)
 
     interactive_mode(generator)
