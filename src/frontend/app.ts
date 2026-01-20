@@ -171,24 +171,46 @@ function displayMessage(message: SessionMessage) {
 function renderReport(report: any): string {
     if (!report) return '<p>No hay datos del reporte</p>';
 
+    const articles: any[] = Array.isArray(report.articles) ? report.articles : [];
+    const articlesStats: any[] = Array.isArray(report.articles_stats) ? report.articles_stats : [];
+    const categoriesOfInterest: string[] = Array.isArray(report.categories_of_interest)
+        ? report.categories_of_interest
+        : [];
+
+    const totalInReport = articles.length;
+    const totalRelevant = typeof articlesStats[0] === 'number' ? articlesStats[0] : totalInReport;
+    const totalShown = typeof articlesStats[1] === 'number' ? articlesStats[1] : totalInReport;
+
     let html = `
         <div class="report-header">
             <h3>📰 Reporte Personalizado</h3>
             <div class="report-meta">
                 <div class="meta-line">Generado: ${new Date(report.generated_at).toLocaleString('es-ES')}</div>
-                <div class="meta-line">Total de artículos en este reporte: ${report.articles_stats[1] || 0}</div>
-                <div class="meta-line">Total de artículos relevantes encontrados: ${report.articles_stats[0] || 0}</div>
-                <div class="meta-line">
-                    Categorías de Interés: ${report.categories_of_interest.map((cat: string) =>
-        `<span class="category-tag">${escapeHtml(cat)}</span>`
-    ).join('')}
-                </div>
+                <div class="meta-line">Total de artículos en este reporte: ${totalShown}</div>
+                <div class="meta-line">Total de artículos relevantes encontrados: ${totalRelevant}</div>
+                ${categoriesOfInterest.length > 0
+        ? `<div class="meta-line">Categorías de Interés: ${categoriesOfInterest
+            .map((cat: string) => `<span class="category-tag">${escapeHtml(cat)}</span>`)
+            .join('')}</div>`
+        : ''}
             </div>
         </div>
     `;
 
-    if (report.articles && report.articles.length > 0) {
-        report.articles.forEach((article: any, index: number) => {
+    if (articles.length > 0) {
+        const sortedArticles = [...articles].sort((a: any, b: any) => {
+            const timeB = parseReportDate(b.date);
+            const timeA = parseReportDate(a.date);
+
+            if (timeB === null && timeA === null) return 0;
+            if (timeB === null) return -1;
+            if (timeA === null) return 1;
+
+            // timeB - timeA => fechas más recientes primero
+            return timeB - timeA;
+        });
+
+        sortedArticles.forEach((article: any, index: number) => {
             html += `
                 <div class="article-card">
                     <div class="article-title">${index + 1}. ${escapeHtml(article.title || 'Sin título')}</div>
@@ -485,6 +507,37 @@ function escapeHtml(text: string): string {
     const div = document.createElement('div');
     div.textContent = text;
     return div.innerHTML;
+}
+
+function parseReportDate(dateStr: string | null | undefined): number | null {
+    if (!dateStr || dateStr === 'Sin fecha' || dateStr === 'Fecha no disponible') {
+        return null;
+    }
+
+    const direct = Date.parse(dateStr);
+    if (!Number.isNaN(direct)) {
+        return direct;
+    }
+
+    const parts = dateStr.split(' ');
+    const datePart = parts[0];
+    const timePart = parts[1] || '00:00';
+    const dateSegments = datePart.split('/').map(Number);
+
+    if (dateSegments.length !== 3) {
+        return null;
+    }
+
+    const [day, month, year] = dateSegments;
+    if (!day || !month || !year) {
+        return null;
+    }
+
+    const timeSegments = timePart.split(':').map(Number);
+    const hour = timeSegments[0] || 0;
+    const minute = timeSegments[1] || 0;
+
+    return new Date(year, month - 1, day, hour, minute).getTime();
 }
 
 function formatTime(timestamp: string): string {
