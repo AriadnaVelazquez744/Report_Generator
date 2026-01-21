@@ -96,7 +96,7 @@ identifica las oraciones más representativas de un texto basándose en un grafo
 de similitud. Es rápido y robusto. \item \textbf{Summarizer Neuronal (Avanzado)}:
 El sistema está preparado para integrar un modelo de Deep Learning abstracto,
 basado en una arquitectura \textbf{Pointer-Generator Network (PGN)}. Este tipo
-de modelo es capaz de "entender" el texto y generar un resumen nuevo, pudiendo
+de modelo es capaz de entender el texto y generar un resumen nuevo, pudiendo
 copiar palabras textuales (puntero) o generar palabras nuevas del vocabulario
 (generador). Esto le permite manejar entidades y términos raros con mayor
 precisión que los modelos secuencia a secuencia tradicionales. \end{itemize}
@@ -111,6 +111,136 @@ originó el reporte. \item Una lista de los artículos recomendados, cada uno co
 su título, sección, fecha, el resumen generado y un enlace a la fuente original.
 \end{itemize}
 
+\section{Componentes de Software y Flujo Interno}
+Esta sección detalla los componentes concretos que implementan el pipeline
+descrito anteriormente y cómo se comunican entre sí dentro del proyecto
+\texttt{Report\_Generator}.
+
+\subsection{Capa de Ingesta y Preprocesamiento}
+En la primera etapa, el sistema construye y mantiene el corpus local de
+artículos a partir del canal de Telegram de Telesur:
+\begin{itemize}
+  \item \textbf{Extracción desde Telegram}: El módulo
+  \texttt{telegram/extract\_data\_tg.py} define la clase \textbf{ScraperT},
+  responsable de monitorear el canal de Telegram, descargar los mensajes y
+  extraer las URLs de las noticias. Estos datos se almacenan como archivos JSON en directorios del
+  tipo \texttt{Data/Data\_articles\,<n>}, que constituyen el ``cuerpo crudo'' del
+  sistema.
+  \item \textbf{Preprocesamiento lingüístico}: El módulo
+  \texttt{src/nlp/preprocessing.py} implementa la clase
+  \textbf{TextPreprocessor}, que limpia el texto eliminando ruido editorial
+  (patrones como ``LEA TAMBIÉN''), normaliza espacios, tokeniza, elimina
+  stopwords y, cuando es posible, aplica lematización en español mediante
+  \texttt{spaCy}. Este preprocesador se utiliza tanto para artículos como para
+  entradas de usuario.
+  \item \textbf{Anotación por expresiones regulares}: El módulo
+  \texttt{src/nlp/regex\_annotator.py} define un anotador basado en reglas
+  (\textbf{RegexAnnotator}) que detecta categorías temáticas específicas del
+  dominio (política latinoamericana, conflictos internacionales, economía,
+  derechos humanos, etc.). Estas categorías se guardan en cada artículo y se
+  reutilizan más adelante en el motor de recomendación.
+\end{itemize}
+
+\subsection{Vectorización, Perfiles de Usuario y Motor de Matching}
+La segunda etapa se materializa en una serie de componentes ubicados en el
+paquete \texttt{src/recommendation}:
+\begin{itemize}
+  \item \textbf{Vectorizador de noticias}: El módulo
+  \texttt{src/recommendation/vectorizer.py} implementa la clase
+  \textbf{NewsVectorizer}, que envuelve un modelo TF--IDF de
+  \texttt{scikit-learn}. Este vectorizador convierte los textos limpios de los
+  artículos en vectores numéricos de alta dimensionalidad, reutilizables en la API de producción.
+  \item \textbf{Perfiles vectoriales de usuario}: Sobre \textbf{NewsVectorizer}
+  se construye \textbf{UserProfileVectorizer}, que recibe el texto de perfil
+  del usuario (o su consulta en lenguaje natural) y produce vectores consistentes
+  con el espacio semántico del corpus. El módulo \\
+  \texttt{src/recommendation/user\_profile.py} incluye
+  \textbf{UserProfileManager}, encargado de extraer entidades con
+  \texttt{spaCy}, consolidar categorías y generar un perfil enriquecido y
+  persistente en \texttt{Data/Data\_users/users.json}.
+  \item \textbf{Motor de matching}: El archivo
+  \texttt{src/recommendation/matcher.py} define la clase
+  \textbf{NewsMatcher} (un matcher simplificado v6) que calcula la relevancia
+  de cada artículo respecto al perfil combinado del usuario. El score final
+  integra varios factores: similitud semántica por coseno entre vectores TF--IDF,
+  coincidencia de categorías, coincidencia de entidades (personas, países,
+  organizaciones) y un componente de recencia temporal basado en decaimiento
+  exponencial. El mismo módulo implementa estrategias de deduplicación y
+  diversidad para evitar recomendaciones redundantes.
+  \item \textbf{Estrategia de búsqueda por tiempo}: El módulo
+  \texttt{src/process/news\_recomendation.py} implementa el pipeline
+  operativo de recomendación a través de funciones como
+  \texttt{process\_user\_input}, \texttt{combine\_user\_profile\_with\_input}
+  y \texttt{find\_relevant\_articles\_with\_time\_strategy}. Esta última
+  recorre los directorios \texttt{Data\_articles\,n} empezando por los más
+  recientes, aplica \textbf{NewsMatcher} y se detiene cuando se cumple un
+  criterio de calidad (suficientes artículos altamente coincidentes) o un
+  límite de tiempo global, equilibrando cobertura y latencia.
+\end{itemize}
+
+\subsection{Síntesis de Contenido y Generación de Reportes}
+La tercera y cuarta etapa integran los módulos de resumen automático y de
+construcción de reportes finales:
+\begin{itemize}
+  \item \textbf{Summarizers}: El módulo
+  \texttt{src/summarization/summarizer.py} provee dos resumidores
+  principales. \textbf{TextRankSummarizer} implementa un resumen extractivo
+  ligero basado en posición y longitud de oraciones, mientras que
+  \textbf{ModelSummarizer} actúa como fachada sobre un modelo
+  \textit{Pointer-Generator Network} entrenado específicamente, cuando el
+  fichero de pesos está disponible. Adicionalmente,
+  \textbf{PersonalizedSummarizer} permite ponderar oraciones según las
+  categorías de interés del usuario.
+  \item \textbf{Formateo intermedio de reportes}: El módulo
+  \texttt{src/process/report\_formatter.py} sirve de intermediario entre el
+  pipeline de recomendación y el generador de reportes. La función
+  \texttt{generate\_report\_from\_user\_query} orquesta el proceso de extremo
+  a extremo: invoca a \texttt{generate\_report\_recommendations}, aplica el
+  resumen automático a los artículos seleccionados y transforma las salidas del
+  matcher en una estructura uniforme con justificaciones explicitadas
+  (categorías y entidades coincidentes, descomposición de scores, estadísticas
+  de búsqueda).
+  \item \textbf{Generador de reportes}: El módulo
+  \texttt{src/recommendation/report\_generator.py} define la clase
+  \textbf{ReportGenerator}, que cumple dos funciones: \emph{i)} construir un
+  diccionario de reporte estructurado listo para consumo tanto por la API como
+  por el frontend, y \emph{ii)} generar el PDF final con \texttt{reportlab}
+  (títulos, metadatos, secciones de artículos, resúmenes, entidades
+  destacadas y enlaces clicables). El método \texttt{generate\_pdf} refleja en
+  el diseño del documento los mismos elementos que se exponen en la versión de
+  texto plano, manteniendo consistencia entre formatos.
+\end{itemize}
+
+\subsection{API Web y Flujo de Peticiones}
+El proyecto ofrece una API ligera para consumo
+interactivo desde un frontend web o cliente externo. El archivo
+\texttt{src/api/api.py} implementa un servicio \textbf{FastAPI} que expone los
+siguientes elementos clave:
+\begin{itemize}
+  \item \textbf{Gestión de usuarios}: Endpoints para registro y autenticación
+  que crean y almacenan perfiles vectoriales en \texttt{users.json}, manteniendo
+  la lógica de construcción de perfiles en \textbf{UserProfileManager} y
+  \textbf{UserProfileVectorizer}.
+  \item \textbf{Sesiones y contexto de conversación}: Un pequeño mecanismo de
+  sesión en archivos JSON que permite conservar el contexto de interacción del
+  usuario (por ejemplo, consultas previas y reportes generados).
+  \item \textbf{Generación de reportes bajo demanda}: El endpoint
+  \texttt{/recommendations/generate-text-report} recibe el ID de usuario y una
+  consulta en lenguaje natural; internamente utiliza los componentes de
+  inicialización de vectorizadores y matcher, llama a
+  \texttt{generate\_report\_from\_user\_query} y devuelve tanto una versión de
+  texto plano como una versión estructurada lista para ser convertida en PDF.
+  \item \textbf{Gestión de PDFs}: Endpoints dedicados a generar y descargar
+  PDFs (\texttt{/reports/generate-pdf} y \texttt{/reports/download-pdf}), que
+  encapsulan el uso de \textbf{ReportGenerator} y administran el directorio de
+  salida de documentos.
+\end{itemize}
+
+En conjunto, estos componentes implementan de forma explícita el flujo descrito
+en la sección de Metodología: desde la captura de noticias y el modelado del
+perfil semántico del usuario, hasta el cálculo de relevancia, la síntesis del
+contenido y la entrega final de un reporte justificable y portable.
+
 \section{Aportes y Valor del Proyecto} El valor de Report Generator no radica
 en un único algoritmo, sino en la \textbf{integración sinérgica de múltiples
 técnicas de NLP en un flujo de trabajo automatizado de extremo a extremo}.
@@ -119,7 +249,7 @@ materializa el concepto de convertir datos (noticias en bruto) en conocimiento
 accionable (un reporte personalizado y resumido), resolviendo un problema real
 para cualquier persona que necesite mantenerse informada sobre temas específicos.
 \item \textbf{Inteligencia Artificial Pragmática y Explicable}: En lugar de una
-"caja negra", el sistema ofrece transparencia en sus recomendaciones. Este
+\textit{caja negra}, el sistema ofrece transparencia en sus recomendaciones. Este
 enfoque de IA Explicable (XAI) es fundamental para aplicaciones donde la
 confianza y la comprensión del usuario son prioritarias. \item
 \textbf{Flexibilidad Arquitectónica}: La arquitectura modular, como la capacidad

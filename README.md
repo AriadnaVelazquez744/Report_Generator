@@ -19,7 +19,6 @@ Install deps
 ---
 
 ```bash
-uv sync
 # optional: download NLP resources the project uses
 uv run python scripts/setup_nltk.py
 uv run python -m spacy download es_core_news_sm
@@ -33,7 +32,7 @@ To enable automatic news updates from Telegram, create a `.env` file in the proj
 ```bash
 api_id=YOUR_TELEGRAM_API_ID
 api_hash=YOUR_TELEGRAM_API_HASH
-tg_group_username=teleSURtv  # optional, defaults to "teleSURtv"
+tg_group_username=teleSUR_tv  # optional, defaults to "teleSUR_tv"
 ```
 
 **How to get Telegram API credentials:**
@@ -54,6 +53,8 @@ Run the API
 uv run python scripts/run_api.py
 # API lives at http://localhost:8000
 ```
+
+*Wait for the API to finish loading before opening the frontend.*
 
 Serve the frontend
 ---
