@@ -18,6 +18,12 @@ if TYPE_CHECKING:
 # GPE: Entidades geopolíticas
 ENTITY_TYPES_PRIORITY = {'PER', 'ORG', 'GPE', 'LOC'}
 
+# Stopwords que no deben contarse como keywords explícitos en el matching
+KEYWORD_STOP_TERMS = {
+    'que', 'con', 'el', 'la', 'los', 'las', 'un', 'una', 'unos', 'unas',
+    'y', 'o', 'u', 'de', 'del', 'al', 'en', 'por', 'para', 'a'
+}
+
 
 class SimpleMatcher:
     """Matcher simplificado y efectivo"""
@@ -312,6 +318,10 @@ class SimpleMatcher:
             for term in query_terms:
                 term_norm = term.strip().lower()
                 if not term_norm:
+                    continue
+
+                # Ignorar stopwords de baja importancia como keywords explícitos
+                if term_norm in KEYWORD_STOP_TERMS:
                     continue
 
                 # Coincidencia por palabra/frase completa usando límites de palabra
