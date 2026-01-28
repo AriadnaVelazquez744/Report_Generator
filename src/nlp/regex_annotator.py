@@ -4,8 +4,8 @@ Sistema de anotación con expresiones regulares
 import logging
 from typing import List, Dict, Set
 
-from src.nlp.regex_patterns import regex_extraccion
-from src.nlp.preprocessing import TextPreprocessor
+from regex_patterns import regex_extraccion
+from preprocessing import TextPreprocessor
 
 logger = logging.getLogger(__name__)
 
